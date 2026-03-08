@@ -12,6 +12,7 @@ import {
     net_get_shareholderResearch     // 获取股票的股东研究
 } from './index.js';
 import TDX_Reader  from './tdx_reader/index.js'
+import fs from 'node:fs'
 
 async function dowload_capitial() {
     const tdxReader = new TDX_Reader("C:/zd_zsone");
@@ -29,7 +30,11 @@ async function dowload_companySummery() {
 }
 
 (async () => {
-    await dowload_companySummery();
+    const tdxReader = new TDX_Reader("C://zd_zsone");
+    const codes = await tdxReader.all_market_codes();
+    fs.promises.writeFile("./codes.json", JSON.stringify(codes, null, 2), 'utf8')
+
+    // await dowload_companySummery();
     // let codes = takeAllLngbbd("D:/i
     // stock/data/f10", 'sh603233');
     // console.log(codes);

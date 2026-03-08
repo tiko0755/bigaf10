@@ -158,9 +158,9 @@ const download = (data_f10_dir, xcodes) => {
     return new Promise((resolve, reject) => {
         // 生成文件夹
         Promise.all([
-            fs.promises.mkdir(path.join(data_f10_dir, 'capitalStockHistory', `json_${todayStr}`), { recursive: true, existOk: true }),
-            fs.promises.mkdir(path.join(data_f10_dir, 'companySummery', `json_${todayStr}`), { recursive: true, existOk: true }),
-            fs.promises.mkdir(path.join(data_f10_dir, 'shareholderResearch', `json_${todayStr}`), { recursive: true, existOk: true })
+            fs.promises.mkdir(path.join(data_f10_dir, 'capitalStockHistory'), { recursive: true, existOk: true }),
+            fs.promises.mkdir(path.join(data_f10_dir, 'companySummery'), { recursive: true, existOk: true }),
+            fs.promises.mkdir(path.join(data_f10_dir, 'shareholderResearch'), { recursive: true, existOk: true })
         ]).then(()=>{
             // 将黑名单从xcodes中剔除
             const blacklist = readBlacklistSync(path.join(data_f10_dir, 'blacklist.json'));
@@ -197,7 +197,7 @@ const download = (data_f10_dir, xcodes) => {
 const download_capitalStockHistory = (data_f10_dir, xcodes)=>{
     return new Promise((resolve, reject) => {
         // 生成文件夹
-        fs.promises.mkdir(path.join(data_f10_dir, 'capitalStockHistory', `json_${todayStr}`), { recursive: true, existOk: true })
+        fs.promises.mkdir(path.join(data_f10_dir, 'capitalStockHistory'), { recursive: true, existOk: true })
         .then(()=>{
             // 将黑名单从xcodes中剔除
             const blacklist = readBlacklistSync(path.join(data_f10_dir, 'blacklist_capitalStockHistory.json'));
