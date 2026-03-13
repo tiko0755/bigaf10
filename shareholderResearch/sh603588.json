@@ -3,6 +3,34 @@
     {
       "SECUCODE": "603588.SH",
       "SECURITY_CODE": "603588",
+      "END_DATE": "2026-02-28 00:00:00",
+      "HOLDER_TOTAL_NUM": 43884,
+      "TOTAL_NUM_RATIO": 5.9974,
+      "AVG_FREE_SHARES": 34710,
+      "AVG_FREESHARES_RATIO": -5.658098623644,
+      "HOLD_FOCUS": "较分散",
+      "PRICE": 13.05,
+      "AVG_HOLD_AMT": 452971.69045324,
+      "HOLD_RATIO_TOTAL": null,
+      "FREEHOLD_RATIO_TOTAL": null
+    },
+    {
+      "SECUCODE": "603588.SH",
+      "SECURITY_CODE": "603588",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_TOTAL_NUM": 41401,
+      "TOTAL_NUM_RATIO": 1.5726,
+      "AVG_FREE_SHARES": 36792,
+      "AVG_FREESHARES_RATIO": -1.548271780875,
+      "HOLD_FOCUS": "较分散",
+      "PRICE": 7.72,
+      "AVG_HOLD_AMT": 284035.893047028,
+      "HOLD_RATIO_TOTAL": 34.07932631,
+      "FREEHOLD_RATIO_TOTAL": 34.07932631
+    },
+    {
+      "SECUCODE": "603588.SH",
+      "SECURITY_CODE": "603588",
       "END_DATE": "2025-09-30 00:00:00",
       "HOLDER_TOTAL_NUM": 40760,
       "TOTAL_NUM_RATIO": -16.762,
@@ -111,37 +139,13 @@
       "AVG_HOLD_AMT": 218090.936859687,
       "HOLD_RATIO_TOTAL": 34.45679379,
       "FREEHOLD_RATIO_TOTAL": 34.76934346
-    },
-    {
-      "SECUCODE": "603588.SH",
-      "SECURITY_CODE": "603588",
-      "END_DATE": "2023-12-31 00:00:00",
-      "HOLDER_TOTAL_NUM": 33069,
-      "TOTAL_NUM_RATIO": 16.7402,
-      "AVG_FREE_SHARES": 45682,
-      "AVG_FREESHARES_RATIO": -14.339713931477,
-      "HOLD_FOCUS": "较分散",
-      "PRICE": 6.0503329998,
-      "AVG_HOLD_AMT": 276396.745851733,
-      "HOLD_RATIO_TOTAL": 36.08859138,
-      "FREEHOLD_RATIO_TOTAL": 36.01650159
-    },
-    {
-      "SECUCODE": "603588.SH",
-      "SECURITY_CODE": "603588",
-      "END_DATE": "2023-09-30 00:00:00",
-      "HOLDER_TOTAL_NUM": 28327,
-      "TOTAL_NUM_RATIO": -4.9971,
-      "AVG_FREE_SHARES": 53330,
-      "AVG_FREESHARES_RATIO": 7.027240871103,
-      "HOLD_FOCUS": "较分散",
-      "PRICE": 8.696197278,
-      "AVG_HOLD_AMT": 463770.916804862,
-      "HOLD_RATIO_TOTAL": 36.14933892,
-      "FREEHOLD_RATIO_TOTAL": 35.79500155
     }
   ],
   "sdltgd_date": [
+    {
+      "SECUCODE": "603588.SH",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
     {
       "SECUCODE": "603588.SH",
       "END_DATE": "2025-09-30 00:00:00"
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603588.SH",
       "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603588.SH",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603588.SH",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603588.SH",
       "END_DATE": "2025-12-22 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603588.SH",
       "END_DATE": "2019-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "603588.SH",
-      "END_DATE": "2018-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -420,7 +420,7 @@
       "SECUCODE": "603588.SH",
       "SECURITY_CODE": "603588",
       "HOLDER_NAME": "李卫国",
-      "HOLD_RATIO": 16.328
+      "HOLD_RATIO": 16.33
     }
   ],
   "jgcc_date": [
@@ -500,17 +500,6 @@
       "HOLD_CHANGE": "-625000",
       "CHANGE_RATIO": -0.23723473,
       "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-07-24 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 47160845,
-      "HOLD_NUM_RATIO": 3.1,
-      "HOLD_CHANGE": "18032208",
-      "CHANGE_RATIO": 61.90543004,
-      "CHANGE_REASON": "临时公告"
     }
   ],
   "jjcg_date": [
@@ -540,60 +529,47 @@
     {
       "SECUCODE": "603588.SH",
       "SECURITY_CODE": "603588",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "李卫国",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 263452149,
-      "FREE_HOLDNUM_RATIO": 17.295574413335,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 248714649,
+      "FREE_HOLDNUM_RATIO": 16.328060848219,
+      "HOLD_NUM_CHANGE": "-14737500",
+      "CHANGE_RATIO": -5.59399498
     },
     {
       "SECUCODE": "603588.SH",
       "SECURITY_CODE": "603588",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "刘泽军",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 48131953,
-      "FREE_HOLDNUM_RATIO": 3.159851904532,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 51301953,
+      "FREE_HOLDNUM_RATIO": 3.367961692584,
+      "HOLD_NUM_CHANGE": "3170000",
+      "CHANGE_RATIO": 6.58606145
     },
     {
       "SECUCODE": "603588.SH",
       "SECURITY_CODE": "603588",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 46945575,
-      "FREE_HOLDNUM_RATIO": 3.08196645528,
-      "HOLD_NUM_CHANGE": "-215270",
-      "CHANGE_RATIO": -0.45645917
-    },
-    {
-      "SECUCODE": "603588.SH",
-      "SECURITY_CODE": "603588",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "许利民",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 44740721,
-      "FREE_HOLDNUM_RATIO": 2.937218285366,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 47290721,
+      "FREE_HOLDNUM_RATIO": 3.104625212664,
+      "HOLD_NUM_CHANGE": "2550000",
+      "CHANGE_RATIO": 5.69950583
     },
     {
       "SECUCODE": "603588.SH",
       "SECURITY_CODE": "603588",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "向锦明",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -605,46 +581,59 @@
     {
       "SECUCODE": "603588.SH",
       "SECURITY_CODE": "603588",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "柯朋",
-      "HOLDER_TYPE": "个人",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 26285149,
-      "FREE_HOLDNUM_RATIO": 1.725614128489,
-      "HOLD_NUM_CHANGE": "-10000",
-      "CHANGE_RATIO": -0.03802983
+      "HOLD_NUM": 29261632,
+      "FREE_HOLDNUM_RATIO": 1.921019568953,
+      "HOLD_NUM_CHANGE": "-17683943",
+      "CHANGE_RATIO": -37.66903057
     },
     {
       "SECUCODE": "603588.SH",
       "SECURITY_CODE": "603588",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "李兴国",
-      "HOLDER_TYPE": "个人",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "全国社保基金四一四组合",
+      "HOLDER_TYPE": "全国社保基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 25262586,
-      "FREE_HOLDNUM_RATIO": 1.658483097195,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 27299943,
+      "FREE_HOLDNUM_RATIO": 1.792235126677,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603588.SH",
       "SECURITY_CODE": "603588",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "澳门金融管理局-自有资金",
-      "HOLDER_TYPE": "QFII",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "柯朋",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 19821700,
-      "FREE_HOLDNUM_RATIO": 1.30129015326,
-      "HOLD_NUM_CHANGE": "1654600",
-      "CHANGE_RATIO": 9.10767266
+      "HOLD_NUM": 25885149,
+      "FREE_HOLDNUM_RATIO": 1.699354218324,
+      "HOLD_NUM_CHANGE": "-400000",
+      "CHANGE_RATIO": -1.52177186
     },
     {
       "SECUCODE": "603588.SH",
       "SECURITY_CODE": "603588",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "李兴国",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 25102586,
+      "FREE_HOLDNUM_RATIO": 1.64797913313,
+      "HOLD_NUM_CHANGE": "-160000",
+      "CHANGE_RATIO": -0.63334767
+    },
+    {
+      "SECUCODE": "603588.SH",
+      "SECURITY_CODE": "603588",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "叶早君",
       "HOLDER_TYPE": "个人",
@@ -657,7 +646,7 @@
     {
       "SECUCODE": "603588.SH",
       "SECURITY_CODE": "603588",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "华安基金-兴业银行-青岛城投金融控股集团有限公司",
       "HOLDER_TYPE": "其他理财产品",
@@ -672,27 +661,135 @@
     {
       "SECUCODE": "603588.SH",
       "SECURITY_CODE": "603588",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 538891241,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLD_NUM_COUNT": 519108041,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 984343216,
-      "HOLD_NUM_RATIO": 35.38,
+      "OTHER_UNLIMITED_SHARES": 1004126416,
+      "HOLD_NUM_RATIO": 34.08,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 64.62
+      "UNLIMITED_SHARES_RATIO": 65.92
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603588.SH",
       "SECURITY_CODE": "603588",
-      "END_DATE": "2025-12-22 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "李卫国",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 248714649,
       "HOLD_NUM_RATIO": 16.33,
-      "HOLD_NUM_CHANGE": "-6950000",
-      "CHANGE_RATIO": -2.71840476
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603588.SH",
+      "SECURITY_CODE": "603588",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "刘泽军",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 51301953,
+      "HOLD_NUM_RATIO": 3.37,
+      "HOLD_NUM_CHANGE": "3170000",
+      "CHANGE_RATIO": 6.58606145
+    },
+    {
+      "SECUCODE": "603588.SH",
+      "SECURITY_CODE": "603588",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "许利民",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 47290721,
+      "HOLD_NUM_RATIO": 3.1,
+      "HOLD_NUM_CHANGE": "2550000",
+      "CHANGE_RATIO": 5.69950583
+    },
+    {
+      "SECUCODE": "603588.SH",
+      "SECURITY_CODE": "603588",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "向锦明",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 35848551,
+      "HOLD_NUM_RATIO": 2.35,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603588.SH",
+      "SECURITY_CODE": "603588",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 29261632,
+      "HOLD_NUM_RATIO": 1.92,
+      "HOLD_NUM_CHANGE": "-17683943",
+      "CHANGE_RATIO": -37.66903057
+    },
+    {
+      "SECUCODE": "603588.SH",
+      "SECURITY_CODE": "603588",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "全国社保基金四一四组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 27299943,
+      "HOLD_NUM_RATIO": 1.79,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603588.SH",
+      "SECURITY_CODE": "603588",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "柯朋",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 25885149,
+      "HOLD_NUM_RATIO": 1.7,
+      "HOLD_NUM_CHANGE": "-400000",
+      "CHANGE_RATIO": -1.52177186
+    },
+    {
+      "SECUCODE": "603588.SH",
+      "SECURITY_CODE": "603588",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "李兴国",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 25102586,
+      "HOLD_NUM_RATIO": 1.65,
+      "HOLD_NUM_CHANGE": "-160000",
+      "CHANGE_RATIO": -0.63334767
+    },
+    {
+      "SECUCODE": "603588.SH",
+      "SECURITY_CODE": "603588",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "叶早君",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 15010000,
+      "HOLD_NUM_RATIO": 0.99,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603588.SH",
+      "SECURITY_CODE": "603588",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "华安基金-兴业银行-青岛城投金融控股集团有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 13392857,
+      "HOLD_NUM_RATIO": 0.88,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
@@ -701,10 +798,10 @@
       "SECURITY_CODE": "603588",
       "REPORT_DATE": "2025-12-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 9,
-      "TOTAL_FREE_SHARES": 2752429,
-      "TOTAL_SHARES_RATIO": 0.18069635,
-      "ALL_SHARES_RATIO": 0.18069635
+      "TOTAL_ORG_NUM": 12,
+      "TOTAL_FREE_SHARES": 72706861,
+      "TOTAL_SHARES_RATIO": 4.7731891,
+      "ALL_SHARES_RATIO": 4.7731891
     },
     {
       "SECUCODE": "603588.SH",
@@ -715,6 +812,26 @@
       "TOTAL_FREE_SHARES": 2752429,
       "TOTAL_SHARES_RATIO": 0.18069635,
       "ALL_SHARES_RATIO": 0.18069635
+    },
+    {
+      "SECUCODE": "603588.SH",
+      "SECURITY_CODE": "603588",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 27299943,
+      "TOTAL_SHARES_RATIO": 1.79223513,
+      "ALL_SHARES_RATIO": 1.79223513
+    },
+    {
+      "SECUCODE": "603588.SH",
+      "SECURITY_CODE": "603588",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 42654489,
+      "TOTAL_SHARES_RATIO": 2.80025762,
+      "ALL_SHARES_RATIO": 2.80025762
     }
   ],
   "jjcg": [
