@@ -106,7 +106,7 @@
       "TOTAL_NUM_RATIO": -0.722,
       "AVG_FREE_SHARES": 29697,
       "AVG_FREESHARES_RATIO": 0.727272727273,
-      "HOLD_FOCUS": "非常集中",
+      "HOLD_FOCUS": "较集中",
       "PRICE": 6.39,
       "AVG_HOLD_AMT": 189769.501785124,
       "HOLD_RATIO_TOTAL": 47.43355034,
@@ -164,6 +164,11 @@
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603879.SH",
+      "END_DATE": "2026-03-19 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
     {
       "SECUCODE": "603879.SH",
       "END_DATE": "2025-10-23 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603879.SH",
       "END_DATE": "2020-12-11 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "603879.SH",
-      "END_DATE": "2020-12-10 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -445,7 +445,19 @@
       "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-03-19 00:00:00",
+      "HOLDER_RANK": 1,
+      "HOLDER_NAME": "江苏华英企业管理股份有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 58659500,
+      "HOLD_NUM_RATIO": 16.324,
+      "HOLD_CHANGE": "-3500000",
+      "CHANGE_RATIO": -5.63067592,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "603879.SH",
@@ -618,31 +630,31 @@
     {
       "SECUCODE": "603879.SH",
       "SECURITY_CODE": "603879",
-      "END_DATE": "2025-10-23 00:00:00",
+      "END_DATE": "2026-03-19 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "江苏华英企业管理股份有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 62159500,
-      "HOLD_NUM_RATIO": 17.3,
+      "HOLD_NUM": 58659500,
+      "HOLD_NUM_RATIO": 16.324,
+      "HOLD_NUM_CHANGE": "-3500000",
+      "CHANGE_RATIO": -5.63067592
+    },
+    {
+      "SECUCODE": "603879.SH",
+      "SECURITY_CODE": "603879",
+      "END_DATE": "2026-03-19 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "广州万江通讯技术有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 36000000,
+      "HOLD_NUM_RATIO": 10.02,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603879.SH",
       "SECURITY_CODE": "603879",
-      "END_DATE": "2025-10-23 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "广州万江通讯技术有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 36000000,
-      "HOLD_NUM_RATIO": 10.02,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603879.SH",
-      "SECURITY_CODE": "603879",
-      "END_DATE": "2025-10-23 00:00:00",
+      "END_DATE": "2026-03-19 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "北京合易盈通资产管理有限公司-盈通丰泽三号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
@@ -658,20 +670,20 @@
       "SECURITY_CODE": "603879",
       "REPORT_DATE": "2025-12-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 2454600,
-      "TOTAL_SHARES_RATIO": 0.68307721,
-      "ALL_SHARES_RATIO": 0.68307721
+      "TOTAL_ORG_NUM": 12,
+      "TOTAL_FREE_SHARES": 2884200,
+      "TOTAL_SHARES_RATIO": 0.80262824,
+      "ALL_SHARES_RATIO": 0.80262824
     },
     {
       "SECUCODE": "603879.SH",
       "SECURITY_CODE": "603879",
       "REPORT_DATE": "2025-12-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 2454600,
-      "TOTAL_SHARES_RATIO": 0.68307721,
-      "ALL_SHARES_RATIO": 0.68307721
+      "TOTAL_ORG_NUM": 12,
+      "TOTAL_FREE_SHARES": 2884200,
+      "TOTAL_SHARES_RATIO": 0.80262824,
+      "ALL_SHARES_RATIO": 0.80262824
     }
   ],
   "jjcg": [
@@ -708,6 +720,23 @@
       "FUND_CODE": "020151",
       "FUND_DERIVECODE": "020151.OF",
       "NETVALUE_RATIO": 0.48
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603879.SH",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "HOLDER_CODE": "005109",
+      "HOLDER_NAME": "汇安多策略混合A",
+      "TOTAL_SHARES": 360000,
+      "HOLD_VALUE": 2548800,
+      "TOTALSHARES_RATIO": 0.10018243,
+      "FREESHARES_RATIO": 0.10018243,
+      "FREE_MARKET_CAP": 2548800,
+      "FREE_SHARES": 360000,
+      "SECURITY_CODE": "603879",
+      "FUND_CODE": "005109",
+      "FUND_DERIVECODE": "005109.OF",
+      "NETVALUE_RATIO": 0.6
     },
     {
       "ORG_TYPE": "01",
@@ -764,6 +793,57 @@
       "ORG_TYPE": "01",
       "SECUCODE": "603879.SH",
       "REPORT_DATE": "2025-12-31 00:00:00",
+      "HOLDER_CODE": "008251",
+      "HOLDER_NAME": "汇安宜创量化精选混合A",
+      "TOTAL_SHARES": 22000,
+      "HOLD_VALUE": 155760,
+      "TOTALSHARES_RATIO": 0.00612226,
+      "FREESHARES_RATIO": 0.00612226,
+      "FREE_MARKET_CAP": 155760,
+      "FREE_SHARES": 22000,
+      "SECURITY_CODE": "603879",
+      "FUND_CODE": "008251",
+      "FUND_DERIVECODE": "008251.OF",
+      "NETVALUE_RATIO": 0.26
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603879.SH",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "HOLDER_CODE": "024081",
+      "HOLDER_NAME": "国联稳健添益债券A",
+      "TOTAL_SHARES": 17300,
+      "HOLD_VALUE": 122484,
+      "TOTALSHARES_RATIO": 0.00481432,
+      "FREESHARES_RATIO": 0.00481432,
+      "FREE_MARKET_CAP": 122484,
+      "FREE_SHARES": 17300,
+      "SECURITY_CODE": "603879",
+      "FUND_CODE": "024081",
+      "FUND_DERIVECODE": "024081.OF",
+      "NETVALUE_RATIO": 0.04
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603879.SH",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "HOLDER_CODE": "016091",
+      "HOLDER_NAME": "汇泉匠心智选一年持有混合A",
+      "TOTAL_SHARES": 12900,
+      "HOLD_VALUE": 91332,
+      "TOTALSHARES_RATIO": 0.00358987,
+      "FREESHARES_RATIO": 0.00358987,
+      "FREE_MARKET_CAP": 91332,
+      "FREE_SHARES": 12900,
+      "SECURITY_CODE": "603879",
+      "FUND_CODE": "016091",
+      "FUND_DERIVECODE": "016091.OF",
+      "NETVALUE_RATIO": 0.19
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603879.SH",
+      "REPORT_DATE": "2025-12-31 00:00:00",
       "HOLDER_CODE": "014827",
       "HOLDER_NAME": "汇泉启元未来混合发起式A",
       "TOTAL_SHARES": 12500,
@@ -776,6 +856,40 @@
       "FUND_CODE": "014827",
       "FUND_DERIVECODE": "014827.OF",
       "NETVALUE_RATIO": 0.56
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603879.SH",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "HOLDER_CODE": "010584",
+      "HOLDER_NAME": "渤海汇金新动能主题混合A",
+      "TOTAL_SHARES": 12000,
+      "HOLD_VALUE": 84960,
+      "TOTALSHARES_RATIO": 0.00333941,
+      "FREESHARES_RATIO": 0.00333941,
+      "FREE_MARKET_CAP": 84960,
+      "FREE_SHARES": 12000,
+      "SECURITY_CODE": "603879",
+      "FUND_CODE": "010584",
+      "FUND_DERIVECODE": "010584.OF",
+      "NETVALUE_RATIO": 0.17
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603879.SH",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "HOLDER_CODE": "001403",
+      "HOLDER_NAME": "招商国企改革主题混合",
+      "TOTAL_SHARES": 5400,
+      "HOLD_VALUE": 38232,
+      "TOTALSHARES_RATIO": 0.00150274,
+      "FREESHARES_RATIO": 0.00150274,
+      "FREE_MARKET_CAP": 38232,
+      "FREE_SHARES": 5400,
+      "SECURITY_CODE": "603879",
+      "FUND_CODE": "001403",
+      "FUND_DERIVECODE": "001403.OF",
+      "NETVALUE_RATIO": 0.03
     }
   ]
 }

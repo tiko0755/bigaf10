@@ -166,6 +166,16 @@
   "sdgd_date": [
     {
       "SECUCODE": "900916.SH",
+      "END_DATE": "2026-03-27 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "900916.SH",
+      "END_DATE": "2026-03-17 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "900916.SH",
       "END_DATE": "2025-09-30 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -403,16 +413,6 @@
       "SECUCODE": "900916.SH",
       "END_DATE": "2016-12-16 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "900916.SH",
-      "END_DATE": "2016-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "900916.SH",
-      "END_DATE": "2016-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -445,7 +445,41 @@
       "REPORT_DATE": "2024-09-30 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-03-27 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "招商证券(香港)有限公司",
+      "SHARES_TYPE": "流通B股",
+      "HOLD_NUM": 1719073,
+      "HOLD_NUM_RATIO": 0.33,
+      "HOLD_CHANGE": "95000",
+      "CHANGE_RATIO": 5.84949076,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-03-17 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "GUOTAI JUNAN SECURITIES(HONG KONG)LIMITED",
+      "SHARES_TYPE": "流通B股",
+      "HOLD_NUM": 7143341,
+      "HOLD_NUM_RATIO": 1.39,
+      "HOLD_CHANGE": "-5700",
+      "CHANGE_RATIO": -0.07973097,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-03-17 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "汪荣生",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3328901,
+      "HOLD_NUM_RATIO": 0.65,
+      "HOLD_CHANGE": "618000",
+      "CHANGE_RATIO": 22.79684872,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [],
   "xsjj": [],
   "sdltgd": [
@@ -597,7 +631,7 @@
     {
       "SECUCODE": "900916.SH",
       "SECURITY_CODE": "900916",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-27 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海市金山区国有资产监督管理委员会",
       "SHARES_TYPE": "流通A股",
@@ -609,7 +643,7 @@
     {
       "SECUCODE": "900916.SH",
       "SECURITY_CODE": "900916",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-27 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "江苏美乐投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -621,68 +655,56 @@
     {
       "SECUCODE": "900916.SH",
       "SECURITY_CODE": "900916",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-27 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "王翔宇",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 17493381,
       "HOLD_NUM_RATIO": 3.39,
-      "HOLD_NUM_CHANGE": "361800",
-      "CHANGE_RATIO": 2.11188915
-    },
-    {
-      "SECUCODE": "900916.SH",
-      "SECURITY_CODE": "900916",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "上海金山资本管理集团有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8361290,
-      "HOLD_NUM_RATIO": 1.62,
-      "HOLD_NUM_CHANGE": "2564700",
-      "CHANGE_RATIO": 44.24497851
-    },
-    {
-      "SECUCODE": "900916.SH",
-      "SECURITY_CODE": "900916",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "GUOTAI JUNAN SECURITIES(HONG KONG)LIMITED",
-      "SHARES_TYPE": "流通B股",
-      "HOLD_NUM": 7149041,
-      "HOLD_NUM_RATIO": 1.39,
-      "HOLD_NUM_CHANGE": "1389042",
-      "CHANGE_RATIO": 24.11531669
-    },
-    {
-      "SECUCODE": "900916.SH",
-      "SECURITY_CODE": "900916",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "汪荣生",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2710901,
-      "HOLD_NUM_RATIO": 0.53,
-      "HOLD_NUM_CHANGE": "445400",
-      "CHANGE_RATIO": 19.6601105
-    },
-    {
-      "SECUCODE": "900916.SH",
-      "SECURITY_CODE": "900916",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "招商证券(香港)有限公司",
-      "SHARES_TYPE": "流通B股",
-      "HOLD_NUM": 1624073,
-      "HOLD_NUM_RATIO": 0.32,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "900916.SH",
       "SECURITY_CODE": "900916",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-27 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "上海金山资本管理集团有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 8361290,
+      "HOLD_NUM_RATIO": 1.62,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "900916.SH",
+      "SECURITY_CODE": "900916",
+      "END_DATE": "2026-03-27 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "GUOTAI JUNAN SECURITIES(HONG KONG) LIMITED",
+      "SHARES_TYPE": "流通B股",
+      "HOLD_NUM": 7143341,
+      "HOLD_NUM_RATIO": 1.39,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "900916.SH",
+      "SECURITY_CODE": "900916",
+      "END_DATE": "2026-03-27 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "招商证券(香港)有限公司",
+      "SHARES_TYPE": "流通B股",
+      "HOLD_NUM": 1719073,
+      "HOLD_NUM_RATIO": 0.33,
+      "HOLD_NUM_CHANGE": "95000",
+      "CHANGE_RATIO": 5.84949076
+    },
+    {
+      "SECUCODE": "900916.SH",
+      "SECURITY_CODE": "900916",
+      "END_DATE": "2026-03-27 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "周晓建",
       "SHARES_TYPE": "流通B股",
       "HOLD_NUM": 1380255,
@@ -693,8 +715,8 @@
     {
       "SECUCODE": "900916.SH",
       "SECURITY_CODE": "900916",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-27 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "SHENWAN HONGYUAN NOMINEES(H.K.)LIMITED",
       "SHARES_TYPE": "流通B股",
       "HOLD_NUM": 1092602,
@@ -705,14 +727,26 @@
     {
       "SECUCODE": "900916.SH",
       "SECURITY_CODE": "900916",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中证上海国企交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1088902,
+      "END_DATE": "2026-03-27 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "唐小路",
+      "SHARES_TYPE": "流通B股",
+      "HOLD_NUM": 1070620,
       "HOLD_NUM_RATIO": 0.21,
-      "HOLD_NUM_CHANGE": "-140200",
-      "CHANGE_RATIO": -11.4067018
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "900916.SH",
+      "SECURITY_CODE": "900916",
+      "END_DATE": "2026-03-27 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "王忠盛",
+      "SHARES_TYPE": "流通B股",
+      "HOLD_NUM": 1030130,
+      "HOLD_NUM_RATIO": 0.2,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [

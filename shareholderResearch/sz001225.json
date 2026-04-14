@@ -3,6 +3,34 @@
     {
       "SECUCODE": "001225.SZ",
       "SECURITY_CODE": "001225",
+      "END_DATE": "2026-02-28 00:00:00",
+      "HOLDER_TOTAL_NUM": 4778,
+      "TOTAL_NUM_RATIO": -10.8416,
+      "AVG_FREE_SHARES": 4403,
+      "AVG_FREESHARES_RATIO": 12.159899539556,
+      "HOLD_FOCUS": "非常集中",
+      "PRICE": 81.95,
+      "AVG_HOLD_AMT": 360847.100742989,
+      "HOLD_RATIO_TOTAL": null,
+      "FREEHOLD_RATIO_TOTAL": null
+    },
+    {
+      "SECUCODE": "001225.SZ",
+      "SECURITY_CODE": "001225",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_TOTAL_NUM": 5359,
+      "TOTAL_NUM_RATIO": -23.0802,
+      "AVG_FREE_SHARES": 3925,
+      "AVG_FREESHARES_RATIO": 30.005598059339,
+      "HOLD_FOCUS": "非常集中",
+      "PRICE": 57.17,
+      "AVG_HOLD_AMT": 224442.368428811,
+      "HOLD_RATIO_TOTAL": 76.63647088,
+      "FREEHOLD_RATIO_TOTAL": 36.40356783
+    },
+    {
+      "SECUCODE": "001225.SZ",
+      "SECURITY_CODE": "001225",
       "END_DATE": "2025-09-30 00:00:00",
       "HOLDER_TOTAL_NUM": 6967,
       "TOTAL_NUM_RATIO": -18.8185,
@@ -111,37 +139,13 @@
       "AVG_HOLD_AMT": 43396.3591690855,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
-    },
-    {
-      "SECUCODE": "001225.SZ",
-      "SECURITY_CODE": "001225",
-      "END_DATE": "2023-12-31 00:00:00",
-      "HOLDER_TOTAL_NUM": 11412,
-      "TOTAL_NUM_RATIO": -7.6101,
-      "AVG_FREE_SHARES": 1416,
-      "AVG_FREESHARES_RATIO": 8.236943568174,
-      "HOLD_FOCUS": "非常集中",
-      "PRICE": 36.3806274173,
-      "AVG_HOLD_AMT": 51538.5845890296,
-      "HOLD_RATIO_TOTAL": 76.47123408,
-      "FREEHOLD_RATIO_TOTAL": 7.89333696
-    },
-    {
-      "SECUCODE": "001225.SZ",
-      "SECURITY_CODE": "001225",
-      "END_DATE": "2023-09-30 00:00:00",
-      "HOLDER_TOTAL_NUM": 12352,
-      "TOTAL_NUM_RATIO": -8.6593,
-      "AVG_FREE_SHARES": 1308,
-      "AVG_FREESHARES_RATIO": 9.48024611399,
-      "HOLD_FOCUS": "较集中",
-      "PRICE": 38.8937933694,
-      "AVG_HOLD_AMT": 50905.7787114974,
-      "HOLD_RATIO_TOTAL": 76.42113109,
-      "FREEHOLD_RATIO_TOTAL": 7.73622486
     }
   ],
   "sdltgd_date": [
+    {
+      "SECUCODE": "001225.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
     {
       "SECUCODE": "001225.SZ",
       "END_DATE": "2025-09-30 00:00:00"
@@ -157,10 +161,6 @@
     {
       "SECUCODE": "001225.SZ",
       "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "001225.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
@@ -173,6 +173,11 @@
       "SECUCODE": "001225.SZ",
       "END_DATE": "2026-01-05 00:00:00",
       "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "001225.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
     },
     {
       "SECUCODE": "001225.SZ",
@@ -266,6 +271,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "001225.SZ",
+      "REPORT_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "001225.SZ",
       "REPORT_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -279,10 +288,6 @@
     {
       "SECUCODE": "001225.SZ",
       "REPORT_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "001225.SZ",
-      "REPORT_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgdcgbd": [
@@ -304,12 +309,16 @@
       "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 7194600,
       "HOLD_NUM_RATIO": 10.92,
-      "HOLD_CHANGE": "-1305400",
-      "CHANGE_RATIO": -15.35764706,
+      "HOLD_CHANGE": "-861700",
+      "CHANGE_RATIO": -10.69597706,
       "CHANGE_REASON": "临时公告"
     }
   ],
   "jjcg_date": [
+    {
+      "SECUCODE": "001225.SZ",
+      "REPORT_DATE": "2025-12-31 00:00:00"
+    },
     {
       "SECUCODE": "001225.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
@@ -325,10 +334,6 @@
     {
       "SECUCODE": "001225.SZ",
       "REPORT_DATE": "2024-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "001225.SZ",
-      "REPORT_DATE": "2023-12-31 00:00:00"
     }
   ],
   "xsjj": [
@@ -340,15 +345,6 @@
       "LIFT_TYPE": "追加承诺限售股份上市流通",
       "TOTAL_SHARES_RATIO": 66.24,
       "UNLIMITED_A_SHARES_RATIO": 207.37
-    },
-    {
-      "SECUCODE": "001225.SZ",
-      "SECURITY_CODE": "001225",
-      "LIFT_DATE": "2026-09-10 00:00:00",
-      "LIFT_NUM": 240000,
-      "LIFT_TYPE": "股权激励限售股份",
-      "TOTAL_SHARES_RATIO": 0.36,
-      "UNLIMITED_A_SHARES_RATIO": 1.14
     },
     {
       "SECUCODE": "001225.SZ",
@@ -373,145 +369,145 @@
     {
       "SECUCODE": "001225.SZ",
       "SECURITY_CODE": "001225",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "杭州海泰精华创业投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4871973,
-      "FREE_HOLDNUM_RATIO": 23.157115673999,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 4428273,
+      "FREE_HOLDNUM_RATIO": 21.048152380369,
+      "HOLD_NUM_CHANGE": "-443700",
+      "CHANGE_RATIO": -9.10719333
     },
     {
       "SECUCODE": "001225.SZ",
       "SECURITY_CODE": "001225",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "王堂根",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 250200,
-      "FREE_HOLDNUM_RATIO": 1.189232851174,
+      "HOLD_NUM": 505748,
+      "FREE_HOLDNUM_RATIO": 2.403885435714,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "001225.SZ",
       "SECURITY_CODE": "001225",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "周显玉",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 230000,
-      "FREE_HOLDNUM_RATIO": 1.093219647363,
-      "HOLD_NUM_CHANGE": "60000",
-      "CHANGE_RATIO": 35.29411765
-    },
-    {
-      "SECUCODE": "001225.SZ",
-      "SECURITY_CODE": "001225",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "烟台招金私募投资基金管理有限公司-招金FOF精选1号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 227200,
-      "FREE_HOLDNUM_RATIO": 1.079910886438,
+      "HOLD_NUM": 480600,
+      "FREE_HOLDNUM_RATIO": 2.284353750098,
+      "HOLD_NUM_CHANGE": "253400",
+      "CHANGE_RATIO": 111.53169014
+    },
+    {
+      "SECUCODE": "001225.SZ",
+      "SECURITY_CODE": "001225",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "刘科全",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 390000,
+      "FREE_HOLDNUM_RATIO": 1.853720271615,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "001225.SZ",
       "SECURITY_CODE": "001225",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "浙江银万私募基金管理有限公司-银万丰泽精选2号私募证券投资基金",
+      "HOLDER_NAME": "烟台招金私募投资基金管理有限公司-招金期权稳健1号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 226000,
-      "FREE_HOLDNUM_RATIO": 1.074207131756,
+      "HOLD_NUM": 368200,
+      "FREE_HOLDNUM_RATIO": 1.75010206156,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "001225.SZ",
       "SECURITY_CODE": "001225",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "陈军",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 221900,
-      "FREE_HOLDNUM_RATIO": 1.05471930326,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "001225.SZ",
-      "SECURITY_CODE": "001225",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "沈志刚",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 211500,
-      "FREE_HOLDNUM_RATIO": 1.005286762683,
-      "HOLD_NUM_CHANGE": "56900",
-      "CHANGE_RATIO": 36.80465718
-    },
-    {
-      "SECUCODE": "001225.SZ",
-      "SECURITY_CODE": "001225",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "HOLDER_NAME": "UBS AG",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 189491,
-      "FREE_HOLDNUM_RATIO": 0.900675148689,
+      "HOLD_NUM": 364112,
+      "FREE_HOLDNUM_RATIO": 1.730671270611,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "001225.SZ",
       "SECURITY_CODE": "001225",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中信证券资产管理(香港)有限公司-客户资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 313031,
+      "FREE_HOLDNUM_RATIO": 1.487876693189,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "001225.SZ",
+      "SECURITY_CODE": "001225",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "法国兴业银行",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 280600,
+      "FREE_HOLDNUM_RATIO": 1.333727969782,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "001225.SZ",
+      "SECURITY_CODE": "001225",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "宁波沪通私募基金管理合伙企业(有限合伙)-沪通私享一号私募证券投资基金",
+      "HOLDER_NAME": "北京风炎投资管理有限公司-北京风炎鑫泓6号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 179500,
-      "FREE_HOLDNUM_RATIO": 0.853186637833,
+      "HOLD_NUM": 276500,
+      "FREE_HOLDNUM_RATIO": 1.314240141286,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "001225.SZ",
       "SECURITY_CODE": "001225",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
-      "HOLDER_TYPE": "QFII",
+      "HOLDER_NAME": "深圳鼎呈投资管理有限公司-鼎呈价值15号私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 174250,
-      "FREE_HOLDNUM_RATIO": 0.8282327111,
-      "HOLD_NUM_CHANGE": "24042",
-      "CHANGE_RATIO": 16.00580528
+      "HOLD_NUM": 251800,
+      "FREE_HOLDNUM_RATIO": 1.196837857417,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "001225.SZ",
       "SECURITY_CODE": "001225",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 6782014,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLD_NUM_COUNT": 7658864,
       "LIMITED_SHARES": 44828027,
-      "OTHER_UNLIMITED_SHARES": 14256759,
-      "HOLD_NUM_RATIO": 10.3,
+      "OTHER_UNLIMITED_SHARES": 13379909,
+      "HOLD_NUM_RATIO": 11.63,
       "LIMITED_SHARES_RATIO": 68.06,
-      "UNLIMITED_SHARES_RATIO": 21.64
+      "UNLIMITED_SHARES_RATIO": 20.31
     }
   ],
   "sdgd": [
@@ -544,255 +540,95 @@
     {
       "SECUCODE": "001225.SZ",
       "SECURITY_CODE": "001225",
-      "REPORT_DATE": "2025-09-30 00:00:00",
+      "REPORT_DATE": "2025-12-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 9496441,
-      "TOTAL_SHARES_RATIO": 27.89332819,
-      "ALL_SHARES_RATIO": 8.90951738
+      "TOTAL_ORG_NUM": 12,
+      "TOTAL_FREE_SHARES": 10904791,
+      "TOTAL_SHARES_RATIO": 34.58739728,
+      "ALL_SHARES_RATIO": 11.04769626
     },
     {
       "SECUCODE": "001225.SZ",
       "SECURITY_CODE": "001225",
-      "REPORT_DATE": "2025-09-30 00:00:00",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "ORG_TYPE": "01",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 7900,
+      "TOTAL_SHARES_RATIO": 0.03754972,
+      "ALL_SHARES_RATIO": 0.0119939
+    },
+    {
+      "SECUCODE": "001225.SZ",
+      "SECURITY_CODE": "001225",
+      "REPORT_DATE": "2025-12-31 00:00:00",
       "ORG_TYPE": "02",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 363741,
-      "TOTAL_SHARES_RATIO": 1.72890786,
-      "ALL_SHARES_RATIO": 0.55223724
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 1463491,
+      "TOTAL_SHARES_RATIO": 6.95616137,
+      "ALL_SHARES_RATIO": 2.22189479
     },
     {
       "SECUCODE": "001225.SZ",
       "SECURITY_CODE": "001225",
-      "REPORT_DATE": "2025-09-30 00:00:00",
+      "REPORT_DATE": "2025-12-31 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 9132700,
-      "TOTAL_SHARES_RATIO": 26.16442033,
-      "ALL_SHARES_RATIO": 8.35728014
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 9433400,
+      "TOTAL_SHARES_RATIO": 27.59368619,
+      "ALL_SHARES_RATIO": 8.81380757
     }
   ],
   "jjcg": [
     {
       "ORG_TYPE": "01",
       "SECUCODE": "001225.SZ",
-      "REPORT_DATE": "2025-06-30 00:00:00",
-      "HOLDER_CODE": "320016",
-      "HOLDER_NAME": "诺安多策略混合A",
-      "TOTAL_SHARES": 304300,
-      "HOLD_VALUE": 10595726,
-      "TOTALSHARES_RATIO": 0.47056604,
-      "FREESHARES_RATIO": 1.44637712,
-      "FREE_MARKET_CAP": 10595726,
-      "FREE_SHARES": 304300,
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "HOLDER_CODE": "512190",
+      "HOLDER_NAME": "浙商汇金中证浙江凤凰行动50ETF",
+      "TOTAL_SHARES": 7600,
+      "HOLD_VALUE": 434492,
+      "TOTALSHARES_RATIO": 0.01153844,
+      "FREESHARES_RATIO": 0.03612378,
+      "FREE_MARKET_CAP": 434492,
+      "FREE_SHARES": 7600,
       "SECURITY_CODE": "001225",
-      "FUND_CODE": "320016",
-      "FUND_DERIVECODE": "320016.OF",
-      "NETVALUE_RATIO": 0.43
+      "FUND_CODE": "512190",
+      "FUND_DERIVECODE": "512190.SH",
+      "NETVALUE_RATIO": 0.25
     },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "001225.SZ",
-      "REPORT_DATE": "2025-06-30 00:00:00",
-      "HOLDER_CODE": "970016",
-      "HOLDER_NAME": "中信建投价值增长A",
-      "TOTAL_SHARES": 41100,
-      "HOLD_VALUE": 1431102,
-      "TOTALSHARES_RATIO": 0.06355657,
-      "FREESHARES_RATIO": 0.1953536,
-      "FREE_MARKET_CAP": 1431102,
-      "FREE_SHARES": 41100,
-      "SECURITY_CODE": "001225",
-      "FUND_CODE": "970016",
-      "FUND_DERIVECODE": "970016.OF",
-      "NETVALUE_RATIO": 0.18
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "001225.SZ",
-      "REPORT_DATE": "2025-06-30 00:00:00",
-      "HOLDER_CODE": "006195",
-      "HOLDER_NAME": "国金量化多因子A",
-      "TOTAL_SHARES": 22700,
-      "HOLD_VALUE": 790414,
-      "TOTALSHARES_RATIO": 0.03510302,
-      "FREESHARES_RATIO": 0.10789603,
-      "FREE_MARKET_CAP": 790414,
-      "FREE_SHARES": 22700,
-      "SECURITY_CODE": "001225",
-      "FUND_CODE": "006195",
-      "FUND_DERIVECODE": "006195.OF",
-      "NETVALUE_RATIO": 0.02
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "001225.SZ",
-      "REPORT_DATE": "2025-06-30 00:00:00",
-      "HOLDER_CODE": "002083",
-      "HOLDER_NAME": "新华鑫动力灵活配置混合A",
-      "TOTAL_SHARES": 22000,
-      "HOLD_VALUE": 766040,
-      "TOTALSHARES_RATIO": 0.03402055,
-      "FREESHARES_RATIO": 0.10456884,
-      "FREE_MARKET_CAP": 766040,
-      "FREE_SHARES": 22000,
-      "SECURITY_CODE": "001225",
-      "FUND_CODE": "002083",
-      "FUND_DERIVECODE": "002083.OF",
-      "NETVALUE_RATIO": 0.09
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "001225.SZ",
-      "REPORT_DATE": "2025-06-30 00:00:00",
-      "HOLDER_CODE": "014805",
-      "HOLDER_NAME": "国金量化精选A",
-      "TOTAL_SHARES": 15300,
-      "HOLD_VALUE": 532746,
-      "TOTALSHARES_RATIO": 0.02365975,
-      "FREESHARES_RATIO": 0.07272287,
-      "FREE_MARKET_CAP": 532746,
-      "FREE_SHARES": 15300,
-      "SECURITY_CODE": "001225",
-      "FUND_CODE": "014805",
-      "FUND_DERIVECODE": "014805.OF",
-      "NETVALUE_RATIO": 0.02
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "001225.SZ",
-      "REPORT_DATE": "2025-06-30 00:00:00",
-      "HOLDER_CODE": "011530",
-      "HOLDER_NAME": "泓德优质治理混合",
-      "TOTAL_SHARES": 13900,
-      "HOLD_VALUE": 483998,
-      "TOTALSHARES_RATIO": 0.0214948,
-      "FREESHARES_RATIO": 0.06606849,
-      "FREE_MARKET_CAP": 483998,
-      "FREE_SHARES": 13900,
-      "SECURITY_CODE": "001225",
-      "FUND_CODE": "011530",
-      "FUND_DERIVECODE": "011530.OF",
-      "NETVALUE_RATIO": 0.14
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "001225.SZ",
-      "REPORT_DATE": "2025-06-30 00:00:00",
-      "HOLDER_CODE": "012876",
-      "HOLDER_NAME": "富荣福耀混合A",
-      "TOTAL_SHARES": 12900,
-      "HOLD_VALUE": 449178,
-      "TOTALSHARES_RATIO": 0.01994841,
-      "FREESHARES_RATIO": 0.06131536,
-      "FREE_MARKET_CAP": 449178,
-      "FREE_SHARES": 12900,
-      "SECURITY_CODE": "001225",
-      "FUND_CODE": "012876",
-      "FUND_DERIVECODE": "012876.OF",
-      "NETVALUE_RATIO": 0.34
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "001225.SZ",
-      "REPORT_DATE": "2025-06-30 00:00:00",
-      "HOLDER_CODE": "011868",
-      "HOLDER_NAME": "中信建投远见回报A",
-      "TOTAL_SHARES": 11100,
-      "HOLD_VALUE": 386502,
-      "TOTALSHARES_RATIO": 0.01716491,
-      "FREESHARES_RATIO": 0.05275973,
-      "FREE_MARKET_CAP": 386502,
-      "FREE_SHARES": 11100,
-      "SECURITY_CODE": "001225",
-      "FUND_CODE": "011868",
-      "FUND_DERIVECODE": "011868.OF",
-      "NETVALUE_RATIO": 0.07
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "001225.SZ",
-      "REPORT_DATE": "2025-06-30 00:00:00",
-      "HOLDER_CODE": "010779",
-      "HOLDER_NAME": "西部利得量化优选一年持有期混合A",
-      "TOTAL_SHARES": 2600,
-      "HOLD_VALUE": 90532,
-      "TOTALSHARES_RATIO": 0.00402061,
-      "FREESHARES_RATIO": 0.01235814,
-      "FREE_MARKET_CAP": 90532,
-      "FREE_SHARES": 2600,
-      "SECURITY_CODE": "001225",
-      "FUND_CODE": "010779",
-      "FUND_DERIVECODE": "010779.OF",
-      "NETVALUE_RATIO": 0.03
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "001225.SZ",
-      "REPORT_DATE": "2025-06-30 00:00:00",
-      "HOLDER_CODE": "002871",
-      "HOLDER_NAME": "华夏智胜价值成长股票A",
-      "TOTAL_SHARES": 1900,
-      "HOLD_VALUE": 66158,
-      "TOTALSHARES_RATIO": 0.00293814,
-      "FREESHARES_RATIO": 0.00903094,
-      "FREE_MARKET_CAP": 66158,
-      "FREE_SHARES": 1900,
-      "SECURITY_CODE": "001225",
-      "FUND_CODE": "002871",
-      "FUND_DERIVECODE": "002871.OF",
-      "NETVALUE_RATIO": 0.02
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "001225.SZ",
-      "REPORT_DATE": "2025-06-30 00:00:00",
+      "REPORT_DATE": "2025-12-31 00:00:00",
       "HOLDER_CODE": "011231",
       "HOLDER_NAME": "光大保德信锦弘混合A",
-      "TOTAL_SHARES": 1100,
-      "HOLD_VALUE": 38302,
-      "TOTALSHARES_RATIO": 0.00170103,
-      "FREESHARES_RATIO": 0.00522844,
-      "FREE_MARKET_CAP": 38302,
-      "FREE_SHARES": 1100,
+      "TOTAL_SHARES": 200,
+      "HOLD_VALUE": 11434,
+      "TOTALSHARES_RATIO": 0.00030364,
+      "FREESHARES_RATIO": 0.00095063,
+      "FREE_MARKET_CAP": 11434,
+      "FREE_SHARES": 200,
       "SECURITY_CODE": "001225",
       "FUND_CODE": "011231",
       "FUND_DERIVECODE": "011231.OF",
-      "NETVALUE_RATIO": 0.07
+      "NETVALUE_RATIO": 0.02
     },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "001225.SZ",
-      "REPORT_DATE": "2025-06-30 00:00:00",
-      "HOLDER_CODE": "501227",
-      "HOLDER_NAME": "泓德红利优选混合(LOF)A",
-      "TOTAL_SHARES": 600,
-      "HOLD_VALUE": 20892,
-      "TOTALSHARES_RATIO": 0.00092783,
-      "FREESHARES_RATIO": 0.00285188,
-      "FREE_MARKET_CAP": 20892,
-      "FREE_SHARES": 600,
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "HOLDER_CODE": "015880",
+      "HOLDER_NAME": "中欧小盘成长混合A",
+      "TOTAL_SHARES": 100,
+      "HOLD_VALUE": 5717,
+      "TOTALSHARES_RATIO": 0.00015182,
+      "FREESHARES_RATIO": 0.00047531,
+      "FREE_MARKET_CAP": 5717,
+      "FREE_SHARES": 100,
       "SECURITY_CODE": "001225",
-      "FUND_CODE": "501227",
-      "FUND_DERIVECODE": "501227.SH",
-      "NETVALUE_RATIO": 0.01
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "001225.SZ",
-      "REPORT_DATE": "2025-06-30 00:00:00",
-      "HOLDER_CODE": "017985",
-      "HOLDER_NAME": "华夏中证800指数增强A",
-      "TOTAL_SHARES": 400,
-      "HOLD_VALUE": 13928,
-      "TOTALSHARES_RATIO": 0.00061856,
-      "FREESHARES_RATIO": 0.00190125,
-      "FREE_MARKET_CAP": 13928,
-      "FREE_SHARES": 400,
-      "SECURITY_CODE": "001225",
-      "FUND_CODE": "017985",
-      "FUND_DERIVECODE": "017985.OF",
-      "NETVALUE_RATIO": 0.03
+      "FUND_CODE": "015880",
+      "FUND_DERIVECODE": "015880.OF",
+      "NETVALUE_RATIO": 0
     }
   ]
 }

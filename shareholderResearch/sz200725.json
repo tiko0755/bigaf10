@@ -3,6 +3,34 @@
     {
       "SECUCODE": "200725.SZ",
       "SECURITY_CODE": "200725",
+      "END_DATE": "2026-03-20 00:00:00",
+      "HOLDER_TOTAL_NUM": 981480,
+      "TOTAL_NUM_RATIO": -1.4372,
+      "AVG_FREE_SHARES": 37733,
+      "AVG_FREESHARES_RATIO": 0.455799198439,
+      "HOLD_FOCUS": null,
+      "PRICE": 3.12,
+      "AVG_HOLD_AMT": 117728.113864042,
+      "HOLD_RATIO_TOTAL": null,
+      "FREEHOLD_RATIO_TOTAL": null
+    },
+    {
+      "SECUCODE": "200725.SZ",
+      "SECURITY_CODE": "200725",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_TOTAL_NUM": 995792,
+      "TOTAL_NUM_RATIO": -4.7907,
+      "AVG_FREE_SHARES": 37562,
+      "AVG_FREESHARES_RATIO": 5.04628167581,
+      "HOLD_FOCUS": null,
+      "PRICE": 2.89,
+      "AVG_HOLD_AMT": 108554.647589969,
+      "HOLD_RATIO_TOTAL": 29.24907789,
+      "FREEHOLD_RATIO_TOTAL": 29.25672579
+    },
+    {
+      "SECUCODE": "200725.SZ",
+      "SECURITY_CODE": "200725",
       "END_DATE": "2025-09-30 00:00:00",
       "HOLDER_TOTAL_NUM": 1045898,
       "TOTAL_NUM_RATIO": -4.3569,
@@ -111,37 +139,17 @@
       "AVG_HOLD_AMT": 73037.455807209,
       "HOLD_RATIO_TOTAL": 27.72634256,
       "FREEHOLD_RATIO_TOTAL": 27.87362923
-    },
-    {
-      "SECUCODE": "200725.SZ",
-      "SECURITY_CODE": "200725",
-      "END_DATE": "2023-09-30 00:00:00",
-      "HOLDER_TOTAL_NUM": 1289137,
-      "TOTAL_NUM_RATIO": -2.3487,
-      "AVG_FREE_SHARES": 29441,
-      "AVG_FREESHARES_RATIO": 2.329460459424,
-      "HOLD_FOCUS": null,
-      "PRICE": 2.5304167935,
-      "AVG_HOLD_AMT": 74498.1725102458,
-      "HOLD_RATIO_TOTAL": 27.3646796,
-      "FREEHOLD_RATIO_TOTAL": 27.51198708
-    },
-    {
-      "SECUCODE": "200725.SZ",
-      "SECURITY_CODE": "200725",
-      "END_DATE": "2023-06-30 00:00:00",
-      "HOLDER_TOTAL_NUM": 1320143,
-      "TOTAL_NUM_RATIO": -3.2412,
-      "AVG_FREE_SHARES": 28770,
-      "AVG_FREESHARES_RATIO": 3.623394005375,
-      "HOLD_FOCUS": null,
-      "PRICE": 3.1121218035,
-      "AVG_HOLD_AMT": 89538.4269279903,
-      "HOLD_RATIO_TOTAL": 29.60643544,
-      "FREEHOLD_RATIO_TOTAL": 29.76577376
     }
   ],
   "sdltgd_date": [
+    {
+      "SECUCODE": "200725.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "200725.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
     {
       "SECUCODE": "200725.SZ",
       "END_DATE": "2025-09-30 00:00:00"
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "200725.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "200725.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "200725.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "200725.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "200725.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "200725.SZ",
       "END_DATE": "2025-09-30 00:00:00",
@@ -403,16 +413,6 @@
       "SECUCODE": "200725.SZ",
       "END_DATE": "2018-01-10 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "200725.SZ",
-      "END_DATE": "2018-01-09 00:00:00",
-      "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "200725.SZ",
-      "END_DATE": "2018-01-08 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -445,137 +445,182 @@
       "REPORT_DATE": "2010-09-30 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2187370887,
+      "HOLD_NUM_RATIO": 5.9,
+      "HOLD_CHANGE": "-572687366",
+      "CHANGE_RATIO": -20.74910431,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "上海高毅资产管理合伙企业(有限合伙)-高毅晓峰2号致信基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 337000000,
+      "HOLD_NUM_RATIO": 0.91,
+      "HOLD_CHANGE": "-15000000",
+      "CHANGE_RATIO": -4.26136364,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国对外经济贸易信托有限公司-外贸信托-高毅晓峰鸿远集合资金信托计划",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 306988907,
+      "HOLD_NUM_RATIO": 0.83,
+      "HOLD_CHANGE": "-14000000",
+      "CHANGE_RATIO": -4.36152144,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 295514647,
+      "HOLD_NUM_RATIO": 0.8,
+      "HOLD_CHANGE": "-309785400",
+      "CHANGE_RATIO": -51.17881645,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [],
   "xsjj": [],
   "sdltgd": [
     {
       "SECUCODE": "200725.SZ",
       "SECURITY_CODE": "200725",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京国有资本运营管理有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 4063333333,
-      "FREE_HOLDNUM_RATIO": 10.864837209968,
+      "FREE_HOLDNUM_RATIO": 10.971737397359,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "200725.SZ",
       "SECURITY_CODE": "200725",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2704795565,
-      "FREE_HOLDNUM_RATIO": 7.232279779092,
-      "HOLD_NUM_CHANGE": "658148462",
-      "CHANGE_RATIO": 32.15739836
+      "HOLD_NUM": 2187370887,
+      "FREE_HOLDNUM_RATIO": 5.906298350638,
+      "HOLD_NUM_CHANGE": "-572687366",
+      "CHANGE_RATIO": -20.74910431
     },
     {
       "SECUCODE": "200725.SZ",
       "SECURITY_CODE": "200725",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "北京京东方投资发展有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 822092180,
-      "FREE_HOLDNUM_RATIO": 2.198170067601,
+      "FREE_HOLDNUM_RATIO": 2.219798076158,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "200725.SZ",
       "SECURITY_CODE": "200725",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "北京京国瑞国企改革发展基金(有限合伙)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 718132854,
-      "FREE_HOLDNUM_RATIO": 1.920196034737,
+      "FREE_HOLDNUM_RATIO": 1.939089029815,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "200725.SZ",
       "SECURITY_CODE": "200725",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "合肥建翔投资有限公司",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 666195772,
-      "FREE_HOLDNUM_RATIO": 1.78132287449,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "200725.SZ",
-      "SECURITY_CODE": "200725",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 626033147,
-      "FREE_HOLDNUM_RATIO": 1.673933116675,
-      "HOLD_NUM_CHANGE": "-27639900",
-      "CHANGE_RATIO": -4.2283983
-    },
-    {
-      "SECUCODE": "200725.SZ",
-      "SECURITY_CODE": "200725",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "福清市汇融创业投资集团有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 538599640,
-      "FREE_HOLDNUM_RATIO": 1.440147024716,
+      "FREE_HOLDNUM_RATIO": 1.454316771012,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "200725.SZ",
       "SECURITY_CODE": "200725",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国建设银行股份有限公司-易方达沪深300交易型开放式指数发起式证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 451960023,
-      "FREE_HOLDNUM_RATIO": 1.208483693776,
-      "HOLD_NUM_CHANGE": "-14429100",
-      "CHANGE_RATIO": -3.09378999
-    },
-    {
-      "SECUCODE": "200725.SZ",
-      "SECURITY_CODE": "200725",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "上海高毅资产管理合伙企业(有限合伙)-高毅晓峰2号致信基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 352000000,
-      "FREE_HOLDNUM_RATIO": 0.941203289144,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 337000000,
+      "FREE_HOLDNUM_RATIO": 0.909961157477,
+      "HOLD_NUM_CHANGE": "-15000000",
+      "CHANGE_RATIO": -4.26136364
+    },
+    {
+      "SECUCODE": "200725.SZ",
+      "SECURITY_CODE": "200725",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国对外经济贸易信托有限公司-外贸信托-高毅晓峰鸿远集合资金信托计划",
+      "HOLDER_TYPE": "信托计划",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 306988907,
+      "FREE_HOLDNUM_RATIO": 0.828925760078,
+      "HOLD_NUM_CHANGE": "-14000000",
+      "CHANGE_RATIO": -4.36152144
+    },
+    {
+      "SECUCODE": "200725.SZ",
+      "SECURITY_CODE": "200725",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "阿布达比投资局-自有资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 302843809,
+      "FREE_HOLDNUM_RATIO": 0.817733243241,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "200725.SZ",
       "SECURITY_CODE": "200725",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国工商银行股份有限公司-华夏沪深300交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 337271700,
-      "FREE_HOLDNUM_RATIO": 0.901821685725,
+      "HOLD_NUM": 295514647,
+      "FREE_HOLDNUM_RATIO": 0.797943175773,
+      "HOLD_NUM_CHANGE": "-309785400",
+      "CHANGE_RATIO": -51.17881645
+    },
+    {
+      "SECUCODE": "200725.SZ",
+      "SECURITY_CODE": "200725",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "合肥建翔投资有限公司",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 292056967,
+      "FREE_HOLDNUM_RATIO": 0.788606812286,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -584,133 +629,133 @@
     {
       "SECUCODE": "200725.SZ",
       "SECURITY_CODE": "200725",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 11280414214,
-      "LIMITED_SHARES": 14946136,
-      "OTHER_UNLIMITED_SHARES": 26118520114,
-      "HOLD_NUM_RATIO": 30.15,
-      "LIMITED_SHARES_RATIO": 0.04,
-      "UNLIMITED_SHARES_RATIO": 69.81
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 9863933224,
+      "LIMITED_SHARES": 9780245,
+      "OTHER_UNLIMITED_SHARES": 27170614595,
+      "HOLD_NUM_RATIO": 26.63,
+      "LIMITED_SHARES_RATIO": 0.03,
+      "UNLIMITED_SHARES_RATIO": 73.35
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "200725.SZ",
       "SECURITY_CODE": "200725",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京国有资本运营管理有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4063333333,
-      "HOLD_NUM_RATIO": 10.86,
+      "HOLD_NUM_RATIO": 10.97,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "200725.SZ",
       "SECURITY_CODE": "200725",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2704795565,
-      "HOLD_NUM_RATIO": 7.23,
-      "HOLD_NUM_CHANGE": "658148462",
-      "CHANGE_RATIO": 32.15739836
+      "HOLD_NUM": 2187370887,
+      "HOLD_NUM_RATIO": 5.9,
+      "HOLD_NUM_CHANGE": "-572687366",
+      "CHANGE_RATIO": -20.74910431
     },
     {
       "SECUCODE": "200725.SZ",
       "SECURITY_CODE": "200725",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "北京京东方投资发展有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 822092180,
-      "HOLD_NUM_RATIO": 2.2,
+      "HOLD_NUM_RATIO": 2.22,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "200725.SZ",
       "SECURITY_CODE": "200725",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "北京京国瑞国企改革发展基金(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 718132854,
-      "HOLD_NUM_RATIO": 1.92,
+      "HOLD_NUM_RATIO": 1.94,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "200725.SZ",
       "SECURITY_CODE": "200725",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "合肥建翔投资有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 666195772,
-      "HOLD_NUM_RATIO": 1.78,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "200725.SZ",
-      "SECURITY_CODE": "200725",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 626033147,
-      "HOLD_NUM_RATIO": 1.67,
-      "HOLD_NUM_CHANGE": "-27639900",
-      "CHANGE_RATIO": -4.2283983
-    },
-    {
-      "SECUCODE": "200725.SZ",
-      "SECURITY_CODE": "200725",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "福清市汇融创业投资集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 538599640,
-      "HOLD_NUM_RATIO": 1.44,
+      "HOLD_NUM_RATIO": 1.45,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "200725.SZ",
       "SECURITY_CODE": "200725",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国建设银行股份有限公司-易方达沪深300交易型开放式指数发起式证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 451960023,
-      "HOLD_NUM_RATIO": 1.21,
-      "HOLD_NUM_CHANGE": "-14429100",
-      "CHANGE_RATIO": -3.09378999
-    },
-    {
-      "SECUCODE": "200725.SZ",
-      "SECURITY_CODE": "200725",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "上海高毅资产管理合伙企业(有限合伙)-高毅晓峰2号致信基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 352000000,
-      "HOLD_NUM_RATIO": 0.94,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 337000000,
+      "HOLD_NUM_RATIO": 0.91,
+      "HOLD_NUM_CHANGE": "-15000000",
+      "CHANGE_RATIO": -4.26136364
+    },
+    {
+      "SECUCODE": "200725.SZ",
+      "SECURITY_CODE": "200725",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国对外经济贸易信托有限公司-外贸信托-高毅晓峰鸿远集合资金信托计划",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 306988907,
+      "HOLD_NUM_RATIO": 0.83,
+      "HOLD_NUM_CHANGE": "-14000000",
+      "CHANGE_RATIO": -4.36152144
+    },
+    {
+      "SECUCODE": "200725.SZ",
+      "SECURITY_CODE": "200725",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "阿布达比投资局-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 302843809,
+      "HOLD_NUM_RATIO": 0.82,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "200725.SZ",
       "SECURITY_CODE": "200725",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国工商银行股份有限公司-华夏沪深300交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 337271700,
-      "HOLD_NUM_RATIO": 0.9,
+      "HOLD_NUM": 295514647,
+      "HOLD_NUM_RATIO": 0.8,
+      "HOLD_NUM_CHANGE": "-309785400",
+      "CHANGE_RATIO": -51.17881645
+    },
+    {
+      "SECUCODE": "200725.SZ",
+      "SECURITY_CODE": "200725",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "合肥建翔投资有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 292056967,
+      "HOLD_NUM_RATIO": 0.79,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
