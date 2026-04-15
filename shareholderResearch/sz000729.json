@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000729.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000729.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "000729.SZ",
       "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000729.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000729.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000729.SZ",
       "END_DATE": "2025-09-30 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "000729.SZ",
       "END_DATE": "2013-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000729.SZ",
-      "END_DATE": "2013-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "000729.SZ",
       "SECURITY_CODE": "000729",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京燕京啤酒投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -486,20 +486,20 @@
     {
       "SECUCODE": "000729.SZ",
       "SECURITY_CODE": "000729",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 74576303,
-      "FREE_HOLDNUM_RATIO": 2.971633124052,
-      "HOLD_NUM_CHANGE": "-21015685",
-      "CHANGE_RATIO": -21.98477659
+      "HOLD_NUM": 72094639,
+      "FREE_HOLDNUM_RATIO": 2.872746552199,
+      "HOLD_NUM_CHANGE": "-2481664",
+      "CHANGE_RATIO": -3.3276844
     },
     {
       "SECUCODE": "000729.SZ",
       "SECURITY_CODE": "000729",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "唐建华",
       "HOLDER_TYPE": "个人",
@@ -512,21 +512,34 @@
     {
       "SECUCODE": "000729.SZ",
       "SECURITY_CODE": "000729",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "中国建设银行股份有限公司-鹏华中证酒交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 45116680,
-      "FREE_HOLDNUM_RATIO": 1.797759011134,
-      "HOLD_NUM_CHANGE": "15009900",
-      "CHANGE_RATIO": 49.85554749
+      "HOLD_NUM": 48367580,
+      "FREE_HOLDNUM_RATIO": 1.927297238886,
+      "HOLD_NUM_CHANGE": "3250900",
+      "CHANGE_RATIO": 7.20553906
     },
     {
       "SECUCODE": "000729.SZ",
       "SECURITY_CODE": "000729",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "全国社保基金六零一组合",
+      "HOLDER_TYPE": "全国社保基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 45365757,
+      "FREE_HOLDNUM_RATIO": 1.807683952889,
+      "HOLD_NUM_CHANGE": "7340500",
+      "CHANGE_RATIO": 19.30427452
+    },
+    {
+      "SECUCODE": "000729.SZ",
+      "SECURITY_CODE": "000729",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "北京燕京啤酒集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -538,65 +551,52 @@
     {
       "SECUCODE": "000729.SZ",
       "SECURITY_CODE": "000729",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "全国社保基金六零一组合",
-      "HOLDER_TYPE": "全国社保基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 38025257,
-      "FREE_HOLDNUM_RATIO": 1.515187917693,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000729.SZ",
-      "SECURITY_CODE": "000729",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 20480804,
-      "FREE_HOLDNUM_RATIO": 0.816096174325,
-      "HOLD_NUM_CHANGE": "-439200",
-      "CHANGE_RATIO": -2.09942598
+      "HOLD_NUM": 20792404,
+      "FREE_HOLDNUM_RATIO": 0.828512462666,
+      "HOLD_NUM_CHANGE": "311600",
+      "CHANGE_RATIO": 1.52142465
     },
     {
       "SECUCODE": "000729.SZ",
       "SECURITY_CODE": "000729",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "中国工商银行股份有限公司-中证主要消费交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 17744482,
-      "FREE_HOLDNUM_RATIO": 0.707062275269,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 20451882,
+      "FREE_HOLDNUM_RATIO": 0.814943722812,
+      "HOLD_NUM_CHANGE": "2707400",
+      "CHANGE_RATIO": 15.25770096
     },
     {
       "SECUCODE": "000729.SZ",
       "SECURITY_CODE": "000729",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
       "HOLDER_TYPE": "保险产品",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 14942894,
-      "FREE_HOLDNUM_RATIO": 0.595427729632,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 16187494,
+      "FREE_HOLDNUM_RATIO": 0.645021158609,
+      "HOLD_NUM_CHANGE": "1244600",
+      "CHANGE_RATIO": 8.32904255
     },
     {
       "SECUCODE": "000729.SZ",
       "SECURITY_CODE": "000729",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "上海浦东发展银行股份有限公司-广发高端制造股票型发起式证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "冯骏驹",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12941898,
-      "FREE_HOLDNUM_RATIO": 0.515694278716,
+      "HOLD_NUM": 13708852,
+      "FREE_HOLDNUM_RATIO": 0.546255004032,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "000729.SZ",
       "SECURITY_CODE": "000729",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 1635585148,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLD_NUM_COUNT": 1648725438,
       "LIMITED_SHARES": 308932674,
-      "OTHER_UNLIMITED_SHARES": 874021519,
-      "HOLD_NUM_RATIO": 58.03,
+      "OTHER_UNLIMITED_SHARES": 860881229,
+      "HOLD_NUM_RATIO": 58.5,
       "LIMITED_SHARES_RATIO": 10.96,
-      "UNLIMITED_SHARES_RATIO": 31.01
+      "UNLIMITED_SHARES_RATIO": 30.54
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "000729.SZ",
       "SECURITY_CODE": "000729",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京燕京啤酒投资有限公司",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -630,19 +630,19 @@
     {
       "SECUCODE": "000729.SZ",
       "SECURITY_CODE": "000729",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 74576303,
-      "HOLD_NUM_RATIO": 2.65,
-      "HOLD_NUM_CHANGE": "-21015685",
-      "CHANGE_RATIO": -21.98477659
+      "HOLD_NUM": 72094639,
+      "HOLD_NUM_RATIO": 2.56,
+      "HOLD_NUM_CHANGE": "-2481664",
+      "CHANGE_RATIO": -3.3276844
     },
     {
       "SECUCODE": "000729.SZ",
       "SECURITY_CODE": "000729",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "北京燕京啤酒集团有限公司",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "000729.SZ",
       "SECURITY_CODE": "000729",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "唐建华",
       "SHARES_TYPE": "流通A股",
@@ -666,72 +666,72 @@
     {
       "SECUCODE": "000729.SZ",
       "SECURITY_CODE": "000729",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国建设银行股份有限公司-鹏华中证酒交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 45116680,
-      "HOLD_NUM_RATIO": 1.6,
-      "HOLD_NUM_CHANGE": "15009900",
-      "CHANGE_RATIO": 49.85554749
+      "HOLD_NUM": 48367580,
+      "HOLD_NUM_RATIO": 1.72,
+      "HOLD_NUM_CHANGE": "3250900",
+      "CHANGE_RATIO": 7.20553906
     },
     {
       "SECUCODE": "000729.SZ",
       "SECURITY_CODE": "000729",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "全国社保基金六零一组合",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 38025257,
-      "HOLD_NUM_RATIO": 1.35,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 45365757,
+      "HOLD_NUM_RATIO": 1.61,
+      "HOLD_NUM_CHANGE": "7340500",
+      "CHANGE_RATIO": 19.30427452
     },
     {
       "SECUCODE": "000729.SZ",
       "SECURITY_CODE": "000729",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 20480804,
-      "HOLD_NUM_RATIO": 0.73,
-      "HOLD_NUM_CHANGE": "-439200",
-      "CHANGE_RATIO": -2.09942598
+      "HOLD_NUM": 20792404,
+      "HOLD_NUM_RATIO": 0.74,
+      "HOLD_NUM_CHANGE": "311600",
+      "CHANGE_RATIO": 1.52142465
     },
     {
       "SECUCODE": "000729.SZ",
       "SECURITY_CODE": "000729",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "中国工商银行股份有限公司-中证主要消费交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 17744482,
-      "HOLD_NUM_RATIO": 0.63,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 20451882,
+      "HOLD_NUM_RATIO": 0.73,
+      "HOLD_NUM_CHANGE": "2707400",
+      "CHANGE_RATIO": 15.25770096
     },
     {
       "SECUCODE": "000729.SZ",
       "SECURITY_CODE": "000729",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 14942894,
-      "HOLD_NUM_RATIO": 0.53,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 16187494,
+      "HOLD_NUM_RATIO": 0.57,
+      "HOLD_NUM_CHANGE": "1244600",
+      "CHANGE_RATIO": 8.32904255
     },
     {
       "SECUCODE": "000729.SZ",
       "SECURITY_CODE": "000729",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "上海浦东发展银行股份有限公司-广发高端制造股票型发起式证券投资基金",
+      "HOLDER_NAME": "冯骏驹",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 12941898,
-      "HOLD_NUM_RATIO": 0.46,
+      "HOLD_NUM": 13708852,
+      "HOLD_NUM_RATIO": 0.49,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "000729",
       "REPORT_DATE": "2025-12-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 446,
-      "TOTAL_FREE_SHARES": 317709105,
-      "TOTAL_SHARES_RATIO": 12.65971715,
-      "ALL_SHARES_RATIO": 11.27211892
+      "TOTAL_ORG_NUM": 451,
+      "TOTAL_FREE_SHARES": 2121771260,
+      "TOTAL_SHARES_RATIO": 72.23668196,
+      "ALL_SHARES_RATIO": 64.31900953
     },
     {
       "SECUCODE": "000729.SZ",
@@ -761,11 +761,41 @@
       "SECUCODE": "000729.SZ",
       "SECURITY_CODE": "000729",
       "REPORT_DATE": "2025-12-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 45365757,
+      "TOTAL_SHARES_RATIO": 1.80768395,
+      "ALL_SHARES_RATIO": 1.60954848
+    },
+    {
+      "SECUCODE": "000729.SZ",
+      "SECURITY_CODE": "000729",
+      "REPORT_DATE": "2025-12-31 00:00:00",
       "ORG_TYPE": "04",
       "TOTAL_ORG_NUM": 3,
       "TOTAL_FREE_SHARES": 318900,
       "TOTAL_SHARES_RATIO": 0.01270717,
       "ALL_SHARES_RATIO": 0.01131437
+    },
+    {
+      "SECUCODE": "000729.SZ",
+      "SECURITY_CODE": "000729",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "ORG_TYPE": "05",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 16187494,
+      "TOTAL_SHARES_RATIO": 0.64502116,
+      "ALL_SHARES_RATIO": 0.57432209
+    },
+    {
+      "SECUCODE": "000729.SZ",
+      "SECURITY_CODE": "000729",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 1742508904,
+      "TOTAL_SHARES_RATIO": 57.1242597,
+      "ALL_SHARES_RATIO": 50.86302004
     }
   ],
   "jjcg": [
