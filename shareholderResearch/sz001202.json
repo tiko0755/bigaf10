@@ -109,8 +109,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 15.86,
       "AVG_HOLD_AMT": 141783.587871136,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 71.37490236,
+      "FREEHOLD_RATIO_TOTAL": 59.1560712
     },
     {
       "SECUCODE": "001202.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "001202.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "001202.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "001202.SZ",
       "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "001202.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "001202.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "001202.SZ",
       "END_DATE": "2025-09-30 00:00:00",
@@ -418,7 +423,7 @@
     {
       "SECUCODE": "001202.SZ",
       "SECURITY_CODE": "001202",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "雷高潮",
       "HOLDER_TYPE": "个人",
@@ -431,7 +436,7 @@
     {
       "SECUCODE": "001202.SZ",
       "SECURITY_CODE": "001202",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "雷琦",
       "HOLDER_TYPE": "个人",
@@ -444,33 +449,33 @@
     {
       "SECUCODE": "001202.SZ",
       "SECURITY_CODE": "001202",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "孙新元",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 2259380,
       "FREE_HOLDNUM_RATIO": 1.934004031964,
-      "HOLD_NUM_CHANGE": "-500000",
-      "CHANGE_RATIO": -18.12001247
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "001202.SZ",
       "SECURITY_CODE": "001202",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "孙艺轩",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1948000,
       "FREE_HOLDNUM_RATIO": 1.667466231562,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "001202.SZ",
       "SECURITY_CODE": "001202",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "佛山市鑫隆企业管理合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
@@ -483,34 +488,47 @@
     {
       "SECUCODE": "001202.SZ",
       "SECURITY_CODE": "001202",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "涂思思",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1026185,
-      "FREE_HOLDNUM_RATIO": 0.878402892626,
-      "HOLD_NUM_CHANGE": "48065",
-      "CHANGE_RATIO": 4.91401873
+      "HOLD_NUM": 1013319,
+      "FREE_HOLDNUM_RATIO": 0.8673897404,
+      "HOLD_NUM_CHANGE": "-12866",
+      "CHANGE_RATIO": -1.25377003
     },
     {
       "SECUCODE": "001202.SZ",
       "SECURITY_CODE": "001202",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "陈郁明",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 965800,
-      "FREE_HOLDNUM_RATIO": 0.826714007414,
+      "HOLD_NUM": 999138,
+      "FREE_HOLDNUM_RATIO": 0.85525096287,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "001202.SZ",
       "SECURITY_CODE": "001202",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "陈郁明",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 965800,
+      "FREE_HOLDNUM_RATIO": 0.826714007414,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "001202.SZ",
+      "SECURITY_CODE": "001202",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "佛山盛茂企业管理合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -522,26 +540,13 @@
     {
       "SECUCODE": "001202.SZ",
       "SECURITY_CODE": "001202",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "刘杨子秋",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 535340,
-      "FREE_HOLDNUM_RATIO": 0.458245057702,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "001202.SZ",
-      "SECURITY_CODE": "001202",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "高盛国际-自有资金",
-      "HOLDER_TYPE": "QFII",
+      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 481380,
-      "FREE_HOLDNUM_RATIO": 0.412055900693,
+      "HOLD_NUM": 906480,
+      "FREE_HOLDNUM_RATIO": 0.775936750301,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -550,20 +555,20 @@
     {
       "SECUCODE": "001202.SZ",
       "SECURITY_CODE": "001202",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 68232430,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLD_NUM_COUNT": 69108462,
       "LIMITED_SHARES": 49867155,
-      "OTHER_UNLIMITED_SHARES": 48591525,
-      "HOLD_NUM_RATIO": 40.93,
+      "OTHER_UNLIMITED_SHARES": 47715493,
+      "HOLD_NUM_RATIO": 41.46,
       "LIMITED_SHARES_RATIO": 29.92,
-      "UNLIMITED_SHARES_RATIO": 29.15
+      "UNLIMITED_SHARES_RATIO": 28.63
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "001202.SZ",
       "SECURITY_CODE": "001202",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "雷琦",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -575,7 +580,7 @@
     {
       "SECUCODE": "001202.SZ",
       "SECURITY_CODE": "001202",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "雷高潮",
       "SHARES_TYPE": "流通A股",
@@ -587,31 +592,31 @@
     {
       "SECUCODE": "001202.SZ",
       "SECURITY_CODE": "001202",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "孙新元",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2259380,
       "HOLD_NUM_RATIO": 1.36,
-      "HOLD_NUM_CHANGE": "-500000",
-      "CHANGE_RATIO": -18.12001247
-    },
-    {
-      "SECUCODE": "001202.SZ",
-      "SECURITY_CODE": "001202",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "孙艺轩",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1948000,
-      "HOLD_NUM_RATIO": 1.17,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "001202.SZ",
       "SECURITY_CODE": "001202",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "孙艺轩",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1948000,
+      "HOLD_NUM_RATIO": 1.17,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "001202.SZ",
+      "SECURITY_CODE": "001202",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "佛山市鑫隆企业管理合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -623,32 +628,44 @@
     {
       "SECUCODE": "001202.SZ",
       "SECURITY_CODE": "001202",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "涂思思",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1026185,
-      "HOLD_NUM_RATIO": 0.62,
-      "HOLD_NUM_CHANGE": "48065",
-      "CHANGE_RATIO": 4.91401873
+      "HOLD_NUM": 1013319,
+      "HOLD_NUM_RATIO": 0.61,
+      "HOLD_NUM_CHANGE": "-12866",
+      "CHANGE_RATIO": -1.25377003
     },
     {
       "SECUCODE": "001202.SZ",
       "SECURITY_CODE": "001202",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "陈郁明",
+      "HOLDER_NAME": "J.P.Morgan Securiti es PLC-自有资金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 965800,
-      "HOLD_NUM_RATIO": 0.58,
+      "HOLD_NUM": 999138,
+      "HOLD_NUM_RATIO": 0.6,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "001202.SZ",
       "SECURITY_CODE": "001202",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "陈郁明",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 965800,
+      "HOLD_NUM_RATIO": 0.58,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "001202.SZ",
+      "SECURITY_CODE": "001202",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "佛山盛茂企业管理合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 932100,
@@ -659,24 +676,12 @@
     {
       "SECUCODE": "001202.SZ",
       "SECURITY_CODE": "001202",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "刘杨子秋",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 535340,
-      "HOLD_NUM_RATIO": 0.32,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "001202.SZ",
-      "SECURITY_CODE": "001202",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "高盛国际-自有资金",
+      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 481380,
-      "HOLD_NUM_RATIO": 0.29,
+      "HOLD_NUM": 906480,
+      "HOLD_NUM_RATIO": 0.54,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -687,10 +692,10 @@
       "SECURITY_CODE": "001202",
       "REPORT_DATE": "2025-12-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 35,
-      "TOTAL_FREE_SHARES": 3027307,
-      "TOTAL_SHARES_RATIO": 2.59134098,
-      "ALL_SHARES_RATIO": 1.81611782
+      "TOTAL_ORG_NUM": 38,
+      "TOTAL_FREE_SHARES": 6258545,
+      "TOTAL_SHARES_RATIO": 5.35724459,
+      "ALL_SHARES_RATIO": 3.75457632
     },
     {
       "SECUCODE": "001202.SZ",
@@ -701,6 +706,26 @@
       "TOTAL_FREE_SHARES": 3027307,
       "TOTAL_SHARES_RATIO": 2.59134098,
       "ALL_SHARES_RATIO": 1.81611782
+    },
+    {
+      "SECUCODE": "001202.SZ",
+      "SECURITY_CODE": "001202",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 999138,
+      "TOTAL_SHARES_RATIO": 0.85525096,
+      "ALL_SHARES_RATIO": 0.59939489
+    },
+    {
+      "SECUCODE": "001202.SZ",
+      "SECURITY_CODE": "001202",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 2232100,
+      "TOTAL_SHARES_RATIO": 1.91065265,
+      "ALL_SHARES_RATIO": 1.33906361
     }
   ],
   "jjcg": [

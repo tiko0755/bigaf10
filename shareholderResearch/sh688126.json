@@ -3,6 +3,34 @@
     {
       "SECUCODE": "688126.SH",
       "SECURITY_CODE": "688126",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_TOTAL_NUM": 80359,
+      "TOTAL_NUM_RATIO": 0.1396,
+      "AVG_FREE_SHARES": 33993,
+      "AVG_FREESHARES_RATIO": -0.139374556677,
+      "HOLD_FOCUS": "非常分散",
+      "PRICE": 16.9,
+      "AVG_HOLD_AMT": 574484.890345823,
+      "HOLD_RATIO_TOTAL": null,
+      "FREEHOLD_RATIO_TOTAL": null
+    },
+    {
+      "SECUCODE": "688126.SH",
+      "SECURITY_CODE": "688126",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_TOTAL_NUM": 80247,
+      "TOTAL_NUM_RATIO": 1.9657,
+      "AVG_FREE_SHARES": 34040,
+      "AVG_FREESHARES_RATIO": -1.92779792391,
+      "HOLD_FOCUS": "非常分散",
+      "PRICE": 21.64,
+      "AVG_HOLD_AMT": 736639.292901666,
+      "HOLD_RATIO_TOTAL": 61.37485844,
+      "FREEHOLD_RATIO_TOTAL": 62.51203757
+    },
+    {
+      "SECUCODE": "688126.SH",
+      "SECURITY_CODE": "688126",
       "END_DATE": "2025-09-30 00:00:00",
       "HOLDER_TOTAL_NUM": 78700,
       "TOTAL_NUM_RATIO": 28.3055,
@@ -111,37 +139,13 @@
       "AVG_HOLD_AMT": 745040.127479669,
       "HOLD_RATIO_TOTAL": 68.14059718,
       "FREEHOLD_RATIO_TOTAL": 68.81388236
-    },
-    {
-      "SECUCODE": "688126.SH",
-      "SECURITY_CODE": "688126",
-      "END_DATE": "2023-09-30 00:00:00",
-      "HOLDER_TOTAL_NUM": 64059,
-      "TOTAL_NUM_RATIO": -6.5637,
-      "AVG_FREE_SHARES": 42465,
-      "AVG_FREESHARES_RATIO": 7.024774036435,
-      "HOLD_FOCUS": "非常分散",
-      "PRICE": 19.7178020598,
-      "AVG_HOLD_AMT": 837326.611015983,
-      "HOLD_RATIO_TOTAL": 67.80115169,
-      "FREEHOLD_RATIO_TOTAL": 68.47108287
-    },
-    {
-      "SECUCODE": "688126.SH",
-      "SECURITY_CODE": "688126",
-      "END_DATE": "2023-06-30 00:00:00",
-      "HOLDER_TOTAL_NUM": 68559,
-      "TOTAL_NUM_RATIO": -2.169,
-      "AVG_FREE_SHARES": 39678,
-      "AVG_FREESHARES_RATIO": 75.289168793478,
-      "HOLD_FOCUS": "非常分散",
-      "PRICE": 20.844818566,
-      "AVG_HOLD_AMT": 827085.08835507,
-      "HOLD_RATIO_TOTAL": 67.92935432,
-      "FREEHOLD_RATIO_TOTAL": 68.2130346
     }
   ],
   "sdltgd_date": [
+    {
+      "SECUCODE": "688126.SH",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
     {
       "SECUCODE": "688126.SH",
       "END_DATE": "2025-09-30 00:00:00"
@@ -157,10 +161,6 @@
     {
       "SECUCODE": "688126.SH",
       "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "688126.SH",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
@@ -178,6 +178,11 @@
       "SECUCODE": "688126.SH",
       "END_DATE": "2026-01-08 00:00:00",
       "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "688126.SH",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
     },
     {
       "SECUCODE": "688126.SH",
@@ -407,11 +412,6 @@
     {
       "SECUCODE": "688126.SH",
       "END_DATE": "2019-11-27 00:00:00",
-      "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "688126.SH",
-      "END_DATE": "2019-11-04 00:00:00",
       "IS_REPORTDATE": "0"
     }
   ],
@@ -678,7 +678,7 @@
     {
       "SECUCODE": "688126.SH",
       "SECURITY_CODE": "688126",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "国家集成电路产业投资基金股份有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -691,7 +691,7 @@
     {
       "SECUCODE": "688126.SH",
       "SECURITY_CODE": "688126",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "上海国盛(集团)有限公司",
       "HOLDER_TYPE": "其它",
@@ -704,47 +704,60 @@
     {
       "SECUCODE": "688126.SH",
       "SECURITY_CODE": "688126",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "上海嘉定工业区开发(集团)有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 126073596,
-      "FREE_HOLDNUM_RATIO": 4.615276351492,
-      "HOLD_NUM_CHANGE": "-4767349",
-      "CHANGE_RATIO": -3.64362165
+      "HOLD_NUM": 125183596,
+      "FREE_HOLDNUM_RATIO": 4.582695413983,
+      "HOLD_NUM_CHANGE": "-890000",
+      "CHANGE_RATIO": -0.70593687
     },
     {
       "SECUCODE": "688126.SH",
       "SECURITY_CODE": "688126",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "上海新阳半导体材料股份有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 110455692,
-      "FREE_HOLDNUM_RATIO": 4.043539324247,
-      "HOLD_NUM_CHANGE": "-11678603",
-      "CHANGE_RATIO": -9.56209965
+      "HOLD_NUM": 108135692,
+      "FREE_HOLDNUM_RATIO": 3.958609239954,
+      "HOLD_NUM_CHANGE": "-2320000",
+      "CHANGE_RATIO": -2.10038972
     },
     {
       "SECUCODE": "688126.SH",
       "SECURITY_CODE": "688126",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "上海新微科技集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 83160780,
-      "FREE_HOLDNUM_RATIO": 3.044332782462,
-      "HOLD_NUM_CHANGE": "-23991792",
-      "CHANGE_RATIO": -22.39030903
+      "HOLD_NUM": 82460780,
+      "FREE_HOLDNUM_RATIO": 3.018707325994,
+      "HOLD_NUM_CHANGE": "-700000",
+      "CHANGE_RATIO": -0.84174295
     },
     {
       "SECUCODE": "688126.SH",
       "SECURITY_CODE": "688126",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "招商银行股份有限公司-华夏上证科创板50成份交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 74763920,
+      "FREE_HOLDNUM_RATIO": 2.736942253323,
+      "HOLD_NUM_CHANGE": "16504098",
+      "CHANGE_RATIO": 28.32843877
+    },
+    {
+      "SECUCODE": "688126.SH",
+      "SECURITY_CODE": "688126",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "华芯投资管理有限责任公司-国家集成电路产业投资基金二期股份有限公司",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
@@ -756,67 +769,54 @@
     {
       "SECUCODE": "688126.SH",
       "SECURITY_CODE": "688126",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "上海武岳峰集成电路股权投资合伙企业(有限合伙)",
-      "HOLDER_TYPE": "投资公司",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国工商银行股份有限公司-易方达上证科创板50成份交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 62476953,
-      "FREE_HOLDNUM_RATIO": 2.28714348478,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 50503932,
+      "FREE_HOLDNUM_RATIO": 1.848837587031,
+      "HOLD_NUM_CHANGE": "-9075571",
+      "CHANGE_RATIO": -15.23270679
+    },
+    {
+      "SECUCODE": "688126.SH",
+      "SECURITY_CODE": "688126",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中信证券股份有限公司-嘉实上证科创板芯片交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 43475944,
+      "FREE_HOLDNUM_RATIO": 1.591558443387,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688126.SH",
       "SECURITY_CODE": "688126",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国工商银行股份有限公司-易方达上证科创板50成份交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 59579503,
-      "FREE_HOLDNUM_RATIO": 2.18107422929,
-      "HOLD_NUM_CHANGE": "-8669396",
-      "CHANGE_RATIO": -12.70261664
-    },
-    {
-      "SECUCODE": "688126.SH",
-      "SECURITY_CODE": "688126",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "招商银行股份有限公司-华夏上证科创板50成份交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 58259822,
-      "FREE_HOLDNUM_RATIO": 2.132763617837,
-      "HOLD_NUM_CHANGE": "-32861191",
-      "CHANGE_RATIO": -36.06324153
-    },
-    {
-      "SECUCODE": "688126.SH",
-      "SECURITY_CODE": "688126",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 38853966,
-      "FREE_HOLDNUM_RATIO": 1.422358020481,
-      "HOLD_NUM_CHANGE": "-3462485",
-      "CHANGE_RATIO": -8.18236151
+      "HOLD_NUM": 38080101,
+      "FREE_HOLDNUM_RATIO": 1.394028529239,
+      "HOLD_NUM_CHANGE": "-773865",
+      "CHANGE_RATIO": -1.99172718
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "688126.SH",
       "SECURITY_CODE": "688126",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 1723871833,
-      "LIMITED_SHARES": 15518529,
-      "OTHER_UNLIMITED_SHARES": 1007786824,
-      "HOLD_NUM_RATIO": 62.75,
-      "LIMITED_SHARES_RATIO": 0.56,
-      "UNLIMITED_SHARES_RATIO": 36.68
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLD_NUM_COUNT": 1707615486,
+      "LIMITED_SHARES": 573364736,
+      "OTHER_UNLIMITED_SHARES": 1024043171,
+      "HOLD_NUM_RATIO": 51.67,
+      "LIMITED_SHARES_RATIO": 17.35,
+      "UNLIMITED_SHARES_RATIO": 30.98
     }
   ],
   "sdgd": [
@@ -863,10 +863,10 @@
       "SECURITY_CODE": "688126",
       "REPORT_DATE": "2025-12-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 458,
-      "TOTAL_FREE_SHARES": 512682275,
-      "TOTAL_SHARES_RATIO": 17.6307268,
-      "ALL_SHARES_RATIO": 14.5720988
+      "TOTAL_ORG_NUM": 465,
+      "TOTAL_FREE_SHARES": 2281947428,
+      "TOTAL_SHARES_RATIO": 73.96542609,
+      "ALL_SHARES_RATIO": 61.13369633
     },
     {
       "SECUCODE": "688126.SH",
@@ -877,6 +877,16 @@
       "TOTAL_FREE_SHARES": 512682275,
       "TOTAL_SHARES_RATIO": 17.6307268,
       "ALL_SHARES_RATIO": 14.5720988
+    },
+    {
+      "SECUCODE": "688126.SH",
+      "SECURITY_CODE": "688126",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 1769265153,
+      "TOTAL_SHARES_RATIO": 56.33469929,
+      "ALL_SHARES_RATIO": 46.56159753
     }
   ],
   "jjcg": [

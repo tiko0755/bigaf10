@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000151.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000151.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -157,10 +161,6 @@
     {
       "SECUCODE": "000151.SZ",
       "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000151.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
@@ -168,6 +168,11 @@
       "SECUCODE": "000151.SZ",
       "END_DATE": "2026-03-24 00:00:00",
       "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "000151.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
     },
     {
       "SECUCODE": "000151.SZ",
@@ -408,11 +413,6 @@
       "SECUCODE": "000151.SZ",
       "END_DATE": "2014-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000151.SZ",
-      "END_DATE": "2014-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -445,7 +445,41 @@
       "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-03-24 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "邓兰",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 9869500,
+      "HOLD_NUM_RATIO": 2.81,
+      "HOLD_CHANGE": "-6600",
+      "CHANGE_RATIO": -0.066828,
+      "CHANGE_REASON": "增发上市"
+    },
+    {
+      "END_DATE": "2026-03-24 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "雷振锋",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2071600,
+      "HOLD_NUM_RATIO": 0.59,
+      "HOLD_CHANGE": "-598100",
+      "CHANGE_RATIO": -22.40326628,
+      "CHANGE_REASON": "增发上市"
+    },
+    {
+      "END_DATE": "2026-03-24 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "吴云",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1800000,
+      "HOLD_NUM_RATIO": 0.51,
+      "HOLD_CHANGE": "-200000",
+      "CHANGE_RATIO": -10,
+      "CHANGE_REASON": "增发上市"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "000151.SZ",
@@ -483,7 +517,7 @@
     {
       "SECUCODE": "000151.SZ",
       "SECURITY_CODE": "000151",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国成套设备进出口集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -496,7 +530,7 @@
     {
       "SECUCODE": "000151.SZ",
       "SECURITY_CODE": "000151",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "新疆生产建设兵团建设工程(集团)有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -509,7 +543,7 @@
     {
       "SECUCODE": "000151.SZ",
       "SECURITY_CODE": "000151",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "甘肃省建设投资(控股)集团有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -522,47 +556,60 @@
     {
       "SECUCODE": "000151.SZ",
       "SECURITY_CODE": "000151",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "邓兰",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9869500,
-      "FREE_HOLDNUM_RATIO": 3.205062683827,
-      "HOLD_NUM_CHANGE": "239500",
-      "CHANGE_RATIO": 2.48701973
+      "HOLD_NUM": 9876100,
+      "FREE_HOLDNUM_RATIO": 3.207205995414,
+      "HOLD_NUM_CHANGE": "6600",
+      "CHANGE_RATIO": 0.06687269
     },
     {
       "SECUCODE": "000151.SZ",
       "SECURITY_CODE": "000151",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "刘亚军",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 3000800,
       "FREE_HOLDNUM_RATIO": 0.974492335136,
-      "HOLD_NUM_CHANGE": "1450000",
-      "CHANGE_RATIO": 93.50012897
-    },
-    {
-      "SECUCODE": "000151.SZ",
-      "SECURITY_CODE": "000151",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "雷振锋",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2071600,
-      "FREE_HOLDNUM_RATIO": 0.672740043145,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000151.SZ",
       "SECURITY_CODE": "000151",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "雷振锋",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2669700,
+      "FREE_HOLDNUM_RATIO": 0.866969537161,
+      "HOLD_NUM_CHANGE": "598100",
+      "CHANGE_RATIO": 28.87140375
+    },
+    {
+      "SECUCODE": "000151.SZ",
+      "SECURITY_CODE": "000151",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "吴云",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2000000,
+      "FREE_HOLDNUM_RATIO": 0.649488359861,
+      "HOLD_NUM_CHANGE": "200000",
+      "CHANGE_RATIO": 11.11111111
+    },
+    {
+      "SECUCODE": "000151.SZ",
+      "SECURITY_CODE": "000151",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "董建",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -574,40 +621,27 @@
     {
       "SECUCODE": "000151.SZ",
       "SECURITY_CODE": "000151",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "吴云",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1800000,
-      "FREE_HOLDNUM_RATIO": 0.584539523875,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000151.SZ",
-      "SECURITY_CODE": "000151",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "董行",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1442900,
       "FREE_HOLDNUM_RATIO": 0.468573377222,
-      "HOLD_NUM_CHANGE": "4000",
-      "CHANGE_RATIO": 0.27799013
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000151.SZ",
       "SECURITY_CODE": "000151",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "国家开发投资集团有限公司",
-      "HOLDER_TYPE": "投资公司",
+      "HOLDER_NAME": "栾迪",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1307400,
-      "FREE_HOLDNUM_RATIO": 0.424570540841,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 1339500,
+      "FREE_HOLDNUM_RATIO": 0.434994829017,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -615,13 +649,13 @@
     {
       "SECUCODE": "000151.SZ",
       "SECURITY_CODE": "000151",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 148893228,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLD_NUM_COUNT": 149730028,
       "LIMITED_SHARES": 29436033,
-      "OTHER_UNLIMITED_SHARES": 159041467,
-      "HOLD_NUM_RATIO": 44.13,
+      "OTHER_UNLIMITED_SHARES": 158204667,
+      "HOLD_NUM_RATIO": 44.38,
       "LIMITED_SHARES_RATIO": 8.73,
-      "UNLIMITED_SHARES_RATIO": 47.14
+      "UNLIMITED_SHARES_RATIO": 46.89
     }
   ],
   "sdgd": [
@@ -682,8 +716,8 @@
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 9869500,
       "HOLD_NUM_RATIO": 2.81,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM_CHANGE": "-6600",
+      "CHANGE_RATIO": -0.066828
     },
     {
       "SECUCODE": "000151.SZ",
@@ -706,8 +740,8 @@
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2071600,
       "HOLD_NUM_RATIO": 0.59,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM_CHANGE": "-598100",
+      "CHANGE_RATIO": -22.40326628
     },
     {
       "SECUCODE": "000151.SZ",
@@ -730,8 +764,8 @@
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1800000,
       "HOLD_NUM_RATIO": 0.51,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM_CHANGE": "-200000",
+      "CHANGE_RATIO": -10
     },
     {
       "SECUCODE": "000151.SZ",
@@ -752,10 +786,10 @@
       "SECURITY_CODE": "000151",
       "REPORT_DATE": "2025-12-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 20,
-      "TOTAL_FREE_SHARES": 583300,
-      "TOTAL_SHARES_RATIO": 0.18942328,
-      "ALL_SHARES_RATIO": 0.17289585
+      "TOTAL_ORG_NUM": 23,
+      "TOTAL_FREE_SHARES": 157550161,
+      "TOTAL_SHARES_RATIO": 41.60431743,
+      "ALL_SHARES_RATIO": 37.97428685
     },
     {
       "SECUCODE": "000151.SZ",
@@ -766,6 +800,16 @@
       "TOTAL_FREE_SHARES": 583300,
       "TOTAL_SHARES_RATIO": 0.18942328,
       "ALL_SHARES_RATIO": 0.17289585
+    },
+    {
+      "SECUCODE": "000151.SZ",
+      "SECURITY_CODE": "000151",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 156966861,
+      "TOTAL_SHARES_RATIO": 41.41489415,
+      "ALL_SHARES_RATIO": 37.801391
     }
   ],
   "jjcg": [

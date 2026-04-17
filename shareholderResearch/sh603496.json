@@ -53,8 +53,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 27.28,
       "AVG_HOLD_AMT": 147262.351209414,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 34.94701994,
+      "FREEHOLD_RATIO_TOTAL": 34.94701994
     },
     {
       "SECUCODE": "603496.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603496.SH",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603496.SH",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603496.SH",
       "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603496.SH",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603496.SH",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603496.SH",
       "END_DATE": "2025-09-30 00:00:00",
@@ -430,19 +435,7 @@
       "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-09-16 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2022570,
-      "HOLD_NUM_RATIO": 0.63,
-      "HOLD_CHANGE": "-43900",
-      "CHANGE_RATIO": -2.12439571,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "603496.SH",
@@ -470,7 +463,7 @@
     {
       "SECUCODE": "603496.SH",
       "SECURITY_CODE": "603496",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "沈振宇",
       "HOLDER_TYPE": "个人",
@@ -483,7 +476,7 @@
     {
       "SECUCODE": "603496.SH",
       "SECURITY_CODE": "603496",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "胡德勇",
       "HOLDER_TYPE": "个人",
@@ -496,7 +489,7 @@
     {
       "SECUCODE": "603496.SH",
       "SECURITY_CODE": "603496",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "王翔",
       "HOLDER_TYPE": "个人",
@@ -509,7 +502,7 @@
     {
       "SECUCODE": "603496.SH",
       "SECURITY_CODE": "603496",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "张诗超",
       "HOLDER_TYPE": "个人",
@@ -522,7 +515,7 @@
     {
       "SECUCODE": "603496.SH",
       "SECURITY_CODE": "603496",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "黄琦",
       "HOLDER_TYPE": "个人",
@@ -535,7 +528,7 @@
     {
       "SECUCODE": "603496.SH",
       "SECURITY_CODE": "603496",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "上海迎水投资管理有限公司-迎水合力12号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
@@ -548,21 +541,8 @@
     {
       "SECUCODE": "603496.SH",
       "SECURITY_CODE": "603496",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3837944,
-      "FREE_HOLDNUM_RATIO": 1.198573771339,
-      "HOLD_NUM_CHANGE": "-896300",
-      "CHANGE_RATIO": -18.93227303
-    },
-    {
-      "SECUCODE": "603496.SH",
-      "SECURITY_CODE": "603496",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "黄明伟",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -574,27 +554,40 @@
     {
       "SECUCODE": "603496.SH",
       "SECURITY_CODE": "603496",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2022570,
-      "FREE_HOLDNUM_RATIO": 0.631640105404,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2067364,
+      "FREE_HOLDNUM_RATIO": 0.64562908323,
+      "HOLD_NUM_CHANGE": "44794",
+      "CHANGE_RATIO": 2.21470703
     },
     {
       "SECUCODE": "603496.SH",
       "SECURITY_CODE": "603496",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "颜忠标",
-      "HOLDER_TYPE": "个人",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1661726,
-      "FREE_HOLDNUM_RATIO": 0.518950041676,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 1682325,
+      "FREE_HOLDNUM_RATIO": 0.525383022751,
+      "HOLD_NUM_CHANGE": "-2155619",
+      "CHANGE_RATIO": -56.16598366
+    },
+    {
+      "SECUCODE": "603496.SH",
+      "SECURITY_CODE": "603496",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "招商银行股份有限公司-华夏中证1000交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1298600,
+      "FREE_HOLDNUM_RATIO": 0.405547318945,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -602,20 +595,20 @@
     {
       "SECUCODE": "603496.SH",
       "SECURITY_CODE": "603496",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 114377539,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLD_NUM_COUNT": 111903588,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 205831704,
-      "HOLD_NUM_RATIO": 35.72,
+      "OTHER_UNLIMITED_SHARES": 208305655,
+      "HOLD_NUM_RATIO": 34.95,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 64.28
+      "UNLIMITED_SHARES_RATIO": 65.05
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603496.SH",
       "SECURITY_CODE": "603496",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "沈振宇",
       "SHARES_TYPE": "流通A股",
@@ -627,7 +620,7 @@
     {
       "SECUCODE": "603496.SH",
       "SECURITY_CODE": "603496",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "胡德勇",
       "SHARES_TYPE": "流通A股",
@@ -639,7 +632,7 @@
     {
       "SECUCODE": "603496.SH",
       "SECURITY_CODE": "603496",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "王翔",
       "SHARES_TYPE": "流通A股",
@@ -651,7 +644,7 @@
     {
       "SECUCODE": "603496.SH",
       "SECURITY_CODE": "603496",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "张诗超",
       "SHARES_TYPE": "流通A股",
@@ -663,7 +656,7 @@
     {
       "SECUCODE": "603496.SH",
       "SECURITY_CODE": "603496",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "黄琦",
       "SHARES_TYPE": "流通A股",
@@ -675,7 +668,7 @@
     {
       "SECUCODE": "603496.SH",
       "SECURITY_CODE": "603496",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "上海迎水投资管理有限公司-迎水合力12号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
@@ -687,20 +680,8 @@
     {
       "SECUCODE": "603496.SH",
       "SECURITY_CODE": "603496",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3837944,
-      "HOLD_NUM_RATIO": 1.2,
-      "HOLD_NUM_CHANGE": "-896300",
-      "CHANGE_RATIO": -18.93227303
-    },
-    {
-      "SECUCODE": "603496.SH",
-      "SECURITY_CODE": "603496",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "黄明伟",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2170477,
@@ -711,25 +692,37 @@
     {
       "SECUCODE": "603496.SH",
       "SECURITY_CODE": "603496",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2022570,
-      "HOLD_NUM_RATIO": 0.63,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2067364,
+      "HOLD_NUM_RATIO": 0.65,
+      "HOLD_NUM_CHANGE": "44794",
+      "CHANGE_RATIO": 2.21470703
     },
     {
       "SECUCODE": "603496.SH",
       "SECURITY_CODE": "603496",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "颜忠标",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1661726,
-      "HOLD_NUM_RATIO": 0.52,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 1682325,
+      "HOLD_NUM_RATIO": 0.53,
+      "HOLD_NUM_CHANGE": "-2155619",
+      "CHANGE_RATIO": -56.16598366
+    },
+    {
+      "SECUCODE": "603496.SH",
+      "SECURITY_CODE": "603496",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "招商银行股份有限公司-华夏中证1000交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1298600,
+      "HOLD_NUM_RATIO": 0.41,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -739,10 +732,10 @@
       "SECURITY_CODE": "603496",
       "REPORT_DATE": "2025-12-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 55,
-      "TOTAL_FREE_SHARES": 6020425,
-      "TOTAL_SHARES_RATIO": 1.8801534,
-      "ALL_SHARES_RATIO": 1.8801534
+      "TOTAL_ORG_NUM": 57,
+      "TOTAL_FREE_SHARES": 12733092,
+      "TOTAL_SHARES_RATIO": 3.97649107,
+      "ALL_SHARES_RATIO": 3.97649107
     },
     {
       "SECUCODE": "603496.SH",
@@ -753,6 +746,16 @@
       "TOTAL_FREE_SHARES": 6020425,
       "TOTAL_SHARES_RATIO": 1.8801534,
       "ALL_SHARES_RATIO": 1.8801534
+    },
+    {
+      "SECUCODE": "603496.SH",
+      "SECURITY_CODE": "603496",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 6712667,
+      "TOTAL_SHARES_RATIO": 2.09633767,
+      "ALL_SHARES_RATIO": 2.09633767
     }
   ],
   "jjcg": [
