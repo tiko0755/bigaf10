@@ -3,6 +3,20 @@
     {
       "SECUCODE": "301680.SZ",
       "SECURITY_CODE": "301680",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_TOTAL_NUM": 25433,
+      "TOTAL_NUM_RATIO": -23.0795,
+      "AVG_FREE_SHARES": 660,
+      "AVG_FREESHARES_RATIO": 30.004325089451,
+      "HOLD_FOCUS": "较集中",
+      "PRICE": 104,
+      "AVG_HOLD_AMT": 68708.2892305273,
+      "HOLD_RATIO_TOTAL": null,
+      "FREEHOLD_RATIO_TOTAL": null
+    },
+    {
+      "SECUCODE": "301680.SZ",
+      "SECURITY_CODE": "301680",
       "END_DATE": "2026-03-10 00:00:00",
       "HOLDER_TOTAL_NUM": 33064,
       "TOTAL_NUM_RATIO": 37.5603,
@@ -40,6 +54,20 @@
       "PRICE": null,
       "AVG_HOLD_AMT": null,
       "HOLD_RATIO_TOTAL": 100,
+      "FREEHOLD_RATIO_TOTAL": null
+    },
+    {
+      "SECUCODE": "301680.SZ",
+      "SECURITY_CODE": "301680",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_TOTAL_NUM": 38,
+      "TOTAL_NUM_RATIO": 0,
+      "AVG_FREE_SHARES": null,
+      "AVG_FREESHARES_RATIO": null,
+      "HOLD_FOCUS": "非常集中",
+      "PRICE": null,
+      "AVG_HOLD_AMT": null,
+      "HOLD_RATIO_TOTAL": 85.70621256,
       "FREEHOLD_RATIO_TOTAL": null
     },
     {
@@ -111,34 +139,6 @@
       "AVG_HOLD_AMT": null,
       "HOLD_RATIO_TOTAL": 75.43717305,
       "FREEHOLD_RATIO_TOTAL": null
-    },
-    {
-      "SECUCODE": "301680.SZ",
-      "SECURITY_CODE": "301680",
-      "END_DATE": "2018-06-30 00:00:00",
-      "HOLDER_TOTAL_NUM": 24,
-      "TOTAL_NUM_RATIO": 0,
-      "AVG_FREE_SHARES": 1039357,
-      "AVG_FREESHARES_RATIO": 0,
-      "HOLD_FOCUS": "非常集中",
-      "PRICE": null,
-      "AVG_HOLD_AMT": null,
-      "HOLD_RATIO_TOTAL": 75.69117027,
-      "FREEHOLD_RATIO_TOTAL": null
-    },
-    {
-      "SECUCODE": "301680.SZ",
-      "SECURITY_CODE": "301680",
-      "END_DATE": "2017-12-31 00:00:00",
-      "HOLDER_TOTAL_NUM": 24,
-      "TOTAL_NUM_RATIO": -20,
-      "AVG_FREE_SHARES": 1039357,
-      "AVG_FREESHARES_RATIO": 25,
-      "HOLD_FOCUS": "非常集中",
-      "PRICE": null,
-      "AVG_HOLD_AMT": null,
-      "HOLD_RATIO_TOTAL": 75.69117027,
-      "FREEHOLD_RATIO_TOTAL": null
     }
   ],
   "sdltgd_date": [],
@@ -152,6 +152,11 @@
       "SECUCODE": "301680.SZ",
       "END_DATE": "2026-02-06 00:00:00",
       "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "301680.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
     },
     {
       "SECUCODE": "301680.SZ",
@@ -237,9 +242,19 @@
       "HOLD_RATIO": 35.07
     }
   ],
-  "jgcc_date": [],
+  "jgcc_date": [
+    {
+      "SECUCODE": "301680.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    }
+  ],
   "sdgdcgbd": [],
-  "jjcg_date": [],
+  "jjcg_date": [
+    {
+      "SECUCODE": "301680.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    }
+  ],
   "xsjj": [
     {
       "SECUCODE": "301680.SZ",
@@ -425,6 +440,64 @@
       "HOLD_NUM_RATIO": 1.63,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    }
+  ],
+  "jgcc": [
+    {
+      "SECUCODE": "301680.SZ",
+      "SECURITY_CODE": "301680",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "00",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 588,
+      "TOTAL_SHARES_RATIO": 0.00349949,
+      "ALL_SHARES_RATIO": 0.00071014
+    },
+    {
+      "SECUCODE": "301680.SZ",
+      "SECURITY_CODE": "301680",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "01",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 588,
+      "TOTAL_SHARES_RATIO": 0.00349949,
+      "ALL_SHARES_RATIO": 0.00071014
+    }
+  ],
+  "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "301680.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "167506",
+      "HOLDER_NAME": "安信深圳科技指数(LOF)A",
+      "TOTAL_SHARES": 471,
+      "HOLD_VALUE": 48984,
+      "TOTALSHARES_RATIO": 0.00056884,
+      "FREESHARES_RATIO": 0.00280316,
+      "FREE_MARKET_CAP": null,
+      "FREE_SHARES": null,
+      "SECURITY_CODE": "301680",
+      "FUND_CODE": "167506",
+      "FUND_DERIVECODE": "167506.SZ",
+      "NETVALUE_RATIO": 0.04
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "301680.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "161217",
+      "HOLDER_NAME": "国投瑞银中证资源指数(LOF)A",
+      "TOTAL_SHARES": 117,
+      "HOLD_VALUE": 12168,
+      "TOTALSHARES_RATIO": 0.0001413,
+      "FREESHARES_RATIO": 0.00069633,
+      "FREE_MARKET_CAP": null,
+      "FREE_SHARES": null,
+      "SECURITY_CODE": "301680",
+      "FUND_CODE": "161217",
+      "FUND_DERIVECODE": "161217.SZ",
+      "NETVALUE_RATIO": 0
     }
   ]
 }

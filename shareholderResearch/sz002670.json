@@ -53,8 +53,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 16.84,
       "AVG_HOLD_AMT": 261848.302952654,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 74.38330684,
+      "FREEHOLD_RATIO_TOTAL": 70.19865919
     },
     {
       "SECUCODE": "002670.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002670.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002670.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -157,10 +161,6 @@
     {
       "SECUCODE": "002670.SZ",
       "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002670.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
@@ -178,6 +178,11 @@
       "SECUCODE": "002670.SZ",
       "END_DATE": "2026-01-08 00:00:00",
       "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "002670.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
     },
     {
       "SECUCODE": "002670.SZ",
@@ -408,11 +413,6 @@
       "SECUCODE": "002670.SZ",
       "END_DATE": "2017-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002670.SZ",
-      "END_DATE": "2017-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -518,7 +518,7 @@
     {
       "SECUCODE": "002670.SZ",
       "SECURITY_CODE": "002670",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "江西省交通投资集团有限责任公司",
       "HOLDER_TYPE": "投资公司",
@@ -531,7 +531,7 @@
     {
       "SECUCODE": "002670.SZ",
       "SECURITY_CODE": "002670",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "江西省财政投资集团有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -544,21 +544,8 @@
     {
       "SECUCODE": "002670.SZ",
       "SECURITY_CODE": "002670",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "南昌金融控股有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 133575768,
-      "FREE_HOLDNUM_RATIO": 8.228399040992,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002670.SZ",
-      "SECURITY_CODE": "002670",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "江西江投资本有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -570,8 +557,8 @@
     {
       "SECUCODE": "002670.SZ",
       "SECURITY_CODE": "002670",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "江西省建材集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -583,7 +570,20 @@
     {
       "SECUCODE": "002670.SZ",
       "SECURITY_CODE": "002670",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "南昌金融控股有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 114224952,
+      "FREE_HOLDNUM_RATIO": 7.036369691651,
+      "HOLD_NUM_CHANGE": "-19350816",
+      "CHANGE_RATIO": -14.48677128
+    },
+    {
+      "SECUCODE": "002670.SZ",
+      "SECURITY_CODE": "002670",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "江西赣粤高速公路股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -596,7 +596,7 @@
     {
       "SECUCODE": "002670.SZ",
       "SECURITY_CODE": "002670",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "北京岫晞股权投资中心(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -609,33 +609,33 @@
     {
       "SECUCODE": "002670.SZ",
       "SECURITY_CODE": "002670",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 29624470,
-      "FREE_HOLDNUM_RATIO": 1.824896567601,
-      "HOLD_NUM_CHANGE": "3907675",
-      "CHANGE_RATIO": 15.19503111
-    },
-    {
-      "SECUCODE": "002670.SZ",
-      "SECURITY_CODE": "002670",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "中国建设银行股份有限公司-国泰中证全指证券公司交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 15002301,
-      "FREE_HOLDNUM_RATIO": 0.924156536843,
-      "HOLD_NUM_CHANGE": "5991867",
-      "CHANGE_RATIO": 66.49920525
+      "HOLD_NUM": 15975337,
+      "FREE_HOLDNUM_RATIO": 0.98409651405,
+      "HOLD_NUM_CHANGE": "973036",
+      "CHANGE_RATIO": 6.48591173
     },
     {
       "SECUCODE": "002670.SZ",
       "SECURITY_CODE": "002670",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 13277529,
+      "FREE_HOLDNUM_RATIO": 0.817908880676,
+      "HOLD_NUM_CHANGE": "-16346941",
+      "CHANGE_RATIO": -55.18053488
+    },
+    {
+      "SECUCODE": "002670.SZ",
+      "SECURITY_CODE": "002670",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "江西省地质矿产勘查开发局",
       "HOLDER_TYPE": "其它",
@@ -650,13 +650,13 @@
     {
       "SECUCODE": "002670.SZ",
       "SECURITY_CODE": "002670",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 1174295100,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLD_NUM_COUNT": 1139570379,
       "LIMITED_SHARES": 311734019,
-      "OTHER_UNLIMITED_SHARES": 449055534,
-      "HOLD_NUM_RATIO": 60.68,
+      "OTHER_UNLIMITED_SHARES": 483780255,
+      "HOLD_NUM_RATIO": 58.89,
       "LIMITED_SHARES_RATIO": 16.11,
-      "UNLIMITED_SHARES_RATIO": 23.21
+      "UNLIMITED_SHARES_RATIO": 25
     }
   ],
   "sdgd": [
@@ -739,10 +739,10 @@
       "SECURITY_CODE": "002670",
       "REPORT_DATE": "2025-12-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 122,
-      "TOTAL_FREE_SHARES": 55233942,
-      "TOTAL_SHARES_RATIO": 3.40246524,
-      "ALL_SHARES_RATIO": 2.85434246
+      "TOTAL_ORG_NUM": 131,
+      "TOTAL_FREE_SHARES": 1178828984,
+      "TOTAL_SHARES_RATIO": 72.6170279,
+      "ALL_SHARES_RATIO": 60.91872949
     },
     {
       "SECUCODE": "002670.SZ",
@@ -753,6 +753,16 @@
       "TOTAL_FREE_SHARES": 55233942,
       "TOTAL_SHARES_RATIO": 3.40246524,
       "ALL_SHARES_RATIO": 2.85434246
+    },
+    {
+      "SECUCODE": "002670.SZ",
+      "SECURITY_CODE": "002670",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 9,
+      "TOTAL_FREE_SHARES": 1123595042,
+      "TOTAL_SHARES_RATIO": 69.21456266,
+      "ALL_SHARES_RATIO": 58.06438703
     }
   ],
   "jjcg": [

@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300939.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300939.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300939.SZ",
       "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300939.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300939.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300939.SZ",
       "END_DATE": "2025-09-30 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "300939.SZ",
       "END_DATE": "2022-06-23 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300939.SZ",
-      "END_DATE": "2022-06-22 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "300939.SZ",
       "SECURITY_CODE": "300939",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "深圳市汉志投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -486,22 +486,22 @@
     {
       "SECUCODE": "300939.SZ",
       "SECURITY_CODE": "300939",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "ZHANG HUI",
+      "HOLDER_NAME": "ZHANGHUI",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 4041000,
       "FREE_HOLDNUM_RATIO": 3.3675,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300939.SZ",
       "SECURITY_CODE": "300939",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "JL Grand Palace Technology Co.,LLC",
+      "HOLDER_NAME": "JLGrandPalace TechnologyCo.,LLC",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 3690000,
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "300939.SZ",
       "SECURITY_CODE": "300939",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "深圳市金信联合投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -525,7 +525,7 @@
     {
       "SECUCODE": "300939.SZ",
       "SECURITY_CODE": "300939",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "赣州新业成投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -538,47 +538,21 @@
     {
       "SECUCODE": "300939.SZ",
       "SECURITY_CODE": "300939",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "深圳秋田微电子股份有限公司-2025年员工持股计划",
       "HOLDER_TYPE": "员工持股计划",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1425982,
       "FREE_HOLDNUM_RATIO": 1.188318333333,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300939.SZ",
       "SECURITY_CODE": "300939",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "赣州春华赋投资合伙企业(有限合伙)",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1090910,
-      "FREE_HOLDNUM_RATIO": 0.909091666667,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300939.SZ",
-      "SECURITY_CODE": "300939",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "赣州秋实赋投资合伙企业(有限合伙)",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1080270,
-      "FREE_HOLDNUM_RATIO": 0.900225,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300939.SZ",
-      "SECURITY_CODE": "300939",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "北海诚誉投资有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -590,35 +564,61 @@
     {
       "SECUCODE": "300939.SZ",
       "SECURITY_CODE": "300939",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "赣州谷雨赋投资合伙企业(有限合伙)",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "广发证券股份有限公司-博道成长智航股票型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 784440,
+      "FREE_HOLDNUM_RATIO": 0.6537,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300939.SZ",
+      "SECURITY_CODE": "300939",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "赣州秋实赋投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 787220,
-      "FREE_HOLDNUM_RATIO": 0.656016666667,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 631370,
+      "FREE_HOLDNUM_RATIO": 0.526141666667,
+      "HOLD_NUM_CHANGE": "-448900",
+      "CHANGE_RATIO": -41.55442621
+    },
+    {
+      "SECUCODE": "300939.SZ",
+      "SECURITY_CODE": "300939",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "赣州春华赋投资合伙企业(有限合伙)",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 613310,
+      "FREE_HOLDNUM_RATIO": 0.511091666667,
+      "HOLD_NUM_CHANGE": "-477600",
+      "CHANGE_RATIO": -43.77996352
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "300939.SZ",
       "SECURITY_CODE": "300939",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 71851547,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLD_NUM_COUNT": 70922267,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 48148453,
-      "HOLD_NUM_RATIO": 59.88,
+      "OTHER_UNLIMITED_SHARES": 49077733,
+      "HOLD_NUM_RATIO": 59.1,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 40.12
+      "UNLIMITED_SHARES_RATIO": 40.9
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300939.SZ",
       "SECURITY_CODE": "300939",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "深圳市汉志投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,21 +630,21 @@
     {
       "SECUCODE": "300939.SZ",
       "SECURITY_CODE": "300939",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "ZHANG HUI",
+      "HOLDER_NAME": "ZHANGHUI",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4041000,
       "HOLD_NUM_RATIO": 3.37,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300939.SZ",
       "SECURITY_CODE": "300939",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "JL Grand Palace Technology Co.,LLC",
+      "HOLDER_NAME": "JLGrand Palace Technology Co.,LLC",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3690000,
       "HOLD_NUM_RATIO": 3.08,
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "300939.SZ",
       "SECURITY_CODE": "300939",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "深圳市金信联合投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -666,7 +666,7 @@
     {
       "SECUCODE": "300939.SZ",
       "SECURITY_CODE": "300939",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "赣州新业成投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -678,44 +678,20 @@
     {
       "SECUCODE": "300939.SZ",
       "SECURITY_CODE": "300939",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "深圳秋田微电子股份有限公司-2025年员工持股计划",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1425982,
       "HOLD_NUM_RATIO": 1.19,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300939.SZ",
       "SECURITY_CODE": "300939",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "赣州春华赋投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1090910,
-      "HOLD_NUM_RATIO": 0.91,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300939.SZ",
-      "SECURITY_CODE": "300939",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "赣州秋实赋投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1080270,
-      "HOLD_NUM_RATIO": 0.9,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300939.SZ",
-      "SECURITY_CODE": "300939",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "北海诚誉投资有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 996665,
@@ -726,14 +702,38 @@
     {
       "SECUCODE": "300939.SZ",
       "SECURITY_CODE": "300939",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "赣州谷雨赋投资合伙企业(有限合伙)",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "广发证券股份有限公司-博道成长智航股票型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 787220,
-      "HOLD_NUM_RATIO": 0.66,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 784440,
+      "HOLD_NUM_RATIO": 0.65,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300939.SZ",
+      "SECURITY_CODE": "300939",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "赣州秋实赋投资合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 631370,
+      "HOLD_NUM_RATIO": 0.53,
+      "HOLD_NUM_CHANGE": "-448900",
+      "CHANGE_RATIO": -41.55442621
+    },
+    {
+      "SECUCODE": "300939.SZ",
+      "SECURITY_CODE": "300939",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "赣州春华赋投资合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 613310,
+      "HOLD_NUM_RATIO": 0.51,
+      "HOLD_NUM_CHANGE": "-477600",
+      "CHANGE_RATIO": -43.77996352
     }
   ],
   "jgcc": [
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "300939",
       "REPORT_DATE": "2025-12-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 28,
-      "TOTAL_FREE_SHARES": 1364990,
-      "TOTAL_SHARES_RATIO": 1.13749166,
-      "ALL_SHARES_RATIO": 1.13749166
+      "TOTAL_ORG_NUM": 36,
+      "TOTAL_FREE_SHARES": 67461817,
+      "TOTAL_SHARES_RATIO": 56.21818084,
+      "ALL_SHARES_RATIO": 56.21818084
     },
     {
       "SECUCODE": "300939.SZ",
@@ -756,6 +756,16 @@
       "TOTAL_FREE_SHARES": 1364990,
       "TOTAL_SHARES_RATIO": 1.13749166,
       "ALL_SHARES_RATIO": 1.13749166
+    },
+    {
+      "SECUCODE": "300939.SZ",
+      "SECURITY_CODE": "300939",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 66096827,
+      "TOTAL_SHARES_RATIO": 55.08068918,
+      "ALL_SHARES_RATIO": 55.08068918
     }
   ],
   "jjcg": [

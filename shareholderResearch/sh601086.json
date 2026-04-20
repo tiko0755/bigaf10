@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "601086.SH",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "601086.SH",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "601086.SH",
       "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "601086.SH",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "601086.SH",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "601086.SH",
       "END_DATE": "2025-09-30 00:00:00",
@@ -430,52 +435,7 @@
       "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-08-06 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "张国芳",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 273840000,
-      "HOLD_NUM_RATIO": 41.12,
-      "HOLD_CHANGE": "-3173000",
-      "CHANGE_RATIO": -1.14543361,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-08-06 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "张辉阳",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 40050000,
-      "HOLD_NUM_RATIO": 6.01,
-      "HOLD_CHANGE": "-275000",
-      "CHANGE_RATIO": -0.68195908,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-08-04 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "张辉阳",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 40325000,
-      "HOLD_NUM_RATIO": 6.05,
-      "HOLD_CHANGE": "-2712000",
-      "CHANGE_RATIO": -6.30155448,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-07-28 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "张国芳",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 277013000,
-      "HOLD_NUM_RATIO": 41.59,
-      "HOLD_CHANGE": "-3487000",
-      "CHANGE_RATIO": -1.24313725,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "601086.SH",
@@ -503,20 +463,20 @@
     {
       "SECUCODE": "601086.SH",
       "SECURITY_CODE": "601086",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "张国芳",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 273840000,
       "FREE_HOLDNUM_RATIO": 41.117117117117,
-      "HOLD_NUM_CHANGE": "-6660000",
-      "CHANGE_RATIO": -2.37433155
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601086.SH",
       "SECURITY_CODE": "601086",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "张春芳",
       "HOLDER_TYPE": "个人",
@@ -529,7 +489,7 @@
     {
       "SECUCODE": "601086.SH",
       "SECURITY_CODE": "601086",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "张辉",
       "HOLDER_TYPE": "个人",
@@ -542,20 +502,20 @@
     {
       "SECUCODE": "601086.SH",
       "SECURITY_CODE": "601086",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "张辉阳",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 40050000,
       "FREE_HOLDNUM_RATIO": 6.013513513514,
-      "HOLD_NUM_CHANGE": "-2987000",
-      "CHANGE_RATIO": -6.94053954
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601086.SH",
       "SECURITY_CODE": "601086",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "蒋勇",
       "HOLDER_TYPE": "个人",
@@ -568,87 +528,87 @@
     {
       "SECUCODE": "601086.SH",
       "SECURITY_CODE": "601086",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "周杰洪",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 760000,
+      "FREE_HOLDNUM_RATIO": 0.114114114114,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "601086.SH",
+      "SECURITY_CODE": "601086",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "石伟君",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 750000,
       "FREE_HOLDNUM_RATIO": 0.112612612613,
-      "HOLD_NUM_CHANGE": "9500",
-      "CHANGE_RATIO": 1.28291695
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601086.SH",
       "SECURITY_CODE": "601086",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "BARCLAYS BANK PLC",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "高盛国际-自有资金",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 704700,
-      "FREE_HOLDNUM_RATIO": 0.105810810811,
+      "HOLD_NUM": 671809,
+      "FREE_HOLDNUM_RATIO": 0.100872222222,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601086.SH",
       "SECURITY_CODE": "601086",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "蔡赛杰",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 539800,
-      "FREE_HOLDNUM_RATIO": 0.081051051051,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "601086.SH",
-      "SECURITY_CODE": "601086",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "夏磊",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 523800,
-      "FREE_HOLDNUM_RATIO": 0.078648648649,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "601086.SH",
-      "SECURITY_CODE": "601086",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "UBS AG",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 474589,
-      "FREE_HOLDNUM_RATIO": 0.07125960961,
-      "HOLD_NUM_CHANGE": "-43540",
-      "CHANGE_RATIO": -8.40331269
+      "HOLD_NUM": 660169,
+      "FREE_HOLDNUM_RATIO": 0.099124474474,
+      "HOLD_NUM_CHANGE": "185580",
+      "CHANGE_RATIO": 39.10330834
+    },
+    {
+      "SECUCODE": "601086.SH",
+      "SECURITY_CODE": "601086",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 623697,
+      "FREE_HOLDNUM_RATIO": 0.093648198198,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "601086.SH",
       "SECURITY_CODE": "601086",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 497832889,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLD_NUM_COUNT": 498305675,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 168167111,
-      "HOLD_NUM_RATIO": 74.75,
+      "OTHER_UNLIMITED_SHARES": 167694325,
+      "HOLD_NUM_RATIO": 74.82,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 25.25
+      "UNLIMITED_SHARES_RATIO": 25.18
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "601086.SH",
       "SECURITY_CODE": "601086",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "张国芳",
       "SHARES_TYPE": "流通A股",
@@ -660,7 +620,7 @@
     {
       "SECUCODE": "601086.SH",
       "SECURITY_CODE": "601086",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "张春芳",
       "SHARES_TYPE": "流通A股",
@@ -672,7 +632,7 @@
     {
       "SECUCODE": "601086.SH",
       "SECURITY_CODE": "601086",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "张辉",
       "SHARES_TYPE": "流通A股",
@@ -684,7 +644,7 @@
     {
       "SECUCODE": "601086.SH",
       "SECURITY_CODE": "601086",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "张辉阳",
       "SHARES_TYPE": "流通A股",
@@ -696,7 +656,7 @@
     {
       "SECUCODE": "601086.SH",
       "SECURITY_CODE": "601086",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "蒋勇",
       "SHARES_TYPE": "流通A股",
@@ -708,62 +668,62 @@
     {
       "SECUCODE": "601086.SH",
       "SECURITY_CODE": "601086",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "周杰洪",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 760000,
+      "HOLD_NUM_RATIO": 0.11,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "601086.SH",
+      "SECURITY_CODE": "601086",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "石伟君",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 750000,
       "HOLD_NUM_RATIO": 0.11,
-      "HOLD_NUM_CHANGE": "9500",
-      "CHANGE_RATIO": 1.28291695
-    },
-    {
-      "SECUCODE": "601086.SH",
-      "SECURITY_CODE": "601086",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "BARCLAYS BANK PLC",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 704700,
-      "HOLD_NUM_RATIO": 0.11,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601086.SH",
       "SECURITY_CODE": "601086",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "蔡赛杰",
+      "HOLDER_NAME": "高盛国际-自有资金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 539800,
-      "HOLD_NUM_RATIO": 0.08,
+      "HOLD_NUM": 671809,
+      "HOLD_NUM_RATIO": 0.1,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601086.SH",
       "SECURITY_CODE": "601086",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "夏磊",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 523800,
-      "HOLD_NUM_RATIO": 0.08,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "601086.SH",
-      "SECURITY_CODE": "601086",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "UBS AG",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 474589,
-      "HOLD_NUM_RATIO": 0.07,
-      "HOLD_NUM_CHANGE": "-43540",
-      "CHANGE_RATIO": -8.40331269
+      "HOLD_NUM": 660169,
+      "HOLD_NUM_RATIO": 0.1,
+      "HOLD_NUM_CHANGE": "185580",
+      "CHANGE_RATIO": 39.10330834
+    },
+    {
+      "SECUCODE": "601086.SH",
+      "SECURITY_CODE": "601086",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 623697,
+      "HOLD_NUM_RATIO": 0.09,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
@@ -772,10 +732,10 @@
       "SECURITY_CODE": "601086",
       "REPORT_DATE": "2025-12-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 29,
-      "TOTAL_FREE_SHARES": 1533500,
-      "TOTAL_SHARES_RATIO": 0.23025529,
-      "ALL_SHARES_RATIO": 0.23025529
+      "TOTAL_ORG_NUM": 32,
+      "TOTAL_FREE_SHARES": 3489175,
+      "TOTAL_SHARES_RATIO": 0.52390018,
+      "ALL_SHARES_RATIO": 0.52390018
     },
     {
       "SECUCODE": "601086.SH",
@@ -786,6 +746,16 @@
       "TOTAL_FREE_SHARES": 1533500,
       "TOTAL_SHARES_RATIO": 0.23025529,
       "ALL_SHARES_RATIO": 0.23025529
+    },
+    {
+      "SECUCODE": "601086.SH",
+      "SECURITY_CODE": "601086",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 1955675,
+      "TOTAL_SHARES_RATIO": 0.29364489,
+      "ALL_SHARES_RATIO": 0.29364489
     }
   ],
   "jjcg": [
