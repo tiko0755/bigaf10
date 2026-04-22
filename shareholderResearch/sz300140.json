@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 7.01,
       "AVG_HOLD_AMT": 215477.444857926,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 84.48295963,
+      "FREEHOLD_RATIO_TOTAL": 53.72790323
     },
     {
       "SECUCODE": "300140.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300140.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300140.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300140.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300140.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300140.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300140.SZ",
       "END_DATE": "2026-03-18 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "300140.SZ",
       "END_DATE": "2018-08-10 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300140.SZ",
-      "END_DATE": "2018-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "300140.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "300140.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "300140.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300140.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [
@@ -517,20 +517,20 @@
     {
       "SECUCODE": "300140.SZ",
       "SECURITY_CODE": "300140",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "国新建源股权投资基金(成都)合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 254154491,
-      "FREE_HOLDNUM_RATIO": 24.91414535282,
-      "HOLD_NUM_CHANGE": "-15000",
-      "CHANGE_RATIO": -0.00590157
+      "HOLD_NUM": 154953273,
+      "FREE_HOLDNUM_RATIO": 15.189691715568,
+      "HOLD_NUM_CHANGE": "-99201218",
+      "CHANGE_RATIO": -39.0318572
     },
     {
       "SECUCODE": "300140.SZ",
       "SECURITY_CODE": "300140",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "国新发展投资管理有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -543,7 +543,7 @@
     {
       "SECUCODE": "300140.SZ",
       "SECURITY_CODE": "300140",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中国节能环保集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -556,7 +556,7 @@
     {
       "SECUCODE": "300140.SZ",
       "SECURITY_CODE": "300140",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "河北建设投资集团有限责任公司",
       "HOLDER_TYPE": "投资公司",
@@ -569,7 +569,7 @@
     {
       "SECUCODE": "300140.SZ",
       "SECURITY_CODE": "300140",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国启源工程设计研究院有限公司",
       "HOLDER_TYPE": "其它",
@@ -582,7 +582,7 @@
     {
       "SECUCODE": "300140.SZ",
       "SECURITY_CODE": "300140",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "中交西安筑路机械有限公司",
       "HOLDER_TYPE": "其它",
@@ -595,47 +595,21 @@
     {
       "SECUCODE": "300140.SZ",
       "SECURITY_CODE": "300140",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 14390806,
-      "FREE_HOLDNUM_RATIO": 1.410695640347,
-      "HOLD_NUM_CHANGE": "4124152",
-      "CHANGE_RATIO": 40.17036125
+      "HOLD_NUM": 12820587,
+      "FREE_HOLDNUM_RATIO": 1.256770898557,
+      "HOLD_NUM_CHANGE": "-1570219",
+      "CHANGE_RATIO": -10.91126515
     },
     {
       "SECUCODE": "300140.SZ",
       "SECURITY_CODE": "300140",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "国联信托股份有限公司-国联信托·惠越24008号集合资金信托计划",
-      "HOLDER_TYPE": "信托计划",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11379871,
-      "FREE_HOLDNUM_RATIO": 1.115541020246,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300140.SZ",
-      "SECURITY_CODE": "300140",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9112400,
-      "FREE_HOLDNUM_RATIO": 0.89326636417,
-      "HOLD_NUM_CHANGE": "115800",
-      "CHANGE_RATIO": 1.28715292
-    },
-    {
-      "SECUCODE": "300140.SZ",
-      "SECURITY_CODE": "300140",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "中机国际(西安)技术发展有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -643,26 +617,52 @@
       "FREE_HOLDNUM_RATIO": 0.870484758552,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300140.SZ",
+      "SECURITY_CODE": "300140",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "北京天融环保设备中心",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7000000,
+      "FREE_HOLDNUM_RATIO": 0.6861929403,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300140.SZ",
+      "SECURITY_CODE": "300140",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "段京佩",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5050900,
+      "FREE_HOLDNUM_RATIO": 0.495127417452,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "300140.SZ",
       "SECURITY_CODE": "300140",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 657302566,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 548089758,
       "LIMITED_SHARES": 2078945766,
-      "OTHER_UNLIMITED_SHARES": 362818684,
-      "HOLD_NUM_RATIO": 21.21,
+      "OTHER_UNLIMITED_SHARES": 472031492,
+      "HOLD_NUM_RATIO": 17.69,
       "LIMITED_SHARES_RATIO": 67.08,
-      "UNLIMITED_SHARES_RATIO": 11.71
+      "UNLIMITED_SHARES_RATIO": 15.23
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300140.SZ",
       "SECURITY_CODE": "300140",
-      "END_DATE": "2026-03-18 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国环境保护集团有限公司",
       "SHARES_TYPE": "限售流通A股",
@@ -670,48 +670,136 @@
       "HOLD_NUM_RATIO": 66.96,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300140.SZ",
+      "SECURITY_CODE": "300140",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "国新建源股权投资基金(成都)合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 154953273,
+      "HOLD_NUM_RATIO": 5,
+      "HOLD_NUM_CHANGE": "-29711000",
+      "CHANGE_RATIO": -16.08919772
+    },
+    {
+      "SECUCODE": "300140.SZ",
+      "SECURITY_CODE": "300140",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "国新发展投资管理有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 101694915,
+      "HOLD_NUM_RATIO": 3.28,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300140.SZ",
+      "SECURITY_CODE": "300140",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "中国节能环保集团有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 98133708,
+      "HOLD_NUM_RATIO": 3.17,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300140.SZ",
+      "SECURITY_CODE": "300140",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "河北建设投资集团有限责任公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 88203710,
+      "HOLD_NUM_RATIO": 2.85,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300140.SZ",
+      "SECURITY_CODE": "300140",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国启源工程设计研究院有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 51352665,
+      "HOLD_NUM_RATIO": 1.66,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300140.SZ",
+      "SECURITY_CODE": "300140",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中交西安筑路机械有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 20000000,
+      "HOLD_NUM_RATIO": 0.65,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300140.SZ",
+      "SECURITY_CODE": "300140",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 12820587,
+      "HOLD_NUM_RATIO": 0.41,
+      "HOLD_NUM_CHANGE": "-1570219",
+      "CHANGE_RATIO": -10.91126515
+    },
+    {
+      "SECUCODE": "300140.SZ",
+      "SECURITY_CODE": "300140",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中机国际(西安)技术发展有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 8880000,
+      "HOLD_NUM_RATIO": 0.29,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300140.SZ",
+      "SECURITY_CODE": "300140",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "北京天融环保设备中心",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7000000,
+      "HOLD_NUM_RATIO": 0.23,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "300140.SZ",
       "SECURITY_CODE": "300140",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 155,
-      "TOTAL_FREE_SHARES": 675977423,
-      "TOTAL_SHARES_RATIO": 66.26441939,
-      "ALL_SHARES_RATIO": 21.81228802
+      "TOTAL_ORG_NUM": 9,
+      "TOTAL_FREE_SHARES": 543038858,
+      "TOTAL_SHARES_RATIO": 53.23277582,
+      "ALL_SHARES_RATIO": 17.52265619
     },
     {
       "SECUCODE": "300140.SZ",
       "SECURITY_CODE": "300140",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 146,
-      "TOTAL_FREE_SHARES": 27787257,
-      "TOTAL_SHARES_RATIO": 2.72391712,
-      "ALL_SHARES_RATIO": 0.89663299
-    },
-    {
-      "SECUCODE": "300140.SZ",
-      "SECURITY_CODE": "300140",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "06",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 11379871,
-      "TOTAL_SHARES_RATIO": 1.11554102,
-      "ALL_SHARES_RATIO": 0.36720313
-    },
-    {
-      "SECUCODE": "300140.SZ",
-      "SECURITY_CODE": "300140",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 8,
-      "TOTAL_FREE_SHARES": 636810295,
-      "TOTAL_SHARES_RATIO": 62.42496125,
-      "ALL_SHARES_RATIO": 20.5484519
+      "TOTAL_ORG_NUM": 9,
+      "TOTAL_FREE_SHARES": 543038858,
+      "TOTAL_SHARES_RATIO": 53.23277582,
+      "ALL_SHARES_RATIO": 17.52265619
     }
   ],
   "jjcg": [

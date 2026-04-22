@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 2.36,
       "AVG_HOLD_AMT": 68421.7687043867,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 38.61289312,
+      "FREEHOLD_RATIO_TOTAL": 37.50362161
     },
     {
       "SECUCODE": "002217.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002217.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002217.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002217.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002217.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002217.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002217.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002217.SZ",
       "END_DATE": "2019-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002217.SZ",
-      "END_DATE": "2019-08-29 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "002217.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "002217.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,25 +443,9 @@
     {
       "SECUCODE": "002217.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002217.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-12-25 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "合力泰科技股份有限公司破产企业财产处置专用账户",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 839439200,
-      "HOLD_NUM_RATIO": 11.22,
-      "HOLD_CHANGE": "-14949161",
-      "CHANGE_RATIO": -1.74969156,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "002217.SZ",
@@ -495,131 +483,131 @@
     {
       "SECUCODE": "002217.SZ",
       "SECURITY_CODE": "002217",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "福建省电子信息(集团)有限责任公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1269136440,
-      "FREE_HOLDNUM_RATIO": 22.342683260564,
+      "FREE_HOLDNUM_RATIO": 17.434815657693,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002217.SZ",
       "SECURITY_CODE": "002217",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "合力泰科技股份有限公司破产企业财产处置专用账户",
       "HOLDER_TYPE": "证券账户",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 839439200,
-      "FREE_HOLDNUM_RATIO": 14.778020369584,
-      "HOLD_NUM_CHANGE": "-14949161",
-      "CHANGE_RATIO": -1.74969156
+      "FREE_HOLDNUM_RATIO": 11.531831603418,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002217.SZ",
       "SECURITY_CODE": "002217",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "四川发展证券投资基金管理有限公司-川发睿盈私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 225000000,
+      "FREE_HOLDNUM_RATIO": 3.09094704032,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002217.SZ",
+      "SECURITY_CODE": "002217",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "广州骋风吉富投资合伙企业(有限合伙)",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 77354287,
+      "FREE_HOLDNUM_RATIO": 1.062657797594,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002217.SZ",
+      "SECURITY_CODE": "002217",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "北京智路资产管理有限公司-烟台海朝股权投资合伙企业(有限合伙)",
+      "HOLDER_TYPE": "私募基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 63000000,
+      "FREE_HOLDNUM_RATIO": 0.86546517129,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002217.SZ",
+      "SECURITY_CODE": "002217",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "萍乡金伍纾困企业管理中心(有限合伙)",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 60000000,
+      "FREE_HOLDNUM_RATIO": 0.824252544085,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002217.SZ",
+      "SECURITY_CODE": "002217",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "天津信泰福石股权投资合伙企业(有限合伙)",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 58823500,
+      "FREE_HOLDNUM_RATIO": 0.80809032545,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002217.SZ",
+      "SECURITY_CODE": "002217",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "泰安启高昊源企业管理合伙企业(有限合伙)",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 49760000,
+      "FREE_HOLDNUM_RATIO": 0.683580109895,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002217.SZ",
+      "SECURITY_CODE": "002217",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "工银金融资产投资有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 45498887,
-      "FREE_HOLDNUM_RATIO": 0.800991279511,
-      "HOLD_NUM_CHANGE": "-94499977",
-      "CHANGE_RATIO": -67.50053129
+      "FREE_HOLDNUM_RATIO": 0.62504288938,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002217.SZ",
       "SECURITY_CODE": "002217",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "赣州银行股份有限公司庐陵支行",
       "HOLDER_TYPE": "金融",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 41997211,
-      "FREE_HOLDNUM_RATIO": 0.739345553107,
+      "FREE_HOLDNUM_RATIO": 0.576938466854,
       "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002217.SZ",
-      "SECURITY_CODE": "002217",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "汪文政",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 40000000,
-      "FREE_HOLDNUM_RATIO": 0.704185383269,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002217.SZ",
-      "SECURITY_CODE": "002217",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国农业银行股份有限公司江西省分行",
-      "HOLDER_TYPE": "金融",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 33259067,
-      "FREE_HOLDNUM_RATIO": 0.585513721064,
-      "HOLD_NUM_CHANGE": "-45494200",
-      "CHANGE_RATIO": -57.76801615
-    },
-    {
-      "SECUCODE": "002217.SZ",
-      "SECURITY_CODE": "002217",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "赣州银行股份有限公司信丰支行",
-      "HOLDER_TYPE": "金融",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 27900672,
-      "FREE_HOLDNUM_RATIO": 0.491181135145,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002217.SZ",
-      "SECURITY_CODE": "002217",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国中信金融资产管理股份有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 26905417,
-      "FREE_HOLDNUM_RATIO": 0.473660034554,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002217.SZ",
-      "SECURITY_CODE": "002217",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "俞仲庆",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 26533800,
-      "FREE_HOLDNUM_RATIO": 0.467117853065,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002217.SZ",
-      "SECURITY_CODE": "002217",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "福建省和信科工集团有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 26354069,
-      "FREE_HOLDNUM_RATIO": 0.463953754487,
-      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -627,20 +615,20 @@
     {
       "SECUCODE": "002217.SZ",
       "SECURITY_CODE": "002217",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 2377024763,
-      "LIMITED_SHARES": 1799076537,
-      "OTHER_UNLIMITED_SHARES": 3303297628,
-      "HOLD_NUM_RATIO": 31.78,
-      "LIMITED_SHARES_RATIO": 24.05,
-      "UNLIMITED_SHARES_RATIO": 44.17
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 2730009525,
+      "LIMITED_SHARES": 200076537,
+      "OTHER_UNLIMITED_SHARES": 4549312866,
+      "HOLD_NUM_RATIO": 36.5,
+      "LIMITED_SHARES_RATIO": 2.68,
+      "UNLIMITED_SHARES_RATIO": 60.82
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002217.SZ",
       "SECURITY_CODE": "002217",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "福建省电子信息(集团)有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -652,7 +640,7 @@
     {
       "SECUCODE": "002217.SZ",
       "SECURITY_CODE": "002217",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "合力泰科技股份有限公司破产企业财产处置专用账户",
       "SHARES_TYPE": "流通A股",
@@ -664,22 +652,10 @@
     {
       "SECUCODE": "002217.SZ",
       "SECURITY_CODE": "002217",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "北京智路资产管理有限公司-烟台海朝股权投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "限售流通A股",
-      "HOLD_NUM": 370000000,
-      "HOLD_NUM_RATIO": 4.95,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002217.SZ",
-      "SECURITY_CODE": "002217",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "四川发展证券投资基金管理有限公司-川发睿盈私募证券投资基金",
-      "SHARES_TYPE": "限售流通A股",
+      "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 225000000,
       "HOLD_NUM_RATIO": 3.01,
       "HOLD_NUM_CHANGE": "不变",
@@ -688,8 +664,8 @@
     {
       "SECUCODE": "002217.SZ",
       "SECURITY_CODE": "002217",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "杭州骋风而来控股合伙企业(有限合伙)",
       "SHARES_TYPE": "限售流通A股",
       "HOLD_NUM": 200000000,
@@ -700,60 +676,72 @@
     {
       "SECUCODE": "002217.SZ",
       "SECURITY_CODE": "002217",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "广州骋风吉富投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "限售流通A股",
-      "HOLD_NUM": 175000000,
-      "HOLD_NUM_RATIO": 2.34,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 77354287,
+      "HOLD_NUM_RATIO": 1.03,
+      "HOLD_NUM_CHANGE": "-97645713",
+      "CHANGE_RATIO": -55.79755029
     },
     {
       "SECUCODE": "002217.SZ",
       "SECURITY_CODE": "002217",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "北京智路资产管理有限公司-烟台海朝股权投资合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 63000000,
+      "HOLD_NUM_RATIO": 0.84,
+      "HOLD_NUM_CHANGE": "-307000000",
+      "CHANGE_RATIO": -82.97297297
+    },
+    {
+      "SECUCODE": "002217.SZ",
+      "SECURITY_CODE": "002217",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "北京丰汇投资管理有限公司-丰汇精选十期私募证券投资基金",
-      "SHARES_TYPE": "限售流通A股",
-      "HOLD_NUM": 130000000,
-      "HOLD_NUM_RATIO": 1.74,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002217.SZ",
-      "SECURITY_CODE": "002217",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "深圳市招平智算一号投资中心(有限合伙)",
-      "SHARES_TYPE": "限售流通A股",
-      "HOLD_NUM": 74100000,
-      "HOLD_NUM_RATIO": 0.99,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002217.SZ",
-      "SECURITY_CODE": "002217",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "湖州易股鼎盛企业管理合伙企业(有限合伙)",
-      "SHARES_TYPE": "限售流通A股",
-      "HOLD_NUM": 74074074,
-      "HOLD_NUM_RATIO": 0.99,
+      "HOLDER_NAME": "萍乡金伍纾困企业管理中心(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 60000000,
+      "HOLD_NUM_RATIO": 0.8,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002217.SZ",
       "SECURITY_CODE": "002217",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "天津信泰福石股权投资合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 58823500,
+      "HOLD_NUM_RATIO": 0.79,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002217.SZ",
+      "SECURITY_CODE": "002217",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "泰安启高昊源企业管理合伙企业(有限合伙)",
-      "SHARES_TYPE": "限售流通A股",
-      "HOLD_NUM": 61300000,
-      "HOLD_NUM_RATIO": 0.82,
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 49760000,
+      "HOLD_NUM_RATIO": 0.67,
+      "HOLD_NUM_CHANGE": "-11540000",
+      "CHANGE_RATIO": -18.82544861
+    },
+    {
+      "SECUCODE": "002217.SZ",
+      "SECURITY_CODE": "002217",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "工银金融资产投资有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 45498887,
+      "HOLD_NUM_RATIO": 0.61,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -762,22 +750,22 @@
     {
       "SECUCODE": "002217.SZ",
       "SECURITY_CODE": "002217",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 8,
-      "TOTAL_FREE_SHARES": 2310490963,
-      "TOTAL_SHARES_RATIO": 40.6753491,
-      "ALL_SHARES_RATIO": 30.89139896
+      "TOTAL_ORG_NUM": 10,
+      "TOTAL_FREE_SHARES": 2730009525,
+      "TOTAL_SHARES_RATIO": 37.50362161,
+      "ALL_SHARES_RATIO": 36.50038662
     },
     {
       "SECUCODE": "002217.SZ",
       "SECURITY_CODE": "002217",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 8,
-      "TOTAL_FREE_SHARES": 2310490963,
-      "TOTAL_SHARES_RATIO": 40.6753491,
-      "ALL_SHARES_RATIO": 30.89139896
+      "TOTAL_ORG_NUM": 10,
+      "TOTAL_FREE_SHARES": 2730009525,
+      "TOTAL_SHARES_RATIO": 37.50362161,
+      "ALL_SHARES_RATIO": 36.50038662
     }
   ],
   "jjcg": [

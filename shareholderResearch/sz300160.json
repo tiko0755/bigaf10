@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 5.6,
       "AVG_HOLD_AMT": 121716.001117892,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 42.11536214,
+      "FREEHOLD_RATIO_TOTAL": 41.91399869
     },
     {
       "SECUCODE": "300160.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300160.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300160.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300160.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300160.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300160.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300160.SZ",
       "END_DATE": "2026-01-20 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "300160.SZ",
       "END_DATE": "2016-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "300160.SZ",
-      "END_DATE": "2015-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "300160.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "300160.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "300160.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300160.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [
@@ -496,7 +496,7 @@
     {
       "SECUCODE": "300160.SZ",
       "SECURITY_CODE": "300160",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "珠海港股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -509,7 +509,7 @@
     {
       "SECUCODE": "300160.SZ",
       "SECURITY_CODE": "300160",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "香港恒泰科技有限公司",
       "HOLDER_TYPE": "其它",
@@ -522,85 +522,85 @@
     {
       "SECUCODE": "300160.SZ",
       "SECURITY_CODE": "300160",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "宿迁市新星投资有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 44016823,
-      "FREE_HOLDNUM_RATIO": 5.775276962132,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 39087123,
+      "FREE_HOLDNUM_RATIO": 5.128470107394,
+      "HOLD_NUM_CHANGE": "-4929700",
+      "CHANGE_RATIO": -11.19958158
     },
     {
       "SECUCODE": "300160.SZ",
       "SECURITY_CODE": "300160",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "李坚",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10502200,
-      "FREE_HOLDNUM_RATIO": 1.377953009278,
-      "HOLD_NUM_CHANGE": "-8000",
-      "CHANGE_RATIO": -0.07611653
+      "HOLD_NUM": 12474300,
+      "FREE_HOLDNUM_RATIO": 1.636704616522,
+      "HOLD_NUM_CHANGE": "1972100",
+      "CHANGE_RATIO": 18.77797033
     },
     {
       "SECUCODE": "300160.SZ",
       "SECURITY_CODE": "300160",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "李会勋",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 5573300,
       "FREE_HOLDNUM_RATIO": 0.731251119442,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300160.SZ",
+      "SECURITY_CODE": "300160",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "潘卫华",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5286500,
+      "FREE_HOLDNUM_RATIO": 0.69362120161,
+      "HOLD_NUM_CHANGE": "-192000",
+      "CHANGE_RATIO": -3.50460893
+    },
+    {
+      "SECUCODE": "300160.SZ",
+      "SECURITY_CODE": "300160",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "朱军",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4451020,
+      "FREE_HOLDNUM_RATIO": 0.58400110485,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300160.SZ",
       "SECURITY_CODE": "300160",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "潘卫华",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5478500,
-      "FREE_HOLDNUM_RATIO": 0.718812778402,
-      "HOLD_NUM_CHANGE": "192000",
-      "CHANGE_RATIO": 3.63189256
-    },
-    {
-      "SECUCODE": "300160.SZ",
-      "SECURITY_CODE": "300160",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "朱达",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 3845800,
       "FREE_HOLDNUM_RATIO": 0.504592531382,
-      "HOLD_NUM_CHANGE": "-924051",
-      "CHANGE_RATIO": -19.37274351
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300160.SZ",
       "SECURITY_CODE": "300160",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "曹侠明",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3222000,
-      "FREE_HOLDNUM_RATIO": 0.422746148035,
-      "HOLD_NUM_CHANGE": "-636100",
-      "CHANGE_RATIO": -16.48739017
-    },
-    {
-      "SECUCODE": "300160.SZ",
-      "SECURITY_CODE": "300160",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "沈红梅",
       "HOLDER_TYPE": "个人",
@@ -613,13 +613,13 @@
     {
       "SECUCODE": "300160.SZ",
       "SECURITY_CODE": "300160",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "大家人寿保险股份有限公司-万能产品",
-      "HOLDER_TYPE": "保险产品",
+      "HOLDER_NAME": "章根荣",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2916000,
-      "FREE_HOLDNUM_RATIO": 0.382597072523,
+      "HOLD_NUM": 2826400,
+      "FREE_HOLDNUM_RATIO": 0.370841003354,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -628,20 +628,20 @@
     {
       "SECUCODE": "300160.SZ",
       "SECURITY_CODE": "300160",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 321461710,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 319451530,
       "LIMITED_SHARES": 10786775,
-      "OTHER_UNLIMITED_SHARES": 440697807,
-      "HOLD_NUM_RATIO": 41.59,
+      "OTHER_UNLIMITED_SHARES": 442707987,
+      "HOLD_NUM_RATIO": 41.33,
       "LIMITED_SHARES_RATIO": 1.4,
-      "UNLIMITED_SHARES_RATIO": 57.02
+      "UNLIMITED_SHARES_RATIO": 57.28
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300160.SZ",
       "SECURITY_CODE": "300160",
-      "END_DATE": "2026-01-20 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "珠海港股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -653,7 +653,7 @@
     {
       "SECUCODE": "300160.SZ",
       "SECURITY_CODE": "300160",
-      "END_DATE": "2026-01-20 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "香港恒泰科技有限公司",
       "SHARES_TYPE": "流通A股",
@@ -665,56 +665,120 @@
     {
       "SECUCODE": "300160.SZ",
       "SECURITY_CODE": "300160",
-      "END_DATE": "2026-01-20 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "宿迁市新星投资有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 39087123,
       "HOLD_NUM_RATIO": 5.06,
-      "HOLD_NUM_CHANGE": "-2618900",
-      "CHANGE_RATIO": -6.27942875
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300160.SZ",
+      "SECURITY_CODE": "300160",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "李坚",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 12474300,
+      "HOLD_NUM_RATIO": 1.61,
+      "HOLD_NUM_CHANGE": "1972100",
+      "CHANGE_RATIO": 18.77797033
+    },
+    {
+      "SECUCODE": "300160.SZ",
+      "SECURITY_CODE": "300160",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "卢秀强",
+      "SHARES_TYPE": "流通A股,限售流通A股",
+      "HOLD_NUM": 8904000,
+      "HOLD_NUM_RATIO": 1.15,
+      "HOLD_NUM_CHANGE": "-2522322",
+      "CHANGE_RATIO": -22.07466235
+    },
+    {
+      "SECUCODE": "300160.SZ",
+      "SECURITY_CODE": "300160",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "李会勋",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5573300,
+      "HOLD_NUM_RATIO": 0.72,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300160.SZ",
+      "SECURITY_CODE": "300160",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "潘卫华",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5286500,
+      "HOLD_NUM_RATIO": 0.68,
+      "HOLD_NUM_CHANGE": "-192000",
+      "CHANGE_RATIO": -3.50460893
+    },
+    {
+      "SECUCODE": "300160.SZ",
+      "SECURITY_CODE": "300160",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "朱军",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4451020,
+      "HOLD_NUM_RATIO": 0.58,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300160.SZ",
+      "SECURITY_CODE": "300160",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "朱达",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3845800,
+      "HOLD_NUM_RATIO": 0.5,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300160.SZ",
+      "SECURITY_CODE": "300160",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "沈红梅",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3040000,
+      "HOLD_NUM_RATIO": 0.39,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "300160.SZ",
       "SECURITY_CODE": "300160",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 40,
-      "TOTAL_FREE_SHARES": 293150237,
-      "TOTAL_SHARES_RATIO": 38.46310785,
-      "ALL_SHARES_RATIO": 37.92633982
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 281954210,
+      "TOTAL_SHARES_RATIO": 36.99412049,
+      "ALL_SHARES_RATIO": 36.47785272
     },
     {
       "SECUCODE": "300160.SZ",
       "SECURITY_CODE": "300160",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 36,
-      "TOTAL_FREE_SHARES": 3350327,
-      "TOTAL_SHARES_RATIO": 0.43958344,
-      "ALL_SHARES_RATIO": 0.43344891
-    },
-    {
-      "SECUCODE": "300160.SZ",
-      "SECURITY_CODE": "300160",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "05",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 2916000,
-      "TOTAL_SHARES_RATIO": 0.38259707,
-      "ALL_SHARES_RATIO": 0.37725778
-    },
-    {
-      "SECUCODE": "300160.SZ",
-      "SECURITY_CODE": "300160",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 286883910,
-      "TOTAL_SHARES_RATIO": 37.64092734,
-      "ALL_SHARES_RATIO": 37.11563313
+      "TOTAL_FREE_SHARES": 281954210,
+      "TOTAL_SHARES_RATIO": 36.99412049,
+      "ALL_SHARES_RATIO": 36.47785272
     }
   ],
   "jjcg": [
