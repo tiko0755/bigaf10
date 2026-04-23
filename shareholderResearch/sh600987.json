@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 7.39,
       "AVG_HOLD_AMT": 371545.088232368,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 63.39090862,
+      "FREEHOLD_RATIO_TOTAL": 63.39090862
     },
     {
       "SECUCODE": "600987.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600987.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600987.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600987.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600987.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600987.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600987.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600987.SH",
       "END_DATE": "2021-05-06 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "600987.SH",
-      "END_DATE": "2021-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600987.SH",
       "SECURITY_CODE": "600987",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "浙江航民实业集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600987.SH",
       "SECURITY_CODE": "600987",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "环冠珠宝金饰有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,21 +499,8 @@
     {
       "SECUCODE": "600987.SH",
       "SECURITY_CODE": "600987",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 24168470,
-      "FREE_HOLDNUM_RATIO": 2.367557128815,
-      "HOLD_NUM_CHANGE": "-2824160",
-      "CHANGE_RATIO": -10.46270778
-    },
-    {
-      "SECUCODE": "600987.SH",
-      "SECURITY_CODE": "600987",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "杭州钢铁集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -525,7 +512,20 @@
     {
       "SECUCODE": "600987.SH",
       "SECURITY_CODE": "600987",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 15725784,
+      "FREE_HOLDNUM_RATIO": 1.54050678489,
+      "HOLD_NUM_CHANGE": "-8442686",
+      "CHANGE_RATIO": -34.93264572
+    },
+    {
+      "SECUCODE": "600987.SH",
+      "SECURITY_CODE": "600987",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "佛山市顺德金纺集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -538,21 +538,8 @@
     {
       "SECUCODE": "600987.SH",
       "SECURITY_CODE": "600987",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国平安保险(集团)股份有限公司企业年金计划-招商银行股份有限公司",
-      "HOLDER_TYPE": "企业年金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12743050,
-      "FREE_HOLDNUM_RATIO": 1.248316458193,
-      "HOLD_NUM_CHANGE": "-2084300",
-      "CHANGE_RATIO": -14.05713091
-    },
-    {
-      "SECUCODE": "600987.SH",
-      "SECURITY_CODE": "600987",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "太平洋机电(集团)有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -564,39 +551,52 @@
     {
       "SECUCODE": "600987.SH",
       "SECURITY_CODE": "600987",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "平安股票优选3号股票型养老金产品-招商银行股份有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10580045,
-      "FREE_HOLDNUM_RATIO": 1.036427252653,
-      "HOLD_NUM_CHANGE": "-550400",
-      "CHANGE_RATIO": -4.94499546
-    },
-    {
-      "SECUCODE": "600987.SH",
-      "SECURITY_CODE": "600987",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国农业银行股份有限公司-永赢中证沪深港黄金产业股票交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6674460,
-      "FREE_HOLDNUM_RATIO": 0.653833914765,
-      "HOLD_NUM_CHANGE": "815930",
-      "CHANGE_RATIO": 13.92721382
-    },
-    {
-      "SECUCODE": "600987.SH",
-      "SECURITY_CODE": "600987",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "杭州萧越染织有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6471525,
-      "FREE_HOLDNUM_RATIO": 0.633954286227,
+      "HOLD_NUM": 10809307,
+      "FREE_HOLDNUM_RATIO": 1.058885889152,
+      "HOLD_NUM_CHANGE": "4337782",
+      "CHANGE_RATIO": 67.02874516
+    },
+    {
+      "SECUCODE": "600987.SH",
+      "SECURITY_CODE": "600987",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "基本养老保险基金一零零六组合",
+      "HOLDER_TYPE": "基本养老基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 10000000,
+      "FREE_HOLDNUM_RATIO": 0.97960571307,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600987.SH",
+      "SECURITY_CODE": "600987",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国平安保险(集团)股份有限公司企业年金计划-招商银行股份有限公司",
+      "HOLDER_TYPE": "企业年金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 8146850,
+      "FREE_HOLDNUM_RATIO": 0.798070080352,
+      "HOLD_NUM_CHANGE": "-4596200",
+      "CHANGE_RATIO": -36.0682882
+    },
+    {
+      "SECUCODE": "600987.SH",
+      "SECURITY_CODE": "600987",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "招商基金管理有限公司-社保基金1903组合",
+      "HOLDER_TYPE": "全国社保基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7039502,
+      "FREE_HOLDNUM_RATIO": 0.689593637636,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "600987.SH",
       "SECURITY_CODE": "600987",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 656022466,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 647106359,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 364796407,
-      "HOLD_NUM_RATIO": 64.26,
+      "OTHER_UNLIMITED_SHARES": 373712514,
+      "HOLD_NUM_RATIO": 63.39,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 35.74
+      "UNLIMITED_SHARES_RATIO": 36.61
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600987.SH",
       "SECURITY_CODE": "600987",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "浙江航民实业集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600987.SH",
       "SECURITY_CODE": "600987",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "环冠珠宝金饰有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,20 +642,8 @@
     {
       "SECUCODE": "600987.SH",
       "SECURITY_CODE": "600987",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 24168470,
-      "HOLD_NUM_RATIO": 2.37,
-      "HOLD_NUM_CHANGE": "-2824160",
-      "CHANGE_RATIO": -10.46270778
-    },
-    {
-      "SECUCODE": "600987.SH",
-      "SECURITY_CODE": "600987",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "杭州钢铁集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 23315838,
@@ -666,7 +654,19 @@
     {
       "SECUCODE": "600987.SH",
       "SECURITY_CODE": "600987",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 15725784,
+      "HOLD_NUM_RATIO": 1.54,
+      "HOLD_NUM_CHANGE": "-8442686",
+      "CHANGE_RATIO": -34.93264572
+    },
+    {
+      "SECUCODE": "600987.SH",
+      "SECURITY_CODE": "600987",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "佛山市顺德金纺集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -678,20 +678,8 @@
     {
       "SECUCODE": "600987.SH",
       "SECURITY_CODE": "600987",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国平安保险(集团)股份有限公司企业年金计划-招商银行股份有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 12743050,
-      "HOLD_NUM_RATIO": 1.25,
-      "HOLD_NUM_CHANGE": "-2084300",
-      "CHANGE_RATIO": -14.05713091
-    },
-    {
-      "SECUCODE": "600987.SH",
-      "SECURITY_CODE": "600987",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "太平洋机电(集团)有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 12397520,
@@ -702,36 +690,48 @@
     {
       "SECUCODE": "600987.SH",
       "SECURITY_CODE": "600987",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "平安股票优选3号股票型养老金产品-招商银行股份有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10580045,
-      "HOLD_NUM_RATIO": 1.04,
-      "HOLD_NUM_CHANGE": "-550400",
-      "CHANGE_RATIO": -4.94499546
-    },
-    {
-      "SECUCODE": "600987.SH",
-      "SECURITY_CODE": "600987",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国农业银行股份有限公司-永赢中证沪深港黄金产业股票交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6674460,
-      "HOLD_NUM_RATIO": 0.65,
-      "HOLD_NUM_CHANGE": "815930",
-      "CHANGE_RATIO": 13.92721382
-    },
-    {
-      "SECUCODE": "600987.SH",
-      "SECURITY_CODE": "600987",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "杭州萧越染织有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6471525,
-      "HOLD_NUM_RATIO": 0.63,
+      "HOLD_NUM": 10809307,
+      "HOLD_NUM_RATIO": 1.06,
+      "HOLD_NUM_CHANGE": "4337782",
+      "CHANGE_RATIO": 67.02874516
+    },
+    {
+      "SECUCODE": "600987.SH",
+      "SECURITY_CODE": "600987",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "基本养老保险基金一零零六组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 10000000,
+      "HOLD_NUM_RATIO": 0.98,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600987.SH",
+      "SECURITY_CODE": "600987",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国平安保险(集团)股份有限公司企业年金计划-招商银行股份有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 8146850,
+      "HOLD_NUM_RATIO": 0.8,
+      "HOLD_NUM_CHANGE": "-4596200",
+      "CHANGE_RATIO": -36.0682882
+    },
+    {
+      "SECUCODE": "600987.SH",
+      "SECURITY_CODE": "600987",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "招商基金管理有限公司-社保基金1903组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7039502,
+      "HOLD_NUM_RATIO": 0.69,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "600987",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 8,
-      "TOTAL_FREE_SHARES": 9414586,
-      "TOTAL_SHARES_RATIO": 0.92225822,
-      "ALL_SHARES_RATIO": 0.92225822
+      "TOTAL_ORG_NUM": 18,
+      "TOTAL_FREE_SHARES": 656520945,
+      "TOTAL_SHARES_RATIO": 64.31316684,
+      "ALL_SHARES_RATIO": 64.31316684
     },
     {
       "SECUCODE": "600987.SH",
@@ -756,6 +756,26 @@
       "TOTAL_FREE_SHARES": 9414586,
       "TOTAL_SHARES_RATIO": 0.92225822,
       "ALL_SHARES_RATIO": 0.92225822
+    },
+    {
+      "SECUCODE": "600987.SH",
+      "SECURITY_CODE": "600987",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 7039502,
+      "TOTAL_SHARES_RATIO": 0.68959364,
+      "ALL_SHARES_RATIO": 0.68959364
+    },
+    {
+      "SECUCODE": "600987.SH",
+      "SECURITY_CODE": "600987",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 9,
+      "TOTAL_FREE_SHARES": 640066857,
+      "TOTAL_SHARES_RATIO": 62.70131498,
+      "ALL_SHARES_RATIO": 62.70131498
     }
   ],
   "jjcg": [

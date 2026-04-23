@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 49.12,
       "AVG_HOLD_AMT": 428294.681516588,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 71.7858585,
+      "FREEHOLD_RATIO_TOTAL": 44.17032199
     },
     {
       "SECUCODE": "301148.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "301148.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "301148.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "301148.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301148.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "301148.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "301148.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -331,6 +336,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "301148.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "301148.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -344,58 +353,9 @@
     {
       "SECUCODE": "301148.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301148.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-11-14 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "厦门嘉戎盛美企业管理咨询合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1968200,
-      "HOLD_NUM_RATIO": 1.69,
-      "HOLD_CHANGE": "-45000",
-      "CHANGE_RATIO": -2.23524737,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-14 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "安信证券资管-光大银行-安信资管嘉戎技术高管参与创业板战略配售集合资产管理计划",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1172527,
-      "HOLD_NUM_RATIO": 1.01,
-      "HOLD_CHANGE": "-125800",
-      "CHANGE_RATIO": -9.68939258,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-14 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "凌静芝",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 870000,
-      "HOLD_NUM_RATIO": 0.75,
-      "HOLD_CHANGE": "280000",
-      "CHANGE_RATIO": 47.45762712,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-14 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "林楚耀",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 660000,
-      "HOLD_NUM_RATIO": 0.57,
-      "HOLD_CHANGE": "-15600",
-      "CHANGE_RATIO": -2.30905861,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "301148.SZ",
@@ -423,7 +383,7 @@
     {
       "SECUCODE": "301148.SZ",
       "SECURITY_CODE": "301148",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "蒋林煜",
       "HOLDER_TYPE": "个人",
@@ -436,7 +396,7 @@
     {
       "SECUCODE": "301148.SZ",
       "SECURITY_CODE": "301148",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "董正军",
       "HOLDER_TYPE": "个人",
@@ -449,7 +409,7 @@
     {
       "SECUCODE": "301148.SZ",
       "SECURITY_CODE": "301148",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "王如顺",
       "HOLDER_TYPE": "个人",
@@ -462,34 +422,21 @@
     {
       "SECUCODE": "301148.SZ",
       "SECURITY_CODE": "301148",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "厦门嘉戎盛美企业管理咨询合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1891002,
       "FREE_HOLDNUM_RATIO": 3.211997741582,
-      "HOLD_NUM_CHANGE": "-77198",
-      "CHANGE_RATIO": -3.922264
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301148.SZ",
       "SECURITY_CODE": "301148",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "苏国金",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1079042,
-      "FREE_HOLDNUM_RATIO": 1.832827499428,
-      "HOLD_NUM_CHANGE": "-488958",
-      "CHANGE_RATIO": -31.18354592
-    },
-    {
-      "SECUCODE": "301148.SZ",
-      "SECURITY_CODE": "301148",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "厦门泛荣高技术服务业创业投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -501,47 +448,47 @@
     {
       "SECUCODE": "301148.SZ",
       "SECURITY_CODE": "301148",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "苏国金",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 900442,
+      "FREE_HOLDNUM_RATIO": 1.529463041512,
+      "HOLD_NUM_CHANGE": "-178600",
+      "CHANGE_RATIO": -16.55171902
+    },
+    {
+      "SECUCODE": "301148.SZ",
+      "SECURITY_CODE": "301148",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "安信证券资管-光大银行-安信资管嘉戎技术高管参与创业板战略配售集合资产管理计划",
-      "HOLDER_TYPE": "集合理财计划",
+      "HOLDER_NAME": "国证资管-光大银行-安信资管嘉戎技术高管参与创业板战略配售集合资产管理计划",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 927427,
-      "FREE_HOLDNUM_RATIO": 1.575298931192,
-      "HOLD_NUM_CHANGE": "-245100",
-      "CHANGE_RATIO": -20.90356981
-    },
-    {
-      "SECUCODE": "301148.SZ",
-      "SECURITY_CODE": "301148",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "凌静芝",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 870000,
-      "FREE_HOLDNUM_RATIO": 1.477755198131,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301148.SZ",
-      "SECURITY_CODE": "301148",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "吴明娜",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 808303,
-      "FREE_HOLDNUM_RATIO": 1.372958574615,
+      "HOLD_NUM": 862527,
+      "FREE_HOLDNUM_RATIO": 1.46506179055,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301148.SZ",
       "SECURITY_CODE": "301148",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "吴明娜",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 786503,
+      "FREE_HOLDNUM_RATIO": 1.335929766202,
+      "HOLD_NUM_CHANGE": "-21800",
+      "CHANGE_RATIO": -2.69700842
+    },
+    {
+      "SECUCODE": "301148.SZ",
+      "SECURITY_CODE": "301148",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "林楚耀",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -549,26 +496,39 @@
       "FREE_HOLDNUM_RATIO": 1.121055667548,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301148.SZ",
+      "SECURITY_CODE": "301148",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "林桂萍",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 657900,
+      "FREE_HOLDNUM_RATIO": 1.117488672242,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "301148.SZ",
       "SECURITY_CODE": "301148",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 26481829,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 26004429,
       "LIMITED_SHARES": 57624000,
-      "OTHER_UNLIMITED_SHARES": 32391251,
-      "HOLD_NUM_RATIO": 22.73,
+      "OTHER_UNLIMITED_SHARES": 32868651,
+      "HOLD_NUM_RATIO": 22.32,
       "LIMITED_SHARES_RATIO": 49.46,
-      "UNLIMITED_SHARES_RATIO": 27.8
+      "UNLIMITED_SHARES_RATIO": 28.21
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "301148.SZ",
       "SECURITY_CODE": "301148",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "蒋林煜",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -580,7 +540,7 @@
     {
       "SECUCODE": "301148.SZ",
       "SECURITY_CODE": "301148",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "董正军",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -592,7 +552,7 @@
     {
       "SECUCODE": "301148.SZ",
       "SECURITY_CODE": "301148",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "王如顺",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -604,32 +564,20 @@
     {
       "SECUCODE": "301148.SZ",
       "SECURITY_CODE": "301148",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "厦门嘉戎盛美企业管理咨询合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1891002,
       "HOLD_NUM_RATIO": 1.62,
-      "HOLD_NUM_CHANGE": "-77198",
-      "CHANGE_RATIO": -3.922264
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301148.SZ",
       "SECURITY_CODE": "301148",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "苏国金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1079042,
-      "HOLD_NUM_RATIO": 0.93,
-      "HOLD_NUM_CHANGE": "-488958",
-      "CHANGE_RATIO": -31.18354592
-    },
-    {
-      "SECUCODE": "301148.SZ",
-      "SECURITY_CODE": "301148",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "厦门泛荣高技术服务业创业投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1038055,
@@ -640,49 +588,61 @@
     {
       "SECUCODE": "301148.SZ",
       "SECURITY_CODE": "301148",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "苏国金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 900442,
+      "HOLD_NUM_RATIO": 0.77,
+      "HOLD_NUM_CHANGE": "-178600",
+      "CHANGE_RATIO": -16.55171902
+    },
+    {
+      "SECUCODE": "301148.SZ",
+      "SECURITY_CODE": "301148",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "安信证券资管-光大银行-安信资管嘉戎技术高管参与创业板战略配售集合资产管理计划",
+      "HOLDER_NAME": "国证资管-光大银行-安信资管嘉戎技术高管参与创业板战略配售集合资产管理计划",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 927427,
-      "HOLD_NUM_RATIO": 0.8,
-      "HOLD_NUM_CHANGE": "-245100",
-      "CHANGE_RATIO": -20.90356981
-    },
-    {
-      "SECUCODE": "301148.SZ",
-      "SECURITY_CODE": "301148",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "凌静芝",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 870000,
-      "HOLD_NUM_RATIO": 0.75,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301148.SZ",
-      "SECURITY_CODE": "301148",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "吴明娜",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 808303,
-      "HOLD_NUM_RATIO": 0.69,
+      "HOLD_NUM": 862527,
+      "HOLD_NUM_RATIO": 0.74,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301148.SZ",
       "SECURITY_CODE": "301148",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "吴明娜",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 786503,
+      "HOLD_NUM_RATIO": 0.68,
+      "HOLD_NUM_CHANGE": "-21800",
+      "CHANGE_RATIO": -2.69700842
+    },
+    {
+      "SECUCODE": "301148.SZ",
+      "SECURITY_CODE": "301148",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "林楚耀",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 660000,
       "HOLD_NUM_RATIO": 0.57,
       "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301148.SZ",
+      "SECURITY_CODE": "301148",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "林桂萍",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 657900,
+      "HOLD_NUM_RATIO": 0.56,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -690,37 +650,17 @@
     {
       "SECUCODE": "301148.SZ",
       "SECURITY_CODE": "301148",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 13,
-      "TOTAL_FREE_SHARES": 3909300,
-      "TOTAL_SHARES_RATIO": 6.64021654,
-      "ALL_SHARES_RATIO": 3.35570642
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 2929057,
+      "TOTAL_SHARES_RATIO": 4.97520598,
+      "ALL_SHARES_RATIO": 2.51427504
     },
     {
       "SECUCODE": "301148.SZ",
       "SECURITY_CODE": "301148",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 10,
-      "TOTAL_FREE_SHARES": 52816,
-      "TOTAL_SHARES_RATIO": 0.08971163,
-      "ALL_SHARES_RATIO": 0.04533675
-    },
-    {
-      "SECUCODE": "301148.SZ",
-      "SECURITY_CODE": "301148",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "04",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 927427,
-      "TOTAL_SHARES_RATIO": 1.57529893,
-      "ALL_SHARES_RATIO": 0.79609463
-    },
-    {
-      "SECUCODE": "301148.SZ",
-      "SECURITY_CODE": "301148",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 2,
       "TOTAL_FREE_SHARES": 2929057,

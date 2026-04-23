@@ -25,8 +25,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 15.6,
       "AVG_HOLD_AMT": 315705.330452699,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 48.20377536,
+      "FREEHOLD_RATIO_TOTAL": 47.63656765
     },
     {
       "SECUCODE": "300682.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300682.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300682.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300682.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300682.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300682.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300682.SZ",
       "END_DATE": "2026-03-12 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "300682.SZ",
       "END_DATE": "2020-02-19 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300682.SZ",
-      "END_DATE": "2020-02-17 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -495,7 +495,7 @@
     {
       "SECUCODE": "300682.SZ",
       "SECURITY_CODE": "300682",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "无锡朴华股权投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -508,7 +508,7 @@
     {
       "SECUCODE": "300682.SZ",
       "SECURITY_CODE": "300682",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "上海云鑫创业投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -521,21 +521,8 @@
     {
       "SECUCODE": "300682.SZ",
       "SECURITY_CODE": "300682",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "上海云钜创业投资有限公司",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 63492063,
-      "FREE_HOLDNUM_RATIO": 6.156362451017,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300682.SZ",
-      "SECURITY_CODE": "300682",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "Yue Qi Capital Limited",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -547,7 +534,20 @@
     {
       "SECUCODE": "300682.SZ",
       "SECURITY_CODE": "300682",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "上海云钜创业投资有限公司",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 45635663,
+      "FREE_HOLDNUM_RATIO": 4.424957527691,
+      "HOLD_NUM_CHANGE": "-17856400",
+      "CHANGE_RATIO": -28.12383022
+    },
+    {
+      "SECUCODE": "300682.SZ",
+      "SECURITY_CODE": "300682",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "无锡群英股权投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -560,7 +560,7 @@
     {
       "SECUCODE": "300682.SZ",
       "SECURITY_CODE": "300682",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "无锡杰华投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -573,7 +573,7 @@
     {
       "SECUCODE": "300682.SZ",
       "SECURITY_CODE": "300682",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "无锡易朴投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -586,39 +586,39 @@
     {
       "SECUCODE": "300682.SZ",
       "SECURITY_CODE": "300682",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "罗惠玲",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 27403253,
-      "FREE_HOLDNUM_RATIO": 2.65709365602,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 26002753,
+      "FREE_HOLDNUM_RATIO": 2.521297381568,
+      "HOLD_NUM_CHANGE": "-1400500",
+      "CHANGE_RATIO": -5.11070711
+    },
+    {
+      "SECUCODE": "300682.SZ",
+      "SECURITY_CODE": "300682",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "无锡曦杰智诚投资合伙企业(有限合伙)",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 15983877,
+      "FREE_HOLDNUM_RATIO": 1.549840019917,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300682.SZ",
       "SECURITY_CODE": "300682",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 26183592,
-      "FREE_HOLDNUM_RATIO": 2.538832020966,
-      "HOLD_NUM_CHANGE": "-1340546",
-      "CHANGE_RATIO": -4.87043772
-    },
-    {
-      "SECUCODE": "300682.SZ",
-      "SECURITY_CODE": "300682",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "刘玮巍",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "无锡富赡投资合伙企业(有限合伙)",
+      "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 16994081,
-      "FREE_HOLDNUM_RATIO": 1.647792136758,
+      "HOLD_NUM": 9823340,
+      "FREE_HOLDNUM_RATIO": 0.952497661315,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -627,20 +627,20 @@
     {
       "SECUCODE": "300682.SZ",
       "SECURITY_CODE": "300682",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 527914862,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 491287506,
       "LIMITED_SHARES": 46911504,
-      "OTHER_UNLIMITED_SHARES": 503409455,
-      "HOLD_NUM_RATIO": 48.96,
+      "OTHER_UNLIMITED_SHARES": 540036811,
+      "HOLD_NUM_RATIO": 45.56,
       "LIMITED_SHARES_RATIO": 4.35,
-      "UNLIMITED_SHARES_RATIO": 46.69
+      "UNLIMITED_SHARES_RATIO": 50.09
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300682.SZ",
       "SECURITY_CODE": "300682",
-      "END_DATE": "2026-03-12 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "无锡朴华股权投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -652,13 +652,109 @@
     {
       "SECUCODE": "300682.SZ",
       "SECURITY_CODE": "300682",
-      "END_DATE": "2026-03-12 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "上海云鑫创业投资有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 116099800,
       "HOLD_NUM_RATIO": 10.77,
       "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300682.SZ",
+      "SECURITY_CODE": "300682",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "Yue Qi Capital Limited",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 53452348,
+      "HOLD_NUM_RATIO": 4.96,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300682.SZ",
+      "SECURITY_CODE": "300682",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "上海云钜创业投资有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 45635663,
+      "HOLD_NUM_RATIO": 4.23,
+      "HOLD_NUM_CHANGE": "-8491800",
+      "CHANGE_RATIO": -15.68852396
+    },
+    {
+      "SECUCODE": "300682.SZ",
+      "SECURITY_CODE": "300682",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "徐长军",
+      "SHARES_TYPE": "流通A股,限售流通A股",
+      "HOLD_NUM": 38286207,
+      "HOLD_NUM_RATIO": 3.55,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300682.SZ",
+      "SECURITY_CODE": "300682",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "无锡群英股权投资合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 38245420,
+      "HOLD_NUM_RATIO": 3.55,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300682.SZ",
+      "SECURITY_CODE": "300682",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "无锡杰华投资合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 30796126,
+      "HOLD_NUM_RATIO": 2.86,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300682.SZ",
+      "SECURITY_CODE": "300682",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "无锡易朴投资合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 28845519,
+      "HOLD_NUM_RATIO": 2.68,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300682.SZ",
+      "SECURITY_CODE": "300682",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "罗惠玲",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 26002753,
+      "HOLD_NUM_RATIO": 2.41,
+      "HOLD_NUM_CHANGE": "-1400500",
+      "CHANGE_RATIO": -5.11070711
+    },
+    {
+      "SECUCODE": "300682.SZ",
+      "SECURITY_CODE": "300682",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "无锡曦杰智诚投资合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 15983877,
+      "HOLD_NUM_RATIO": 1.48,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -668,10 +764,10 @@
       "SECURITY_CODE": "300682",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 7,
-      "TOTAL_FREE_SHARES": 15492850,
-      "TOTAL_SHARES_RATIO": 1.5022287,
-      "ALL_SHARES_RATIO": 1.43687028
+      "TOTAL_ORG_NUM": 16,
+      "TOTAL_FREE_SHARES": 480777603,
+      "TOTAL_SHARES_RATIO": 46.61749895,
+      "ALL_SHARES_RATIO": 44.58928128
     },
     {
       "SECUCODE": "300682.SZ",
@@ -682,6 +778,16 @@
       "TOTAL_FREE_SHARES": 15492850,
       "TOTAL_SHARES_RATIO": 1.5022287,
       "ALL_SHARES_RATIO": 1.43687028
+    },
+    {
+      "SECUCODE": "300682.SZ",
+      "SECURITY_CODE": "300682",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 9,
+      "TOTAL_FREE_SHARES": 465284753,
+      "TOTAL_SHARES_RATIO": 45.11527025,
+      "ALL_SHARES_RATIO": 43.152411
     }
   ],
   "jjcg": [

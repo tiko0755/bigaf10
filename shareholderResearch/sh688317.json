@@ -3,6 +3,34 @@
     {
       "SECUCODE": "688317.SH",
       "SECURITY_CODE": "688317",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_TOTAL_NUM": 15499,
+      "TOTAL_NUM_RATIO": 13.7207,
+      "AVG_FREE_SHARES": 12398,
+      "AVG_FREESHARES_RATIO": -12.065294535131,
+      "HOLD_FOCUS": "较集中",
+      "PRICE": 18.88,
+      "AVG_HOLD_AMT": 234075.941745919,
+      "HOLD_RATIO_TOTAL": null,
+      "FREEHOLD_RATIO_TOTAL": null
+    },
+    {
+      "SECUCODE": "688317.SH",
+      "SECURITY_CODE": "688317",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_TOTAL_NUM": 13629,
+      "TOTAL_NUM_RATIO": -5.5837,
+      "AVG_FREE_SHARES": 14099,
+      "AVG_FREESHARES_RATIO": 5.913860151148,
+      "HOLD_FOCUS": "较集中",
+      "PRICE": 20.17,
+      "AVG_HOLD_AMT": 284380.867255852,
+      "HOLD_RATIO_TOTAL": 45.86938689,
+      "FREEHOLD_RATIO_TOTAL": 45.86938689
+    },
+    {
+      "SECUCODE": "688317.SH",
+      "SECURITY_CODE": "688317",
       "END_DATE": "2025-09-30 00:00:00",
       "HOLDER_TOTAL_NUM": 14435,
       "TOTAL_NUM_RATIO": -7.74,
@@ -111,37 +139,13 @@
       "AVG_HOLD_AMT": 120871.145113508,
       "HOLD_RATIO_TOTAL": 44.63085083,
       "FREEHOLD_RATIO_TOTAL": 13.93852996
-    },
-    {
-      "SECUCODE": "688317.SH",
-      "SECURITY_CODE": "688317",
-      "END_DATE": "2023-09-30 00:00:00",
-      "HOLDER_TOTAL_NUM": 22338,
-      "TOTAL_NUM_RATIO": 1.0541,
-      "AVG_FREE_SHARES": 5539,
-      "AVG_FREESHARES_RATIO": -1.043065628078,
-      "HOLD_FOCUS": "较集中",
-      "PRICE": 22.8691840096,
-      "AVG_HOLD_AMT": 126675.080245823,
-      "HOLD_RATIO_TOTAL": 44.94837583,
-      "FREEHOLD_RATIO_TOTAL": 14.71364947
-    },
-    {
-      "SECUCODE": "688317.SH",
-      "SECURITY_CODE": "688317",
-      "END_DATE": "2023-06-30 00:00:00",
-      "HOLDER_TOTAL_NUM": 22105,
-      "TOTAL_NUM_RATIO": -8.7475,
-      "AVG_FREE_SHARES": 5597,
-      "AVG_FREESHARES_RATIO": 9.586066500792,
-      "HOLD_FOCUS": "较集中",
-      "PRICE": 23.544728976,
-      "AVG_HOLD_AMT": 131791.676362557,
-      "HOLD_RATIO_TOTAL": 44.70931903,
-      "FREEHOLD_RATIO_TOTAL": 14.08244734
     }
   ],
   "sdltgd_date": [
+    {
+      "SECUCODE": "688317.SH",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
     {
       "SECUCODE": "688317.SH",
       "END_DATE": "2025-09-30 00:00:00"
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "688317.SH",
       "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "688317.SH",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "688317.SH",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "688317.SH",
       "END_DATE": "2025-10-16 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "688317.SH",
       "END_DATE": "2016-04-21 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "688317.SH",
-      "END_DATE": "2016-01-29 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "688317.SH",
       "SECURITY_CODE": "688317",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海之江药业有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "688317.SH",
       "SECURITY_CODE": "688317",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "宁波康飞顿斯投资管理合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -499,60 +499,73 @@
     {
       "SECUCODE": "688317.SH",
       "SECURITY_CODE": "688317",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "招商银行股份有限公司-广发价值核心混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 4803416,
       "FREE_HOLDNUM_RATIO": 2.499722116694,
-      "HOLD_NUM_CHANGE": "-13746",
-      "CHANGE_RATIO": -0.28535474
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688317.SH",
       "SECURITY_CODE": "688317",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "宁波睿道创业投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2995199,
-      "FREE_HOLDNUM_RATIO": 1.558716793257,
-      "HOLD_NUM_CHANGE": "-326046",
-      "CHANGE_RATIO": -9.81698128
+      "HOLD_NUM": 2973199,
+      "FREE_HOLDNUM_RATIO": 1.547267881365,
+      "HOLD_NUM_CHANGE": "-22000",
+      "CHANGE_RATIO": -0.73450879
     },
     {
       "SECUCODE": "688317.SH",
       "SECURITY_CODE": "688317",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国银行股份有限公司-广发医疗保健股票型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2740738,
-      "FREE_HOLDNUM_RATIO": 1.426293994662,
+      "HOLD_NUM": 2584380,
+      "FREE_HOLDNUM_RATIO": 1.344924496221,
+      "HOLD_NUM_CHANGE": "-156358",
+      "CHANGE_RATIO": -5.70495976
+    },
+    {
+      "SECUCODE": "688317.SH",
+      "SECURITY_CODE": "688317",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "富诚海富资管-杭州银行-富诚海富通之江1号员工参与科创板战略配售集合资产管理计划",
+      "HOLDER_TYPE": "基金资产管理计划",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2163855,
+      "FREE_HOLDNUM_RATIO": 1.126081147421,
+      "HOLD_NUM_CHANGE": "-80000",
+      "CHANGE_RATIO": -3.56529277
+    },
+    {
+      "SECUCODE": "688317.SH",
+      "SECURITY_CODE": "688317",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国农业银行-华夏平稳增长混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1386286,
+      "FREE_HOLDNUM_RATIO": 0.721430285085,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688317.SH",
       "SECURITY_CODE": "688317",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "富诚海富资管-杭州银行-富诚海富通之江1号员工参与科创板战略配售集合资产管理计划",
-      "HOLDER_TYPE": "基金资产管理计划",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2243855,
-      "FREE_HOLDNUM_RATIO": 1.167713554303,
-      "HOLD_NUM_CHANGE": "-25000",
-      "CHANGE_RATIO": -1.10187738
-    },
-    {
-      "SECUCODE": "688317.SH",
-      "SECURITY_CODE": "688317",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "上海迈景纳米科技有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -564,39 +577,26 @@
     {
       "SECUCODE": "688317.SH",
       "SECURITY_CODE": "688317",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国银行股份有限公司-广发医药健康混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1111434,
-      "FREE_HOLDNUM_RATIO": 0.578395906381,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688317.SH",
-      "SECURITY_CODE": "688317",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "中国银行股份有限公司-大成景恒混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 909200,
-      "FREE_HOLDNUM_RATIO": 0.473152304214,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1175600,
+      "FREE_HOLDNUM_RATIO": 0.611788219131,
+      "HOLD_NUM_CHANGE": "266400",
+      "CHANGE_RATIO": 29.30048394
     },
     {
       "SECUCODE": "688317.SH",
       "SECURITY_CODE": "688317",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "招商银行股份有限公司-永赢中证全指医疗器械交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "王海燕",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 840273,
-      "FREE_HOLDNUM_RATIO": 0.43728234285,
+      "HOLD_NUM": 830000,
+      "FREE_HOLDNUM_RATIO": 0.431936221401,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "688317.SH",
       "SECURITY_CODE": "688317",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 87869075,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLD_NUM_COUNT": 88141696,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 104288924,
-      "HOLD_NUM_RATIO": 45.73,
+      "OTHER_UNLIMITED_SHARES": 104016303,
+      "HOLD_NUM_RATIO": 45.87,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 54.27
+      "UNLIMITED_SHARES_RATIO": 54.13
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "688317.SH",
       "SECURITY_CODE": "688317",
-      "END_DATE": "2025-10-16 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海之江药业有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,20 +630,8 @@
     {
       "SECUCODE": "688317.SH",
       "SECURITY_CODE": "688317",
-      "END_DATE": "2025-10-16 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "上海之江生物科技股份有限公司回购专用证券账户",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 14638308,
-      "HOLD_NUM_RATIO": 7.62,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688317.SH",
-      "SECURITY_CODE": "688317",
-      "END_DATE": "2025-10-16 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "宁波康飞顿斯投资管理合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 6002000,
@@ -654,8 +642,8 @@
     {
       "SECUCODE": "688317.SH",
       "SECURITY_CODE": "688317",
-      "END_DATE": "2025-10-16 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "招商银行股份有限公司-广发价值核心混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4803416,
@@ -666,43 +654,55 @@
     {
       "SECUCODE": "688317.SH",
       "SECURITY_CODE": "688317",
-      "END_DATE": "2025-10-16 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "宁波睿道创业投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2995199,
-      "HOLD_NUM_RATIO": 1.56,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2973199,
+      "HOLD_NUM_RATIO": 1.55,
+      "HOLD_NUM_CHANGE": "-22000",
+      "CHANGE_RATIO": -0.73450879
     },
     {
       "SECUCODE": "688317.SH",
       "SECURITY_CODE": "688317",
-      "END_DATE": "2025-10-16 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国银行股份有限公司-广发医疗保健股票型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2740738,
-      "HOLD_NUM_RATIO": 1.43,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2584380,
+      "HOLD_NUM_RATIO": 1.34,
+      "HOLD_NUM_CHANGE": "-156358",
+      "CHANGE_RATIO": -5.70495976
     },
     {
       "SECUCODE": "688317.SH",
       "SECURITY_CODE": "688317",
-      "END_DATE": "2025-10-16 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "富诚海富资管-杭州银行-富诚海富通之江1号员工参与科创板战略配售集合资产管理计划",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2243855,
-      "HOLD_NUM_RATIO": 1.17,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 2163855,
+      "HOLD_NUM_RATIO": 1.13,
+      "HOLD_NUM_CHANGE": "-80000",
+      "CHANGE_RATIO": -3.56529277
+    },
+    {
+      "SECUCODE": "688317.SH",
+      "SECURITY_CODE": "688317",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国农业银行-华夏平稳增长混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1386286,
+      "HOLD_NUM_RATIO": 0.72,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688317.SH",
       "SECURITY_CODE": "688317",
-      "END_DATE": "2025-10-16 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "上海迈景纳米科技有限公司",
       "SHARES_TYPE": "流通A股",
@@ -714,25 +714,25 @@
     {
       "SECUCODE": "688317.SH",
       "SECURITY_CODE": "688317",
-      "END_DATE": "2025-10-16 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国银行股份有限公司-广发医药健康混合型证券投资基金",
+      "HOLDER_NAME": "中国银行股份有限公司-大成景恒混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1111434,
-      "HOLD_NUM_RATIO": 0.58,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1175600,
+      "HOLD_NUM_RATIO": 0.61,
+      "HOLD_NUM_CHANGE": "266400",
+      "CHANGE_RATIO": 29.30048394
     },
     {
       "SECUCODE": "688317.SH",
       "SECURITY_CODE": "688317",
-      "END_DATE": "2025-10-16 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国银行股份有限公司-大成景恒混合型证券投资基金",
+      "HOLDER_NAME": "王海燕",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 909200,
-      "HOLD_NUM_RATIO": 0.47,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 830000,
+      "HOLD_NUM_RATIO": 0.43,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -742,20 +742,30 @@
       "SECURITY_CODE": "688317",
       "REPORT_DATE": "2025-12-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 67,
-      "TOTAL_FREE_SHARES": 12388896,
-      "TOTAL_SHARES_RATIO": 6.4472445,
-      "ALL_SHARES_RATIO": 6.4472445
+      "TOTAL_ORG_NUM": 72,
+      "TOTAL_FREE_SHARES": 89750910,
+      "TOTAL_SHARES_RATIO": 46.70683005,
+      "ALL_SHARES_RATIO": 46.70683005
     },
     {
       "SECUCODE": "688317.SH",
       "SECURITY_CODE": "688317",
       "REPORT_DATE": "2025-12-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 67,
-      "TOTAL_FREE_SHARES": 12388896,
-      "TOTAL_SHARES_RATIO": 6.4472445,
-      "ALL_SHARES_RATIO": 6.4472445
+      "TOTAL_ORG_NUM": 68,
+      "TOTAL_FREE_SHARES": 14552751,
+      "TOTAL_SHARES_RATIO": 7.57332565,
+      "ALL_SHARES_RATIO": 7.57332565
+    },
+    {
+      "SECUCODE": "688317.SH",
+      "SECURITY_CODE": "688317",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 75198159,
+      "TOTAL_SHARES_RATIO": 39.1335044,
+      "ALL_SHARES_RATIO": 39.1335044
     }
   ],
   "jjcg": [
@@ -792,6 +802,23 @@
       "FUND_CODE": "004851",
       "FUND_DERIVECODE": "004851.OF",
       "NETVALUE_RATIO": 1.11
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "688317.SH",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "HOLDER_CODE": "77877574",
+      "HOLDER_NAME": "富诚海富资管-杭州银行-富诚海富通之江1号员工参与科创板战略配售集合资产管理计划",
+      "TOTAL_SHARES": 2163855,
+      "HOLD_VALUE": 43644955.35,
+      "TOTALSHARES_RATIO": 1.12608115,
+      "FREESHARES_RATIO": 1.12608115,
+      "FREE_MARKET_CAP": 43644955.35,
+      "FREE_SHARES": 2163855,
+      "SECURITY_CODE": "688317",
+      "FUND_CODE": null,
+      "FUND_DERIVECODE": null,
+      "NETVALUE_RATIO": null
     },
     {
       "ORG_TYPE": "01",
@@ -1427,7 +1454,7 @@
       "SECUCODE": "688317.SH",
       "REPORT_DATE": "2025-12-31 00:00:00",
       "HOLDER_CODE": "589060",
-      "HOLDER_NAME": "东财上证科创板综合价格ETF",
+      "HOLDER_NAME": "科创综指ETF东财",
       "TOTAL_SHARES": 5207,
       "HOLD_VALUE": 105025.19,
       "TOTALSHARES_RATIO": 0.00270975,
@@ -1591,23 +1618,6 @@
       "FUND_CODE": "161726",
       "FUND_DERIVECODE": "161726.SZ",
       "NETVALUE_RATIO": 0
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "688317.SH",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "HOLDER_CODE": "021726",
-      "HOLDER_NAME": "泓德智选启诚混合A",
-      "TOTAL_SHARES": 2600,
-      "HOLD_VALUE": 52442,
-      "TOTALSHARES_RATIO": 0.00135305,
-      "FREESHARES_RATIO": 0.00135305,
-      "FREE_MARKET_CAP": 52442,
-      "FREE_SHARES": 2600,
-      "SECURITY_CODE": "688317",
-      "FUND_CODE": "021726",
-      "FUND_DERIVECODE": "021726.OF",
-      "NETVALUE_RATIO": 0.02
     }
   ]
 }

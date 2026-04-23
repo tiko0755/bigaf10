@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 9.45,
       "AVG_HOLD_AMT": 163808.487471556,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 43.48884842,
+      "FREEHOLD_RATIO_TOTAL": 43.48884842
     },
     {
       "SECUCODE": "601311.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "601311.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "601311.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "601311.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "601311.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "601311.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "601311.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "601311.SH",
       "END_DATE": "2016-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "601311.SH",
-      "END_DATE": "2016-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "601311.SH",
       "SECURITY_CODE": "601311",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "孙洁",
       "HOLDER_TYPE": "个人",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "601311.SH",
       "SECURITY_CODE": "601311",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "湖北驼峰投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "601311.SH",
       "SECURITY_CODE": "601311",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "刘方",
       "HOLDER_TYPE": "个人",
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "601311.SH",
       "SECURITY_CODE": "601311",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "刘长来",
       "HOLDER_TYPE": "个人",
@@ -525,33 +525,33 @@
     {
       "SECUCODE": "601311.SH",
       "SECURITY_CODE": "601311",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "刘科",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 26100000,
       "FREE_HOLDNUM_RATIO": 2.224786801877,
-      "HOLD_NUM_CHANGE": "-1413467",
-      "CHANGE_RATIO": -5.13736419
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601311.SH",
       "SECURITY_CODE": "601311",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 22624285,
-      "FREE_HOLDNUM_RATIO": 1.928513818771,
-      "HOLD_NUM_CHANGE": "7162347",
-      "CHANGE_RATIO": 46.3224403
+      "HOLD_NUM": 17671083,
+      "FREE_HOLDNUM_RATIO": 1.506298552999,
+      "HOLD_NUM_CHANGE": "-4953202",
+      "CHANGE_RATIO": -21.8932974
     },
     {
       "SECUCODE": "601311.SH",
       "SECURITY_CODE": "601311",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "上海睿亿投资发展中心(有限合伙)-睿亿投资揽月六期私募证券投资基金A",
       "HOLDER_TYPE": "私募基金",
@@ -564,34 +564,21 @@
     {
       "SECUCODE": "601311.SH",
       "SECURITY_CODE": "601311",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "周勇",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7703819,
-      "FREE_HOLDNUM_RATIO": 0.656680261887,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 13932272,
+      "FREE_HOLDNUM_RATIO": 1.187599037002,
+      "HOLD_NUM_CHANGE": "6228453",
+      "CHANGE_RATIO": 80.84890105
     },
     {
       "SECUCODE": "601311.SH",
       "SECURITY_CODE": "601311",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7532800,
-      "FREE_HOLDNUM_RATIO": 0.642102452919,
-      "HOLD_NUM_CHANGE": "1090100",
-      "CHANGE_RATIO": 16.91992488
-    },
-    {
-      "SECUCODE": "601311.SH",
-      "SECURITY_CODE": "601311",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "路明占",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -599,26 +586,39 @@
       "FREE_HOLDNUM_RATIO": 0.624773750477,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "601311.SH",
+      "SECURITY_CODE": "601311",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "国投证券股份有限公司-易方达国证新能源电池交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6307500,
+      "FREE_HOLDNUM_RATIO": 0.537656810454,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "601311.SH",
       "SECURITY_CODE": "601311",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 510137786,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 510187737,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 663008332,
-      "HOLD_NUM_RATIO": 43.48,
+      "OTHER_UNLIMITED_SHARES": 662958381,
+      "HOLD_NUM_RATIO": 43.49,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 56.52
+      "UNLIMITED_SHARES_RATIO": 56.51
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "601311.SH",
       "SECURITY_CODE": "601311",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "孙洁",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "601311.SH",
       "SECURITY_CODE": "601311",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "湖北驼峰投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "601311.SH",
       "SECURITY_CODE": "601311",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "刘方",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "601311.SH",
       "SECURITY_CODE": "601311",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "刘长来",
       "SHARES_TYPE": "流通A股",
@@ -666,31 +666,31 @@
     {
       "SECUCODE": "601311.SH",
       "SECURITY_CODE": "601311",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "刘科",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 26100000,
       "HOLD_NUM_RATIO": 2.22,
-      "HOLD_NUM_CHANGE": "-1413467",
-      "CHANGE_RATIO": -5.13736419
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601311.SH",
       "SECURITY_CODE": "601311",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 22624285,
-      "HOLD_NUM_RATIO": 1.93,
-      "HOLD_NUM_CHANGE": "7162347",
-      "CHANGE_RATIO": 46.3224403
+      "HOLD_NUM": 17671083,
+      "HOLD_NUM_RATIO": 1.51,
+      "HOLD_NUM_CHANGE": "-4953202",
+      "CHANGE_RATIO": -21.8932974
     },
     {
       "SECUCODE": "601311.SH",
       "SECURITY_CODE": "601311",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "上海睿亿投资发展中心(有限合伙)-睿亿投资揽月六期私募证券投资基金A",
       "SHARES_TYPE": "流通A股",
@@ -702,37 +702,37 @@
     {
       "SECUCODE": "601311.SH",
       "SECURITY_CODE": "601311",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "周勇",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7703819,
-      "HOLD_NUM_RATIO": 0.66,
+      "HOLD_NUM": 13932272,
+      "HOLD_NUM_RATIO": 1.19,
+      "HOLD_NUM_CHANGE": "6228453",
+      "CHANGE_RATIO": 80.84890105
+    },
+    {
+      "SECUCODE": "601311.SH",
+      "SECURITY_CODE": "601311",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "路明占",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7329509,
+      "HOLD_NUM_RATIO": 0.62,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601311.SH",
       "SECURITY_CODE": "601311",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7532800,
-      "HOLD_NUM_RATIO": 0.64,
-      "HOLD_NUM_CHANGE": "1090100",
-      "CHANGE_RATIO": 16.91992488
-    },
-    {
-      "SECUCODE": "601311.SH",
-      "SECURITY_CODE": "601311",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "路明占",
+      "HOLDER_NAME": "国投证券股份有限公司-易方达国证新能源电池交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7329509,
-      "HOLD_NUM_RATIO": 0.62,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 6307500,
+      "HOLD_NUM_RATIO": 0.54,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -742,23 +742,50 @@
       "SECURITY_CODE": "601311",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 283300,
-      "TOTAL_SHARES_RATIO": 0.02414874,
-      "ALL_SHARES_RATIO": 0.02414874
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 190643892,
+      "TOTAL_SHARES_RATIO": 16.25065191,
+      "ALL_SHARES_RATIO": 16.25065191
     },
     {
       "SECUCODE": "601311.SH",
       "SECURITY_CODE": "601311",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 6590800,
+      "TOTAL_SHARES_RATIO": 0.56180555,
+      "ALL_SHARES_RATIO": 0.56180555
+    },
+    {
+      "SECUCODE": "601311.SH",
+      "SECURITY_CODE": "601311",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 283300,
-      "TOTAL_SHARES_RATIO": 0.02414874,
-      "ALL_SHARES_RATIO": 0.02414874
+      "TOTAL_FREE_SHARES": 184053092,
+      "TOTAL_SHARES_RATIO": 15.68884636,
+      "ALL_SHARES_RATIO": 15.68884636
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "601311.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "159566",
+      "HOLDER_NAME": "易方达国证新能源电池ETF",
+      "TOTAL_SHARES": 6307500,
+      "HOLD_VALUE": 59605875,
+      "TOTALSHARES_RATIO": 0.53765681,
+      "FREESHARES_RATIO": 0.53765681,
+      "FREE_MARKET_CAP": 59605875,
+      "FREE_SHARES": 6307500,
+      "SECURITY_CODE": "601311",
+      "FUND_CODE": "159566",
+      "FUND_DERIVECODE": "159566.SZ",
+      "NETVALUE_RATIO": 0.82
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "601311.SH",

@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "605218.SH",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "605218.SH",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -157,10 +161,6 @@
     {
       "SECUCODE": "605218.SH",
       "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "605218.SH",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
@@ -168,6 +168,11 @@
       "SECUCODE": "605218.SH",
       "END_DATE": "2026-03-02 00:00:00",
       "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "605218.SH",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
     },
     {
       "SECUCODE": "605218.SH",
@@ -408,11 +413,6 @@
       "SECUCODE": "605218.SH",
       "END_DATE": "2020-09-08 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "605218.SH",
-      "END_DATE": "2020-07-10 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -453,8 +453,8 @@
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1541903,
       "HOLD_NUM_RATIO": 0.64,
-      "HOLD_CHANGE": "101700",
-      "CHANGE_RATIO": 7.06150452,
+      "HOLD_CHANGE": "4800",
+      "CHANGE_RATIO": 0.31227576,
       "CHANGE_REASON": "增发上市"
     },
     {
@@ -577,17 +577,6 @@
       "HOLD_CHANGE": "-1700",
       "CHANGE_RATIO": -0.00152049,
       "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-08-13 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "WATANABE YOICHI",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 111806382,
-      "HOLD_NUM_RATIO": 52.53,
-      "HOLD_CHANGE": "-12770000",
-      "CHANGE_RATIO": -10.25073918,
-      "CHANGE_REASON": "临时公告"
     }
   ],
   "jjcg_date": [
@@ -627,20 +616,20 @@
     {
       "SECUCODE": "605218.SH",
       "SECURITY_CODE": "605218",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "WATANABE YOICHI",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 111806382,
-      "FREE_HOLDNUM_RATIO": 52.532333026959,
-      "HOLD_NUM_CHANGE": "-12770000",
-      "CHANGE_RATIO": -10.25073918
+      "HOLD_NUM": 105421421,
+      "FREE_HOLDNUM_RATIO": 49.532353136579,
+      "HOLD_NUM_CHANGE": "-6384961",
+      "CHANGE_RATIO": -5.71073036
     },
     {
       "SECUCODE": "605218.SH",
       "SECURITY_CODE": "605218",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "YAMAGUCHI MASARU",
       "HOLDER_TYPE": "个人",
@@ -653,21 +642,34 @@
     {
       "SECUCODE": "605218.SH",
       "SECURITY_CODE": "605218",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "王晓晴",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 12770000,
       "FREE_HOLDNUM_RATIO": 5.999996429133,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605218.SH",
       "SECURITY_CODE": "605218",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "BARCLAYS BANK PLC",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1749595,
+      "FREE_HOLDNUM_RATIO": 0.822048845139,
+      "HOLD_NUM_CHANGE": "267600",
+      "CHANGE_RATIO": 18.05674108
+    },
+    {
+      "SECUCODE": "605218.SH",
+      "SECURITY_CODE": "605218",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "宏天基業有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -679,8 +681,8 @@
     {
       "SECUCODE": "605218.SH",
       "SECURITY_CODE": "605218",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "宁波泰伟鸿投资管理合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -692,8 +694,8 @@
     {
       "SECUCODE": "605218.SH",
       "SECURITY_CODE": "605218",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "伟时电子股份有限公司-2023年员工持股计划",
       "HOLDER_TYPE": "员工持股计划",
       "SHARES_TYPE": "A股",
@@ -705,53 +707,40 @@
     {
       "SECUCODE": "605218.SH",
       "SECURITY_CODE": "605218",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "BARCLAYS BANK PLC",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "高盛国际-自有资金",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1481995,
-      "FREE_HOLDNUM_RATIO": 0.69631673516,
+      "HOLD_NUM": 1537103,
+      "FREE_HOLDNUM_RATIO": 0.722209280439,
+      "HOLD_NUM_CHANGE": "96900",
+      "CHANGE_RATIO": 6.72821817
+    },
+    {
+      "SECUCODE": "605218.SH",
+      "SECURITY_CODE": "605218",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "尹岩龙",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 879209,
+      "FREE_HOLDNUM_RATIO": 0.413097169966,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605218.SH",
       "SECURITY_CODE": "605218",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "高盛国际-自有资金",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1440203,
-      "FREE_HOLDNUM_RATIO": 0.67668072492,
-      "HOLD_NUM_CHANGE": "-553900",
-      "CHANGE_RATIO": -27.77690019
-    },
-    {
-      "SECUCODE": "605218.SH",
-      "SECURITY_CODE": "605218",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "香港上海汇丰银行有限公司",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 957200,
-      "FREE_HOLDNUM_RATIO": 0.449741314171,
-      "HOLD_NUM_CHANGE": "-1542800",
-      "CHANGE_RATIO": -61.712
-    },
-    {
-      "SECUCODE": "605218.SH",
-      "SECURITY_CODE": "605218",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "宁波泰联欣投资管理合伙企业(有限合伙)",
-      "HOLDER_TYPE": "投资公司",
+      "HOLDER_NAME": "法国巴黎银行-自有资金",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 702677,
-      "FREE_HOLDNUM_RATIO": 0.330153444858,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 844050,
+      "FREE_HOLDNUM_RATIO": 0.396577680972,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -759,13 +748,13 @@
     {
       "SECUCODE": "605218.SH",
       "SECURITY_CODE": "605218",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 155041303,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLD_NUM_COUNT": 149084224,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 57792157,
-      "HOLD_NUM_RATIO": 72.85,
+      "OTHER_UNLIMITED_SHARES": 63749236,
+      "HOLD_NUM_RATIO": 70.05,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 27.15
+      "UNLIMITED_SHARES_RATIO": 29.95
     }
   ],
   "sdgd": [
@@ -886,8 +875,8 @@
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1541903,
       "HOLD_NUM_RATIO": 0.64,
-      "HOLD_NUM_CHANGE": "101700",
-      "CHANGE_RATIO": 7.06150452
+      "HOLD_NUM_CHANGE": "4800",
+      "CHANGE_RATIO": 0.31227576
     }
   ],
   "jgcc": [
@@ -896,10 +885,10 @@
       "SECURITY_CODE": "605218",
       "REPORT_DATE": "2025-12-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 40,
-      "TOTAL_FREE_SHARES": 542437,
-      "TOTAL_SHARES_RATIO": 0.25486451,
-      "ALL_SHARES_RATIO": 0.25486451
+      "TOTAL_ORG_NUM": 46,
+      "TOTAL_FREE_SHARES": 9635457,
+      "TOTAL_SHARES_RATIO": 4.52722846,
+      "ALL_SHARES_RATIO": 4.52722846
     },
     {
       "SECUCODE": "605218.SH",
@@ -910,6 +899,26 @@
       "TOTAL_FREE_SHARES": 542437,
       "TOTAL_SHARES_RATIO": 0.25486451,
       "ALL_SHARES_RATIO": 0.25486451
+    },
+    {
+      "SECUCODE": "605218.SH",
+      "SECURITY_CODE": "605218",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 4130748,
+      "TOTAL_SHARES_RATIO": 1.94083581,
+      "ALL_SHARES_RATIO": 1.94083581
+    },
+    {
+      "SECUCODE": "605218.SH",
+      "SECURITY_CODE": "605218",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 4962272,
+      "TOTAL_SHARES_RATIO": 2.33152814,
+      "ALL_SHARES_RATIO": 2.33152814
     }
   ],
   "jjcg": [
