@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 12.37,
       "AVG_HOLD_AMT": 149185.644000116,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 37.22280854,
+      "FREEHOLD_RATIO_TOTAL": 37.22280854
     },
     {
       "SECUCODE": "603703.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603703.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603703.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603703.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603703.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603703.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603703.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603703.SH",
       "END_DATE": "2017-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "603703.SH",
-      "END_DATE": "2017-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "603703.SH",
       "SECURITY_CODE": "603703",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "叶利明",
       "HOLDER_TYPE": "个人",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "603703.SH",
       "SECURITY_CODE": "603703",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "盛洋控股集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "603703.SH",
       "SECURITY_CODE": "603703",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "绍兴市越城区芯辰股权投资基金合伙企业(有限合伙)",
       "HOLDER_TYPE": "私募基金",
@@ -512,34 +512,21 @@
     {
       "SECUCODE": "603703.SH",
       "SECURITY_CODE": "603703",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "国交北斗(海南)科技投资集团有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 20300300,
-      "FREE_HOLDNUM_RATIO": 4.891849316303,
-      "HOLD_NUM_CHANGE": "-448800",
-      "CHANGE_RATIO": -2.16298538
+      "HOLD_NUM": 15404180,
+      "FREE_HOLDNUM_RATIO": 3.712010531924,
+      "HOLD_NUM_CHANGE": "-4896120",
+      "CHANGE_RATIO": -24.1184613
     },
     {
       "SECUCODE": "603703.SH",
       "SECURITY_CODE": "603703",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "浙江盛洋科技股份有限公司-2024年员工持股计划",
-      "HOLDER_TYPE": "员工持股计划",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7679700,
-      "FREE_HOLDNUM_RATIO": 1.850609852781,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603703.SH",
-      "SECURITY_CODE": "603703",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "徐凤娟",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -551,74 +538,87 @@
     {
       "SECUCODE": "603703.SH",
       "SECURITY_CODE": "603703",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "浙江盛洋科技股份有限公司-2024年员工持股计划",
+      "HOLDER_TYPE": "员工持股计划",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4915700,
+      "FREE_HOLDNUM_RATIO": 1.184557059952,
+      "HOLD_NUM_CHANGE": "-2764000",
+      "CHANGE_RATIO": -35.99098923
+    },
+    {
+      "SECUCODE": "603703.SH",
+      "SECURITY_CODE": "603703",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4549534,
+      "FREE_HOLDNUM_RATIO": 1.096320487254,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603703.SH",
+      "SECURITY_CODE": "603703",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "王平",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4868200,
-      "FREE_HOLDNUM_RATIO": 1.173110783665,
-      "HOLD_NUM_CHANGE": "94600",
-      "CHANGE_RATIO": 1.98173286
+      "HOLD_NUM": 4162600,
+      "FREE_HOLDNUM_RATIO": 1.003079361588,
+      "HOLD_NUM_CHANGE": "-705600",
+      "CHANGE_RATIO": -14.49406351
     },
     {
       "SECUCODE": "603703.SH",
       "SECURITY_CODE": "603703",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "苏颜翔",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3264400,
-      "FREE_HOLDNUM_RATIO": 0.786636301342,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603703.SH",
-      "SECURITY_CODE": "603703",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "高盛国际-自有资金",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2568672,
-      "FREE_HOLDNUM_RATIO": 0.61898377694,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603703.SH",
-      "SECURITY_CODE": "603703",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "虞伟庆",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2471877,
-      "FREE_HOLDNUM_RATIO": 0.595658675608,
-      "HOLD_NUM_CHANGE": "71800",
-      "CHANGE_RATIO": 2.99157069
+      "HOLD_NUM": 3000077,
+      "FREE_HOLDNUM_RATIO": 0.722941267927,
+      "HOLD_NUM_CHANGE": "528200",
+      "CHANGE_RATIO": 21.36837715
+    },
+    {
+      "SECUCODE": "603703.SH",
+      "SECURITY_CODE": "603703",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "UBS AG",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2399888,
+      "FREE_HOLDNUM_RATIO": 0.578311181214,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "603703.SH",
       "SECURITY_CODE": "603703",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 161189170,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 154468000,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 253792950,
-      "HOLD_NUM_RATIO": 38.84,
+      "OTHER_UNLIMITED_SHARES": 260514120,
+      "HOLD_NUM_RATIO": 37.22,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 61.16
+      "UNLIMITED_SHARES_RATIO": 62.78
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603703.SH",
       "SECURITY_CODE": "603703",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "叶利明",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "603703.SH",
       "SECURITY_CODE": "603703",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "盛洋控股集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "603703.SH",
       "SECURITY_CODE": "603703",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "绍兴市越城区芯辰股权投资基金合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -654,32 +654,20 @@
     {
       "SECUCODE": "603703.SH",
       "SECURITY_CODE": "603703",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "国交北斗(海南)科技投资集团有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 20300300,
-      "HOLD_NUM_RATIO": 4.89,
-      "HOLD_NUM_CHANGE": "-448800",
-      "CHANGE_RATIO": -2.16298538
+      "HOLD_NUM": 15404180,
+      "HOLD_NUM_RATIO": 3.71,
+      "HOLD_NUM_CHANGE": "-4896120",
+      "CHANGE_RATIO": -24.1184613
     },
     {
       "SECUCODE": "603703.SH",
       "SECURITY_CODE": "603703",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "浙江盛洋科技股份有限公司-2024年员工持股计划",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7679700,
-      "HOLD_NUM_RATIO": 1.85,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603703.SH",
-      "SECURITY_CODE": "603703",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "徐凤娟",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 7486500,
@@ -690,50 +678,62 @@
     {
       "SECUCODE": "603703.SH",
       "SECURITY_CODE": "603703",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "浙江盛洋科技股份有限公司-2024年员工持股计划",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4915700,
+      "HOLD_NUM_RATIO": 1.18,
+      "HOLD_NUM_CHANGE": "-2764000",
+      "CHANGE_RATIO": -35.99098923
+    },
+    {
+      "SECUCODE": "603703.SH",
+      "SECURITY_CODE": "603703",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4549534,
+      "HOLD_NUM_RATIO": 1.1,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603703.SH",
+      "SECURITY_CODE": "603703",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "王平",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4868200,
-      "HOLD_NUM_RATIO": 1.17,
-      "HOLD_NUM_CHANGE": "94600",
-      "CHANGE_RATIO": 1.98173286
+      "HOLD_NUM": 4162600,
+      "HOLD_NUM_RATIO": 1,
+      "HOLD_NUM_CHANGE": "-705600",
+      "CHANGE_RATIO": -14.49406351
     },
     {
       "SECUCODE": "603703.SH",
       "SECURITY_CODE": "603703",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "苏颜翔",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3264400,
-      "HOLD_NUM_RATIO": 0.79,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603703.SH",
-      "SECURITY_CODE": "603703",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "高盛国际-自有资金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2568672,
-      "HOLD_NUM_RATIO": 0.62,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603703.SH",
-      "SECURITY_CODE": "603703",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "虞伟庆",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2471877,
-      "HOLD_NUM_RATIO": 0.6,
-      "HOLD_NUM_CHANGE": "71800",
-      "CHANGE_RATIO": 2.99157069
+      "HOLD_NUM": 3000077,
+      "HOLD_NUM_RATIO": 0.72,
+      "HOLD_NUM_CHANGE": "528200",
+      "CHANGE_RATIO": 21.36837715
+    },
+    {
+      "SECUCODE": "603703.SH",
+      "SECURITY_CODE": "603703",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "UBS AG",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2399888,
+      "HOLD_NUM_RATIO": 0.58,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "603703",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 64700,
-      "TOTAL_SHARES_RATIO": 0.01559103,
-      "ALL_SHARES_RATIO": 0.01559103
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 97883523,
+      "TOTAL_SHARES_RATIO": 23.58740733,
+      "ALL_SHARES_RATIO": 23.58740733
     },
     {
       "SECUCODE": "603703.SH",
@@ -756,6 +756,26 @@
       "TOTAL_FREE_SHARES": 64700,
       "TOTAL_SHARES_RATIO": 0.01559103,
       "ALL_SHARES_RATIO": 0.01559103
+    },
+    {
+      "SECUCODE": "603703.SH",
+      "SECURITY_CODE": "603703",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 6949422,
+      "TOTAL_SHARES_RATIO": 1.67463167,
+      "ALL_SHARES_RATIO": 1.67463167
+    },
+    {
+      "SECUCODE": "603703.SH",
+      "SECURITY_CODE": "603703",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 90869401,
+      "TOTAL_SHARES_RATIO": 21.89718463,
+      "ALL_SHARES_RATIO": 21.89718463
     }
   ],
   "jjcg": [

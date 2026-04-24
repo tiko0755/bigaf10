@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 5.23,
       "AVG_HOLD_AMT": 137246.593889531,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 37.3505722,
+      "FREEHOLD_RATIO_TOTAL": 34.60318053
     },
     {
       "SECUCODE": "002004.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002004.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002004.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002004.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002004.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002004.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002004.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002004.SZ",
       "END_DATE": "2016-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002004.SZ",
-      "END_DATE": "2016-03-10 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "002004.SZ",
       "SECURITY_CODE": "002004",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "重庆汇邦卓远科技有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "002004.SZ",
       "SECURITY_CODE": "002004",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "董晓明",
       "HOLDER_TYPE": "个人",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "002004.SZ",
       "SECURITY_CODE": "002004",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "张一卓",
       "HOLDER_TYPE": "个人",
@@ -512,34 +512,8 @@
     {
       "SECUCODE": "002004.SZ",
       "SECURITY_CODE": "002004",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "姜雪萍",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 33997600,
-      "FREE_HOLDNUM_RATIO": 1.805192752791,
-      "HOLD_NUM_CHANGE": "-2816200",
-      "CHANGE_RATIO": -7.6498487
-    },
-    {
-      "SECUCODE": "002004.SZ",
-      "SECURITY_CODE": "002004",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 31613012,
-      "FREE_HOLDNUM_RATIO": 1.67857672766,
-      "HOLD_NUM_CHANGE": "3723",
-      "CHANGE_RATIO": 0.01177818
-    },
-    {
-      "SECUCODE": "002004.SZ",
-      "SECURITY_CODE": "002004",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "张松山",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -551,21 +525,60 @@
     {
       "SECUCODE": "002004.SZ",
       "SECURITY_CODE": "002004",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "杨维虎",
-      "HOLDER_TYPE": "个人",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 20148618,
-      "FREE_HOLDNUM_RATIO": 1.069844318198,
-      "HOLD_NUM_CHANGE": "300000",
-      "CHANGE_RATIO": 1.51144024
+      "HOLD_NUM": 29033714,
+      "FREE_HOLDNUM_RATIO": 1.541622058599,
+      "HOLD_NUM_CHANGE": "-2579298",
+      "CHANGE_RATIO": -8.1589758
     },
     {
       "SECUCODE": "002004.SZ",
       "SECURITY_CODE": "002004",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "姜雪萍",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 29018000,
+      "FREE_HOLDNUM_RATIO": 1.540787682086,
+      "HOLD_NUM_CHANGE": "-4979600",
+      "CHANGE_RATIO": -14.64691625
+    },
+    {
+      "SECUCODE": "002004.SZ",
+      "SECURITY_CODE": "002004",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "杨维虎",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 20048618,
+      "FREE_HOLDNUM_RATIO": 1.064534552941,
+      "HOLD_NUM_CHANGE": "-100000",
+      "CHANGE_RATIO": -0.49631196
+    },
+    {
+      "SECUCODE": "002004.SZ",
+      "SECURITY_CODE": "002004",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国工商银行股份有限公司-鹏华优质治理混合型证券投资基金(LOF)",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 19629400,
+      "FREE_HOLDNUM_RATIO": 1.042275061229,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002004.SZ",
+      "SECURITY_CODE": "002004",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "上海珠池资产管理有限公司-珠池新收益私募证券投资基金6期",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
@@ -577,8 +590,8 @@
     {
       "SECUCODE": "002004.SZ",
       "SECURITY_CODE": "002004",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "西安投资控股有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -586,39 +599,26 @@
       "FREE_HOLDNUM_RATIO": 0.829650821304,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002004.SZ",
-      "SECURITY_CODE": "002004",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 14586234,
-      "FREE_HOLDNUM_RATIO": 0.774494785141,
-      "HOLD_NUM_CHANGE": "100300",
-      "CHANGE_RATIO": 0.69239581
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "002004.SZ",
       "SECURITY_CODE": "002004",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 654305192,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 651689460,
       "LIMITED_SHARES": 96596762,
-      "OTHER_UNLIMITED_SHARES": 1229017237,
-      "HOLD_NUM_RATIO": 33.05,
+      "OTHER_UNLIMITED_SHARES": 1231632969,
+      "HOLD_NUM_RATIO": 32.91,
       "LIMITED_SHARES_RATIO": 4.88,
-      "UNLIMITED_SHARES_RATIO": 62.07
+      "UNLIMITED_SHARES_RATIO": 62.21
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002004.SZ",
       "SECURITY_CODE": "002004",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "重庆汇邦卓远科技有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "002004.SZ",
       "SECURITY_CODE": "002004",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "张松山",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "002004.SZ",
       "SECURITY_CODE": "002004",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "董晓明",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "002004.SZ",
       "SECURITY_CODE": "002004",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "张一卓",
       "SHARES_TYPE": "流通A股",
@@ -666,44 +666,56 @@
     {
       "SECUCODE": "002004.SZ",
       "SECURITY_CODE": "002004",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "姜雪萍",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 33997600,
-      "HOLD_NUM_RATIO": 1.72,
-      "HOLD_NUM_CHANGE": "-2816200",
-      "CHANGE_RATIO": -7.6498487
-    },
-    {
-      "SECUCODE": "002004.SZ",
-      "SECURITY_CODE": "002004",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 31613012,
-      "HOLD_NUM_RATIO": 1.6,
-      "HOLD_NUM_CHANGE": "3723",
-      "CHANGE_RATIO": 0.01177818
+      "HOLD_NUM": 29033714,
+      "HOLD_NUM_RATIO": 1.47,
+      "HOLD_NUM_CHANGE": "-2579298",
+      "CHANGE_RATIO": -8.1589758
     },
     {
       "SECUCODE": "002004.SZ",
       "SECURITY_CODE": "002004",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "姜雪萍",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 29018000,
+      "HOLD_NUM_RATIO": 1.47,
+      "HOLD_NUM_CHANGE": "-4979600",
+      "CHANGE_RATIO": -14.64691625
+    },
+    {
+      "SECUCODE": "002004.SZ",
+      "SECURITY_CODE": "002004",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "杨维虎",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 20148618,
-      "HOLD_NUM_RATIO": 1.02,
-      "HOLD_NUM_CHANGE": "300000",
-      "CHANGE_RATIO": 1.51144024
+      "HOLD_NUM": 20048618,
+      "HOLD_NUM_RATIO": 1.01,
+      "HOLD_NUM_CHANGE": "-100000",
+      "CHANGE_RATIO": -0.49631196
     },
     {
       "SECUCODE": "002004.SZ",
       "SECURITY_CODE": "002004",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国工商银行股份有限公司-鹏华优质治理混合型证券投资基金(LOF)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 19629400,
+      "HOLD_NUM_RATIO": 0.99,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002004.SZ",
+      "SECURITY_CODE": "002004",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "上海珠池资产管理有限公司-珠池新收益私募证券投资基金6期",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 18083500,
@@ -714,26 +726,14 @@
     {
       "SECUCODE": "002004.SZ",
       "SECURITY_CODE": "002004",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "西安投资控股有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 15625000,
       "HOLD_NUM_RATIO": 0.79,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002004.SZ",
-      "SECURITY_CODE": "002004",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 14586234,
-      "HOLD_NUM_RATIO": 0.74,
-      "HOLD_NUM_CHANGE": "100300",
-      "CHANGE_RATIO": 0.69239581
     }
   ],
   "jgcc": [
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "002004",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 34575850,
-      "TOTAL_SHARES_RATIO": 1.83589647,
-      "ALL_SHARES_RATIO": 1.74632632
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 467767868,
+      "TOTAL_SHARES_RATIO": 24.83737573,
+      "ALL_SHARES_RATIO": 23.62560402
     },
     {
       "SECUCODE": "002004.SZ",
@@ -756,6 +756,16 @@
       "TOTAL_FREE_SHARES": 34575850,
       "TOTAL_SHARES_RATIO": 1.83589647,
       "ALL_SHARES_RATIO": 1.74632632
+    },
+    {
+      "SECUCODE": "002004.SZ",
+      "SECURITY_CODE": "002004",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 433192018,
+      "TOTAL_SHARES_RATIO": 23.00147926,
+      "ALL_SHARES_RATIO": 21.8792777
     }
   ],
   "jjcg": [

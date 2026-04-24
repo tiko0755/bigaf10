@@ -25,8 +25,8 @@
       "HOLD_FOCUS": null,
       "PRICE": 6.66,
       "AVG_HOLD_AMT": 81757.5221107172,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 51.13210818,
+      "FREEHOLD_RATIO_TOTAL": 51.21065245
     },
     {
       "SECUCODE": "200026.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "200026.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "200026.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "200026.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "200026.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "200026.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "200026.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "200026.SZ",
       "END_DATE": "2016-01-14 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "200026.SZ",
-      "END_DATE": "2015-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -452,7 +452,7 @@
     {
       "SECUCODE": "200026.SZ",
       "SECURITY_CODE": "200026",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "深天科技控股(深圳)有限公司",
       "HOLDER_TYPE": "其它",
@@ -465,21 +465,8 @@
     {
       "SECUCODE": "200026.SZ",
       "SECURITY_CODE": "200026",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "吴吉林",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 16851926,
-      "FREE_HOLDNUM_RATIO": 4.159514405118,
-      "HOLD_NUM_CHANGE": "2328903",
-      "CHANGE_RATIO": 16.03593825
-    },
-    {
-      "SECUCODE": "200026.SZ",
-      "SECURITY_CODE": "200026",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "前海人寿保险股份有限公司-分红保险产品",
       "HOLDER_TYPE": "保险产品",
       "SHARES_TYPE": "A股",
@@ -491,91 +478,104 @@
     {
       "SECUCODE": "200026.SZ",
       "SECURITY_CODE": "200026",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "吴吉林",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 15281926,
+      "FREE_HOLDNUM_RATIO": 3.771995636282,
+      "HOLD_NUM_CHANGE": "-1570000",
+      "CHANGE_RATIO": -9.31644252
+    },
+    {
+      "SECUCODE": "200026.SZ",
+      "SECURITY_CODE": "200026",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "中国银行股份有限公司-华商甄选回报混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2530600,
+      "FREE_HOLDNUM_RATIO": 0.624621016826,
+      "HOLD_NUM_CHANGE": "1266300",
+      "CHANGE_RATIO": 100.1581903
+    },
+    {
+      "SECUCODE": "200026.SZ",
+      "SECURITY_CODE": "200026",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "朱瑞",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 2096600,
       "FREE_HOLDNUM_RATIO": 0.517497994103,
-      "HOLD_NUM_CHANGE": "9100",
-      "CHANGE_RATIO": 0.43592814
-    },
-    {
-      "SECUCODE": "200026.SZ",
-      "SECURITY_CODE": "200026",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "招商银行股份有限公司-东方红远见价值混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1838100,
-      "FREE_HOLDNUM_RATIO": 0.453693152228,
-      "HOLD_NUM_CHANGE": "-121000",
-      "CHANGE_RATIO": -6.17630545
-    },
-    {
-      "SECUCODE": "200026.SZ",
-      "SECURITY_CODE": "200026",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "王兴",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1820300,
-      "FREE_HOLDNUM_RATIO": 0.449299627333,
-      "HOLD_NUM_CHANGE": "19400",
-      "CHANGE_RATIO": 1.07723916
-    },
-    {
-      "SECUCODE": "200026.SZ",
-      "SECURITY_CODE": "200026",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1563501,
-      "FREE_HOLDNUM_RATIO": 0.385914638595,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "200026.SZ",
-      "SECURITY_CODE": "200026",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "交通银行-华安创新证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1374700,
-      "FREE_HOLDNUM_RATIO": 0.339313408611,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "200026.SZ",
       "SECURITY_CODE": "200026",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "王兴",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2025100,
+      "FREE_HOLDNUM_RATIO": 0.49984984635,
+      "HOLD_NUM_CHANGE": "204800",
+      "CHANGE_RATIO": 11.25089271
+    },
+    {
+      "SECUCODE": "200026.SZ",
+      "SECURITY_CODE": "200026",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1871190,
+      "FREE_HOLDNUM_RATIO": 0.461860665642,
+      "HOLD_NUM_CHANGE": "307689",
+      "CHANGE_RATIO": 19.67948853
+    },
+    {
+      "SECUCODE": "200026.SZ",
+      "SECURITY_CODE": "200026",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "陈芳",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1290500,
-      "FREE_HOLDNUM_RATIO": 0.318530554894,
+      "HOLD_NUM": 1826600,
+      "FREE_HOLDNUM_RATIO": 0.450854638953,
+      "HOLD_NUM_CHANGE": "536100",
+      "CHANGE_RATIO": 41.54203797
+    },
+    {
+      "SECUCODE": "200026.SZ",
+      "SECURITY_CODE": "200026",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国工商银行股份有限公司-华商乐享互联灵活配置混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1406578,
+      "FREE_HOLDNUM_RATIO": 0.347181767409,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "200026.SZ",
       "SECURITY_CODE": "200026",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国银行股份有限公司-华商甄选回报混合型证券投资基金",
+      "HOLDER_NAME": "中信证券股份有限公司-华泰柏瑞中证中央企业红利交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1264300,
-      "FREE_HOLDNUM_RATIO": 0.312063681172,
+      "HOLD_NUM": 1273400,
+      "FREE_HOLDNUM_RATIO": 0.314309809067,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -584,20 +584,20 @@
     {
       "SECUCODE": "200026.SZ",
       "SECURITY_CODE": "200026",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 207263624,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 207475691,
       "LIMITED_SHARES": 622340,
-      "OTHER_UNLIMITED_SHARES": 197878043,
-      "HOLD_NUM_RATIO": 51.08,
+      "OTHER_UNLIMITED_SHARES": 197665976,
+      "HOLD_NUM_RATIO": 51.13,
       "LIMITED_SHARES_RATIO": 0.15,
-      "UNLIMITED_SHARES_RATIO": 48.77
+      "UNLIMITED_SHARES_RATIO": 48.71
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "200026.SZ",
       "SECURITY_CODE": "200026",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "深天科技控股(深圳)有限公司",
       "SHARES_TYPE": "流通A股",
@@ -609,20 +609,8 @@
     {
       "SECUCODE": "200026.SZ",
       "SECURITY_CODE": "200026",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "吴吉林",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 16851926,
-      "HOLD_NUM_RATIO": 4.15,
-      "HOLD_NUM_CHANGE": "2328903",
-      "CHANGE_RATIO": 16.03593825
-    },
-    {
-      "SECUCODE": "200026.SZ",
-      "SECURITY_CODE": "200026",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "前海人寿保险股份有限公司-分红保险产品",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 16186370,
@@ -633,83 +621,95 @@
     {
       "SECUCODE": "200026.SZ",
       "SECURITY_CODE": "200026",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "吴吉林",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 15281926,
+      "HOLD_NUM_RATIO": 3.77,
+      "HOLD_NUM_CHANGE": "-1570000",
+      "CHANGE_RATIO": -9.31644252
+    },
+    {
+      "SECUCODE": "200026.SZ",
+      "SECURITY_CODE": "200026",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "中国银行股份有限公司-华商甄选回报混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2530600,
+      "HOLD_NUM_RATIO": 0.62,
+      "HOLD_NUM_CHANGE": "1266300",
+      "CHANGE_RATIO": 100.1581903
+    },
+    {
+      "SECUCODE": "200026.SZ",
+      "SECURITY_CODE": "200026",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "朱瑞",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2096600,
       "HOLD_NUM_RATIO": 0.52,
-      "HOLD_NUM_CHANGE": "9100",
-      "CHANGE_RATIO": 0.43592814
-    },
-    {
-      "SECUCODE": "200026.SZ",
-      "SECURITY_CODE": "200026",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "招商银行股份有限公司-东方红远见价值混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1838100,
-      "HOLD_NUM_RATIO": 0.45,
-      "HOLD_NUM_CHANGE": "-121000",
-      "CHANGE_RATIO": -6.17630545
-    },
-    {
-      "SECUCODE": "200026.SZ",
-      "SECURITY_CODE": "200026",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "王兴",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1820300,
-      "HOLD_NUM_RATIO": 0.45,
-      "HOLD_NUM_CHANGE": "19400",
-      "CHANGE_RATIO": 1.07723916
-    },
-    {
-      "SECUCODE": "200026.SZ",
-      "SECURITY_CODE": "200026",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1563501,
-      "HOLD_NUM_RATIO": 0.39,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "200026.SZ",
-      "SECURITY_CODE": "200026",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "交通银行-华安创新证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1374700,
-      "HOLD_NUM_RATIO": 0.34,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "200026.SZ",
       "SECURITY_CODE": "200026",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "王兴",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2025100,
+      "HOLD_NUM_RATIO": 0.5,
+      "HOLD_NUM_CHANGE": "204800",
+      "CHANGE_RATIO": 11.25089271
+    },
+    {
+      "SECUCODE": "200026.SZ",
+      "SECURITY_CODE": "200026",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1871190,
+      "HOLD_NUM_RATIO": 0.46,
+      "HOLD_NUM_CHANGE": "307689",
+      "CHANGE_RATIO": 19.67948853
+    },
+    {
+      "SECUCODE": "200026.SZ",
+      "SECURITY_CODE": "200026",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "陈芳",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1290500,
-      "HOLD_NUM_RATIO": 0.32,
+      "HOLD_NUM": 1826600,
+      "HOLD_NUM_RATIO": 0.45,
+      "HOLD_NUM_CHANGE": "536100",
+      "CHANGE_RATIO": 41.54203797
+    },
+    {
+      "SECUCODE": "200026.SZ",
+      "SECURITY_CODE": "200026",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国工商银行股份有限公司-华商乐享互联灵活配置混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1406578,
+      "HOLD_NUM_RATIO": 0.35,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "200026.SZ",
       "SECURITY_CODE": "200026",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国银行股份有限公司-华商甄选回报混合型证券投资基金",
+      "HOLDER_NAME": "中信证券股份有限公司-华泰柏瑞中证中央企业红利交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1264300,
+      "HOLD_NUM": 1273400,
       "HOLD_NUM_RATIO": 0.31,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null

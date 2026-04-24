@@ -25,8 +25,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 7.25,
       "AVG_HOLD_AMT": 83957.4736155529,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 35.50254265,
+      "FREEHOLD_RATIO_TOTAL": 35.78701212
     },
     {
       "SECUCODE": "000952.SZ",
@@ -133,7 +133,7 @@
       "HOLDER_TOTAL_NUM": 38180,
       "TOTAL_NUM_RATIO": -1.6866,
       "AVG_FREE_SHARES": 9009,
-      "AVG_FREESHARES_RATIO": 1.71496650737,
+      "AVG_FREESHARES_RATIO": 1.715557883709,
       "HOLD_FOCUS": "较分散",
       "PRICE": 8.49,
       "AVG_HOLD_AMT": 76493.1733145626,
@@ -142,6 +142,14 @@
     }
   ],
   "sdltgd_date": [
+    {
+      "SECUCODE": "000952.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000952.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
     {
       "SECUCODE": "000952.SZ",
       "END_DATE": "2025-09-30 00:00:00"
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "000952.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000952.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000952.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000952.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000952.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000952.SZ",
       "END_DATE": "2025-09-30 00:00:00",
@@ -403,16 +413,6 @@
       "SECUCODE": "000952.SZ",
       "END_DATE": "2015-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000952.SZ",
-      "END_DATE": "2015-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000952.SZ",
-      "END_DATE": "2014-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "000952.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "000952.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "000952.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000952.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -468,167 +468,157 @@
       "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "xsjj": [
-    {
-      "SECUCODE": "000952.SZ",
-      "SECURITY_CODE": "000952",
-      "LIFT_DATE": "2026-11-23 00:00:00",
-      "LIFT_NUM": 456900,
-      "LIFT_TYPE": "股权激励限售股份",
-      "TOTAL_SHARES_RATIO": 0.13,
-      "UNLIMITED_A_SHARES_RATIO": 0.13
-    }
-  ],
+  "xsjj": [],
   "sdltgd": [
     {
       "SECUCODE": "000952.SZ",
       "SECURITY_CODE": "000952",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "长江产业投资集团有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 87592065,
-      "FREE_HOLDNUM_RATIO": 25.463103084895,
+      "FREE_HOLDNUM_RATIO": 25.463251128759,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000952.SZ",
       "SECURITY_CODE": "000952",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "武汉火炬创业投资有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 14855015,
-      "FREE_HOLDNUM_RATIO": 4.318368088167,
+      "FREE_HOLDNUM_RATIO": 4.318393195394,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000952.SZ",
       "SECURITY_CODE": "000952",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "陈武峰",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 13146134,
-      "FREE_HOLDNUM_RATIO": 3.821594629717,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3897293,
+      "FREE_HOLDNUM_RATIO": 1.132953657176,
+      "HOLD_NUM_CHANGE": "1097729",
+      "CHANGE_RATIO": 39.21071281
     },
     {
       "SECUCODE": "000952.SZ",
       "SECURITY_CODE": "000952",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "张国明",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 3576603,
-      "FREE_HOLDNUM_RATIO": 1.039722158425,
+      "FREE_HOLDNUM_RATIO": 1.039728203427,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000952.SZ",
       "SECURITY_CODE": "000952",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "廖原",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3433520,
-      "FREE_HOLDNUM_RATIO": 0.998127783653,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000952.SZ",
-      "SECURITY_CODE": "000952",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "MORGAN STANLEY&CO.INTERNATIONAL PLC.",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2985916,
-      "FREE_HOLDNUM_RATIO": 0.868008842021,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000952.SZ",
-      "SECURITY_CODE": "000952",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "金业军",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 2663285,
-      "FREE_HOLDNUM_RATIO": 0.774219679596,
+      "FREE_HOLDNUM_RATIO": 0.774224180951,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000952.SZ",
       "SECURITY_CODE": "000952",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国农业银行股份有限公司-华夏中证500指数增强型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "UBS AG",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2281420,
-      "FREE_HOLDNUM_RATIO": 0.663211132652,
+      "HOLD_NUM": 2606140,
+      "FREE_HOLDNUM_RATIO": 0.757611974289,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000952.SZ",
       "SECURITY_CODE": "000952",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "李伟华",
-      "HOLDER_TYPE": "个人",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "BARCLAYS BANK PLC",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2172100,
-      "FREE_HOLDNUM_RATIO": 0.631431696589,
-      "HOLD_NUM_CHANGE": "12000",
-      "CHANGE_RATIO": 0.55552984
+      "HOLD_NUM": 2350191,
+      "FREE_HOLDNUM_RATIO": 0.683206905027,
+      "HOLD_NUM_CHANGE": "920603",
+      "CHANGE_RATIO": 64.39638553
     },
     {
       "SECUCODE": "000952.SZ",
       "SECURITY_CODE": "000952",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国民生银行股份有限公司-金元顺安元启灵活配置混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "陈武峰",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2047700,
-      "FREE_HOLDNUM_RATIO": 0.595268489068,
-      "HOLD_NUM_CHANGE": "137700",
-      "CHANGE_RATIO": 7.20942408
+      "HOLD_NUM": 1981114,
+      "FREE_HOLDNUM_RATIO": 0.575915218995,
+      "HOLD_NUM_CHANGE": "330000",
+      "CHANGE_RATIO": 19.98650608
+    },
+    {
+      "SECUCODE": "000952.SZ",
+      "SECURITY_CODE": "000952",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1903461,
+      "FREE_HOLDNUM_RATIO": 0.553341281049,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000952.SZ",
+      "SECURITY_CODE": "000952",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "廖原",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1680020,
+      "FREE_HOLDNUM_RATIO": 0.488386375653,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "000952.SZ",
       "SECURITY_CODE": "000952",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 134753758,
-      "LIMITED_SHARES": 2754304,
-      "OTHER_UNLIMITED_SHARES": 209242277,
-      "HOLD_NUM_RATIO": 38.86,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 123105187,
+      "LIMITED_SHARES": 2756304,
+      "OTHER_UNLIMITED_SHARES": 220888848,
+      "HOLD_NUM_RATIO": 35.5,
       "LIMITED_SHARES_RATIO": 0.79,
-      "UNLIMITED_SHARES_RATIO": 60.34
+      "UNLIMITED_SHARES_RATIO": 63.7
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "000952.SZ",
       "SECURITY_CODE": "000952",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "长江产业投资集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -640,7 +630,7 @@
     {
       "SECUCODE": "000952.SZ",
       "SECURITY_CODE": "000952",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "武汉火炬创业投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -652,19 +642,19 @@
     {
       "SECUCODE": "000952.SZ",
       "SECURITY_CODE": "000952",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "陈武峰",
+      "HOLDER_NAME": "高盛公司有限责任公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 13146134,
-      "HOLD_NUM_RATIO": 3.79,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3897293,
+      "HOLD_NUM_RATIO": 1.12,
+      "HOLD_NUM_CHANGE": "1097729",
+      "CHANGE_RATIO": 39.21071281
     },
     {
       "SECUCODE": "000952.SZ",
       "SECURITY_CODE": "000952",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "张国明",
       "SHARES_TYPE": "流通A股",
@@ -676,32 +666,8 @@
     {
       "SECUCODE": "000952.SZ",
       "SECURITY_CODE": "000952",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "廖原",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3433520,
-      "HOLD_NUM_RATIO": 0.99,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000952.SZ",
-      "SECURITY_CODE": "000952",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "MORGAN STANLEY&CO.INTERNATIONAL PLC.",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2985916,
-      "HOLD_NUM_RATIO": 0.86,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000952.SZ",
-      "SECURITY_CODE": "000952",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "金业军",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2663285,
@@ -712,60 +678,94 @@
     {
       "SECUCODE": "000952.SZ",
       "SECURITY_CODE": "000952",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国农业银行股份有限公司-华夏中证500指数增强型证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "UBS AG",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2281420,
-      "HOLD_NUM_RATIO": 0.66,
+      "HOLD_NUM": 2606140,
+      "HOLD_NUM_RATIO": 0.75,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000952.SZ",
       "SECURITY_CODE": "000952",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "李伟华",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "BARCLAYS BANK PLC",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2172100,
-      "HOLD_NUM_RATIO": 0.63,
-      "HOLD_NUM_CHANGE": "12000",
-      "CHANGE_RATIO": 0.55552984
+      "HOLD_NUM": 2350191,
+      "HOLD_NUM_RATIO": 0.68,
+      "HOLD_NUM_CHANGE": "920603",
+      "CHANGE_RATIO": 64.39638553
     },
     {
       "SECUCODE": "000952.SZ",
       "SECURITY_CODE": "000952",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国民生银行股份有限公司-金元顺安元启灵活配置混合型证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "陈武峰",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2047700,
-      "HOLD_NUM_RATIO": 0.59,
-      "HOLD_NUM_CHANGE": "137700",
-      "CHANGE_RATIO": 7.20942408
+      "HOLD_NUM": 1981114,
+      "HOLD_NUM_RATIO": 0.57,
+      "HOLD_NUM_CHANGE": "330000",
+      "CHANGE_RATIO": 19.98650608
+    },
+    {
+      "SECUCODE": "000952.SZ",
+      "SECURITY_CODE": "000952",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1903461,
+      "HOLD_NUM_RATIO": 0.55,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000952.SZ",
+      "SECURITY_CODE": "000952",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "廖原",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1680020,
+      "HOLD_NUM_RATIO": 0.48,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "000952.SZ",
       "SECURITY_CODE": "000952",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 20,
-      "TOTAL_FREE_SHARES": 1249700,
-      "TOTAL_SHARES_RATIO": 0.36328905,
-      "ALL_SHARES_RATIO": 0.3604034
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 113204165,
+      "TOTAL_SHARES_RATIO": 32.90875815,
+      "ALL_SHARES_RATIO": 32.6471678
     },
     {
       "SECUCODE": "000952.SZ",
       "SECURITY_CODE": "000952",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 20,
-      "TOTAL_FREE_SHARES": 1249700,
-      "TOTAL_SHARES_RATIO": 0.36328905,
-      "ALL_SHARES_RATIO": 0.3604034
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 10757085,
+      "TOTAL_SHARES_RATIO": 3.12711382,
+      "ALL_SHARES_RATIO": 3.10225652
+    },
+    {
+      "SECUCODE": "000952.SZ",
+      "SECURITY_CODE": "000952",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 102447080,
+      "TOTAL_SHARES_RATIO": 29.78164433,
+      "ALL_SHARES_RATIO": 29.54491128
     }
   ],
   "jjcg": [
@@ -778,7 +778,7 @@
       "TOTAL_SHARES": 527300,
       "HOLD_VALUE": 3706919,
       "TOTALSHARES_RATIO": 0.15206907,
-      "FREESHARES_RATIO": 0.15328665,
+      "FREESHARES_RATIO": 0.15328754,
       "FREE_MARKET_CAP": 3706919,
       "FREE_SHARES": 527300,
       "SECURITY_CODE": "000952",
@@ -795,7 +795,7 @@
       "TOTAL_SHARES": 157600,
       "HOLD_VALUE": 1107928,
       "TOTALSHARES_RATIO": 0.04545057,
-      "FREESHARES_RATIO": 0.04581448,
+      "FREESHARES_RATIO": 0.04581475,
       "FREE_MARKET_CAP": 1107928,
       "FREE_SHARES": 157600,
       "SECURITY_CODE": "000952",
@@ -812,7 +812,7 @@
       "TOTAL_SHARES": 111100,
       "HOLD_VALUE": 781033,
       "TOTALSHARES_RATIO": 0.03204034,
-      "FREESHARES_RATIO": 0.03229688,
+      "FREESHARES_RATIO": 0.03229707,
       "FREE_MARKET_CAP": 781033,
       "FREE_SHARES": 111100,
       "SECURITY_CODE": "000952",
@@ -829,7 +829,7 @@
       "TOTAL_SHARES": 95400,
       "HOLD_VALUE": 670662,
       "TOTALSHARES_RATIO": 0.02751259,
-      "FREESHARES_RATIO": 0.02773288,
+      "FREESHARES_RATIO": 0.02773304,
       "FREE_MARKET_CAP": 670662,
       "FREE_SHARES": 95400,
       "SECURITY_CODE": "000952",
@@ -846,7 +846,7 @@
       "TOTAL_SHARES": 69300,
       "HOLD_VALUE": 487179,
       "TOTALSHARES_RATIO": 0.01998556,
-      "FREESHARES_RATIO": 0.02014558,
+      "FREESHARES_RATIO": 0.0201457,
       "FREE_MARKET_CAP": 487179,
       "FREE_SHARES": 69300,
       "SECURITY_CODE": "000952",
@@ -863,7 +863,7 @@
       "TOTAL_SHARES": 60900,
       "HOLD_VALUE": 428127,
       "TOTALSHARES_RATIO": 0.01756307,
-      "FREESHARES_RATIO": 0.01770369,
+      "FREESHARES_RATIO": 0.0177038,
       "FREE_MARKET_CAP": 428127,
       "FREE_SHARES": 60900,
       "SECURITY_CODE": "000952",
@@ -880,7 +880,7 @@
       "TOTAL_SHARES": 50000,
       "HOLD_VALUE": 351500,
       "TOTALSHARES_RATIO": 0.0144196,
-      "FREESHARES_RATIO": 0.01453505,
+      "FREESHARES_RATIO": 0.01453514,
       "FREE_MARKET_CAP": 351500,
       "FREE_SHARES": 50000,
       "SECURITY_CODE": "000952",
@@ -897,7 +897,7 @@
       "TOTAL_SHARES": 43900,
       "HOLD_VALUE": 308617,
       "TOTALSHARES_RATIO": 0.01266041,
-      "FREESHARES_RATIO": 0.01276178,
+      "FREESHARES_RATIO": 0.01276185,
       "FREE_MARKET_CAP": 308617,
       "FREE_SHARES": 43900,
       "SECURITY_CODE": "000952",
@@ -914,7 +914,7 @@
       "TOTAL_SHARES": 23500,
       "HOLD_VALUE": 165205,
       "TOTALSHARES_RATIO": 0.00677721,
-      "FREESHARES_RATIO": 0.00683147,
+      "FREESHARES_RATIO": 0.00683151,
       "FREE_MARKET_CAP": 165205,
       "FREE_SHARES": 23500,
       "SECURITY_CODE": "000952",
@@ -931,7 +931,7 @@
       "TOTAL_SHARES": 20700,
       "HOLD_VALUE": 145521,
       "TOTALSHARES_RATIO": 0.00596971,
-      "FREESHARES_RATIO": 0.00601751,
+      "FREESHARES_RATIO": 0.00601755,
       "FREE_MARKET_CAP": 145521,
       "FREE_SHARES": 20700,
       "SECURITY_CODE": "000952",
@@ -948,7 +948,7 @@
       "TOTAL_SHARES": 20300,
       "HOLD_VALUE": 142709,
       "TOTALSHARES_RATIO": 0.00585436,
-      "FREESHARES_RATIO": 0.00590123,
+      "FREESHARES_RATIO": 0.00590127,
       "FREE_MARKET_CAP": 142709,
       "FREE_SHARES": 20300,
       "SECURITY_CODE": "000952",
@@ -965,7 +965,7 @@
       "TOTAL_SHARES": 14300,
       "HOLD_VALUE": 100529,
       "TOTALSHARES_RATIO": 0.004124,
-      "FREESHARES_RATIO": 0.00415702,
+      "FREESHARES_RATIO": 0.00415705,
       "FREE_MARKET_CAP": 100529,
       "FREE_SHARES": 14300,
       "SECURITY_CODE": "000952",
@@ -982,7 +982,7 @@
       "TOTAL_SHARES": 14200,
       "HOLD_VALUE": 99826,
       "TOTALSHARES_RATIO": 0.00409517,
-      "FREESHARES_RATIO": 0.00412795,
+      "FREESHARES_RATIO": 0.00412798,
       "FREE_MARKET_CAP": 99826,
       "FREE_SHARES": 14200,
       "SECURITY_CODE": "000952",
@@ -999,7 +999,7 @@
       "TOTAL_SHARES": 12100,
       "HOLD_VALUE": 85063,
       "TOTALSHARES_RATIO": 0.00348954,
-      "FREESHARES_RATIO": 0.00351748,
+      "FREESHARES_RATIO": 0.0035175,
       "FREE_MARKET_CAP": 85063,
       "FREE_SHARES": 12100,
       "SECURITY_CODE": "000952",
@@ -1016,7 +1016,7 @@
       "TOTAL_SHARES": 11900,
       "HOLD_VALUE": 83657,
       "TOTALSHARES_RATIO": 0.00343186,
-      "FREESHARES_RATIO": 0.00345934,
+      "FREESHARES_RATIO": 0.00345936,
       "FREE_MARKET_CAP": 83657,
       "FREE_SHARES": 11900,
       "SECURITY_CODE": "000952",
@@ -1033,7 +1033,7 @@
       "TOTAL_SHARES": 9300,
       "HOLD_VALUE": 65379,
       "TOTALSHARES_RATIO": 0.00268204,
-      "FREESHARES_RATIO": 0.00270352,
+      "FREESHARES_RATIO": 0.00270354,
       "FREE_MARKET_CAP": 65379,
       "FREE_SHARES": 9300,
       "SECURITY_CODE": "000952",

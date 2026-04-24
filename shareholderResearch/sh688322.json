@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 75,
       "AVG_HOLD_AMT": 903175.354268224,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 57.22775454,
+      "FREEHOLD_RATIO_TOTAL": 46.15904933
     },
     {
       "SECUCODE": "688322.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "688322.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "688322.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "688322.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "688322.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "688322.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "688322.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -340,41 +345,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-10-13 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6281593,
-      "HOLD_NUM_RATIO": 1.57,
-      "HOLD_CHANGE": "-660826",
-      "CHANGE_RATIO": -9.51867065,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-13 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "兴业银行股份有限公司-华夏中证机器人交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5626790,
-      "HOLD_NUM_RATIO": 1.4,
-      "HOLD_CHANGE": "119508",
-      "CHANGE_RATIO": 2.16999965,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-13 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国建设银行股份有限公司-易方达国证机器人产业交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3547047,
-      "HOLD_NUM_RATIO": 0.88,
-      "HOLD_CHANGE": "57944",
-      "CHANGE_RATIO": 1.66071337,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "688322.SH",
@@ -402,155 +373,155 @@
     {
       "SECUCODE": "688322.SH",
       "SECURITY_CODE": "688322",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海云鑫创业投资有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 36822120,
-      "FREE_HOLDNUM_RATIO": 12.599946865641,
+      "FREE_HOLDNUM_RATIO": 11.554705941317,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688322.SH",
       "SECURITY_CODE": "688322",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "周广大",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 26968320,
-      "FREE_HOLDNUM_RATIO": 9.228132412137,
+      "FREE_HOLDNUM_RATIO": 8.462603655937,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688322.SH",
       "SECURITY_CODE": "688322",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "黄源浩",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 26436112,
+      "FREE_HOLDNUM_RATIO": 8.295597874097,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688322.SH",
+      "SECURITY_CODE": "688322",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "珠海奥比中芯投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 22407480,
-      "FREE_HOLDNUM_RATIO": 7.667485125596,
+      "FREE_HOLDNUM_RATIO": 7.03142139252,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688322.SH",
       "SECURITY_CODE": "688322",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "肖振中",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 9603000,
-      "FREE_HOLDNUM_RATIO": 3.285994661653,
+      "FREE_HOLDNUM_RATIO": 3.013401758358,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688322.SH",
       "SECURITY_CODE": "688322",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国建设银行股份有限公司-永赢先进制造智选混合型发起式证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6901153,
-      "FREE_HOLDNUM_RATIO": 2.361465366787,
-      "HOLD_NUM_CHANGE": "619560",
-      "CHANGE_RATIO": 9.8631032
+      "HOLD_NUM": 6096813,
+      "FREE_HOLDNUM_RATIO": 1.913167449191,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688322.SH",
       "SECURITY_CODE": "688322",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "兴业银行股份有限公司-华夏中证机器人交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6277173,
-      "FREE_HOLDNUM_RATIO": 2.147949283377,
-      "HOLD_NUM_CHANGE": "650383",
-      "CHANGE_RATIO": 11.55868621
+      "HOLD_NUM": 5507635,
+      "FREE_HOLDNUM_RATIO": 1.728284597875,
+      "HOLD_NUM_CHANGE": "-769538",
+      "CHANGE_RATIO": -12.25930845
     },
     {
       "SECUCODE": "688322.SH",
       "SECURITY_CODE": "688322",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4726119,
+      "FREE_HOLDNUM_RATIO": 1.483046475561,
+      "HOLD_NUM_CHANGE": "-2175034",
+      "CHANGE_RATIO": -31.51696535
+    },
+    {
+      "SECUCODE": "688322.SH",
+      "SECURITY_CODE": "688322",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "林建鑫",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4830000,
-      "FREE_HOLDNUM_RATIO": 1.6527495799,
-      "HOLD_NUM_CHANGE": "-170000",
-      "CHANGE_RATIO": -3.4
+      "HOLD_NUM": 4600000,
+      "FREE_HOLDNUM_RATIO": 1.44347059132,
+      "HOLD_NUM_CHANGE": "-230000",
+      "CHANGE_RATIO": -4.76190476
     },
     {
       "SECUCODE": "688322.SH",
       "SECURITY_CODE": "688322",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "中国建设银行股份有限公司-易方达国证机器人产业交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3747680,
-      "FREE_HOLDNUM_RATIO": 1.282396800332,
-      "HOLD_NUM_CHANGE": "200633",
-      "CHANGE_RATIO": 5.65633892
-    },
-    {
-      "SECUCODE": "688322.SH",
-      "SECURITY_CODE": "688322",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "珠海奥比中瑞投资合伙企业(有限合伙)",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3472560,
-      "FREE_HOLDNUM_RATIO": 1.188255089271,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688322.SH",
-      "SECURITY_CODE": "688322",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2906064,
-      "FREE_HOLDNUM_RATIO": 0.994409121152,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3930394,
+      "FREE_HOLDNUM_RATIO": 1.233349598109,
+      "HOLD_NUM_CHANGE": "182714",
+      "CHANGE_RATIO": 4.87538957
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "688322.SH",
       "SECURITY_CODE": "688322",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 123935550,
-      "LIMITED_SHARES": 108903960,
-      "OTHER_UNLIMITED_SHARES": 168304730,
-      "HOLD_NUM_RATIO": 30.9,
-      "LIMITED_SHARES_RATIO": 27.15,
-      "UNLIMITED_SHARES_RATIO": 41.96
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 147097993,
+      "LIMITED_SHARES": 82467848,
+      "OTHER_UNLIMITED_SHARES": 171578399,
+      "HOLD_NUM_RATIO": 36.67,
+      "LIMITED_SHARES_RATIO": 20.56,
+      "UNLIMITED_SHARES_RATIO": 42.77
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "688322.SH",
       "SECURITY_CODE": "688322",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "黄源浩",
-      "SHARES_TYPE": "限售流通A股",
+      "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 108903960,
       "HOLD_NUM_RATIO": 27.15,
       "HOLD_NUM_CHANGE": "不变",
@@ -559,7 +530,7 @@
     {
       "SECUCODE": "688322.SH",
       "SECURITY_CODE": "688322",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "上海云鑫创业投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -571,7 +542,7 @@
     {
       "SECUCODE": "688322.SH",
       "SECURITY_CODE": "688322",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "周广大",
       "SHARES_TYPE": "流通A股",
@@ -583,7 +554,7 @@
     {
       "SECUCODE": "688322.SH",
       "SECURITY_CODE": "688322",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "珠海奥比中芯投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -595,7 +566,7 @@
     {
       "SECUCODE": "688322.SH",
       "SECURITY_CODE": "688322",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "肖振中",
       "SHARES_TYPE": "流通A股",
@@ -607,62 +578,62 @@
     {
       "SECUCODE": "688322.SH",
       "SECURITY_CODE": "688322",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_NAME": "中国建设银行股份有限公司-永赢先进制造智选混合型发起式证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6901153,
-      "HOLD_NUM_RATIO": 1.72,
-      "HOLD_NUM_CHANGE": "619560",
-      "CHANGE_RATIO": 9.8631032
+      "HOLD_NUM": 6096813,
+      "HOLD_NUM_RATIO": 1.52,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688322.SH",
       "SECURITY_CODE": "688322",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "兴业银行股份有限公司-华夏中证机器人交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6277173,
-      "HOLD_NUM_RATIO": 1.56,
-      "HOLD_NUM_CHANGE": "650383",
-      "CHANGE_RATIO": 11.55868621
+      "HOLD_NUM": 5507635,
+      "HOLD_NUM_RATIO": 1.37,
+      "HOLD_NUM_CHANGE": "-769538",
+      "CHANGE_RATIO": -12.25930845
     },
     {
       "SECUCODE": "688322.SH",
       "SECURITY_CODE": "688322",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4726119,
+      "HOLD_NUM_RATIO": 1.18,
+      "HOLD_NUM_CHANGE": "-2175034",
+      "CHANGE_RATIO": -31.51696535
+    },
+    {
+      "SECUCODE": "688322.SH",
+      "SECURITY_CODE": "688322",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "林建鑫",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4830000,
-      "HOLD_NUM_RATIO": 1.2,
-      "HOLD_NUM_CHANGE": "-170000",
-      "CHANGE_RATIO": -3.4
+      "HOLD_NUM": 4600000,
+      "HOLD_NUM_RATIO": 1.15,
+      "HOLD_NUM_CHANGE": "-230000",
+      "CHANGE_RATIO": -4.76190476
     },
     {
       "SECUCODE": "688322.SH",
       "SECURITY_CODE": "688322",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "中国建设银行股份有限公司-易方达国证机器人产业交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3747680,
-      "HOLD_NUM_RATIO": 0.93,
-      "HOLD_NUM_CHANGE": "200633",
-      "CHANGE_RATIO": 5.65633892
-    },
-    {
-      "SECUCODE": "688322.SH",
-      "SECURITY_CODE": "688322",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "珠海奥比中瑞投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3472560,
-      "HOLD_NUM_RATIO": 0.87,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3930394,
+      "HOLD_NUM_RATIO": 0.98,
+      "HOLD_NUM_CHANGE": "182714",
+      "CHANGE_RATIO": 4.87538957
     }
   ],
   "jgcc": [
@@ -671,23 +642,84 @@
       "SECURITY_CODE": "688322",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 21,
-      "TOTAL_FREE_SHARES": 3468156,
-      "TOTAL_SHARES_RATIO": 1.08830024,
-      "ALL_SHARES_RATIO": 0.86456581
+      "TOTAL_ORG_NUM": 27,
+      "TOTAL_FREE_SHARES": 82958717,
+      "TOTAL_SHARES_RATIO": 26.0322757,
+      "ALL_SHARES_RATIO": 20.68052055
     },
     {
       "SECUCODE": "688322.SH",
       "SECURITY_CODE": "688322",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 21,
-      "TOTAL_FREE_SHARES": 3468156,
-      "TOTAL_SHARES_RATIO": 1.08830024,
-      "ALL_SHARES_RATIO": 0.86456581
+      "TOTAL_ORG_NUM": 24,
+      "TOTAL_FREE_SHARES": 19002998,
+      "TOTAL_SHARES_RATIO": 5.96310189,
+      "ALL_SHARES_RATIO": 4.73719826
+    },
+    {
+      "SECUCODE": "688322.SH",
+      "SECURITY_CODE": "688322",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 63955719,
+      "TOTAL_SHARES_RATIO": 20.06917381,
+      "ALL_SHARES_RATIO": 15.94332229
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "688322.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "018124",
+      "HOLDER_NAME": "永赢先进制造智选混合发起A",
+      "TOTAL_SHARES": 6096813,
+      "HOLD_VALUE": 457260975,
+      "TOTALSHARES_RATIO": 1.51985555,
+      "FREESHARES_RATIO": 1.91316745,
+      "FREE_MARKET_CAP": 457260975,
+      "FREE_SHARES": 6096813,
+      "SECURITY_CODE": "688322",
+      "FUND_CODE": "018124",
+      "FUND_DERIVECODE": "018124.OF",
+      "NETVALUE_RATIO": 14.83
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "688322.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "562500",
+      "HOLDER_NAME": "华夏中证机器人ETF",
+      "TOTAL_SHARES": 5507635,
+      "HOLD_VALUE": 413072625,
+      "TOTALSHARES_RATIO": 1.3729812,
+      "FREESHARES_RATIO": 1.7282846,
+      "FREE_MARKET_CAP": 413072625,
+      "FREE_SHARES": 5507635,
+      "SECURITY_CODE": "688322",
+      "FUND_CODE": "562500",
+      "FUND_DERIVECODE": "562500.SH",
+      "NETVALUE_RATIO": 1.97
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "688322.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "159530",
+      "HOLDER_NAME": "易方达国证机器人产业ETF",
+      "TOTAL_SHARES": 3930394,
+      "HOLD_VALUE": 294779550,
+      "TOTALSHARES_RATIO": 0.9797957,
+      "FREESHARES_RATIO": 1.2333496,
+      "FREE_MARKET_CAP": 294779550,
+      "FREE_SHARES": 3930394,
+      "SECURITY_CODE": "688322",
+      "FUND_CODE": "159530",
+      "FUND_DERIVECODE": "159530.SZ",
+      "NETVALUE_RATIO": 2.14
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "688322.SH",

@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600469.SH",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600469.SH",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -157,10 +161,6 @@
     {
       "SECUCODE": "600469.SH",
       "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600469.SH",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
@@ -168,6 +168,11 @@
       "SECUCODE": "600469.SH",
       "END_DATE": "2026-02-12 00:00:00",
       "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "600469.SH",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
     },
     {
       "SECUCODE": "600469.SH",
@@ -408,11 +413,6 @@
       "SECUCODE": "600469.SH",
       "END_DATE": "2015-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600469.SH",
-      "END_DATE": "2015-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -455,6 +455,17 @@
       "HOLD_NUM_RATIO": 52.05,
       "HOLD_CHANGE": "43795620",
       "CHANGE_RATIO": 10.44156163,
+      "CHANGE_REASON": "增发上市"
+    },
+    {
+      "END_DATE": "2026-02-12 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国银行股份有限公司-招商量化精选股票型发起式证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 8855651,
+      "HOLD_NUM_RATIO": 0.99,
+      "HOLD_CHANGE": "-70000",
+      "CHANGE_RATIO": -0.78425652,
       "CHANGE_REASON": "增发上市"
     }
   ],
@@ -504,7 +515,7 @@
     {
       "SECUCODE": "600469.SH",
       "SECURITY_CODE": "600469",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国化工橡胶有限公司",
       "HOLDER_TYPE": "其它",
@@ -517,7 +528,7 @@
     {
       "SECUCODE": "600469.SH",
       "SECURITY_CODE": "600469",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中国化工资产管理有限公司",
       "HOLDER_TYPE": "其它",
@@ -530,7 +541,7 @@
     {
       "SECUCODE": "600469.SH",
       "SECURITY_CODE": "600469",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "焦作市投资集团有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -543,21 +554,34 @@
     {
       "SECUCODE": "600469.SH",
       "SECURITY_CODE": "600469",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "李爱英",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "中国银行股份有限公司-招商量化精选股票型发起式证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8089300,
-      "FREE_HOLDNUM_RATIO": 1.108957480428,
+      "HOLD_NUM": 8925651,
+      "FREE_HOLDNUM_RATIO": 1.223612357576,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600469.SH",
       "SECURITY_CODE": "600469",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "李爱英",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 8549900,
+      "FREE_HOLDNUM_RATIO": 1.172100869285,
+      "HOLD_NUM_CHANGE": "460600",
+      "CHANGE_RATIO": 5.69394138
+    },
+    {
+      "SECUCODE": "600469.SH",
+      "SECURITY_CODE": "600469",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "河南轮胎集团有限责任公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -569,21 +593,21 @@
     {
       "SECUCODE": "600469.SH",
       "SECURITY_CODE": "600469",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "秦保庆",
-      "HOLDER_TYPE": "个人",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国光大银行股份有限公司-招商成长量化选股股票型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4238200,
-      "FREE_HOLDNUM_RATIO": 0.581012398298,
+      "HOLD_NUM": 4206400,
+      "FREE_HOLDNUM_RATIO": 0.576652954603,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600469.SH",
       "SECURITY_CODE": "600469",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "厦门海翼国际贸易有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -595,54 +619,41 @@
     {
       "SECUCODE": "600469.SH",
       "SECURITY_CODE": "600469",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "秦保庆",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3546400,
+      "FREE_HOLDNUM_RATIO": 0.486173934529,
+      "HOLD_NUM_CHANGE": "-691800",
+      "CHANGE_RATIO": -16.3229673
+    },
+    {
+      "SECUCODE": "600469.SH",
+      "SECURITY_CODE": "600469",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "张俊峰",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3765500,
-      "FREE_HOLDNUM_RATIO": 0.516210227405,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600469.SH",
-      "SECURITY_CODE": "600469",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "苏继德",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3536500,
-      "FREE_HOLDNUM_RATIO": 0.484816749228,
-      "HOLD_NUM_CHANGE": "734500",
-      "CHANGE_RATIO": 26.21341899
-    },
-    {
-      "SECUCODE": "600469.SH",
-      "SECURITY_CODE": "600469",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "陈培鸿",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2891800,
-      "FREE_HOLDNUM_RATIO": 0.396435197347,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3237700,
+      "FREE_HOLDNUM_RATIO": 0.443854429231,
+      "HOLD_NUM_CHANGE": "-527800",
+      "CHANGE_RATIO": -14.01673085
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600469.SH",
       "SECURITY_CODE": "600469",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 475208556,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLD_NUM_COUNT": 481153307,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 254242315,
-      "HOLD_NUM_RATIO": 65.15,
+      "OTHER_UNLIMITED_SHARES": 248297564,
+      "HOLD_NUM_RATIO": 65.96,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 34.85
+      "UNLIMITED_SHARES_RATIO": 34.04
     }
   ],
   "sdgd": [
@@ -715,8 +726,8 @@
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 8855651,
       "HOLD_NUM_RATIO": 0.99,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM_CHANGE": "-70000",
+      "CHANGE_RATIO": -0.78425652
     },
     {
       "SECUCODE": "600469.SH",

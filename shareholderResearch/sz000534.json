@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 35.44,
       "AVG_HOLD_AMT": 610598.281920121,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 44.50726023,
+      "FREEHOLD_RATIO_TOTAL": 45.35990065
     },
     {
       "SECUCODE": "000534.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000534.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000534.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,10 +161,6 @@
     {
       "SECUCODE": "000534.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000534.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
@@ -168,6 +168,11 @@
       "SECUCODE": "000534.SZ",
       "END_DATE": "2026-04-17 00:00:00",
       "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "000534.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
     },
     {
       "SECUCODE": "000534.SZ",
@@ -408,11 +413,6 @@
       "SECUCODE": "000534.SZ",
       "END_DATE": "2019-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000534.SZ",
-      "END_DATE": "2019-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -453,8 +453,8 @@
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 126625738,
       "HOLD_NUM_RATIO": 24.85,
-      "HOLD_CHANGE": "23027745",
-      "CHANGE_RATIO": 22.2279837,
+      "HOLD_CHANGE": "-1461800",
+      "CHANGE_RATIO": -1.14125076,
       "CHANGE_REASON": "临时公告"
     }
   ],
@@ -549,125 +549,73 @@
     {
       "SECUCODE": "000534.SZ",
       "SECURITY_CODE": "000534",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "万泽集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 103597993,
-      "FREE_HOLDNUM_RATIO": 20.720824609751,
-      "HOLD_NUM_CHANGE": "3738334",
-      "CHANGE_RATIO": 3.74358779
+      "HOLD_NUM": 128087538,
+      "FREE_HOLDNUM_RATIO": 25.619023426378,
+      "HOLD_NUM_CHANGE": "24489545",
+      "CHANGE_RATIO": 23.6390149
     },
     {
       "SECUCODE": "000534.SZ",
       "SECURITY_CODE": "000534",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "万泽实业股份有限公司回购专用证券账户",
       "HOLDER_TYPE": "证券账户",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 27196157,
       "FREE_HOLDNUM_RATIO": 5.439553247487,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000534.SZ",
       "SECURITY_CODE": "000534",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "全国社保基金一零三组合",
       "HOLDER_TYPE": "全国社保基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 20503156,
-      "FREE_HOLDNUM_RATIO": 4.100873840503,
-      "HOLD_NUM_CHANGE": "500000",
-      "CHANGE_RATIO": 2.49960556
+      "HOLD_NUM": 18603250,
+      "FREE_HOLDNUM_RATIO": 3.720870156445,
+      "HOLD_NUM_CHANGE": "-1899906",
+      "CHANGE_RATIO": -9.26640757
     },
     {
       "SECUCODE": "000534.SZ",
       "SECURITY_CODE": "000534",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "万泽集团-红塔证券-25泽EB04担保及信托财产专户",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 17920000,
-      "FREE_HOLDNUM_RATIO": 3.58421207066,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000534.SZ",
-      "SECURITY_CODE": "000534",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "李敏仙",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 15683000,
-      "FREE_HOLDNUM_RATIO": 3.13678559733,
-      "HOLD_NUM_CHANGE": "917700",
-      "CHANGE_RATIO": 6.21524791
+      "HOLD_NUM": 16783000,
+      "FREE_HOLDNUM_RATIO": 3.35679861506,
+      "HOLD_NUM_CHANGE": "1100000",
+      "CHANGE_RATIO": 7.01396417
     },
     {
       "SECUCODE": "000534.SZ",
       "SECURITY_CODE": "000534",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "万泽集团-红塔证券-25泽EB02担保及信托财产专户",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 13529107,
-      "FREE_HOLDNUM_RATIO": 2.705981507514,
-      "HOLD_NUM_CHANGE": "-1870893",
-      "CHANGE_RATIO": -12.14865584
-    },
-    {
-      "SECUCODE": "000534.SZ",
-      "SECURITY_CODE": "000534",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "万泽集团-红塔证券-23泽EB02担保及信托财产专户",
-      "HOLDER_TYPE": "证券账户",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10733349,
-      "FREE_HOLDNUM_RATIO": 2.146796821674,
-      "HOLD_NUM_CHANGE": "-1546651",
-      "CHANGE_RATIO": -12.59487785
-    },
-    {
-      "SECUCODE": "000534.SZ",
-      "SECURITY_CODE": "000534",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "万泽集团-红塔证券-25泽EB03担保及信托财产专户",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10080000,
-      "FREE_HOLDNUM_RATIO": 2.016119289746,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000534.SZ",
-      "SECURITY_CODE": "000534",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "广发基金管理有限公司-社保基金四二零组合",
       "HOLDER_TYPE": "全国社保基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7014700,
-      "FREE_HOLDNUM_RATIO": 1.403023014066,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 8631700,
+      "FREE_HOLDNUM_RATIO": 1.726442150129,
+      "HOLD_NUM_CHANGE": "1617000",
+      "CHANGE_RATIO": 23.05159166
     },
     {
       "SECUCODE": "000534.SZ",
       "SECURITY_CODE": "000534",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "汕头市东冠电力开发有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -675,19 +623,71 @@
       "FREE_HOLDNUM_RATIO": 1.341382766936,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000534.SZ",
+      "SECURITY_CODE": "000534",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "全国社保基金一一五组合",
+      "HOLDER_TYPE": "全国社保基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6564054,
+      "FREE_HOLDNUM_RATIO": 1.312888480986,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000534.SZ",
+      "SECURITY_CODE": "000534",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4781068,
+      "FREE_HOLDNUM_RATIO": 0.956270180594,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000534.SZ",
+      "SECURITY_CODE": "000534",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "上海浦东发展银行股份有限公司-广发高端制造股票型发起式证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4737700,
+      "FREE_HOLDNUM_RATIO": 0.947596067364,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000534.SZ",
+      "SECURITY_CODE": "000534",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国银行股份有限公司-平安鑫安混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4695100,
+      "FREE_HOLDNUM_RATIO": 0.939075563223,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "000534.SZ",
       "SECURITY_CODE": "000534",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 232963979,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 226786084,
       "LIMITED_SHARES": 9578100,
-      "OTHER_UNLIMITED_SHARES": 267006437,
-      "HOLD_NUM_RATIO": 45.72,
+      "OTHER_UNLIMITED_SHARES": 273184332,
+      "HOLD_NUM_RATIO": 44.51,
       "LIMITED_SHARES_RATIO": 1.88,
-      "UNLIMITED_SHARES_RATIO": 52.4
+      "UNLIMITED_SHARES_RATIO": 53.61
     }
   ],
   "sdgd": [
@@ -700,8 +700,8 @@
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 126625738,
       "HOLD_NUM_RATIO": 24.85,
-      "HOLD_NUM_CHANGE": "23027745",
-      "CHANGE_RATIO": 22.2279837
+      "HOLD_NUM_CHANGE": "-1461800",
+      "CHANGE_RATIO": -1.14125076
     },
     {
       "SECUCODE": "000534.SZ",
@@ -722,10 +722,10 @@
       "SECURITY_CODE": "000534",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 65,
-      "TOTAL_FREE_SHARES": 48183681,
-      "TOTAL_SHARES_RATIO": 9.63730641,
-      "ALL_SHARES_RATIO": 9.45615176
+      "TOTAL_ORG_NUM": 72,
+      "TOTAL_FREE_SHARES": 248753965,
+      "TOTAL_SHARES_RATIO": 49.75373683,
+      "ALL_SHARES_RATIO": 48.81850445
     },
     {
       "SECUCODE": "000534.SZ",
@@ -736,6 +736,26 @@
       "TOTAL_FREE_SHARES": 48183681,
       "TOTAL_SHARES_RATIO": 9.63730641,
       "ALL_SHARES_RATIO": 9.45615176
+    },
+    {
+      "SECUCODE": "000534.SZ",
+      "SECURITY_CODE": "000534",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 33799004,
+      "TOTAL_SHARES_RATIO": 6.76020079,
+      "ALL_SHARES_RATIO": 6.63312775
+    },
+    {
+      "SECUCODE": "000534.SZ",
+      "SECURITY_CODE": "000534",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 166771280,
+      "TOTAL_SHARES_RATIO": 33.35622963,
+      "ALL_SHARES_RATIO": 32.72922494
     }
   ],
   "jjcg": [

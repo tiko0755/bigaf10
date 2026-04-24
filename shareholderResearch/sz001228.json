@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "001228.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "001228.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "001228.SZ",
       "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "001228.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "001228.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "001228.SZ",
       "END_DATE": "2025-09-30 00:00:00",
@@ -353,7 +358,7 @@
     {
       "SECUCODE": "001228.SZ",
       "SECURITY_CODE": "001228",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "陈永夫",
       "HOLDER_TYPE": "个人",
@@ -366,7 +371,7 @@
     {
       "SECUCODE": "001228.SZ",
       "SECURITY_CODE": "001228",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "宁波永泰秦唐投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -379,7 +384,7 @@
     {
       "SECUCODE": "001228.SZ",
       "SECURITY_CODE": "001228",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "王巧玲",
       "HOLDER_TYPE": "个人",
@@ -392,7 +397,7 @@
     {
       "SECUCODE": "001228.SZ",
       "SECURITY_CODE": "001228",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "青岛久实投资管理有限公司-久实优选1号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
@@ -405,34 +410,21 @@
     {
       "SECUCODE": "001228.SZ",
       "SECURITY_CODE": "001228",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "浙江财通资本投资有限公司-德清锦烨财股权投资基金管理合伙企业(有限合伙)",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2859477,
-      "FREE_HOLDNUM_RATIO": 3.580405683824,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "001228.SZ",
-      "SECURITY_CODE": "001228",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "谈国樑",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2480000,
-      "FREE_HOLDNUM_RATIO": 3.105255295246,
-      "HOLD_NUM_CHANGE": "-2000",
-      "CHANGE_RATIO": -0.08058018
+      "HOLD_NUM": 2470000,
+      "FREE_HOLDNUM_RATIO": 3.092734104539,
+      "HOLD_NUM_CHANGE": "-10000",
+      "CHANGE_RATIO": -0.40322581
     },
     {
       "SECUCODE": "001228.SZ",
       "SECURITY_CODE": "001228",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "杭州财通尤创创业投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -444,7 +436,20 @@
     {
       "SECUCODE": "001228.SZ",
       "SECURITY_CODE": "001228",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "浙江财通资本投资有限公司-德清锦烨财股权投资基金管理合伙企业(有限合伙)",
+      "HOLDER_TYPE": "私募基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2071077,
+      "FREE_HOLDNUM_RATIO": 2.593235008513,
+      "HOLD_NUM_CHANGE": "-788400",
+      "CHANGE_RATIO": -27.57147548
+    },
+    {
+      "SECUCODE": "001228.SZ",
+      "SECURITY_CODE": "001228",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "彭勋华",
       "HOLDER_TYPE": "个人",
@@ -457,7 +462,7 @@
     {
       "SECUCODE": "001228.SZ",
       "SECURITY_CODE": "001228",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "闰土锦恒(嘉兴)投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -470,35 +475,35 @@
     {
       "SECUCODE": "001228.SZ",
       "SECURITY_CODE": "001228",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "赵伟尧",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1420397,
-      "FREE_HOLDNUM_RATIO": 1.778506171614,
-      "HOLD_NUM_CHANGE": "-238700",
-      "CHANGE_RATIO": -14.38734444
+      "HOLD_NUM": 872600,
+      "FREE_HOLDNUM_RATIO": 1.092599101061,
+      "HOLD_NUM_CHANGE": "-547797",
+      "CHANGE_RATIO": -38.5664712
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "001228.SZ",
       "SECURITY_CODE": "001228",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 37324252,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLD_NUM_COUNT": 35978055,
       "LIMITED_SHARES": 24000000,
-      "OTHER_UNLIMITED_SHARES": 42540357,
-      "HOLD_NUM_RATIO": 35.94,
+      "OTHER_UNLIMITED_SHARES": 43886554,
+      "HOLD_NUM_RATIO": 34.64,
       "LIMITED_SHARES_RATIO": 23.11,
-      "UNLIMITED_SHARES_RATIO": 40.96
+      "UNLIMITED_SHARES_RATIO": 42.25
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "001228.SZ",
       "SECURITY_CODE": "001228",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "陈永夫",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -510,7 +515,7 @@
     {
       "SECUCODE": "001228.SZ",
       "SECURITY_CODE": "001228",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "宁波永泰秦唐投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -522,7 +527,7 @@
     {
       "SECUCODE": "001228.SZ",
       "SECURITY_CODE": "001228",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "王巧玲",
       "SHARES_TYPE": "流通A股",
@@ -534,7 +539,7 @@
     {
       "SECUCODE": "001228.SZ",
       "SECURITY_CODE": "001228",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "青岛久实投资管理有限公司-久实优选1号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
@@ -546,32 +551,20 @@
     {
       "SECUCODE": "001228.SZ",
       "SECURITY_CODE": "001228",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "浙江财通资本投资有限公司-德清锦烨财股权投资基金管理合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2859477,
-      "HOLD_NUM_RATIO": 2.75,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "001228.SZ",
-      "SECURITY_CODE": "001228",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "谈国樑",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2480000,
-      "HOLD_NUM_RATIO": 2.39,
-      "HOLD_NUM_CHANGE": "-2000",
-      "CHANGE_RATIO": -0.08058018
+      "HOLD_NUM": 2470000,
+      "HOLD_NUM_RATIO": 2.38,
+      "HOLD_NUM_CHANGE": "-10000",
+      "CHANGE_RATIO": -0.40322581
     },
     {
       "SECUCODE": "001228.SZ",
       "SECURITY_CODE": "001228",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "杭州财通尤创创业投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2325581,
@@ -582,7 +575,19 @@
     {
       "SECUCODE": "001228.SZ",
       "SECURITY_CODE": "001228",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "浙江财通资本投资有限公司-德清锦烨财股权投资基金管理合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2071077,
+      "HOLD_NUM_RATIO": 1.99,
+      "HOLD_NUM_CHANGE": "-788400",
+      "CHANGE_RATIO": -27.57147548
+    },
+    {
+      "SECUCODE": "001228.SZ",
+      "SECURITY_CODE": "001228",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "彭勋华",
       "SHARES_TYPE": "流通A股",
@@ -594,7 +599,7 @@
     {
       "SECUCODE": "001228.SZ",
       "SECURITY_CODE": "001228",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "闰土锦恒(嘉兴)投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -606,14 +611,14 @@
     {
       "SECUCODE": "001228.SZ",
       "SECURITY_CODE": "001228",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "赵伟尧",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1420397,
-      "HOLD_NUM_RATIO": 1.37,
-      "HOLD_NUM_CHANGE": "-238700",
-      "CHANGE_RATIO": -14.38734444
+      "HOLD_NUM": 872600,
+      "HOLD_NUM_RATIO": 0.84,
+      "HOLD_NUM_CHANGE": "-547797",
+      "CHANGE_RATIO": -38.5664712
     }
   ],
   "jgcc": [

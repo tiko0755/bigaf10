@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 8.18,
       "AVG_HOLD_AMT": 933309.938052125,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 86.10025785,
+      "FREEHOLD_RATIO_TOTAL": 86.10025785
     },
     {
       "SECUCODE": "002608.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002608.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002608.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002608.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002608.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002608.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002608.SZ",
       "END_DATE": "2026-01-14 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002608.SZ",
       "END_DATE": "2017-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002608.SZ",
-      "END_DATE": "2016-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -485,7 +485,7 @@
     {
       "SECUCODE": "002608.SZ",
       "SECURITY_CODE": "002608",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "江苏省国信集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -498,34 +498,21 @@
     {
       "SECUCODE": "002608.SZ",
       "SECURITY_CODE": "002608",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "苏州苏新聚力科技发展有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 278066700,
-      "FREE_HOLDNUM_RATIO": 7.360000894253,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 325066700,
+      "FREE_HOLDNUM_RATIO": 8.604019117327,
+      "HOLD_NUM_CHANGE": "47000000",
+      "CHANGE_RATIO": 16.90241946
     },
     {
       "SECUCODE": "002608.SZ",
       "SECURITY_CODE": "002608",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "南京银行股份有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 66907009,
-      "FREE_HOLDNUM_RATIO": 1.770926349943,
-      "HOLD_NUM_CHANGE": "-38228700",
-      "CHANGE_RATIO": -36.36128996
-    },
-    {
-      "SECUCODE": "002608.SZ",
-      "SECURITY_CODE": "002608",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "江苏舜天船舶股份有限公司破产企业财产处置专用账户",
       "HOLDER_TYPE": "证券账户",
       "SHARES_TYPE": "A股",
@@ -537,21 +524,8 @@
     {
       "SECUCODE": "002608.SZ",
       "SECURITY_CODE": "002608",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "江苏银行股份有限公司",
-      "HOLDER_TYPE": "金融",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 27900026,
-      "FREE_HOLDNUM_RATIO": 0.738471080175,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002608.SZ",
-      "SECURITY_CODE": "002608",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "中国进出口银行江苏省分行",
       "HOLDER_TYPE": "金融",
       "SHARES_TYPE": "A股",
@@ -563,7 +537,33 @@
     {
       "SECUCODE": "002608.SZ",
       "SECURITY_CODE": "002608",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "卢文星",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 20121861,
+      "FREE_HOLDNUM_RATIO": 0.532594931195,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002608.SZ",
+      "SECURITY_CODE": "002608",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "南京银行股份有限公司",
+      "HOLDER_TYPE": "金融",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 19556852,
+      "FREE_HOLDNUM_RATIO": 0.517640005829,
+      "HOLD_NUM_CHANGE": "-47350157",
+      "CHANGE_RATIO": -70.77009974
+    },
+    {
+      "SECUCODE": "002608.SZ",
+      "SECURITY_CODE": "002608",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "中国江苏国际经济技术合作集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -576,61 +576,61 @@
     {
       "SECUCODE": "002608.SZ",
       "SECURITY_CODE": "002608",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11162735,
-      "FREE_HOLDNUM_RATIO": 0.295460548071,
-      "HOLD_NUM_CHANGE": "207200",
-      "CHANGE_RATIO": 1.89128144
+      "HOLD_NUM": 11052971,
+      "FREE_HOLDNUM_RATIO": 0.292555262619,
+      "HOLD_NUM_CHANGE": "3308178",
+      "CHANGE_RATIO": 42.71486662
     },
     {
       "SECUCODE": "002608.SZ",
       "SECURITY_CODE": "002608",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "中国银行股份有限公司江苏省分行",
       "HOLDER_TYPE": "金融",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 9315953,
       "FREE_HOLDNUM_RATIO": 0.246579048879,
-      "HOLD_NUM_CHANGE": "-4660000",
-      "CHANGE_RATIO": -33.34298563
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002608.SZ",
       "SECURITY_CODE": "002608",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
+      "HOLDER_NAME": "王军民",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7744793,
-      "FREE_HOLDNUM_RATIO": 0.204992843105,
-      "HOLD_NUM_CHANGE": "-1189407",
-      "CHANGE_RATIO": -13.31296591
+      "HOLD_NUM": 6375083,
+      "FREE_HOLDNUM_RATIO": 0.168738711183,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "002608.SZ",
       "SECURITY_CODE": "002608",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 3262544163,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 3252936367,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 515535541,
-      "HOLD_NUM_RATIO": 86.35,
+      "OTHER_UNLIMITED_SHARES": 525143337,
+      "HOLD_NUM_RATIO": 86.1,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 13.65
+      "UNLIMITED_SHARES_RATIO": 13.9
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002608.SZ",
       "SECURITY_CODE": "002608",
-      "END_DATE": "2026-01-14 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "江苏省国信集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,14 +642,110 @@
     {
       "SECUCODE": "002608.SZ",
       "SECURITY_CODE": "002608",
-      "END_DATE": "2026-01-14 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "苏州苏新聚力科技发展有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 325066700,
       "HOLD_NUM_RATIO": 8.6,
-      "HOLD_NUM_CHANGE": "47000000",
-      "CHANGE_RATIO": 16.90241946
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002608.SZ",
+      "SECURITY_CODE": "002608",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "江苏舜天船舶股份有限公司破产企业财产处置专用账户",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 37932588,
+      "HOLD_NUM_RATIO": 1,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002608.SZ",
+      "SECURITY_CODE": "002608",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "中国进出口银行江苏省分行",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 21496129,
+      "HOLD_NUM_RATIO": 0.57,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002608.SZ",
+      "SECURITY_CODE": "002608",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "卢文星",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 20121861,
+      "HOLD_NUM_RATIO": 0.53,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002608.SZ",
+      "SECURITY_CODE": "002608",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "南京银行股份有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 19556852,
+      "HOLD_NUM_RATIO": 0.52,
+      "HOLD_NUM_CHANGE": "-47350157",
+      "CHANGE_RATIO": -70.77009974
+    },
+    {
+      "SECUCODE": "002608.SZ",
+      "SECURITY_CODE": "002608",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国江苏国际经济技术合作集团有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 12923359,
+      "HOLD_NUM_RATIO": 0.34,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002608.SZ",
+      "SECURITY_CODE": "002608",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 11052971,
+      "HOLD_NUM_RATIO": 0.29,
+      "HOLD_NUM_CHANGE": "3308178",
+      "CHANGE_RATIO": 42.71486662
+    },
+    {
+      "SECUCODE": "002608.SZ",
+      "SECURITY_CODE": "002608",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国银行股份有限公司江苏省分行",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 9315953,
+      "HOLD_NUM_RATIO": 0.25,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002608.SZ",
+      "SECURITY_CODE": "002608",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "王军民",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6375083,
+      "HOLD_NUM_RATIO": 0.17,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
@@ -658,10 +754,10 @@
       "SECURITY_CODE": "002608",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 1285200,
-      "TOTAL_SHARES_RATIO": 0.03401728,
-      "ALL_SHARES_RATIO": 0.03401728
+      "TOTAL_ORG_NUM": 11,
+      "TOTAL_FREE_SHARES": 3227724623,
+      "TOTAL_SHARES_RATIO": 85.4329415,
+      "ALL_SHARES_RATIO": 85.4329415
     },
     {
       "SECUCODE": "002608.SZ",
@@ -672,6 +768,16 @@
       "TOTAL_FREE_SHARES": 1285200,
       "TOTAL_SHARES_RATIO": 0.03401728,
       "ALL_SHARES_RATIO": 0.03401728
+    },
+    {
+      "SECUCODE": "002608.SZ",
+      "SECURITY_CODE": "002608",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 3226439423,
+      "TOTAL_SHARES_RATIO": 85.39892422,
+      "ALL_SHARES_RATIO": 85.39892422
     }
   ],
   "jjcg": [

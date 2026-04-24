@@ -115,6 +115,20 @@
     {
       "SECUCODE": "002110.SZ",
       "SECURITY_CODE": "002110",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_TOTAL_NUM": 42812,
+      "TOTAL_NUM_RATIO": -3.3916,
+      "AVG_FREE_SHARES": 56738,
+      "AVG_FREESHARES_RATIO": 3.510697935158,
+      "HOLD_FOCUS": "较分散",
+      "PRICE": 4.39,
+      "AVG_HOLD_AMT": 249080.739898393,
+      "HOLD_RATIO_TOTAL": 70.74701086,
+      "FREEHOLD_RATIO_TOTAL": 70.74701086
+    },
+    {
+      "SECUCODE": "002110.SZ",
+      "SECURITY_CODE": "002110",
       "END_DATE": "2025-12-20 00:00:00",
       "HOLDER_TOTAL_NUM": 44315,
       "TOTAL_NUM_RATIO": -2.9223,
@@ -125,23 +139,13 @@
       "AVG_HOLD_AMT": 243921.679118809,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
-    },
-    {
-      "SECUCODE": "002110.SZ",
-      "SECURITY_CODE": "002110",
-      "END_DATE": "2025-12-10 00:00:00",
-      "HOLDER_TOTAL_NUM": 45649,
-      "TOTAL_NUM_RATIO": 12.2811,
-      "AVG_FREE_SHARES": 53212,
-      "AVG_FREESHARES_RATIO": -10.937808057132,
-      "HOLD_FOCUS": "较分散",
-      "PRICE": 4.71,
-      "AVG_HOLD_AMT": 250628.689109729,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
     }
   ],
   "sdltgd_date": [
+    {
+      "SECUCODE": "002110.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
     {
       "SECUCODE": "002110.SZ",
       "END_DATE": "2025-09-30 00:00:00"
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002110.SZ",
       "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002110.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002110.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002110.SZ",
       "END_DATE": "2025-09-30 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002110.SZ",
       "END_DATE": "2016-05-19 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "002110.SZ",
-      "END_DATE": "2016-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "002110.SZ",
       "SECURITY_CODE": "002110",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "福建省三钢(集团)有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "002110.SZ",
       "SECURITY_CODE": "002110",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "厦门国贸集团股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "002110.SZ",
       "SECURITY_CODE": "002110",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "邱为碧",
       "HOLDER_TYPE": "个人",
@@ -512,21 +512,34 @@
     {
       "SECUCODE": "002110.SZ",
       "SECURITY_CODE": "002110",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 48507264,
+      "FREE_HOLDNUM_RATIO": 1.996942848513,
+      "HOLD_NUM_CHANGE": "21567130",
+      "CHANGE_RATIO": 80.05576364
+    },
+    {
+      "SECUCODE": "002110.SZ",
+      "SECURITY_CODE": "002110",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "招商银行股份有限公司-中欧红利优享灵活配置混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 42646050,
       "FREE_HOLDNUM_RATIO": 1.755648897551,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002110.SZ",
       "SECURITY_CODE": "002110",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "福建省高速公路养护工程有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -538,20 +551,7 @@
     {
       "SECUCODE": "002110.SZ",
       "SECURITY_CODE": "002110",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 26940134,
-      "FREE_HOLDNUM_RATIO": 1.109069106212,
-      "HOLD_NUM_CHANGE": "3809121",
-      "CHANGE_RATIO": 16.46759266
-    },
-    {
-      "SECUCODE": "002110.SZ",
-      "SECURITY_CODE": "002110",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "兴证证券资管-福建三钢(集团)三明化工有限责任公司-兴证资管阿尔法科睿93号单一资产管理计划",
       "HOLDER_TYPE": "集合理财计划",
@@ -564,7 +564,7 @@
     {
       "SECUCODE": "002110.SZ",
       "SECURITY_CODE": "002110",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "兴证证券资管-福建省三钢(集团)有限责任公司-兴证资管阿尔法科睿92号单一资产管理计划",
       "HOLDER_TYPE": "集合理财计划",
@@ -577,26 +577,26 @@
     {
       "SECUCODE": "002110.SZ",
       "SECURITY_CODE": "002110",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国工商银行股份有限公司-景顺长城景盛双息收益债券型证券投资基金",
+      "HOLDER_NAME": "招商银行股份有限公司-国泰中证钢铁交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 22530400,
-      "FREE_HOLDNUM_RATIO": 0.927529558339,
+      "HOLD_NUM": 12666090,
+      "FREE_HOLDNUM_RATIO": 0.521436497513,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002110.SZ",
       "SECURITY_CODE": "002110",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国建设银行股份有限公司-景顺长城周期优选混合型证券投资基金",
+      "HOLDER_NAME": "平安银行股份有限公司-中欧价值回报混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 15642600,
-      "FREE_HOLDNUM_RATIO": 0.643973203728,
+      "HOLD_NUM": 11968578,
+      "FREE_HOLDNUM_RATIO": 0.492721383832,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "002110.SZ",
       "SECURITY_CODE": "002110",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 1710470024,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLD_NUM_COUNT": 1718498822,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 718606203,
-      "HOLD_NUM_RATIO": 70.42,
+      "OTHER_UNLIMITED_SHARES": 710577405,
+      "HOLD_NUM_RATIO": 70.75,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 29.58
+      "UNLIMITED_SHARES_RATIO": 29.25
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002110.SZ",
       "SECURITY_CODE": "002110",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "福建省三钢(集团)有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "002110.SZ",
       "SECURITY_CODE": "002110",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "厦门国贸集团股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "002110.SZ",
       "SECURITY_CODE": "002110",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "邱为碧",
       "SHARES_TYPE": "流通A股",
@@ -654,20 +654,32 @@
     {
       "SECUCODE": "002110.SZ",
       "SECURITY_CODE": "002110",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 48507264,
+      "HOLD_NUM_RATIO": 2,
+      "HOLD_NUM_CHANGE": "21567130",
+      "CHANGE_RATIO": 80.05576364
+    },
+    {
+      "SECUCODE": "002110.SZ",
+      "SECURITY_CODE": "002110",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "招商银行股份有限公司-中欧红利优享灵活配置混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 42646050,
       "HOLD_NUM_RATIO": 1.76,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002110.SZ",
       "SECURITY_CODE": "002110",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "福建省高速公路养护工程有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 41937283,
@@ -678,19 +690,7 @@
     {
       "SECUCODE": "002110.SZ",
       "SECURITY_CODE": "002110",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 26940134,
-      "HOLD_NUM_RATIO": 1.11,
-      "HOLD_NUM_CHANGE": "3809121",
-      "CHANGE_RATIO": 16.46759266
-    },
-    {
-      "SECUCODE": "002110.SZ",
-      "SECURITY_CODE": "002110",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "兴证证券资管-福建三钢(集团)三明化工有限责任公司-兴证资管阿尔法科睿93号单一资产管理计划",
       "SHARES_TYPE": "流通A股",
@@ -702,7 +702,7 @@
     {
       "SECUCODE": "002110.SZ",
       "SECURITY_CODE": "002110",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "兴证证券资管-福建省三钢(集团)有限责任公司-兴证资管阿尔法科睿92号单一资产管理计划",
       "SHARES_TYPE": "流通A股",
@@ -714,24 +714,24 @@
     {
       "SECUCODE": "002110.SZ",
       "SECURITY_CODE": "002110",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国工商银行股份有限公司-景顺长城景盛双息收益债券型证券投资基金",
+      "HOLDER_NAME": "招商银行股份有限公司-国泰中证钢铁交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 22530400,
-      "HOLD_NUM_RATIO": 0.93,
+      "HOLD_NUM": 12666090,
+      "HOLD_NUM_RATIO": 0.52,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002110.SZ",
       "SECURITY_CODE": "002110",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国建设银行股份有限公司-景顺长城周期优选混合型证券投资基金",
+      "HOLDER_NAME": "平安银行股份有限公司-中欧价值回报混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 15642600,
-      "HOLD_NUM_RATIO": 0.64,
+      "HOLD_NUM": 11968578,
+      "HOLD_NUM_RATIO": 0.49,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }

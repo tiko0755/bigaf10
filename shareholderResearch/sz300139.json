@@ -25,8 +25,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 59.41,
       "AVG_HOLD_AMT": 137299.782970674,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 31.84150985,
+      "FREEHOLD_RATIO_TOTAL": 20.41192125
     },
     {
       "SECUCODE": "300139.SZ",
@@ -137,11 +137,19 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 30.36,
       "AVG_HOLD_AMT": 151926.285974343,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 27.77225657,
+      "FREEHOLD_RATIO_TOTAL": 15.64011992
     }
   ],
   "sdltgd_date": [
+    {
+      "SECUCODE": "300139.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300139.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
     {
       "SECUCODE": "300139.SZ",
       "END_DATE": "2025-09-30 00:00:00"
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "300139.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300139.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300139.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300139.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300139.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300139.SZ",
       "END_DATE": "2025-09-30 00:00:00",
@@ -403,16 +413,6 @@
       "SECUCODE": "300139.SZ",
       "END_DATE": "2020-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "300139.SZ",
-      "END_DATE": "2020-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "300139.SZ",
-      "END_DATE": "2020-03-11 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -473,8 +473,21 @@
     {
       "SECUCODE": "300139.SZ",
       "SECURITY_CODE": "300139",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 13593480,
+      "FREE_HOLDNUM_RATIO": 5.817651753317,
+      "HOLD_NUM_CHANGE": "8032530",
+      "CHANGE_RATIO": 144.44528363
+    },
+    {
+      "SECUCODE": "300139.SZ",
+      "SECURITY_CODE": "300139",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
       "HOLDER_NAME": "程毅",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -486,139 +499,126 @@
     {
       "SECUCODE": "300139.SZ",
       "SECURITY_CODE": "300139",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "中国农业银行股份有限公司-永赢中证沪深港黄金产业股票交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4499300,
-      "FREE_HOLDNUM_RATIO": 1.925582009441,
-      "HOLD_NUM_CHANGE": "2026800",
-      "CHANGE_RATIO": 81.97371082
-    },
-    {
-      "SECUCODE": "300139.SZ",
-      "SECURITY_CODE": "300139",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "高盛国际-自有资金",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4276515,
-      "FREE_HOLDNUM_RATIO": 1.830235891607,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300139.SZ",
-      "SECURITY_CODE": "300139",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "中信证券股份有限公司-前海开源金银珠宝主题精选灵活配置混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4097800,
-      "FREE_HOLDNUM_RATIO": 1.753750574153,
+      "HOLD_NUM": 6217069,
+      "FREE_HOLDNUM_RATIO": 2.660741941603,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300139.SZ",
       "SECURITY_CODE": "300139",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "中国农业银行股份有限公司-永赢中证沪深港黄金产业股票交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4299175,
+      "FREE_HOLDNUM_RATIO": 1.839933775352,
+      "HOLD_NUM_CHANGE": "-317125",
+      "CHANGE_RATIO": -6.86967918
+    },
+    {
+      "SECUCODE": "300139.SZ",
+      "SECURITY_CODE": "300139",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "UBS AG",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2543666,
-      "FREE_HOLDNUM_RATIO": 1.088622116246,
-      "HOLD_NUM_CHANGE": "963344",
-      "CHANGE_RATIO": 60.95871601
-    },
-    {
-      "SECUCODE": "300139.SZ",
-      "SECURITY_CODE": "300139",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1503805,
-      "FREE_HOLDNUM_RATIO": 0.643588970219,
-      "HOLD_NUM_CHANGE": "148788",
-      "CHANGE_RATIO": 10.98052644
-    },
-    {
-      "SECUCODE": "300139.SZ",
-      "SECURITY_CODE": "300139",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1295452,
-      "FREE_HOLDNUM_RATIO": 0.554419368634,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300139.SZ",
-      "SECURITY_CODE": "300139",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "肖皖华",
+      "HOLDER_NAME": "刘鑫",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1100000,
-      "FREE_HOLDNUM_RATIO": 0.470771055583,
+      "HOLD_NUM": 3666600,
+      "FREE_HOLDNUM_RATIO": 1.569208320365,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300139.SZ",
       "SECURITY_CODE": "300139",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "中国工商银行股份有限公司-华夏中证沪深港黄金产业股票交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 906700,
-      "FREE_HOLDNUM_RATIO": 0.388043741907,
+      "HOLD_NUM": 2087000,
+      "FREE_HOLDNUM_RATIO": 0.893181084547,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300139.SZ",
       "SECURITY_CODE": "300139",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国工商银行股份有限公司-华富永鑫灵活配置混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1430300,
+      "FREE_HOLDNUM_RATIO": 0.612130764364,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300139.SZ",
+      "SECURITY_CODE": "300139",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "弘康人寿保险股份有限公司-传统户",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1156936,
+      "FREE_HOLDNUM_RATIO": 0.49513816542,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300139.SZ",
+      "SECURITY_CODE": "300139",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "付金朋",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1061191,
+      "FREE_HOLDNUM_RATIO": 0.454161824769,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300139.SZ",
+      "SECURITY_CODE": "300139",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "BARCLAYS BANK PLC",
+      "HOLDER_NAME": "阿布达比投资局-自有资金",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 881985,
-      "FREE_HOLDNUM_RATIO": 0.377466372235,
-      "HOLD_NUM_CHANGE": "-185215",
-      "CHANGE_RATIO": -17.35522864
+      "HOLD_NUM": 998786,
+      "FREE_HOLDNUM_RATIO": 0.427454126838,
+      "HOLD_NUM_CHANGE": "-733021",
+      "CHANGE_RATIO": -42.32694521
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "300139.SZ",
       "SECURITY_CODE": "300139",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 34289023,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 47694337,
       "LIMITED_SHARES": 40340775,
-      "OTHER_UNLIMITED_SHARES": 199370202,
-      "HOLD_NUM_RATIO": 12.51,
+      "OTHER_UNLIMITED_SHARES": 185964888,
+      "HOLD_NUM_RATIO": 17.41,
       "LIMITED_SHARES_RATIO": 14.72,
-      "UNLIMITED_SHARES_RATIO": 72.76
+      "UNLIMITED_SHARES_RATIO": 67.87
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300139.SZ",
       "SECURITY_CODE": "300139",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "程毅",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -630,110 +630,110 @@
     {
       "SECUCODE": "300139.SZ",
       "SECURITY_CODE": "300139",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "中国农业银行股份有限公司-永赢中证沪深港黄金产业股票交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4499300,
-      "HOLD_NUM_RATIO": 1.64,
-      "HOLD_NUM_CHANGE": "2026800",
-      "CHANGE_RATIO": 81.97371082
+      "HOLD_NUM": 13593480,
+      "HOLD_NUM_RATIO": 4.96,
+      "HOLD_NUM_CHANGE": "8032530",
+      "CHANGE_RATIO": 144.44528363
     },
     {
       "SECUCODE": "300139.SZ",
       "SECURITY_CODE": "300139",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "高盛国际-自有资金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4276515,
-      "HOLD_NUM_RATIO": 1.56,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300139.SZ",
-      "SECURITY_CODE": "300139",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "中信证券股份有限公司-前海开源金银珠宝主题精选灵活配置混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4097800,
-      "HOLD_NUM_RATIO": 1.5,
+      "HOLD_NUM": 6217069,
+      "HOLD_NUM_RATIO": 2.27,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300139.SZ",
       "SECURITY_CODE": "300139",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "中国农业银行股份有限公司-永赢中证沪深港黄金产业股票交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4299175,
+      "HOLD_NUM_RATIO": 1.57,
+      "HOLD_NUM_CHANGE": "-317125",
+      "CHANGE_RATIO": -6.86967918
+    },
+    {
+      "SECUCODE": "300139.SZ",
+      "SECURITY_CODE": "300139",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "UBS AG",
+      "HOLDER_NAME": "刘鑫",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2543666,
-      "HOLD_NUM_RATIO": 0.93,
-      "HOLD_NUM_CHANGE": "963344",
-      "CHANGE_RATIO": 60.95871601
+      "HOLD_NUM": 3666600,
+      "HOLD_NUM_RATIO": 1.34,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300139.SZ",
       "SECURITY_CODE": "300139",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1503805,
-      "HOLD_NUM_RATIO": 0.55,
-      "HOLD_NUM_CHANGE": "148788",
-      "CHANGE_RATIO": 10.98052644
-    },
-    {
-      "SECUCODE": "300139.SZ",
-      "SECURITY_CODE": "300139",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1295452,
-      "HOLD_NUM_RATIO": 0.47,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300139.SZ",
-      "SECURITY_CODE": "300139",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "肖皖华",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1100000,
-      "HOLD_NUM_RATIO": 0.4,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300139.SZ",
-      "SECURITY_CODE": "300139",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "中国工商银行股份有限公司-华夏中证沪深港黄金产业股票交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 906700,
-      "HOLD_NUM_RATIO": 0.33,
+      "HOLD_NUM": 2087000,
+      "HOLD_NUM_RATIO": 0.76,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300139.SZ",
       "SECURITY_CODE": "300139",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "BARCLAYS BANK PLC",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国工商银行股份有限公司-华富永鑫灵活配置混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 881985,
-      "HOLD_NUM_RATIO": 0.32,
-      "HOLD_NUM_CHANGE": "-185215",
-      "CHANGE_RATIO": -17.35522864
+      "HOLD_NUM": 1430300,
+      "HOLD_NUM_RATIO": 0.52,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300139.SZ",
+      "SECURITY_CODE": "300139",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "弘康人寿保险股份有限公司-传统户",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1156936,
+      "HOLD_NUM_RATIO": 0.42,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300139.SZ",
+      "SECURITY_CODE": "300139",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "付金朋",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1061191,
+      "HOLD_NUM_RATIO": 0.39,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300139.SZ",
+      "SECURITY_CODE": "300139",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "阿布达比投资局-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 998786,
+      "HOLD_NUM_RATIO": 0.36,
+      "HOLD_NUM_CHANGE": "-733021",
+      "CHANGE_RATIO": -42.32694521
     }
   ],
   "jgcc": [
@@ -742,23 +742,111 @@
       "SECURITY_CODE": "300139",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 7,
-      "TOTAL_FREE_SHARES": 1523500,
-      "TOTAL_SHARES_RATIO": 0.65201792,
-      "ALL_SHARES_RATIO": 0.55602189
+      "TOTAL_ORG_NUM": 13,
+      "TOTAL_FREE_SHARES": 30149310,
+      "TOTAL_SHARES_RATIO": 12.90311136,
+      "ALL_SHARES_RATIO": 11.0033978
     },
     {
       "SECUCODE": "300139.SZ",
       "SECURITY_CODE": "300139",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 7,
-      "TOTAL_FREE_SHARES": 1523500,
-      "TOTAL_SHARES_RATIO": 0.65201792,
-      "ALL_SHARES_RATIO": 0.55602189
+      "TOTAL_ORG_NUM": 11,
+      "TOTAL_FREE_SHARES": 15557044,
+      "TOTAL_SHARES_RATIO": 6.65800548,
+      "ALL_SHARES_RATIO": 5.67775327
+    },
+    {
+      "SECUCODE": "300139.SZ",
+      "SECURITY_CODE": "300139",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 998786,
+      "TOTAL_SHARES_RATIO": 0.42745413,
+      "ALL_SHARES_RATIO": 0.36452044
+    },
+    {
+      "SECUCODE": "300139.SZ",
+      "SECURITY_CODE": "300139",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 13593480,
+      "TOTAL_SHARES_RATIO": 5.81765175,
+      "ALL_SHARES_RATIO": 4.96112409
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300139.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "001302",
+      "HOLDER_NAME": "前海开源金银珠宝混合A",
+      "TOTAL_SHARES": 6217069,
+      "HOLD_VALUE": 369356069.29,
+      "TOTALSHARES_RATIO": 2.26900328,
+      "FREESHARES_RATIO": 2.66074194,
+      "FREE_MARKET_CAP": 369356069.29,
+      "FREE_SHARES": 6217069,
+      "SECURITY_CODE": "300139",
+      "FUND_CODE": "001302",
+      "FUND_DERIVECODE": "001302.OF",
+      "NETVALUE_RATIO": 16.65
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300139.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "517520",
+      "HOLDER_NAME": "永赢中证沪深港黄金产业股票ETF",
+      "TOTAL_SHARES": 4299175,
+      "HOLD_VALUE": 255413986.75,
+      "TOTALSHARES_RATIO": 1.56904197,
+      "FREESHARES_RATIO": 1.83993378,
+      "FREE_MARKET_CAP": 255413986.75,
+      "FREE_SHARES": 4299175,
+      "SECURITY_CODE": "300139",
+      "FUND_CODE": "517520",
+      "FUND_DERIVECODE": "517520.SH",
+      "NETVALUE_RATIO": 1.99
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300139.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "159562",
+      "HOLDER_NAME": "华夏中证沪深港黄金产业股票ETF",
+      "TOTAL_SHARES": 2087000,
+      "HOLD_VALUE": 123988670,
+      "TOTALSHARES_RATIO": 0.76167883,
+      "FREESHARES_RATIO": 0.89318108,
+      "FREE_MARKET_CAP": 123988670,
+      "FREE_SHARES": 2087000,
+      "SECURITY_CODE": "300139",
+      "FUND_CODE": "159562",
+      "FUND_DERIVECODE": "159562.SZ",
+      "NETVALUE_RATIO": 1.97
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300139.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "001466",
+      "HOLDER_NAME": "华富永鑫灵活配置混合A",
+      "TOTAL_SHARES": 1430300,
+      "HOLD_VALUE": 84974123,
+      "TOTALSHARES_RATIO": 0.5220073,
+      "FREESHARES_RATIO": 0.61213076,
+      "FREE_MARKET_CAP": 84974123,
+      "FREE_SHARES": 1430300,
+      "SECURITY_CODE": "300139",
+      "FUND_CODE": "001466",
+      "FUND_DERIVECODE": "001466.OF",
+      "NETVALUE_RATIO": 35.76
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "300139.SZ",

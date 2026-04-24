@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 10.47,
       "AVG_HOLD_AMT": 317808.914678419,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 79.55855129,
+      "FREEHOLD_RATIO_TOTAL": 79.55855129
     },
     {
       "SECUCODE": "605018.SH",
@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "605018.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "605018.SH",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "605018.SH",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "605018.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "605018.SH",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "605018.SH",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "605018.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "605018.SH",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "605018.SH",
       "END_DATE": "2025-09-30 00:00:00",
@@ -330,10 +340,14 @@
       "SECUCODE": "605018.SH",
       "SECURITY_CODE": "605018",
       "HOLDER_NAME": "王长土,王庆",
-      "HOLD_RATIO": 68.76
+      "HOLD_RATIO": 68.93
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "605018.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "605018.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -349,36 +363,9 @@
     {
       "SECUCODE": "605018.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "605018.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-09-08 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "宁波长宏股权投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 30711000,
-      "HOLD_NUM_RATIO": 6.52,
-      "HOLD_CHANGE": "-2789000",
-      "CHANGE_RATIO": -8.32537313,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-07-09 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "宁波长宏股权投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 33500000,
-      "HOLD_NUM_RATIO": 7.11,
-      "HOLD_CHANGE": "-2500000",
-      "CHANGE_RATIO": -6.94444444,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "605018.SH",
@@ -406,7 +393,7 @@
     {
       "SECUCODE": "605018.SH",
       "SECURITY_CODE": "605018",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "王长土",
       "HOLDER_TYPE": "个人",
@@ -419,7 +406,7 @@
     {
       "SECUCODE": "605018.SH",
       "SECURITY_CODE": "605018",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "王庆",
       "HOLDER_TYPE": "个人",
@@ -432,33 +419,33 @@
     {
       "SECUCODE": "605018.SH",
       "SECURITY_CODE": "605018",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "宁波长宏股权投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 30711000,
       "FREE_HOLDNUM_RATIO": 6.533340748749,
-      "HOLD_NUM_CHANGE": "-5289000",
-      "CHANGE_RATIO": -14.69166667
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605018.SH",
       "SECURITY_CODE": "605018",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "宁波久尔投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 12143800,
       "FREE_HOLDNUM_RATIO": 2.583425592936,
-      "HOLD_NUM_CHANGE": "-2856200",
-      "CHANGE_RATIO": -19.04133333
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605018.SH",
       "SECURITY_CODE": "605018",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "杭州瀚昭企业管理咨询合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
@@ -471,135 +458,135 @@
     {
       "SECUCODE": "605018.SH",
       "SECURITY_CODE": "605018",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1237800,
-      "FREE_HOLDNUM_RATIO": 0.263324840572,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "605018.SH",
-      "SECURITY_CODE": "605018",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1004849,
-      "FREE_HOLDNUM_RATIO": 0.213767735275,
+      "HOLD_NUM": 1664786,
+      "FREE_HOLDNUM_RATIO": 0.354160210079,
+      "HOLD_NUM_CHANGE": "-1212713",
+      "CHANGE_RATIO": -42.14468884
+    },
+    {
+      "SECUCODE": "605018.SH",
+      "SECURITY_CODE": "605018",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "张君伦",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1000000,
+      "FREE_HOLDNUM_RATIO": 0.21273617755,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605018.SH",
       "SECURITY_CODE": "605018",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "杨永林",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 948200,
-      "FREE_HOLDNUM_RATIO": 0.201716443553,
-      "HOLD_NUM_CHANGE": "112600",
-      "CHANGE_RATIO": 13.47534706
+      "HOLD_NUM": 993900,
+      "FREE_HOLDNUM_RATIO": 0.211438486867,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605018.SH",
       "SECURITY_CODE": "605018",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
+      "HOLDER_NAME": "顾健",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 803300,
+      "FREE_HOLDNUM_RATIO": 0.170890971426,
+      "HOLD_NUM_CHANGE": "-35000",
+      "CHANGE_RATIO": -4.17511631
+    },
+    {
+      "SECUCODE": "605018.SH",
+      "SECURITY_CODE": "605018",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "吴赞华",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 773100,
-      "FREE_HOLDNUM_RATIO": 0.164466338864,
-      "HOLD_NUM_CHANGE": "26000",
-      "CHANGE_RATIO": 3.48012314
-    },
-    {
-      "SECUCODE": "605018.SH",
-      "SECURITY_CODE": "605018",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "诺德基金-福州翰高投资合伙企业(有限合伙)-诺德基金浦江373号单一资产管理计划",
-      "HOLDER_TYPE": "基金资产管理计划",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 763972,
-      "FREE_HOLDNUM_RATIO": 0.162524483036,
-      "HOLD_NUM_CHANGE": "-2900",
-      "CHANGE_RATIO": -0.37815959
+      "HOLD_NUM": 774100,
+      "FREE_HOLDNUM_RATIO": 0.164679075042,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "605018.SH",
       "SECURITY_CODE": "605018",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 373469370,
-      "LIMITED_SHARES": 1160000,
-      "OTHER_UNLIMITED_SHARES": 96596423,
-      "HOLD_NUM_RATIO": 79.25,
-      "LIMITED_SHARES_RATIO": 0.25,
-      "UNLIMITED_SHARES_RATIO": 20.5
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 373977535,
+      "LIMITED_SHARES": null,
+      "OTHER_UNLIMITED_SHARES": 96088258,
+      "HOLD_NUM_RATIO": 79.56,
+      "LIMITED_SHARES_RATIO": null,
+      "UNLIMITED_SHARES_RATIO": 20.44
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "605018.SH",
       "SECURITY_CODE": "605018",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "王长土",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 226800000,
-      "HOLD_NUM_RATIO": 48.13,
+      "HOLD_NUM_RATIO": 48.25,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605018.SH",
       "SECURITY_CODE": "605018",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "王庆",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 97200000,
-      "HOLD_NUM_RATIO": 20.63,
+      "HOLD_NUM_RATIO": 20.68,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605018.SH",
       "SECURITY_CODE": "605018",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "宁波长宏股权投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 30711000,
-      "HOLD_NUM_RATIO": 6.52,
+      "HOLD_NUM_RATIO": 6.53,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605018.SH",
       "SECURITY_CODE": "605018",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "宁波久尔投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 12143800,
       "HOLD_NUM_RATIO": 2.58,
-      "HOLD_NUM_CHANGE": "-2856200",
-      "CHANGE_RATIO": -19.04133333
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605018.SH",
       "SECURITY_CODE": "605018",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "杭州瀚昭企业管理咨询合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -611,23 +598,23 @@
     {
       "SECUCODE": "605018.SH",
       "SECURITY_CODE": "605018",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1237800,
-      "HOLD_NUM_RATIO": 0.26,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1664786,
+      "HOLD_NUM_RATIO": 0.35,
+      "HOLD_NUM_CHANGE": "-1212713",
+      "CHANGE_RATIO": -42.14468884
     },
     {
       "SECUCODE": "605018.SH",
       "SECURITY_CODE": "605018",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_NAME": "张君伦",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1004849,
+      "HOLD_NUM": 1000000,
       "HOLD_NUM_RATIO": 0.21,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
@@ -635,60 +622,60 @@
     {
       "SECUCODE": "605018.SH",
       "SECURITY_CODE": "605018",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "杨永林",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 948200,
-      "HOLD_NUM_RATIO": 0.2,
-      "HOLD_NUM_CHANGE": "112600",
-      "CHANGE_RATIO": 13.47534706
+      "HOLD_NUM": 993900,
+      "HOLD_NUM_RATIO": 0.21,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605018.SH",
       "SECURITY_CODE": "605018",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
+      "HOLDER_NAME": "顾健",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 803300,
+      "HOLD_NUM_RATIO": 0.17,
+      "HOLD_NUM_CHANGE": "-35000",
+      "CHANGE_RATIO": -4.17511631
+    },
+    {
+      "SECUCODE": "605018.SH",
+      "SECURITY_CODE": "605018",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "吴赞华",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 773100,
+      "HOLD_NUM": 774100,
       "HOLD_NUM_RATIO": 0.16,
-      "HOLD_NUM_CHANGE": "26000",
-      "CHANGE_RATIO": 3.48012314
-    },
-    {
-      "SECUCODE": "605018.SH",
-      "SECURITY_CODE": "605018",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "诺德基金-福州翰高投资合伙企业(有限合伙)-诺德基金浦江373号单一资产管理计划",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 763972,
-      "HOLD_NUM_RATIO": 0.16,
-      "HOLD_NUM_CHANGE": "-2900",
-      "CHANGE_RATIO": -0.37815959
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "605018.SH",
       "SECURITY_CODE": "605018",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 33,
-      "TOTAL_FREE_SHARES": 1033600,
-      "TOTAL_SHARES_RATIO": 0.21988412,
-      "ALL_SHARES_RATIO": 0.21988412
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 46406235,
+      "TOTAL_SHARES_RATIO": 9.87228505,
+      "ALL_SHARES_RATIO": 9.87228505
     },
     {
       "SECUCODE": "605018.SH",
       "SECURITY_CODE": "605018",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 33,
-      "TOTAL_FREE_SHARES": 1033600,
-      "TOTAL_SHARES_RATIO": 0.21988412,
-      "ALL_SHARES_RATIO": 0.21988412
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 46406235,
+      "TOTAL_SHARES_RATIO": 9.87228505,
+      "ALL_SHARES_RATIO": 9.87228505
     }
   ],
   "jjcg": [

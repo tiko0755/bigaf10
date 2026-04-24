@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 6.67,
       "AVG_HOLD_AMT": 206985.46827531,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 42.54577828,
+      "FREEHOLD_RATIO_TOTAL": 42.54577828
     },
     {
       "SECUCODE": "600256.SH",
@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 4.92,
       "AVG_HOLD_AMT": 140975.414910772,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 42.40092699,
+      "FREEHOLD_RATIO_TOTAL": 42.40092699
     },
     {
       "SECUCODE": "600256.SH",
@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600256.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600256.SH",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600256.SH",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "600256.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600256.SH",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600256.SH",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600256.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "600256.SH",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600256.SH",
       "END_DATE": "2025-09-30 00:00:00",
@@ -403,16 +413,6 @@
       "SECUCODE": "600256.SH",
       "END_DATE": "2016-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600256.SH",
-      "END_DATE": "2015-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600256.SH",
-      "END_DATE": "2015-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600256.SH",
       "SECURITY_CODE": "600256",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "新疆广汇实业投资(集团)有限责任公司",
       "HOLDER_TYPE": "投资公司",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600256.SH",
       "SECURITY_CODE": "600256",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "富德生命人寿保险股份有限公司-分红A",
       "HOLDER_TYPE": "保险产品",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "600256.SH",
       "SECURITY_CODE": "600256",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "深圳市富德产业投资控股有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -512,33 +512,33 @@
     {
       "SECUCODE": "600256.SH",
       "SECURITY_CODE": "600256",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "招商银行股份有限公司-上证红利交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 98693488,
+      "FREE_HOLDNUM_RATIO": 1.544015053745,
+      "HOLD_NUM_CHANGE": "-19273472",
+      "CHANGE_RATIO": -16.33802549
+    },
+    {
+      "SECUCODE": "600256.SH",
+      "SECURITY_CODE": "600256",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 94737766,
-      "FREE_HOLDNUM_RATIO": 1.4821295693,
-      "HOLD_NUM_CHANGE": "1947217",
-      "CHANGE_RATIO": 2.0985079
+      "HOLD_NUM": 90912718,
+      "FREE_HOLDNUM_RATIO": 1.422288420578,
+      "HOLD_NUM_CHANGE": "8117778",
+      "CHANGE_RATIO": 9.80467888
     },
     {
       "SECUCODE": "600256.SH",
       "SECURITY_CODE": "600256",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "全国社保基金一一零组合",
-      "HOLDER_TYPE": "全国社保基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 68947901,
-      "FREE_HOLDNUM_RATIO": 1.078658777042,
-      "HOLD_NUM_CHANGE": "-45652240",
-      "CHANGE_RATIO": -39.83611155
-    },
-    {
-      "SECUCODE": "600256.SH",
-      "SECURITY_CODE": "600256",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "新疆投资发展(集团)有限责任公司",
       "HOLDER_TYPE": "投资公司",
@@ -551,74 +551,74 @@
     {
       "SECUCODE": "600256.SH",
       "SECURITY_CODE": "600256",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "招商银行股份有限公司-上证红利交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "全国社保基金一一零组合",
+      "HOLDER_TYPE": "全国社保基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 54067801,
+      "FREE_HOLDNUM_RATIO": 0.845866331798,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600256.SH",
+      "SECURITY_CODE": "600256",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国银行股份有限公司-大成产业趋势混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 64122708,
-      "FREE_HOLDNUM_RATIO": 1.003170811421,
-      "HOLD_NUM_CHANGE": "3586870",
-      "CHANGE_RATIO": 5.92520087
+      "HOLD_NUM": 48839900,
+      "FREE_HOLDNUM_RATIO": 0.764078181363,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600256.SH",
       "SECURITY_CODE": "600256",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "华泰优逸五号混合型养老金产品-中国银行股份有限公司",
-      "HOLDER_TYPE": "其他理财产品",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 60655900,
-      "FREE_HOLDNUM_RATIO": 0.948934165732,
-      "HOLD_NUM_CHANGE": "2447800",
-      "CHANGE_RATIO": 4.20525666
-    },
-    {
-      "SECUCODE": "600256.SH",
-      "SECURITY_CODE": "600256",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国银行股份有限公司-易方达中证红利交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 41801044,
+      "FREE_HOLDNUM_RATIO": 0.653958457708,
+      "HOLD_NUM_CHANGE": "609328",
+      "CHANGE_RATIO": 1.47924889
+    },
+    {
+      "SECUCODE": "600256.SH",
+      "SECURITY_CODE": "600256",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "国信证券股份有限公司",
       "HOLDER_TYPE": "证券公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 37600000,
-      "FREE_HOLDNUM_RATIO": 0.58823502135,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600256.SH",
-      "SECURITY_CODE": "600256",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "东兴证券股份有限公司",
-      "HOLDER_TYPE": "证券公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 30515920,
-      "FREE_HOLDNUM_RATIO": 0.477407788636,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 39081585,
+      "FREE_HOLDNUM_RATIO": 0.611413749651,
+      "HOLD_NUM_CHANGE": "1481285",
+      "CHANGE_RATIO": 3.93955633
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600256.SH",
       "SECURITY_CODE": "600256",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 2702711068,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 2719527409,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 3689291896,
-      "HOLD_NUM_RATIO": 42.28,
+      "OTHER_UNLIMITED_SHARES": 3672475555,
+      "HOLD_NUM_RATIO": 42.55,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 57.72
+      "UNLIMITED_SHARES_RATIO": 57.45
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600256.SH",
       "SECURITY_CODE": "600256",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "新疆广汇实业投资(集团)有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600256.SH",
       "SECURITY_CODE": "600256",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "富德生命人寿保险股份有限公司-分红A",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "600256.SH",
       "SECURITY_CODE": "600256",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "深圳市富德产业投资控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,31 +654,31 @@
     {
       "SECUCODE": "600256.SH",
       "SECURITY_CODE": "600256",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "招商银行股份有限公司-上证红利交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 98693488,
+      "HOLD_NUM_RATIO": 1.54,
+      "HOLD_NUM_CHANGE": "-19273472",
+      "CHANGE_RATIO": -16.33802549
+    },
+    {
+      "SECUCODE": "600256.SH",
+      "SECURITY_CODE": "600256",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 94737766,
-      "HOLD_NUM_RATIO": 1.48,
-      "HOLD_NUM_CHANGE": "1947217",
-      "CHANGE_RATIO": 2.0985079
+      "HOLD_NUM": 90912718,
+      "HOLD_NUM_RATIO": 1.42,
+      "HOLD_NUM_CHANGE": "8117778",
+      "CHANGE_RATIO": 9.80467888
     },
     {
       "SECUCODE": "600256.SH",
       "SECURITY_CODE": "600256",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "全国社保基金一一零组合",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 68947901,
-      "HOLD_NUM_RATIO": 1.08,
-      "HOLD_NUM_CHANGE": "-45652240",
-      "CHANGE_RATIO": -39.83611155
-    },
-    {
-      "SECUCODE": "600256.SH",
-      "SECURITY_CODE": "600256",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "新疆投资发展(集团)有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -690,50 +690,50 @@
     {
       "SECUCODE": "600256.SH",
       "SECURITY_CODE": "600256",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "招商银行股份有限公司-上证红利交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "全国社保基金一一零组合",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 64122708,
-      "HOLD_NUM_RATIO": 1,
-      "HOLD_NUM_CHANGE": "3586870",
-      "CHANGE_RATIO": 5.92520087
+      "HOLD_NUM": 54067801,
+      "HOLD_NUM_RATIO": 0.85,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600256.SH",
       "SECURITY_CODE": "600256",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "华泰优逸五号混合型养老金产品-中国银行股份有限公司",
+      "HOLDER_NAME": "中国银行股份有限公司-大成产业趋势混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 60655900,
-      "HOLD_NUM_RATIO": 0.95,
-      "HOLD_NUM_CHANGE": "2447800",
-      "CHANGE_RATIO": 4.20525666
+      "HOLD_NUM": 48839900,
+      "HOLD_NUM_RATIO": 0.76,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600256.SH",
       "SECURITY_CODE": "600256",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国银行股份有限公司-易方达中证红利交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 41801044,
+      "HOLD_NUM_RATIO": 0.65,
+      "HOLD_NUM_CHANGE": "609328",
+      "CHANGE_RATIO": 1.47924889
+    },
+    {
+      "SECUCODE": "600256.SH",
+      "SECURITY_CODE": "600256",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "国信证券股份有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 37600000,
-      "HOLD_NUM_RATIO": 0.59,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600256.SH",
-      "SECURITY_CODE": "600256",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "东兴证券股份有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 30515920,
-      "HOLD_NUM_RATIO": 0.48,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 39081585,
+      "HOLD_NUM_RATIO": 0.61,
+      "HOLD_NUM_CHANGE": "1481285",
+      "CHANGE_RATIO": 3.93955633
     }
   ],
   "jgcc": [
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "600256",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 83,
-      "TOTAL_FREE_SHARES": 543221904,
-      "TOTAL_SHARES_RATIO": 8.4984614,
-      "ALL_SHARES_RATIO": 8.4984614
+      "TOTAL_ORG_NUM": 90,
+      "TOTAL_FREE_SHARES": 3073414881,
+      "TOTAL_SHARES_RATIO": 48.082188,
+      "ALL_SHARES_RATIO": 48.082188
     },
     {
       "SECUCODE": "600256.SH",
@@ -756,6 +756,46 @@
       "TOTAL_FREE_SHARES": 543221904,
       "TOTAL_SHARES_RATIO": 8.4984614,
       "ALL_SHARES_RATIO": 8.4984614
+    },
+    {
+      "SECUCODE": "600256.SH",
+      "SECURITY_CODE": "600256",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 54067801,
+      "TOTAL_SHARES_RATIO": 0.84586633,
+      "ALL_SHARES_RATIO": 0.84586633
+    },
+    {
+      "SECUCODE": "600256.SH",
+      "SECURITY_CODE": "600256",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "04",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 39081585,
+      "TOTAL_SHARES_RATIO": 0.61141375,
+      "ALL_SHARES_RATIO": 0.61141375
+    },
+    {
+      "SECUCODE": "600256.SH",
+      "SECURITY_CODE": "600256",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "05",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 638561096,
+      "TOTAL_SHARES_RATIO": 9.99,
+      "ALL_SHARES_RATIO": 9.99
+    },
+    {
+      "SECUCODE": "600256.SH",
+      "SECURITY_CODE": "600256",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 1798482495,
+      "TOTAL_SHARES_RATIO": 28.13644652,
+      "ALL_SHARES_RATIO": 28.13644652
     }
   ],
   "jjcg": [

@@ -25,8 +25,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 23.99,
       "AVG_HOLD_AMT": 196055.721541225,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 59.04916356,
+      "FREEHOLD_RATIO_TOTAL": 57.7186842
     },
     {
       "SECUCODE": "002819.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002819.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002819.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002819.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002819.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002819.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002819.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002819.SZ",
       "END_DATE": "2018-05-21 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "002819.SZ",
-      "END_DATE": "2018-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "002819.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "002819.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "002819.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002819.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "002819.SZ",
       "SECURITY_CODE": "002819",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "东方科仪控股集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "002819.SZ",
       "SECURITY_CODE": "002819",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "大连金融产业投资集团有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "002819.SZ",
       "SECURITY_CODE": "002819",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "万里锦程创业投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "002819.SZ",
       "SECURITY_CODE": "002819",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "珠海格力创业投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -525,7 +525,7 @@
     {
       "SECUCODE": "002819.SZ",
       "SECURITY_CODE": "002819",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "青岛精确力升资产管理有限公司-青岛精确智芯股权投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "私募基金",
@@ -538,7 +538,7 @@
     {
       "SECUCODE": "002819.SZ",
       "SECURITY_CODE": "002819",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "国科嘉和(北京)投资管理有限公司-苏州国丰鼎嘉创业投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "私募基金",
@@ -551,7 +551,7 @@
     {
       "SECUCODE": "002819.SZ",
       "SECURITY_CODE": "002819",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "珠海大横琴创新发展有限公司",
       "HOLDER_TYPE": "其它",
@@ -564,40 +564,40 @@
     {
       "SECUCODE": "002819.SZ",
       "SECURITY_CODE": "002819",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1817920,
-      "FREE_HOLDNUM_RATIO": 0.768355006251,
-      "HOLD_NUM_CHANGE": "622492",
-      "CHANGE_RATIO": 52.07273044
+      "HOLD_NUM": 2188589,
+      "FREE_HOLDNUM_RATIO": 0.925020526083,
+      "HOLD_NUM_CHANGE": "370669",
+      "CHANGE_RATIO": 20.38973112
     },
     {
       "SECUCODE": "002819.SZ",
       "SECURITY_CODE": "002819",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "珠海华安众泓投资中心(有限合伙)",
-      "HOLDER_TYPE": "投资公司",
+      "HOLDER_NAME": "梁淑娴",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1693772,
-      "FREE_HOLDNUM_RATIO": 0.715883094772,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 2010800,
+      "FREE_HOLDNUM_RATIO": 0.84987691789,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002819.SZ",
       "SECURITY_CODE": "002819",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "珠海华安众泰投资中心(有限合伙)",
-      "HOLDER_TYPE": "投资公司",
+      "HOLDER_NAME": "暨沛权",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1208120,
-      "FREE_HOLDNUM_RATIO": 0.510619306764,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 1886800,
+      "FREE_HOLDNUM_RATIO": 0.797467559516,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "002819.SZ",
       "SECURITY_CODE": "002819",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 135195433,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 136561810,
       "LIMITED_SHARES": 63011134,
-      "OTHER_UNLIMITED_SHARES": 101403533,
-      "HOLD_NUM_RATIO": 45.12,
+      "OTHER_UNLIMITED_SHARES": 100037156,
+      "HOLD_NUM_RATIO": 45.58,
       "LIMITED_SHARES_RATIO": 21.03,
-      "UNLIMITED_SHARES_RATIO": 33.85
+      "UNLIMITED_SHARES_RATIO": 33.39
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002819.SZ",
       "SECURITY_CODE": "002819",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "东方科仪控股集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "002819.SZ",
       "SECURITY_CODE": "002819",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "万里锦程创业投资有限公司",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "002819.SZ",
       "SECURITY_CODE": "002819",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "大连金融产业投资集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "002819.SZ",
       "SECURITY_CODE": "002819",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "刘达",
       "SHARES_TYPE": "限售流通A股",
@@ -666,20 +666,8 @@
     {
       "SECUCODE": "002819.SZ",
       "SECURITY_CODE": "002819",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "王戈",
-      "SHARES_TYPE": "限售流通A股",
-      "HOLD_NUM": 4559057,
-      "HOLD_NUM_RATIO": 1.52,
-      "HOLD_NUM_CHANGE": "-1519686",
-      "CHANGE_RATIO": -25.00000411
-    },
-    {
-      "SECUCODE": "002819.SZ",
-      "SECURITY_CODE": "002819",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "珠海格力创业投资有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4491558,
@@ -690,8 +678,8 @@
     {
       "SECUCODE": "002819.SZ",
       "SECURITY_CODE": "002819",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "青岛精确力升资产管理有限公司-青岛精确智芯股权投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3610279,
@@ -702,8 +690,8 @@
     {
       "SECUCODE": "002819.SZ",
       "SECURITY_CODE": "002819",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "杭州明颉企业管理有限公司",
       "SHARES_TYPE": "限售流通A股",
       "HOLD_NUM": 3608406,
@@ -714,7 +702,19 @@
     {
       "SECUCODE": "002819.SZ",
       "SECURITY_CODE": "002819",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "王戈",
+      "SHARES_TYPE": "流通A股,限售流通A股",
+      "HOLD_NUM": 3600000,
+      "HOLD_NUM_RATIO": 1.2,
+      "HOLD_NUM_CHANGE": "-959057",
+      "CHANGE_RATIO": -21.03630202
+    },
+    {
+      "SECUCODE": "002819.SZ",
+      "SECURITY_CODE": "002819",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "赵国",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -726,7 +726,7 @@
     {
       "SECUCODE": "002819.SZ",
       "SECURITY_CODE": "002819",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "国科嘉和(北京)投资管理有限公司-苏州国丰鼎嘉创业投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -740,32 +740,22 @@
     {
       "SECUCODE": "002819.SZ",
       "SECURITY_CODE": "002819",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 33,
-      "TOTAL_FREE_SHARES": 168514041,
-      "TOTAL_SHARES_RATIO": 57.35881111,
-      "ALL_SHARES_RATIO": 45.2956539
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 165467897,
+      "TOTAL_SHARES_RATIO": 56.07133972,
+      "ALL_SHARES_RATIO": 44.27895121
     },
     {
       "SECUCODE": "002819.SZ",
       "SECURITY_CODE": "002819",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 23,
-      "TOTAL_FREE_SHARES": 514921,
-      "TOTAL_SHARES_RATIO": 0.21763451,
-      "ALL_SHARES_RATIO": 0.17186369
-    },
-    {
-      "SECUCODE": "002819.SZ",
-      "SECURITY_CODE": "002819",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 10,
-      "TOTAL_FREE_SHARES": 167999120,
-      "TOTAL_SHARES_RATIO": 57.1411766,
-      "ALL_SHARES_RATIO": 45.12379021
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 165467897,
+      "TOTAL_SHARES_RATIO": 56.07133972,
+      "ALL_SHARES_RATIO": 44.27895121
     }
   ],
   "jjcg": [

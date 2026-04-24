@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 8.56,
       "AVG_HOLD_AMT": 175496.971015207,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 64.63799492,
+      "FREEHOLD_RATIO_TOTAL": 64.63799492
     },
     {
       "SECUCODE": "600126.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600126.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600126.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600126.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600126.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600126.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600126.SH",
       "END_DATE": "2026-03-24 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600126.SH",
       "END_DATE": "2017-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600126.SH",
-      "END_DATE": "2017-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -485,20 +485,20 @@
     {
       "SECUCODE": "600126.SH",
       "SECURITY_CODE": "600126",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "杭州钢铁集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1527508156,
-      "FREE_HOLDNUM_RATIO": 45.230163856952,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1367508156,
+      "FREE_HOLDNUM_RATIO": 40.492496048969,
+      "HOLD_NUM_CHANGE": "-160000000",
+      "CHANGE_RATIO": -10.47457582
     },
     {
       "SECUCODE": "600126.SH",
       "SECURITY_CODE": "600126",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "北京诚通金控投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -511,8 +511,21 @@
     {
       "SECUCODE": "600126.SH",
       "SECURITY_CODE": "600126",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "杭钢集团-浙商证券-26杭钢EB担保及信托财产专户",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 160000000,
+      "FREE_HOLDNUM_RATIO": 4.737667807983,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600126.SH",
+      "SECURITY_CODE": "600126",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "富春有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -524,8 +537,8 @@
     {
       "SECUCODE": "600126.SH",
       "SECURITY_CODE": "600126",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "浙江杭钢商贸集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -537,20 +550,7 @@
     {
       "SECUCODE": "600126.SH",
       "SECURITY_CODE": "600126",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "富国基金-中信银行-富国基金逸享25号集合资产管理计划",
-      "HOLDER_TYPE": "基金资产管理计划",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 34628699,
-      "FREE_HOLDNUM_RATIO": 1.025370453029,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600126.SH",
-      "SECURITY_CODE": "600126",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "宁波经济技术开发区控股有限公司",
       "HOLDER_TYPE": "其它",
@@ -563,52 +563,52 @@
     {
       "SECUCODE": "600126.SH",
       "SECURITY_CODE": "600126",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 23244706,
-      "FREE_HOLDNUM_RATIO": 0.688285595764,
-      "HOLD_NUM_CHANGE": "8855335",
-      "CHANGE_RATIO": 61.54080675
+      "HOLD_NUM": 21897149,
+      "FREE_HOLDNUM_RATIO": 0.648383861899,
+      "HOLD_NUM_CHANGE": "-1347557",
+      "CHANGE_RATIO": -5.79726412
     },
     {
       "SECUCODE": "600126.SH",
       "SECURITY_CODE": "600126",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 19848504,
-      "FREE_HOLDNUM_RATIO": 0.587722615234,
-      "HOLD_NUM_CHANGE": "217241",
-      "CHANGE_RATIO": 1.10660735
-    },
-    {
-      "SECUCODE": "600126.SH",
-      "SECURITY_CODE": "600126",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "招商银行股份有限公司-国泰中证钢铁交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 14099413,
-      "FREE_HOLDNUM_RATIO": 0.41748959426,
-      "HOLD_NUM_CHANGE": "633073",
-      "CHANGE_RATIO": 4.70115117
+      "HOLD_NUM": 11453770,
+      "FREE_HOLDNUM_RATIO": 0.339150983806,
+      "HOLD_NUM_CHANGE": "-2645643",
+      "CHANGE_RATIO": -18.76420671
     },
     {
       "SECUCODE": "600126.SH",
       "SECURITY_CODE": "600126",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "储卫",
-      "HOLDER_TYPE": "个人",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5408200,
-      "FREE_HOLDNUM_RATIO": 0.160139093995,
+      "HOLD_NUM": 10296434,
+      "FREE_HOLDNUM_RATIO": 0.304881774368,
+      "HOLD_NUM_CHANGE": "-9552070",
+      "CHANGE_RATIO": -48.12488639
+    },
+    {
+      "SECUCODE": "600126.SH",
+      "SECURITY_CODE": "600126",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "高盛国际-自有资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5854007,
+      "FREE_HOLDNUM_RATIO": 0.173339628198,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -617,38 +617,134 @@
     {
       "SECUCODE": "600126.SH",
       "SECURITY_CODE": "600126",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 2230675470,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 2182947308,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 1146513613,
-      "HOLD_NUM_RATIO": 66.05,
+      "OTHER_UNLIMITED_SHARES": 1194241775,
+      "HOLD_NUM_RATIO": 64.64,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 33.95
+      "UNLIMITED_SHARES_RATIO": 35.36
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600126.SH",
       "SECURITY_CODE": "600126",
-      "END_DATE": "2026-03-24 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "杭州钢铁集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1367508156,
       "HOLD_NUM_RATIO": 40.49,
-      "HOLD_NUM_CHANGE": "-160000000",
-      "CHANGE_RATIO": -10.47457582
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600126.SH",
       "SECURITY_CODE": "600126",
-      "END_DATE": "2026-03-24 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "北京诚通金控投资有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 343865442,
       "HOLD_NUM_RATIO": 10.18,
       "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600126.SH",
+      "SECURITY_CODE": "600126",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "杭钢集团-浙商证券-26杭钢EB担保及信托财产专户",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 160000000,
+      "HOLD_NUM_RATIO": 4.74,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600126.SH",
+      "SECURITY_CODE": "600126",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "富春有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 141794962,
+      "HOLD_NUM_RATIO": 4.2,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600126.SH",
+      "SECURITY_CODE": "600126",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "浙江杭钢商贸集团有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 87201852,
+      "HOLD_NUM_RATIO": 2.58,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600126.SH",
+      "SECURITY_CODE": "600126",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "宁波经济技术开发区控股有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 33075536,
+      "HOLD_NUM_RATIO": 0.98,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600126.SH",
+      "SECURITY_CODE": "600126",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 21897149,
+      "HOLD_NUM_RATIO": 0.65,
+      "HOLD_NUM_CHANGE": "-1347557",
+      "CHANGE_RATIO": -5.79726412
+    },
+    {
+      "SECUCODE": "600126.SH",
+      "SECURITY_CODE": "600126",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "招商银行股份有限公司-国泰中证钢铁交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 11453770,
+      "HOLD_NUM_RATIO": 0.34,
+      "HOLD_NUM_CHANGE": "-2645643",
+      "CHANGE_RATIO": -18.76420671
+    },
+    {
+      "SECUCODE": "600126.SH",
+      "SECURITY_CODE": "600126",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 10296434,
+      "HOLD_NUM_RATIO": 0.3,
+      "HOLD_NUM_CHANGE": "-9552070",
+      "CHANGE_RATIO": -48.12488639
+    },
+    {
+      "SECUCODE": "600126.SH",
+      "SECURITY_CODE": "600126",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "高盛国际-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5854007,
+      "HOLD_NUM_RATIO": 0.17,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -658,20 +754,40 @@
       "SECURITY_CODE": "600126",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 14216787,
-      "TOTAL_SHARES_RATIO": 0.42096509,
-      "ALL_SHARES_RATIO": 0.42096509
+      "TOTAL_ORG_NUM": 11,
+      "TOTAL_FREE_SHARES": 2025710325,
+      "TOTAL_SHARES_RATIO": 59.98214122,
+      "ALL_SHARES_RATIO": 59.98214122
     },
     {
       "SECUCODE": "600126.SH",
       "SECURITY_CODE": "600126",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 14216787,
-      "TOTAL_SHARES_RATIO": 0.42096509,
-      "ALL_SHARES_RATIO": 0.42096509
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 24513221,
+      "TOTAL_SHARES_RATIO": 0.72584686,
+      "ALL_SHARES_RATIO": 0.72584686
+    },
+    {
+      "SECUCODE": "600126.SH",
+      "SECURITY_CODE": "600126",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 5854007,
+      "TOTAL_SHARES_RATIO": 0.17333963,
+      "ALL_SHARES_RATIO": 0.17333963
+    },
+    {
+      "SECUCODE": "600126.SH",
+      "SECURITY_CODE": "600126",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 1995343097,
+      "TOTAL_SHARES_RATIO": 59.08295473,
+      "ALL_SHARES_RATIO": 59.08295473
     }
   ],
   "jjcg": [
@@ -691,6 +807,23 @@
       "FUND_CODE": "515210",
       "FUND_DERIVECODE": "515210.SH",
       "NETVALUE_RATIO": 3.07
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600126.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "510500",
+      "HOLDER_NAME": "南方中证500ETF",
+      "TOTAL_SHARES": 10296434,
+      "HOLD_VALUE": 88137475.04,
+      "TOTALSHARES_RATIO": 0.30488177,
+      "FREESHARES_RATIO": 0.30488177,
+      "FREE_MARKET_CAP": 88137475.04,
+      "FREE_SHARES": 10296434,
+      "SECURITY_CODE": "600126",
+      "FUND_CODE": "510500",
+      "FUND_DERIVECODE": "510500.SH",
+      "NETVALUE_RATIO": 0.12
     },
     {
       "ORG_TYPE": "01",

@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 9.85,
       "AVG_HOLD_AMT": 168873.111543167,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 60.81264486,
+      "FREEHOLD_RATIO_TOTAL": 60.81264486
     },
     {
       "SECUCODE": "600241.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600241.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600241.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600241.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600241.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600241.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600241.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600241.SH",
       "END_DATE": "2014-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600241.SH",
-      "END_DATE": "2014-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600241.SH",
       "SECURITY_CODE": "600241",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "辽宁时代万恒控股集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600241.SH",
       "SECURITY_CODE": "600241",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "辽宁交通投资有限责任公司",
       "HOLDER_TYPE": "投资公司",
@@ -499,21 +499,8 @@
     {
       "SECUCODE": "600241.SH",
       "SECURITY_CODE": "600241",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "周宇光",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6779309,
-      "FREE_HOLDNUM_RATIO": 2.303520312792,
-      "HOLD_NUM_CHANGE": "-4248500",
-      "CHANGE_RATIO": -38.52533173
-    },
-    {
-      "SECUCODE": "600241.SH",
-      "SECURITY_CODE": "600241",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "辽宁润中供水有限责任公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -525,8 +512,47 @@
     {
       "SECUCODE": "600241.SH",
       "SECURITY_CODE": "600241",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "王成华",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3926100,
+      "FREE_HOLDNUM_RATIO": 1.334037303809,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600241.SH",
+      "SECURITY_CODE": "600241",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "陆明富",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3882800,
+      "FREE_HOLDNUM_RATIO": 1.319324531528,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600241.SH",
+      "SECURITY_CODE": "600241",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "郭劲松",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3098600,
+      "FREE_HOLDNUM_RATIO": 1.052863653392,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600241.SH",
+      "SECURITY_CODE": "600241",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "徐开东",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -538,65 +564,39 @@
     {
       "SECUCODE": "600241.SH",
       "SECURITY_CODE": "600241",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "高盛公司有限责任公司",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2223870,
-      "FREE_HOLDNUM_RATIO": 0.755641868221,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600241.SH",
-      "SECURITY_CODE": "600241",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "李国洪",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1575900,
-      "FREE_HOLDNUM_RATIO": 0.535470157936,
-      "HOLD_NUM_CHANGE": "122500",
-      "CHANGE_RATIO": 8.42851245
+      "HOLD_NUM": 1532000,
+      "FREE_HOLDNUM_RATIO": 0.520553513521,
+      "HOLD_NUM_CHANGE": "-43900",
+      "CHANGE_RATIO": -2.78570975
     },
     {
       "SECUCODE": "600241.SH",
       "SECURITY_CODE": "600241",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "朱玉华",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1290200,
-      "FREE_HOLDNUM_RATIO": 0.438393043828,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600241.SH",
-      "SECURITY_CODE": "600241",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "武汉九通汽车系统有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1173700,
-      "FREE_HOLDNUM_RATIO": 0.398807871292,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600241.SH",
-      "SECURITY_CODE": "600241",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "MORGANSTANLEY&CO.INTERNATIONA LPLC.",
+      "HOLDER_NAME": "高盛公司有限责任公司",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1137109,
-      "FREE_HOLDNUM_RATIO": 0.386374729247,
+      "HOLD_NUM": 1466219,
+      "FREE_HOLDNUM_RATIO": 0.498201992194,
+      "HOLD_NUM_CHANGE": "-757651",
+      "CHANGE_RATIO": -34.06903281
+    },
+    {
+      "SECUCODE": "600241.SH",
+      "SECURITY_CODE": "600241",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "UBS AG",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1212261,
+      "FREE_HOLDNUM_RATIO": 0.411910393508,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "600241.SH",
       "SECURITY_CODE": "600241",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 178035008,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 178972900,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 116267107,
-      "HOLD_NUM_RATIO": 60.49,
+      "OTHER_UNLIMITED_SHARES": 115329215,
+      "HOLD_NUM_RATIO": 60.81,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 39.51
+      "UNLIMITED_SHARES_RATIO": 39.19
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600241.SH",
       "SECURITY_CODE": "600241",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "辽宁时代万恒控股集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600241.SH",
       "SECURITY_CODE": "600241",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "辽宁交通投资有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -642,20 +642,8 @@
     {
       "SECUCODE": "600241.SH",
       "SECURITY_CODE": "600241",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "周宇光",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6779309,
-      "HOLD_NUM_RATIO": 2.3,
-      "HOLD_NUM_CHANGE": "-4248500",
-      "CHANGE_RATIO": -38.52533173
-    },
-    {
-      "SECUCODE": "600241.SH",
-      "SECURITY_CODE": "600241",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "辽宁润中供水有限责任公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4955271,
@@ -666,8 +654,44 @@
     {
       "SECUCODE": "600241.SH",
       "SECURITY_CODE": "600241",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "王成华",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3926100,
+      "HOLD_NUM_RATIO": 1.33,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600241.SH",
+      "SECURITY_CODE": "600241",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "陆明富",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3882800,
+      "HOLD_NUM_RATIO": 1.32,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600241.SH",
+      "SECURITY_CODE": "600241",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "郭劲松",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3098600,
+      "HOLD_NUM_RATIO": 1.05,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600241.SH",
+      "SECURITY_CODE": "600241",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "徐开东",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2603100,
@@ -678,60 +702,36 @@
     {
       "SECUCODE": "600241.SH",
       "SECURITY_CODE": "600241",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "高盛公司有限责任公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2223870,
-      "HOLD_NUM_RATIO": 0.76,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600241.SH",
-      "SECURITY_CODE": "600241",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "李国洪",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1575900,
-      "HOLD_NUM_RATIO": 0.54,
-      "HOLD_NUM_CHANGE": "122500",
-      "CHANGE_RATIO": 8.42851245
+      "HOLD_NUM": 1532000,
+      "HOLD_NUM_RATIO": 0.52,
+      "HOLD_NUM_CHANGE": "-43900",
+      "CHANGE_RATIO": -2.78570975
     },
     {
       "SECUCODE": "600241.SH",
       "SECURITY_CODE": "600241",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "朱玉华",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1290200,
-      "HOLD_NUM_RATIO": 0.44,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600241.SH",
-      "SECURITY_CODE": "600241",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "武汉九通汽车系统有限公司",
+      "HOLDER_NAME": "高盛公司有限责任公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1173700,
-      "HOLD_NUM_RATIO": 0.4,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1466219,
+      "HOLD_NUM_RATIO": 0.5,
+      "HOLD_NUM_CHANGE": "-757651",
+      "CHANGE_RATIO": -34.06903281
     },
     {
       "SECUCODE": "600241.SH",
       "SECURITY_CODE": "600241",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "MORGAN STANLEY&CO.INTERNATIONAL PLC.",
+      "HOLDER_NAME": "UBS AG",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1137109,
-      "HOLD_NUM_RATIO": 0.39,
+      "HOLD_NUM": 1212261,
+      "HOLD_NUM_RATIO": 0.41,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "600241",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 961300,
-      "TOTAL_SHARES_RATIO": 0.32663713,
-      "ALL_SHARES_RATIO": 0.32663713
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 164891600,
+      "TOTAL_SHARES_RATIO": 56.02800373,
+      "ALL_SHARES_RATIO": 56.02800373
     },
     {
       "SECUCODE": "600241.SH",
@@ -756,6 +756,26 @@
       "TOTAL_FREE_SHARES": 961300,
       "TOTAL_SHARES_RATIO": 0.32663713,
       "ALL_SHARES_RATIO": 0.32663713
+    },
+    {
+      "SECUCODE": "600241.SH",
+      "SECURITY_CODE": "600241",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 2678480,
+      "TOTAL_SHARES_RATIO": 0.91011238,
+      "ALL_SHARES_RATIO": 0.91011238
+    },
+    {
+      "SECUCODE": "600241.SH",
+      "SECURITY_CODE": "600241",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 161251820,
+      "TOTAL_SHARES_RATIO": 54.79125422,
+      "ALL_SHARES_RATIO": 54.79125422
     }
   ],
   "jjcg": [

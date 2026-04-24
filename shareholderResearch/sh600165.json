@@ -81,8 +81,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 4.15,
       "AVG_HOLD_AMT": 169504.660660945,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 61.58690021,
+      "FREEHOLD_RATIO_TOTAL": 41.32064216
     },
     {
       "SECUCODE": "600165.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600165.SH",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600165.SH",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -157,10 +161,6 @@
     {
       "SECUCODE": "600165.SH",
       "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600165.SH",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
@@ -168,6 +168,11 @@
       "SECUCODE": "600165.SH",
       "END_DATE": "2026-02-04 00:00:00",
       "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "600165.SH",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
     },
     {
       "SECUCODE": "600165.SH",
@@ -408,11 +413,6 @@
       "SECUCODE": "600165.SH",
       "END_DATE": "2015-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600165.SH",
-      "END_DATE": "2015-05-18 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "600165.SH",
+      "REPORT_DATE": "2025-12-31 00:00:00"
+    },
     {
       "SECUCODE": "600165.SH",
       "REPORT_DATE": "2025-09-30 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "600165.SH",
       "REPORT_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600165.SH",
-      "REPORT_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -472,7 +472,7 @@
     {
       "SECUCODE": "600165.SH",
       "SECURITY_CODE": "600165",
-      "LIFT_DATE": "2026-12-15 00:00:00",
+      "LIFT_DATE": "2026-12-14 00:00:00",
       "LIFT_NUM": 525827272,
       "LIFT_TYPE": "其他类型",
       "TOTAL_SHARES_RATIO": 32.54,
@@ -481,7 +481,7 @@
     {
       "SECUCODE": "600165.SH",
       "SECURITY_CODE": "600165",
-      "LIFT_DATE": "2028-12-15 00:00:00",
+      "LIFT_DATE": "2028-12-12 00:00:00",
       "LIFT_NUM": 357142857,
       "LIFT_TYPE": "其他类型",
       "TOTAL_SHARES_RATIO": 22.1,
@@ -492,130 +492,130 @@
     {
       "SECUCODE": "600165.SH",
       "SECURITY_CODE": "600165",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海中能企业发展(集团)有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 200000000,
-      "FREE_HOLDNUM_RATIO": 29.202035046019,
+      "FREE_HOLDNUM_RATIO": 27.288344417045,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600165.SH",
       "SECURITY_CODE": "600165",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
+      "HOLDER_NAME": "宁夏中科生物科技股份有限公司破产企业财产处置专用账户",
+      "HOLDER_TYPE": "证券账户",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 48029871,
+      "FREE_HOLDNUM_RATIO": 6.553278310771,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600165.SH",
+      "SECURITY_CODE": "600165",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "冯量",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 30987729,
-      "FREE_HOLDNUM_RATIO": 4.524523741273,
-      "HOLD_NUM_CHANGE": "-3012200",
-      "CHANGE_RATIO": -8.85943027
+      "HOLD_NUM": 23297729,
+      "FREE_HOLDNUM_RATIO": 3.178782265435,
+      "HOLD_NUM_CHANGE": "-7690000",
+      "CHANGE_RATIO": -24.81627486
     },
     {
       "SECUCODE": "600165.SH",
       "SECURITY_CODE": "600165",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "叶毅波",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10179400,
-      "FREE_HOLDNUM_RATIO": 1.486295977737,
-      "HOLD_NUM_CHANGE": "1179400",
-      "CHANGE_RATIO": 13.10444444
-    },
-    {
-      "SECUCODE": "600165.SH",
-      "SECURITY_CODE": "600165",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "刘旻",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7841200,
-      "FREE_HOLDNUM_RATIO": 1.144894986014,
-      "HOLD_NUM_CHANGE": "-16459400",
-      "CHANGE_RATIO": -67.73248397
-    },
-    {
-      "SECUCODE": "600165.SH",
-      "SECURITY_CODE": "600165",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "邵奕兴",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6901700,
-      "FREE_HOLDNUM_RATIO": 1.007718426386,
-      "HOLD_NUM_CHANGE": "-1793800",
-      "CHANGE_RATIO": -20.62906101
+      "HOLD_NUM": 6191700,
+      "FREE_HOLDNUM_RATIO": 0.844806210635,
+      "HOLD_NUM_CHANGE": "-710000",
+      "CHANGE_RATIO": -10.28732052
     },
     {
       "SECUCODE": "600165.SH",
       "SECURITY_CODE": "600165",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "黄拓宇",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "叶毅波",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4783100,
-      "FREE_HOLDNUM_RATIO": 0.698381269143,
-      "HOLD_NUM_CHANGE": "149700",
-      "CHANGE_RATIO": 3.23088876
+      "HOLD_NUM": 6000000,
+      "FREE_HOLDNUM_RATIO": 0.818650332511,
+      "HOLD_NUM_CHANGE": "-4179400",
+      "CHANGE_RATIO": -41.05742971
     },
     {
       "SECUCODE": "600165.SH",
       "SECURITY_CODE": "600165",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "吴新兰",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4524300,
+      "FREE_HOLDNUM_RATIO": 0.61730328323,
+      "HOLD_NUM_CHANGE": "1484900",
+      "CHANGE_RATIO": 48.85503718
+    },
+    {
+      "SECUCODE": "600165.SH",
+      "SECURITY_CODE": "600165",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "赵松苗",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4414100,
-      "FREE_HOLDNUM_RATIO": 0.644503514483,
-      "HOLD_NUM_CHANGE": "14200",
-      "CHANGE_RATIO": 0.32273461
+      "HOLD_NUM": 4420000,
+      "FREE_HOLDNUM_RATIO": 0.603072411617,
+      "HOLD_NUM_CHANGE": "5900",
+      "CHANGE_RATIO": 0.13366258
     },
     {
       "SECUCODE": "600165.SH",
       "SECURITY_CODE": "600165",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "冯江霞",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3500000,
-      "FREE_HOLDNUM_RATIO": 0.511035613305,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600165.SH",
-      "SECURITY_CODE": "600165",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "邓兴文",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3410000,
-      "FREE_HOLDNUM_RATIO": 0.497894697535,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3950000,
+      "FREE_HOLDNUM_RATIO": 0.538944802237,
+      "HOLD_NUM_CHANGE": "540000",
+      "CHANGE_RATIO": 15.83577713
     },
     {
       "SECUCODE": "600165.SH",
       "SECURITY_CODE": "600165",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "吴新兰",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "冯江霞",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3039400,
-      "FREE_HOLDNUM_RATIO": 0.443783326594,
+      "HOLD_NUM": 3400000,
+      "FREE_HOLDNUM_RATIO": 0.46390185509,
+      "HOLD_NUM_CHANGE": "-100000",
+      "CHANGE_RATIO": -2.85714286
+    },
+    {
+      "SECUCODE": "600165.SH",
+      "SECURITY_CODE": "600165",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "周群凤",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3031025,
+      "FREE_HOLDNUM_RATIO": 0.413558270683,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -624,13 +624,13 @@
     {
       "SECUCODE": "600165.SH",
       "SECURITY_CODE": "600165",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 275056629,
-      "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 409827146,
-      "HOLD_NUM_RATIO": 40.16,
-      "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 59.84
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLD_NUM_COUNT": 302844625,
+      "LIMITED_SHARES": 882970129,
+      "OTHER_UNLIMITED_SHARES": 430069021,
+      "HOLD_NUM_RATIO": 18.74,
+      "LIMITED_SHARES_RATIO": 54.64,
+      "UNLIMITED_SHARES_RATIO": 26.62
     }
   ],
   "sdgd": [
@@ -651,22 +651,22 @@
     {
       "SECUCODE": "600165.SH",
       "SECURITY_CODE": "600165",
-      "REPORT_DATE": "2025-09-30 00:00:00",
+      "REPORT_DATE": "2025-12-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 200000000,
-      "TOTAL_SHARES_RATIO": 29.20203505,
-      "ALL_SHARES_RATIO": 29.20203505
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 248029871,
+      "TOTAL_SHARES_RATIO": 33.84162273,
+      "ALL_SHARES_RATIO": 15.34948706
     },
     {
       "SECUCODE": "600165.SH",
       "SECURITY_CODE": "600165",
-      "REPORT_DATE": "2025-09-30 00:00:00",
+      "REPORT_DATE": "2025-12-31 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 200000000,
-      "TOTAL_SHARES_RATIO": 29.20203505,
-      "ALL_SHARES_RATIO": 29.20203505
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 248029871,
+      "TOTAL_SHARES_RATIO": 33.84162273,
+      "ALL_SHARES_RATIO": 15.34948706
     }
   ],
   "jjcg": [

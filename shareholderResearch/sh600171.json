@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 27.01,
       "AVG_HOLD_AMT": 100851.232535025,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 28.80533552,
+      "FREEHOLD_RATIO_TOTAL": 28.80533552
     },
     {
       "SECUCODE": "600171.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600171.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600171.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600171.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600171.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600171.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600171.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600171.SH",
       "END_DATE": "2014-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600171.SH",
-      "END_DATE": "2014-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600171.SH",
       "SECURITY_CODE": "600171",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "华大半导体有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,34 +486,8 @@
     {
       "SECUCODE": "600171.SH",
       "SECURITY_CODE": "600171",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8381121,
-      "FREE_HOLDNUM_RATIO": 1.182232402932,
-      "HOLD_NUM_CHANGE": "125700",
-      "CHANGE_RATIO": 1.52263585
-    },
-    {
-      "SECUCODE": "600171.SH",
-      "SECURITY_CODE": "600171",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5292630,
-      "FREE_HOLDNUM_RATIO": 0.746573004104,
-      "HOLD_NUM_CHANGE": "-3143660",
-      "CHANGE_RATIO": -37.26353646
-    },
-    {
-      "SECUCODE": "600171.SH",
-      "SECURITY_CODE": "600171",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "亓蓉",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -525,20 +499,46 @@
     {
       "SECUCODE": "600171.SH",
       "SECURITY_CODE": "600171",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "国泰海通证券股份有限公司-国联安中证全指半导体产品与设备交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3532344,
-      "FREE_HOLDNUM_RATIO": 0.498268851518,
-      "HOLD_NUM_CHANGE": "-343130",
-      "CHANGE_RATIO": -8.85388471
+      "HOLD_NUM": 3903021,
+      "FREE_HOLDNUM_RATIO": 0.550556172083,
+      "HOLD_NUM_CHANGE": "-4478100",
+      "CHANGE_RATIO": -53.43080001
     },
     {
       "SECUCODE": "600171.SH",
       "SECURITY_CODE": "600171",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "国泰海通证券股份有限公司-国联安中证全指半导体产品与设备交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3605888,
+      "FREE_HOLDNUM_RATIO": 0.508642893348,
+      "HOLD_NUM_CHANGE": "73544",
+      "CHANGE_RATIO": 2.08201693
+    },
+    {
+      "SECUCODE": "600171.SH",
+      "SECURITY_CODE": "600171",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3475444,
+      "FREE_HOLDNUM_RATIO": 0.490242595397,
+      "HOLD_NUM_CHANGE": "-1817186",
+      "CHANGE_RATIO": -34.33427237
+    },
+    {
+      "SECUCODE": "600171.SH",
+      "SECURITY_CODE": "600171",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "陈强",
       "HOLDER_TYPE": "个人",
@@ -551,7 +551,7 @@
     {
       "SECUCODE": "600171.SH",
       "SECURITY_CODE": "600171",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "邓丽君",
       "HOLDER_TYPE": "个人",
@@ -564,7 +564,7 @@
     {
       "SECUCODE": "600171.SH",
       "SECURITY_CODE": "600171",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "付小铜",
       "HOLDER_TYPE": "个人",
@@ -577,27 +577,27 @@
     {
       "SECUCODE": "600171.SH",
       "SECURITY_CODE": "600171",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "雷桂珍",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1692700,
-      "FREE_HOLDNUM_RATIO": 0.238770540175,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1943300,
+      "FREE_HOLDNUM_RATIO": 0.274119921263,
+      "HOLD_NUM_CHANGE": "250600",
+      "CHANGE_RATIO": 14.80474981
     },
     {
       "SECUCODE": "600171.SH",
       "SECURITY_CODE": "600171",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "陈伟",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1331100,
       "FREE_HOLDNUM_RATIO": 0.187763611997,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "600171.SH",
       "SECURITY_CODE": "600171",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 210178878,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 204207736,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 498744425,
-      "HOLD_NUM_RATIO": 29.65,
+      "OTHER_UNLIMITED_SHARES": 504715567,
+      "HOLD_NUM_RATIO": 28.81,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 70.35
+      "UNLIMITED_SHARES_RATIO": 71.19
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600171.SH",
       "SECURITY_CODE": "600171",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "华大半导体有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,32 +630,8 @@
     {
       "SECUCODE": "600171.SH",
       "SECURITY_CODE": "600171",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8381121,
-      "HOLD_NUM_RATIO": 1.18,
-      "HOLD_NUM_CHANGE": "125700",
-      "CHANGE_RATIO": 1.52263585
-    },
-    {
-      "SECUCODE": "600171.SH",
-      "SECURITY_CODE": "600171",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5292630,
-      "HOLD_NUM_RATIO": 0.75,
-      "HOLD_NUM_CHANGE": "-3143660",
-      "CHANGE_RATIO": -37.26353646
-    },
-    {
-      "SECUCODE": "600171.SH",
-      "SECURITY_CODE": "600171",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "亓蓉",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4596538,
@@ -666,19 +642,43 @@
     {
       "SECUCODE": "600171.SH",
       "SECURITY_CODE": "600171",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "国泰海通证券股份有限公司-国联安中证全指半导体产品与设备交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3532344,
-      "HOLD_NUM_RATIO": 0.5,
-      "HOLD_NUM_CHANGE": "-343130",
-      "CHANGE_RATIO": -8.85388471
+      "HOLD_NUM": 3903021,
+      "HOLD_NUM_RATIO": 0.55,
+      "HOLD_NUM_CHANGE": "-4478100",
+      "CHANGE_RATIO": -53.43080001
     },
     {
       "SECUCODE": "600171.SH",
       "SECURITY_CODE": "600171",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "国泰海通证券股份有限公司-国联安中证全指半导体产品与设备交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3605888,
+      "HOLD_NUM_RATIO": 0.51,
+      "HOLD_NUM_CHANGE": "73544",
+      "CHANGE_RATIO": 2.08201693
+    },
+    {
+      "SECUCODE": "600171.SH",
+      "SECURITY_CODE": "600171",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3475444,
+      "HOLD_NUM_RATIO": 0.49,
+      "HOLD_NUM_CHANGE": "-1817186",
+      "CHANGE_RATIO": -34.33427237
+    },
+    {
+      "SECUCODE": "600171.SH",
+      "SECURITY_CODE": "600171",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "陈强",
       "SHARES_TYPE": "流通A股",
@@ -690,7 +690,7 @@
     {
       "SECUCODE": "600171.SH",
       "SECURITY_CODE": "600171",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "邓丽君",
       "SHARES_TYPE": "流通A股",
@@ -702,7 +702,7 @@
     {
       "SECUCODE": "600171.SH",
       "SECURITY_CODE": "600171",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "付小铜",
       "SHARES_TYPE": "流通A股",
@@ -714,25 +714,25 @@
     {
       "SECUCODE": "600171.SH",
       "SECURITY_CODE": "600171",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "雷桂珍",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1692700,
-      "HOLD_NUM_RATIO": 0.24,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1943300,
+      "HOLD_NUM_RATIO": 0.27,
+      "HOLD_NUM_CHANGE": "250600",
+      "CHANGE_RATIO": 14.80474981
     },
     {
       "SECUCODE": "600171.SH",
       "SECURITY_CODE": "600171",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "陈伟",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1331100,
       "HOLD_NUM_RATIO": 0.19,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -742,23 +742,67 @@
       "SECURITY_CODE": "600171",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 11000,
-      "TOTAL_SHARES_RATIO": 0.00155165,
-      "ALL_SHARES_RATIO": 0.00155165
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 189195353,
+      "TOTAL_SHARES_RATIO": 26.68770404,
+      "ALL_SHARES_RATIO": 26.68770404
     },
     {
       "SECUCODE": "600171.SH",
       "SECURITY_CODE": "600171",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 11000,
-      "TOTAL_SHARES_RATIO": 0.00155165,
-      "ALL_SHARES_RATIO": 0.00155165
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 7519909,
+      "TOTAL_SHARES_RATIO": 1.06075071,
+      "ALL_SHARES_RATIO": 1.06075071
+    },
+    {
+      "SECUCODE": "600171.SH",
+      "SECURITY_CODE": "600171",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 181675444,
+      "TOTAL_SHARES_RATIO": 25.62695333,
+      "ALL_SHARES_RATIO": 25.62695333
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600171.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "510500",
+      "HOLDER_NAME": "南方中证500ETF",
+      "TOTAL_SHARES": 3903021,
+      "HOLD_VALUE": 105420597.21,
+      "TOTALSHARES_RATIO": 0.55055617,
+      "FREESHARES_RATIO": 0.55055617,
+      "FREE_MARKET_CAP": 105420597.21,
+      "FREE_SHARES": 3903021,
+      "SECURITY_CODE": "600171",
+      "FUND_CODE": "510500",
+      "FUND_DERIVECODE": "510500.SH",
+      "NETVALUE_RATIO": 0.15
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600171.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "512480",
+      "HOLDER_NAME": "国联安半导体ETF",
+      "TOTAL_SHARES": 3605888,
+      "HOLD_VALUE": 97395034.88,
+      "TOTALSHARES_RATIO": 0.50864289,
+      "FREESHARES_RATIO": 0.50864289,
+      "FREE_MARKET_CAP": 97395034.88,
+      "FREE_SHARES": 3605888,
+      "SECURITY_CODE": "600171",
+      "FUND_CODE": "512480",
+      "FUND_DERIVECODE": "512480.SH",
+      "NETVALUE_RATIO": 0.49
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "600171.SH",

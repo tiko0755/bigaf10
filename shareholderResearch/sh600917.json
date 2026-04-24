@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 5.47,
       "AVG_HOLD_AMT": 219808.157314593,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 70.21469793,
+      "FREEHOLD_RATIO_TOTAL": 70.21469793
     },
     {
       "SECUCODE": "600917.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600917.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600917.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600917.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600917.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600917.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600917.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600917.SH",
       "END_DATE": "2015-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600917.SH",
-      "END_DATE": "2015-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "600917.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "600917.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "600917.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600917.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600917.SH",
       "SECURITY_CODE": "600917",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "华润燃气(中国)投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600917.SH",
       "SECURITY_CODE": "600917",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "华润燃气投资(中国)有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "600917.SH",
       "SECURITY_CODE": "600917",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "重庆市城市建设投资(集团)有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "600917.SH",
       "SECURITY_CODE": "600917",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "中国农业银行股份有限公司重庆市分行",
       "HOLDER_TYPE": "金融",
@@ -525,7 +525,7 @@
     {
       "SECUCODE": "600917.SH",
       "SECURITY_CODE": "600917",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "重庆市能源投资集团有限公司破产企业财产处置专用账户",
       "HOLDER_TYPE": "证券账户",
@@ -538,21 +538,8 @@
     {
       "SECUCODE": "600917.SH",
       "SECURITY_CODE": "600917",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "国家开发银行",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 53538572,
-      "FREE_HOLDNUM_RATIO": 3.429673822017,
-      "HOLD_NUM_CHANGE": "-14537057",
-      "CHANGE_RATIO": -21.35427496
-    },
-    {
-      "SECUCODE": "600917.SH",
-      "SECURITY_CODE": "600917",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "重庆农村商业银行股份有限公司",
       "HOLDER_TYPE": "金融",
       "SHARES_TYPE": "A股",
@@ -564,21 +551,8 @@
     {
       "SECUCODE": "600917.SH",
       "SECURITY_CODE": "600917",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "工银金融资产投资有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 35990809,
-      "FREE_HOLDNUM_RATIO": 2.305566451427,
-      "HOLD_NUM_CHANGE": "-5499852",
-      "CHANGE_RATIO": -13.25563842
-    },
-    {
-      "SECUCODE": "600917.SH",
-      "SECURITY_CODE": "600917",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "重庆银行股份有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -590,35 +564,61 @@
     {
       "SECUCODE": "600917.SH",
       "SECURITY_CODE": "600917",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "兴业银行股份有限公司重庆分行",
-      "HOLDER_TYPE": "金融",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "工银金融资产投资有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 31677923,
-      "FREE_HOLDNUM_RATIO": 2.029283546244,
-      "HOLD_NUM_CHANGE": "-1848900",
-      "CHANGE_RATIO": -5.51468894
+      "HOLD_NUM": 31990809,
+      "FREE_HOLDNUM_RATIO": 2.049326981909,
+      "HOLD_NUM_CHANGE": "-4000000",
+      "CHANGE_RATIO": -11.11394856
+    },
+    {
+      "SECUCODE": "600917.SH",
+      "SECURITY_CODE": "600917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "建信金融资产投资有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 31595491,
+      "FREE_HOLDNUM_RATIO": 2.024002963256,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600917.SH",
+      "SECURITY_CODE": "600917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "重庆发展能源有限公司",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 29227623,
+      "FREE_HOLDNUM_RATIO": 1.872317653203,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600917.SH",
       "SECURITY_CODE": "600917",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 1124472733,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 1096079352,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 436567027,
-      "HOLD_NUM_RATIO": 72.03,
+      "OTHER_UNLIMITED_SHARES": 464960408,
+      "HOLD_NUM_RATIO": 70.21,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 27.97
+      "UNLIMITED_SHARES_RATIO": 29.79
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600917.SH",
       "SECURITY_CODE": "600917",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "华润燃气(中国)投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600917.SH",
       "SECURITY_CODE": "600917",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "华润燃气投资(中国)有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "600917.SH",
       "SECURITY_CODE": "600917",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "重庆市城市建设投资(集团)有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "600917.SH",
       "SECURITY_CODE": "600917",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "中国农业银行股份有限公司重庆市分行",
       "SHARES_TYPE": "流通A股",
@@ -666,7 +666,7 @@
     {
       "SECUCODE": "600917.SH",
       "SECURITY_CODE": "600917",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "重庆市能源投资集团有限公司破产企业财产处置专用账户",
       "SHARES_TYPE": "流通A股",
@@ -678,20 +678,8 @@
     {
       "SECUCODE": "600917.SH",
       "SECURITY_CODE": "600917",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "国家开发银行",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 53538572,
-      "HOLD_NUM_RATIO": 3.43,
-      "HOLD_NUM_CHANGE": "-14537057",
-      "CHANGE_RATIO": -21.35427496
-    },
-    {
-      "SECUCODE": "600917.SH",
-      "SECURITY_CODE": "600917",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "重庆农村商业银行股份有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 52665132,
@@ -702,20 +690,8 @@
     {
       "SECUCODE": "600917.SH",
       "SECURITY_CODE": "600917",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "工银金融资产投资有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 35990809,
-      "HOLD_NUM_RATIO": 2.31,
-      "HOLD_NUM_CHANGE": "-5499852",
-      "CHANGE_RATIO": -13.25563842
-    },
-    {
-      "SECUCODE": "600917.SH",
-      "SECURITY_CODE": "600917",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "重庆银行股份有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 35938168,
@@ -726,46 +702,60 @@
     {
       "SECUCODE": "600917.SH",
       "SECURITY_CODE": "600917",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "兴业银行股份有限公司重庆分行",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "工银金融资产投资有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 31677923,
-      "HOLD_NUM_RATIO": 2.03,
-      "HOLD_NUM_CHANGE": "-1848900",
-      "CHANGE_RATIO": -5.51468894
+      "HOLD_NUM": 31990809,
+      "HOLD_NUM_RATIO": 2.05,
+      "HOLD_NUM_CHANGE": "-4000000",
+      "CHANGE_RATIO": -11.11394856
+    },
+    {
+      "SECUCODE": "600917.SH",
+      "SECURITY_CODE": "600917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "建信金融资产投资有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 31595491,
+      "HOLD_NUM_RATIO": 2.02,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600917.SH",
+      "SECURITY_CODE": "600917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "重庆发展能源有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 29227623,
+      "HOLD_NUM_RATIO": 1.87,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "600917.SH",
       "SECURITY_CODE": "600917",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 12,
-      "TOTAL_FREE_SHARES": 1124500933,
-      "TOTAL_SHARES_RATIO": 72.03538064,
-      "ALL_SHARES_RATIO": 72.03538064
+      "TOTAL_ORG_NUM": 10,
+      "TOTAL_FREE_SHARES": 1096079352,
+      "TOTAL_SHARES_RATIO": 70.21469792,
+      "ALL_SHARES_RATIO": 70.21469792
     },
     {
       "SECUCODE": "600917.SH",
       "SECURITY_CODE": "600917",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 28200,
-      "TOTAL_SHARES_RATIO": 0.00180649,
-      "ALL_SHARES_RATIO": 0.00180649
-    },
-    {
-      "SECUCODE": "600917.SH",
-      "SECURITY_CODE": "600917",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 10,
-      "TOTAL_FREE_SHARES": 1124472733,
-      "TOTAL_SHARES_RATIO": 72.03357415,
-      "ALL_SHARES_RATIO": 72.03357415
+      "TOTAL_FREE_SHARES": 1096079352,
+      "TOTAL_SHARES_RATIO": 70.21469792,
+      "ALL_SHARES_RATIO": 70.21469792
     }
   ],
   "jjcg": [

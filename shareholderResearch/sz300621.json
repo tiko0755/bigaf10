@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 8.11,
       "AVG_HOLD_AMT": 137690.526903345,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 48.65841667,
+      "FREEHOLD_RATIO_TOTAL": 47.48682402
     },
     {
       "SECUCODE": "300621.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300621.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300621.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300621.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300621.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300621.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300621.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "300621.SZ",
       "END_DATE": "2021-11-29 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300621.SZ",
-      "END_DATE": "2021-11-11 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -445,19 +445,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-10-14 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "云南众英集企业管理中心(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10685550,
-      "HOLD_NUM_RATIO": 5.14,
-      "HOLD_CHANGE": "-447000",
-      "CHANGE_RATIO": -4.01525257,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "300621.SZ",
@@ -485,7 +473,7 @@
     {
       "SECUCODE": "300621.SZ",
       "SECURITY_CODE": "300621",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "珠海城市建设集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -498,21 +486,8 @@
     {
       "SECUCODE": "300621.SZ",
       "SECURITY_CODE": "300621",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "云南众英集企业管理中心(有限合伙)",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9053550,
-      "FREE_HOLDNUM_RATIO": 4.470248418186,
-      "HOLD_NUM_CHANGE": "-2079000",
-      "CHANGE_RATIO": -18.67496665
-    },
-    {
-      "SECUCODE": "300621.SZ",
-      "SECURITY_CODE": "300621",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "张汉清",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -524,59 +499,72 @@
     {
       "SECUCODE": "300621.SZ",
       "SECURITY_CODE": "300621",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "深圳君宜私募证券基金管理有限公司-君宜永卿私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 7539911,
       "FREE_HOLDNUM_RATIO": 3.7228794474,
-      "HOLD_NUM_CHANGE": "-2080000",
-      "CHANGE_RATIO": -21.62182166
-    },
-    {
-      "SECUCODE": "300621.SZ",
-      "SECURITY_CODE": "300621",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "李吉祥",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2200000,
-      "FREE_HOLDNUM_RATIO": 1.0862641196,
-      "HOLD_NUM_CHANGE": "13000",
-      "CHANGE_RATIO": 0.59442158
-    },
-    {
-      "SECUCODE": "300621.SZ",
-      "SECURITY_CODE": "300621",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "陈蓉",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2175000,
-      "FREE_HOLDNUM_RATIO": 1.07392020915,
-      "HOLD_NUM_CHANGE": "365000",
-      "CHANGE_RATIO": 20.16574586
-    },
-    {
-      "SECUCODE": "300621.SZ",
-      "SECURITY_CODE": "300621",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "柴长茂",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2080000,
-      "FREE_HOLDNUM_RATIO": 1.02701334944,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300621.SZ",
       "SECURITY_CODE": "300621",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "云南众英集企业管理中心(有限合伙)",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6974550,
+      "FREE_HOLDNUM_RATIO": 3.443728825163,
+      "HOLD_NUM_CHANGE": "-2079000",
+      "CHANGE_RATIO": -22.96336796
+    },
+    {
+      "SECUCODE": "300621.SZ",
+      "SECURITY_CODE": "300621",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2585990,
+      "FREE_HOLDNUM_RATIO": 1.276849159384,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300621.SZ",
+      "SECURITY_CODE": "300621",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "李吉祥",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2200000,
+      "FREE_HOLDNUM_RATIO": 1.0862641196,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300621.SZ",
+      "SECURITY_CODE": "300621",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "陈蓉",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2175000,
+      "FREE_HOLDNUM_RATIO": 1.07392020915,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300621.SZ",
+      "SECURITY_CODE": "300621",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "张汉伟",
       "HOLDER_TYPE": "个人",
@@ -589,26 +577,26 @@
     {
       "SECUCODE": "300621.SZ",
       "SECURITY_CODE": "300621",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1646250,
-      "FREE_HOLDNUM_RATIO": 0.812846503133,
-      "HOLD_NUM_CHANGE": "110750",
-      "CHANGE_RATIO": 7.21263432
-    },
-    {
-      "SECUCODE": "300621.SZ",
-      "SECURITY_CODE": "300621",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "陈珂",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1557000,
       "FREE_HOLDNUM_RATIO": 0.768778742826,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300621.SZ",
+      "SECURITY_CODE": "300621",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "李斌",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1404200,
+      "FREE_HOLDNUM_RATIO": 0.693332762156,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -617,20 +605,20 @@
     {
       "SECUCODE": "300621.SZ",
       "SECURITY_CODE": "300621",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 97989656,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 96174596,
       "LIMITED_SHARES": 5527687,
-      "OTHER_UNLIMITED_SHARES": 104539357,
-      "HOLD_NUM_RATIO": 47.1,
+      "OTHER_UNLIMITED_SHARES": 106354417,
+      "HOLD_NUM_RATIO": 46.23,
       "LIMITED_SHARES_RATIO": 2.66,
-      "UNLIMITED_SHARES_RATIO": 50.25
+      "UNLIMITED_SHARES_RATIO": 51.12
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300621.SZ",
       "SECURITY_CODE": "300621",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "珠海城市建设集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,20 +630,8 @@
     {
       "SECUCODE": "300621.SZ",
       "SECURITY_CODE": "300621",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "云南众英集企业管理中心(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9053550,
-      "HOLD_NUM_RATIO": 4.35,
-      "HOLD_NUM_CHANGE": "-1632000",
-      "CHANGE_RATIO": -15.27296208
-    },
-    {
-      "SECUCODE": "300621.SZ",
-      "SECURITY_CODE": "300621",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "张汉清",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 7638856,
@@ -666,19 +642,31 @@
     {
       "SECUCODE": "300621.SZ",
       "SECURITY_CODE": "300621",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "深圳君宜私募证券基金管理有限公司-君宜永卿私募证券投资基金",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 7539911,
       "HOLD_NUM_RATIO": 3.62,
-      "HOLD_NUM_CHANGE": "-2080000",
-      "CHANGE_RATIO": -21.62182166
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300621.SZ",
       "SECURITY_CODE": "300621",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "云南众英集企业管理中心(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6974550,
+      "HOLD_NUM_RATIO": 3.35,
+      "HOLD_NUM_CHANGE": "-2079000",
+      "CHANGE_RATIO": -22.96336796
+    },
+    {
+      "SECUCODE": "300621.SZ",
+      "SECURITY_CODE": "300621",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "张汉伟",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -690,60 +678,60 @@
     {
       "SECUCODE": "300621.SZ",
       "SECURITY_CODE": "300621",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2585990,
+      "HOLD_NUM_RATIO": 1.24,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300621.SZ",
+      "SECURITY_CODE": "300621",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "李吉祥",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2200000,
       "HOLD_NUM_RATIO": 1.06,
-      "HOLD_NUM_CHANGE": "13000",
-      "CHANGE_RATIO": 0.59442158
-    },
-    {
-      "SECUCODE": "300621.SZ",
-      "SECURITY_CODE": "300621",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "陈蓉",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2175000,
-      "HOLD_NUM_RATIO": 1.05,
-      "HOLD_NUM_CHANGE": "365000",
-      "CHANGE_RATIO": 20.16574586
-    },
-    {
-      "SECUCODE": "300621.SZ",
-      "SECURITY_CODE": "300621",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "柴长茂",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2080000,
-      "HOLD_NUM_RATIO": 1,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300621.SZ",
       "SECURITY_CODE": "300621",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "陈蓉",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1646250,
-      "HOLD_NUM_RATIO": 0.79,
-      "HOLD_NUM_CHANGE": "110750",
-      "CHANGE_RATIO": 7.21263432
+      "HOLD_NUM": 2175000,
+      "HOLD_NUM_RATIO": 1.05,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300621.SZ",
       "SECURITY_CODE": "300621",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "陈珂",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1557000,
       "HOLD_NUM_RATIO": 0.75,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300621.SZ",
+      "SECURITY_CODE": "300621",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "李斌",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1404200,
+      "HOLD_NUM_RATIO": 0.67,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -754,10 +742,10 @@
       "SECURITY_CODE": "300621",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 29300,
-      "TOTAL_SHARES_RATIO": 0.01446706,
-      "ALL_SHARES_RATIO": 0.0140827
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 79541340,
+      "TOTAL_SHARES_RATIO": 39.27404713,
+      "ALL_SHARES_RATIO": 38.23060733
     },
     {
       "SECUCODE": "300621.SZ",
@@ -768,6 +756,26 @@
       "TOTAL_FREE_SHARES": 29300,
       "TOTAL_SHARES_RATIO": 0.01446706,
       "ALL_SHARES_RATIO": 0.0140827
+    },
+    {
+      "SECUCODE": "300621.SZ",
+      "SECURITY_CODE": "300621",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 2585990,
+      "TOTAL_SHARES_RATIO": 1.27684916,
+      "ALL_SHARES_RATIO": 1.24292561
+    },
+    {
+      "SECUCODE": "300621.SZ",
+      "SECURITY_CODE": "300621",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 76926050,
+      "TOTAL_SHARES_RATIO": 37.98273091,
+      "ALL_SHARES_RATIO": 36.97359902
     }
   ],
   "jjcg": [
