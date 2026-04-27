@@ -25,8 +25,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 66.04,
       "AVG_HOLD_AMT": 268957.937864711,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 35.7778173,
+      "FREEHOLD_RATIO_TOTAL": 35.78261056
     },
     {
       "SECUCODE": "002049.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002049.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002049.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002049.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002049.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002049.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002049.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002049.SZ",
       "END_DATE": "2016-06-16 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "002049.SZ",
-      "END_DATE": "2016-04-07 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -445,63 +445,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-12-29 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 27907676,
-      "HOLD_NUM_RATIO": 3.28,
-      "HOLD_CHANGE": "-5976672",
-      "CHANGE_RATIO": -17.63844475,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-29 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11291000,
-      "HOLD_NUM_RATIO": 1.33,
-      "HOLD_CHANGE": "-336471",
-      "CHANGE_RATIO": -2.8937591,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-29 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国建设银行股份有限公司-华夏国证半导体芯片交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8161014,
-      "HOLD_NUM_RATIO": 0.96,
-      "HOLD_CHANGE": "-185633",
-      "CHANGE_RATIO": -2.22404278,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-29 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国建设银行股份有限公司-易方达沪深300交易型开放式指数发起式证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8032209,
-      "HOLD_NUM_RATIO": 0.95,
-      "HOLD_CHANGE": "-332400",
-      "CHANGE_RATIO": -3.97388569,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-29 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国工商银行股份有限公司-华夏沪深300交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6113802,
-      "HOLD_NUM_RATIO": 0.72,
-      "HOLD_CHANGE": "-128500",
-      "CHANGE_RATIO": -2.05853546,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "002049.SZ",
@@ -529,152 +473,152 @@
     {
       "SECUCODE": "002049.SZ",
       "SECURITY_CODE": "002049",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "西藏紫光春华科技有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 220901326,
-      "FREE_HOLDNUM_RATIO": 26.004516174507,
+      "FREE_HOLDNUM_RATIO": 26.003244347289,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002049.SZ",
       "SECURITY_CODE": "002049",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 27907676,
-      "FREE_HOLDNUM_RATIO": 3.285293144573,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 25345332,
+      "FREE_HOLDNUM_RATIO": 2.983507944444,
+      "HOLD_NUM_CHANGE": "-2562344",
+      "CHANGE_RATIO": -9.18150261
     },
     {
       "SECUCODE": "002049.SZ",
       "SECURITY_CODE": "002049",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "杨荣生",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 20940892,
-      "FREE_HOLDNUM_RATIO": 2.465162951184,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 21201492,
+      "FREE_HOLDNUM_RATIO": 2.49571873101,
+      "HOLD_NUM_CHANGE": "260600",
+      "CHANGE_RATIO": 1.24445511
     },
     {
       "SECUCODE": "002049.SZ",
       "SECURITY_CODE": "002049",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11291000,
-      "FREE_HOLDNUM_RATIO": 1.329177137336,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002049.SZ",
-      "SECURITY_CODE": "002049",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国建设银行股份有限公司-华夏国证半导体芯片交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8105214,
-      "FREE_HOLDNUM_RATIO": 0.954146235233,
-      "HOLD_NUM_CHANGE": "-55800",
-      "CHANGE_RATIO": -0.68373856
+      "HOLD_NUM": 7931252,
+      "FREE_HOLDNUM_RATIO": 0.933621755335,
+      "HOLD_NUM_CHANGE": "-173962",
+      "CHANGE_RATIO": -2.14629743
     },
     {
       "SECUCODE": "002049.SZ",
       "SECURITY_CODE": "002049",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国建设银行股份有限公司-易方达沪深300交易型开放式指数发起式证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8032209,
-      "FREE_HOLDNUM_RATIO": 0.945552082641,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002049.SZ",
-      "SECURITY_CODE": "002049",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "共青城清晶微投资管理合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 7323303,
-      "FREE_HOLDNUM_RATIO": 0.862099629562,
+      "FREE_HOLDNUM_RATIO": 0.862057466048,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002049.SZ",
       "SECURITY_CODE": "002049",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5474900,
+      "FREE_HOLDNUM_RATIO": 0.644474005905,
+      "HOLD_NUM_CHANGE": "-5816100",
+      "CHANGE_RATIO": -51.51093792
+    },
+    {
+      "SECUCODE": "002049.SZ",
+      "SECURITY_CODE": "002049",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "韩军",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4981159,
+      "FREE_HOLDNUM_RATIO": 0.586353631076,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002049.SZ",
+      "SECURITY_CODE": "002049",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国工商银行股份有限公司-华夏沪深300交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "国泰海通证券股份有限公司-国联安中证全指半导体产品与设备交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6113802,
-      "FREE_HOLDNUM_RATIO": 0.719717105712,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 4323285,
+      "FREE_HOLDNUM_RATIO": 0.5089124555,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002049.SZ",
       "SECURITY_CODE": "002049",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国银行股份有限公司-嘉实沪深300交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "中国建设银行股份有限公司-易方达沪深300交易型开放式指数发起式证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5249921,
-      "FREE_HOLDNUM_RATIO": 0.61802098716,
-      "HOLD_NUM_CHANGE": "900",
-      "CHANGE_RATIO": 0.01714605
+      "HOLD_NUM": 3806409,
+      "FREE_HOLDNUM_RATIO": 0.448068760405,
+      "HOLD_NUM_CHANGE": "-4225800",
+      "CHANGE_RATIO": -52.61068281
     },
     {
       "SECUCODE": "002049.SZ",
       "SECURITY_CODE": "002049",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "全国社保基金一一三组合",
-      "HOLDER_TYPE": "全国社保基金",
+      "HOLDER_NAME": "王春江",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5000081,
-      "FREE_HOLDNUM_RATIO": 0.5886098087,
-      "HOLD_NUM_CHANGE": "-6072920",
-      "CHANGE_RATIO": -54.84439133
+      "HOLD_NUM": 2690000,
+      "FREE_HOLDNUM_RATIO": 0.316651459549,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "002049.SZ",
       "SECURITY_CODE": "002049",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 320865424,
-      "LIMITED_SHARES": 151725,
-      "OTHER_UNLIMITED_SHARES": 528607508,
-      "HOLD_NUM_RATIO": 37.77,
-      "LIMITED_SHARES_RATIO": 0.02,
-      "UNLIMITED_SHARES_RATIO": 62.22
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 303978458,
+      "LIMITED_SHARES": 113812,
+      "OTHER_UNLIMITED_SHARES": 545536022,
+      "HOLD_NUM_RATIO": 35.78,
+      "LIMITED_SHARES_RATIO": 0.01,
+      "UNLIMITED_SHARES_RATIO": 64.21
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002049.SZ",
       "SECURITY_CODE": "002049",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "西藏紫光春华科技有限公司",
       "SHARES_TYPE": "流通A股",
@@ -686,68 +630,44 @@
     {
       "SECUCODE": "002049.SZ",
       "SECURITY_CODE": "002049",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 27907676,
-      "HOLD_NUM_RATIO": 3.28,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 25345332,
+      "HOLD_NUM_RATIO": 2.98,
+      "HOLD_NUM_CHANGE": "-2562344",
+      "CHANGE_RATIO": -9.18150261
     },
     {
       "SECUCODE": "002049.SZ",
       "SECURITY_CODE": "002049",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "杨荣生",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 20940892,
-      "HOLD_NUM_RATIO": 2.46,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 21201492,
+      "HOLD_NUM_RATIO": 2.5,
+      "HOLD_NUM_CHANGE": "260600",
+      "CHANGE_RATIO": 1.24445511
     },
     {
       "SECUCODE": "002049.SZ",
       "SECURITY_CODE": "002049",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11291000,
-      "HOLD_NUM_RATIO": 1.33,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002049.SZ",
-      "SECURITY_CODE": "002049",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国建设银行股份有限公司-华夏国证半导体芯片交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8105214,
-      "HOLD_NUM_RATIO": 0.95,
-      "HOLD_NUM_CHANGE": "-55800",
-      "CHANGE_RATIO": -0.68373856
+      "HOLD_NUM": 7931252,
+      "HOLD_NUM_RATIO": 0.93,
+      "HOLD_NUM_CHANGE": "-173962",
+      "CHANGE_RATIO": -2.14629743
     },
     {
       "SECUCODE": "002049.SZ",
       "SECURITY_CODE": "002049",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国建设银行股份有限公司-易方达沪深300交易型开放式指数发起式证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8032209,
-      "HOLD_NUM_RATIO": 0.95,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002049.SZ",
-      "SECURITY_CODE": "002049",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "共青城清晶微投资管理合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 7323303,
@@ -758,38 +678,62 @@
     {
       "SECUCODE": "002049.SZ",
       "SECURITY_CODE": "002049",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国工商银行股份有限公司-华夏沪深300交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6113802,
-      "HOLD_NUM_RATIO": 0.72,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 5474900,
+      "HOLD_NUM_RATIO": 0.64,
+      "HOLD_NUM_CHANGE": "-5816100",
+      "CHANGE_RATIO": -51.51093792
+    },
+    {
+      "SECUCODE": "002049.SZ",
+      "SECURITY_CODE": "002049",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "韩军",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4981159,
+      "HOLD_NUM_RATIO": 0.59,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002049.SZ",
       "SECURITY_CODE": "002049",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国银行股份有限公司-嘉实沪深300交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "国泰海通证券股份有限公司-国联安中证全指半导体产品与设备交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5249921,
-      "HOLD_NUM_RATIO": 0.62,
-      "HOLD_NUM_CHANGE": "900",
-      "CHANGE_RATIO": 0.01714605
+      "HOLD_NUM": 4323285,
+      "HOLD_NUM_RATIO": 0.51,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002049.SZ",
       "SECURITY_CODE": "002049",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "全国社保基金一一三组合",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国建设银行股份有限公司-易方达沪深300交易型开放式指数发起式证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5000081,
-      "HOLD_NUM_RATIO": 0.59,
-      "HOLD_NUM_CHANGE": "-6072920",
-      "CHANGE_RATIO": -54.84439133
+      "HOLD_NUM": 3806409,
+      "HOLD_NUM_RATIO": 0.45,
+      "HOLD_NUM_CHANGE": "-4225800",
+      "CHANGE_RATIO": -52.61068281
+    },
+    {
+      "SECUCODE": "002049.SZ",
+      "SECURITY_CODE": "002049",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "王春江",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2690000,
+      "HOLD_NUM_RATIO": 0.32,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
@@ -798,23 +742,101 @@
       "SECURITY_CODE": "002049",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 22,
-      "TOTAL_FREE_SHARES": 3906645,
-      "TOTAL_SHARES_RATIO": 0.45986796,
-      "ALL_SHARES_RATIO": 0.45980636
+      "TOTAL_ORG_NUM": 29,
+      "TOTAL_FREE_SHARES": 279012452,
+      "TOTAL_SHARES_RATIO": 32.84375471,
+      "ALL_SHARES_RATIO": 32.83935511
     },
     {
       "SECUCODE": "002049.SZ",
       "SECURITY_CODE": "002049",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 22,
-      "TOTAL_FREE_SHARES": 3906645,
-      "TOTAL_SHARES_RATIO": 0.45986796,
-      "ALL_SHARES_RATIO": 0.45980636
+      "TOTAL_ORG_NUM": 26,
+      "TOTAL_FREE_SHARES": 25442491,
+      "TOTAL_SHARES_RATIO": 2.99494495,
+      "ALL_SHARES_RATIO": 2.99454375
+    },
+    {
+      "SECUCODE": "002049.SZ",
+      "SECURITY_CODE": "002049",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 253569961,
+      "TOTAL_SHARES_RATIO": 29.84880976,
+      "ALL_SHARES_RATIO": 29.84481136
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002049.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "159995",
+      "HOLDER_NAME": "华夏国证半导体芯片ETF",
+      "TOTAL_SHARES": 7931252,
+      "HOLD_VALUE": 523779882.08,
+      "TOTALSHARES_RATIO": 0.93349669,
+      "FREESHARES_RATIO": 0.93362176,
+      "FREE_MARKET_CAP": 523779882.08,
+      "FREE_SHARES": 7931252,
+      "SECURITY_CODE": "002049",
+      "FUND_CODE": "159995",
+      "FUND_DERIVECODE": "159995.SZ",
+      "NETVALUE_RATIO": 2.29
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002049.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "510300",
+      "HOLDER_NAME": "华泰柏瑞沪深300ETF",
+      "TOTAL_SHARES": 5474900,
+      "HOLD_VALUE": 361562396,
+      "TOTALSHARES_RATIO": 0.64438768,
+      "FREESHARES_RATIO": 0.64447401,
+      "FREE_MARKET_CAP": 361562396,
+      "FREE_SHARES": 5474900,
+      "SECURITY_CODE": "002049",
+      "FUND_CODE": "510300",
+      "FUND_DERIVECODE": "510300.SH",
+      "NETVALUE_RATIO": 0.18
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002049.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "512480",
+      "HOLDER_NAME": "国联安半导体ETF",
+      "TOTAL_SHARES": 4323285,
+      "HOLD_VALUE": 285509741.4,
+      "TOTALSHARES_RATIO": 0.50884428,
+      "FREESHARES_RATIO": 0.50891246,
+      "FREE_MARKET_CAP": 285509741.4,
+      "FREE_SHARES": 4323285,
+      "SECURITY_CODE": "002049",
+      "FUND_CODE": "512480",
+      "FUND_DERIVECODE": "512480.SH",
+      "NETVALUE_RATIO": 1.43
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002049.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "510310",
+      "HOLDER_NAME": "易方达沪深300ETF",
+      "TOTAL_SHARES": 3806409,
+      "HOLD_VALUE": 251375250.36,
+      "TOTALSHARES_RATIO": 0.44800874,
+      "FREESHARES_RATIO": 0.44806876,
+      "FREE_MARKET_CAP": 251375250.36,
+      "FREE_SHARES": 3806409,
+      "SECURITY_CODE": "002049",
+      "FUND_CODE": "510310",
+      "FUND_DERIVECODE": "510310.SH",
+      "NETVALUE_RATIO": 0.18
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "002049.SZ",

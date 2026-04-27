@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 17.8,
       "AVG_HOLD_AMT": 135010.315073614,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 45.28745366,
+      "FREEHOLD_RATIO_TOTAL": 45.07779442
     },
     {
       "SECUCODE": "000070.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000070.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000070.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "000070.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000070.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000070.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000070.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "000070.SZ",
       "END_DATE": "2015-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000070.SZ",
-      "END_DATE": "2015-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "000070.SZ",
       "SECURITY_CODE": "000070",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "深圳市特发集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,21 +486,47 @@
     {
       "SECUCODE": "000070.SZ",
       "SECURITY_CODE": "000070",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11211286,
-      "FREE_HOLDNUM_RATIO": 1.261567772741,
-      "HOLD_NUM_CHANGE": "7244019",
-      "CHANGE_RATIO": 182.59469302
+      "HOLD_NUM": 14891865,
+      "FREE_HOLDNUM_RATIO": 1.675730773438,
+      "HOLD_NUM_CHANGE": "3680579",
+      "CHANGE_RATIO": 32.82923119
     },
     {
       "SECUCODE": "000070.SZ",
       "SECURITY_CODE": "000070",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "中国光大银行股份有限公司-广发远见智选混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 12360920,
+      "FREE_HOLDNUM_RATIO": 1.390932165448,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000070.SZ",
+      "SECURITY_CODE": "000070",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "中信银行股份有限公司-中欧信息科技混合型发起式证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 10196060,
+      "FREE_HOLDNUM_RATIO": 1.14732785382,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000070.SZ",
+      "SECURITY_CODE": "000070",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "汉国三和有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -512,92 +538,66 @@
     {
       "SECUCODE": "000070.SZ",
       "SECURITY_CODE": "000070",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "阿布达比投资局",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4433380,
-      "FREE_HOLDNUM_RATIO": 0.49887312948,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000070.SZ",
-      "SECURITY_CODE": "000070",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "UBS AG",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3371042,
-      "FREE_HOLDNUM_RATIO": 0.379331857894,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 6382651,
+      "FREE_HOLDNUM_RATIO": 0.718217946296,
+      "HOLD_NUM_CHANGE": "3011609",
+      "CHANGE_RATIO": 89.33762914
     },
     {
       "SECUCODE": "000070.SZ",
       "SECURITY_CODE": "000070",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "BARCLAYS BANK PLC",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2904076,
-      "FREE_HOLDNUM_RATIO": 0.326785766699,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000070.SZ",
-      "SECURITY_CODE": "000070",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国国际金融香港资产管理有限公司-CICCFT8(QFII)",
-      "HOLDER_TYPE": "其他理财产品",
+      "HOLDER_NAME": "占小龙",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2104635,
-      "FREE_HOLDNUM_RATIO": 0.236827397801,
+      "HOLD_NUM": 6338800,
+      "FREE_HOLDNUM_RATIO": 0.713283542838,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000070.SZ",
       "SECURITY_CODE": "000070",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "高盛公司有限责任公司",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2010696,
-      "FREE_HOLDNUM_RATIO": 0.22625676255,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 5200119,
+      "FREE_HOLDNUM_RATIO": 0.585151653862,
+      "HOLD_NUM_CHANGE": "3189423",
+      "CHANGE_RATIO": 158.62283508
     },
     {
       "SECUCODE": "000070.SZ",
       "SECURITY_CODE": "000070",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "施林元",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "广发银行股份有限公司-国寿安保策略精选灵活配置混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1887800,
-      "FREE_HOLDNUM_RATIO": 0.212427694859,
+      "HOLD_NUM": 5081900,
+      "FREE_HOLDNUM_RATIO": 0.571848873028,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000070.SZ",
       "SECURITY_CODE": "000070",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "金勇",
+      "HOLDER_NAME": "张晓",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1855000,
-      "FREE_HOLDNUM_RATIO": 0.208736822737,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 4519518,
+      "FREE_HOLDNUM_RATIO": 0.50856594481,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "000070.SZ",
       "SECURITY_CODE": "000070",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 365402908,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 400596826,
       "LIMITED_SHARES": 11665908,
-      "OTHER_UNLIMITED_SHARES": 523275944,
-      "HOLD_NUM_RATIO": 40.58,
+      "OTHER_UNLIMITED_SHARES": 488082026,
+      "HOLD_NUM_RATIO": 44.49,
       "LIMITED_SHARES_RATIO": 1.3,
-      "UNLIMITED_SHARES_RATIO": 58.12
+      "UNLIMITED_SHARES_RATIO": 54.21
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "000070.SZ",
       "SECURITY_CODE": "000070",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "深圳市特发集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,8 +630,32 @@
     {
       "SECUCODE": "000070.SZ",
       "SECURITY_CODE": "000070",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 14891865,
+      "HOLD_NUM_RATIO": 1.65,
+      "HOLD_NUM_CHANGE": "3680579",
+      "CHANGE_RATIO": 32.82923119
+    },
+    {
+      "SECUCODE": "000070.SZ",
+      "SECURITY_CODE": "000070",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "中国光大银行股份有限公司-广发远见智选混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 12360920,
+      "HOLD_NUM_RATIO": 1.37,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000070.SZ",
+      "SECURITY_CODE": "000070",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "陈传荣",
       "SHARES_TYPE": "限售流通A股",
       "HOLD_NUM": 11665908,
@@ -642,20 +666,20 @@
     {
       "SECUCODE": "000070.SZ",
       "SECURITY_CODE": "000070",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "香港中央结算有限公司",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中信银行股份有限公司-中欧信息科技混合型发起式证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11211286,
-      "HOLD_NUM_RATIO": 1.25,
-      "HOLD_NUM_CHANGE": "7244019",
-      "CHANGE_RATIO": 182.59469302
+      "HOLD_NUM": 10196060,
+      "HOLD_NUM_RATIO": 1.13,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000070.SZ",
       "SECURITY_CODE": "000070",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "汉国三和有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 9903504,
@@ -666,72 +690,48 @@
     {
       "SECUCODE": "000070.SZ",
       "SECURITY_CODE": "000070",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "阿布达比投资局",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4433380,
-      "HOLD_NUM_RATIO": 0.49,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000070.SZ",
-      "SECURITY_CODE": "000070",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "UBS AG",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3371042,
-      "HOLD_NUM_RATIO": 0.37,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 6382651,
+      "HOLD_NUM_RATIO": 0.71,
+      "HOLD_NUM_CHANGE": "3011609",
+      "CHANGE_RATIO": 89.33762914
     },
     {
       "SECUCODE": "000070.SZ",
       "SECURITY_CODE": "000070",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "BARCLAYS BANK PLC",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2904076,
-      "HOLD_NUM_RATIO": 0.32,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000070.SZ",
-      "SECURITY_CODE": "000070",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国国际金融香港资产管理有限公司-CICCFT8(QFII)",
+      "HOLDER_NAME": "占小龙",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2104635,
-      "HOLD_NUM_RATIO": 0.23,
+      "HOLD_NUM": 6338800,
+      "HOLD_NUM_RATIO": 0.7,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000070.SZ",
       "SECURITY_CODE": "000070",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "高盛公司有限责任公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2010696,
-      "HOLD_NUM_RATIO": 0.22,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 5200119,
+      "HOLD_NUM_RATIO": 0.58,
+      "HOLD_NUM_CHANGE": "3189423",
+      "CHANGE_RATIO": 158.62283508
     },
     {
       "SECUCODE": "000070.SZ",
       "SECURITY_CODE": "000070",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "施林元",
+      "HOLDER_NAME": "广发银行股份有限公司-国寿安保策略精选灵活配置混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1887800,
-      "HOLD_NUM_RATIO": 0.21,
+      "HOLD_NUM": 5081900,
+      "HOLD_NUM_RATIO": 0.56,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,23 +742,77 @@
       "SECURITY_CODE": "000070",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 6857900,
-      "TOTAL_SHARES_RATIO": 0.77169609,
-      "ALL_SHARES_RATIO": 0.76169712
+      "TOTAL_ORG_NUM": 11,
+      "TOTAL_FREE_SHARES": 391514508,
+      "TOTAL_SHARES_RATIO": 44.05579216,
+      "ALL_SHARES_RATIO": 43.48495437
     },
     {
       "SECUCODE": "000070.SZ",
       "SECURITY_CODE": "000070",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 6857900,
-      "TOTAL_SHARES_RATIO": 0.77169609,
-      "ALL_SHARES_RATIO": 0.76169712
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 29414880,
+      "TOTAL_SHARES_RATIO": 3.30995611,
+      "ALL_SHARES_RATIO": 3.26706851
+    },
+    {
+      "SECUCODE": "000070.SZ",
+      "SECURITY_CODE": "000070",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 11582770,
+      "TOTAL_SHARES_RATIO": 1.3033696,
+      "ALL_SHARES_RATIO": 1.28648163
+    },
+    {
+      "SECUCODE": "000070.SZ",
+      "SECURITY_CODE": "000070",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 350516858,
+      "TOTAL_SHARES_RATIO": 39.44246645,
+      "ALL_SHARES_RATIO": 38.93140423
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "000070.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "016873",
+      "HOLDER_NAME": "广发远见智选混合A",
+      "TOTAL_SHARES": 12360920,
+      "HOLD_VALUE": 220024376,
+      "TOTALSHARES_RATIO": 1.37290964,
+      "FREESHARES_RATIO": 1.39093217,
+      "FREE_MARKET_CAP": 220024376,
+      "FREE_SHARES": 12360920,
+      "SECURITY_CODE": "000070",
+      "FUND_CODE": "016873",
+      "FUND_DERIVECODE": "016873.OF",
+      "NETVALUE_RATIO": 16.53
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "000070.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "023451",
+      "HOLDER_NAME": "中欧信息科技混合发起A",
+      "TOTAL_SHARES": 10196060,
+      "HOLD_VALUE": 181489868,
+      "TOTALSHARES_RATIO": 1.13246175,
+      "FREESHARES_RATIO": 1.14732785,
+      "FREE_MARKET_CAP": 181489868,
+      "FREE_SHARES": 10196060,
+      "SECURITY_CODE": "000070",
+      "FUND_CODE": "023451",
+      "FUND_DERIVECODE": "023451.OF",
+      "NETVALUE_RATIO": 4.59
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "000070.SZ",

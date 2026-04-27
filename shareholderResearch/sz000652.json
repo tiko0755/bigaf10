@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 3.99,
       "AVG_HOLD_AMT": 75741.9542493531,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 39.28682846,
+      "FREEHOLD_RATIO_TOTAL": 39.31111374
     },
     {
       "SECUCODE": "000652.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000652.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000652.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "000652.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000652.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000652.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000652.SZ",
       "END_DATE": "2026-03-27 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "000652.SZ",
       "END_DATE": "2014-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000652.SZ",
-      "END_DATE": "2014-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "000652.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "000652.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "000652.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000652.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [
@@ -485,20 +485,20 @@
     {
       "SECUCODE": "000652.SZ",
       "SECURITY_CODE": "000652",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "天津泰达投资控股(集团)有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 486580511,
-      "FREE_HOLDNUM_RATIO": 33.000537994744,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 457197011,
+      "FREE_HOLDNUM_RATIO": 31.007709909263,
+      "HOLD_NUM_CHANGE": "-29383500",
+      "CHANGE_RATIO": -6.03877454
     },
     {
       "SECUCODE": "000652.SZ",
       "SECURITY_CODE": "000652",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中央汇金资产管理有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -511,34 +511,21 @@
     {
       "SECUCODE": "000652.SZ",
       "SECURITY_CODE": "000652",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "吕强",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "天津市政投资有限公司",
+      "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10851100,
-      "FREE_HOLDNUM_RATIO": 0.735936047046,
+      "HOLD_NUM": 29383500,
+      "FREE_HOLDNUM_RATIO": 1.992828085481,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000652.SZ",
       "SECURITY_CODE": "000652",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8328567,
-      "FREE_HOLDNUM_RATIO": 0.564854500975,
-      "HOLD_NUM_CHANGE": "-1959600",
-      "CHANGE_RATIO": -19.04712472
-    },
-    {
-      "SECUCODE": "000652.SZ",
-      "SECURITY_CODE": "000652",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "张青樊",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -550,7 +537,20 @@
     {
       "SECUCODE": "000652.SZ",
       "SECURITY_CODE": "000652",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7523249,
+      "FREE_HOLDNUM_RATIO": 0.510236762172,
+      "HOLD_NUM_CHANGE": "-805318",
+      "CHANGE_RATIO": -9.66934648
+    },
+    {
+      "SECUCODE": "000652.SZ",
+      "SECURITY_CODE": "000652",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "王永红",
       "HOLDER_TYPE": "个人",
@@ -563,20 +563,20 @@
     {
       "SECUCODE": "000652.SZ",
       "SECURITY_CODE": "000652",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "章剑涛",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6724367,
-      "FREE_HOLDNUM_RATIO": 0.456055521455,
-      "HOLD_NUM_CHANGE": "1332700",
-      "CHANGE_RATIO": 24.71777281
+      "HOLD_NUM": 6706367,
+      "FREE_HOLDNUM_RATIO": 0.454834737494,
+      "HOLD_NUM_CHANGE": "-18000",
+      "CHANGE_RATIO": -0.26768319
     },
     {
       "SECUCODE": "000652.SZ",
       "SECURITY_CODE": "000652",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "刘琳莉",
       "HOLDER_TYPE": "个人",
@@ -589,87 +589,185 @@
     {
       "SECUCODE": "000652.SZ",
       "SECURITY_CODE": "000652",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "陈晋源",
+      "HOLDER_NAME": "李锦香",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5963500,
-      "FREE_HOLDNUM_RATIO": 0.404452508645,
-      "HOLD_NUM_CHANGE": "-3487300",
-      "CHANGE_RATIO": -36.89952173
+      "HOLD_NUM": 4365448,
+      "FREE_HOLDNUM_RATIO": 0.296070494669,
+      "HOLD_NUM_CHANGE": "33300",
+      "CHANGE_RATIO": 0.7686718
     },
     {
       "SECUCODE": "000652.SZ",
       "SECURITY_CODE": "000652",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "李锦香",
+      "HOLDER_NAME": "杨利",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4332148,
-      "FREE_HOLDNUM_RATIO": 0.29381204434,
-      "HOLD_NUM_CHANGE": "2600",
-      "CHANGE_RATIO": 0.06005246
+      "HOLD_NUM": 4115400,
+      "FREE_HOLDNUM_RATIO": 0.279111906444,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "000652.SZ",
       "SECURITY_CODE": "000652",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 593116793,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 579627575,
       "LIMITED_SHARES": 1111493,
-      "OTHER_UNLIMITED_SHARES": 881345566,
-      "HOLD_NUM_RATIO": 40.2,
+      "OTHER_UNLIMITED_SHARES": 894834784,
+      "HOLD_NUM_RATIO": 39.28,
       "LIMITED_SHARES_RATIO": 0.08,
-      "UNLIMITED_SHARES_RATIO": 59.73
+      "UNLIMITED_SHARES_RATIO": 60.64
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "000652.SZ",
       "SECURITY_CODE": "000652",
-      "END_DATE": "2026-03-27 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "天津泰达投资控股(集团)有限公司",
       "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 457275604,
       "HOLD_NUM_RATIO": 30.99,
-      "HOLD_NUM_CHANGE": "-29383500",
-      "CHANGE_RATIO": -6.03779931
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000652.SZ",
+      "SECURITY_CODE": "000652",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "中央汇金资产管理有限责任公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 48953000,
+      "HOLD_NUM_RATIO": 3.32,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000652.SZ",
+      "SECURITY_CODE": "000652",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "天津市政投资有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 29383500,
+      "HOLD_NUM_RATIO": 1.99,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000652.SZ",
+      "SECURITY_CODE": "000652",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "张青樊",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7875900,
+      "HOLD_NUM_RATIO": 0.53,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000652.SZ",
+      "SECURITY_CODE": "000652",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7523249,
+      "HOLD_NUM_RATIO": 0.51,
+      "HOLD_NUM_CHANGE": "-805318",
+      "CHANGE_RATIO": -9.66934648
+    },
+    {
+      "SECUCODE": "000652.SZ",
+      "SECURITY_CODE": "000652",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "王永红",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6987100,
+      "HOLD_NUM_RATIO": 0.47,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000652.SZ",
+      "SECURITY_CODE": "000652",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "章剑涛",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6706367,
+      "HOLD_NUM_RATIO": 0.45,
+      "HOLD_NUM_CHANGE": "-18000",
+      "CHANGE_RATIO": -0.26768319
+    },
+    {
+      "SECUCODE": "000652.SZ",
+      "SECURITY_CODE": "000652",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "刘琳莉",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6520600,
+      "HOLD_NUM_RATIO": 0.44,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000652.SZ",
+      "SECURITY_CODE": "000652",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "李锦香",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4365448,
+      "HOLD_NUM_RATIO": 0.3,
+      "HOLD_NUM_CHANGE": "33300",
+      "CHANGE_RATIO": 0.7686718
+    },
+    {
+      "SECUCODE": "000652.SZ",
+      "SECURITY_CODE": "000652",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "杨利",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4115400,
+      "HOLD_NUM_RATIO": 0.28,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "000652.SZ",
       "SECURITY_CODE": "000652",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 15,
-      "TOTAL_FREE_SHARES": 544209171,
-      "TOTAL_SHARES_RATIO": 36.90366015,
-      "ALL_SHARES_RATIO": 36.87586204
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 543135353,
+      "TOTAL_SHARES_RATIO": 36.83083239,
+      "ALL_SHARES_RATIO": 36.80308912
     },
     {
       "SECUCODE": "000652.SZ",
       "SECURITY_CODE": "000652",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 12,
-      "TOTAL_FREE_SHARES": 268500,
-      "TOTAL_SHARES_RATIO": 0.01821003,
-      "ALL_SHARES_RATIO": 0.01819631
-    },
-    {
-      "SECUCODE": "000652.SZ",
-      "SECURITY_CODE": "000652",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 543940671,
-      "TOTAL_SHARES_RATIO": 36.88545012,
-      "ALL_SHARES_RATIO": 36.85766573
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 543135353,
+      "TOTAL_SHARES_RATIO": 36.83083239,
+      "ALL_SHARES_RATIO": 36.80308912
     }
   ],
   "jjcg": [

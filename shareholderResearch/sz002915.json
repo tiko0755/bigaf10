@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 20.36,
       "AVG_HOLD_AMT": 103240.379239936,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 45.68866483,
+      "FREEHOLD_RATIO_TOTAL": 42.39784951
     },
     {
       "SECUCODE": "002915.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002915.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002915.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002915.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002915.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002915.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002915.SZ",
       "END_DATE": "2026-03-03 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002915.SZ",
       "END_DATE": "2020-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002915.SZ",
-      "END_DATE": "2019-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "002915.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "002915.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,36 +443,9 @@
     {
       "SECUCODE": "002915.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002915.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-12-30 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "陈寅镐",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 16302100,
-      "HOLD_NUM_RATIO": 5.01,
-      "HOLD_CHANGE": "1000",
-      "CHANGE_RATIO": 0.00613456,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-20 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "绍兴中玮投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 19623586,
-      "HOLD_NUM_RATIO": 6.0293,
-      "HOLD_CHANGE": "-1780900",
-      "CHANGE_RATIO": -8.32021848,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "002915.SZ",
@@ -506,7 +483,7 @@
     {
       "SECUCODE": "002915.SZ",
       "SECURITY_CODE": "002915",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "浙江白云伟业控股集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -519,20 +496,20 @@
     {
       "SECUCODE": "002915.SZ",
       "SECURITY_CODE": "002915",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "绍兴中玮投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 19623586,
       "FREE_HOLDNUM_RATIO": 6.811991878826,
-      "HOLD_NUM_CHANGE": "-1780900",
-      "CHANGE_RATIO": -8.32021848
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002915.SZ",
       "SECURITY_CODE": "002915",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "高宝矿业有限公司",
       "HOLDER_TYPE": "其它",
@@ -545,7 +522,7 @@
     {
       "SECUCODE": "002915.SZ",
       "SECURITY_CODE": "002915",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "曹国路",
       "HOLDER_TYPE": "个人",
@@ -558,8 +535,21 @@
     {
       "SECUCODE": "002915.SZ",
       "SECURITY_CODE": "002915",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "陈寅镐",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4076275,
+      "FREE_HOLDNUM_RATIO": 1.415009071016,
+      "HOLD_NUM_CHANGE": "2455500",
+      "CHANGE_RATIO": 151.50159646
+    },
+    {
+      "SECUCODE": "002915.SZ",
+      "SECURITY_CODE": "002915",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "王大为",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -571,8 +561,8 @@
     {
       "SECUCODE": "002915.SZ",
       "SECURITY_CODE": "002915",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "王超",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -584,8 +574,8 @@
     {
       "SECUCODE": "002915.SZ",
       "SECURITY_CODE": "002915",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "徐建国",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -597,61 +587,48 @@
     {
       "SECUCODE": "002915.SZ",
       "SECURITY_CODE": "002915",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "陈寅镐",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1620775,
-      "FREE_HOLDNUM_RATIO": 0.562624289842,
-      "HOLD_NUM_CHANGE": "250",
-      "CHANGE_RATIO": 0.0154271
-    },
-    {
-      "SECUCODE": "002915.SZ",
-      "SECURITY_CODE": "002915",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "招商银行股份有限公司-鹏华碳中和主题混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "UBS AG",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1278200,
-      "FREE_HOLDNUM_RATIO": 0.443705244267,
+      "HOLD_NUM": 1372855,
+      "FREE_HOLDNUM_RATIO": 0.476563106805,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002915.SZ",
       "SECURITY_CODE": "002915",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1270947,
-      "FREE_HOLDNUM_RATIO": 0.441187489505,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1326414,
+      "FREE_HOLDNUM_RATIO": 0.460441908832,
+      "HOLD_NUM_CHANGE": "55467",
+      "CHANGE_RATIO": 4.36422605
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "002915.SZ",
       "SECURITY_CODE": "002915",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 119531612,
-      "LIMITED_SHARES": 37394250,
-      "OTHER_UNLIMITED_SHARES": 168542513,
-      "HOLD_NUM_RATIO": 36.73,
-      "LIMITED_SHARES_RATIO": 11.49,
-      "UNLIMITED_SHARES_RATIO": 51.78
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 122137234,
+      "LIMITED_SHARES": 47199205,
+      "OTHER_UNLIMITED_SHARES": 165936891,
+      "HOLD_NUM_RATIO": 36.43,
+      "LIMITED_SHARES_RATIO": 14.08,
+      "UNLIMITED_SHARES_RATIO": 49.49
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002915.SZ",
       "SECURITY_CODE": "002915",
-      "END_DATE": "2026-03-03 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "浙江白云伟业控股集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -663,7 +640,7 @@
     {
       "SECUCODE": "002915.SZ",
       "SECURITY_CODE": "002915",
-      "END_DATE": "2026-03-03 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "绍兴中玮投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -675,7 +652,7 @@
     {
       "SECUCODE": "002915.SZ",
       "SECURITY_CODE": "002915",
-      "END_DATE": "2026-03-03 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "陈寅镐",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -687,7 +664,7 @@
     {
       "SECUCODE": "002915.SZ",
       "SECURITY_CODE": "002915",
-      "END_DATE": "2026-03-03 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "高宝矿业有限公司",
       "SHARES_TYPE": "流通A股",
@@ -699,7 +676,7 @@
     {
       "SECUCODE": "002915.SZ",
       "SECURITY_CODE": "002915",
-      "END_DATE": "2026-03-03 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "王超",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -711,7 +688,7 @@
     {
       "SECUCODE": "002915.SZ",
       "SECURITY_CODE": "002915",
-      "END_DATE": "2026-03-03 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "徐建国",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -723,7 +700,7 @@
     {
       "SECUCODE": "002915.SZ",
       "SECURITY_CODE": "002915",
-      "END_DATE": "2026-03-03 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "曹国路",
       "SHARES_TYPE": "流通A股",
@@ -735,7 +712,7 @@
     {
       "SECUCODE": "002915.SZ",
       "SECURITY_CODE": "002915",
-      "END_DATE": "2026-03-03 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "王大为",
       "SHARES_TYPE": "流通A股",
@@ -747,24 +724,24 @@
     {
       "SECUCODE": "002915.SZ",
       "SECURITY_CODE": "002915",
-      "END_DATE": "2026-03-03 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "财通基金管理有限公司",
-      "SHARES_TYPE": "限售流通A股",
-      "HOLD_NUM": 2783342,
-      "HOLD_NUM_RATIO": 0.83,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLDER_NAME": "俞伟樑",
+      "SHARES_TYPE": "流通A股,限售流通A股",
+      "HOLD_NUM": 2730000,
+      "HOLD_NUM_RATIO": 0.81,
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002915.SZ",
       "SECURITY_CODE": "002915",
-      "END_DATE": "2026-03-03 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "俞伟樑",
+      "HOLDER_NAME": "袁其亮",
       "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 2730000,
-      "HOLD_NUM_RATIO": 0.81,
+      "HOLD_NUM": 1527693,
+      "HOLD_NUM_RATIO": 0.46,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
@@ -773,32 +750,32 @@
     {
       "SECUCODE": "002915.SZ",
       "SECURITY_CODE": "002915",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 24,
-      "TOTAL_FREE_SHARES": 103947201,
-      "TOTAL_SHARES_RATIO": 36.08349099,
-      "ALL_SHARES_RATIO": 31.93772695
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 103589638,
+      "TOTAL_SHARES_RATIO": 35.95936914,
+      "ALL_SHARES_RATIO": 30.89707076
     },
     {
       "SECUCODE": "002915.SZ",
       "SECURITY_CODE": "002915",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 20,
-      "TOTAL_FREE_SHARES": 1785885,
-      "TOTAL_SHARES_RATIO": 0.61993938,
-      "ALL_SHARES_RATIO": 0.54871227
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 1372855,
+      "TOTAL_SHARES_RATIO": 0.47656311,
+      "ALL_SHARES_RATIO": 0.40947337
     },
     {
       "SECUCODE": "002915.SZ",
       "SECURITY_CODE": "002915",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 102161316,
-      "TOTAL_SHARES_RATIO": 35.46355161,
-      "ALL_SHARES_RATIO": 31.38901468
+      "TOTAL_FREE_SHARES": 102216783,
+      "TOTAL_SHARES_RATIO": 35.48280603,
+      "ALL_SHARES_RATIO": 30.48759739
     }
   ],
   "jjcg": [

@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 25.4,
       "AVG_HOLD_AMT": 131222.694334685,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 42.75547057,
+      "FREEHOLD_RATIO_TOTAL": 22.83028166
     },
     {
       "SECUCODE": "301041.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "301041.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "301041.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "301041.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301041.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "301041.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "301041.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "301041.SZ",
       "END_DATE": "2004-11-30 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "301041.SZ",
-      "END_DATE": "2003-10-31 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "301041.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "301041.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,14 +443,14 @@
     {
       "SECUCODE": "301041.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301041.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
   "jjcg_date": [
+    {
+      "SECUCODE": "301041.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "301041.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -462,10 +466,6 @@
     {
       "SECUCODE": "301041.SZ",
       "REPORT_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301041.SZ",
-      "REPORT_DATE": "2024-06-30 00:00:00"
     }
   ],
   "xsjj": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "301041.SZ",
       "SECURITY_CODE": "301041",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "武守坤",
       "HOLDER_TYPE": "个人",
@@ -486,20 +486,20 @@
     {
       "SECUCODE": "301041.SZ",
       "SECURITY_CODE": "301041",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "张伟",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3715200,
-      "FREE_HOLDNUM_RATIO": 4.704496055679,
-      "HOLD_NUM_CHANGE": "-250000",
-      "CHANGE_RATIO": -6.30485221
+      "HOLD_NUM": 2648400,
+      "FREE_HOLDNUM_RATIO": 3.353624933748,
+      "HOLD_NUM_CHANGE": "-1066800",
+      "CHANGE_RATIO": -28.71447028
     },
     {
       "SECUCODE": "301041.SZ",
       "SECURITY_CODE": "301041",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "陈家夫",
       "HOLDER_TYPE": "个人",
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "301041.SZ",
       "SECURITY_CODE": "301041",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "傅阿庭",
       "HOLDER_TYPE": "个人",
@@ -525,47 +525,73 @@
     {
       "SECUCODE": "301041.SZ",
       "SECURITY_CODE": "301041",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "深圳光影资本管理有限公司-光影丰赟5号私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 919600,
-      "FREE_HOLDNUM_RATIO": 1.164474206719,
-      "HOLD_NUM_CHANGE": "-473500",
-      "CHANGE_RATIO": -33.98894552
-    },
-    {
-      "SECUCODE": "301041.SZ",
-      "SECURITY_CODE": "301041",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "武守永",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 850000,
-      "FREE_HOLDNUM_RATIO": 1.076340882679,
-      "HOLD_NUM_CHANGE": "-1050000",
-      "CHANGE_RATIO": -55.26315789
-    },
-    {
-      "SECUCODE": "301041.SZ",
-      "SECURITY_CODE": "301041",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "梁东",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 838800,
-      "FREE_HOLDNUM_RATIO": 1.062158508695,
+      "HOLD_NUM": 1095600,
+      "FREE_HOLDNUM_RATIO": 1.387340083603,
+      "HOLD_NUM_CHANGE": "256800",
+      "CHANGE_RATIO": 30.61516452
+    },
+    {
+      "SECUCODE": "301041.SZ",
+      "SECURITY_CODE": "301041",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "广发证券股份有限公司-博道成长智航股票型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 743600,
+      "FREE_HOLDNUM_RATIO": 0.941608329835,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301041.SZ",
       "SECURITY_CODE": "301041",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "傅君卿",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 568300,
+      "FREE_HOLDNUM_RATIO": 0.719628851325,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301041.SZ",
+      "SECURITY_CODE": "301041",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "李丰新",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 529000,
+      "FREE_HOLDNUM_RATIO": 0.669863914043,
+      "HOLD_NUM_CHANGE": "90000",
+      "CHANGE_RATIO": 20.50113895
+    },
+    {
+      "SECUCODE": "301041.SZ",
+      "SECURITY_CODE": "301041",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "赵彦",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 523300,
+      "FREE_HOLDNUM_RATIO": 0.662646098713,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301041.SZ",
+      "SECURITY_CODE": "301041",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "胡银平",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -573,52 +599,26 @@
       "FREE_HOLDNUM_RATIO": 0.621998401849,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301041.SZ",
-      "SECURITY_CODE": "301041",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "李丰新",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 439000,
-      "FREE_HOLDNUM_RATIO": 0.555898408819,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301041.SZ",
-      "SECURITY_CODE": "301041",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "吴伟林",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 431500,
-      "FREE_HOLDNUM_RATIO": 0.546401283383,
-      "HOLD_NUM_CHANGE": "-10000",
-      "CHANGE_RATIO": -2.26500566
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "301041.SZ",
       "SECURITY_CODE": "301041",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 19115262,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 18029362,
       "LIMITED_SHARES": 27708736,
-      "OTHER_UNLIMITED_SHARES": 59856002,
-      "HOLD_NUM_RATIO": 17.92,
+      "OTHER_UNLIMITED_SHARES": 60941902,
+      "HOLD_NUM_RATIO": 16.9,
       "LIMITED_SHARES_RATIO": 25.97,
-      "UNLIMITED_SHARES_RATIO": 56.11
+      "UNLIMITED_SHARES_RATIO": 57.13
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "301041.SZ",
       "SECURITY_CODE": "301041",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "武守坤",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -630,19 +630,19 @@
     {
       "SECUCODE": "301041.SZ",
       "SECURITY_CODE": "301041",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "张伟",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3715200,
-      "HOLD_NUM_RATIO": 3.48,
-      "HOLD_NUM_CHANGE": "-250000",
-      "CHANGE_RATIO": -6.30485221
+      "HOLD_NUM": 2648400,
+      "HOLD_NUM_RATIO": 2.48,
+      "HOLD_NUM_CHANGE": "-1066800",
+      "CHANGE_RATIO": -28.71447028
     },
     {
       "SECUCODE": "301041.SZ",
       "SECURITY_CODE": "301041",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "陈家夫",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "301041.SZ",
       "SECURITY_CODE": "301041",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "傅阿庭",
       "SHARES_TYPE": "流通A股",
@@ -666,397 +666,115 @@
     {
       "SECUCODE": "301041.SZ",
       "SECURITY_CODE": "301041",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "深圳光影资本管理有限公司-光影丰赟5号私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 919600,
-      "HOLD_NUM_RATIO": 0.86,
-      "HOLD_NUM_CHANGE": "-473500",
-      "CHANGE_RATIO": -33.98894552
-    },
-    {
-      "SECUCODE": "301041.SZ",
-      "SECURITY_CODE": "301041",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "武守永",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 850000,
-      "HOLD_NUM_RATIO": 0.8,
-      "HOLD_NUM_CHANGE": "-1050000",
-      "CHANGE_RATIO": -55.26315789
-    },
-    {
-      "SECUCODE": "301041.SZ",
-      "SECURITY_CODE": "301041",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "梁东",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 838800,
-      "HOLD_NUM_RATIO": 0.79,
+      "HOLD_NUM": 1095600,
+      "HOLD_NUM_RATIO": 1.03,
+      "HOLD_NUM_CHANGE": "256800",
+      "CHANGE_RATIO": 30.61516452
+    },
+    {
+      "SECUCODE": "301041.SZ",
+      "SECURITY_CODE": "301041",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "广发证券股份有限公司-博道成长智航股票型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 743600,
+      "HOLD_NUM_RATIO": 0.7,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301041.SZ",
       "SECURITY_CODE": "301041",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "傅君卿",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 568300,
+      "HOLD_NUM_RATIO": 0.53,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301041.SZ",
+      "SECURITY_CODE": "301041",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "李丰新",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 529000,
+      "HOLD_NUM_RATIO": 0.5,
+      "HOLD_NUM_CHANGE": "90000",
+      "CHANGE_RATIO": 20.50113895
+    },
+    {
+      "SECUCODE": "301041.SZ",
+      "SECURITY_CODE": "301041",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "赵彦",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 523300,
+      "HOLD_NUM_RATIO": 0.49,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301041.SZ",
+      "SECURITY_CODE": "301041",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "胡银平",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 491200,
       "HOLD_NUM_RATIO": 0.46,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301041.SZ",
-      "SECURITY_CODE": "301041",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "李丰新",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 439000,
-      "HOLD_NUM_RATIO": 0.41,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301041.SZ",
-      "SECURITY_CODE": "301041",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "吴伟林",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 431500,
-      "HOLD_NUM_RATIO": 0.4,
-      "HOLD_NUM_CHANGE": "-10000",
-      "CHANGE_RATIO": -2.26500566
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "301041.SZ",
       "SECURITY_CODE": "301041",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 18,
-      "TOTAL_FREE_SHARES": 1035545,
-      "TOTAL_SHARES_RATIO": 1.31129342,
-      "ALL_SHARES_RATIO": 0.9707021
-    },
-    {
-      "SECUCODE": "301041.SZ",
-      "SECURITY_CODE": "301041",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 17,
-      "TOTAL_FREE_SHARES": 115945,
-      "TOTAL_SHARES_RATIO": 0.14681921,
-      "ALL_SHARES_RATIO": 0.10868485
-    },
-    {
-      "SECUCODE": "301041.SZ",
-      "SECURITY_CODE": "301041",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 919600,
-      "TOTAL_SHARES_RATIO": 1.16447421,
-      "ALL_SHARES_RATIO": 0.86201725
+      "TOTAL_FREE_SHARES": 743600,
+      "TOTAL_SHARES_RATIO": 0.94160833,
+      "ALL_SHARES_RATIO": 0.69703787
+    },
+    {
+      "SECUCODE": "301041.SZ",
+      "SECURITY_CODE": "301041",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "01",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 743600,
+      "TOTAL_SHARES_RATIO": 0.94160833,
+      "ALL_SHARES_RATIO": 0.69703787
     }
   ],
   "jjcg": [
     {
       "ORG_TYPE": "01",
       "SECUCODE": "301041.SZ",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "HOLDER_CODE": "006195",
-      "HOLDER_NAME": "国金量化多因子A",
-      "TOTAL_SHARES": 39900,
-      "HOLD_VALUE": 1085280,
-      "TOTALSHARES_RATIO": 0.03740157,
-      "FREESHARES_RATIO": 0.05052471,
-      "FREE_MARKET_CAP": 1085280,
-      "FREE_SHARES": 39900,
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "013641",
+      "HOLDER_NAME": "博道成长智航股票A",
+      "TOTAL_SHARES": 743600,
+      "HOLD_VALUE": 18887440,
+      "TOTALSHARES_RATIO": 0.69703787,
+      "FREESHARES_RATIO": 0.94160833,
+      "FREE_MARKET_CAP": 18887440,
+      "FREE_SHARES": 743600,
       "SECURITY_CODE": "301041",
-      "FUND_CODE": "006195",
-      "FUND_DERIVECODE": "006195.OF",
-      "NETVALUE_RATIO": 0.02
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "301041.SZ",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "HOLDER_CODE": "015959",
-      "HOLDER_NAME": "太平嘉和三个月定开债券发起式",
-      "TOTAL_SHARES": 22400,
-      "HOLD_VALUE": 609280,
-      "TOTALSHARES_RATIO": 0.02099738,
-      "FREESHARES_RATIO": 0.02836475,
-      "FREE_MARKET_CAP": 609280,
-      "FREE_SHARES": 22400,
-      "SECURITY_CODE": "301041",
-      "FUND_CODE": "015959",
-      "FUND_DERIVECODE": "015959.OF",
-      "NETVALUE_RATIO": 0.01
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "301041.SZ",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "HOLDER_CODE": "014805",
-      "HOLDER_NAME": "国金量化精选A",
-      "TOTAL_SHARES": 18400,
-      "HOLD_VALUE": 500480,
-      "TOTALSHARES_RATIO": 0.01724784,
-      "FREESHARES_RATIO": 0.02329961,
-      "FREE_MARKET_CAP": 500480,
-      "FREE_SHARES": 18400,
-      "SECURITY_CODE": "301041",
-      "FUND_CODE": "014805",
-      "FUND_DERIVECODE": "014805.OF",
-      "NETVALUE_RATIO": 0.01
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "301041.SZ",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "HOLDER_CODE": "021884",
-      "HOLDER_NAME": "太平量化选股混合A",
-      "TOTAL_SHARES": 11800,
-      "HOLD_VALUE": 320960,
-      "TOTALSHARES_RATIO": 0.01106112,
-      "FREESHARES_RATIO": 0.01494214,
-      "FREE_MARKET_CAP": 320960,
-      "FREE_SHARES": 11800,
-      "SECURITY_CODE": "301041",
-      "FUND_CODE": "021884",
-      "FUND_DERIVECODE": "021884.OF",
-      "NETVALUE_RATIO": 0.23
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "301041.SZ",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "HOLDER_CODE": "159531",
-      "HOLDER_NAME": "南方中证2000ETF",
-      "TOTAL_SHARES": 8400,
-      "HOLD_VALUE": 228480,
-      "TOTALSHARES_RATIO": 0.00787402,
-      "FREESHARES_RATIO": 0.01063678,
-      "FREE_MARKET_CAP": 228480,
-      "FREE_SHARES": 8400,
-      "SECURITY_CODE": "301041",
-      "FUND_CODE": "159531",
-      "FUND_DERIVECODE": "159531.SZ",
-      "NETVALUE_RATIO": 0.03
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "301041.SZ",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "HOLDER_CODE": "024126",
-      "HOLDER_NAME": "太平嘉裕债券A",
-      "TOTAL_SHARES": 8000,
-      "HOLD_VALUE": 217600,
-      "TOTALSHARES_RATIO": 0.00749906,
-      "FREESHARES_RATIO": 0.01013027,
-      "FREE_MARKET_CAP": 217600,
-      "FREE_SHARES": 8000,
-      "SECURITY_CODE": "301041",
-      "FUND_CODE": "024126",
-      "FUND_DERIVECODE": "024126.OF",
-      "NETVALUE_RATIO": 0.01
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "301041.SZ",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "HOLDER_CODE": "011367",
-      "HOLDER_NAME": "创金合信群力一年定开混合(MOM)A",
-      "TOTAL_SHARES": 4000,
-      "HOLD_VALUE": 108800,
-      "TOTALSHARES_RATIO": 0.00374953,
-      "FREESHARES_RATIO": 0.00506513,
-      "FREE_MARKET_CAP": 108800,
-      "FREE_SHARES": 4000,
-      "SECURITY_CODE": "301041",
-      "FUND_CODE": "011367",
-      "FUND_DERIVECODE": "011367.OF",
-      "NETVALUE_RATIO": 0.08
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "301041.SZ",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "HOLDER_CODE": "016466",
-      "HOLDER_NAME": "国泰海通量化选股混合发起A",
-      "TOTAL_SHARES": 800,
-      "HOLD_VALUE": 21760,
-      "TOTALSHARES_RATIO": 0.00074991,
-      "FREESHARES_RATIO": 0.00101303,
-      "FREE_MARKET_CAP": 21760,
-      "FREE_SHARES": 800,
-      "SECURITY_CODE": "301041",
-      "FUND_CODE": "016466",
-      "FUND_DERIVECODE": "016466.OF",
-      "NETVALUE_RATIO": 0
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "301041.SZ",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "HOLDER_CODE": "011868",
-      "HOLDER_NAME": "中信建投远见回报A",
-      "TOTAL_SHARES": 700,
-      "HOLD_VALUE": 19040,
-      "TOTALSHARES_RATIO": 0.00065617,
-      "FREESHARES_RATIO": 0.0008864,
-      "FREE_MARKET_CAP": 19040,
-      "FREE_SHARES": 700,
-      "SECURITY_CODE": "301041",
-      "FUND_CODE": "011868",
-      "FUND_DERIVECODE": "011868.OF",
-      "NETVALUE_RATIO": 0
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "301041.SZ",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "HOLDER_CODE": "159289",
-      "HOLDER_NAME": "鹏华创业板综合ETF",
-      "TOTAL_SHARES": 700,
-      "HOLD_VALUE": 19040,
-      "TOTALSHARES_RATIO": 0.00065617,
-      "FREESHARES_RATIO": 0.0008864,
-      "FREE_MARKET_CAP": 19040,
-      "FREE_SHARES": 700,
-      "SECURITY_CODE": "301041",
-      "FUND_CODE": "159289",
-      "FUND_DERIVECODE": "159289.SZ",
-      "NETVALUE_RATIO": 0.02
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "301041.SZ",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "HOLDER_CODE": "025598",
-      "HOLDER_NAME": "国泰海通新锐量化选股混合A",
-      "TOTAL_SHARES": 400,
-      "HOLD_VALUE": 10880,
-      "TOTALSHARES_RATIO": 0.00037495,
-      "FREESHARES_RATIO": 0.00050651,
-      "FREE_MARKET_CAP": 10880,
-      "FREE_SHARES": 400,
-      "SECURITY_CODE": "301041",
-      "FUND_CODE": "025598",
-      "FUND_DERIVECODE": "025598.OF",
-      "NETVALUE_RATIO": 0.06
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "301041.SZ",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "HOLDER_CODE": "015880",
-      "HOLDER_NAME": "中欧小盘成长混合A",
-      "TOTAL_SHARES": 300,
-      "HOLD_VALUE": 8160,
-      "TOTALSHARES_RATIO": 0.00028121,
-      "FREESHARES_RATIO": 0.00037989,
-      "FREE_MARKET_CAP": 8160,
-      "FREE_SHARES": 300,
-      "SECURITY_CODE": "301041",
-      "FUND_CODE": "015880",
-      "FUND_DERIVECODE": "015880.OF",
-      "NETVALUE_RATIO": 0
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "301041.SZ",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "HOLDER_CODE": "006128",
-      "HOLDER_NAME": "银河和美生活混合A",
-      "TOTAL_SHARES": 50,
-      "HOLD_VALUE": 1360,
-      "TOTALSHARES_RATIO": 0.00004687,
-      "FREESHARES_RATIO": 0.00006331,
-      "FREE_MARKET_CAP": 1360,
-      "FREE_SHARES": 50,
-      "SECURITY_CODE": "301041",
-      "FUND_CODE": "006128",
-      "FUND_DERIVECODE": "006128.OF",
-      "NETVALUE_RATIO": 0
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "301041.SZ",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "HOLDER_CODE": "519644",
-      "HOLDER_NAME": "银河智联混合A",
-      "TOTAL_SHARES": 50,
-      "HOLD_VALUE": 1360,
-      "TOTALSHARES_RATIO": 0.00004687,
-      "FREESHARES_RATIO": 0.00006331,
-      "FREE_MARKET_CAP": 1360,
-      "FREE_SHARES": 50,
-      "SECURITY_CODE": "301041",
-      "FUND_CODE": "519644",
-      "FUND_DERIVECODE": "519644.OF",
-      "NETVALUE_RATIO": 0
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "301041.SZ",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "HOLDER_CODE": "002116",
-      "HOLDER_NAME": "广发安享混合A",
-      "TOTAL_SHARES": 15,
-      "HOLD_VALUE": 408,
-      "TOTALSHARES_RATIO": 0.00001406,
-      "FREESHARES_RATIO": 0.00001899,
-      "FREE_MARKET_CAP": 408,
-      "FREE_SHARES": 15,
-      "SECURITY_CODE": "301041",
-      "FUND_CODE": "002116",
-      "FUND_DERIVECODE": "002116.OF",
-      "NETVALUE_RATIO": 0
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "301041.SZ",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "HOLDER_CODE": "519651",
-      "HOLDER_NAME": "银河转型混合A",
-      "TOTAL_SHARES": 15,
-      "HOLD_VALUE": 408,
-      "TOTALSHARES_RATIO": 0.00001406,
-      "FREESHARES_RATIO": 0.00001899,
-      "FREE_MARKET_CAP": 408,
-      "FREE_SHARES": 15,
-      "SECURITY_CODE": "301041",
-      "FUND_CODE": "519651",
-      "FUND_DERIVECODE": "519651.OF",
-      "NETVALUE_RATIO": 0
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "301041.SZ",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "HOLDER_CODE": "519664",
-      "HOLDER_NAME": "银河美丽混合A",
-      "TOTAL_SHARES": 15,
-      "HOLD_VALUE": 408,
-      "TOTALSHARES_RATIO": 0.00001406,
-      "FREESHARES_RATIO": 0.00001899,
-      "FREE_MARKET_CAP": 408,
-      "FREE_SHARES": 15,
-      "SECURITY_CODE": "301041",
-      "FUND_CODE": "519664",
-      "FUND_DERIVECODE": "519664.OF",
-      "NETVALUE_RATIO": 0
+      "FUND_CODE": "013641",
+      "FUND_DERIVECODE": "013641.OF",
+      "NETVALUE_RATIO": 0.42
     }
   ]
 }

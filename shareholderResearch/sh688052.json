@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "688052.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "688052.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "688052.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "688052.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "688052.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "688052.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -360,41 +365,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-11-24 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5477907,
-      "HOLD_NUM_RATIO": 3.84,
-      "HOLD_CHANGE": "-597884",
-      "CHANGE_RATIO": -9.84043065,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-24 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中信证券股份有限公司-嘉实上证科创板芯片交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2525395,
-      "HOLD_NUM_RATIO": 1.77,
-      "HOLD_CHANGE": "266356",
-      "CHANGE_RATIO": 11.79067736,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-24 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "招商银行股份有限公司-兴全合润混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1808695,
-      "HOLD_NUM_RATIO": 1.27,
-      "HOLD_CHANGE": "-618993",
-      "CHANGE_RATIO": -25.49722205,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "688052.SH",
@@ -422,130 +393,130 @@
     {
       "SECUCODE": "688052.SH",
       "SECURITY_CODE": "688052",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "HKSCC NOMINEES LIMITED",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "H股",
-      "HOLD_NUM": 19068400,
-      "FREE_HOLDNUM_RATIO": 11.799983728642,
+      "HOLD_NUM": 20094900,
+      "FREE_HOLDNUM_RATIO": 12.356706305665,
+      "HOLD_NUM_CHANGE": "1026500",
+      "CHANGE_RATIO": 5.38325187
+    },
+    {
+      "SECUCODE": "688052.SH",
+      "SECURITY_CODE": "688052",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "王升杨",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 15487920,
+      "FREE_HOLDNUM_RATIO": 9.523793535954,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688052.SH",
+      "SECURITY_CODE": "688052",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "盛云",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 14432040,
+      "FREE_HOLDNUM_RATIO": 8.874514412692,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688052.SH",
+      "SECURITY_CODE": "688052",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "苏州瑞矽信息咨询合伙企业(有限合伙)",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6526800,
+      "FREE_HOLDNUM_RATIO": 4.01344374522,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688052.SH",
+      "SECURITY_CODE": "688052",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "王一峰",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5415480,
+      "FREE_HOLDNUM_RATIO": 3.330073594007,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688052.SH",
+      "SECURITY_CODE": "688052",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3563871,
+      "FREE_HOLDNUM_RATIO": 2.191486758246,
+      "HOLD_NUM_CHANGE": "1321845",
+      "CHANGE_RATIO": 58.95761245
+    },
+    {
+      "SECUCODE": "688052.SH",
+      "SECURITY_CODE": "688052",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "王恒",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3160689,
+      "FREE_HOLDNUM_RATIO": 1.943563078022,
+      "HOLD_NUM_CHANGE": "788790",
+      "CHANGE_RATIO": 33.25563188
+    },
+    {
+      "SECUCODE": "688052.SH",
+      "SECURITY_CODE": "688052",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中信证券股份有限公司-嘉实上证科创板芯片交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2392759,
+      "FREE_HOLDNUM_RATIO": 1.471349457984,
+      "HOLD_NUM_CHANGE": "-196621",
+      "CHANGE_RATIO": -7.59336212
+    },
+    {
+      "SECUCODE": "688052.SH",
+      "SECURITY_CODE": "688052",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "基本养老保险基金二零零五组合",
+      "HOLDER_TYPE": "基本养老基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2277206,
+      "FREE_HOLDNUM_RATIO": 1.400293892455,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688052.SH",
       "SECURITY_CODE": "688052",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "王升杨",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 15487920,
-      "FREE_HOLDNUM_RATIO": 9.584296741756,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688052.SH",
-      "SECURITY_CODE": "688052",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "盛云",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 14432040,
-      "FREE_HOLDNUM_RATIO": 8.930892847386,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688052.SH",
-      "SECURITY_CODE": "688052",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "苏州瑞矽信息咨询合伙企业(有限合伙)",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6526800,
-      "FREE_HOLDNUM_RATIO": 4.038940540376,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688052.SH",
-      "SECURITY_CODE": "688052",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "王一峰",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5415480,
-      "FREE_HOLDNUM_RATIO": 3.35122904296,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688052.SH",
-      "SECURITY_CODE": "688052",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中信证券股份有限公司-嘉实上证科创板芯片交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2589380,
-      "FREE_HOLDNUM_RATIO": 1.602370511803,
-      "HOLD_NUM_CHANGE": "63985",
-      "CHANGE_RATIO": 2.53366305
-    },
-    {
-      "SECUCODE": "688052.SH",
-      "SECURITY_CODE": "688052",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "王恒",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2371899,
-      "FREE_HOLDNUM_RATIO": 1.467788047554,
-      "HOLD_NUM_CHANGE": "473900",
-      "CHANGE_RATIO": 24.96840093
-    },
-    {
-      "SECUCODE": "688052.SH",
-      "SECURITY_CODE": "688052",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "深圳市慧悦成长投资基金企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 2259427,
-      "FREE_HOLDNUM_RATIO": 1.398187673641,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688052.SH",
-      "SECURITY_CODE": "688052",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2242026,
-      "FREE_HOLDNUM_RATIO": 1.387419517064,
-      "HOLD_NUM_CHANGE": "-3235881",
-      "CHANGE_RATIO": -59.07148478
-    },
-    {
-      "SECUCODE": "688052.SH",
-      "SECURITY_CODE": "688052",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "黄维钦",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1924594,
-      "FREE_HOLDNUM_RATIO": 1.190984974316,
+      "FREE_HOLDNUM_RATIO": 1.389361273661,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
@@ -554,133 +525,133 @@
     {
       "SECUCODE": "688052.SH",
       "SECURITY_CODE": "688052",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 72317966,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 75611092,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 89278867,
-      "HOLD_NUM_RATIO": 44.75,
+      "OTHER_UNLIMITED_SHARES": 87012341,
+      "HOLD_NUM_RATIO": 46.49,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 55.25
+      "UNLIMITED_SHARES_RATIO": 53.51
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "688052.SH",
       "SECURITY_CODE": "688052",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "HKSCC NOMINEES LIMITED",
       "SHARES_TYPE": "流通H股",
-      "HOLD_NUM": 19068400,
-      "HOLD_NUM_RATIO": 11.8,
+      "HOLD_NUM": 20094900,
+      "HOLD_NUM_RATIO": 12.36,
+      "HOLD_NUM_CHANGE": "1026500",
+      "CHANGE_RATIO": 5.38325187
+    },
+    {
+      "SECUCODE": "688052.SH",
+      "SECURITY_CODE": "688052",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "王升杨",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 15487920,
+      "HOLD_NUM_RATIO": 9.52,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688052.SH",
+      "SECURITY_CODE": "688052",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "盛云",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 14432040,
+      "HOLD_NUM_RATIO": 8.87,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688052.SH",
+      "SECURITY_CODE": "688052",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "苏州瑞矽信息咨询合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6526800,
+      "HOLD_NUM_RATIO": 4.01,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688052.SH",
+      "SECURITY_CODE": "688052",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "王一峰",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5415480,
+      "HOLD_NUM_RATIO": 3.33,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688052.SH",
+      "SECURITY_CODE": "688052",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3563871,
+      "HOLD_NUM_RATIO": 2.19,
+      "HOLD_NUM_CHANGE": "1321845",
+      "CHANGE_RATIO": 58.95761245
+    },
+    {
+      "SECUCODE": "688052.SH",
+      "SECURITY_CODE": "688052",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "王恒",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3160689,
+      "HOLD_NUM_RATIO": 1.94,
+      "HOLD_NUM_CHANGE": "788790",
+      "CHANGE_RATIO": 33.25563188
+    },
+    {
+      "SECUCODE": "688052.SH",
+      "SECURITY_CODE": "688052",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中信证券股份有限公司-嘉实上证科创板芯片交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2392759,
+      "HOLD_NUM_RATIO": 1.47,
+      "HOLD_NUM_CHANGE": "-196621",
+      "CHANGE_RATIO": -7.59336212
+    },
+    {
+      "SECUCODE": "688052.SH",
+      "SECURITY_CODE": "688052",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "基本养老保险基金二零零五组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2277206,
+      "HOLD_NUM_RATIO": 1.4,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688052.SH",
       "SECURITY_CODE": "688052",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "王升杨",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 15487920,
-      "HOLD_NUM_RATIO": 9.58,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688052.SH",
-      "SECURITY_CODE": "688052",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "盛云",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 14432040,
-      "HOLD_NUM_RATIO": 8.93,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688052.SH",
-      "SECURITY_CODE": "688052",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "苏州瑞矽信息咨询合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6526800,
-      "HOLD_NUM_RATIO": 4.04,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688052.SH",
-      "SECURITY_CODE": "688052",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "王一峰",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5415480,
-      "HOLD_NUM_RATIO": 3.35,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688052.SH",
-      "SECURITY_CODE": "688052",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中信证券股份有限公司-嘉实上证科创板芯片交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2589380,
-      "HOLD_NUM_RATIO": 1.6,
-      "HOLD_NUM_CHANGE": "63985",
-      "CHANGE_RATIO": 2.53366305
-    },
-    {
-      "SECUCODE": "688052.SH",
-      "SECURITY_CODE": "688052",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "王恒",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2371899,
-      "HOLD_NUM_RATIO": 1.47,
-      "HOLD_NUM_CHANGE": "473900",
-      "CHANGE_RATIO": 24.96840093
-    },
-    {
-      "SECUCODE": "688052.SH",
-      "SECURITY_CODE": "688052",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "深圳市慧悦成长投资基金企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2259427,
-      "HOLD_NUM_RATIO": 1.4,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688052.SH",
-      "SECURITY_CODE": "688052",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2242026,
       "HOLD_NUM_RATIO": 1.39,
-      "HOLD_NUM_CHANGE": "-3235881",
-      "CHANGE_RATIO": -59.07148478
-    },
-    {
-      "SECUCODE": "688052.SH",
-      "SECURITY_CODE": "688052",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "黄维钦",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1924594,
-      "HOLD_NUM_RATIO": 1.19,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
@@ -691,23 +662,50 @@
       "SECURITY_CODE": "688052",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 42,
-      "TOTAL_FREE_SHARES": 14079695,
-      "TOTAL_SHARES_RATIO": 9.87851664,
-      "ALL_SHARES_RATIO": 8.6578513
+      "TOTAL_ORG_NUM": 47,
+      "TOTAL_FREE_SHARES": 31099758,
+      "TOTAL_SHARES_RATIO": 21.82003781,
+      "ALL_SHARES_RATIO": 19.12378643
     },
     {
       "SECUCODE": "688052.SH",
       "SECURITY_CODE": "688052",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 42,
-      "TOTAL_FREE_SHARES": 14079695,
-      "TOTAL_SHARES_RATIO": 9.87851664,
-      "ALL_SHARES_RATIO": 8.6578513
+      "TOTAL_ORG_NUM": 43,
+      "TOTAL_FREE_SHARES": 16472454,
+      "TOTAL_SHARES_RATIO": 11.55731079,
+      "ALL_SHARES_RATIO": 10.12920076
+    },
+    {
+      "SECUCODE": "688052.SH",
+      "SECURITY_CODE": "688052",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 14627304,
+      "TOTAL_SHARES_RATIO": 10.26272702,
+      "ALL_SHARES_RATIO": 8.99458567
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "688052.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "588200",
+      "HOLDER_NAME": "嘉实上证科创板芯片ETF",
+      "TOTAL_SHARES": 2392759,
+      "HOLD_VALUE": 353841200.92,
+      "TOTALSHARES_RATIO": 1.47134946,
+      "FREESHARES_RATIO": 1.67879415,
+      "FREE_MARKET_CAP": 353841200.92,
+      "FREE_SHARES": 2392759,
+      "SECURITY_CODE": "688052",
+      "FUND_CODE": "588200",
+      "FUND_DERIVECODE": "588200.SH",
+      "NETVALUE_RATIO": 0.92
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "688052.SH",

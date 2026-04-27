@@ -25,8 +25,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 5.03,
       "AVG_HOLD_AMT": 56263.87459888,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 21.2729219,
+      "FREEHOLD_RATIO_TOTAL": 21.30564302
     },
     {
       "SECUCODE": "300317.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300317.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300317.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,10 +161,6 @@
     {
       "SECUCODE": "300317.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300317.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
@@ -168,6 +168,11 @@
       "SECUCODE": "300317.SZ",
       "END_DATE": "2026-04-07 00:00:00",
       "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300317.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
     },
     {
       "SECUCODE": "300317.SZ",
@@ -408,11 +413,6 @@
       "SECUCODE": "300317.SZ",
       "END_DATE": "2023-03-01 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300317.SZ",
-      "END_DATE": "2023-02-27 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "300317.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "300317.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "300317.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300317.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [
@@ -496,7 +496,7 @@
     {
       "SECUCODE": "300317.SZ",
       "SECURITY_CODE": "300317",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "奇盛控股有限公司",
       "HOLDER_TYPE": "其它",
@@ -509,7 +509,7 @@
     {
       "SECUCODE": "300317.SZ",
       "SECURITY_CODE": "300317",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "腾名有限公司",
       "HOLDER_TYPE": "其它",
@@ -522,34 +522,21 @@
     {
       "SECUCODE": "300317.SZ",
       "SECURITY_CODE": "300317",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "上海储阳光伏电力有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 50939996,
-      "FREE_HOLDNUM_RATIO": 6.145394162132,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 42640996,
+      "FREE_HOLDNUM_RATIO": 5.144203935271,
+      "HOLD_NUM_CHANGE": "-8299000",
+      "CHANGE_RATIO": -16.29171702
     },
     {
       "SECUCODE": "300317.SZ",
       "SECURITY_CODE": "300317",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "阿拉山口市灏轩股权投资有限公司",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 49565016,
-      "FREE_HOLDNUM_RATIO": 5.979516762671,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300317.SZ",
-      "SECURITY_CODE": "300317",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "振发能源集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -561,65 +548,78 @@
     {
       "SECUCODE": "300317.SZ",
       "SECURITY_CODE": "300317",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "BARCLAYS BANK PLC",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4741493,
+      "FREE_HOLDNUM_RATIO": 0.57201306812,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300317.SZ",
+      "SECURITY_CODE": "300317",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "庄卫",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6825477,
-      "FREE_HOLDNUM_RATIO": 0.823424613335,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 3674911,
+      "FREE_HOLDNUM_RATIO": 0.44334076127,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300317.SZ",
       "SECURITY_CODE": "300317",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "王增强",
+      "HOLDER_NAME": "刘二虎",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3746461,
-      "FREE_HOLDNUM_RATIO": 0.451972543501,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 3504355,
+      "FREE_HOLDNUM_RATIO": 0.422764908718,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300317.SZ",
       "SECURITY_CODE": "300317",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "吴云杰",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3200000,
+      "FREE_HOLDNUM_RATIO": 0.386047563074,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300317.SZ",
+      "SECURITY_CODE": "300317",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "白亮",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3456429,
-      "FREE_HOLDNUM_RATIO": 0.416983122622,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2698729,
+      "FREE_HOLDNUM_RATIO": 0.325574298078,
+      "HOLD_NUM_CHANGE": "-757700",
+      "CHANGE_RATIO": -21.92146866
     },
     {
       "SECUCODE": "300317.SZ",
       "SECURITY_CODE": "300317",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "王莹",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3232400,
-      "FREE_HOLDNUM_RATIO": 0.389956294651,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300317.SZ",
-      "SECURITY_CODE": "300317",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "张韶力",
+      "HOLDER_NAME": "顾红梅",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2974900,
-      "FREE_HOLDNUM_RATIO": 0.358891529809,
+      "HOLD_NUM": 2670400,
+      "FREE_HOLDNUM_RATIO": 0.322156691386,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -628,13 +628,13 @@
     {
       "SECUCODE": "300317.SZ",
       "SECURITY_CODE": "300317",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 234215126,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 176605331,
       "LIMITED_SHARES": 1275000,
-      "OTHER_UNLIMITED_SHARES": 594698279,
-      "HOLD_NUM_RATIO": 28.21,
+      "OTHER_UNLIMITED_SHARES": 652308074,
+      "HOLD_NUM_RATIO": 21.27,
       "LIMITED_SHARES_RATIO": 0.15,
-      "UNLIMITED_SHARES_RATIO": 71.63
+      "UNLIMITED_SHARES_RATIO": 78.57
     }
   ],
   "sdgd": [
@@ -667,32 +667,32 @@
     {
       "SECUCODE": "300317.SZ",
       "SECURITY_CODE": "300317",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 51,
-      "TOTAL_FREE_SHARES": 220265659,
-      "TOTAL_SHARES_RATIO": 26.57281904,
-      "ALL_SHARES_RATIO": 26.5320086
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 164531847,
+      "TOTAL_SHARES_RATIO": 19.84909956,
+      "ALL_SHARES_RATIO": 19.81861539
     },
     {
       "SECUCODE": "300317.SZ",
       "SECURITY_CODE": "300317",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 46,
-      "TOTAL_FREE_SHARES": 6286200,
-      "TOTAL_SHARES_RATIO": 0.75836633,
-      "ALL_SHARES_RATIO": 0.75720162
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 8416404,
+      "TOTAL_SHARES_RATIO": 1.01535383,
+      "ALL_SHARES_RATIO": 1.01379445
     },
     {
       "SECUCODE": "300317.SZ",
       "SECURITY_CODE": "300317",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 213979459,
-      "TOTAL_SHARES_RATIO": 25.81445271,
-      "ALL_SHARES_RATIO": 25.77480698
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 156115443,
+      "TOTAL_SHARES_RATIO": 18.83374573,
+      "ALL_SHARES_RATIO": 18.80482094
     }
   ],
   "jjcg": [

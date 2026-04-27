@@ -25,8 +25,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 32.2704921088,
       "AVG_HOLD_AMT": 218586.998071232,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 49.45030129,
+      "FREEHOLD_RATIO_TOTAL": 49.45030129
     },
     {
       "SECUCODE": "300859.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300859.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300859.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300859.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300859.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300859.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300859.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "300859.SZ",
       "END_DATE": "2018-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "300859.SZ",
-      "END_DATE": "2017-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -445,19 +445,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-11-10 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "新疆昆仑投资发展合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7750000,
-      "HOLD_NUM_RATIO": 5,
-      "HOLD_CHANGE": "-1370020",
-      "CHANGE_RATIO": -15.02211618,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "300859.SZ",
@@ -485,7 +473,7 @@
     {
       "SECUCODE": "300859.SZ",
       "SECURITY_CODE": "300859",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "新疆天池控股有限公司",
       "HOLDER_TYPE": "其它",
@@ -498,7 +486,7 @@
     {
       "SECUCODE": "300859.SZ",
       "SECURITY_CODE": "300859",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "昌吉州国有资产投资经营集团有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -511,21 +499,34 @@
     {
       "SECUCODE": "300859.SZ",
       "SECURITY_CODE": "300859",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "新疆昆仑投资发展合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 7749900,
       "FREE_HOLDNUM_RATIO": 4.999935483871,
-      "HOLD_NUM_CHANGE": "-1370120",
-      "CHANGE_RATIO": -15.02321267
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300859.SZ",
       "SECURITY_CODE": "300859",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "中国银行股份有限公司-富国中证旅游主题交易性开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2345800,
+      "FREE_HOLDNUM_RATIO": 1.513419354839,
+      "HOLD_NUM_CHANGE": "425800",
+      "CHANGE_RATIO": 22.17708333
+    },
+    {
+      "SECUCODE": "300859.SZ",
+      "SECURITY_CODE": "300859",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "新疆文化旅游投资集团有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -537,100 +538,87 @@
     {
       "SECUCODE": "300859.SZ",
       "SECURITY_CODE": "300859",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国银行股份有限公司-富国中证旅游主题交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "万能",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1920000,
-      "FREE_HOLDNUM_RATIO": 1.238709677419,
-      "HOLD_NUM_CHANGE": "63300",
-      "CHANGE_RATIO": 3.40927452
+      "HOLD_NUM": 1550200,
+      "FREE_HOLDNUM_RATIO": 1.000129032258,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300859.SZ",
       "SECURITY_CODE": "300859",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "方金格",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1080000,
+      "FREE_HOLDNUM_RATIO": 0.696774193548,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300859.SZ",
+      "SECURITY_CODE": "300859",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1194967,
-      "FREE_HOLDNUM_RATIO": 0.770946451613,
-      "HOLD_NUM_CHANGE": "212857",
-      "CHANGE_RATIO": 21.6734378
+      "HOLD_NUM": 976737,
+      "FREE_HOLDNUM_RATIO": 0.630152903226,
+      "HOLD_NUM_CHANGE": "-218230",
+      "CHANGE_RATIO": -18.262429
     },
     {
       "SECUCODE": "300859.SZ",
       "SECURITY_CODE": "300859",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "中国农业银行股份有限公司-中邮睿信增强债券型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 709400,
-      "FREE_HOLDNUM_RATIO": 0.457677419355,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 959400,
+      "FREE_HOLDNUM_RATIO": 0.618967741935,
+      "HOLD_NUM_CHANGE": "250000",
+      "CHANGE_RATIO": 35.24104877
     },
     {
       "SECUCODE": "300859.SZ",
       "SECURITY_CODE": "300859",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "银华基金-中国人寿保险股份有限公司-传统险-银华基金国寿股份成长股票传统可供出售单一资产管理计划",
-      "HOLDER_TYPE": "基金资产管理计划",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 690309,
-      "FREE_HOLDNUM_RATIO": 0.445360645161,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300859.SZ",
-      "SECURITY_CODE": "300859",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "严罡",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 642200,
-      "FREE_HOLDNUM_RATIO": 0.414322580645,
-      "HOLD_NUM_CHANGE": "77500",
-      "CHANGE_RATIO": 13.72410129
-    },
-    {
-      "SECUCODE": "300859.SZ",
-      "SECURITY_CODE": "300859",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "王海燕",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 530300,
-      "FREE_HOLDNUM_RATIO": 0.342129032258,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 605930,
+      "FREE_HOLDNUM_RATIO": 0.390922580645,
+      "HOLD_NUM_CHANGE": "-36270",
+      "CHANGE_RATIO": -5.64777328
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "300859.SZ",
       "SECURITY_CODE": "300859",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 74817076,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 76647967,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 80182924,
-      "HOLD_NUM_RATIO": 48.27,
+      "OTHER_UNLIMITED_SHARES": 78352033,
+      "HOLD_NUM_RATIO": 49.45,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 51.73
+      "UNLIMITED_SHARES_RATIO": 50.55
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300859.SZ",
       "SECURITY_CODE": "300859",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "新疆天池控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +630,7 @@
     {
       "SECUCODE": "300859.SZ",
       "SECURITY_CODE": "300859",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "昌吉州国有资产投资经营集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,20 +642,32 @@
     {
       "SECUCODE": "300859.SZ",
       "SECURITY_CODE": "300859",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "新疆昆仑投资发展合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 7749900,
       "HOLD_NUM_RATIO": 5,
-      "HOLD_NUM_CHANGE": "-100",
-      "CHANGE_RATIO": -0.00129032
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300859.SZ",
       "SECURITY_CODE": "300859",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "中国银行股份有限公司-富国中证旅游主题交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2345800,
+      "HOLD_NUM_RATIO": 1.51,
+      "HOLD_NUM_CHANGE": "425800",
+      "CHANGE_RATIO": 22.17708333
+    },
+    {
+      "SECUCODE": "300859.SZ",
+      "SECURITY_CODE": "300859",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "新疆文化旅游投资集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2092500,
@@ -678,74 +678,62 @@
     {
       "SECUCODE": "300859.SZ",
       "SECURITY_CODE": "300859",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国银行股份有限公司-富国中证旅游主题交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "万能",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1920000,
-      "HOLD_NUM_RATIO": 1.24,
-      "HOLD_NUM_CHANGE": "63300",
-      "CHANGE_RATIO": 3.40927452
+      "HOLD_NUM": 1550200,
+      "HOLD_NUM_RATIO": 1,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300859.SZ",
       "SECURITY_CODE": "300859",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "方金格",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1080000,
+      "HOLD_NUM_RATIO": 0.7,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300859.SZ",
+      "SECURITY_CODE": "300859",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1194967,
-      "HOLD_NUM_RATIO": 0.77,
-      "HOLD_NUM_CHANGE": "212857",
-      "CHANGE_RATIO": 21.6734378
+      "HOLD_NUM": 976737,
+      "HOLD_NUM_RATIO": 0.63,
+      "HOLD_NUM_CHANGE": "-218230",
+      "CHANGE_RATIO": -18.262429
     },
     {
       "SECUCODE": "300859.SZ",
       "SECURITY_CODE": "300859",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "中国农业银行股份有限公司-中邮睿信增强债券型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 709400,
-      "HOLD_NUM_RATIO": 0.46,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 959400,
+      "HOLD_NUM_RATIO": 0.62,
+      "HOLD_NUM_CHANGE": "250000",
+      "CHANGE_RATIO": 35.24104877
     },
     {
       "SECUCODE": "300859.SZ",
       "SECURITY_CODE": "300859",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "银华基金-中国人寿保险股份有限公司-传统险-银华基金国寿股份成长股票传统可供出售单一资产管理计划",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 690309,
-      "HOLD_NUM_RATIO": 0.45,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300859.SZ",
-      "SECURITY_CODE": "300859",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "严罡",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 642200,
-      "HOLD_NUM_RATIO": 0.41,
-      "HOLD_NUM_CHANGE": "77500",
-      "CHANGE_RATIO": 13.72410129
-    },
-    {
-      "SECUCODE": "300859.SZ",
-      "SECURITY_CODE": "300859",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "王海燕",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 530300,
-      "HOLD_NUM_RATIO": 0.34,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 605930,
+      "HOLD_NUM_RATIO": 0.39,
+      "HOLD_NUM_CHANGE": "-36270",
+      "CHANGE_RATIO": -5.64777328
     }
   ],
   "jgcc": [
@@ -754,23 +742,67 @@
       "SECURITY_CODE": "300859",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 101300,
-      "TOTAL_SHARES_RATIO": 0.06535484,
-      "ALL_SHARES_RATIO": 0.06535484
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 73513137,
+      "TOTAL_SHARES_RATIO": 47.42783031,
+      "ALL_SHARES_RATIO": 47.42783031
     },
     {
       "SECUCODE": "300859.SZ",
       "SECURITY_CODE": "300859",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 101300,
-      "TOTAL_SHARES_RATIO": 0.06535484,
-      "ALL_SHARES_RATIO": 0.06535484
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 3406500,
+      "TOTAL_SHARES_RATIO": 2.19774193,
+      "ALL_SHARES_RATIO": 2.19774193
+    },
+    {
+      "SECUCODE": "300859.SZ",
+      "SECURITY_CODE": "300859",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 70106637,
+      "TOTAL_SHARES_RATIO": 45.23008838,
+      "ALL_SHARES_RATIO": 45.23008838
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300859.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "159766",
+      "HOLDER_NAME": "富国中证旅游主题ETF",
+      "TOTAL_SHARES": 2345800,
+      "HOLD_VALUE": 76379248,
+      "TOTALSHARES_RATIO": 1.51341935,
+      "FREESHARES_RATIO": 1.51341935,
+      "FREE_MARKET_CAP": 76379248,
+      "FREE_SHARES": 2345800,
+      "SECURITY_CODE": "300859",
+      "FUND_CODE": "159766",
+      "FUND_DERIVECODE": "159766.SZ",
+      "NETVALUE_RATIO": 1.35
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300859.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "002474",
+      "HOLDER_NAME": "中邮睿信增强债券A",
+      "TOTAL_SHARES": 959400,
+      "HOLD_VALUE": 31238064,
+      "TOTALSHARES_RATIO": 0.61896774,
+      "FREESHARES_RATIO": 0.61896774,
+      "FREE_MARKET_CAP": 31238064,
+      "FREE_SHARES": 959400,
+      "SECURITY_CODE": "300859",
+      "FUND_CODE": "002474",
+      "FUND_DERIVECODE": "002474.OF",
+      "NETVALUE_RATIO": 0.16
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "300859.SZ",

@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 5.66,
       "AVG_HOLD_AMT": 132026.065277063,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 33.10617967,
+      "FREEHOLD_RATIO_TOTAL": 33.28270304
     },
     {
       "SECUCODE": "300664.SZ",
@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300664.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300664.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300664.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "300664.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300664.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300664.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300664.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300664.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300664.SZ",
       "END_DATE": "2025-09-30 00:00:00",
@@ -403,16 +413,6 @@
       "SECUCODE": "300664.SZ",
       "END_DATE": "2019-07-16 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300664.SZ",
-      "END_DATE": "2019-07-15 00:00:00",
-      "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300664.SZ",
-      "END_DATE": "2019-07-12 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "300664.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "300664.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "300664.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300664.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "300664.SZ",
       "SECURITY_CODE": "300664",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "宜兴鹏鹞投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -486,86 +486,21 @@
     {
       "SECUCODE": "300664.SZ",
       "SECURITY_CODE": "300664",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "陈明康",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 13033274,
-      "FREE_HOLDNUM_RATIO": 1.732582901558,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 10628000,
+      "FREE_HOLDNUM_RATIO": 1.412836949316,
+      "HOLD_NUM_CHANGE": "-1342000",
+      "CHANGE_RATIO": -11.21136174
     },
     {
       "SECUCODE": "300664.SZ",
       "SECURITY_CODE": "300664",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "江苏金道生物科技有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8250000,
-      "FREE_HOLDNUM_RATIO": 1.096716675937,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300664.SZ",
-      "SECURITY_CODE": "300664",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "王勤芳",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5368672,
-      "FREE_HOLDNUM_RATIO": 0.713686316368,
-      "HOLD_NUM_CHANGE": "1893900",
-      "CHANGE_RATIO": 54.50429553
-    },
-    {
-      "SECUCODE": "300664.SZ",
-      "SECURITY_CODE": "300664",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "王一雷",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4973800,
-      "FREE_HOLDNUM_RATIO": 0.661193867003,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300664.SZ",
-      "SECURITY_CODE": "300664",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "李兴昌",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4607081,
-      "FREE_HOLDNUM_RATIO": 0.612443946678,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300664.SZ",
-      "SECURITY_CODE": "300664",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国建设银行股份有限公司-东方红中证东方红红利低波动指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4352100,
-      "FREE_HOLDNUM_RATIO": 0.578547957011,
-      "HOLD_NUM_CHANGE": "-148400",
-      "CHANGE_RATIO": -3.2974114
-    },
-    {
-      "SECUCODE": "300664.SZ",
-      "SECURITY_CODE": "300664",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "陈宜萍",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -577,48 +512,113 @@
     {
       "SECUCODE": "300664.SZ",
       "SECURITY_CODE": "300664",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "单立波",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "李建峰",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3850700,
-      "FREE_HOLDNUM_RATIO": 0.511894170185,
-      "HOLD_NUM_CHANGE": "249500",
-      "CHANGE_RATIO": 6.92824614
+      "HOLD_NUM": 4058050,
+      "FREE_HOLDNUM_RATIO": 0.539458315974,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300664.SZ",
       "SECURITY_CODE": "300664",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "翁泽明",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "单立波",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3009000,
-      "FREE_HOLDNUM_RATIO": 0.400002482169,
-      "HOLD_NUM_CHANGE": "70600",
-      "CHANGE_RATIO": 2.40266812
+      "HOLD_NUM": 3506500,
+      "FREE_HOLDNUM_RATIO": 0.466137821112,
+      "HOLD_NUM_CHANGE": "-137000",
+      "CHANGE_RATIO": -3.76012076
+    },
+    {
+      "SECUCODE": "300664.SZ",
+      "SECURITY_CODE": "300664",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "BARCLAYS BANK PLC",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2641349,
+      "FREE_HOLDNUM_RATIO": 0.351128666093,
+      "HOLD_NUM_CHANGE": "424510",
+      "CHANGE_RATIO": 19.14933831
+    },
+    {
+      "SECUCODE": "300664.SZ",
+      "SECURITY_CODE": "300664",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "UBS AG",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2469389,
+      "FREE_HOLDNUM_RATIO": 0.328269102506,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300664.SZ",
+      "SECURITY_CODE": "300664",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2312062,
+      "FREE_HOLDNUM_RATIO": 0.307354781964,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300664.SZ",
+      "SECURITY_CODE": "300664",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "刘明增",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1975500,
+      "FREE_HOLDNUM_RATIO": 0.262613793129,
+      "HOLD_NUM_CHANGE": "1500",
+      "CHANGE_RATIO": 0.07598784
+    },
+    {
+      "SECUCODE": "300664.SZ",
+      "SECURITY_CODE": "300664",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "刘荣华",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1937500,
+      "FREE_HOLDNUM_RATIO": 0.257562249652,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "300664.SZ",
       "SECURITY_CODE": "300664",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 268283857,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 250367580,
       "LIMITED_SHARES": 4011000,
-      "OTHER_UNLIMITED_SHARES": 483961475,
-      "HOLD_NUM_RATIO": 35.48,
+      "OTHER_UNLIMITED_SHARES": 501877752,
+      "HOLD_NUM_RATIO": 33.11,
       "LIMITED_SHARES_RATIO": 0.53,
-      "UNLIMITED_SHARES_RATIO": 63.99
+      "UNLIMITED_SHARES_RATIO": 66.36
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300664.SZ",
       "SECURITY_CODE": "300664",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "宜兴鹏鹞投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,80 +630,20 @@
     {
       "SECUCODE": "300664.SZ",
       "SECURITY_CODE": "300664",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "陈明康",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 13033274,
-      "HOLD_NUM_RATIO": 1.72,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 10628000,
+      "HOLD_NUM_RATIO": 1.41,
+      "HOLD_NUM_CHANGE": "-1342000",
+      "CHANGE_RATIO": -11.21136174
     },
     {
       "SECUCODE": "300664.SZ",
       "SECURITY_CODE": "300664",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "江苏金道生物科技有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8250000,
-      "HOLD_NUM_RATIO": 1.09,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300664.SZ",
-      "SECURITY_CODE": "300664",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "王勤芳",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5368672,
-      "HOLD_NUM_RATIO": 0.71,
-      "HOLD_NUM_CHANGE": "1893900",
-      "CHANGE_RATIO": 54.50429553
-    },
-    {
-      "SECUCODE": "300664.SZ",
-      "SECURITY_CODE": "300664",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "王一雷",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4973800,
-      "HOLD_NUM_RATIO": 0.66,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300664.SZ",
-      "SECURITY_CODE": "300664",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "李兴昌",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4607081,
-      "HOLD_NUM_RATIO": 0.61,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300664.SZ",
-      "SECURITY_CODE": "300664",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国建设银行股份有限公司-东方红中证东方红红利低波动指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4352100,
-      "HOLD_NUM_RATIO": 0.58,
-      "HOLD_NUM_CHANGE": "-148400",
-      "CHANGE_RATIO": -3.2974114
-    },
-    {
-      "SECUCODE": "300664.SZ",
-      "SECURITY_CODE": "300664",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "陈宜萍",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4137080,
@@ -714,48 +654,118 @@
     {
       "SECUCODE": "300664.SZ",
       "SECURITY_CODE": "300664",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "单立波",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "李建峰",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3850700,
-      "HOLD_NUM_RATIO": 0.51,
-      "HOLD_NUM_CHANGE": "249500",
-      "CHANGE_RATIO": 6.92824614
+      "HOLD_NUM": 4058050,
+      "HOLD_NUM_RATIO": 0.54,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300664.SZ",
       "SECURITY_CODE": "300664",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "翁泽明",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "单立波",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3009000,
-      "HOLD_NUM_RATIO": 0.4,
-      "HOLD_NUM_CHANGE": "70600",
-      "CHANGE_RATIO": 2.40266812
+      "HOLD_NUM": 3506500,
+      "HOLD_NUM_RATIO": 0.46,
+      "HOLD_NUM_CHANGE": "-137000",
+      "CHANGE_RATIO": -3.76012076
+    },
+    {
+      "SECUCODE": "300664.SZ",
+      "SECURITY_CODE": "300664",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "BARCLAYS BANK PLC",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2641349,
+      "HOLD_NUM_RATIO": 0.35,
+      "HOLD_NUM_CHANGE": "424510",
+      "CHANGE_RATIO": 19.14933831
+    },
+    {
+      "SECUCODE": "300664.SZ",
+      "SECURITY_CODE": "300664",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "UBS AG",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2469389,
+      "HOLD_NUM_RATIO": 0.33,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300664.SZ",
+      "SECURITY_CODE": "300664",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2312062,
+      "HOLD_NUM_RATIO": 0.31,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300664.SZ",
+      "SECURITY_CODE": "300664",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "刘明增",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1975500,
+      "HOLD_NUM_RATIO": 0.26,
+      "HOLD_NUM_CHANGE": "1500",
+      "CHANGE_RATIO": 0.07598784
+    },
+    {
+      "SECUCODE": "300664.SZ",
+      "SECURITY_CODE": "300664",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "刘荣华",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1937500,
+      "HOLD_NUM_RATIO": 0.26,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "300664.SZ",
       "SECURITY_CODE": "300664",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 50,
-      "TOTAL_FREE_SHARES": 2488950,
-      "TOTAL_SHARES_RATIO": 0.33086945,
-      "ALL_SHARES_RATIO": 0.32911464
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 224124950,
+      "TOTAL_SHARES_RATIO": 29.79412972,
+      "ALL_SHARES_RATIO": 29.63610888
     },
     {
       "SECUCODE": "300664.SZ",
       "SECURITY_CODE": "300664",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 50,
-      "TOTAL_FREE_SHARES": 2488950,
-      "TOTAL_SHARES_RATIO": 0.33086945,
-      "ALL_SHARES_RATIO": 0.32911464
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 7422800,
+      "TOTAL_SHARES_RATIO": 0.98675255,
+      "ALL_SHARES_RATIO": 0.98151905
+    },
+    {
+      "SECUCODE": "300664.SZ",
+      "SECURITY_CODE": "300664",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 216702150,
+      "TOTAL_SHARES_RATIO": 28.80737717,
+      "ALL_SHARES_RATIO": 28.65458983
     }
   ],
   "jjcg": [

@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 3.42,
       "AVG_HOLD_AMT": 91790.1674298214,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 58.65860149,
+      "FREEHOLD_RATIO_TOTAL": 43.66353314
     },
     {
       "SECUCODE": "000523.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000523.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000523.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "000523.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000523.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000523.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000523.SZ",
       "END_DATE": "2026-01-29 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "000523.SZ",
       "END_DATE": "2016-01-18 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "000523.SZ",
-      "END_DATE": "2015-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "000523.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "000523.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "000523.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000523.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,34 +473,21 @@
     {
       "SECUCODE": "000523.SZ",
       "SECURITY_CODE": "000523",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "广州市浪奇实业股份有限公司破产企业财产处置专用账户",
       "HOLDER_TYPE": "证券账户",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 247820525,
       "FREE_HOLDNUM_RATIO": 18.701175420341,
-      "HOLD_NUM_CHANGE": "-3707315",
-      "CHANGE_RATIO": -1.47391835
-    },
-    {
-      "SECUCODE": "000523.SZ",
-      "SECURITY_CODE": "000523",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "兴业资产管理有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 100070672,
-      "FREE_HOLDNUM_RATIO": 7.551590779268,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000523.SZ",
       "SECURITY_CODE": "000523",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
       "HOLDER_NAME": "广州产业投资控股集团有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -512,34 +499,21 @@
     {
       "SECUCODE": "000523.SZ",
       "SECURITY_CODE": "000523",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "兴业资产管理有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 81897372,
+      "FREE_HOLDNUM_RATIO": 6.180186730849,
+      "HOLD_NUM_CHANGE": "-18173300",
+      "CHANGE_RATIO": -18.16046564
+    },
+    {
+      "SECUCODE": "000523.SZ",
+      "SECURITY_CODE": "000523",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "中国工商银行股份有限公司广东省分行",
-      "HOLDER_TYPE": "金融",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 48109869,
-      "FREE_HOLDNUM_RATIO": 3.630494688116,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000523.SZ",
-      "SECURITY_CODE": "000523",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国建设银行股份有限公司广东省分行",
-      "HOLDER_TYPE": "金融",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 34163760,
-      "FREE_HOLDNUM_RATIO": 2.578085365522,
-      "HOLD_NUM_CHANGE": "-30260000",
-      "CHANGE_RATIO": -46.97024824
-    },
-    {
-      "SECUCODE": "000523.SZ",
-      "SECURITY_CODE": "000523",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "林旺钏",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -551,8 +525,21 @@
     {
       "SECUCODE": "000523.SZ",
       "SECURITY_CODE": "000523",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中国建设银行股份有限公司广东省分行",
+      "HOLDER_TYPE": "金融",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 29163760,
+      "FREE_HOLDNUM_RATIO": 2.20077248112,
+      "HOLD_NUM_CHANGE": "-5000000",
+      "CHANGE_RATIO": -14.63539142
+    },
+    {
+      "SECUCODE": "000523.SZ",
+      "SECURITY_CODE": "000523",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "广州华糖商务发展有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -564,8 +551,8 @@
     {
       "SECUCODE": "000523.SZ",
       "SECURITY_CODE": "000523",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "中国农业银行股份有限公司广东省分行",
       "HOLDER_TYPE": "金融",
       "SHARES_TYPE": "A股",
@@ -577,27 +564,40 @@
     {
       "SECUCODE": "000523.SZ",
       "SECURITY_CODE": "000523",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "广州市广永国有资产经营有限公司",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 20066827,
-      "FREE_HOLDNUM_RATIO": 1.514294475232,
-      "HOLD_NUM_CHANGE": "-1000000",
-      "CHANGE_RATIO": -4.74679932
+      "HOLD_NUM": 19977567,
+      "FREE_HOLDNUM_RATIO": 1.50755868562,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000523.SZ",
       "SECURITY_CODE": "000523",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "广州市广永国有资产经营有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 15066827,
+      "FREE_HOLDNUM_RATIO": 1.13698159083,
+      "HOLD_NUM_CHANGE": "-5000000",
+      "CHANGE_RATIO": -24.91674444
+    },
+    {
+      "SECUCODE": "000523.SZ",
+      "SECURITY_CODE": "000523",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "江炜",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 12259920,
       "FREE_HOLDNUM_RATIO": 0.925165155547,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -605,23 +605,23 @@
     {
       "SECUCODE": "000523.SZ",
       "SECURITY_CODE": "000523",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 634917345,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 578611743,
       "LIMITED_SHARES": 510308307,
-      "OTHER_UNLIMITED_SHARES": 690242809,
-      "HOLD_NUM_RATIO": 34.59,
+      "OTHER_UNLIMITED_SHARES": 746548411,
+      "HOLD_NUM_RATIO": 31.52,
       "LIMITED_SHARES_RATIO": 27.8,
-      "UNLIMITED_SHARES_RATIO": 37.61
+      "UNLIMITED_SHARES_RATIO": 40.67
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "000523.SZ",
       "SECURITY_CODE": "000523",
-      "END_DATE": "2026-01-29 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "广州轻工工贸集团有限公司",
-      "SHARES_TYPE": "限售流通A股",
+      "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 510308307,
       "HOLD_NUM_RATIO": 27.8,
       "HOLD_NUM_CHANGE": "不变",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "000523.SZ",
       "SECURITY_CODE": "000523",
-      "END_DATE": "2026-01-29 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "广州市浪奇实业股份有限公司破产企业财产处置专用账户",
       "SHARES_TYPE": "流通A股",
@@ -638,38 +638,124 @@
       "HOLD_NUM_RATIO": 13.5,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000523.SZ",
+      "SECURITY_CODE": "000523",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "广州产业投资控股集团有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 89256197,
+      "HOLD_NUM_RATIO": 4.86,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000523.SZ",
+      "SECURITY_CODE": "000523",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "兴业资产管理有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 81897372,
+      "HOLD_NUM_RATIO": 4.46,
+      "HOLD_NUM_CHANGE": "-18173300",
+      "CHANGE_RATIO": -18.16046564
+    },
+    {
+      "SECUCODE": "000523.SZ",
+      "SECURITY_CODE": "000523",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "林旺钏",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 34059814,
+      "HOLD_NUM_RATIO": 1.86,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000523.SZ",
+      "SECURITY_CODE": "000523",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国建设银行股份有限公司广东省分行",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 29163760,
+      "HOLD_NUM_RATIO": 1.59,
+      "HOLD_NUM_CHANGE": "-5000000",
+      "CHANGE_RATIO": -14.63539142
+    },
+    {
+      "SECUCODE": "000523.SZ",
+      "SECURITY_CODE": "000523",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "广州华糖商务发展有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 27749054,
+      "HOLD_NUM_RATIO": 1.51,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000523.SZ",
+      "SECURITY_CODE": "000523",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国农业银行股份有限公司广东省分行",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 21360707,
+      "HOLD_NUM_RATIO": 1.16,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000523.SZ",
+      "SECURITY_CODE": "000523",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 19977567,
+      "HOLD_NUM_RATIO": 1.09,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000523.SZ",
+      "SECURITY_CODE": "000523",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "广州市广永国有资产经营有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 15066827,
+      "HOLD_NUM_RATIO": 0.82,
+      "HOLD_NUM_CHANGE": "-5000000",
+      "CHANGE_RATIO": -24.91674444
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "000523.SZ",
       "SECURITY_CODE": "000523",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 25,
-      "TOTAL_FREE_SHARES": 593707758,
-      "TOTAL_SHARES_RATIO": 44.80271735,
-      "ALL_SHARES_RATIO": 32.34638843
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 532292009,
+      "TOTAL_SHARES_RATIO": 40.16812665,
+      "ALL_SHARES_RATIO": 29.00033535
     },
     {
       "SECUCODE": "000523.SZ",
       "SECURITY_CODE": "000523",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 17,
-      "TOTAL_FREE_SHARES": 5110147,
-      "TOTAL_SHARES_RATIO": 0.38562487,
-      "ALL_SHARES_RATIO": 0.27841105
-    },
-    {
-      "SECUCODE": "000523.SZ",
-      "SECURITY_CODE": "000523",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 8,
-      "TOTAL_FREE_SHARES": 588597611,
-      "TOTAL_SHARES_RATIO": 44.41709248,
-      "ALL_SHARES_RATIO": 32.06797738
+      "TOTAL_FREE_SHARES": 532292009,
+      "TOTAL_SHARES_RATIO": 40.16812665,
+      "ALL_SHARES_RATIO": 29.00033535
     }
   ],
   "jjcg": [

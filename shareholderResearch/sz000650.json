@@ -25,8 +25,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 5.74,
       "AVG_HOLD_AMT": 80448.8145268122,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 34.57415822,
+      "FREEHOLD_RATIO_TOTAL": 31.2067208
     },
     {
       "SECUCODE": "000650.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000650.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000650.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "000650.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000650.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000650.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000650.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "000650.SZ",
       "END_DATE": "2017-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000650.SZ",
-      "END_DATE": "2017-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "000650.SZ",
       "SECURITY_CODE": "000650",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "仁和(集团)发展有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "000650.SZ",
       "SECURITY_CODE": "000650",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "杨潇",
       "HOLDER_TYPE": "个人",
@@ -499,8 +499,21 @@
     {
       "SECUCODE": "000650.SZ",
       "SECURITY_CODE": "000650",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 17845681,
+      "FREE_HOLDNUM_RATIO": 1.340383872524,
+      "HOLD_NUM_CHANGE": "2462233",
+      "CHANGE_RATIO": 16.00572901
+    },
+    {
+      "SECUCODE": "000650.SZ",
+      "SECURITY_CODE": "000650",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "仁和药业股份有限公司-第二期员工持股计划",
       "HOLDER_TYPE": "员工持股计划",
       "SHARES_TYPE": "A股",
@@ -512,113 +525,100 @@
     {
       "SECUCODE": "000650.SZ",
       "SECURITY_CODE": "000650",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 15383448,
-      "FREE_HOLDNUM_RATIO": 1.155446273135,
-      "HOLD_NUM_CHANGE": "1895610",
-      "CHANGE_RATIO": 14.05421684
-    },
-    {
-      "SECUCODE": "000650.SZ",
-      "SECURITY_CODE": "000650",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10260700,
-      "FREE_HOLDNUM_RATIO": 0.770678171419,
-      "HOLD_NUM_CHANGE": "6800",
-      "CHANGE_RATIO": 0.06631623
-    },
-    {
-      "SECUCODE": "000650.SZ",
-      "SECURITY_CODE": "000650",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "黄杰",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 7525500,
       "FREE_HOLDNUM_RATIO": 0.565238100618,
-      "HOLD_NUM_CHANGE": "-689900",
-      "CHANGE_RATIO": -8.39764345
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000650.SZ",
       "SECURITY_CODE": "000650",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "中国建设银行股份有限公司-汇添富中证中药交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6886800,
-      "FREE_HOLDNUM_RATIO": 0.517265530707,
-      "HOLD_NUM_CHANGE": "-105600",
-      "CHANGE_RATIO": -1.51021109
+      "HOLD_NUM": 7300400,
+      "FREE_HOLDNUM_RATIO": 0.548330905555,
+      "HOLD_NUM_CHANGE": "413600",
+      "CHANGE_RATIO": 6.00569205
     },
     {
       "SECUCODE": "000650.SZ",
       "SECURITY_CODE": "000650",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "招商银行股份有限公司-华夏中证1000交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "陈科军",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6488960,
-      "FREE_HOLDNUM_RATIO": 0.487383884843,
-      "HOLD_NUM_CHANGE": "403560",
-      "CHANGE_RATIO": 6.63161008
-    },
-    {
-      "SECUCODE": "000650.SZ",
-      "SECURITY_CODE": "000650",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国工商银行股份有限公司-广发中证1000交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4652600,
-      "FREE_HOLDNUM_RATIO": 0.349455423153,
+      "HOLD_NUM": 5500000,
+      "FREE_HOLDNUM_RATIO": 0.413103388931,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000650.SZ",
       "SECURITY_CODE": "000650",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中泰证券股份有限公司-华夏国证自由现金流交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4869600,
+      "FREE_HOLDNUM_RATIO": 0.365754229589,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000650.SZ",
+      "SECURITY_CODE": "000650",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "史红",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4496200,
+      "FREE_HOLDNUM_RATIO": 0.337708264966,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000650.SZ",
+      "SECURITY_CODE": "000650",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "蒋国梁",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4520093,
-      "FREE_HOLDNUM_RATIO": 0.339502861197,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 4300093,
+      "FREE_HOLDNUM_RATIO": 0.32297872564,
+      "HOLD_NUM_CHANGE": "-220000",
+      "CHANGE_RATIO": -4.86715649
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "000650.SZ",
       "SECURITY_CODE": "000650",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 419362487,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 415481860,
       "LIMITED_SHARES": 68552400,
-      "OTHER_UNLIMITED_SHARES": 912023347,
-      "HOLD_NUM_RATIO": 29.96,
+      "OTHER_UNLIMITED_SHARES": 915903974,
+      "HOLD_NUM_RATIO": 29.68,
       "LIMITED_SHARES_RATIO": 4.9,
-      "UNLIMITED_SHARES_RATIO": 65.15
+      "UNLIMITED_SHARES_RATIO": 65.42
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "000650.SZ",
       "SECURITY_CODE": "000650",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "仁和(集团)发展有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "000650.SZ",
       "SECURITY_CODE": "000650",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "杨潇",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -642,8 +642,20 @@
     {
       "SECUCODE": "000650.SZ",
       "SECURITY_CODE": "000650",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 17845681,
+      "HOLD_NUM_RATIO": 1.27,
+      "HOLD_NUM_CHANGE": "2462233",
+      "CHANGE_RATIO": 16.00572901
+    },
+    {
+      "SECUCODE": "000650.SZ",
+      "SECURITY_CODE": "000650",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "仁和药业股份有限公司-第二期员工持股计划",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 15500000,
@@ -654,86 +666,74 @@
     {
       "SECUCODE": "000650.SZ",
       "SECURITY_CODE": "000650",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 15383448,
-      "HOLD_NUM_RATIO": 1.1,
-      "HOLD_NUM_CHANGE": "1895610",
-      "CHANGE_RATIO": 14.05421684
-    },
-    {
-      "SECUCODE": "000650.SZ",
-      "SECURITY_CODE": "000650",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10260700,
-      "HOLD_NUM_RATIO": 0.73,
-      "HOLD_NUM_CHANGE": "6800",
-      "CHANGE_RATIO": 0.06631623
-    },
-    {
-      "SECUCODE": "000650.SZ",
-      "SECURITY_CODE": "000650",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "黄杰",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 7525500,
       "HOLD_NUM_RATIO": 0.54,
-      "HOLD_NUM_CHANGE": "-689900",
-      "CHANGE_RATIO": -8.39764345
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000650.SZ",
       "SECURITY_CODE": "000650",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "中国建设银行股份有限公司-汇添富中证中药交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6886800,
-      "HOLD_NUM_RATIO": 0.49,
-      "HOLD_NUM_CHANGE": "-105600",
-      "CHANGE_RATIO": -1.51021109
+      "HOLD_NUM": 7300400,
+      "HOLD_NUM_RATIO": 0.52,
+      "HOLD_NUM_CHANGE": "413600",
+      "CHANGE_RATIO": 6.00569205
     },
     {
       "SECUCODE": "000650.SZ",
       "SECURITY_CODE": "000650",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "招商银行股份有限公司-华夏中证1000交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "陈科军",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6488960,
-      "HOLD_NUM_RATIO": 0.46,
-      "HOLD_NUM_CHANGE": "403560",
-      "CHANGE_RATIO": 6.63161008
-    },
-    {
-      "SECUCODE": "000650.SZ",
-      "SECURITY_CODE": "000650",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国工商银行股份有限公司-广发中证1000交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4652600,
-      "HOLD_NUM_RATIO": 0.33,
+      "HOLD_NUM": 5500000,
+      "HOLD_NUM_RATIO": 0.39,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000650.SZ",
       "SECURITY_CODE": "000650",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "蒋国梁",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中泰证券股份有限公司-华夏国证自由现金流交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4520093,
+      "HOLD_NUM": 4869600,
+      "HOLD_NUM_RATIO": 0.35,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000650.SZ",
+      "SECURITY_CODE": "000650",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "史红",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4496200,
       "HOLD_NUM_RATIO": 0.32,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000650.SZ",
+      "SECURITY_CODE": "000650",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "蒋国梁",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4300093,
+      "HOLD_NUM_RATIO": 0.31,
+      "HOLD_NUM_CHANGE": "-220000",
+      "CHANGE_RATIO": -4.86715649
     }
   ],
   "jgcc": [
@@ -742,23 +742,67 @@
       "SECURITY_CODE": "000650",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 152500,
-      "TOTAL_SHARES_RATIO": 0.01145423,
-      "ALL_SHARES_RATIO": 0.01089334
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 370967567,
+      "TOTAL_SHARES_RATIO": 27.8632653,
+      "ALL_SHARES_RATIO": 26.49885245
     },
     {
       "SECUCODE": "000650.SZ",
       "SECURITY_CODE": "000650",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 152500,
-      "TOTAL_SHARES_RATIO": 0.01145423,
-      "ALL_SHARES_RATIO": 0.01089334
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 12322500,
+      "TOTAL_SHARES_RATIO": 0.92553937,
+      "ALL_SHARES_RATIO": 0.88021741
+    },
+    {
+      "SECUCODE": "000650.SZ",
+      "SECURITY_CODE": "000650",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 358645067,
+      "TOTAL_SHARES_RATIO": 26.93772593,
+      "ALL_SHARES_RATIO": 25.61863504
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "000650.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "560080",
+      "HOLDER_NAME": "汇添富中证中药ETF",
+      "TOTAL_SHARES": 7300400,
+      "HOLD_VALUE": 41904296,
+      "TOTALSHARES_RATIO": 0.52148015,
+      "FREESHARES_RATIO": 0.54833091,
+      "FREE_MARKET_CAP": 41904296,
+      "FREE_SHARES": 7300400,
+      "SECURITY_CODE": "000650",
+      "FUND_CODE": "560080",
+      "FUND_DERIVECODE": "560080.SH",
+      "NETVALUE_RATIO": 1.67
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "000650.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "159201",
+      "HOLDER_NAME": "华夏国证自由现金流ETF",
+      "TOTAL_SHARES": 4869600,
+      "HOLD_VALUE": 27951504,
+      "TOTALSHARES_RATIO": 0.34784392,
+      "FREESHARES_RATIO": 0.36575423,
+      "FREE_MARKET_CAP": 27951504,
+      "FREE_SHARES": 4869600,
+      "SECURITY_CODE": "000650",
+      "FUND_CODE": "159201",
+      "FUND_DERIVECODE": "159201.SZ",
+      "NETVALUE_RATIO": 0.15
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "000650.SZ",

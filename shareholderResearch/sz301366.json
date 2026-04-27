@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 30.48,
       "AVG_HOLD_AMT": 196519.831914472,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 66.44954635,
+      "FREEHOLD_RATIO_TOTAL": 39.91236684
     },
     {
       "SECUCODE": "301366.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "301366.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "301366.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "301366.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301366.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "301366.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "301366.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -326,6 +331,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "301366.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "301366.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -339,47 +348,9 @@
     {
       "SECUCODE": "301366.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301366.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-11-04 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "深圳市领誉基石股权投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10899008,
-      "HOLD_NUM_RATIO": 5.2,
-      "HOLD_CHANGE": "-266960",
-      "CHANGE_RATIO": -2.39083616,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-03 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "深圳市领誉基石股权投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11165968,
-      "HOLD_NUM_RATIO": 5.33,
-      "HOLD_CHANGE": "-798000",
-      "CHANGE_RATIO": -6.67002787,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-09 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "深圳市领誉基石股权投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11963968,
-      "HOLD_NUM_RATIO": 5.71,
-      "HOLD_CHANGE": "-39720",
-      "CHANGE_RATIO": -0.3308983,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "301366.SZ",
@@ -407,130 +378,130 @@
     {
       "SECUCODE": "301366.SZ",
       "SECURITY_CODE": "301366",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "深圳市领誉基石股权投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 10476808,
-      "FREE_HOLDNUM_RATIO": 13.732982282319,
-      "HOLD_NUM_CHANGE": "-1526880",
-      "CHANGE_RATIO": -12.72009069
+      "FREE_HOLDNUM_RATIO": 8.954815805628,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301366.SZ",
       "SECURITY_CODE": "301366",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "庄毅智",
+      "HOLDER_NAME": "汤昌茂",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1316000,
-      "FREE_HOLDNUM_RATIO": 1.725010583713,
-      "HOLD_NUM_CHANGE": "400",
-      "CHANGE_RATIO": 0.03040438
+      "HOLD_NUM": 7462892,
+      "FREE_HOLDNUM_RATIO": 6.378738947711,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301366.SZ",
       "SECURITY_CODE": "301366",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_NAME": "柯汉生",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4975274,
+      "FREE_HOLDNUM_RATIO": 4.252503458356,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301366.SZ",
+      "SECURITY_CODE": "301366",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "王灿钟",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4975274,
+      "FREE_HOLDNUM_RATIO": 4.252503458356,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301366.SZ",
+      "SECURITY_CODE": "301366",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "郑宇峰",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3980227,
+      "FREE_HOLDNUM_RATIO": 3.402009433559,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301366.SZ",
+      "SECURITY_CODE": "301366",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "朱兴建",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3482665,
+      "FREE_HOLDNUM_RATIO": 2.976729514152,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301366.SZ",
+      "SECURITY_CODE": "301366",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "李庆海",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2985142,
+      "FREE_HOLDNUM_RATIO": 2.551482929118,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301366.SZ",
+      "SECURITY_CODE": "301366",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "吴均",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2985142,
+      "FREE_HOLDNUM_RATIO": 2.551482929118,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301366.SZ",
+      "SECURITY_CODE": "301366",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "深圳市凯博创投资咨询合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 996111,
-      "FREE_HOLDNUM_RATIO": 1.305700621241,
+      "HOLD_NUM": 2878092,
+      "FREE_HOLDNUM_RATIO": 2.459984351307,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301366.SZ",
       "SECURITY_CODE": "301366",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "叶剑淳",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 886240,
-      "FREE_HOLDNUM_RATIO": 1.161681899476,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301366.SZ",
-      "SECURITY_CODE": "301366",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "喻恒锋",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 548760,
-      "FREE_HOLDNUM_RATIO": 0.719313683829,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301366.SZ",
-      "SECURITY_CODE": "301366",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "伍玉华",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 454637,
-      "FREE_HOLDNUM_RATIO": 0.595937413942,
-      "HOLD_NUM_CHANGE": "16817",
-      "CHANGE_RATIO": 3.84107624
-    },
-    {
-      "SECUCODE": "301366.SZ",
-      "SECURITY_CODE": "301366",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "颜瑞花",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 369800,
-      "FREE_HOLDNUM_RATIO": 0.484733217217,
-      "HOLD_NUM_CHANGE": "-200",
-      "CHANGE_RATIO": -0.05405405
-    },
-    {
-      "SECUCODE": "301366.SZ",
-      "SECURITY_CODE": "301366",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "舒海明",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 359540,
-      "FREE_HOLDNUM_RATIO": 0.471284426496,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301366.SZ",
-      "SECURITY_CODE": "301366",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "龚文兰",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 352000,
-      "FREE_HOLDNUM_RATIO": 0.461401007194,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301366.SZ",
-      "SECURITY_CODE": "301366",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "徐百忠",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "深圳市杰博创投资咨询合伙企业(有限合伙)",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 327452,
-      "FREE_HOLDNUM_RATIO": 0.429223530135,
+      "HOLD_NUM": 2494498,
+      "FREE_HOLDNUM_RATIO": 2.132116014487,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -539,23 +510,23 @@
     {
       "SECUCODE": "301366.SZ",
       "SECURITY_CODE": "301366",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 16087348,
-      "LIMITED_SHARES": 133246814,
-      "OTHER_UNLIMITED_SHARES": 60202039,
-      "HOLD_NUM_RATIO": 7.68,
-      "LIMITED_SHARES_RATIO": 63.59,
-      "UNLIMITED_SHARES_RATIO": 28.73
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 46696014,
+      "LIMITED_SHARES": 92539847,
+      "OTHER_UNLIMITED_SHARES": 70300340,
+      "HOLD_NUM_RATIO": 22.29,
+      "LIMITED_SHARES_RATIO": 44.16,
+      "UNLIMITED_SHARES_RATIO": 33.55
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "301366.SZ",
       "SECURITY_CODE": "301366",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "汤昌茂",
-      "SHARES_TYPE": "限售流通A股",
+      "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 29851567,
       "HOLD_NUM_RATIO": 14.25,
       "HOLD_NUM_CHANGE": "不变",
@@ -564,10 +535,10 @@
     {
       "SECUCODE": "301366.SZ",
       "SECURITY_CODE": "301366",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "柯汉生",
-      "SHARES_TYPE": "限售流通A股",
+      "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 19901095,
       "HOLD_NUM_RATIO": 9.5,
       "HOLD_NUM_CHANGE": "不变",
@@ -576,10 +547,10 @@
     {
       "SECUCODE": "301366.SZ",
       "SECURITY_CODE": "301366",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "王灿钟",
-      "SHARES_TYPE": "限售流通A股",
+      "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 19901095,
       "HOLD_NUM_RATIO": 9.5,
       "HOLD_NUM_CHANGE": "不变",
@@ -588,10 +559,10 @@
     {
       "SECUCODE": "301366.SZ",
       "SECURITY_CODE": "301366",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "郑宇峰",
-      "SHARES_TYPE": "限售流通A股",
+      "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 15920906,
       "HOLD_NUM_RATIO": 7.6,
       "HOLD_NUM_CHANGE": "不变",
@@ -600,10 +571,10 @@
     {
       "SECUCODE": "301366.SZ",
       "SECURITY_CODE": "301366",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "朱兴建",
-      "SHARES_TYPE": "限售流通A股",
+      "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 13930661,
       "HOLD_NUM_RATIO": 6.65,
       "HOLD_NUM_CHANGE": "不变",
@@ -612,10 +583,10 @@
     {
       "SECUCODE": "301366.SZ",
       "SECURITY_CODE": "301366",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "吴均",
-      "SHARES_TYPE": "限售流通A股",
+      "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 11940567,
       "HOLD_NUM_RATIO": 5.7,
       "HOLD_NUM_CHANGE": "不变",
@@ -624,10 +595,10 @@
     {
       "SECUCODE": "301366.SZ",
       "SECURITY_CODE": "301366",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "李庆海",
-      "SHARES_TYPE": "限售流通A股",
+      "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 11940566,
       "HOLD_NUM_RATIO": 5.7,
       "HOLD_NUM_CHANGE": "不变",
@@ -636,22 +607,22 @@
     {
       "SECUCODE": "301366.SZ",
       "SECURITY_CODE": "301366",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "深圳市领誉基石股权投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 10476808,
       "HOLD_NUM_RATIO": 5,
-      "HOLD_NUM_CHANGE": "-422200",
-      "CHANGE_RATIO": -3.87374704
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301366.SZ",
       "SECURITY_CODE": "301366",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "深圳市凯博创投资咨询合伙企业(有限合伙)",
-      "SHARES_TYPE": "限售流通A股",
+      "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2878092,
       "HOLD_NUM_RATIO": 1.37,
       "HOLD_NUM_CHANGE": "不变",
@@ -660,10 +631,10 @@
     {
       "SECUCODE": "301366.SZ",
       "SECURITY_CODE": "301366",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "深圳市杰博创投资咨询合伙企业(有限合伙)",
-      "SHARES_TYPE": "限售流通A股",
+      "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2494498,
       "HOLD_NUM_RATIO": 1.19,
       "HOLD_NUM_CHANGE": "不变",
@@ -674,32 +645,22 @@
     {
       "SECUCODE": "301366.SZ",
       "SECURITY_CODE": "301366",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 17,
-      "TOTAL_FREE_SHARES": 11614605,
-      "TOTAL_SHARES_RATIO": 15.22440467,
-      "ALL_SHARES_RATIO": 5.54300638
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 15849398,
+      "TOTAL_SHARES_RATIO": 13.54691617,
+      "ALL_SHARES_RATIO": 7.56403806
     },
     {
       "SECUCODE": "301366.SZ",
       "SECURITY_CODE": "301366",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 15,
-      "TOTAL_FREE_SHARES": 141686,
-      "TOTAL_SHARES_RATIO": 0.18572177,
-      "ALL_SHARES_RATIO": 0.06761886
-    },
-    {
-      "SECUCODE": "301366.SZ",
-      "SECURITY_CODE": "301366",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 11472919,
-      "TOTAL_SHARES_RATIO": 15.0386829,
-      "ALL_SHARES_RATIO": 5.47538752
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 15849398,
+      "TOTAL_SHARES_RATIO": 13.54691617,
+      "ALL_SHARES_RATIO": 7.56403806
     }
   ],
   "jjcg": [

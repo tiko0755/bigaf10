@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 20.27,
       "AVG_HOLD_AMT": 107484.102915635,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 30.44631342,
+      "FREEHOLD_RATIO_TOTAL": 30.44631342
     },
     {
       "SECUCODE": "603042.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603042.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603042.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603042.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603042.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603042.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603042.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603042.SH",
       "END_DATE": "2018-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "603042.SH",
-      "END_DATE": "2018-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "603042.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "603042.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "603042.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603042.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "603042.SH",
       "SECURITY_CODE": "603042",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "胥爱民",
       "HOLDER_TYPE": "个人",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "603042.SH",
       "SECURITY_CODE": "603042",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "王晓甫",
       "HOLDER_TYPE": "个人",
@@ -499,126 +499,126 @@
     {
       "SECUCODE": "603042.SH",
       "SECURITY_CODE": "603042",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "金东投资集团有限公司",
-      "HOLDER_TYPE": "投资公司",
+      "HOLDER_NAME": "吴珩",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3020000,
-      "FREE_HOLDNUM_RATIO": 1.88056728869,
+      "HOLD_NUM": 1819831,
+      "FREE_HOLDNUM_RATIO": 1.133216771372,
+      "HOLD_NUM_CHANGE": "-35000",
+      "CHANGE_RATIO": -1.88696436
+    },
+    {
+      "SECUCODE": "603042.SH",
+      "SECURITY_CODE": "603042",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "MORGAN STANLEY&CO.INTERNATIONAL PLC.",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1474008,
+      "FREE_HOLDNUM_RATIO": 0.917871267572,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603042.SH",
+      "SECURITY_CODE": "603042",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1060900,
+      "FREE_HOLDNUM_RATIO": 0.660627098202,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603042.SH",
+      "SECURITY_CODE": "603042",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "陈文健",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1045700,
+      "FREE_HOLDNUM_RATIO": 0.651161991319,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603042.SH",
       "SECURITY_CODE": "603042",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "吴珩",
-      "HOLDER_TYPE": "个人",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "UBS AG",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1854831,
-      "FREE_HOLDNUM_RATIO": 1.15501142538,
-      "HOLD_NUM_CHANGE": "-38000",
-      "CHANGE_RATIO": -2.0075749
+      "HOLD_NUM": 1036268,
+      "FREE_HOLDNUM_RATIO": 0.645288643416,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603042.SH",
       "SECURITY_CODE": "603042",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "林晓庆",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 886500,
+      "FREE_HOLDNUM_RATIO": 0.552027450803,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603042.SH",
+      "SECURITY_CODE": "603042",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中信证券资产管理(香港)有限公司-客户资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 747316,
+      "FREE_HOLDNUM_RATIO": 0.465356961561,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603042.SH",
+      "SECURITY_CODE": "603042",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "BARCLAYS BANK PLC",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1506704,
-      "FREE_HOLDNUM_RATIO": 0.938231210642,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603042.SH",
-      "SECURITY_CODE": "603042",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "隋永亮",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1213200,
-      "FREE_HOLDNUM_RATIO": 0.755464978357,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603042.SH",
-      "SECURITY_CODE": "603042",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "陈文健",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1045700,
-      "FREE_HOLDNUM_RATIO": 0.651161991319,
-      "HOLD_NUM_CHANGE": "5400",
-      "CHANGE_RATIO": 0.51908103
-    },
-    {
-      "SECUCODE": "603042.SH",
-      "SECURITY_CODE": "603042",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "陈春花",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 960000,
-      "FREE_HOLDNUM_RATIO": 0.597796224219,
-      "HOLD_NUM_CHANGE": "-11100",
-      "CHANGE_RATIO": -1.14303367
-    },
-    {
-      "SECUCODE": "603042.SH",
-      "SECURITY_CODE": "603042",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "前海人寿保险股份有限公司-分红保险产品",
-      "HOLDER_TYPE": "保险产品",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 900000,
-      "FREE_HOLDNUM_RATIO": 0.560433960206,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603042.SH",
-      "SECURITY_CODE": "603042",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "江苏新明投资管理有限公司",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 580054,
-      "FREE_HOLDNUM_RATIO": 0.36120217817,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 655869,
+      "FREE_HOLDNUM_RATIO": 0.408412512274,
+      "HOLD_NUM_CHANGE": "-850835",
+      "CHANGE_RATIO": -56.4699503
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "603042.SH",
       "SECURITY_CODE": "603042",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 51247783,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 48893686,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 109342057,
-      "HOLD_NUM_RATIO": 31.91,
+      "OTHER_UNLIMITED_SHARES": 111696154,
+      "HOLD_NUM_RATIO": 30.45,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 68.09
+      "UNLIMITED_SHARES_RATIO": 69.55
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603042.SH",
       "SECURITY_CODE": "603042",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "胥爱民",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "603042.SH",
       "SECURITY_CODE": "603042",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "王晓甫",
       "SHARES_TYPE": "流通A股",
@@ -642,150 +642,120 @@
     {
       "SECUCODE": "603042.SH",
       "SECURITY_CODE": "603042",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "金东投资集团有限公司",
+      "HOLDER_NAME": "吴珩",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3020000,
-      "HOLD_NUM_RATIO": 1.88,
+      "HOLD_NUM": 1819831,
+      "HOLD_NUM_RATIO": 1.13,
+      "HOLD_NUM_CHANGE": "-35000",
+      "CHANGE_RATIO": -1.88696436
+    },
+    {
+      "SECUCODE": "603042.SH",
+      "SECURITY_CODE": "603042",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "MORGAN STANLEY&CO.INTERNATIONAL PLC.",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1474008,
+      "HOLD_NUM_RATIO": 0.92,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603042.SH",
+      "SECURITY_CODE": "603042",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1060900,
+      "HOLD_NUM_RATIO": 0.66,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603042.SH",
+      "SECURITY_CODE": "603042",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "陈文健",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1045700,
+      "HOLD_NUM_RATIO": 0.65,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603042.SH",
       "SECURITY_CODE": "603042",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "吴珩",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "UBS AG",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1854831,
-      "HOLD_NUM_RATIO": 1.16,
-      "HOLD_NUM_CHANGE": "-38000",
-      "CHANGE_RATIO": -2.0075749
+      "HOLD_NUM": 1036268,
+      "HOLD_NUM_RATIO": 0.65,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603042.SH",
       "SECURITY_CODE": "603042",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "林晓庆",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 886500,
+      "HOLD_NUM_RATIO": 0.55,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603042.SH",
+      "SECURITY_CODE": "603042",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中信证券资产管理(香港)有限公司-客户资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 747316,
+      "HOLD_NUM_RATIO": 0.47,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603042.SH",
+      "SECURITY_CODE": "603042",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "BARCLAYS BANK PLC",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1506704,
-      "HOLD_NUM_RATIO": 0.94,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603042.SH",
-      "SECURITY_CODE": "603042",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "隋永亮",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1213200,
-      "HOLD_NUM_RATIO": 0.76,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603042.SH",
-      "SECURITY_CODE": "603042",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "陈文健",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1045700,
-      "HOLD_NUM_RATIO": 0.65,
-      "HOLD_NUM_CHANGE": "5400",
-      "CHANGE_RATIO": 0.51908103
-    },
-    {
-      "SECUCODE": "603042.SH",
-      "SECURITY_CODE": "603042",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "陈春花",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 960000,
-      "HOLD_NUM_RATIO": 0.6,
-      "HOLD_NUM_CHANGE": "-11100",
-      "CHANGE_RATIO": -1.14303367
-    },
-    {
-      "SECUCODE": "603042.SH",
-      "SECURITY_CODE": "603042",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "前海人寿保险股份有限公司-分红保险产品",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 900000,
-      "HOLD_NUM_RATIO": 0.56,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603042.SH",
-      "SECURITY_CODE": "603042",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "江苏新明投资管理有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 580054,
-      "HOLD_NUM_RATIO": 0.36,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 655869,
+      "HOLD_NUM_RATIO": 0.41,
+      "HOLD_NUM_CHANGE": "-850835",
+      "CHANGE_RATIO": -56.4699503
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "603042.SH",
       "SECURITY_CODE": "603042",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 11,
-      "TOTAL_FREE_SHARES": 6206355,
-      "TOTAL_SHARES_RATIO": 3.86472457,
-      "ALL_SHARES_RATIO": 3.86472457
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 4974361,
+      "TOTAL_SHARES_RATIO": 3.09755648,
+      "ALL_SHARES_RATIO": 3.09755648
     },
     {
       "SECUCODE": "603042.SH",
       "SECURITY_CODE": "603042",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 7,
-      "TOTAL_FREE_SHARES": 199597,
-      "TOTAL_SHARES_RATIO": 0.12428993,
-      "ALL_SHARES_RATIO": 0.12428993
-    },
-    {
-      "SECUCODE": "603042.SH",
-      "SECURITY_CODE": "603042",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "02",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 1506704,
-      "TOTAL_SHARES_RATIO": 0.93823121,
-      "ALL_SHARES_RATIO": 0.93823121
-    },
-    {
-      "SECUCODE": "603042.SH",
-      "SECURITY_CODE": "603042",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "05",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 900000,
-      "TOTAL_SHARES_RATIO": 0.56043396,
-      "ALL_SHARES_RATIO": 0.56043396
-    },
-    {
-      "SECUCODE": "603042.SH",
-      "SECURITY_CODE": "603042",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 3600054,
-      "TOTAL_SHARES_RATIO": 2.24176947,
-      "ALL_SHARES_RATIO": 2.24176947
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 4974361,
+      "TOTAL_SHARES_RATIO": 3.09755648,
+      "ALL_SHARES_RATIO": 3.09755648
     }
   ],
   "jjcg": [

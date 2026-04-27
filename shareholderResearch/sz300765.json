@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 31.76,
       "AVG_HOLD_AMT": 1856115.16607473,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 79.86199979,
+      "FREEHOLD_RATIO_TOTAL": 79.86199979
     },
     {
       "SECUCODE": "300765.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300765.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300765.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300765.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300765.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300765.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300765.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -443,46 +448,46 @@
     {
       "SECUCODE": "300765.SZ",
       "SECURITY_CODE": "300765",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "石药集团恩必普药业有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1037058294,
       "FREE_HOLDNUM_RATIO": 73.833369192833,
-      "HOLD_NUM_CHANGE": "157520510",
-      "CHANGE_RATIO": 17.90946482
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300765.SZ",
       "SECURITY_CODE": "300765",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 28769542,
-      "FREE_HOLDNUM_RATIO": 2.048247652311,
-      "HOLD_NUM_CHANGE": "10987327",
-      "CHANGE_RATIO": 61.7882924
+      "HOLD_NUM": 17530761,
+      "FREE_HOLDNUM_RATIO": 1.248102596192,
+      "HOLD_NUM_CHANGE": "-11238781",
+      "CHANGE_RATIO": -39.06485894
     },
     {
       "SECUCODE": "300765.SZ",
       "SECURITY_CODE": "300765",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中国建设银行股份有限公司-工银瑞信前沿医疗股票型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 14500000,
-      "FREE_HOLDNUM_RATIO": 1.032327555249,
-      "HOLD_NUM_CHANGE": "499925",
-      "CHANGE_RATIO": 3.57087373
+      "HOLD_NUM": 14000000,
+      "FREE_HOLDNUM_RATIO": 0.996730053344,
+      "HOLD_NUM_CHANGE": "-500000",
+      "CHANGE_RATIO": -3.44827586
     },
     {
       "SECUCODE": "300765.SZ",
       "SECURITY_CODE": "300765",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "石药集团欧意药业有限公司",
       "HOLDER_TYPE": "其它",
@@ -495,21 +500,8 @@
     {
       "SECUCODE": "300765.SZ",
       "SECURITY_CODE": "300765",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国建设银行股份有限公司-汇添富创新医药主题混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10845884,
-      "FREE_HOLDNUM_RATIO": 0.772172752706,
-      "HOLD_NUM_CHANGE": "-1431100",
-      "CHANGE_RATIO": -11.65677173
-    },
-    {
-      "SECUCODE": "300765.SZ",
-      "SECURITY_CODE": "300765",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "华泰优逸五号混合型养老金产品-中国银行股份有限公司",
       "HOLDER_TYPE": "其他理财产品",
       "SHARES_TYPE": "A股",
@@ -521,74 +513,87 @@
     {
       "SECUCODE": "300765.SZ",
       "SECURITY_CODE": "300765",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国建设银行股份有限公司-汇添富创新医药主题混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 8446585,
+      "FREE_HOLDNUM_RATIO": 0.601354651259,
+      "HOLD_NUM_CHANGE": "-2399299",
+      "CHANGE_RATIO": -22.12174683
+    },
+    {
+      "SECUCODE": "300765.SZ",
+      "SECURITY_CODE": "300765",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "基本养老保险基金二零零四组合",
       "HOLDER_TYPE": "基本养老基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7771573,
-      "FREE_HOLDNUM_RATIO": 0.553297169347,
+      "HOLD_NUM": 8145373,
+      "FREE_HOLDNUM_RATIO": 0.579909861771,
+      "HOLD_NUM_CHANGE": "373800",
+      "CHANGE_RATIO": 4.80983708
+    },
+    {
+      "SECUCODE": "300765.SZ",
+      "SECURITY_CODE": "300765",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国移动通信集团有限公司企业年金计划-中国工商银行股份有限公司",
+      "HOLDER_TYPE": "企业年金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5979437,
+      "FREE_HOLDNUM_RATIO": 0.425706039998,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300765.SZ",
       "SECURITY_CODE": "300765",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国工商银行股份有限公司-易方达创业板交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "招商银行股份有限公司-汇添富医疗服务灵活配置混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7028070,
-      "FREE_HOLDNUM_RATIO": 0.500363470429,
-      "HOLD_NUM_CHANGE": "-839937",
-      "CHANGE_RATIO": -10.67534637
-    },
-    {
-      "SECUCODE": "300765.SZ",
-      "SECURITY_CODE": "300765",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "UBS AG",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6876856,
-      "FREE_HOLDNUM_RATIO": 0.489597789123,
+      "HOLD_NUM": 5198563,
+      "FREE_HOLDNUM_RATIO": 0.370111712593,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300765.SZ",
       "SECURITY_CODE": "300765",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "中国民生银行股份有限公司-中银创新医疗混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6345789,
-      "FREE_HOLDNUM_RATIO": 0.451788472034,
-      "HOLD_NUM_CHANGE": "-51100",
-      "CHANGE_RATIO": -0.7988258
+      "HOLD_NUM": 4999789,
+      "FREE_HOLDNUM_RATIO": 0.355959996906,
+      "HOLD_NUM_CHANGE": "-1346000",
+      "CHANGE_RATIO": -21.2109164
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "300765.SZ",
       "SECURITY_CODE": "300765",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 1139573220,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 1121736014,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 265019724,
-      "HOLD_NUM_RATIO": 81.13,
+      "OTHER_UNLIMITED_SHARES": 282856930,
+      "HOLD_NUM_RATIO": 79.86,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 18.87
+      "UNLIMITED_SHARES_RATIO": 20.14
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300765.SZ",
       "SECURITY_CODE": "300765",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "石药集团恩必普药业有限公司",
       "SHARES_TYPE": "流通A股",
@@ -600,31 +605,31 @@
     {
       "SECUCODE": "300765.SZ",
       "SECURITY_CODE": "300765",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 28769542,
-      "HOLD_NUM_RATIO": 2.05,
-      "HOLD_NUM_CHANGE": "10987327",
-      "CHANGE_RATIO": 61.7882924
+      "HOLD_NUM": 17530761,
+      "HOLD_NUM_RATIO": 1.25,
+      "HOLD_NUM_CHANGE": "-11238781",
+      "CHANGE_RATIO": -39.06485894
     },
     {
       "SECUCODE": "300765.SZ",
       "SECURITY_CODE": "300765",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中国建设银行股份有限公司-工银瑞信前沿医疗股票型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 14500000,
-      "HOLD_NUM_RATIO": 1.03,
-      "HOLD_NUM_CHANGE": "499925",
-      "CHANGE_RATIO": 3.57087373
+      "HOLD_NUM": 14000000,
+      "HOLD_NUM_RATIO": 1,
+      "HOLD_NUM_CHANGE": "-500000",
+      "CHANGE_RATIO": -3.44827586
     },
     {
       "SECUCODE": "300765.SZ",
       "SECURITY_CODE": "300765",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "石药集团欧意药业有限公司",
       "SHARES_TYPE": "流通A股",
@@ -636,20 +641,8 @@
     {
       "SECUCODE": "300765.SZ",
       "SECURITY_CODE": "300765",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国建设银行股份有限公司-汇添富创新医药主题混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10845884,
-      "HOLD_NUM_RATIO": 0.77,
-      "HOLD_NUM_CHANGE": "-1431100",
-      "CHANGE_RATIO": -11.65677173
-    },
-    {
-      "SECUCODE": "300765.SZ",
-      "SECURITY_CODE": "300765",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "华泰优逸五号混合型养老金产品-中国银行股份有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 8790000,
@@ -660,50 +653,62 @@
     {
       "SECUCODE": "300765.SZ",
       "SECURITY_CODE": "300765",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国建设银行股份有限公司-汇添富创新医药主题混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 8446585,
+      "HOLD_NUM_RATIO": 0.6,
+      "HOLD_NUM_CHANGE": "-2399299",
+      "CHANGE_RATIO": -22.12174683
+    },
+    {
+      "SECUCODE": "300765.SZ",
+      "SECURITY_CODE": "300765",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "基本养老保险基金二零零四组合",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7771573,
-      "HOLD_NUM_RATIO": 0.55,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 8145373,
+      "HOLD_NUM_RATIO": 0.58,
+      "HOLD_NUM_CHANGE": "373800",
+      "CHANGE_RATIO": 4.80983708
     },
     {
       "SECUCODE": "300765.SZ",
       "SECURITY_CODE": "300765",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国工商银行股份有限公司-易方达创业板交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "中国移动通信集团有限公司企业年金计划-中国工商银行股份有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7028070,
-      "HOLD_NUM_RATIO": 0.5,
-      "HOLD_NUM_CHANGE": "-839937",
-      "CHANGE_RATIO": -10.67534637
-    },
-    {
-      "SECUCODE": "300765.SZ",
-      "SECURITY_CODE": "300765",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "UBS AG",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6876856,
-      "HOLD_NUM_RATIO": 0.49,
+      "HOLD_NUM": 5979437,
+      "HOLD_NUM_RATIO": 0.43,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300765.SZ",
       "SECURITY_CODE": "300765",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "招商银行股份有限公司-汇添富医疗服务灵活配置混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5198563,
+      "HOLD_NUM_RATIO": 0.37,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300765.SZ",
+      "SECURITY_CODE": "300765",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "中国民生银行股份有限公司-中银创新医疗混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6345789,
-      "HOLD_NUM_RATIO": 0.45,
-      "HOLD_NUM_CHANGE": "-51100",
-      "CHANGE_RATIO": -0.7988258
+      "HOLD_NUM": 4999789,
+      "HOLD_NUM_RATIO": 0.36,
+      "HOLD_NUM_CHANGE": "-1346000",
+      "CHANGE_RATIO": -21.2109164
     }
   ],
   "jgcc": [
@@ -712,20 +717,30 @@
       "SECURITY_CODE": "300765",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 45,
-      "TOTAL_FREE_SHARES": 46040932,
-      "TOTAL_SHARES_RATIO": 3.27788432,
-      "ALL_SHARES_RATIO": 3.27788432
+      "TOTAL_ORG_NUM": 52,
+      "TOTAL_FREE_SHARES": 1143578594,
+      "TOTAL_SHARES_RATIO": 81.41708234,
+      "ALL_SHARES_RATIO": 81.41708234
     },
     {
       "SECUCODE": "300765.SZ",
       "SECURITY_CODE": "300765",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 45,
-      "TOTAL_FREE_SHARES": 46040932,
-      "TOTAL_SHARES_RATIO": 3.27788432,
-      "ALL_SHARES_RATIO": 3.27788432
+      "TOTAL_ORG_NUM": 46,
+      "TOTAL_FREE_SHARES": 54487517,
+      "TOTAL_SHARES_RATIO": 3.87923897,
+      "ALL_SHARES_RATIO": 3.87923897
+    },
+    {
+      "SECUCODE": "300765.SZ",
+      "SECURITY_CODE": "300765",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 1089091077,
+      "TOTAL_SHARES_RATIO": 77.53784337,
+      "ALL_SHARES_RATIO": 77.53784337
     }
   ],
   "jjcg": [
@@ -745,6 +760,23 @@
       "FUND_CODE": "001717",
       "FUND_DERIVECODE": "001717.OF",
       "NETVALUE_RATIO": 5.3
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300765.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "006113",
+      "HOLDER_NAME": "汇添富创新医药混合A",
+      "TOTAL_SHARES": 8446585,
+      "HOLD_VALUE": 268263539.6,
+      "TOTALSHARES_RATIO": 0.60135465,
+      "FREESHARES_RATIO": 0.60135465,
+      "FREE_MARKET_CAP": 268263539.6,
+      "FREE_SHARES": 8446585,
+      "SECURITY_CODE": "300765",
+      "FUND_CODE": "006113",
+      "FUND_DERIVECODE": "006113.OF",
+      "NETVALUE_RATIO": 3.61
     },
     {
       "ORG_TYPE": "01",

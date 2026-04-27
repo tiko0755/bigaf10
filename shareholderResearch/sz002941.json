@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 15.66,
       "AVG_HOLD_AMT": 146408.344801999,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 48.04729933,
+      "FREEHOLD_RATIO_TOTAL": 48.04729933
     },
     {
       "SECUCODE": "002941.SZ",
@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002941.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002941.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002941.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,17 +161,14 @@
     {
       "SECUCODE": "002941.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002941.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002941.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002941.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002941.SZ",
       "END_DATE": "2026-02-27 00:00:00",
@@ -183,6 +188,11 @@
       "SECUCODE": "002941.SZ",
       "END_DATE": "2026-01-23 00:00:00",
       "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "002941.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
     },
     {
       "SECUCODE": "002941.SZ",
@@ -403,16 +413,6 @@
       "SECUCODE": "002941.SZ",
       "END_DATE": "2020-12-08 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "002941.SZ",
-      "END_DATE": "2020-12-07 00:00:00",
-      "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "002941.SZ",
-      "END_DATE": "2020-12-04 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "002941.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "002941.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "002941.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002941.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [
@@ -478,39 +478,6 @@
       "HOLD_CHANGE": "-770700",
       "CHANGE_RATIO": -1.79100087,
       "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-30 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "新疆特变电工集团有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 43031805,
-      "HOLD_NUM_RATIO": 5.9,
-      "HOLD_CHANGE": "-2000000",
-      "CHANGE_RATIO": -4.44130543,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-29 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "新疆特变电工集团有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 45031805,
-      "HOLD_NUM_RATIO": 6.17,
-      "HOLD_CHANGE": "-9452485",
-      "CHANGE_RATIO": -17.34901015,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-26 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "新疆特变电工集团有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 54484290,
-      "HOLD_NUM_RATIO": 7.47,
-      "HOLD_CHANGE": "-500000",
-      "CHANGE_RATIO": -0.90935065,
-      "CHANGE_REASON": "临时公告"
     }
   ],
   "jjcg_date": [
@@ -540,7 +507,7 @@
     {
       "SECUCODE": "002941.SZ",
       "SECURITY_CODE": "002941",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "新疆交通投资(集团)有限责任公司",
       "HOLDER_TYPE": "投资公司",
@@ -553,7 +520,7 @@
     {
       "SECUCODE": "002941.SZ",
       "SECURITY_CODE": "002941",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "新疆金融投资(集团)有限责任公司",
       "HOLDER_TYPE": "投资公司",
@@ -566,20 +533,20 @@
     {
       "SECUCODE": "002941.SZ",
       "SECURITY_CODE": "002941",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "新疆特变电工集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 54984290,
-      "FREE_HOLDNUM_RATIO": 7.53466278777,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 36487487,
+      "FREE_HOLDNUM_RATIO": 4.999990188436,
+      "HOLD_NUM_CHANGE": "-6544318",
+      "CHANGE_RATIO": -15.2080955
     },
     {
       "SECUCODE": "002941.SZ",
       "SECURITY_CODE": "002941",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "新疆新业盛融创业投资有限责任公司",
       "HOLDER_TYPE": "投资公司",
@@ -592,78 +559,78 @@
     {
       "SECUCODE": "002941.SZ",
       "SECURITY_CODE": "002941",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8665020,
-      "FREE_HOLDNUM_RATIO": 1.187393776464,
-      "HOLD_NUM_CHANGE": "2925444",
-      "CHANGE_RATIO": 50.96968835
-    },
-    {
-      "SECUCODE": "002941.SZ",
-      "SECURITY_CODE": "002941",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "新疆通海股权投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 5250000,
       "FREE_HOLDNUM_RATIO": 0.719423305017,
-      "HOLD_NUM_CHANGE": "-5835846",
-      "CHANGE_RATIO": -52.64231525
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002941.SZ",
       "SECURITY_CODE": "002941",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5083443,
+      "FREE_HOLDNUM_RATIO": 0.69659949789,
+      "HOLD_NUM_CHANGE": "-1088424",
+      "CHANGE_RATIO": -17.63524716
+    },
+    {
+      "SECUCODE": "002941.SZ",
+      "SECURITY_CODE": "002941",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "张利英",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3197614,
-      "FREE_HOLDNUM_RATIO": 0.438178672771,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2320000,
+      "FREE_HOLDNUM_RATIO": 0.317916584312,
+      "HOLD_NUM_CHANGE": "358900",
+      "CHANGE_RATIO": 18.30095355
     },
     {
       "SECUCODE": "002941.SZ",
       "SECURITY_CODE": "002941",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "朱孝坤",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2956900,
-      "FREE_HOLDNUM_RATIO": 0.405192908686,
-      "HOLD_NUM_CHANGE": "-14100",
-      "CHANGE_RATIO": -0.47458768
+      "HOLD_NUM": 2200700,
+      "FREE_HOLDNUM_RATIO": 0.301568546162,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002941.SZ",
       "SECURITY_CODE": "002941",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "前海人寿保险股份有限公司-分红保险产品",
-      "HOLDER_TYPE": "保险产品",
+      "HOLDER_NAME": "陈耀景",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2700000,
-      "FREE_HOLDNUM_RATIO": 0.369989128294,
+      "HOLD_NUM": 1800000,
+      "FREE_HOLDNUM_RATIO": 0.246659418863,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002941.SZ",
       "SECURITY_CODE": "002941",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "前海人寿保险股份有限公司-分红保险产品华泰组合",
-      "HOLDER_TYPE": "保险产品",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "李晓堂",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2360000,
-      "FREE_HOLDNUM_RATIO": 0.323397904731,
+      "HOLD_NUM": 1800000,
+      "FREE_HOLDNUM_RATIO": 0.246659418863,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -672,20 +639,20 @@
     {
       "SECUCODE": "002941.SZ",
       "SECURITY_CODE": "002941",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 375797924,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 350625730,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 353953248,
-      "HOLD_NUM_RATIO": 51.5,
+      "OTHER_UNLIMITED_SHARES": 379125442,
+      "HOLD_NUM_RATIO": 48.05,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 48.5
+      "UNLIMITED_SHARES_RATIO": 51.95
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002941.SZ",
       "SECURITY_CODE": "002941",
-      "END_DATE": "2026-02-27 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "新疆交通投资(集团)有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -697,7 +664,7 @@
     {
       "SECUCODE": "002941.SZ",
       "SECURITY_CODE": "002941",
-      "END_DATE": "2026-02-27 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "新疆金融投资(集团)有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -705,28 +672,124 @@
       "HOLD_NUM_RATIO": 8.85,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002941.SZ",
+      "SECURITY_CODE": "002941",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "新疆特变电工集团有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 36487487,
+      "HOLD_NUM_RATIO": 5,
+      "HOLD_NUM_CHANGE": "-869218",
+      "CHANGE_RATIO": -2.32680586
+    },
+    {
+      "SECUCODE": "002941.SZ",
+      "SECURITY_CODE": "002941",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "新疆新业盛融创业投资有限责任公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 11806000,
+      "HOLD_NUM_RATIO": 1.62,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002941.SZ",
+      "SECURITY_CODE": "002941",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "新疆通海股权投资合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5250000,
+      "HOLD_NUM_RATIO": 0.72,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002941.SZ",
+      "SECURITY_CODE": "002941",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5083443,
+      "HOLD_NUM_RATIO": 0.7,
+      "HOLD_NUM_CHANGE": "-1088424",
+      "CHANGE_RATIO": -17.63524716
+    },
+    {
+      "SECUCODE": "002941.SZ",
+      "SECURITY_CODE": "002941",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "张利英",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2320000,
+      "HOLD_NUM_RATIO": 0.32,
+      "HOLD_NUM_CHANGE": "358900",
+      "CHANGE_RATIO": 18.30095355
+    },
+    {
+      "SECUCODE": "002941.SZ",
+      "SECURITY_CODE": "002941",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "朱孝坤",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2200700,
+      "HOLD_NUM_RATIO": 0.3,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002941.SZ",
+      "SECURITY_CODE": "002941",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "陈耀景",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1800000,
+      "HOLD_NUM_RATIO": 0.25,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002941.SZ",
+      "SECURITY_CODE": "002941",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "李晓堂",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1800000,
+      "HOLD_NUM_RATIO": 0.25,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "002941.SZ",
       "SECURITY_CODE": "002941",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 73,
-      "TOTAL_FREE_SHARES": 14028426,
-      "TOTAL_SHARES_RATIO": 1.92235747,
-      "ALL_SHARES_RATIO": 1.92235747
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 342505030,
+      "TOTAL_SHARES_RATIO": 46.93449537,
+      "ALL_SHARES_RATIO": 46.93449537
     },
     {
       "SECUCODE": "002941.SZ",
       "SECURITY_CODE": "002941",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 73,
-      "TOTAL_FREE_SHARES": 14028426,
-      "TOTAL_SHARES_RATIO": 1.92235747,
-      "ALL_SHARES_RATIO": 1.92235747
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 342505030,
+      "TOTAL_SHARES_RATIO": 46.93449537,
+      "ALL_SHARES_RATIO": 46.93449537
     }
   ],
   "jjcg": [

@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 13.31,
       "AVG_HOLD_AMT": 480765.229958311,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 77.63735041,
+      "FREEHOLD_RATIO_TOTAL": 65.70241899
     },
     {
       "SECUCODE": "000719.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000719.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000719.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "000719.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000719.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000719.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000719.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "000719.SZ",
       "END_DATE": "2015-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000719.SZ",
-      "END_DATE": "2014-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "000719.SZ",
       "SECURITY_CODE": "000719",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中原出版传媒投资控股集团有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -486,34 +486,21 @@
     {
       "SECUCODE": "000719.SZ",
       "SECURITY_CODE": "000719",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 31109695,
-      "FREE_HOLDNUM_RATIO": 4.663090695067,
-      "HOLD_NUM_CHANGE": "-14852112",
-      "CHANGE_RATIO": -32.31402978
+      "HOLD_NUM": 18390437,
+      "FREE_HOLDNUM_RATIO": 2.756577190902,
+      "HOLD_NUM_CHANGE": "-12719258",
+      "CHANGE_RATIO": -40.88519029
     },
     {
       "SECUCODE": "000719.SZ",
       "SECURITY_CODE": "000719",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "中国工商银行股份有限公司-国联优势产业混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12694401,
-      "FREE_HOLDNUM_RATIO": 1.902787641684,
-      "HOLD_NUM_CHANGE": "901600",
-      "CHANGE_RATIO": 7.64534227
-    },
-    {
-      "SECUCODE": "000719.SZ",
-      "SECURITY_CODE": "000719",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "焦作通良资产经营有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -525,60 +512,86 @@
     {
       "SECUCODE": "000719.SZ",
       "SECURITY_CODE": "000719",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "中国工商银行股份有限公司-国联优势产业混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 9350001,
+      "FREE_HOLDNUM_RATIO": 1.401489235493,
+      "HOLD_NUM_CHANGE": "-3344400",
+      "CHANGE_RATIO": -26.34547309
+    },
+    {
+      "SECUCODE": "000719.SZ",
+      "SECURITY_CODE": "000719",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "兴证全球基金-中国人寿保险股份有限公司-传统险-兴证全球基金国寿股份新价值股票型组合单一资产管理计划(传统险)",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7232300,
+      "FREE_HOLDNUM_RATIO": 1.084063049603,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000719.SZ",
+      "SECURITY_CODE": "000719",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "中信证券股份有限公司-社保基金1106组合",
       "HOLDER_TYPE": "全国社保基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6300075,
-      "FREE_HOLDNUM_RATIO": 0.944330091013,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 7042275,
+      "FREE_HOLDNUM_RATIO": 1.055579844952,
+      "HOLD_NUM_CHANGE": "742200",
+      "CHANGE_RATIO": 11.78081213
     },
     {
       "SECUCODE": "000719.SZ",
       "SECURITY_CODE": "000719",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国平安人寿保险股份有限公司-自有资金",
-      "HOLDER_TYPE": "保险公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5698914,
-      "FREE_HOLDNUM_RATIO": 0.854220938051,
-      "HOLD_NUM_CHANGE": "662600",
-      "CHANGE_RATIO": 13.15644735
-    },
-    {
-      "SECUCODE": "000719.SZ",
-      "SECURITY_CODE": "000719",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "新华人寿保险股份有限公司-分红-团体分红-018L-FH001深",
-      "HOLDER_TYPE": "保险产品",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5573100,
-      "FREE_HOLDNUM_RATIO": 0.835362440959,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000719.SZ",
-      "SECURITY_CODE": "000719",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "新华人寿保险股份有限公司-传统-普通保险产品-018L-CT001深",
       "HOLDER_TYPE": "保险产品",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5000200,
-      "FREE_HOLDNUM_RATIO": 0.749489382441,
+      "HOLD_NUM": 5657478,
+      "FREE_HOLDNUM_RATIO": 0.848010018078,
+      "HOLD_NUM_CHANGE": "657278",
+      "CHANGE_RATIO": 13.1450342
+    },
+    {
+      "SECUCODE": "000719.SZ",
+      "SECURITY_CODE": "000719",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "新华人寿保险股份有限公司-分红-团体分红-018L-FH001深",
+      "HOLDER_TYPE": "保险产品",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5627500,
+      "FREE_HOLDNUM_RATIO": 0.843516559275,
+      "HOLD_NUM_CHANGE": "54400",
+      "CHANGE_RATIO": 0.97611742
+    },
+    {
+      "SECUCODE": "000719.SZ",
+      "SECURITY_CODE": "000719",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "富国基金-中国人寿保险股份有限公司-传统险-富国基金国寿股份新价值股票型组合单一资产管理计划(传统险)",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5125401,
+      "FREE_HOLDNUM_RATIO": 0.768255995811,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000719.SZ",
       "SECURITY_CODE": "000719",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "全国社保基金六零四组合",
       "HOLDER_TYPE": "全国社保基金",
       "SHARES_TYPE": "A股",
@@ -586,39 +599,26 @@
       "FREE_HOLDNUM_RATIO": 0.749459404065,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000719.SZ",
-      "SECURITY_CODE": "000719",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国邮政储蓄银行股份有限公司-中欧颐利债券型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3740900,
-      "FREE_HOLDNUM_RATIO": 0.560730536933,
-      "HOLD_NUM_CHANGE": "806200",
-      "CHANGE_RATIO": 27.47129178
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "000719.SZ",
       "SECURITY_CODE": "000719",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 450023967,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 438332074,
       "LIMITED_SHARES": 356056206,
-      "OTHER_UNLIMITED_SHARES": 217123576,
-      "HOLD_NUM_RATIO": 43.98,
+      "OTHER_UNLIMITED_SHARES": 228815469,
+      "HOLD_NUM_RATIO": 42.84,
       "LIMITED_SHARES_RATIO": 34.8,
-      "UNLIMITED_SHARES_RATIO": 21.22
+      "UNLIMITED_SHARES_RATIO": 22.36
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "000719.SZ",
       "SECURITY_CODE": "000719",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中原出版传媒投资控股集团有限公司",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -630,32 +630,20 @@
     {
       "SECUCODE": "000719.SZ",
       "SECURITY_CODE": "000719",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 31109695,
-      "HOLD_NUM_RATIO": 3.04,
-      "HOLD_NUM_CHANGE": "-14852112",
-      "CHANGE_RATIO": -32.31402978
+      "HOLD_NUM": 18390437,
+      "HOLD_NUM_RATIO": 1.8,
+      "HOLD_NUM_CHANGE": "-12719258",
+      "CHANGE_RATIO": -40.88519029
     },
     {
       "SECUCODE": "000719.SZ",
       "SECURITY_CODE": "000719",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "中国工商银行股份有限公司-国联优势产业混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 12694401,
-      "HOLD_NUM_RATIO": 1.24,
-      "HOLD_NUM_CHANGE": "901600",
-      "CHANGE_RATIO": 7.64534227
-    },
-    {
-      "SECUCODE": "000719.SZ",
-      "SECURITY_CODE": "000719",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "焦作通良资产经营有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 11210925,
@@ -666,74 +654,86 @@
     {
       "SECUCODE": "000719.SZ",
       "SECURITY_CODE": "000719",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "中国工商银行股份有限公司-国联优势产业混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 9350001,
+      "HOLD_NUM_RATIO": 0.91,
+      "HOLD_NUM_CHANGE": "-3344400",
+      "CHANGE_RATIO": -26.34547309
+    },
+    {
+      "SECUCODE": "000719.SZ",
+      "SECURITY_CODE": "000719",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "兴证全球基金-中国人寿保险股份有限公司-传统险-兴证全球基金国寿股份新价值股票型组合单一资产管理计划(传统险)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7232300,
+      "HOLD_NUM_RATIO": 0.71,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000719.SZ",
+      "SECURITY_CODE": "000719",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "中信证券股份有限公司-社保基金1106组合",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6300075,
-      "HOLD_NUM_RATIO": 0.62,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 7042275,
+      "HOLD_NUM_RATIO": 0.69,
+      "HOLD_NUM_CHANGE": "742200",
+      "CHANGE_RATIO": 11.78081213
     },
     {
       "SECUCODE": "000719.SZ",
       "SECURITY_CODE": "000719",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国平安人寿保险股份有限公司-自有资金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5698914,
-      "HOLD_NUM_RATIO": 0.56,
-      "HOLD_NUM_CHANGE": "662600",
-      "CHANGE_RATIO": 13.15644735
-    },
-    {
-      "SECUCODE": "000719.SZ",
-      "SECURITY_CODE": "000719",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "新华人寿保险股份有限公司-分红-团体分红-018L-FH001深",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5573100,
-      "HOLD_NUM_RATIO": 0.54,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000719.SZ",
-      "SECURITY_CODE": "000719",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "新华人寿保险股份有限公司-传统-普通保险产品-018L-CT001深",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5000200,
-      "HOLD_NUM_RATIO": 0.49,
+      "HOLD_NUM": 5657478,
+      "HOLD_NUM_RATIO": 0.55,
+      "HOLD_NUM_CHANGE": "657278",
+      "CHANGE_RATIO": 13.1450342
+    },
+    {
+      "SECUCODE": "000719.SZ",
+      "SECURITY_CODE": "000719",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "新华人寿保险股份有限公司-分红-团体分红-018L-FH001深",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5627500,
+      "HOLD_NUM_RATIO": 0.55,
+      "HOLD_NUM_CHANGE": "54400",
+      "CHANGE_RATIO": 0.97611742
+    },
+    {
+      "SECUCODE": "000719.SZ",
+      "SECURITY_CODE": "000719",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "富国基金-中国人寿保险股份有限公司-传统险-富国基金国寿股份新价值股票型组合单一资产管理计划(传统险)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5125401,
+      "HOLD_NUM_RATIO": 0.5,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000719.SZ",
       "SECURITY_CODE": "000719",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "全国社保基金六零四组合",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 5000000,
       "HOLD_NUM_RATIO": 0.49,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000719.SZ",
-      "SECURITY_CODE": "000719",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国邮政储蓄银行股份有限公司-中欧颐利债券型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3740900,
-      "HOLD_NUM_RATIO": 0.37,
-      "HOLD_NUM_CHANGE": "806200",
-      "CHANGE_RATIO": 27.47129178
     }
   ],
   "jgcc": [
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "000719",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 23,
-      "TOTAL_FREE_SHARES": 13695961,
-      "TOTAL_SHARES_RATIO": 2.05291336,
-      "ALL_SHARES_RATIO": 1.33853701
+      "TOTAL_ORG_NUM": 30,
+      "TOTAL_FREE_SHARES": 786376539,
+      "TOTAL_SHARES_RATIO": 64.50152406,
+      "ALL_SHARES_RATIO": 42.05617241
     },
     {
       "SECUCODE": "000719.SZ",
@@ -756,6 +756,36 @@
       "TOTAL_FREE_SHARES": 13695961,
       "TOTAL_SHARES_RATIO": 2.05291336,
       "ALL_SHARES_RATIO": 1.33853701
+    },
+    {
+      "SECUCODE": "000719.SZ",
+      "SECURITY_CODE": "000719",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 12042275,
+      "TOTAL_SHARES_RATIO": 1.80503924,
+      "ALL_SHARES_RATIO": 1.17691858
+    },
+    {
+      "SECUCODE": "000719.SZ",
+      "SECURITY_CODE": "000719",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "05",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 11284978,
+      "TOTAL_SHARES_RATIO": 1.69152658,
+      "ALL_SHARES_RATIO": 1.10290624
+    },
+    {
+      "SECUCODE": "000719.SZ",
+      "SECURITY_CODE": "000719",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 749353325,
+      "TOTAL_SHARES_RATIO": 58.95204488,
+      "ALL_SHARES_RATIO": 38.43781058
     }
   ],
   "jjcg": [

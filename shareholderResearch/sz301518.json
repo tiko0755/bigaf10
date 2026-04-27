@@ -6,13 +6,13 @@
       "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_TOTAL_NUM": 9343,
       "TOTAL_NUM_RATIO": -16.1988,
-      "AVG_FREE_SHARES": 5726,
+      "AVG_FREE_SHARES": 5721,
       "AVG_FREESHARES_RATIO": 19.32997966392,
       "HOLD_FOCUS": "非常集中",
       "PRICE": 39.1,
-      "AVG_HOLD_AMT": 223889.257444076,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "AVG_HOLD_AMT": 223707.525933854,
+      "HOLD_RATIO_TOTAL": 67.56839603,
+      "FREEHOLD_RATIO_TOTAL": 25.25062095
     },
     {
       "SECUCODE": "301518.SZ",
@@ -20,11 +20,11 @@
       "END_DATE": "2026-02-27 00:00:00",
       "HOLDER_TOTAL_NUM": 11149,
       "TOTAL_NUM_RATIO": -2.296,
-      "AVG_FREE_SHARES": 4798,
+      "AVG_FREE_SHARES": 4794,
       "AVG_FREESHARES_RATIO": 2.349986545879,
       "HOLD_FOCUS": "非常集中",
       "PRICE": 46.05,
-      "AVG_HOLD_AMT": 220971.654018298,
+      "AVG_HOLD_AMT": 220792.290734595,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
     },
@@ -34,11 +34,11 @@
       "END_DATE": "2026-01-30 00:00:00",
       "HOLDER_TOTAL_NUM": 11411,
       "TOTAL_NUM_RATIO": -4.7575,
-      "AVG_FREE_SHARES": 4688,
+      "AVG_FREE_SHARES": 4684,
       "AVG_FREESHARES_RATIO": 4.995180089387,
       "HOLD_FOCUS": "非常集中",
       "PRICE": 40.46,
-      "AVG_HOLD_AMT": 189690.25505039,
+      "AVG_HOLD_AMT": 189536.282962054,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
     },
@@ -48,13 +48,13 @@
       "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_TOTAL_NUM": 11981,
       "TOTAL_NUM_RATIO": -7.3539,
-      "AVG_FREE_SHARES": 4465,
-      "AVG_FREESHARES_RATIO": 7.937567815708,
+      "AVG_FREE_SHARES": 4461,
+      "AVG_FREESHARES_RATIO": 7.849954602673,
       "HOLD_FOCUS": "非常集中",
       "PRICE": 35.57,
-      "AVG_HOLD_AMT": 158830.405409398,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "AVG_HOLD_AMT": 158701.482343711,
+      "HOLD_RATIO_TOTAL": 68.63872361,
+      "FREEHOLD_RATIO_TOTAL": 21.44504182
     },
     {
       "SECUCODE": "301518.SZ",
@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "301518.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "301518.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "301518.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,21 +161,23 @@
     {
       "SECUCODE": "301518.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301518.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301518.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
     {
       "SECUCODE": "301518.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "301518.SZ",
       "END_DATE": "2026-01-22 00:00:00",
       "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "301518.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
     },
     {
       "SECUCODE": "301518.SZ",
@@ -300,7 +310,41 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-01-22 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "国泰佳泰股票专项型养老金产品-招商银行股份有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2165934,
+      "HOLD_NUM_RATIO": 1.49,
+      "HOLD_CHANGE": "73900",
+      "CHANGE_RATIO": 3.53244737,
+      "CHANGE_REASON": "增发上市"
+    },
+    {
+      "END_DATE": "2026-01-22 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "张家港保税区长鑫企业管理合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2159700,
+      "HOLD_NUM_RATIO": 1.48,
+      "HOLD_CHANGE": "437400",
+      "CHANGE_RATIO": 25.39627243,
+      "CHANGE_REASON": "增发上市"
+    },
+    {
+      "END_DATE": "2026-01-22 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "国泰基金管理有限公司-社保基金2103组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1934269,
+      "HOLD_NUM_RATIO": 1.33,
+      "HOLD_CHANGE": "-51600",
+      "CHANGE_RATIO": -2.5983587,
+      "CHANGE_REASON": "增发上市"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "301518.SZ",
@@ -331,7 +375,7 @@
       "LIFT_NUM": 5291311,
       "LIFT_TYPE": "定向增发机构配售股份",
       "TOTAL_SHARES_RATIO": 3.64,
-      "UNLIMITED_A_SHARES_RATIO": 9.89
+      "UNLIMITED_A_SHARES_RATIO": 9.9
     },
     {
       "SECUCODE": "301518.SZ",
@@ -340,53 +384,53 @@
       "LIFT_NUM": 86679551,
       "LIFT_TYPE": "追加承诺限售股份上市流通",
       "TOTAL_SHARES_RATIO": 59.59,
-      "UNLIMITED_A_SHARES_RATIO": 162.02
+      "UNLIMITED_A_SHARES_RATIO": 162.15
     }
   ],
   "sdltgd": [
     {
       "SECUCODE": "301518.SZ",
       "SECURITY_CODE": "301518",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
-      "HOLDER_NAME": "国泰佳泰股票专项型养老金产品-招商银行股份有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2165934,
-      "FREE_HOLDNUM_RATIO": 4.051865609852,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301518.SZ",
-      "SECURITY_CODE": "301518",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "张家港保税区长鑫企业管理合伙企业(有限合伙)",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2159700,
-      "FREE_HOLDNUM_RATIO": 4.040203513864,
-      "HOLD_NUM_CHANGE": "-274600",
-      "CHANGE_RATIO": -11.28045023
-    },
-    {
-      "SECUCODE": "301518.SZ",
-      "SECURITY_CODE": "301518",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "国泰基金管理有限公司-社保基金2103组合",
       "HOLDER_TYPE": "全国社保基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1934269,
-      "FREE_HOLDNUM_RATIO": 3.61848423881,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3277569,
+      "FREE_HOLDNUM_RATIO": 6.131428342238,
+      "HOLD_NUM_CHANGE": "1291700",
+      "CHANGE_RATIO": 65.04457243
     },
     {
       "SECUCODE": "301518.SZ",
       "SECURITY_CODE": "301518",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "国泰佳泰股票专项型养老金产品-招商银行股份有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2073034,
+      "FREE_HOLDNUM_RATIO": 3.878075311923,
+      "HOLD_NUM_CHANGE": "-19000",
+      "CHANGE_RATIO": -0.90820704
+    },
+    {
+      "SECUCODE": "301518.SZ",
+      "SECURITY_CODE": "301518",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "张家港保税区长鑫企业管理合伙企业(有限合伙)",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1645600,
+      "FREE_HOLDNUM_RATIO": 3.078464093353,
+      "HOLD_NUM_CHANGE": "-76700",
+      "CHANGE_RATIO": -4.45334727
+    },
+    {
+      "SECUCODE": "301518.SZ",
+      "SECURITY_CODE": "301518",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "上海创丰昕汇创业投资管理有限公司-厦门创丰昕锐创业投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "私募基金",
@@ -399,8 +443,47 @@
     {
       "SECUCODE": "301518.SZ",
       "SECURITY_CODE": "301518",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "国泰基金管理有限公司-社保基金四二一组合",
+      "HOLDER_TYPE": "全国社保基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1130400,
+      "FREE_HOLDNUM_RATIO": 2.114666875988,
+      "HOLD_NUM_CHANGE": "388100",
+      "CHANGE_RATIO": 52.28344335
+    },
+    {
+      "SECUCODE": "301518.SZ",
+      "SECURITY_CODE": "301518",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "秦希峰",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 967729,
+      "FREE_HOLDNUM_RATIO": 1.810354265068,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301518.SZ",
+      "SECURITY_CODE": "301518",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "国泰佳泰价值平衡股票型养老金产品-中国建设银行股份有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 872074,
+      "FREE_HOLDNUM_RATIO": 1.631410121382,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301518.SZ",
+      "SECURITY_CODE": "301518",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "江苏长顺集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -412,66 +495,27 @@
     {
       "SECUCODE": "301518.SZ",
       "SECURITY_CODE": "301518",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "国泰佳泰价值平衡股票型养老金产品-中国建设银行股份有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 749961,
-      "FREE_HOLDNUM_RATIO": 1.402970351188,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301518.SZ",
-      "SECURITY_CODE": "301518",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "上海创丰昕汇创业投资管理有限公司-宁波保税区创丰昕汇创业投资合伙企业(有限合伙)",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 724717,
-      "FREE_HOLDNUM_RATIO": 1.355745784117,
-      "HOLD_NUM_CHANGE": "-557334",
-      "CHANGE_RATIO": -43.47206156
-    },
-    {
-      "SECUCODE": "301518.SZ",
-      "SECURITY_CODE": "301518",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "国泰基金管理有限公司-社保基金四二一组合",
-      "HOLDER_TYPE": "全国社保基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 656400,
-      "FREE_HOLDNUM_RATIO": 1.227943504422,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301518.SZ",
-      "SECURITY_CODE": "301518",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "上海松熙私募基金管理合伙企业(有限合伙)-松熙小溪私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
+      "HOLDER_NAME": "国泰基金-上海银行-国泰优选配置集合资产管理计划",
+      "HOLDER_TYPE": "基金资产管理计划",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 632500,
-      "FREE_HOLDNUM_RATIO": 1.183233190961,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 713969,
+      "FREE_HOLDNUM_RATIO": 1.33563923813,
+      "HOLD_NUM_CHANGE": "133669",
+      "CHANGE_RATIO": 23.03446493
     },
     {
       "SECUCODE": "301518.SZ",
       "SECURITY_CODE": "301518",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "张家港保税区万兴企业管理合伙企业(有限合伙)",
-      "HOLDER_TYPE": "其它",
+      "HOLDER_NAME": "彭先诚",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 571600,
-      "FREE_HOLDNUM_RATIO": 1.069306074235,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 695000,
+      "FREE_HOLDNUM_RATIO": 1.300153466748,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -479,20 +523,20 @@
     {
       "SECUCODE": "301518.SZ",
       "SECURITY_CODE": "301518",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 11717483,
-      "LIMITED_SHARES": 86722976,
-      "OTHER_UNLIMITED_SHARES": 41737745,
-      "HOLD_NUM_RATIO": 8.36,
-      "LIMITED_SHARES_RATIO": 61.87,
-      "UNLIMITED_SHARES_RATIO": 29.77
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 13497777,
+      "LIMITED_SHARES": 92014287,
+      "OTHER_UNLIMITED_SHARES": 39957451,
+      "HOLD_NUM_RATIO": 9.28,
+      "LIMITED_SHARES_RATIO": 63.25,
+      "UNLIMITED_SHARES_RATIO": 27.47
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "301518.SZ",
       "SECURITY_CODE": "301518",
-      "END_DATE": "2026-01-22 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "江苏长顺集团有限公司",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -504,7 +548,7 @@
     {
       "SECUCODE": "301518.SZ",
       "SECURITY_CODE": "301518",
-      "END_DATE": "2026-01-22 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "张家港华金企业管理合伙企业(有限合伙)",
       "SHARES_TYPE": "限售流通A股",
@@ -516,7 +560,7 @@
     {
       "SECUCODE": "301518.SZ",
       "SECURITY_CODE": "301518",
-      "END_DATE": "2026-01-22 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "张家港泰金企业管理合伙企业(有限合伙)",
       "SHARES_TYPE": "限售流通A股",
@@ -528,44 +572,32 @@
     {
       "SECUCODE": "301518.SZ",
       "SECURITY_CODE": "301518",
-      "END_DATE": "2026-01-22 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "国泰佳泰股票专项型养老金产品-招商银行股份有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2165934,
-      "HOLD_NUM_RATIO": 1.49,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301518.SZ",
-      "SECURITY_CODE": "301518",
-      "END_DATE": "2026-01-22 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "张家港保税区长鑫企业管理合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2159700,
-      "HOLD_NUM_RATIO": 1.48,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301518.SZ",
-      "SECURITY_CODE": "301518",
-      "END_DATE": "2026-01-22 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "国泰基金管理有限公司-社保基金2103组合",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1934269,
-      "HOLD_NUM_RATIO": 1.33,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3277569,
+      "HOLD_NUM_RATIO": 2.25,
+      "HOLD_NUM_CHANGE": "1343300",
+      "CHANGE_RATIO": 69.44742432
     },
     {
       "SECUCODE": "301518.SZ",
       "SECURITY_CODE": "301518",
-      "END_DATE": "2026-01-22 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "国泰佳泰股票专项型养老金产品-招商银行股份有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2073034,
+      "HOLD_NUM_RATIO": 1.43,
+      "HOLD_NUM_CHANGE": "-92900",
+      "CHANGE_RATIO": -4.2891427
+    },
+    {
+      "SECUCODE": "301518.SZ",
+      "SECURITY_CODE": "301518",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "张家港能金企业管理合伙企业(有限合伙)",
       "SHARES_TYPE": "限售流通A股",
       "HOLD_NUM": 1915000,
@@ -576,38 +608,50 @@
     {
       "SECUCODE": "301518.SZ",
       "SECURITY_CODE": "301518",
-      "END_DATE": "2026-01-22 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中信证券资产管理有限公司",
-      "SHARES_TYPE": "限售流通A股",
-      "HOLD_NUM": 1362862,
-      "HOLD_NUM_RATIO": 0.94,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "张家港保税区长鑫企业管理合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1645600,
+      "HOLD_NUM_RATIO": 1.13,
+      "HOLD_NUM_CHANGE": "-514100",
+      "CHANGE_RATIO": -23.80423207
     },
     {
       "SECUCODE": "301518.SZ",
       "SECURITY_CODE": "301518",
-      "END_DATE": "2026-01-22 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "谢瑾琨",
       "SHARES_TYPE": "限售流通A股",
       "HOLD_NUM": 1362862,
       "HOLD_NUM_RATIO": 0.94,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301518.SZ",
       "SECURITY_CODE": "301518",
-      "END_DATE": "2026-01-22 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "上海创丰昕汇创业投资管理有限公司-厦门创丰昕锐创业投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1282051,
       "HOLD_NUM_RATIO": 0.88,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301518.SZ",
+      "SECURITY_CODE": "301518",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "国泰基金管理有限公司-社保基金四二一组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1130400,
+      "HOLD_NUM_RATIO": 0.78,
+      "HOLD_NUM_CHANGE": "388100",
+      "CHANGE_RATIO": 52.28344335
     }
   ],
   "jgcc": [
@@ -616,23 +660,60 @@
       "SECURITY_CODE": "301518",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 582500,
-      "TOTAL_SHARES_RATIO": 1.08881246,
-      "ALL_SHARES_RATIO": 0.40042753
+      "TOTAL_ORG_NUM": 11,
+      "TOTAL_FREE_SHARES": 74684399,
+      "TOTAL_SHARES_RATIO": 23.21095451,
+      "ALL_SHARES_RATIO": 8.53618574
     },
     {
       "SECUCODE": "301518.SZ",
       "SECURITY_CODE": "301518",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 582500,
-      "TOTAL_SHARES_RATIO": 1.08881246,
-      "ALL_SHARES_RATIO": 0.40042753
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 1296469,
+      "TOTAL_SHARES_RATIO": 2.42336756,
+      "ALL_SHARES_RATIO": 0.89123071
+    },
+    {
+      "SECUCODE": "301518.SZ",
+      "SECURITY_CODE": "301518",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 4407969,
+      "TOTAL_SHARES_RATIO": 8.23940185,
+      "ALL_SHARES_RATIO": 3.03016684
+    },
+    {
+      "SECUCODE": "301518.SZ",
+      "SECURITY_CODE": "301518",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 68979961,
+      "TOTAL_SHARES_RATIO": 12.5481851,
+      "ALL_SHARES_RATIO": 4.61478819
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "301518.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "77872887",
+      "HOLDER_NAME": "国泰基金-上海银行-国泰优选配置集合资产管理计划",
+      "TOTAL_SHARES": 713969,
+      "HOLD_VALUE": 27916187.9,
+      "TOTALSHARES_RATIO": 0.49080318,
+      "FREESHARES_RATIO": 1.3345551,
+      "FREE_MARKET_CAP": 27916187.9,
+      "FREE_SHARES": 713969,
+      "SECURITY_CODE": "301518",
+      "FUND_CODE": null,
+      "FUND_DERIVECODE": null,
+      "NETVALUE_RATIO": null
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "301518.SZ",

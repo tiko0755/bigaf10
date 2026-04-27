@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 11.88,
       "AVG_HOLD_AMT": 264941.53671461,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 76.02726697,
+      "FREEHOLD_RATIO_TOTAL": 76.02726697
     },
     {
       "SECUCODE": "603230.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603230.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603230.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603230.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603230.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603230.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603230.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -286,6 +291,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "603230.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603230.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -299,10 +308,6 @@
     {
       "SECUCODE": "603230.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603230.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -333,7 +338,7 @@
     {
       "SECUCODE": "603230.SH",
       "SECURITY_CODE": "603230",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "内蒙古新华控股有限公司",
       "HOLDER_TYPE": "其它",
@@ -346,7 +351,7 @@
     {
       "SECUCODE": "603230.SH",
       "SECURITY_CODE": "603230",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "安徽新华传媒股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -359,34 +364,47 @@
     {
       "SECUCODE": "603230.SH",
       "SECURITY_CODE": "603230",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "内蒙古蒙盐盐业集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10605700,
-      "FREE_HOLDNUM_RATIO": 3.00000282867,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 7070500,
+      "FREE_HOLDNUM_RATIO": 2.000011314681,
+      "HOLD_NUM_CHANGE": "-3535200",
+      "CHANGE_RATIO": -33.33301904
+    },
+    {
+      "SECUCODE": "603230.SH",
+      "SECURITY_CODE": "603230",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "谭维",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2499200,
+      "FREE_HOLDNUM_RATIO": 0.706941273977,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603230.SH",
       "SECURITY_CODE": "603230",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "海南丰茂恒企业咨询管理合伙企业(有限合伙)",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1653500,
-      "FREE_HOLDNUM_RATIO": 0.467720629209,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 1525675,
+      "FREE_HOLDNUM_RATIO": 0.431563151478,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603230.SH",
       "SECURITY_CODE": "603230",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "张新革",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -398,8 +416,8 @@
     {
       "SECUCODE": "603230.SH",
       "SECURITY_CODE": "603230",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "内蒙古爱信达教育印务有限责任公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -411,52 +429,39 @@
     {
       "SECUCODE": "603230.SH",
       "SECURITY_CODE": "603230",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "蒋国祥",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 982200,
-      "FREE_HOLDNUM_RATIO": 0.277831993958,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603230.SH",
-      "SECURITY_CODE": "603230",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "赵理",
+      "HOLDER_NAME": "王民",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 978500,
-      "FREE_HOLDNUM_RATIO": 0.276785385958,
+      "HOLD_NUM": 700000,
+      "FREE_HOLDNUM_RATIO": 0.198006918927,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603230.SH",
       "SECURITY_CODE": "603230",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "芦建忠",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 684800,
       "FREE_HOLDNUM_RATIO": 0.193707340116,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603230.SH",
       "SECURITY_CODE": "603230",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "陆仁荣",
+      "HOLDER_NAME": "陈翔",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 607700,
-      "FREE_HOLDNUM_RATIO": 0.171898292332,
+      "HOLD_NUM": 657400,
+      "FREE_HOLDNUM_RATIO": 0.185956783576,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -465,20 +470,20 @@
     {
       "SECUCODE": "603230.SH",
       "SECURITY_CODE": "603230",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 271148700,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 268773875,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 82374300,
-      "HOLD_NUM_RATIO": 76.7,
+      "OTHER_UNLIMITED_SHARES": 84749125,
+      "HOLD_NUM_RATIO": 76.03,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 23.3
+      "UNLIMITED_SHARES_RATIO": 23.97
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603230.SH",
       "SECURITY_CODE": "603230",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "内蒙古新华控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -490,7 +495,7 @@
     {
       "SECUCODE": "603230.SH",
       "SECURITY_CODE": "603230",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "安徽新华传媒股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -502,32 +507,44 @@
     {
       "SECUCODE": "603230.SH",
       "SECURITY_CODE": "603230",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "内蒙古蒙盐盐业集团有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10605700,
-      "HOLD_NUM_RATIO": 3,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 7070500,
+      "HOLD_NUM_RATIO": 2,
+      "HOLD_NUM_CHANGE": "-3535200",
+      "CHANGE_RATIO": -33.33301904
     },
     {
       "SECUCODE": "603230.SH",
       "SECURITY_CODE": "603230",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "海南丰茂恒企业咨询管理合伙企业(有限合伙)",
+      "HOLDER_NAME": "谭维",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1653500,
-      "HOLD_NUM_RATIO": 0.47,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 2499200,
+      "HOLD_NUM_RATIO": 0.71,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603230.SH",
       "SECURITY_CODE": "603230",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1525675,
+      "HOLD_NUM_RATIO": 0.43,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603230.SH",
+      "SECURITY_CODE": "603230",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "张新革",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1100000,
@@ -538,8 +555,8 @@
     {
       "SECUCODE": "603230.SH",
       "SECURITY_CODE": "603230",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "内蒙古爱信达教育印务有限责任公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1020000,
@@ -550,48 +567,36 @@
     {
       "SECUCODE": "603230.SH",
       "SECURITY_CODE": "603230",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "蒋国祥",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 982200,
-      "HOLD_NUM_RATIO": 0.28,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603230.SH",
-      "SECURITY_CODE": "603230",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "赵理",
+      "HOLDER_NAME": "王民",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 978500,
-      "HOLD_NUM_RATIO": 0.28,
+      "HOLD_NUM": 700000,
+      "HOLD_NUM_RATIO": 0.2,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603230.SH",
       "SECURITY_CODE": "603230",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "芦建忠",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 684800,
       "HOLD_NUM_RATIO": 0.19,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603230.SH",
       "SECURITY_CODE": "603230",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "陆仁荣",
+      "HOLDER_NAME": "陈翔",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 607700,
-      "HOLD_NUM_RATIO": 0.17,
+      "HOLD_NUM": 657400,
+      "HOLD_NUM_RATIO": 0.19,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -600,32 +605,22 @@
     {
       "SECUCODE": "603230.SH",
       "SECURITY_CODE": "603230",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 26,
-      "TOTAL_FREE_SHARES": 267428723,
-      "TOTAL_SHARES_RATIO": 75.64676784,
-      "ALL_SHARES_RATIO": 75.64676784
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 263132475,
+      "TOTAL_SHARES_RATIO": 74.43150092,
+      "ALL_SHARES_RATIO": 74.43150092
     },
     {
       "SECUCODE": "603230.SH",
       "SECURITY_CODE": "603230",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 21,
-      "TOTAL_FREE_SHARES": 633223,
-      "TOTAL_SHARES_RATIO": 0.17911792,
-      "ALL_SHARES_RATIO": 0.17911792
-    },
-    {
-      "SECUCODE": "603230.SH",
-      "SECURITY_CODE": "603230",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 266795500,
-      "TOTAL_SHARES_RATIO": 75.46764992,
-      "ALL_SHARES_RATIO": 75.46764992
+      "TOTAL_FREE_SHARES": 263132475,
+      "TOTAL_SHARES_RATIO": 74.43150092,
+      "ALL_SHARES_RATIO": 74.43150092
     }
   ],
   "jjcg": [

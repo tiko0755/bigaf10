@@ -8,7 +8,7 @@
       "TOTAL_NUM_RATIO": -2.2404,
       "AVG_FREE_SHARES": 7830,
       "AVG_FREESHARES_RATIO": 2.291735750341,
-      "HOLD_FOCUS": "较集中",
+      "HOLD_FOCUS": "较分散",
       "PRICE": 45.55,
       "AVG_HOLD_AMT": 356666.519288162,
       "HOLD_RATIO_TOTAL": null,
@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 40.93,
       "AVG_HOLD_AMT": 305251.389668725,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 39.32070911,
+      "FREEHOLD_RATIO_TOTAL": 39.32070911
     },
     {
       "SECUCODE": "605305.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "605305.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "605305.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "605305.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "605305.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "605305.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "605305.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "605305.SH",
       "END_DATE": "2015-07-27 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "605305.SH",
-      "END_DATE": "2015-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -445,52 +445,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-12-04 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "刘志欣",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 47504227,
-      "HOLD_NUM_RATIO": 22.35,
-      "HOLD_CHANGE": "-3203360",
-      "CHANGE_RATIO": -6.31731894,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-03 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "刘志欣",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 50707587,
-      "HOLD_NUM_RATIO": 23.86,
-      "HOLD_CHANGE": "-414900",
-      "CHANGE_RATIO": -0.81158023,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-28 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "刘志欣",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 51122487,
-      "HOLD_NUM_RATIO": 24.06,
-      "HOLD_CHANGE": "-529600",
-      "CHANGE_RATIO": -1.02532159,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-27 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "刘志欣",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 51652087,
-      "HOLD_NUM_RATIO": 24.3,
-      "HOLD_CHANGE": "-4300",
-      "CHANGE_RATIO": -0.00832424,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "605305.SH",
@@ -518,20 +473,20 @@
     {
       "SECUCODE": "605305.SH",
       "SECURITY_CODE": "605305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "刘志欣",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 47504227,
       "FREE_HOLDNUM_RATIO": 22.352826557501,
-      "HOLD_NUM_CHANGE": "-4152160",
-      "CHANGE_RATIO": -8.03803797
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605305.SH",
       "SECURITY_CODE": "605305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "世创(北京)科技发展有限公司",
       "HOLDER_TYPE": "其它",
@@ -544,85 +499,85 @@
     {
       "SECUCODE": "605305.SH",
       "SECURITY_CODE": "605305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10176633,
-      "FREE_HOLDNUM_RATIO": 4.788553077357,
-      "HOLD_NUM_CHANGE": "3654085",
-      "CHANGE_RATIO": 56.02235507
+      "HOLD_NUM": 5882173,
+      "FREE_HOLDNUM_RATIO": 2.767820910973,
+      "HOLD_NUM_CHANGE": "-4294460",
+      "CHANGE_RATIO": -42.19922247
     },
     {
       "SECUCODE": "605305.SH",
       "SECURITY_CODE": "605305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "中国工商银行股份有限公司-诺安先锋混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5164417,
+      "FREE_HOLDNUM_RATIO": 2.430085168455,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "605305.SH",
+      "SECURITY_CODE": "605305",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "马东升",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4401338,
-      "FREE_HOLDNUM_RATIO": 2.071022962545,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3987221,
+      "FREE_HOLDNUM_RATIO": 1.876162714098,
+      "HOLD_NUM_CHANGE": "-414117",
+      "CHANGE_RATIO": -9.40888884
     },
     {
       "SECUCODE": "605305.SH",
       "SECURITY_CODE": "605305",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "王喜军",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3301004,
-      "FREE_HOLDNUM_RATIO": 1.553267457181,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 2844804,
+      "FREE_HOLDNUM_RATIO": 1.338605307736,
+      "HOLD_NUM_CHANGE": "-456200",
+      "CHANGE_RATIO": -13.82003778
+    },
+    {
+      "SECUCODE": "605305.SH",
+      "SECURITY_CODE": "605305",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国工商银行-天弘精选混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1600000,
+      "FREE_HOLDNUM_RATIO": 0.752870318088,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605305.SH",
       "SECURITY_CODE": "605305",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国工商银行股份有限公司-广发集源债券型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2289509,
-      "FREE_HOLDNUM_RATIO": 1.077314605684,
-      "HOLD_NUM_CHANGE": "828603",
-      "CHANGE_RATIO": 56.71843363
-    },
-    {
-      "SECUCODE": "605305.SH",
-      "SECURITY_CODE": "605305",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "深圳前海无为资本管理有限公司-无为价值精选私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1542500,
-      "FREE_HOLDNUM_RATIO": 0.725814041031,
-      "HOLD_NUM_CHANGE": "42500",
-      "CHANGE_RATIO": 2.83333333
+      "HOLD_NUM": 1550000,
+      "FREE_HOLDNUM_RATIO": 0.729343120647,
+      "HOLD_NUM_CHANGE": "7500",
+      "CHANGE_RATIO": 0.48622366
     },
     {
       "SECUCODE": "605305.SH",
       "SECURITY_CODE": "605305",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "招商银行股份有限公司-博道惠泰优选混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1535464,
-      "FREE_HOLDNUM_RATIO": 0.722503293808,
-      "HOLD_NUM_CHANGE": "-618140",
-      "CHANGE_RATIO": -28.70258413
-    },
-    {
-      "SECUCODE": "605305.SH",
-      "SECURITY_CODE": "605305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "葛黎明",
       "HOLDER_TYPE": "个人",
@@ -635,14 +590,14 @@
     {
       "SECUCODE": "605305.SH",
       "SECURITY_CODE": "605305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "康与宙",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "杭州雀石私募基金管理有限公司-雀石泉鲤1号私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1463600,
-      "FREE_HOLDNUM_RATIO": 0.688688123471,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 1415555,
+      "FREE_HOLDNUM_RATIO": 0.66608083945,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -650,20 +605,20 @@
     {
       "SECUCODE": "605305.SH",
       "SECURITY_CODE": "605305",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 85830249,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 83564371,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 126689751,
-      "HOLD_NUM_RATIO": 40.39,
+      "OTHER_UNLIMITED_SHARES": 128955629,
+      "HOLD_NUM_RATIO": 39.32,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 59.61
+      "UNLIMITED_SHARES_RATIO": 60.68
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "605305.SH",
       "SECURITY_CODE": "605305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "刘志欣",
       "SHARES_TYPE": "流通A股",
@@ -675,7 +630,7 @@
     {
       "SECUCODE": "605305.SH",
       "SECURITY_CODE": "605305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "世创(北京)科技发展有限公司",
       "SHARES_TYPE": "流通A股",
@@ -687,79 +642,79 @@
     {
       "SECUCODE": "605305.SH",
       "SECURITY_CODE": "605305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10176633,
-      "HOLD_NUM_RATIO": 4.79,
-      "HOLD_NUM_CHANGE": "3654085",
-      "CHANGE_RATIO": 56.02235507
+      "HOLD_NUM": 5882173,
+      "HOLD_NUM_RATIO": 2.77,
+      "HOLD_NUM_CHANGE": "-4294460",
+      "CHANGE_RATIO": -42.19922247
     },
     {
       "SECUCODE": "605305.SH",
       "SECURITY_CODE": "605305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "中国工商银行股份有限公司-诺安先锋混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5164417,
+      "HOLD_NUM_RATIO": 2.43,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "605305.SH",
+      "SECURITY_CODE": "605305",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "马东升",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4401338,
-      "HOLD_NUM_RATIO": 2.07,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3987221,
+      "HOLD_NUM_RATIO": 1.88,
+      "HOLD_NUM_CHANGE": "-414117",
+      "CHANGE_RATIO": -9.40888884
     },
     {
       "SECUCODE": "605305.SH",
       "SECURITY_CODE": "605305",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "王喜军",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3301004,
-      "HOLD_NUM_RATIO": 1.55,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 2844804,
+      "HOLD_NUM_RATIO": 1.34,
+      "HOLD_NUM_CHANGE": "-456200",
+      "CHANGE_RATIO": -13.82003778
+    },
+    {
+      "SECUCODE": "605305.SH",
+      "SECURITY_CODE": "605305",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国工商银行-天弘精选混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1600000,
+      "HOLD_NUM_RATIO": 0.75,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605305.SH",
       "SECURITY_CODE": "605305",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国工商银行股份有限公司-广发集源债券型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2289509,
-      "HOLD_NUM_RATIO": 1.08,
-      "HOLD_NUM_CHANGE": "828603",
-      "CHANGE_RATIO": 56.71843363
-    },
-    {
-      "SECUCODE": "605305.SH",
-      "SECURITY_CODE": "605305",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "深圳前海无为资本管理有限公司-无为价值精选私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1542500,
+      "HOLD_NUM": 1550000,
       "HOLD_NUM_RATIO": 0.73,
-      "HOLD_NUM_CHANGE": "42500",
-      "CHANGE_RATIO": 2.83333333
+      "HOLD_NUM_CHANGE": "7500",
+      "CHANGE_RATIO": 0.48622366
     },
     {
       "SECUCODE": "605305.SH",
       "SECURITY_CODE": "605305",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "招商银行股份有限公司-博道惠泰优选混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1535464,
-      "HOLD_NUM_RATIO": 0.72,
-      "HOLD_NUM_CHANGE": "-618140",
-      "CHANGE_RATIO": -28.70258413
-    },
-    {
-      "SECUCODE": "605305.SH",
-      "SECURITY_CODE": "605305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "葛黎明",
       "SHARES_TYPE": "流通A股",
@@ -771,13 +726,13 @@
     {
       "SECUCODE": "605305.SH",
       "SECURITY_CODE": "605305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "康与宙",
+      "HOLDER_NAME": "杭州雀石私募基金管理有限公司-雀石泉鲤1号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1463600,
-      "HOLD_NUM_RATIO": 0.69,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 1415555,
+      "HOLD_NUM_RATIO": 0.67,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -787,10 +742,10 @@
       "SECURITY_CODE": "605305",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 21,
-      "TOTAL_FREE_SHARES": 13787999,
-      "TOTAL_SHARES_RATIO": 6.48785951,
-      "ALL_SHARES_RATIO": 6.48785951
+      "TOTAL_ORG_NUM": 25,
+      "TOTAL_FREE_SHARES": 34735341,
+      "TOTAL_SHARES_RATIO": 16.34450453,
+      "ALL_SHARES_RATIO": 16.34450453
     },
     {
       "SECUCODE": "605305.SH",
@@ -801,6 +756,16 @@
       "TOTAL_FREE_SHARES": 13787999,
       "TOTAL_SHARES_RATIO": 6.48785951,
       "ALL_SHARES_RATIO": 6.48785951
+    },
+    {
+      "SECUCODE": "605305.SH",
+      "SECURITY_CODE": "605305",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 20947342,
+      "TOTAL_SHARES_RATIO": 9.85664502,
+      "ALL_SHARES_RATIO": 9.85664502
     }
   ],
   "jjcg": [

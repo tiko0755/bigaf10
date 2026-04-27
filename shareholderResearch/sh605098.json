@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 52.85,
       "AVG_HOLD_AMT": 836641.528607461,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 67.30852378,
+      "FREEHOLD_RATIO_TOTAL": 67.30852378
     },
     {
       "SECUCODE": "605098.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "605098.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "605098.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "605098.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "605098.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "605098.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "605098.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "605098.SH",
       "END_DATE": "2019-06-21 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "605098.SH",
-      "END_DATE": "2018-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -445,52 +445,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-12-16 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "上海云效企业管理中心(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4733095,
-      "HOLD_NUM_RATIO": 3.97,
-      "HOLD_CHANGE": "-241500",
-      "CHANGE_RATIO": -4.85466656,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-16 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "泰康人寿保险有限责任公司-投连-多策略优选",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 778800,
-      "HOLD_NUM_RATIO": 0.65,
-      "HOLD_CHANGE": "9200",
-      "CHANGE_RATIO": 1.1954262,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-19 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "上海蓝效商务咨询合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 20825438,
-      "HOLD_NUM_RATIO": 17.4635,
-      "HOLD_CHANGE": "-1100000",
-      "CHANGE_RATIO": -5.01700354,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-18 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "上海云盾商务咨询合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9970533,
-      "HOLD_NUM_RATIO": 8.361,
-      "HOLD_CHANGE": "-1199800",
-      "CHANGE_RATIO": -10.74095105,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "605098.SH",
@@ -518,7 +473,7 @@
     {
       "SECUCODE": "605098.SH",
       "SECURITY_CODE": "605098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "李践",
       "HOLDER_TYPE": "个人",
@@ -531,7 +486,7 @@
     {
       "SECUCODE": "605098.SH",
       "SECURITY_CODE": "605098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "上海蓝效商务咨询合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
@@ -544,7 +499,7 @@
     {
       "SECUCODE": "605098.SH",
       "SECURITY_CODE": "605098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "上海云盾商务咨询合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
@@ -557,20 +512,20 @@
     {
       "SECUCODE": "605098.SH",
       "SECURITY_CODE": "605098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "上海云效企业管理中心(有限合伙)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4633095,
-      "FREE_HOLDNUM_RATIO": 3.885159130608,
-      "HOLD_NUM_CHANGE": "-100000",
-      "CHANGE_RATIO": -2.11278244
+      "HOLD_NUM": 4163095,
+      "FREE_HOLDNUM_RATIO": 3.491032787119,
+      "HOLD_NUM_CHANGE": "-470000",
+      "CHANGE_RATIO": -10.14440671
     },
     {
       "SECUCODE": "605098.SH",
       "SECURITY_CODE": "605098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "李维腾",
       "HOLDER_TYPE": "个人",
@@ -583,21 +538,47 @@
     {
       "SECUCODE": "605098.SH",
       "SECURITY_CODE": "605098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2041497,
-      "FREE_HOLDNUM_RATIO": 1.711931378411,
-      "HOLD_NUM_CHANGE": "-11320",
-      "CHANGE_RATIO": -0.55143737
+      "HOLD_NUM": 1338033,
+      "FREE_HOLDNUM_RATIO": 1.122029901611,
+      "HOLD_NUM_CHANGE": "-703464",
+      "CHANGE_RATIO": -34.45824314
     },
     {
       "SECUCODE": "605098.SH",
       "SECURITY_CODE": "605098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "华夏银行股份有限公司-南方消费升级混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1212471,
+      "FREE_HOLDNUM_RATIO": 1.016737791098,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "605098.SH",
+      "SECURITY_CODE": "605098",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "全国社保基金五零三组合",
+      "HOLDER_TYPE": "全国社保基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1200040,
+      "FREE_HOLDNUM_RATIO": 1.006313568596,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "605098.SH",
+      "SECURITY_CODE": "605098",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "陈军",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -609,40 +590,14 @@
     {
       "SECUCODE": "605098.SH",
       "SECURITY_CODE": "605098",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "百年人寿保险股份有限公司-百年传统保险2号",
-      "HOLDER_TYPE": "保险产品",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1009970,
-      "FREE_HOLDNUM_RATIO": 0.846927198156,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "605098.SH",
-      "SECURITY_CODE": "605098",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "泰康资产强化回报混合型养老金产品-中国建设银行股份有限公司",
-      "HOLDER_TYPE": "企业年金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 810100,
-      "FREE_HOLDNUM_RATIO": 0.679322874171,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "605098.SH",
-      "SECURITY_CODE": "605098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "泰康人寿保险有限责任公司-投连-多策略优选",
-      "HOLDER_TYPE": "证券账户",
+      "HOLDER_NAME": "中国银行股份有限公司-华宝标普中国A股红利机会交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 778800,
-      "FREE_HOLDNUM_RATIO": 0.653075736828,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 950996,
+      "FREE_HOLDNUM_RATIO": 0.797473566282,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -650,20 +605,20 @@
     {
       "SECUCODE": "605098.SH",
       "SECURITY_CODE": "605098",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 80674982,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 80266155,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 38576118,
-      "HOLD_NUM_RATIO": 67.65,
+      "OTHER_UNLIMITED_SHARES": 38984945,
+      "HOLD_NUM_RATIO": 67.31,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 32.35
+      "UNLIMITED_SHARES_RATIO": 32.69
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "605098.SH",
       "SECURITY_CODE": "605098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "李践",
       "SHARES_TYPE": "流通A股",
@@ -675,7 +630,7 @@
     {
       "SECUCODE": "605098.SH",
       "SECURITY_CODE": "605098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "上海蓝效商务咨询合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -687,7 +642,7 @@
     {
       "SECUCODE": "605098.SH",
       "SECURITY_CODE": "605098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "上海云盾商务咨询合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -699,19 +654,19 @@
     {
       "SECUCODE": "605098.SH",
       "SECURITY_CODE": "605098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "上海云效企业管理中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4633095,
-      "HOLD_NUM_RATIO": 3.89,
-      "HOLD_NUM_CHANGE": "-100000",
-      "CHANGE_RATIO": -2.11278244
+      "HOLD_NUM": 4163095,
+      "HOLD_NUM_RATIO": 3.49,
+      "HOLD_NUM_CHANGE": "-470000",
+      "CHANGE_RATIO": -10.14440671
     },
     {
       "SECUCODE": "605098.SH",
       "SECURITY_CODE": "605098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "李维腾",
       "SHARES_TYPE": "流通A股",
@@ -723,20 +678,44 @@
     {
       "SECUCODE": "605098.SH",
       "SECURITY_CODE": "605098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2041497,
-      "HOLD_NUM_RATIO": 1.71,
-      "HOLD_NUM_CHANGE": "-11320",
-      "CHANGE_RATIO": -0.55143737
+      "HOLD_NUM": 1338033,
+      "HOLD_NUM_RATIO": 1.12,
+      "HOLD_NUM_CHANGE": "-703464",
+      "CHANGE_RATIO": -34.45824314
     },
     {
       "SECUCODE": "605098.SH",
       "SECURITY_CODE": "605098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "华夏银行股份有限公司-南方消费升级混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1212471,
+      "HOLD_NUM_RATIO": 1.02,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "605098.SH",
+      "SECURITY_CODE": "605098",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "全国社保基金五零三组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1200040,
+      "HOLD_NUM_RATIO": 1.01,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "605098.SH",
+      "SECURITY_CODE": "605098",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "陈军",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1125818,
@@ -747,37 +726,13 @@
     {
       "SECUCODE": "605098.SH",
       "SECURITY_CODE": "605098",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "百年人寿保险股份有限公司-百年传统保险2号",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1009970,
-      "HOLD_NUM_RATIO": 0.85,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "605098.SH",
-      "SECURITY_CODE": "605098",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "泰康资产强化回报混合型养老金产品-中国建设银行股份有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 810100,
-      "HOLD_NUM_RATIO": 0.68,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "605098.SH",
-      "SECURITY_CODE": "605098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "泰康人寿保险有限责任公司-投连-多策略优选",
+      "HOLDER_NAME": "中国银行股份有限公司-华宝标普中国A股红利机会交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 778800,
-      "HOLD_NUM_RATIO": 0.65,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 950996,
+      "HOLD_NUM_RATIO": 0.8,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -787,20 +742,40 @@
       "SECURITY_CODE": "605098",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 27,
-      "TOTAL_FREE_SHARES": 4538871,
-      "TOTAL_SHARES_RATIO": 3.80614604,
-      "ALL_SHARES_RATIO": 3.80614604
+      "TOTAL_ORG_NUM": 33,
+      "TOTAL_FREE_SHARES": 42987006,
+      "TOTAL_SHARES_RATIO": 36.04747129,
+      "ALL_SHARES_RATIO": 36.04747129
     },
     {
       "SECUCODE": "605098.SH",
       "SECURITY_CODE": "605098",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 27,
-      "TOTAL_FREE_SHARES": 4538871,
-      "TOTAL_SHARES_RATIO": 3.80614604,
-      "ALL_SHARES_RATIO": 3.80614604
+      "TOTAL_ORG_NUM": 28,
+      "TOTAL_FREE_SHARES": 5489867,
+      "TOTAL_SHARES_RATIO": 4.60361961,
+      "ALL_SHARES_RATIO": 4.60361961
+    },
+    {
+      "SECUCODE": "605098.SH",
+      "SECURITY_CODE": "605098",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 1200040,
+      "TOTAL_SHARES_RATIO": 1.00631357,
+      "ALL_SHARES_RATIO": 1.00631357
+    },
+    {
+      "SECUCODE": "605098.SH",
+      "SECURITY_CODE": "605098",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 36297099,
+      "TOTAL_SHARES_RATIO": 30.43753811,
+      "ALL_SHARES_RATIO": 30.43753811
     }
   ],
   "jjcg": [
@@ -820,6 +795,23 @@
       "FUND_CODE": "010887",
       "FUND_DERIVECODE": "010887.OF",
       "NETVALUE_RATIO": 4.75
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "605098.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "562060",
+      "HOLDER_NAME": "华宝标普中国A股红利机会ETF",
+      "TOTAL_SHARES": 950996,
+      "HOLD_VALUE": 50260138.6,
+      "TOTALSHARES_RATIO": 0.79747357,
+      "FREESHARES_RATIO": 0.79747357,
+      "FREE_MARKET_CAP": 50260138.6,
+      "FREE_SHARES": 950996,
+      "SECURITY_CODE": "605098",
+      "FUND_CODE": "562060",
+      "FUND_DERIVECODE": "562060.SH",
+      "NETVALUE_RATIO": 1.13
     },
     {
       "ORG_TYPE": "01",

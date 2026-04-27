@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 4.09,
       "AVG_HOLD_AMT": 102745.423598205,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 32.01731366,
+      "FREEHOLD_RATIO_TOTAL": 16.68185644
     },
     {
       "SECUCODE": "300194.SZ",
@@ -123,8 +123,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 4.43,
       "AVG_HOLD_AMT": 109861.57392066,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 31.7732408,
+      "FREEHOLD_RATIO_TOTAL": 16.40264117
     },
     {
       "SECUCODE": "300194.SZ",
@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300194.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300194.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300194.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "300194.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300194.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300194.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300194.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300194.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300194.SZ",
       "END_DATE": "2025-09-30 00:00:00",
@@ -403,16 +413,6 @@
       "SECUCODE": "300194.SZ",
       "END_DATE": "2015-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "300194.SZ",
-      "END_DATE": "2015-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "300194.SZ",
-      "END_DATE": "2014-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "300194.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "300194.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "300194.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300194.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "300194.SZ",
       "SECURITY_CODE": "300194",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "汪天祥",
       "HOLDER_TYPE": "个人",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "300194.SZ",
       "SECURITY_CODE": "300194",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "蒋晨",
       "HOLDER_TYPE": "个人",
@@ -499,20 +499,20 @@
     {
       "SECUCODE": "300194.SZ",
       "SECURITY_CODE": "300194",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "北京国星物业管理有限责任公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 14030000,
-      "FREE_HOLDNUM_RATIO": 1.448864956095,
-      "HOLD_NUM_CHANGE": "4630000",
-      "CHANGE_RATIO": 49.25531915
+      "HOLD_NUM": 13695500,
+      "FREE_HOLDNUM_RATIO": 1.414321454469,
+      "HOLD_NUM_CHANGE": "-986000",
+      "CHANGE_RATIO": -6.71593502
     },
     {
       "SECUCODE": "300194.SZ",
       "SECURITY_CODE": "300194",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "GRACEPEAK PTE LTD.",
       "HOLDER_TYPE": "其它",
@@ -525,21 +525,34 @@
     {
       "SECUCODE": "300194.SZ",
       "SECURITY_CODE": "300194",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "吕良丰",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7532909,
-      "FREE_HOLDNUM_RATIO": 0.777916455278,
-      "HOLD_NUM_CHANGE": "781800",
-      "CHANGE_RATIO": 11.58031962
+      "HOLD_NUM": 9401856,
+      "FREE_HOLDNUM_RATIO": 0.970920861059,
+      "HOLD_NUM_CHANGE": "5206365",
+      "CHANGE_RATIO": 124.09429552
     },
     {
       "SECUCODE": "300194.SZ",
       "SECURITY_CODE": "300194",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "吕良丰",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7317909,
+      "FREE_HOLDNUM_RATIO": 0.7557136067,
+      "HOLD_NUM_CHANGE": "-27600",
+      "CHANGE_RATIO": -0.37573979
+    },
+    {
+      "SECUCODE": "300194.SZ",
+      "SECURITY_CODE": "300194",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "王勇",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -551,74 +564,61 @@
     {
       "SECUCODE": "300194.SZ",
       "SECURITY_CODE": "300194",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "陆兴才",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6063700,
-      "FREE_HOLDNUM_RATIO": 0.626192618266,
-      "HOLD_NUM_CHANGE": "1460000",
-      "CHANGE_RATIO": 31.71362165
+      "HOLD_NUM": 5243600,
+      "FREE_HOLDNUM_RATIO": 0.541501659571,
+      "HOLD_NUM_CHANGE": "-400200",
+      "CHANGE_RATIO": -7.09096708
     },
     {
       "SECUCODE": "300194.SZ",
       "SECURITY_CODE": "300194",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "香港中央结算有限公司",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "北京国星银座科技有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4980351,
-      "FREE_HOLDNUM_RATIO": 0.514316181964,
-      "HOLD_NUM_CHANGE": "-469986",
-      "CHANGE_RATIO": -8.62306312
+      "HOLD_NUM": 4085900,
+      "FREE_HOLDNUM_RATIO": 0.421947065154,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300194.SZ",
       "SECURITY_CODE": "300194",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "李佩阳",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3735100,
-      "FREE_HOLDNUM_RATIO": 0.385720277798,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300194.SZ",
-      "SECURITY_CODE": "300194",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "熊润华",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3305700,
-      "FREE_HOLDNUM_RATIO": 0.341376542079,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3535100,
+      "FREE_HOLDNUM_RATIO": 0.365066465167,
+      "HOLD_NUM_CHANGE": "-200000",
+      "CHANGE_RATIO": -5.35460898
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "300194.SZ",
       "SECURITY_CODE": "300194",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 157905687,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 161537792,
       "LIMITED_SHARES": 221368166,
-      "OTHER_UNLIMITED_SHARES": 810438529,
-      "HOLD_NUM_RATIO": 13.27,
+      "OTHER_UNLIMITED_SHARES": 806806424,
+      "HOLD_NUM_RATIO": 13.58,
       "LIMITED_SHARES_RATIO": 18.61,
-      "UNLIMITED_SHARES_RATIO": 68.12
+      "UNLIMITED_SHARES_RATIO": 67.82
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300194.SZ",
       "SECURITY_CODE": "300194",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "汪天祥",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "300194.SZ",
       "SECURITY_CODE": "300194",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "蒋晨",
       "SHARES_TYPE": "流通A股",
@@ -642,19 +642,19 @@
     {
       "SECUCODE": "300194.SZ",
       "SECURITY_CODE": "300194",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "北京国星物业管理有限责任公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 14030000,
-      "HOLD_NUM_RATIO": 1.18,
-      "HOLD_NUM_CHANGE": "4630000",
-      "CHANGE_RATIO": 49.25531915
+      "HOLD_NUM": 13695500,
+      "HOLD_NUM_RATIO": 1.15,
+      "HOLD_NUM_CHANGE": "-986000",
+      "CHANGE_RATIO": -6.71593502
     },
     {
       "SECUCODE": "300194.SZ",
       "SECURITY_CODE": "300194",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "GRACEPEAK PTE LTD.",
       "SHARES_TYPE": "流通A股",
@@ -666,8 +666,20 @@
     {
       "SECUCODE": "300194.SZ",
       "SECURITY_CODE": "300194",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 9401856,
+      "HOLD_NUM_RATIO": 0.79,
+      "HOLD_NUM_CHANGE": "5206365",
+      "CHANGE_RATIO": 124.09429552
+    },
+    {
+      "SECUCODE": "300194.SZ",
+      "SECURITY_CODE": "300194",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "黄涛",
       "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 8786688,
@@ -678,20 +690,20 @@
     {
       "SECUCODE": "300194.SZ",
       "SECURITY_CODE": "300194",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "吕良丰",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7532909,
-      "HOLD_NUM_RATIO": 0.63,
-      "HOLD_NUM_CHANGE": "781800",
-      "CHANGE_RATIO": 11.58031962
+      "HOLD_NUM": 7317909,
+      "HOLD_NUM_RATIO": 0.62,
+      "HOLD_NUM_CHANGE": "-27600",
+      "CHANGE_RATIO": -0.37573979
     },
     {
       "SECUCODE": "300194.SZ",
       "SECURITY_CODE": "300194",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "王勇",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 6474035,
@@ -702,48 +714,24 @@
     {
       "SECUCODE": "300194.SZ",
       "SECURITY_CODE": "300194",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "陆兴才",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6063700,
-      "HOLD_NUM_RATIO": 0.51,
-      "HOLD_NUM_CHANGE": "1460000",
-      "CHANGE_RATIO": 31.71362165
+      "HOLD_NUM": 5243600,
+      "HOLD_NUM_RATIO": 0.44,
+      "HOLD_NUM_CHANGE": "-400200",
+      "CHANGE_RATIO": -7.09096708
     },
     {
       "SECUCODE": "300194.SZ",
       "SECURITY_CODE": "300194",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4980351,
-      "HOLD_NUM_RATIO": 0.42,
-      "HOLD_NUM_CHANGE": "-469986",
-      "CHANGE_RATIO": -8.62306312
-    },
-    {
-      "SECUCODE": "300194.SZ",
-      "SECURITY_CODE": "300194",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "李佩阳",
+      "HOLDER_NAME": "北京国星银座科技有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3735100,
-      "HOLD_NUM_RATIO": 0.31,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300194.SZ",
-      "SECURITY_CODE": "300194",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 11,
-      "HOLDER_NAME": "熊润华",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3305700,
-      "HOLD_NUM_RATIO": 0.28,
+      "HOLD_NUM": 4085900,
+      "HOLD_NUM_RATIO": 0.34,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -752,22 +740,22 @@
     {
       "SECUCODE": "300194.SZ",
       "SECURITY_CODE": "300194",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 20,
-      "TOTAL_FREE_SHARES": 922944,
-      "TOTAL_SHARES_RATIO": 0.09531157,
-      "ALL_SHARES_RATIO": 0.07757709
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 37530193,
+      "TOTAL_SHARES_RATIO": 3.87570787,
+      "ALL_SHARES_RATIO": 3.15456018
     },
     {
       "SECUCODE": "300194.SZ",
       "SECURITY_CODE": "300194",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 20,
-      "TOTAL_FREE_SHARES": 922944,
-      "TOTAL_SHARES_RATIO": 0.09531157,
-      "ALL_SHARES_RATIO": 0.07757709
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 37530193,
+      "TOTAL_SHARES_RATIO": 3.87570787,
+      "ALL_SHARES_RATIO": 3.15456018
     }
   ],
   "jjcg": [

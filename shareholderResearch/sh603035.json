@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 14.05,
       "AVG_HOLD_AMT": 210828.888096994,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 40.17326629,
+      "FREEHOLD_RATIO_TOTAL": 40.17326629
     },
     {
       "SECUCODE": "603035.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603035.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603035.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603035.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603035.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603035.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603035.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603035.SH",
       "END_DATE": "2018-05-28 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "603035.SH",
-      "END_DATE": "2018-05-18 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "603035.SH",
       "SECURITY_CODE": "603035",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "罗小春",
       "HOLDER_TYPE": "个人",
@@ -486,21 +486,34 @@
     {
       "SECUCODE": "603035.SH",
       "SECURITY_CODE": "603035",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中国建设银行股份有限公司-汇丰晋信新动力混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 6635981,
       "FREE_HOLDNUM_RATIO": 1.811391809101,
-      "HOLD_NUM_CHANGE": "-737300",
-      "CHANGE_RATIO": -9.99961889
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603035.SH",
       "SECURITY_CODE": "603035",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "谭有莲",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6065916,
+      "FREE_HOLDNUM_RATIO": 1.655783908527,
+      "HOLD_NUM_CHANGE": "1342216",
+      "CHANGE_RATIO": 28.41450558
+    },
+    {
+      "SECUCODE": "603035.SH",
+      "SECURITY_CODE": "603035",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "建信基金-罗小春-建信鑫享6号单一资产管理计划",
       "HOLDER_TYPE": "基金资产管理计划",
       "SHARES_TYPE": "A股",
@@ -512,60 +525,21 @@
     {
       "SECUCODE": "603035.SH",
       "SECURITY_CODE": "603035",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5616604,
-      "FREE_HOLDNUM_RATIO": 1.533137373444,
-      "HOLD_NUM_CHANGE": "1467094",
-      "CHANGE_RATIO": 35.3558372
-    },
-    {
-      "SECUCODE": "603035.SH",
-      "SECURITY_CODE": "603035",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "谭有莲",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4723700,
-      "FREE_HOLDNUM_RATIO": 1.289405664159,
-      "HOLD_NUM_CHANGE": "-2357600",
-      "CHANGE_RATIO": -33.29332185
-    },
-    {
-      "SECUCODE": "603035.SH",
-      "SECURITY_CODE": "603035",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "交通银行股份有限公司-汇丰晋信大盘股票型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 4150695,
       "FREE_HOLDNUM_RATIO": 1.132995245929,
-      "HOLD_NUM_CHANGE": "-461200",
-      "CHANGE_RATIO": -10.00022767
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603035.SH",
       "SECURITY_CODE": "603035",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "基本养老保险基金一二零四组合",
-      "HOLDER_TYPE": "基本养老基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3755000,
-      "FREE_HOLDNUM_RATIO": 1.024984285394,
-      "HOLD_NUM_CHANGE": "-64200",
-      "CHANGE_RATIO": -1.68098031
-    },
-    {
-      "SECUCODE": "603035.SH",
-      "SECURITY_CODE": "603035",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "王卫清",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -577,26 +551,52 @@
     {
       "SECUCODE": "603035.SH",
       "SECURITY_CODE": "603035",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3358888,
+      "FREE_HOLDNUM_RATIO": 0.916859498375,
+      "HOLD_NUM_CHANGE": "-2257716",
+      "CHANGE_RATIO": -40.19717253
+    },
+    {
+      "SECUCODE": "603035.SH",
+      "SECURITY_CODE": "603035",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "陶建兵",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 3226363,
       "FREE_HOLDNUM_RATIO": 0.880684786678,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603035.SH",
+      "SECURITY_CODE": "603035",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "吴海江",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2938863,
+      "FREE_HOLDNUM_RATIO": 0.802207294787,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603035.SH",
       "SECURITY_CODE": "603035",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "工银瑞信基金-中国人寿保险股份有限公司-分红险-工银瑞信基金国寿股份均衡股票型组合单一资产管理计划(可供出售)",
-      "HOLDER_TYPE": "基金资产管理计划",
+      "HOLDER_NAME": "苏建刚",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2951600,
-      "FREE_HOLDNUM_RATIO": 0.805684052402,
+      "HOLD_NUM": 2700000,
+      "FREE_HOLDNUM_RATIO": 0.737006010803,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "603035.SH",
       "SECURITY_CODE": "603035",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 149156825,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 147173588,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 217190255,
-      "HOLD_NUM_RATIO": 40.71,
+      "OTHER_UNLIMITED_SHARES": 219173492,
+      "HOLD_NUM_RATIO": 40.17,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 59.29
+      "UNLIMITED_SHARES_RATIO": 59.83
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603035.SH",
       "SECURITY_CODE": "603035",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "罗小春",
       "SHARES_TYPE": "流通A股",
@@ -630,20 +630,32 @@
     {
       "SECUCODE": "603035.SH",
       "SECURITY_CODE": "603035",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中国建设银行股份有限公司-汇丰晋信新动力混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 6635981,
       "HOLD_NUM_RATIO": 1.81,
-      "HOLD_NUM_CHANGE": "-737300",
-      "CHANGE_RATIO": -9.99961889
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603035.SH",
       "SECURITY_CODE": "603035",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "谭有莲",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6065916,
+      "HOLD_NUM_RATIO": 1.66,
+      "HOLD_NUM_CHANGE": "1342216",
+      "CHANGE_RATIO": 28.41450558
+    },
+    {
+      "SECUCODE": "603035.SH",
+      "SECURITY_CODE": "603035",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "建信基金-罗小春-建信鑫享6号单一资产管理计划",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 5800000,
@@ -654,56 +666,20 @@
     {
       "SECUCODE": "603035.SH",
       "SECURITY_CODE": "603035",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5616604,
-      "HOLD_NUM_RATIO": 1.53,
-      "HOLD_NUM_CHANGE": "1467094",
-      "CHANGE_RATIO": 35.3558372
-    },
-    {
-      "SECUCODE": "603035.SH",
-      "SECURITY_CODE": "603035",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "谭有莲",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4723700,
-      "HOLD_NUM_RATIO": 1.29,
-      "HOLD_NUM_CHANGE": "-2357600",
-      "CHANGE_RATIO": -33.29332185
-    },
-    {
-      "SECUCODE": "603035.SH",
-      "SECURITY_CODE": "603035",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "交通银行股份有限公司-汇丰晋信大盘股票型证券投资基金",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4150695,
       "HOLD_NUM_RATIO": 1.13,
-      "HOLD_NUM_CHANGE": "-461200",
-      "CHANGE_RATIO": -10.00022767
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603035.SH",
       "SECURITY_CODE": "603035",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "基本养老保险基金一二零四组合",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3755000,
-      "HOLD_NUM_RATIO": 1.02,
-      "HOLD_NUM_CHANGE": "-64200",
-      "CHANGE_RATIO": -1.68098031
-    },
-    {
-      "SECUCODE": "603035.SH",
-      "SECURITY_CODE": "603035",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "王卫清",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3503163,
@@ -714,24 +690,48 @@
     {
       "SECUCODE": "603035.SH",
       "SECURITY_CODE": "603035",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3358888,
+      "HOLD_NUM_RATIO": 0.92,
+      "HOLD_NUM_CHANGE": "-2257716",
+      "CHANGE_RATIO": -40.19717253
+    },
+    {
+      "SECUCODE": "603035.SH",
+      "SECURITY_CODE": "603035",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "陶建兵",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3226363,
       "HOLD_NUM_RATIO": 0.88,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603035.SH",
+      "SECURITY_CODE": "603035",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "吴海江",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2938863,
+      "HOLD_NUM_RATIO": 0.8,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603035.SH",
       "SECURITY_CODE": "603035",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "工银瑞信基金-中国人寿保险股份有限公司-分红险-工银瑞信基金国寿股份均衡股票型组合单一资产管理计划(可供出售)",
+      "HOLDER_NAME": "苏建刚",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2951600,
-      "HOLD_NUM_RATIO": 0.81,
+      "HOLD_NUM": 2700000,
+      "HOLD_NUM_RATIO": 0.74,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,23 +742,84 @@
       "SECURITY_CODE": "603035",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 7,
-      "TOTAL_FREE_SHARES": 3362100,
-      "TOTAL_SHARES_RATIO": 0.91773626,
-      "ALL_SHARES_RATIO": 0.91773626
+      "TOTAL_ORG_NUM": 11,
+      "TOTAL_FREE_SHARES": 23307664,
+      "TOTAL_SHARES_RATIO": 6.36218092,
+      "ALL_SHARES_RATIO": 6.36218092
     },
     {
       "SECUCODE": "603035.SH",
       "SECURITY_CODE": "603035",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 7,
-      "TOTAL_FREE_SHARES": 3362100,
-      "TOTAL_SHARES_RATIO": 0.91773626,
-      "ALL_SHARES_RATIO": 0.91773626
+      "TOTAL_ORG_NUM": 10,
+      "TOTAL_FREE_SHARES": 19948776,
+      "TOTAL_SHARES_RATIO": 5.44532142,
+      "ALL_SHARES_RATIO": 5.44532142
+    },
+    {
+      "SECUCODE": "603035.SH",
+      "SECURITY_CODE": "603035",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 3358888,
+      "TOTAL_SHARES_RATIO": 0.9168595,
+      "ALL_SHARES_RATIO": 0.9168595
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603035.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "000965",
+      "HOLDER_NAME": "汇丰晋信新动力混合A",
+      "TOTAL_SHARES": 6635981,
+      "HOLD_VALUE": 93235533.05,
+      "TOTALSHARES_RATIO": 1.81139181,
+      "FREESHARES_RATIO": 1.81139181,
+      "FREE_MARKET_CAP": 93235533.05,
+      "FREE_SHARES": 6635981,
+      "SECURITY_CODE": "603035",
+      "FUND_CODE": "000965",
+      "FUND_DERIVECODE": "000965.OF",
+      "NETVALUE_RATIO": 3.61
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603035.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "70417286",
+      "HOLDER_NAME": "建信基金-罗小春-建信鑫享6号单一资产管理计划",
+      "TOTAL_SHARES": 5800000,
+      "HOLD_VALUE": 81490000,
+      "TOTALSHARES_RATIO": 1.5831981,
+      "FREESHARES_RATIO": 1.5831981,
+      "FREE_MARKET_CAP": 81490000,
+      "FREE_SHARES": 5800000,
+      "SECURITY_CODE": "603035",
+      "FUND_CODE": null,
+      "FUND_DERIVECODE": null,
+      "NETVALUE_RATIO": null
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603035.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "540006",
+      "HOLDER_NAME": "汇丰晋信大盘股票A",
+      "TOTAL_SHARES": 4150695,
+      "HOLD_VALUE": 58317264.75,
+      "TOTALSHARES_RATIO": 1.13299525,
+      "FREESHARES_RATIO": 1.13299525,
+      "FREE_MARKET_CAP": 58317264.75,
+      "FREE_SHARES": 4150695,
+      "SECURITY_CODE": "603035",
+      "FUND_CODE": "540006",
+      "FUND_DERIVECODE": "540006.OF",
+      "NETVALUE_RATIO": 2.57
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "603035.SH",

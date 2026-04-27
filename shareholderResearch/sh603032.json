@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 17.55,
       "AVG_HOLD_AMT": 142795.952233774,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 59.51652336,
+      "FREEHOLD_RATIO_TOTAL": 59.9184229
     },
     {
       "SECUCODE": "603032.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603032.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603032.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603032.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603032.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603032.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603032.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603032.SH",
       "END_DATE": "2018-12-17 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "603032.SH",
-      "END_DATE": "2018-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "603032.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "603032.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,25 +443,9 @@
     {
       "SECUCODE": "603032.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603032.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-12-10 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "新疆维吾尔自治区国有资产投资经营有限责任公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11675668,
-      "HOLD_NUM_RATIO": 5,
-      "HOLD_CHANGE": "-806800",
-      "CHANGE_RATIO": -6.4634654,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "603032.SH",
@@ -495,7 +483,7 @@
     {
       "SECUCODE": "603032.SH",
       "SECURITY_CODE": "603032",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "德力西新疆投资集团有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -508,33 +496,33 @@
     {
       "SECUCODE": "603032.SH",
       "SECURITY_CODE": "603032",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "纪德顺",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 11591400,
       "FREE_HOLDNUM_RATIO": 5.003560343506,
-      "HOLD_NUM_CHANGE": "5218900",
-      "CHANGE_RATIO": 81.89721459
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603032.SH",
       "SECURITY_CODE": "603032",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "新疆维吾尔自治区国有资产投资经营有限责任公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10147368,
-      "FREE_HOLDNUM_RATIO": 4.380227419963,
-      "HOLD_NUM_CHANGE": "-2335100",
-      "CHANGE_RATIO": -18.70703774
+      "HOLD_NUM": 7815208,
+      "FREE_HOLDNUM_RATIO": 3.373523890561,
+      "HOLD_NUM_CHANGE": "-2332160",
+      "CHANGE_RATIO": -22.98290552
     },
     {
       "SECUCODE": "603032.SH",
       "SECURITY_CODE": "603032",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "胡成中",
       "HOLDER_TYPE": "个人",
@@ -547,136 +535,136 @@
     {
       "SECUCODE": "603032.SH",
       "SECURITY_CODE": "603032",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "MORGANSTANLEY&CO.INTERNATIONALPLC.",
+      "HOLDER_NAME": "高盛公司有限责任公司",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1230944,
-      "FREE_HOLDNUM_RATIO": 0.531351051942,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1215503,
+      "FREE_HOLDNUM_RATIO": 0.524685767743,
+      "HOLD_NUM_CHANGE": "416382",
+      "CHANGE_RATIO": 52.10500037
     },
     {
       "SECUCODE": "603032.SH",
       "SECURITY_CODE": "603032",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "UBS AG",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1105372,
+      "FREE_HOLDNUM_RATIO": 0.477146462379,
+      "HOLD_NUM_CHANGE": "144483",
+      "CHANGE_RATIO": 15.03638818
+    },
+    {
+      "SECUCODE": "603032.SH",
+      "SECURITY_CODE": "603032",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "南胜攀",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1051000,
-      "FREE_HOLDNUM_RATIO": 0.453676166902,
-      "HOLD_NUM_CHANGE": "7000",
-      "CHANGE_RATIO": 0.67049808
+      "HOLD_NUM": 1069900,
+      "FREE_HOLDNUM_RATIO": 0.461834568,
+      "HOLD_NUM_CHANGE": "18900",
+      "CHANGE_RATIO": 1.79828735
     },
     {
       "SECUCODE": "603032.SH",
       "SECURITY_CODE": "603032",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "UBSAG",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 960889,
-      "FREE_HOLDNUM_RATIO": 0.414778723442,
-      "HOLD_NUM_CHANGE": "-402549",
-      "CHANGE_RATIO": -29.52455484
-    },
-    {
-      "SECUCODE": "603032.SH",
-      "SECURITY_CODE": "603032",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "叶龙",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 873800,
-      "FREE_HOLDNUM_RATIO": 0.377185760836,
-      "HOLD_NUM_CHANGE": "-150000",
-      "CHANGE_RATIO": -14.65129908
+      "HOLD_NUM": 738200,
+      "FREE_HOLDNUM_RATIO": 0.318652470416,
+      "HOLD_NUM_CHANGE": "-135600",
+      "CHANGE_RATIO": -15.51842527
     },
     {
       "SECUCODE": "603032.SH",
       "SECURITY_CODE": "603032",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_NAME": "MORGAN STANLEY&CO.INTERNATIONAL PLC.",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 799121,
-      "FREE_HOLDNUM_RATIO": 0.344949716623,
-      "HOLD_NUM_CHANGE": "-31877",
-      "CHANGE_RATIO": -3.83598998
+      "HOLD_NUM": 592429,
+      "FREE_HOLDNUM_RATIO": 0.255728751552,
+      "HOLD_NUM_CHANGE": "-638515",
+      "CHANGE_RATIO": -51.87197793
     },
     {
       "SECUCODE": "603032.SH",
       "SECURITY_CODE": "603032",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "BARCLAYS BANK PLC",
-      "HOLDER_TYPE": "QFII",
+      "HOLDER_NAME": "年影",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 657561,
-      "FREE_HOLDNUM_RATIO": 0.283843724057,
-      "HOLD_NUM_CHANGE": "-166114",
-      "CHANGE_RATIO": -20.1674204
+      "HOLD_NUM": 590000,
+      "FREE_HOLDNUM_RATIO": 0.25468024593,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "603032.SH",
       "SECURITY_CODE": "603032",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 141402911,
-      "LIMITED_SHARES": 1851640,
-      "OTHER_UNLIMITED_SHARES": 90260129,
-      "HOLD_NUM_RATIO": 60.55,
-      "LIMITED_SHARES_RATIO": 0.79,
-      "UNLIMITED_SHARES_RATIO": 38.65
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 138808840,
+      "LIMITED_SHARES": 1564360,
+      "OTHER_UNLIMITED_SHARES": 92854200,
+      "HOLD_NUM_RATIO": 59.52,
+      "LIMITED_SHARES_RATIO": 0.67,
+      "UNLIMITED_SHARES_RATIO": 39.81
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603032.SH",
       "SECURITY_CODE": "603032",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "德力西新疆投资集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 112000028,
-      "HOLD_NUM_RATIO": 47.96,
+      "HOLD_NUM_RATIO": 48.02,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603032.SH",
       "SECURITY_CODE": "603032",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "纪德顺",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 11591400,
-      "HOLD_NUM_RATIO": 4.96,
-      "HOLD_NUM_CHANGE": "5218900",
-      "CHANGE_RATIO": 81.89721459
+      "HOLD_NUM_RATIO": 4.97,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603032.SH",
       "SECURITY_CODE": "603032",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "新疆维吾尔自治区国有资产投资经营有限责任公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10147368,
-      "HOLD_NUM_RATIO": 4.35,
-      "HOLD_NUM_CHANGE": "-1528300",
-      "CHANGE_RATIO": -13.08961509
+      "HOLD_NUM": 7815208,
+      "HOLD_NUM_RATIO": 3.35,
+      "HOLD_NUM_CHANGE": "-2332160",
+      "CHANGE_RATIO": -22.98290552
     },
     {
       "SECUCODE": "603032.SH",
       "SECURITY_CODE": "603032",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "胡成中",
       "SHARES_TYPE": "流通A股",
@@ -688,116 +676,106 @@
     {
       "SECUCODE": "603032.SH",
       "SECURITY_CODE": "603032",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "MORGAN STANLEY&CO.INTERNATION ALPLC.",
+      "HOLDER_NAME": "高盛公司有限责任公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1230944,
-      "HOLD_NUM_RATIO": 0.53,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1215503,
+      "HOLD_NUM_RATIO": 0.52,
+      "HOLD_NUM_CHANGE": "416382",
+      "CHANGE_RATIO": 52.10500037
     },
     {
       "SECUCODE": "603032.SH",
       "SECURITY_CODE": "603032",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "UBS AG",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1105372,
+      "HOLD_NUM_RATIO": 0.47,
+      "HOLD_NUM_CHANGE": "144483",
+      "CHANGE_RATIO": 15.03638818
+    },
+    {
+      "SECUCODE": "603032.SH",
+      "SECURITY_CODE": "603032",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "南胜攀",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1051000,
-      "HOLD_NUM_RATIO": 0.45,
-      "HOLD_NUM_CHANGE": "7000",
-      "CHANGE_RATIO": 0.67049808
+      "HOLD_NUM": 1069900,
+      "HOLD_NUM_RATIO": 0.46,
+      "HOLD_NUM_CHANGE": "18900",
+      "CHANGE_RATIO": 1.79828735
     },
     {
       "SECUCODE": "603032.SH",
       "SECURITY_CODE": "603032",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "UBSAG",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 960889,
-      "HOLD_NUM_RATIO": 0.41,
-      "HOLD_NUM_CHANGE": "-402549",
-      "CHANGE_RATIO": -29.52455484
-    },
-    {
-      "SECUCODE": "603032.SH",
-      "SECURITY_CODE": "603032",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "叶龙",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 873800,
-      "HOLD_NUM_RATIO": 0.37,
-      "HOLD_NUM_CHANGE": "-150000",
-      "CHANGE_RATIO": -14.65129908
+      "HOLD_NUM": 738200,
+      "HOLD_NUM_RATIO": 0.32,
+      "HOLD_NUM_CHANGE": "-135600",
+      "CHANGE_RATIO": -15.51842527
     },
     {
       "SECUCODE": "603032.SH",
       "SECURITY_CODE": "603032",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_NAME": "MORGAN STANLEY&CO.INTERNATIONAL PLC.",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 799121,
-      "HOLD_NUM_RATIO": 0.34,
-      "HOLD_NUM_CHANGE": "-31877",
-      "CHANGE_RATIO": -3.83598998
+      "HOLD_NUM": 592429,
+      "HOLD_NUM_RATIO": 0.25,
+      "HOLD_NUM_CHANGE": "-638515",
+      "CHANGE_RATIO": -51.87197793
     },
     {
       "SECUCODE": "603032.SH",
       "SECURITY_CODE": "603032",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "BARCLAYS BANK PLC",
+      "HOLDER_NAME": "年影",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 657561,
-      "HOLD_NUM_RATIO": 0.28,
-      "HOLD_NUM_CHANGE": "-166114",
-      "CHANGE_RATIO": -20.1674204
+      "HOLD_NUM": 590000,
+      "HOLD_NUM_RATIO": 0.25,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "603032.SH",
       "SECURITY_CODE": "603032",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 25,
-      "TOTAL_FREE_SHARES": 126581311,
-      "TOTAL_SHARES_RATIO": 54.6402702,
-      "ALL_SHARES_RATIO": 54.20700359
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 122728540,
+      "TOTAL_SHARES_RATIO": 52.97717754,
+      "ALL_SHARES_RATIO": 52.62183602
     },
     {
       "SECUCODE": "603032.SH",
       "SECURITY_CODE": "603032",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 19,
-      "TOTAL_FREE_SHARES": 785400,
-      "TOTAL_SHARES_RATIO": 0.3390269,
-      "ALL_SHARES_RATIO": 0.33633859
-    },
-    {
-      "SECUCODE": "603032.SH",
-      "SECURITY_CODE": "603032",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "02",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 3648515,
-      "TOTAL_SHARES_RATIO": 1.57492321,
-      "ALL_SHARES_RATIO": 1.56243496
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 2913304,
+      "TOTAL_SHARES_RATIO": 1.25756098,
+      "ALL_SHARES_RATIO": 1.24912596
     },
     {
       "SECUCODE": "603032.SH",
       "SECURITY_CODE": "603032",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 122147396,
-      "TOTAL_SHARES_RATIO": 52.72632009,
-      "ALL_SHARES_RATIO": 52.30823004
+      "TOTAL_FREE_SHARES": 119815236,
+      "TOTAL_SHARES_RATIO": 51.71961656,
+      "ALL_SHARES_RATIO": 51.37271006
     }
   ],
   "jjcg": [

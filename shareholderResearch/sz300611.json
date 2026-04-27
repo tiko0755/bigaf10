@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 28.26,
       "AVG_HOLD_AMT": 194101.621656169,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 47.40849068,
+      "FREEHOLD_RATIO_TOTAL": 25.14826068
     },
     {
       "SECUCODE": "300611.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300611.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300611.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300611.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300611.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300611.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300611.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "300611.SZ",
       "END_DATE": "2020-10-30 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300611.SZ",
-      "END_DATE": "2020-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "300611.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "300611.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "300611.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300611.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "300611.SZ",
       "SECURITY_CODE": "300611",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "章碧鸿",
       "HOLDER_TYPE": "个人",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "300611.SZ",
       "SECURITY_CODE": "300611",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "浙江美力科技股份有限公司-第三期员工持股计划",
       "HOLDER_TYPE": "员工持股计划",
@@ -499,46 +499,46 @@
     {
       "SECUCODE": "300611.SZ",
       "SECURITY_CODE": "300611",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "俞爱香",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 2640275,
       "FREE_HOLDNUM_RATIO": 1.780324980658,
-      "HOLD_NUM_CHANGE": "600000",
-      "CHANGE_RATIO": 29.40780042
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300611.SZ",
       "SECURITY_CODE": "300611",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "王嘉轩",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 2485630,
       "FREE_HOLDNUM_RATIO": 1.676048586482,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300611.SZ",
       "SECURITY_CODE": "300611",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "长江成长资本投资有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 2102315,
       "FREE_HOLDNUM_RATIO": 1.417581089739,
-      "HOLD_NUM_CHANGE": "-1479800",
-      "CHANGE_RATIO": -41.31078985
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300611.SZ",
       "SECURITY_CODE": "300611",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "王亭懿",
       "HOLDER_TYPE": "个人",
@@ -551,8 +551,21 @@
     {
       "SECUCODE": "300611.SZ",
       "SECURITY_CODE": "300611",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "吴斌",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1880000,
+      "FREE_HOLDNUM_RATIO": 1.267675133703,
+      "HOLD_NUM_CHANGE": "980000",
+      "CHANGE_RATIO": 108.88888889
+    },
+    {
+      "SECUCODE": "300611.SZ",
+      "SECURITY_CODE": "300611",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "章竹军",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -564,21 +577,21 @@
     {
       "SECUCODE": "300611.SZ",
       "SECURITY_CODE": "300611",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "戴锐文",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "刘小兰",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1103800,
-      "FREE_HOLDNUM_RATIO": 0.744287134352,
-      "HOLD_NUM_CHANGE": "-179100",
-      "CHANGE_RATIO": -13.96055811
+      "HOLD_NUM": 1129600,
+      "FREE_HOLDNUM_RATIO": 0.761683952676,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300611.SZ",
       "SECURITY_CODE": "300611",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "章伟",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -586,39 +599,26 @@
       "FREE_HOLDNUM_RATIO": 0.741724812273,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300611.SZ",
-      "SECURITY_CODE": "300611",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "吴斌",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 900000,
-      "FREE_HOLDNUM_RATIO": 0.606865755496,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "300611.SZ",
       "SECURITY_CODE": "300611",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 36289820,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 37295620,
       "LIMITED_SHARES": 62771700,
-      "OTHER_UNLIMITED_SHARES": 112013160,
-      "HOLD_NUM_RATIO": 17.19,
+      "OTHER_UNLIMITED_SHARES": 111007360,
+      "HOLD_NUM_RATIO": 17.67,
       "LIMITED_SHARES_RATIO": 29.74,
-      "UNLIMITED_SHARES_RATIO": 53.07
+      "UNLIMITED_SHARES_RATIO": 52.59
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300611.SZ",
       "SECURITY_CODE": "300611",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "章碧鸿",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "300611.SZ",
       "SECURITY_CODE": "300611",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "章竹军",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "300611.SZ",
       "SECURITY_CODE": "300611",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "浙江美力科技股份有限公司-第三期员工持股计划",
       "SHARES_TYPE": "流通A股",
@@ -654,43 +654,43 @@
     {
       "SECUCODE": "300611.SZ",
       "SECURITY_CODE": "300611",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "俞爱香",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2640275,
       "HOLD_NUM_RATIO": 1.25,
-      "HOLD_NUM_CHANGE": "600000",
-      "CHANGE_RATIO": 29.40780042
-    },
-    {
-      "SECUCODE": "300611.SZ",
-      "SECURITY_CODE": "300611",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "王嘉轩",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2485630,
-      "HOLD_NUM_RATIO": 1.18,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300611.SZ",
       "SECURITY_CODE": "300611",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "王嘉轩",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2485630,
+      "HOLD_NUM_RATIO": 1.18,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300611.SZ",
+      "SECURITY_CODE": "300611",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "长江成长资本投资有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2102315,
       "HOLD_NUM_RATIO": 1,
-      "HOLD_NUM_CHANGE": "-1479800",
-      "CHANGE_RATIO": -41.31078985
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300611.SZ",
       "SECURITY_CODE": "300611",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "王亭懿",
       "SHARES_TYPE": "流通A股",
@@ -702,37 +702,37 @@
     {
       "SECUCODE": "300611.SZ",
       "SECURITY_CODE": "300611",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "戴锐文",
+      "HOLDER_NAME": "吴斌",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1103800,
-      "HOLD_NUM_RATIO": 0.52,
-      "HOLD_NUM_CHANGE": "-179100",
-      "CHANGE_RATIO": -13.96055811
+      "HOLD_NUM": 1880000,
+      "HOLD_NUM_RATIO": 0.89,
+      "HOLD_NUM_CHANGE": "980000",
+      "CHANGE_RATIO": 108.88888889
     },
     {
       "SECUCODE": "300611.SZ",
       "SECURITY_CODE": "300611",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "章伟",
+      "HOLDER_NAME": "刘小兰",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1100000,
-      "HOLD_NUM_RATIO": 0.52,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 1129600,
+      "HOLD_NUM_RATIO": 0.54,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300611.SZ",
       "SECURITY_CODE": "300611",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "吴斌",
+      "HOLDER_NAME": "章伟",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 900000,
-      "HOLD_NUM_RATIO": 0.43,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM": 1100000,
+      "HOLD_NUM_RATIO": 0.52,
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -740,27 +740,17 @@
     {
       "SECUCODE": "300611.SZ",
       "SECURITY_CODE": "300611",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 28,
-      "TOTAL_FREE_SHARES": 5302212,
-      "TOTAL_SHARES_RATIO": 3.57525655,
-      "ALL_SHARES_RATIO": 2.51200762
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 5076815,
+      "TOTAL_SHARES_RATIO": 3.42327241,
+      "ALL_SHARES_RATIO": 2.40522217
     },
     {
       "SECUCODE": "300611.SZ",
       "SECURITY_CODE": "300611",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 26,
-      "TOTAL_FREE_SHARES": 225397,
-      "TOTAL_SHARES_RATIO": 0.15198414,
-      "ALL_SHARES_RATIO": 0.10678545
-    },
-    {
-      "SECUCODE": "300611.SZ",
-      "SECURITY_CODE": "300611",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 2,
       "TOTAL_FREE_SHARES": 5076815,

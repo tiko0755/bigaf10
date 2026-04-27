@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 6.4,
       "AVG_HOLD_AMT": 72667.5527143884,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 43.72710478,
+      "FREEHOLD_RATIO_TOTAL": 43.72710478
     },
     {
       "SECUCODE": "600802.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600802.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600802.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600802.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600802.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600802.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600802.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600802.SH",
       "END_DATE": "2014-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600802.SH",
-      "END_DATE": "2014-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600802.SH",
       "SECURITY_CODE": "600802",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "福建省建材(控股)有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600802.SH",
       "SECURITY_CODE": "600802",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "王新忠",
       "HOLDER_TYPE": "个人",
@@ -499,34 +499,21 @@
     {
       "SECUCODE": "600802.SH",
       "SECURITY_CODE": "600802",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "钟丽倩",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 13080660,
-      "FREE_HOLDNUM_RATIO": 2.854491144977,
-      "HOLD_NUM_CHANGE": "225000",
-      "CHANGE_RATIO": 1.75020186
+      "HOLD_NUM": 13067160,
+      "FREE_HOLDNUM_RATIO": 2.851545144511,
+      "HOLD_NUM_CHANGE": "-13500",
+      "CHANGE_RATIO": -0.1032058
     },
     {
       "SECUCODE": "600802.SH",
       "SECURITY_CODE": "600802",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "福建煤电股份有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12144700,
-      "FREE_HOLDNUM_RATIO": 2.65024384155,
-      "HOLD_NUM_CHANGE": "-2376300",
-      "CHANGE_RATIO": -16.36457544
-    },
-    {
-      "SECUCODE": "600802.SH",
-      "SECURITY_CODE": "600802",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "顾秀蓉",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -538,21 +525,47 @@
     {
       "SECUCODE": "600802.SH",
       "SECURITY_CODE": "600802",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "徐仲敏",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 6242920,
       "FREE_HOLDNUM_RATIO": 1.362344091109,
-      "HOLD_NUM_CHANGE": "1096000",
-      "CHANGE_RATIO": 21.29428862
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600802.SH",
       "SECURITY_CODE": "600802",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "福建煤电股份有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5361000,
+      "FREE_HOLDNUM_RATIO": 1.169889518436,
+      "HOLD_NUM_CHANGE": "-6783700",
+      "CHANGE_RATIO": -55.85728754
+    },
+    {
+      "SECUCODE": "600802.SH",
+      "SECURITY_CODE": "600802",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "陈敏",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4723520,
+      "FREE_HOLDNUM_RATIO": 1.030777194203,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600802.SH",
+      "SECURITY_CODE": "600802",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "徐汉生",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -564,8 +577,8 @@
     {
       "SECUCODE": "600802.SH",
       "SECURITY_CODE": "600802",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "赵益萍",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -577,27 +590,14 @@
     {
       "SECUCODE": "600802.SH",
       "SECURITY_CODE": "600802",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "孙俊",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 3402016,
       "FREE_HOLDNUM_RATIO": 0.742395609019,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600802.SH",
-      "SECURITY_CODE": "600802",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2750836,
-      "FREE_HOLDNUM_RATIO": 0.600293639869,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "600802.SH",
       "SECURITY_CODE": "600802",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 205203274,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 200378758,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 253045126,
-      "HOLD_NUM_RATIO": 44.78,
+      "OTHER_UNLIMITED_SHARES": 257869642,
+      "HOLD_NUM_RATIO": 43.73,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 55.22
+      "UNLIMITED_SHARES_RATIO": 56.27
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600802.SH",
       "SECURITY_CODE": "600802",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "福建省建材(控股)有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600802.SH",
       "SECURITY_CODE": "600802",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "王新忠",
       "SHARES_TYPE": "流通A股",
@@ -642,32 +642,20 @@
     {
       "SECUCODE": "600802.SH",
       "SECURITY_CODE": "600802",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "钟丽倩",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 13080660,
+      "HOLD_NUM": 13067160,
       "HOLD_NUM_RATIO": 2.85,
-      "HOLD_NUM_CHANGE": "225000",
-      "CHANGE_RATIO": 1.75020186
+      "HOLD_NUM_CHANGE": "-13500",
+      "CHANGE_RATIO": -0.1032058
     },
     {
       "SECUCODE": "600802.SH",
       "SECURITY_CODE": "600802",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "福建煤电股份有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 12144700,
-      "HOLD_NUM_RATIO": 2.65,
-      "HOLD_NUM_CHANGE": "-2376300",
-      "CHANGE_RATIO": -16.36457544
-    },
-    {
-      "SECUCODE": "600802.SH",
-      "SECURITY_CODE": "600802",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "顾秀蓉",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 8207600,
@@ -678,20 +666,44 @@
     {
       "SECUCODE": "600802.SH",
       "SECURITY_CODE": "600802",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "徐仲敏",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 6242920,
       "HOLD_NUM_RATIO": 1.36,
-      "HOLD_NUM_CHANGE": "1096000",
-      "CHANGE_RATIO": 21.29428862
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600802.SH",
       "SECURITY_CODE": "600802",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "福建煤电股份有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5361000,
+      "HOLD_NUM_RATIO": 1.17,
+      "HOLD_NUM_CHANGE": "-6783700",
+      "CHANGE_RATIO": -55.85728754
+    },
+    {
+      "SECUCODE": "600802.SH",
+      "SECURITY_CODE": "600802",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "陈敏",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4723520,
+      "HOLD_NUM_RATIO": 1.03,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600802.SH",
+      "SECURITY_CODE": "600802",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "徐汉生",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3910820,
@@ -702,8 +714,8 @@
     {
       "SECUCODE": "600802.SH",
       "SECURITY_CODE": "600802",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "赵益萍",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3556200,
@@ -714,25 +726,13 @@
     {
       "SECUCODE": "600802.SH",
       "SECURITY_CODE": "600802",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "孙俊",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3402016,
       "HOLD_NUM_RATIO": 0.74,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600802.SH",
-      "SECURITY_CODE": "600802",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2750836,
-      "HOLD_NUM_RATIO": 0.6,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "600802",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 218700,
-      "TOTAL_SHARES_RATIO": 0.04772521,
-      "ALL_SHARES_RATIO": 0.04772521
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 137475407,
+      "TOTAL_SHARES_RATIO": 30.00019357,
+      "ALL_SHARES_RATIO": 30.00019357
     },
     {
       "SECUCODE": "600802.SH",
@@ -756,6 +756,16 @@
       "TOTAL_FREE_SHARES": 218700,
       "TOTAL_SHARES_RATIO": 0.04772521,
       "ALL_SHARES_RATIO": 0.04772521
+    },
+    {
+      "SECUCODE": "600802.SH",
+      "SECURITY_CODE": "600802",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 137256707,
+      "TOTAL_SHARES_RATIO": 29.95246836,
+      "ALL_SHARES_RATIO": 29.95246836
     }
   ],
   "jjcg": [

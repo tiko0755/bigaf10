@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 7.72,
       "AVG_HOLD_AMT": 107932.793667926,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 35.96256337,
+      "FREEHOLD_RATIO_TOTAL": 35.96256337
     },
     {
       "SECUCODE": "600051.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600051.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600051.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600051.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600051.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600051.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600051.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600051.SH",
       "END_DATE": "2014-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600051.SH",
-      "END_DATE": "2013-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600051.SH",
       "SECURITY_CODE": "600051",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "浙江荣盛控股集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600051.SH",
       "SECURITY_CODE": "600051",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "宁波经济技术开发区控股有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,60 +499,73 @@
     {
       "SECUCODE": "600051.SH",
       "SECURITY_CODE": "600051",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "楼益女",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2167700,
-      "FREE_HOLDNUM_RATIO": 0.697278692743,
-      "HOLD_NUM_CHANGE": "-11100",
-      "CHANGE_RATIO": -0.50945475
+      "HOLD_NUM": 2789433,
+      "FREE_HOLDNUM_RATIO": 0.89727000772,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600051.SH",
       "SECURITY_CODE": "600051",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "郭学东",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2190100,
+      "FREE_HOLDNUM_RATIO": 0.704484045291,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600051.SH",
+      "SECURITY_CODE": "600051",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "楼益女",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2086500,
+      "FREE_HOLDNUM_RATIO": 0.671159289758,
+      "HOLD_NUM_CHANGE": "-81200",
+      "CHANGE_RATIO": -3.7459058
+    },
+    {
+      "SECUCODE": "600051.SH",
+      "SECURITY_CODE": "600051",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1941600,
+      "FREE_HOLDNUM_RATIO": 0.624549665466,
+      "HOLD_NUM_CHANGE": "84100",
+      "CHANGE_RATIO": 4.52759085
+    },
+    {
+      "SECUCODE": "600051.SH",
+      "SECURITY_CODE": "600051",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "翟育豹",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1941300,
       "FREE_HOLDNUM_RATIO": 0.624453165208,
-      "HOLD_NUM_CHANGE": "223800",
-      "CHANGE_RATIO": 13.03056769
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600051.SH",
       "SECURITY_CODE": "600051",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1857500,
-      "FREE_HOLDNUM_RATIO": 0.59749742666,
-      "HOLD_NUM_CHANGE": "-284400",
-      "CHANGE_RATIO": -13.27793081
-    },
-    {
-      "SECUCODE": "600051.SH",
-      "SECURITY_CODE": "600051",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "张治敏",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1764000,
-      "FREE_HOLDNUM_RATIO": 0.567421513124,
-      "HOLD_NUM_CHANGE": "3400",
-      "CHANGE_RATIO": 0.19311598
-    },
-    {
-      "SECUCODE": "600051.SH",
-      "SECURITY_CODE": "600051",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "中国对外经济贸易信托有限公司-外贸信托-睿郡稳享私募证券投资基金",
       "HOLDER_TYPE": "信托计划",
       "SHARES_TYPE": "A股",
@@ -564,8 +577,8 @@
     {
       "SECUCODE": "600051.SH",
       "SECURITY_CODE": "600051",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "王维和",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -577,26 +590,13 @@
     {
       "SECUCODE": "600051.SH",
       "SECURITY_CODE": "600051",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "蒋杰",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1609300,
-      "FREE_HOLDNUM_RATIO": 0.517659547092,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600051.SH",
-      "SECURITY_CODE": "600051",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "陈宝兰",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "MORGAN STANLEY&CO.INTERNATIONAL PLC.",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1435700,
-      "FREE_HOLDNUM_RATIO": 0.461818064848,
+      "HOLD_NUM": 1688201,
+      "FREE_HOLDNUM_RATIO": 0.543039436438,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "600051.SH",
       "SECURITY_CODE": "600051",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 109938783,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 111800417,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 200941217,
-      "HOLD_NUM_RATIO": 35.36,
+      "OTHER_UNLIMITED_SHARES": 199079583,
+      "HOLD_NUM_RATIO": 35.96,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 64.64
+      "UNLIMITED_SHARES_RATIO": 64.04
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600051.SH",
       "SECURITY_CODE": "600051",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "浙江荣盛控股集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600051.SH",
       "SECURITY_CODE": "600051",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "宁波经济技术开发区控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,56 +642,68 @@
     {
       "SECUCODE": "600051.SH",
       "SECURITY_CODE": "600051",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "楼益女",
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2167700,
-      "HOLD_NUM_RATIO": 0.7,
-      "HOLD_NUM_CHANGE": "-11100",
-      "CHANGE_RATIO": -0.50945475
+      "HOLD_NUM": 2789433,
+      "HOLD_NUM_RATIO": 0.9,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600051.SH",
       "SECURITY_CODE": "600051",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "郭学东",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2190100,
+      "HOLD_NUM_RATIO": 0.7,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600051.SH",
+      "SECURITY_CODE": "600051",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "楼益女",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2086500,
+      "HOLD_NUM_RATIO": 0.67,
+      "HOLD_NUM_CHANGE": "-81200",
+      "CHANGE_RATIO": -3.7459058
+    },
+    {
+      "SECUCODE": "600051.SH",
+      "SECURITY_CODE": "600051",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1941600,
+      "HOLD_NUM_RATIO": 0.62,
+      "HOLD_NUM_CHANGE": "84100",
+      "CHANGE_RATIO": 4.52759085
+    },
+    {
+      "SECUCODE": "600051.SH",
+      "SECURITY_CODE": "600051",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "翟育豹",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1941300,
       "HOLD_NUM_RATIO": 0.62,
-      "HOLD_NUM_CHANGE": "223800",
-      "CHANGE_RATIO": 13.03056769
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600051.SH",
       "SECURITY_CODE": "600051",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1857500,
-      "HOLD_NUM_RATIO": 0.6,
-      "HOLD_NUM_CHANGE": "-284400",
-      "CHANGE_RATIO": -13.27793081
-    },
-    {
-      "SECUCODE": "600051.SH",
-      "SECURITY_CODE": "600051",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "张治敏",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1764000,
-      "HOLD_NUM_RATIO": 0.57,
-      "HOLD_NUM_CHANGE": "3400",
-      "CHANGE_RATIO": 0.19311598
-    },
-    {
-      "SECUCODE": "600051.SH",
-      "SECURITY_CODE": "600051",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "中国对外经济贸易信托有限公司-外贸信托-睿郡稳享私募证券投资基金",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1710450,
@@ -702,8 +714,8 @@
     {
       "SECUCODE": "600051.SH",
       "SECURITY_CODE": "600051",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "王维和",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1709461,
@@ -714,24 +726,12 @@
     {
       "SECUCODE": "600051.SH",
       "SECURITY_CODE": "600051",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "蒋杰",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1609300,
-      "HOLD_NUM_RATIO": 0.52,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600051.SH",
-      "SECURITY_CODE": "600051",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "陈宝兰",
+      "HOLDER_NAME": "MORGAN STANLEY&CO.INTERNATIONAL PLC.",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1435700,
-      "HOLD_NUM_RATIO": 0.46,
+      "HOLD_NUM": 1688201,
+      "HOLD_NUM_RATIO": 0.54,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,23 +742,70 @@
       "SECURITY_CODE": "600051",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 993300,
-      "TOTAL_SHARES_RATIO": 0.31951236,
-      "ALL_SHARES_RATIO": 0.31951236
+      "TOTAL_ORG_NUM": 10,
+      "TOTAL_FREE_SHARES": 104866356,
+      "TOTAL_SHARES_RATIO": 33.73210116,
+      "ALL_SHARES_RATIO": 33.73210116
     },
     {
       "SECUCODE": "600051.SH",
       "SECURITY_CODE": "600051",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 993300,
-      "TOTAL_SHARES_RATIO": 0.31951236,
-      "ALL_SHARES_RATIO": 0.31951236
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 2934900,
+      "TOTAL_SHARES_RATIO": 0.94406203,
+      "ALL_SHARES_RATIO": 0.94406203
+    },
+    {
+      "SECUCODE": "600051.SH",
+      "SECURITY_CODE": "600051",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 4477634,
+      "TOTAL_SHARES_RATIO": 1.44030945,
+      "ALL_SHARES_RATIO": 1.44030945
+    },
+    {
+      "SECUCODE": "600051.SH",
+      "SECURITY_CODE": "600051",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "06",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 1710450,
+      "TOTAL_SHARES_RATIO": 0.55019622,
+      "ALL_SHARES_RATIO": 0.55019622
+    },
+    {
+      "SECUCODE": "600051.SH",
+      "SECURITY_CODE": "600051",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 95743372,
+      "TOTAL_SHARES_RATIO": 30.79753346,
+      "ALL_SHARES_RATIO": 30.79753346
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600051.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "320016",
+      "HOLDER_NAME": "诺安多策略混合A",
+      "TOTAL_SHARES": 1941600,
+      "HOLD_VALUE": 14989152,
+      "TOTALSHARES_RATIO": 0.62454967,
+      "FREESHARES_RATIO": 0.62454967,
+      "FREE_MARKET_CAP": 14989152,
+      "FREE_SHARES": 1941600,
+      "SECURITY_CODE": "600051",
+      "FUND_CODE": "320016",
+      "FUND_DERIVECODE": "320016.OF",
+      "NETVALUE_RATIO": 0.59
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "600051.SH",

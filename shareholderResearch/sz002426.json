@@ -25,7 +25,7 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 3.83,
       "AVG_HOLD_AMT": 89443.7720146191,
-      "HOLD_RATIO_TOTAL": null,
+      "HOLD_RATIO_TOTAL": 24.43692403,
       "FREEHOLD_RATIO_TOTAL": 24.43711093
     },
     {
@@ -167,6 +167,11 @@
     {
       "SECUCODE": "002426.SZ",
       "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "002426.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
       "IS_REPORTDATE": "1"
     },
     {
@@ -408,11 +413,6 @@
       "SECUCODE": "002426.SZ",
       "END_DATE": "2020-06-03 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "002426.SZ",
-      "END_DATE": "2020-06-02 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "002426.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "002426.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "002426.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002426.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -696,8 +696,8 @@
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 25736499,
       "HOLD_NUM_RATIO": 0.76,
-      "HOLD_NUM_CHANGE": "3578300",
-      "CHANGE_RATIO": 16.14887564
+      "HOLD_NUM_CHANGE": "4201600",
+      "CHANGE_RATIO": 19.5106557
     },
     {
       "SECUCODE": "002426.SZ",
@@ -708,8 +708,8 @@
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 25412640,
       "HOLD_NUM_RATIO": 0.75,
-      "HOLD_NUM_CHANGE": "-32721386",
-      "CHANGE_RATIO": -56.28611719
+      "HOLD_NUM_CHANGE": "-36202457",
+      "CHANGE_RATIO": -58.75582246
     },
     {
       "SECUCODE": "002426.SZ",
@@ -720,8 +720,8 @@
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 23652900,
       "HOLD_NUM_RATIO": 0.7,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM_CHANGE": "-733849",
+      "CHANGE_RATIO": -3.00921209
     },
     {
       "SECUCODE": "002426.SZ",
@@ -732,30 +732,40 @@
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 19000000,
       "HOLD_NUM_RATIO": 0.56,
-      "HOLD_NUM_CHANGE": "-1100000",
-      "CHANGE_RATIO": -5.47263682
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "002426.SZ",
       "SECURITY_CODE": "002426",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 29,
-      "TOTAL_FREE_SHARES": 11123600,
-      "TOTAL_SHARES_RATIO": 0.32691474,
-      "ALL_SHARES_RATIO": 0.32691222
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 387280764,
+      "TOTAL_SHARES_RATIO": 11.38190726,
+      "ALL_SHARES_RATIO": 11.3818202
     },
     {
       "SECUCODE": "002426.SZ",
       "SECURITY_CODE": "002426",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 29,
-      "TOTAL_FREE_SHARES": 11123600,
-      "TOTAL_SHARES_RATIO": 0.32691474,
-      "ALL_SHARES_RATIO": 0.32691222
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "05",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 256190288,
+      "TOTAL_SHARES_RATIO": 7.52925105,
+      "ALL_SHARES_RATIO": 7.52919346
+    },
+    {
+      "SECUCODE": "002426.SZ",
+      "SECURITY_CODE": "002426",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 131090476,
+      "TOTAL_SHARES_RATIO": 3.85265621,
+      "ALL_SHARES_RATIO": 3.85262674
     }
   ],
   "jjcg": [

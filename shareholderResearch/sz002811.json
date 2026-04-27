@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 13.65,
       "AVG_HOLD_AMT": 235791.428369705,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 60.0510566,
+      "FREEHOLD_RATIO_TOTAL": 57.34577461
     },
     {
       "SECUCODE": "002811.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002811.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002811.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002811.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002811.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002811.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002811.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -421,6 +426,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "002811.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002811.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -434,47 +443,9 @@
     {
       "SECUCODE": "002811.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002811.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-11-18 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "深圳市亚泰一兆投资有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 132967917,
-      "HOLD_NUM_RATIO": 43.18,
-      "HOLD_CHANGE": "-3651100",
-      "CHANGE_RATIO": -2.67246836,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-10 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "深圳市亚泰一兆投资有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 136619017,
-      "HOLD_NUM_RATIO": 44.36,
-      "HOLD_CHANGE": "-3065906",
-      "CHANGE_RATIO": -2.19487253,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-06 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "深圳市亚泰一兆投资有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 139684923,
-      "HOLD_NUM_RATIO": 45.36,
-      "HOLD_CHANGE": "-2276800",
-      "CHANGE_RATIO": -1.6038126,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "002811.SZ",
@@ -502,20 +473,20 @@
     {
       "SECUCODE": "002811.SZ",
       "SECURITY_CODE": "002811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "深圳市亚泰一兆投资有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 132967917,
       "FREE_HOLDNUM_RATIO": 47.053805292741,
-      "HOLD_NUM_CHANGE": "-8993806",
-      "CHANGE_RATIO": -6.33537394
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002811.SZ",
       "SECURITY_CODE": "002811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "郑忠",
       "HOLDER_TYPE": "个人",
@@ -528,47 +499,73 @@
     {
       "SECUCODE": "002811.SZ",
       "SECURITY_CODE": "002811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "杨太平",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 3919700,
       "FREE_HOLDNUM_RATIO": 1.387077460241,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002811.SZ",
       "SECURITY_CODE": "002811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "刘合香",
+      "HOLDER_NAME": "詹烙宏",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2679052,
-      "FREE_HOLDNUM_RATIO": 0.948045167746,
+      "HOLD_NUM": 3775800,
+      "FREE_HOLDNUM_RATIO": 1.336155081863,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002811.SZ",
       "SECURITY_CODE": "002811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "深圳望正资产管理有限公司-望正共赢5号私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2765700,
+      "FREE_HOLDNUM_RATIO": 0.978707587772,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002811.SZ",
+      "SECURITY_CODE": "002811",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "邱卉",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2491225,
-      "FREE_HOLDNUM_RATIO": 0.881578193711,
-      "HOLD_NUM_CHANGE": "-85000",
-      "CHANGE_RATIO": -3.29940126
+      "HOLD_NUM": 2391225,
+      "FREE_HOLDNUM_RATIO": 0.846190856409,
+      "HOLD_NUM_CHANGE": "-100000",
+      "CHANGE_RATIO": -4.01408945
     },
     {
       "SECUCODE": "002811.SZ",
       "SECURITY_CODE": "002811",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "廖艳嫔",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2256500,
+      "FREE_HOLDNUM_RATIO": 0.798515266228,
+      "HOLD_NUM_CHANGE": "124000",
+      "CHANGE_RATIO": 5.8147714
+    },
+    {
+      "SECUCODE": "002811.SZ",
+      "SECURITY_CODE": "002811",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "邱艾",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -580,74 +577,48 @@
     {
       "SECUCODE": "002811.SZ",
       "SECURITY_CODE": "002811",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "林霖",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2200000,
-      "FREE_HOLDNUM_RATIO": 0.778521420652,
-      "HOLD_NUM_CHANGE": "-154425",
-      "CHANGE_RATIO": -6.55892628
+      "HOLD_NUM": 2100000,
+      "FREE_HOLDNUM_RATIO": 0.74313408335,
+      "HOLD_NUM_CHANGE": "-100000",
+      "CHANGE_RATIO": -4.54545455
     },
     {
       "SECUCODE": "002811.SZ",
       "SECURITY_CODE": "002811",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "廖艳嫔",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2132500,
-      "FREE_HOLDNUM_RATIO": 0.754634967973,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002811.SZ",
-      "SECURITY_CODE": "002811",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "唐旭",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2062900,
-      "FREE_HOLDNUM_RATIO": 0.730005381211,
-      "HOLD_NUM_CHANGE": "-210000",
-      "CHANGE_RATIO": -9.23929781
-    },
-    {
-      "SECUCODE": "002811.SZ",
-      "SECURITY_CODE": "002811",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "BARCLAYS BANK PLC",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2010350,
-      "FREE_HOLDNUM_RATIO": 0.711409335458,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1997900,
+      "FREE_HOLDNUM_RATIO": 0.707003611964,
+      "HOLD_NUM_CHANGE": "-65000",
+      "CHANGE_RATIO": -3.15090407
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "002811.SZ",
       "SECURITY_CODE": "002811",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 160340582,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 162051680,
       "LIMITED_SHARES": 25383047,
-      "OTHER_UNLIMITED_SHARES": 122246376,
-      "HOLD_NUM_RATIO": 52.06,
+      "OTHER_UNLIMITED_SHARES": 120535278,
+      "HOLD_NUM_RATIO": 52.62,
       "LIMITED_SHARES_RATIO": 8.24,
-      "UNLIMITED_SHARES_RATIO": 39.69
+      "UNLIMITED_SHARES_RATIO": 39.14
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002811.SZ",
       "SECURITY_CODE": "002811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "深圳市亚泰一兆投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -659,7 +630,7 @@
     {
       "SECUCODE": "002811.SZ",
       "SECURITY_CODE": "002811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "郑忠",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -671,44 +642,68 @@
     {
       "SECUCODE": "002811.SZ",
       "SECURITY_CODE": "002811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "杨太平",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3919700,
       "HOLD_NUM_RATIO": 1.27,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002811.SZ",
       "SECURITY_CODE": "002811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "刘合香",
+      "HOLDER_NAME": "詹烙宏",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2679052,
-      "HOLD_NUM_RATIO": 0.87,
+      "HOLD_NUM": 3775800,
+      "HOLD_NUM_RATIO": 1.23,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002811.SZ",
       "SECURITY_CODE": "002811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "深圳望正资产管理有限公司-望正共赢5号私募证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2765700,
+      "HOLD_NUM_RATIO": 0.9,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002811.SZ",
+      "SECURITY_CODE": "002811",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "邱卉",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2491225,
-      "HOLD_NUM_RATIO": 0.81,
-      "HOLD_NUM_CHANGE": "-85000",
-      "CHANGE_RATIO": -3.29940126
+      "HOLD_NUM": 2391225,
+      "HOLD_NUM_RATIO": 0.78,
+      "HOLD_NUM_CHANGE": "-100000",
+      "CHANGE_RATIO": -4.01408945
     },
     {
       "SECUCODE": "002811.SZ",
       "SECURITY_CODE": "002811",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "廖艳嫔",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2256500,
+      "HOLD_NUM_RATIO": 0.73,
+      "HOLD_NUM_CHANGE": "124000",
+      "CHANGE_RATIO": 5.8147714
+    },
+    {
+      "SECUCODE": "002811.SZ",
+      "SECURITY_CODE": "002811",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "邱艾",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2247750,
@@ -719,92 +714,48 @@
     {
       "SECUCODE": "002811.SZ",
       "SECURITY_CODE": "002811",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "林霖",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2200000,
-      "HOLD_NUM_RATIO": 0.71,
-      "HOLD_NUM_CHANGE": "-154425",
-      "CHANGE_RATIO": -6.55892628
+      "HOLD_NUM": 2100000,
+      "HOLD_NUM_RATIO": 0.68,
+      "HOLD_NUM_CHANGE": "-100000",
+      "CHANGE_RATIO": -4.54545455
     },
     {
       "SECUCODE": "002811.SZ",
       "SECURITY_CODE": "002811",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "廖艳嫔",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2132500,
-      "HOLD_NUM_RATIO": 0.69,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002811.SZ",
-      "SECURITY_CODE": "002811",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "唐旭",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2062900,
-      "HOLD_NUM_RATIO": 0.67,
-      "HOLD_NUM_CHANGE": "-210000",
-      "CHANGE_RATIO": -9.23929781
-    },
-    {
-      "SECUCODE": "002811.SZ",
-      "SECURITY_CODE": "002811",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "BARCLAYS BANK PLC",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2010350,
+      "HOLD_NUM": 1997900,
       "HOLD_NUM_RATIO": 0.65,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM_CHANGE": "-65000",
+      "CHANGE_RATIO": -3.15090407
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "002811.SZ",
       "SECURITY_CODE": "002811",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 63,
-      "TOTAL_FREE_SHARES": 143248767,
-      "TOTAL_SHARES_RATIO": 50.69192436,
-      "ALL_SHARES_RATIO": 46.51386969
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 135733617,
+      "TOTAL_SHARES_RATIO": 48.03251288,
+      "ALL_SHARES_RATIO": 44.07364834
     },
     {
       "SECUCODE": "002811.SZ",
       "SECURITY_CODE": "002811",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 61,
-      "TOTAL_FREE_SHARES": 8270500,
-      "TOTAL_SHARES_RATIO": 2.92670973,
-      "ALL_SHARES_RATIO": 2.68548874
-    },
-    {
-      "SECUCODE": "002811.SZ",
-      "SECURITY_CODE": "002811",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "02",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 2010350,
-      "TOTAL_SHARES_RATIO": 0.71140934,
-      "ALL_SHARES_RATIO": 0.65277461
-    },
-    {
-      "SECUCODE": "002811.SZ",
-      "SECURITY_CODE": "002811",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 132967917,
-      "TOTAL_SHARES_RATIO": 47.05380529,
-      "ALL_SHARES_RATIO": 43.17560634
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 135733617,
+      "TOTAL_SHARES_RATIO": 48.03251288,
+      "ALL_SHARES_RATIO": 44.07364834
     }
   ],
   "jjcg": [

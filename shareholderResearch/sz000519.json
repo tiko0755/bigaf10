@@ -25,8 +25,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 16.85,
       "AVG_HOLD_AMT": 126437.329101804,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 43.50908283,
+      "FREEHOLD_RATIO_TOTAL": 43.50908283
     },
     {
       "SECUCODE": "000519.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000519.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000519.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "000519.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000519.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000519.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000519.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "000519.SZ",
       "END_DATE": "2017-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000519.SZ",
-      "END_DATE": "2017-01-25 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "000519.SZ",
       "SECURITY_CODE": "000519",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "豫西工业集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "000519.SZ",
       "SECURITY_CODE": "000519",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中兵投资管理有限责任公司",
       "HOLDER_TYPE": "投资公司",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "000519.SZ",
       "SECURITY_CODE": "000519",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "吉林江北机械制造有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "000519.SZ",
       "SECURITY_CODE": "000519",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "山东特种工业集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -525,7 +525,7 @@
     {
       "SECUCODE": "000519.SZ",
       "SECURITY_CODE": "000519",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "江南工业集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -538,47 +538,21 @@
     {
       "SECUCODE": "000519.SZ",
       "SECURITY_CODE": "000519",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 14997593,
-      "FREE_HOLDNUM_RATIO": 1.076980809708,
-      "HOLD_NUM_CHANGE": "4301424",
-      "CHANGE_RATIO": 40.21462264
-    },
-    {
-      "SECUCODE": "000519.SZ",
-      "SECURITY_CODE": "000519",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "王四清",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 13010000,
-      "FREE_HOLDNUM_RATIO": 0.934251271807,
-      "HOLD_NUM_CHANGE": "-480000",
-      "CHANGE_RATIO": -3.55819125
+      "HOLD_NUM": 10860000,
+      "FREE_HOLDNUM_RATIO": 0.779859247642,
+      "HOLD_NUM_CHANGE": "-2150000",
+      "CHANGE_RATIO": -16.52574942
     },
     {
       "SECUCODE": "000519.SZ",
       "SECURITY_CODE": "000519",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12334176,
-      "FREE_HOLDNUM_RATIO": 0.885720185603,
-      "HOLD_NUM_CHANGE": "188000",
-      "CHANGE_RATIO": 1.54781225
-    },
-    {
-      "SECUCODE": "000519.SZ",
-      "SECURITY_CODE": "000519",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "西安现代控制技术研究所",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -590,13 +564,39 @@
     {
       "SECUCODE": "000519.SZ",
       "SECURITY_CODE": "000519",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国银行股份有限公司-国投瑞银国家安全灵活配置混合型证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6978896,
+      "FREE_HOLDNUM_RATIO": 0.501156223198,
+      "HOLD_NUM_CHANGE": "-8018697",
+      "CHANGE_RATIO": -53.4665596
+    },
+    {
+      "SECUCODE": "000519.SZ",
+      "SECURITY_CODE": "000519",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6921341,
-      "FREE_HOLDNUM_RATIO": 0.497023184617,
+      "HOLD_NUM": 5917176,
+      "FREE_HOLDNUM_RATIO": 0.424913851153,
+      "HOLD_NUM_CHANGE": "-6417000",
+      "CHANGE_RATIO": -52.02617508
+    },
+    {
+      "SECUCODE": "000519.SZ",
+      "SECURITY_CODE": "000519",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国建设银行股份有限公司-国泰中证军工交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4956401,
+      "FREE_HOLDNUM_RATIO": 0.355920364169,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "000519.SZ",
       "SECURITY_CODE": "000519",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 624440278,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 605889641,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 768118704,
-      "HOLD_NUM_RATIO": 44.84,
+      "OTHER_UNLIMITED_SHARES": 786669341,
+      "HOLD_NUM_RATIO": 43.51,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 55.16
+      "UNLIMITED_SHARES_RATIO": 56.49
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "000519.SZ",
       "SECURITY_CODE": "000519",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "豫西工业集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "000519.SZ",
       "SECURITY_CODE": "000519",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中兵投资管理有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "000519.SZ",
       "SECURITY_CODE": "000519",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "吉林江北机械制造有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "000519.SZ",
       "SECURITY_CODE": "000519",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "山东特种工业集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -666,7 +666,7 @@
     {
       "SECUCODE": "000519.SZ",
       "SECURITY_CODE": "000519",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "江南工业集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -678,44 +678,20 @@
     {
       "SECUCODE": "000519.SZ",
       "SECURITY_CODE": "000519",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 14997593,
-      "HOLD_NUM_RATIO": 1.08,
-      "HOLD_NUM_CHANGE": "4301424",
-      "CHANGE_RATIO": 40.21462264
-    },
-    {
-      "SECUCODE": "000519.SZ",
-      "SECURITY_CODE": "000519",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "王四清",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 13010000,
-      "HOLD_NUM_RATIO": 0.93,
-      "HOLD_NUM_CHANGE": "-480000",
-      "CHANGE_RATIO": -3.55819125
+      "HOLD_NUM": 10860000,
+      "HOLD_NUM_RATIO": 0.78,
+      "HOLD_NUM_CHANGE": "-2150000",
+      "CHANGE_RATIO": -16.52574942
     },
     {
       "SECUCODE": "000519.SZ",
       "SECURITY_CODE": "000519",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 12334176,
-      "HOLD_NUM_RATIO": 0.89,
-      "HOLD_NUM_CHANGE": "188000",
-      "CHANGE_RATIO": 1.54781225
-    },
-    {
-      "SECUCODE": "000519.SZ",
-      "SECURITY_CODE": "000519",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "西安现代控制技术研究所",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 7573224,
@@ -726,12 +702,36 @@
     {
       "SECUCODE": "000519.SZ",
       "SECURITY_CODE": "000519",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国银行股份有限公司-国投瑞银国家安全灵活配置混合型证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6921341,
+      "HOLD_NUM": 6978896,
       "HOLD_NUM_RATIO": 0.5,
+      "HOLD_NUM_CHANGE": "-8018697",
+      "CHANGE_RATIO": -53.4665596
+    },
+    {
+      "SECUCODE": "000519.SZ",
+      "SECURITY_CODE": "000519",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5917176,
+      "HOLD_NUM_RATIO": 0.42,
+      "HOLD_NUM_CHANGE": "-6417000",
+      "CHANGE_RATIO": -52.02617508
+    },
+    {
+      "SECUCODE": "000519.SZ",
+      "SECURITY_CODE": "000519",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国建设银行股份有限公司-国泰中证军工交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4956401,
+      "HOLD_NUM_RATIO": 0.36,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,23 +742,67 @@
       "SECURITY_CODE": "000519",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 27563,
-      "TOTAL_SHARES_RATIO": 0.00197931,
-      "ALL_SHARES_RATIO": 0.00197931
+      "TOTAL_ORG_NUM": 10,
+      "TOTAL_FREE_SHARES": 595057204,
+      "TOTAL_SHARES_RATIO": 42.73120289,
+      "ALL_SHARES_RATIO": 42.73120289
     },
     {
       "SECUCODE": "000519.SZ",
       "SECURITY_CODE": "000519",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 27563,
-      "TOTAL_SHARES_RATIO": 0.00197931,
-      "ALL_SHARES_RATIO": 0.00197931
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 10901140,
+      "TOTAL_SHARES_RATIO": 0.78281352,
+      "ALL_SHARES_RATIO": 0.78281352
+    },
+    {
+      "SECUCODE": "000519.SZ",
+      "SECURITY_CODE": "000519",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 584156064,
+      "TOTAL_SHARES_RATIO": 41.94838937,
+      "ALL_SHARES_RATIO": 41.94838937
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "000519.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "510500",
+      "HOLDER_NAME": "南方中证500ETF",
+      "TOTAL_SHARES": 5917176,
+      "HOLD_VALUE": 99704415.6,
+      "TOTALSHARES_RATIO": 0.42491385,
+      "FREESHARES_RATIO": 0.42491385,
+      "FREE_MARKET_CAP": 99704415.6,
+      "FREE_SHARES": 5917176,
+      "SECURITY_CODE": "000519",
+      "FUND_CODE": "510500",
+      "FUND_DERIVECODE": "510500.SH",
+      "NETVALUE_RATIO": 0.14
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "000519.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "512660",
+      "HOLDER_NAME": "国泰中证军工ETF",
+      "TOTAL_SHARES": 4956401,
+      "HOLD_VALUE": 83515356.85,
+      "TOTALSHARES_RATIO": 0.35592036,
+      "FREESHARES_RATIO": 0.35592036,
+      "FREE_MARKET_CAP": 83515356.85,
+      "FREE_SHARES": 4956401,
+      "SECURITY_CODE": "000519",
+      "FUND_CODE": "512660",
+      "FUND_DERIVECODE": "512660.SH",
+      "NETVALUE_RATIO": 0.89
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "000519.SZ",

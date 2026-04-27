@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 12.04,
       "AVG_HOLD_AMT": 56409.1688112886,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 38.94434546,
+      "FREEHOLD_RATIO_TOTAL": 27.10898799
     },
     {
       "SECUCODE": "002716.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002716.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002716.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002716.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002716.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002716.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002716.SZ",
       "END_DATE": "2026-02-09 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002716.SZ",
       "END_DATE": "2018-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002716.SZ",
-      "END_DATE": "2018-05-02 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -455,17 +455,6 @@
       "HOLD_NUM_RATIO": 6.44,
       "HOLD_CHANGE": "-15563913",
       "CHANGE_RATIO": -7.88709367,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-29 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "郴州市国资控股集团有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 197333944,
-      "HOLD_NUM_RATIO": 6.99,
-      "HOLD_CHANGE": "-12666056",
-      "CHANGE_RATIO": -6.03145524,
       "CHANGE_REASON": "临时公告"
     }
   ],
@@ -533,130 +522,130 @@
     {
       "SECUCODE": "002716.SZ",
       "SECURITY_CODE": "002716",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "郴州市国资控股集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 197333944,
-      "FREE_HOLDNUM_RATIO": 8.48801363344,
-      "HOLD_NUM_CHANGE": "-12666056",
-      "CHANGE_RATIO": -6.03145524
+      "HOLD_NUM": 181770031,
+      "FREE_HOLDNUM_RATIO": 7.818556047705,
+      "HOLD_NUM_CHANGE": "-15563913",
+      "CHANGE_RATIO": -7.88709367
     },
     {
       "SECUCODE": "002716.SZ",
       "SECURITY_CODE": "002716",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "中国长城资产管理股份有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 141154372,
-      "FREE_HOLDNUM_RATIO": 6.071536450696,
-      "HOLD_NUM_CHANGE": "-17909600",
-      "CHANGE_RATIO": -11.25936928
-    },
-    {
-      "SECUCODE": "002716.SZ",
-      "SECURITY_CODE": "002716",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "湖南省矿产资源集团有限责任公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 131760917,
       "FREE_HOLDNUM_RATIO": 5.667491548492,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002716.SZ",
+      "SECURITY_CODE": "002716",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "中国长城资产管理股份有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 130833972,
+      "FREE_HOLDNUM_RATIO": 5.627620446552,
+      "HOLD_NUM_CHANGE": "-10320400",
+      "CHANGE_RATIO": -7.3114278
+    },
+    {
+      "SECUCODE": "002716.SZ",
+      "SECURITY_CODE": "002716",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 66226621,
+      "FREE_HOLDNUM_RATIO": 2.848635417456,
+      "HOLD_NUM_CHANGE": "-13036370",
+      "CHANGE_RATIO": -16.44698217
+    },
+    {
+      "SECUCODE": "002716.SZ",
+      "SECURITY_CODE": "002716",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "郴州市金贵银业股份有限公司破产企业财产处置专用账户",
+      "HOLDER_TYPE": "证券账户",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 34136097,
+      "FREE_HOLDNUM_RATIO": 1.468311284187,
+      "HOLD_NUM_CHANGE": "-28000000",
+      "CHANGE_RATIO": -45.06237333
+    },
+    {
+      "SECUCODE": "002716.SZ",
+      "SECURITY_CODE": "002716",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国农业银行股份有限公司-永赢中证沪深港黄金产业股票交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 23962404,
+      "FREE_HOLDNUM_RATIO": 1.030705654178,
+      "HOLD_NUM_CHANGE": "-1850696",
+      "CHANGE_RATIO": -7.16959993
+    },
+    {
+      "SECUCODE": "002716.SZ",
+      "SECURITY_CODE": "002716",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "浙江物产中大联合金融服务有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 19548197,
+      "FREE_HOLDNUM_RATIO": 0.840835384333,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002716.SZ",
+      "SECURITY_CODE": "002716",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中融国际信托有限公司-中融-融颐6号股票收益权投资集合资金信托计划",
+      "HOLDER_TYPE": "信托计划",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 16286988,
+      "FREE_HOLDNUM_RATIO": 0.700559535726,
+      "HOLD_NUM_CHANGE": "-44301138",
+      "CHANGE_RATIO": -73.118515
+    },
+    {
+      "SECUCODE": "002716.SZ",
+      "SECURITY_CODE": "002716",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "雪松国际信托股份有限公司",
+      "HOLDER_TYPE": "信托投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 14059527,
+      "FREE_HOLDNUM_RATIO": 0.604748754506,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002716.SZ",
       "SECURITY_CODE": "002716",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 79262991,
-      "FREE_HOLDNUM_RATIO": 3.409374660019,
-      "HOLD_NUM_CHANGE": "22692034",
-      "CHANGE_RATIO": 40.11251569
-    },
-    {
-      "SECUCODE": "002716.SZ",
-      "SECURITY_CODE": "002716",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "郴州市金贵银业股份有限公司破产企业财产处置专用账户",
-      "HOLDER_TYPE": "证券账户",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 62136097,
-      "FREE_HOLDNUM_RATIO": 2.672687869983,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002716.SZ",
-      "SECURITY_CODE": "002716",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中融国际信托有限公司-中融-融颐6号股票收益权投资集合资金信托计划",
-      "HOLDER_TYPE": "信托计划",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 60588126,
-      "FREE_HOLDNUM_RATIO": 2.606104297558,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002716.SZ",
-      "SECURITY_CODE": "002716",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "湖南银行股份有限公司郴州分行",
-      "HOLDER_TYPE": "金融",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 35048238,
-      "FREE_HOLDNUM_RATIO": 1.507545615021,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002716.SZ",
-      "SECURITY_CODE": "002716",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国农业银行股份有限公司-永赢中证沪深港黄金产业股票交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国工商银行股份有限公司-华夏中证沪深港黄金产业股票交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 25813100,
-      "FREE_HOLDNUM_RATIO": 1.1103104731,
-      "HOLD_NUM_CHANGE": "3081900",
-      "CHANGE_RATIO": 13.55801717
-    },
-    {
-      "SECUCODE": "002716.SZ",
-      "SECURITY_CODE": "002716",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "长城华西银行股份有限公司营业部",
-      "HOLDER_TYPE": "金融",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 24212512,
-      "FREE_HOLDNUM_RATIO": 1.041463662003,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002716.SZ",
-      "SECURITY_CODE": "002716",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "浙江物产中大联合金融服务有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 19548197,
-      "FREE_HOLDNUM_RATIO": 0.840835384333,
+      "HOLD_NUM": 11659700,
+      "FREE_HOLDNUM_RATIO": 0.50152391705,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -665,20 +654,20 @@
     {
       "SECUCODE": "002716.SZ",
       "SECURITY_CODE": "002716",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 776858494,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 630244454,
       "LIMITED_SHARES": 498234416,
-      "OTHER_UNLIMITED_SHARES": 1547995736,
-      "HOLD_NUM_RATIO": 27.52,
+      "OTHER_UNLIMITED_SHARES": 1694609776,
+      "HOLD_NUM_RATIO": 22.32,
       "LIMITED_SHARES_RATIO": 17.65,
-      "UNLIMITED_SHARES_RATIO": 54.83
+      "UNLIMITED_SHARES_RATIO": 60.03
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002716.SZ",
       "SECURITY_CODE": "002716",
-      "END_DATE": "2026-02-09 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "湖南省矿产资源集团有限责任公司",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -690,7 +679,7 @@
     {
       "SECUCODE": "002716.SZ",
       "SECURITY_CODE": "002716",
-      "END_DATE": "2026-02-09 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "湖南黄金集团有限责任公司",
       "SHARES_TYPE": "限售流通A股",
@@ -702,25 +691,97 @@
     {
       "SECUCODE": "002716.SZ",
       "SECURITY_CODE": "002716",
-      "END_DATE": "2026-02-09 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "郴州市国资控股集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 181770031,
       "HOLD_NUM_RATIO": 6.44,
-      "HOLD_NUM_CHANGE": "-15563913",
-      "CHANGE_RATIO": -7.88709367
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002716.SZ",
       "SECURITY_CODE": "002716",
-      "END_DATE": "2026-02-09 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "中国长城资产管理股份有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 141154372,
-      "HOLD_NUM_RATIO": 5,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 130833972,
+      "HOLD_NUM_RATIO": 4.63,
+      "HOLD_NUM_CHANGE": "-10320400",
+      "CHANGE_RATIO": -7.3114278
+    },
+    {
+      "SECUCODE": "002716.SZ",
+      "SECURITY_CODE": "002716",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 66226621,
+      "HOLD_NUM_RATIO": 2.35,
+      "HOLD_NUM_CHANGE": "-13036370",
+      "CHANGE_RATIO": -16.44698217
+    },
+    {
+      "SECUCODE": "002716.SZ",
+      "SECURITY_CODE": "002716",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "郴州市金贵银业股份有限公司破产企业财产处置专用账户",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 34136097,
+      "HOLD_NUM_RATIO": 1.21,
+      "HOLD_NUM_CHANGE": "-28000000",
+      "CHANGE_RATIO": -45.06237333
+    },
+    {
+      "SECUCODE": "002716.SZ",
+      "SECURITY_CODE": "002716",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国农业银行股份有限公司-永赢中证沪深港黄金产业股票交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 23962404,
+      "HOLD_NUM_RATIO": 0.85,
+      "HOLD_NUM_CHANGE": "-1850696",
+      "CHANGE_RATIO": -7.16959993
+    },
+    {
+      "SECUCODE": "002716.SZ",
+      "SECURITY_CODE": "002716",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "浙江物产中大联合金融服务有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 19548197,
+      "HOLD_NUM_RATIO": 0.69,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002716.SZ",
+      "SECURITY_CODE": "002716",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中融国际信托有限公司-中融-融颐6号股票收益权投资集合资金信托计划",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 16286988,
+      "HOLD_NUM_RATIO": 0.58,
+      "HOLD_NUM_CHANGE": "-44301138",
+      "CHANGE_RATIO": -73.118515
+    },
+    {
+      "SECUCODE": "002716.SZ",
+      "SECURITY_CODE": "002716",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "雪松国际信托股份有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 14059527,
+      "HOLD_NUM_RATIO": 0.5,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -730,23 +791,77 @@
       "SECURITY_CODE": "002716",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 9,
-      "TOTAL_FREE_SHARES": 1968900,
-      "TOTAL_SHARES_RATIO": 0.0846892,
-      "ALL_SHARES_RATIO": 0.06974276
+      "TOTAL_ORG_NUM": 19,
+      "TOTAL_FREE_SHARES": 921417656,
+      "TOTAL_SHARES_RATIO": 27.19367719,
+      "ALL_SHARES_RATIO": 22.39438548
     },
     {
       "SECUCODE": "002716.SZ",
       "SECURITY_CODE": "002716",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 9,
-      "TOTAL_FREE_SHARES": 1968900,
-      "TOTAL_SHARES_RATIO": 0.0846892,
-      "ALL_SHARES_RATIO": 0.06974276
+      "TOTAL_ORG_NUM": 11,
+      "TOTAL_FREE_SHARES": 37591004,
+      "TOTAL_SHARES_RATIO": 1.61691877,
+      "ALL_SHARES_RATIO": 1.33155592
+    },
+    {
+      "SECUCODE": "002716.SZ",
+      "SECURITY_CODE": "002716",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "06",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 30346515,
+      "TOTAL_SHARES_RATIO": 1.30530829,
+      "ALL_SHARES_RATIO": 1.0749402
+    },
+    {
+      "SECUCODE": "002716.SZ",
+      "SECURITY_CODE": "002716",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 853480137,
+      "TOTAL_SHARES_RATIO": 24.27145013,
+      "ALL_SHARES_RATIO": 19.98788936
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002716.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "517520",
+      "HOLDER_NAME": "永赢中证沪深港黄金产业股票ETF",
+      "TOTAL_SHARES": 23962404,
+      "HOLD_VALUE": 288507344.16,
+      "TOTALSHARES_RATIO": 0.84880098,
+      "FREESHARES_RATIO": 1.03070565,
+      "FREE_MARKET_CAP": 288507344.16,
+      "FREE_SHARES": 23962404,
+      "SECURITY_CODE": "002716",
+      "FUND_CODE": "517520",
+      "FUND_DERIVECODE": "517520.SH",
+      "NETVALUE_RATIO": 2.25
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002716.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "159562",
+      "HOLDER_NAME": "华夏中证沪深港黄金产业股票ETF",
+      "TOTAL_SHARES": 11659700,
+      "HOLD_VALUE": 140382788,
+      "TOTALSHARES_RATIO": 0.41301218,
+      "FREESHARES_RATIO": 0.50152392,
+      "FREE_MARKET_CAP": 140382788,
+      "FREE_SHARES": 11659700,
+      "SECURITY_CODE": "002716",
+      "FUND_CODE": "159562",
+      "FUND_DERIVECODE": "159562.SZ",
+      "NETVALUE_RATIO": 2.23
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "002716.SZ",

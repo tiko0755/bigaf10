@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 106.44,
       "AVG_HOLD_AMT": 979890.546871343,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 48.92685942,
+      "FREEHOLD_RATIO_TOTAL": 48.92685942
     },
     {
       "SECUCODE": "688258.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "688258.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "688258.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "688258.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "688258.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "688258.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "688258.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "688258.SH",
       "END_DATE": "2021-04-20 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "688258.SH",
-      "END_DATE": "2021-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -445,52 +445,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-11-24 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "谢乾",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 44096627,
-      "HOLD_NUM_RATIO": 36.4,
-      "HOLD_CHANGE": "-2681596",
-      "CHANGE_RATIO": -5.73257347,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-29 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "谢乾",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 46778223,
-      "HOLD_NUM_RATIO": 38.61,
-      "HOLD_CHANGE": "-828700",
-      "CHANGE_RATIO": -1.74071322,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-28 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "谢乾",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 47606923,
-      "HOLD_NUM_RATIO": 39.3,
-      "HOLD_CHANGE": "-34000",
-      "CHANGE_RATIO": -0.07136722,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-13 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "谢乾",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 47640923,
-      "HOLD_NUM_RATIO": 39.33,
-      "HOLD_CHANGE": "-27000",
-      "CHANGE_RATIO": -0.05664186,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "688258.SH",
@@ -518,34 +473,47 @@
     {
       "SECUCODE": "688258.SH",
       "SECURITY_CODE": "688258",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "谢乾",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 44096627,
       "FREE_HOLDNUM_RATIO": 36.400703909736,
-      "HOLD_NUM_CHANGE": "-3571296",
-      "CHANGE_RATIO": -7.49203191
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688258.SH",
       "SECURITY_CODE": "688258",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "全国社保基金四一八组合",
       "HOLDER_TYPE": "全国社保基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4462281,
-      "FREE_HOLDNUM_RATIO": 3.683505530775,
-      "HOLD_NUM_CHANGE": "3432741",
-      "CHANGE_RATIO": 333.42473338
+      "HOLD_NUM": 4214317,
+      "FREE_HOLDNUM_RATIO": 3.478817218804,
+      "HOLD_NUM_CHANGE": "-247964",
+      "CHANGE_RATIO": -5.55688895
     },
     {
       "SECUCODE": "688258.SH",
       "SECURITY_CODE": "688258",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "中国工商银行股份有限公司-德邦稳盈增长灵活配置混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2698538,
+      "FREE_HOLDNUM_RATIO": 2.227578148487,
+      "HOLD_NUM_CHANGE": "1404565",
+      "CHANGE_RATIO": 108.54670074
+    },
+    {
+      "SECUCODE": "688258.SH",
+      "SECURITY_CODE": "688258",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "宜兴中恒企业管理有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -557,113 +525,100 @@
     {
       "SECUCODE": "688258.SH",
       "SECURITY_CODE": "688258",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "中国工商银行股份有限公司-德邦稳盈增长灵活配置混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1293973,
-      "FREE_HOLDNUM_RATIO": 1.06814355756,
-      "HOLD_NUM_CHANGE": "391766",
-      "CHANGE_RATIO": 43.42307253
+      "HOLD_NUM": 1402033,
+      "FREE_HOLDNUM_RATIO": 1.157344485887,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688258.SH",
       "SECURITY_CODE": "688258",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中信证券股份有限公司-社保基金17052组合",
+      "HOLDER_TYPE": "全国社保基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1260257,
+      "FREE_HOLDNUM_RATIO": 1.040311811313,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688258.SH",
+      "SECURITY_CODE": "688258",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "张东东",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1253761,
-      "FREE_HOLDNUM_RATIO": 1.034949519712,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1251096,
+      "FREE_HOLDNUM_RATIO": 1.032749626375,
+      "HOLD_NUM_CHANGE": "-2665",
+      "CHANGE_RATIO": -0.21256045
     },
     {
       "SECUCODE": "688258.SH",
       "SECURITY_CODE": "688258",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "阳光资管-工商银行-阳光资产-创新成长资产管理产品",
       "HOLDER_TYPE": "保险公司资产管理计划",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1000000,
-      "FREE_HOLDNUM_RATIO": 0.82547592381,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1200000,
+      "FREE_HOLDNUM_RATIO": 0.990571108572,
+      "HOLD_NUM_CHANGE": "200000",
+      "CHANGE_RATIO": 20
     },
     {
       "SECUCODE": "688258.SH",
       "SECURITY_CODE": "688258",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国工商银行-华安中小盘成长混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 926607,
-      "FREE_HOLDNUM_RATIO": 0.764891769334,
-      "HOLD_NUM_CHANGE": "89548",
-      "CHANGE_RATIO": 10.69793169
-    },
-    {
-      "SECUCODE": "688258.SH",
-      "SECURITY_CODE": "688258",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中信证券-中国太平洋人寿股票相对收益型产品(保额分红)委托投资-中国太平洋人寿股票相对收益型产品(保额分红)单一资管计划",
-      "HOLDER_TYPE": "集合理财计划",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 837244,
-      "FREE_HOLDNUM_RATIO": 0.691124764354,
-      "HOLD_NUM_CHANGE": "39984",
-      "CHANGE_RATIO": 5.01517698
-    },
-    {
-      "SECUCODE": "688258.SH",
-      "SECURITY_CODE": "688258",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "项光隆",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 835593,
-      "FREE_HOLDNUM_RATIO": 0.689761903604,
-      "HOLD_NUM_CHANGE": "499",
-      "CHANGE_RATIO": 0.05975375
-    },
-    {
-      "SECUCODE": "688258.SH",
-      "SECURITY_CODE": "688258",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "中国银行股份有限公司-华夏行业景气混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 828700,
       "FREE_HOLDNUM_RATIO": 0.684071898061,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688258.SH",
+      "SECURITY_CODE": "688258",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国工商银行-华安中小盘成长混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 640753,
+      "FREE_HOLDNUM_RATIO": 0.528926174609,
+      "HOLD_NUM_CHANGE": "-285854",
+      "CHANGE_RATIO": -30.84954031
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "688258.SH",
       "SECURITY_CODE": "688258",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 57213557,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 59271092,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 63928680,
-      "HOLD_NUM_RATIO": 47.23,
+      "OTHER_UNLIMITED_SHARES": 61871145,
+      "HOLD_NUM_RATIO": 48.93,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 52.77
+      "UNLIMITED_SHARES_RATIO": 51.07
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "688258.SH",
       "SECURITY_CODE": "688258",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "谢乾",
       "SHARES_TYPE": "流通A股",
@@ -675,20 +630,32 @@
     {
       "SECUCODE": "688258.SH",
       "SECURITY_CODE": "688258",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "全国社保基金四一八组合",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4462281,
-      "HOLD_NUM_RATIO": 3.68,
-      "HOLD_NUM_CHANGE": "3432741",
-      "CHANGE_RATIO": 333.42473338
+      "HOLD_NUM": 4214317,
+      "HOLD_NUM_RATIO": 3.48,
+      "HOLD_NUM_CHANGE": "-247964",
+      "CHANGE_RATIO": -5.55688895
     },
     {
       "SECUCODE": "688258.SH",
       "SECURITY_CODE": "688258",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "中国工商银行股份有限公司-德邦稳盈增长灵活配置混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2698538,
+      "HOLD_NUM_RATIO": 2.23,
+      "HOLD_NUM_CHANGE": "1404565",
+      "CHANGE_RATIO": 108.54670074
+    },
+    {
+      "SECUCODE": "688258.SH",
+      "SECURITY_CODE": "688258",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "宜兴中恒企业管理有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1678771,
@@ -699,86 +666,74 @@
     {
       "SECUCODE": "688258.SH",
       "SECURITY_CODE": "688258",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "中国工商银行股份有限公司-德邦稳盈增长灵活配置混合型证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1293973,
-      "HOLD_NUM_RATIO": 1.07,
-      "HOLD_NUM_CHANGE": "391766",
-      "CHANGE_RATIO": 43.42307253
+      "HOLD_NUM": 1402033,
+      "HOLD_NUM_RATIO": 1.16,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688258.SH",
       "SECURITY_CODE": "688258",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中信证券股份有限公司-社保基金17052组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1260257,
+      "HOLD_NUM_RATIO": 1.04,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688258.SH",
+      "SECURITY_CODE": "688258",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "张东东",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1253761,
+      "HOLD_NUM": 1251096,
       "HOLD_NUM_RATIO": 1.03,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM_CHANGE": "-2665",
+      "CHANGE_RATIO": -0.21256045
     },
     {
       "SECUCODE": "688258.SH",
       "SECURITY_CODE": "688258",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "阳光资管-工商银行-阳光资产-创新成长资产管理产品",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1000000,
-      "HOLD_NUM_RATIO": 0.83,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1200000,
+      "HOLD_NUM_RATIO": 0.99,
+      "HOLD_NUM_CHANGE": "200000",
+      "CHANGE_RATIO": 20
     },
     {
       "SECUCODE": "688258.SH",
       "SECURITY_CODE": "688258",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国工商银行-华安中小盘成长混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 926607,
-      "HOLD_NUM_RATIO": 0.76,
-      "HOLD_NUM_CHANGE": "89548",
-      "CHANGE_RATIO": 10.69793169
-    },
-    {
-      "SECUCODE": "688258.SH",
-      "SECURITY_CODE": "688258",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中信证券-中国太平洋人寿股票相对收益型产品(保额分红)委托投资-中国太平洋人寿股票相对收益型产品(保额分红)单一资管计划",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 837244,
-      "HOLD_NUM_RATIO": 0.69,
-      "HOLD_NUM_CHANGE": "39984",
-      "CHANGE_RATIO": 5.01517698
-    },
-    {
-      "SECUCODE": "688258.SH",
-      "SECURITY_CODE": "688258",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "项光隆",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 835593,
-      "HOLD_NUM_RATIO": 0.69,
-      "HOLD_NUM_CHANGE": "499",
-      "CHANGE_RATIO": 0.05975375
-    },
-    {
-      "SECUCODE": "688258.SH",
-      "SECURITY_CODE": "688258",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "中国银行股份有限公司-华夏行业景气混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 828700,
       "HOLD_NUM_RATIO": 0.68,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688258.SH",
+      "SECURITY_CODE": "688258",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国工商银行-华安中小盘成长混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 640753,
+      "HOLD_NUM_RATIO": 0.53,
+      "HOLD_NUM_CHANGE": "-285854",
+      "CHANGE_RATIO": -30.84954031
     }
   ],
   "jgcc": [
@@ -787,20 +742,40 @@
       "SECURITY_CODE": "688258",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 30,
-      "TOTAL_FREE_SHARES": 5703050,
-      "TOTAL_SHARES_RATIO": 4.70773046,
-      "ALL_SHARES_RATIO": 4.70773046
+      "TOTAL_ORG_NUM": 36,
+      "TOTAL_FREE_SHARES": 16287128,
+      "TOTAL_SHARES_RATIO": 13.44463203,
+      "ALL_SHARES_RATIO": 13.44463203
     },
     {
       "SECUCODE": "688258.SH",
       "SECURITY_CODE": "688258",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 30,
-      "TOTAL_FREE_SHARES": 5703050,
-      "TOTAL_SHARES_RATIO": 4.70773046,
-      "ALL_SHARES_RATIO": 4.70773046
+      "TOTAL_ORG_NUM": 31,
+      "TOTAL_FREE_SHARES": 6531750,
+      "TOTAL_SHARES_RATIO": 5.39180236,
+      "ALL_SHARES_RATIO": 5.39180236
+    },
+    {
+      "SECUCODE": "688258.SH",
+      "SECURITY_CODE": "688258",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 5474574,
+      "TOTAL_SHARES_RATIO": 4.51912903,
+      "ALL_SHARES_RATIO": 4.51912903
+    },
+    {
+      "SECUCODE": "688258.SH",
+      "SECURITY_CODE": "688258",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 4280804,
+      "TOTAL_SHARES_RATIO": 3.53370064,
+      "ALL_SHARES_RATIO": 3.53370064
     }
   ],
   "jjcg": [
@@ -820,6 +795,23 @@
       "FUND_CODE": "004260",
       "FUND_DERIVECODE": "004260.OF",
       "NETVALUE_RATIO": 5.7
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "688258.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "003567",
+      "HOLDER_NAME": "华夏行业景气混合A",
+      "TOTAL_SHARES": 828700,
+      "HOLD_VALUE": 88206828,
+      "TOTALSHARES_RATIO": 0.6840719,
+      "FREESHARES_RATIO": 0.6840719,
+      "FREE_MARKET_CAP": 88206828,
+      "FREE_SHARES": 828700,
+      "SECURITY_CODE": "688258",
+      "FUND_CODE": "003567",
+      "FUND_DERIVECODE": "003567.OF",
+      "NETVALUE_RATIO": 1.07
     },
     {
       "ORG_TYPE": "01",

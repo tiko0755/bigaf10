@@ -25,8 +25,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 15.12,
       "AVG_HOLD_AMT": 170081.682612622,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 24.70763051,
+      "FREEHOLD_RATIO_TOTAL": 16.92477245
     },
     {
       "SECUCODE": "300036.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300036.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300036.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300036.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300036.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300036.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300036.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "300036.SZ",
       "END_DATE": "2017-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "300036.SZ",
-      "END_DATE": "2017-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -445,30 +445,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-10-14 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "钟耳顺",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 41826079,
-      "HOLD_NUM_RATIO": 8.49,
-      "HOLD_CHANGE": "-3769400",
-      "CHANGE_RATIO": -8.2670477,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-13 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "钟耳顺",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 45595479,
-      "HOLD_NUM_RATIO": 9.25,
-      "HOLD_CHANGE": "-1945000",
-      "CHANGE_RATIO": -4.09125032,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "300036.SZ",
@@ -496,47 +473,86 @@
     {
       "SECUCODE": "300036.SZ",
       "SECURITY_CODE": "300036",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京隆慧投资有限公司-隆慧汇晨战略投资私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 13899315,
-      "FREE_HOLDNUM_RATIO": 3.169901812379,
-      "HOLD_NUM_CHANGE": "-680385",
-      "CHANGE_RATIO": -4.66665981
+      "HOLD_NUM": 14448315,
+      "FREE_HOLDNUM_RATIO": 3.295107701661,
+      "HOLD_NUM_CHANGE": "549000",
+      "CHANGE_RATIO": 3.94983494
     },
     {
       "SECUCODE": "300036.SZ",
       "SECURITY_CODE": "300036",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
+      "HOLDER_NAME": "钟耳顺",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 10456520,
+      "FREE_HOLDNUM_RATIO": 2.384732031699,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300036.SZ",
+      "SECURITY_CODE": "300036",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "王新燕",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7842706,
+      "FREE_HOLDNUM_RATIO": 1.788621091281,
+      "HOLD_NUM_CHANGE": "844399",
+      "CHANGE_RATIO": 12.06576105
+    },
+    {
+      "SECUCODE": "300036.SZ",
+      "SECURITY_CODE": "300036",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "中国农业银行股份有限公司-平安中证卫星产业指数型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7771405,
+      "FREE_HOLDNUM_RATIO": 1.772360061933,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300036.SZ",
+      "SECURITY_CODE": "300036",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国工商银行股份有限公司-金鹰科技创新股票型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 7770930,
       "FREE_HOLDNUM_RATIO": 1.772251732612,
-      "HOLD_NUM_CHANGE": "600000",
-      "CHANGE_RATIO": 8.36711556
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300036.SZ",
       "SECURITY_CODE": "300036",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "王新燕",
-      "HOLDER_TYPE": "个人",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中信建投证券股份有限公司-富国中证卫星产业交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6998307,
-      "FREE_HOLDNUM_RATIO": 1.59604599528,
-      "HOLD_NUM_CHANGE": "398307",
-      "CHANGE_RATIO": 6.03495455
+      "HOLD_NUM": 5396000,
+      "FREE_HOLDNUM_RATIO": 1.230621090291,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300036.SZ",
       "SECURITY_CODE": "300036",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "宋关福",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -548,34 +564,34 @@
     {
       "SECUCODE": "300036.SZ",
       "SECURITY_CODE": "300036",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "上海云镌企业管理咨询有限公司",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5366670,
-      "FREE_HOLDNUM_RATIO": 1.223932039776,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 5139678,
+      "FREE_HOLDNUM_RATIO": 1.172163851761,
+      "HOLD_NUM_CHANGE": "561363",
+      "CHANGE_RATIO": 12.26134506
     },
     {
       "SECUCODE": "300036.SZ",
       "SECURITY_CODE": "300036",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "孙在宏",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5032643,
-      "FREE_HOLDNUM_RATIO": 1.147753264586,
-      "HOLD_NUM_CHANGE": "-1299950",
-      "CHANGE_RATIO": -20.52792592
+      "HOLD_NUM": 5032647,
+      "FREE_HOLDNUM_RATIO": 1.147754176833,
+      "HOLD_NUM_CHANGE": "4",
+      "CHANGE_RATIO": 0.00007948
     },
     {
       "SECUCODE": "300036.SZ",
       "SECURITY_CODE": "300036",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "北京超图软件股份有限公司-第二期员工持股计划",
       "HOLDER_TYPE": "员工持股计划",
       "SHARES_TYPE": "A股",
@@ -583,65 +599,26 @@
       "FREE_HOLDNUM_RATIO": 1.131905711153,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300036.SZ",
-      "SECURITY_CODE": "300036",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4578315,
-      "FREE_HOLDNUM_RATIO": 1.044138435321,
-      "HOLD_NUM_CHANGE": "-238283",
-      "CHANGE_RATIO": -4.94712243
-    },
-    {
-      "SECUCODE": "300036.SZ",
-      "SECURITY_CODE": "300036",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4533700,
-      "FREE_HOLDNUM_RATIO": 1.033963461277,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300036.SZ",
-      "SECURITY_CODE": "300036",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "梁军",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4174000,
-      "FREE_HOLDNUM_RATIO": 0.951929657315,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "300036.SZ",
       "SECURITY_CODE": "300036",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 62707045,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 74211366,
       "LIMITED_SHARES": 54288840,
-      "OTHER_UNLIMITED_SHARES": 375770732,
-      "HOLD_NUM_RATIO": 12.73,
+      "OTHER_UNLIMITED_SHARES": 364266411,
+      "HOLD_NUM_RATIO": 15.06,
       "LIMITED_SHARES_RATIO": 11.02,
-      "UNLIMITED_SHARES_RATIO": 76.26
+      "UNLIMITED_SHARES_RATIO": 73.92
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300036.SZ",
       "SECURITY_CODE": "300036",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "钟耳顺",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -653,7 +630,7 @@
     {
       "SECUCODE": "300036.SZ",
       "SECURITY_CODE": "300036",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "宋关福",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -665,97 +642,97 @@
     {
       "SECUCODE": "300036.SZ",
       "SECURITY_CODE": "300036",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "北京隆慧投资有限公司-隆慧汇晨战略投资私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 13899315,
-      "HOLD_NUM_RATIO": 2.82,
-      "HOLD_NUM_CHANGE": "-680385",
-      "CHANGE_RATIO": -4.66665981
+      "HOLD_NUM": 14448315,
+      "HOLD_NUM_RATIO": 2.93,
+      "HOLD_NUM_CHANGE": "549000",
+      "CHANGE_RATIO": 3.94983494
     },
     {
       "SECUCODE": "300036.SZ",
       "SECURITY_CODE": "300036",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "王新燕",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7842706,
+      "HOLD_NUM_RATIO": 1.59,
+      "HOLD_NUM_CHANGE": "844399",
+      "CHANGE_RATIO": 12.06576105
+    },
+    {
+      "SECUCODE": "300036.SZ",
+      "SECURITY_CODE": "300036",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中国农业银行股份有限公司-平安中证卫星产业指数型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7771405,
+      "HOLD_NUM_RATIO": 1.58,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300036.SZ",
+      "SECURITY_CODE": "300036",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "中国工商银行股份有限公司-金鹰科技创新股票型证券投资基金",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 7770930,
       "HOLD_NUM_RATIO": 1.58,
-      "HOLD_NUM_CHANGE": "600000",
-      "CHANGE_RATIO": 8.36711556
-    },
-    {
-      "SECUCODE": "300036.SZ",
-      "SECURITY_CODE": "300036",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "王新燕",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6998307,
-      "HOLD_NUM_RATIO": 1.42,
-      "HOLD_NUM_CHANGE": "398307",
-      "CHANGE_RATIO": 6.03495455
-    },
-    {
-      "SECUCODE": "300036.SZ",
-      "SECURITY_CODE": "300036",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "上海云镌企业管理咨询有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5366670,
-      "HOLD_NUM_RATIO": 1.09,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300036.SZ",
       "SECURITY_CODE": "300036",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "孙在宏",
+      "HOLDER_NAME": "中信建投证券股份有限公司-富国中证卫星产业交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5032643,
-      "HOLD_NUM_RATIO": 1.02,
-      "HOLD_NUM_CHANGE": "-1299950",
-      "CHANGE_RATIO": -20.52792592
+      "HOLD_NUM": 5396000,
+      "HOLD_NUM_RATIO": 1.1,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300036.SZ",
       "SECURITY_CODE": "300036",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5139678,
+      "HOLD_NUM_RATIO": 1.04,
+      "HOLD_NUM_CHANGE": "561363",
+      "CHANGE_RATIO": 12.26134506
+    },
+    {
+      "SECUCODE": "300036.SZ",
+      "SECURITY_CODE": "300036",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "孙在宏",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5032647,
+      "HOLD_NUM_RATIO": 1.02,
+      "HOLD_NUM_CHANGE": "4",
+      "CHANGE_RATIO": 0.00007948
+    },
+    {
+      "SECUCODE": "300036.SZ",
+      "SECURITY_CODE": "300036",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "北京超图软件股份有限公司-第二期员工持股计划",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4963155,
       "HOLD_NUM_RATIO": 1.01,
       "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300036.SZ",
-      "SECURITY_CODE": "300036",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4578315,
-      "HOLD_NUM_RATIO": 0.93,
-      "HOLD_NUM_CHANGE": "-238283",
-      "CHANGE_RATIO": -4.94712243
-    },
-    {
-      "SECUCODE": "300036.SZ",
-      "SECURITY_CODE": "300036",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4533700,
-      "HOLD_NUM_RATIO": 0.92,
-      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -765,23 +742,50 @@
       "SECURITY_CODE": "300036",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 10799530,
-      "TOTAL_SHARES_RATIO": 2.46295949,
-      "ALL_SHARES_RATIO": 2.19161153
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 48518083,
+      "TOTAL_SHARES_RATIO": 11.0651179,
+      "ALL_SHARES_RATIO": 9.84605721
     },
     {
       "SECUCODE": "300036.SZ",
       "SECURITY_CODE": "300036",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 23966935,
+      "TOTAL_SHARES_RATIO": 5.46594064,
+      "ALL_SHARES_RATIO": 4.86374973
+    },
+    {
+      "SECUCODE": "300036.SZ",
+      "SECURITY_CODE": "300036",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 10799530,
-      "TOTAL_SHARES_RATIO": 2.46295949,
-      "ALL_SHARES_RATIO": 2.19161153
+      "TOTAL_FREE_SHARES": 24551148,
+      "TOTAL_SHARES_RATIO": 5.59917726,
+      "ALL_SHARES_RATIO": 4.98230748
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300036.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "025490",
+      "HOLDER_NAME": "平安中证卫星产业指数A",
+      "TOTAL_SHARES": 7771405,
+      "HOLD_VALUE": 117503643.6,
+      "TOTALSHARES_RATIO": 1.57709649,
+      "FREESHARES_RATIO": 1.77236006,
+      "FREE_MARKET_CAP": 117503643.6,
+      "FREE_SHARES": 7771405,
+      "SECURITY_CODE": "300036",
+      "FUND_CODE": "025490",
+      "FUND_DERIVECODE": "025490.OF",
+      "NETVALUE_RATIO": 25.45
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "300036.SZ",
@@ -798,6 +802,23 @@
       "FUND_CODE": "001167",
       "FUND_DERIVECODE": "001167.OF",
       "NETVALUE_RATIO": 3.25
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300036.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "563230",
+      "HOLDER_NAME": "富国中证卫星产业ETF",
+      "TOTAL_SHARES": 5396000,
+      "HOLD_VALUE": 81587520,
+      "TOTALSHARES_RATIO": 1.09504171,
+      "FREESHARES_RATIO": 1.23062109,
+      "FREE_MARKET_CAP": 81587520,
+      "FREE_SHARES": 5396000,
+      "SECURITY_CODE": "300036",
+      "FUND_CODE": "563230",
+      "FUND_DERIVECODE": "563230.SH",
+      "NETVALUE_RATIO": 1.83
     },
     {
       "ORG_TYPE": "01",

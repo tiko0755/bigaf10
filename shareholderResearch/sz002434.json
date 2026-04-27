@@ -25,8 +25,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 7.87,
       "AVG_HOLD_AMT": 256196.086614369,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 56.48182653,
+      "FREEHOLD_RATIO_TOTAL": 56.53694639
     },
     {
       "SECUCODE": "002434.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002434.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002434.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002434.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002434.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002434.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002434.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002434.SZ",
       "END_DATE": "2016-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002434.SZ",
-      "END_DATE": "2016-12-15 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "002434.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "002434.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "002434.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002434.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "002434.SZ",
       "SECURITY_CODE": "002434",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "万里扬集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "002434.SZ",
       "SECURITY_CODE": "002434",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "安徽国元信托有限责任公司-国元信托-安瑞1号单一资金信托",
       "HOLDER_TYPE": "信托计划",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "002434.SZ",
       "SECURITY_CODE": "002434",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "陕西省国际信托股份有限公司-陕国投·昌盛1号单一资金信托",
       "HOLDER_TYPE": "信托计划",
@@ -512,34 +512,8 @@
     {
       "SECUCODE": "002434.SZ",
       "SECURITY_CODE": "002434",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "陕西省国际信托股份有限公司-陕国投·昌丰52号单一资金信托",
-      "HOLDER_TYPE": "信托计划",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 65629900,
-      "FREE_HOLDNUM_RATIO": 5.004871807445,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002434.SZ",
-      "SECURITY_CODE": "002434",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "华润深国投信托有限公司-华润信托·华颖16号单一资金信托",
-      "HOLDER_TYPE": "信托计划",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 60634000,
-      "FREE_HOLDNUM_RATIO": 4.623889373176,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002434.SZ",
-      "SECURITY_CODE": "002434",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "金华市众成投资有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -551,34 +525,47 @@
     {
       "SECUCODE": "002434.SZ",
       "SECURITY_CODE": "002434",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "华润深国投信托有限公司-华润信托·华颖16号单一资金信托",
+      "HOLDER_TYPE": "信托计划",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 44485200,
+      "FREE_HOLDNUM_RATIO": 3.392397723119,
+      "HOLD_NUM_CHANGE": "-16148800",
+      "CHANGE_RATIO": -26.63324208
+    },
+    {
+      "SECUCODE": "002434.SZ",
+      "SECURITY_CODE": "002434",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "陕西省国际信托股份有限公司-陕国投·昌丰52号单一资金信托",
+      "HOLDER_TYPE": "信托计划",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 36060300,
+      "FREE_HOLDNUM_RATIO": 2.749923111844,
+      "HOLD_NUM_CHANGE": "-29569600",
+      "CHANGE_RATIO": -45.05507398
+    },
+    {
+      "SECUCODE": "002434.SZ",
+      "SECURITY_CODE": "002434",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "浙大网新科技股份有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 20706000,
-      "FREE_HOLDNUM_RATIO": 1.579019252581,
-      "HOLD_NUM_CHANGE": "-27894000",
-      "CHANGE_RATIO": -57.39506173
+      "HOLD_NUM": 19790000,
+      "FREE_HOLDNUM_RATIO": 1.509165990948,
+      "HOLD_NUM_CHANGE": "-916000",
+      "CHANGE_RATIO": -4.4238385
     },
     {
       "SECUCODE": "002434.SZ",
       "SECURITY_CODE": "002434",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 14972197,
-      "FREE_HOLDNUM_RATIO": 1.141765059231,
-      "HOLD_NUM_CHANGE": "-6456701",
-      "CHANGE_RATIO": -30.13081214
-    },
-    {
-      "SECUCODE": "002434.SZ",
-      "SECURITY_CODE": "002434",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "奇瑞汽车股份有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -590,35 +577,48 @@
     {
       "SECUCODE": "002434.SZ",
       "SECURITY_CODE": "002434",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 11458455,
+      "FREE_HOLDNUM_RATIO": 0.873810540415,
+      "HOLD_NUM_CHANGE": "-3513742",
+      "CHANGE_RATIO": -23.46844621
+    },
+    {
+      "SECUCODE": "002434.SZ",
+      "SECURITY_CODE": "002434",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "浙江锦鑫建设工程有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10983200,
-      "FREE_HOLDNUM_RATIO": 0.837568060221,
-      "HOLD_NUM_CHANGE": "-82800",
-      "CHANGE_RATIO": -0.74823785
+      "HOLD_NUM": 9684100,
+      "FREE_HOLDNUM_RATIO": 0.738499968314,
+      "HOLD_NUM_CHANGE": "-1299100",
+      "CHANGE_RATIO": -11.82806468
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "002434.SZ",
       "SECURITY_CODE": "002434",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 792827697,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 741380455,
       "LIMITED_SHARES": 1279700,
-      "OTHER_UNLIMITED_SHARES": 518492603,
-      "HOLD_NUM_RATIO": 60.4,
+      "OTHER_UNLIMITED_SHARES": 569939845,
+      "HOLD_NUM_RATIO": 56.48,
       "LIMITED_SHARES_RATIO": 0.1,
-      "UNLIMITED_SHARES_RATIO": 39.5
+      "UNLIMITED_SHARES_RATIO": 43.42
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002434.SZ",
       "SECURITY_CODE": "002434",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "万里扬集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "002434.SZ",
       "SECURITY_CODE": "002434",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "安徽国元信托有限责任公司-国元信托-安瑞1号单一资金信托",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "002434.SZ",
       "SECURITY_CODE": "002434",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "陕西省国际信托股份有限公司-陕国投·昌盛1号单一资金信托",
       "SHARES_TYPE": "流通A股",
@@ -654,32 +654,8 @@
     {
       "SECUCODE": "002434.SZ",
       "SECURITY_CODE": "002434",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "陕西省国际信托股份有限公司-陕国投·昌丰52号单一资金信托",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 65629900,
-      "HOLD_NUM_RATIO": 5,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002434.SZ",
-      "SECURITY_CODE": "002434",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "华润深国投信托有限公司-华润信托·华颖16号单一资金信托",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 60634000,
-      "HOLD_NUM_RATIO": 4.62,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002434.SZ",
-      "SECURITY_CODE": "002434",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "金华市众成投资有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 52785000,
@@ -690,32 +666,44 @@
     {
       "SECUCODE": "002434.SZ",
       "SECURITY_CODE": "002434",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "华润深国投信托有限公司-华润信托·华颖16号单一资金信托",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 44485200,
+      "HOLD_NUM_RATIO": 3.39,
+      "HOLD_NUM_CHANGE": "-16148800",
+      "CHANGE_RATIO": -26.63324208
+    },
+    {
+      "SECUCODE": "002434.SZ",
+      "SECURITY_CODE": "002434",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "陕西省国际信托股份有限公司-陕国投·昌丰52号单一资金信托",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 36060300,
+      "HOLD_NUM_RATIO": 2.75,
+      "HOLD_NUM_CHANGE": "-29569600",
+      "CHANGE_RATIO": -45.05507398
+    },
+    {
+      "SECUCODE": "002434.SZ",
+      "SECURITY_CODE": "002434",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "浙大网新科技股份有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 20706000,
-      "HOLD_NUM_RATIO": 1.58,
-      "HOLD_NUM_CHANGE": "-27894000",
-      "CHANGE_RATIO": -57.39506173
+      "HOLD_NUM": 19790000,
+      "HOLD_NUM_RATIO": 1.51,
+      "HOLD_NUM_CHANGE": "-916000",
+      "CHANGE_RATIO": -4.4238385
     },
     {
       "SECUCODE": "002434.SZ",
       "SECURITY_CODE": "002434",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 14972197,
-      "HOLD_NUM_RATIO": 1.14,
-      "HOLD_NUM_CHANGE": "-6456701",
-      "CHANGE_RATIO": -30.13081214
-    },
-    {
-      "SECUCODE": "002434.SZ",
-      "SECURITY_CODE": "002434",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "奇瑞汽车股份有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 12529256,
@@ -726,56 +714,58 @@
     {
       "SECUCODE": "002434.SZ",
       "SECURITY_CODE": "002434",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 11458455,
+      "HOLD_NUM_RATIO": 0.87,
+      "HOLD_NUM_CHANGE": "-3513742",
+      "CHANGE_RATIO": -23.46844621
+    },
+    {
+      "SECUCODE": "002434.SZ",
+      "SECURITY_CODE": "002434",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "浙江锦鑫建设工程有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10983200,
-      "HOLD_NUM_RATIO": 0.84,
-      "HOLD_NUM_CHANGE": "-82800",
-      "CHANGE_RATIO": -0.74823785
+      "HOLD_NUM": 9684100,
+      "HOLD_NUM_RATIO": 0.74,
+      "HOLD_NUM_CHANGE": "-1299100",
+      "CHANGE_RATIO": -11.82806468
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "002434.SZ",
       "SECURITY_CODE": "002434",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 95,
-      "TOTAL_FREE_SHARES": 816967630,
-      "TOTAL_SHARES_RATIO": 62.30115019,
-      "ALL_SHARES_RATIO": 62.24041067
+      "TOTAL_ORG_NUM": 10,
+      "TOTAL_FREE_SHARES": 741380455,
+      "TOTAL_SHARES_RATIO": 56.53694638,
+      "ALL_SHARES_RATIO": 56.48182652
     },
     {
       "SECUCODE": "002434.SZ",
       "SECURITY_CODE": "002434",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 85,
-      "TOTAL_FREE_SHARES": 24139933,
-      "TOTAL_SHARES_RATIO": 1.84088759,
-      "ALL_SHARES_RATIO": 1.83909291
-    },
-    {
-      "SECUCODE": "002434.SZ",
-      "SECURITY_CODE": "002434",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "06",
       "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 284263900,
-      "TOTAL_SHARES_RATIO": 21.67768622,
-      "ALL_SHARES_RATIO": 21.65655188
+      "TOTAL_FREE_SHARES": 238545500,
+      "TOTAL_SHARES_RATIO": 18.19124587,
+      "ALL_SHARES_RATIO": 18.17351059
     },
     {
       "SECUCODE": "002434.SZ",
       "SECURITY_CODE": "002434",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 508563797,
-      "TOTAL_SHARES_RATIO": 38.78257638,
-      "ALL_SHARES_RATIO": 38.74476588
+      "TOTAL_FREE_SHARES": 502834955,
+      "TOTAL_SHARES_RATIO": 38.34570051,
+      "ALL_SHARES_RATIO": 38.30831593
     }
   ],
   "jjcg": [

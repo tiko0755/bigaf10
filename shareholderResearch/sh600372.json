@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 13,
       "AVG_HOLD_AMT": 347629.568458631,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 59.18799125,
+      "FREEHOLD_RATIO_TOTAL": 59.18799125
     },
     {
       "SECUCODE": "600372.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600372.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600372.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600372.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600372.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600372.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600372.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600372.SH",
       "END_DATE": "2017-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600372.SH",
-      "END_DATE": "2017-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600372.SH",
       "SECURITY_CODE": "600372",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中航机载系统有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600372.SH",
       "SECURITY_CODE": "600372",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中国航空科技工业股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "600372.SH",
       "SECURITY_CODE": "600372",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中国航空工业集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "600372.SH",
       "SECURITY_CODE": "600372",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "中国航空救生研究所",
       "HOLDER_TYPE": "其它",
@@ -525,7 +525,7 @@
     {
       "SECUCODE": "600372.SH",
       "SECURITY_CODE": "600372",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国国有企业结构调整基金二期股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -538,7 +538,7 @@
     {
       "SECUCODE": "600372.SH",
       "SECURITY_CODE": "600372",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "汉中航空工业(集团)有限公司",
       "HOLDER_TYPE": "其它",
@@ -551,7 +551,7 @@
     {
       "SECUCODE": "600372.SH",
       "SECURITY_CODE": "600372",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "产业投资基金有限责任公司",
       "HOLDER_TYPE": "投资公司",
@@ -564,61 +564,61 @@
     {
       "SECUCODE": "600372.SH",
       "SECURITY_CODE": "600372",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 40163886,
-      "FREE_HOLDNUM_RATIO": 0.830021574567,
-      "HOLD_NUM_CHANGE": "-1092986",
-      "CHANGE_RATIO": -2.64922169
-    },
-    {
-      "SECUCODE": "600372.SH",
-      "SECURITY_CODE": "600372",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "中国建设银行股份有限公司-富国中证军工龙头交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 34910373,
-      "FREE_HOLDNUM_RATIO": 0.72145316731,
-      "HOLD_NUM_CHANGE": "-19720568",
-      "CHANGE_RATIO": -36.09780033
+      "HOLD_NUM": 34298788,
+      "FREE_HOLDNUM_RATIO": 0.708814232306,
+      "HOLD_NUM_CHANGE": "-611585",
+      "CHANGE_RATIO": -1.75187186
     },
     {
       "SECUCODE": "600372.SH",
       "SECURITY_CODE": "600372",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国建设银行股份有限公司-易方达沪深300交易型开放式指数发起式证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中兵顺景股权投资管理有限公司-中兵国调(厦门)股权投资基金合伙企业(有限合伙)",
+      "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 28504165,
-      "FREE_HOLDNUM_RATIO": 0.589063317106,
-      "HOLD_NUM_CHANGE": "-1272000",
-      "CHANGE_RATIO": -4.27187316
+      "HOLD_NUM": 21231422,
+      "FREE_HOLDNUM_RATIO": 0.438765768799,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600372.SH",
+      "SECURITY_CODE": "600372",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "四川发展未来智造私募基金管理有限公司-四川发展空天高端装备制造产业股权投资基金合伙企业(有限合伙)",
+      "HOLDER_TYPE": "私募基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 21224345,
+      "FREE_HOLDNUM_RATIO": 0.43861951645,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600372.SH",
       "SECURITY_CODE": "600372",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 2890869583,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 2864045714,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 1948027047,
-      "HOLD_NUM_RATIO": 59.74,
+      "OTHER_UNLIMITED_SHARES": 1974850916,
+      "HOLD_NUM_RATIO": 59.19,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 40.26
+      "UNLIMITED_SHARES_RATIO": 40.81
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600372.SH",
       "SECURITY_CODE": "600372",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中航机载系统有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600372.SH",
       "SECURITY_CODE": "600372",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中国航空科技工业股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "600372.SH",
       "SECURITY_CODE": "600372",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中国航空工业集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "600372.SH",
       "SECURITY_CODE": "600372",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "中国航空救生研究所",
       "SHARES_TYPE": "流通A股",
@@ -666,7 +666,7 @@
     {
       "SECUCODE": "600372.SH",
       "SECURITY_CODE": "600372",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国国有企业结构调整基金二期股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -678,7 +678,7 @@
     {
       "SECUCODE": "600372.SH",
       "SECURITY_CODE": "600372",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "汉中航空工业(集团)有限公司",
       "SHARES_TYPE": "流通A股",
@@ -690,7 +690,7 @@
     {
       "SECUCODE": "600372.SH",
       "SECURITY_CODE": "600372",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "产业投资基金有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -702,38 +702,38 @@
     {
       "SECUCODE": "600372.SH",
       "SECURITY_CODE": "600372",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 40163886,
-      "HOLD_NUM_RATIO": 0.83,
-      "HOLD_NUM_CHANGE": "-1092986",
-      "CHANGE_RATIO": -2.64922169
-    },
-    {
-      "SECUCODE": "600372.SH",
-      "SECURITY_CODE": "600372",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "中国建设银行股份有限公司-富国中证军工龙头交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 34910373,
-      "HOLD_NUM_RATIO": 0.72,
-      "HOLD_NUM_CHANGE": "-19720568",
-      "CHANGE_RATIO": -36.09780033
+      "HOLD_NUM": 34298788,
+      "HOLD_NUM_RATIO": 0.71,
+      "HOLD_NUM_CHANGE": "-611585",
+      "CHANGE_RATIO": -1.75187186
     },
     {
       "SECUCODE": "600372.SH",
       "SECURITY_CODE": "600372",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国建设银行股份有限公司-易方达沪深300交易型开放式指数发起式证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中兵顺景股权投资管理有限公司-中兵国调(厦门)股权投资基金合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 28504165,
-      "HOLD_NUM_RATIO": 0.59,
-      "HOLD_NUM_CHANGE": "-1272000",
-      "CHANGE_RATIO": -4.27187316
+      "HOLD_NUM": 21231422,
+      "HOLD_NUM_RATIO": 0.44,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600372.SH",
+      "SECURITY_CODE": "600372",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "四川发展未来智造私募基金管理有限公司-四川发展空天高端装备制造产业股权投资基金合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 21224345,
+      "HOLD_NUM_RATIO": 0.44,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "600372",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 32,
-      "TOTAL_FREE_SHARES": 101236506,
-      "TOTAL_SHARES_RATIO": 2.09214028,
-      "ALL_SHARES_RATIO": 2.09214028
+      "TOTAL_ORG_NUM": 41,
+      "TOTAL_FREE_SHARES": 2930983432,
+      "TOTAL_SHARES_RATIO": 60.5713173,
+      "ALL_SHARES_RATIO": 60.5713173
     },
     {
       "SECUCODE": "600372.SH",
@@ -756,6 +756,16 @@
       "TOTAL_FREE_SHARES": 101236506,
       "TOTAL_SHARES_RATIO": 2.09214028,
       "ALL_SHARES_RATIO": 2.09214028
+    },
+    {
+      "SECUCODE": "600372.SH",
+      "SECURITY_CODE": "600372",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 9,
+      "TOTAL_FREE_SHARES": 2829746926,
+      "TOTAL_SHARES_RATIO": 58.47917702,
+      "ALL_SHARES_RATIO": 58.47917702
     }
   ],
   "jjcg": [

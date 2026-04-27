@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 12.18,
       "AVG_HOLD_AMT": 165361.796889998,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 73.07789593,
+      "FREEHOLD_RATIO_TOTAL": 73.07789593
     },
     {
       "SECUCODE": "605169.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "605169.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "605169.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "605169.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "605169.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "605169.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "605169.SH",
       "END_DATE": "2026-03-03 00:00:00",
@@ -326,6 +331,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "605169.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "605169.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -339,10 +348,6 @@
     {
       "SECUCODE": "605169.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "605169.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [
@@ -385,7 +390,7 @@
     {
       "SECUCODE": "605169.SH",
       "SECURITY_CODE": "605169",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "刘洪兵",
       "HOLDER_TYPE": "个人",
@@ -398,21 +403,8 @@
     {
       "SECUCODE": "605169.SH",
       "SECURITY_CODE": "605169",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "田辉",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 28151832,
-      "FREE_HOLDNUM_RATIO": 9.951863687783,
-      "HOLD_NUM_CHANGE": "-1000",
-      "CHANGE_RATIO": -0.00355204
-    },
-    {
-      "SECUCODE": "605169.SH",
-      "SECURITY_CODE": "605169",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "谭素清",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -424,91 +416,104 @@
     {
       "SECUCODE": "605169.SH",
       "SECURITY_CODE": "605169",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "田辉",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 25324100,
+      "FREE_HOLDNUM_RATIO": 8.952241233032,
+      "HOLD_NUM_CHANGE": "-2827732",
+      "CHANGE_RATIO": -10.04457543
+    },
+    {
+      "SECUCODE": "605169.SH",
+      "SECURITY_CODE": "605169",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "霍尔果斯洪通股权投资管理合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 18222225,
       "FREE_HOLDNUM_RATIO": 6.44168021776,
-      "HOLD_NUM_CHANGE": "-993200",
-      "CHANGE_RATIO": -5.16876416
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605169.SH",
       "SECURITY_CODE": "605169",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "刘长江",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5668977,
-      "FREE_HOLDNUM_RATIO": 2.004021846719,
-      "HOLD_NUM_CHANGE": "-5000",
-      "CHANGE_RATIO": -0.08812161
+      "HOLD_NUM": 5596177,
+      "FREE_HOLDNUM_RATIO": 1.978286552602,
+      "HOLD_NUM_CHANGE": "-72800",
+      "CHANGE_RATIO": -1.28418231
     },
     {
       "SECUCODE": "605169.SH",
       "SECURITY_CODE": "605169",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "巴州洪通股权投资管理合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 4574094,
       "FREE_HOLDNUM_RATIO": 1.616973274887,
-      "HOLD_NUM_CHANGE": "-373400",
-      "CHANGE_RATIO": -7.54725524
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605169.SH",
       "SECURITY_CODE": "605169",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "秦伟",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 988692,
-      "FREE_HOLDNUM_RATIO": 0.349509332579,
-      "HOLD_NUM_CHANGE": "250200",
-      "CHANGE_RATIO": 33.87985246
+      "HOLD_NUM": 1089092,
+      "FREE_HOLDNUM_RATIO": 0.385001414027,
+      "HOLD_NUM_CHANGE": "100400",
+      "CHANGE_RATIO": 10.15483083
     },
     {
       "SECUCODE": "605169.SH",
       "SECURITY_CODE": "605169",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "高盛公司有限责任公司",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 716047,
-      "FREE_HOLDNUM_RATIO": 0.253127474548,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "605169.SH",
-      "SECURITY_CODE": "605169",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "李世杰",
+      "HOLDER_NAME": "黄伟",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 709700,
-      "FREE_HOLDNUM_RATIO": 0.250883766968,
+      "HOLD_NUM": 699300,
+      "FREE_HOLDNUM_RATIO": 0.24720729638,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605169.SH",
       "SECURITY_CODE": "605169",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
-      "HOLDER_TYPE": "QFII",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "朱长根",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 536008,
-      "FREE_HOLDNUM_RATIO": 0.189482466063,
+      "HOLD_NUM": 674795,
+      "FREE_HOLDNUM_RATIO": 0.238544612557,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "605169.SH",
+      "SECURITY_CODE": "605169",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "沈洪美",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 522200,
+      "FREE_HOLDNUM_RATIO": 0.184601244344,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -517,20 +522,20 @@
     {
       "SECUCODE": "605169.SH",
       "SECURITY_CODE": "605169",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 209588344,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 206722752,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 73291656,
-      "HOLD_NUM_RATIO": 74.09,
+      "OTHER_UNLIMITED_SHARES": 76157248,
+      "HOLD_NUM_RATIO": 73.08,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 25.91
+      "UNLIMITED_SHARES_RATIO": 26.92
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "605169.SH",
       "SECURITY_CODE": "605169",
-      "END_DATE": "2026-03-03 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "刘洪兵",
       "SHARES_TYPE": "流通A股",
@@ -542,7 +547,7 @@
     {
       "SECUCODE": "605169.SH",
       "SECURITY_CODE": "605169",
-      "END_DATE": "2026-03-03 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "谭素清",
       "SHARES_TYPE": "流通A股",
@@ -554,25 +559,97 @@
     {
       "SECUCODE": "605169.SH",
       "SECURITY_CODE": "605169",
-      "END_DATE": "2026-03-03 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "田辉",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 25324100,
       "HOLD_NUM_RATIO": 8.95,
-      "HOLD_NUM_CHANGE": "-2827732",
-      "CHANGE_RATIO": -10.04457543
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605169.SH",
       "SECURITY_CODE": "605169",
-      "END_DATE": "2026-03-03 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "霍尔果斯洪通企业管理咨询合伙企业(有限合伙)",
+      "HOLDER_NAME": "霍尔果斯洪通股权投资管理合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 18222225,
       "HOLD_NUM_RATIO": 6.44,
       "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "605169.SH",
+      "SECURITY_CODE": "605169",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "刘长江",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5596177,
+      "HOLD_NUM_RATIO": 1.98,
+      "HOLD_NUM_CHANGE": "-72800",
+      "CHANGE_RATIO": -1.28418231
+    },
+    {
+      "SECUCODE": "605169.SH",
+      "SECURITY_CODE": "605169",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "巴州洪通股权投资管理合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4574094,
+      "HOLD_NUM_RATIO": 1.62,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "605169.SH",
+      "SECURITY_CODE": "605169",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "秦伟",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1089092,
+      "HOLD_NUM_RATIO": 0.39,
+      "HOLD_NUM_CHANGE": "100400",
+      "CHANGE_RATIO": 10.15483083
+    },
+    {
+      "SECUCODE": "605169.SH",
+      "SECURITY_CODE": "605169",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "黄伟",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 699300,
+      "HOLD_NUM_RATIO": 0.25,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "605169.SH",
+      "SECURITY_CODE": "605169",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "朱长根",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 674795,
+      "HOLD_NUM_RATIO": 0.24,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "605169.SH",
+      "SECURITY_CODE": "605169",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "沈洪美",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 522200,
+      "HOLD_NUM_RATIO": 0.18,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -580,37 +657,17 @@
     {
       "SECUCODE": "605169.SH",
       "SECURITY_CODE": "605169",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 17,
-      "TOTAL_FREE_SHARES": 24703396,
-      "TOTAL_SHARES_RATIO": 8.73281815,
-      "ALL_SHARES_RATIO": 8.73281815
-    },
-    {
-      "SECUCODE": "605169.SH",
-      "SECURITY_CODE": "605169",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 13,
-      "TOTAL_FREE_SHARES": 655022,
-      "TOTAL_SHARES_RATIO": 0.23155472,
-      "ALL_SHARES_RATIO": 0.23155472
-    },
-    {
-      "SECUCODE": "605169.SH",
-      "SECURITY_CODE": "605169",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "02",
       "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 1252055,
-      "TOTAL_SHARES_RATIO": 0.44260994,
-      "ALL_SHARES_RATIO": 0.44260994
+      "TOTAL_FREE_SHARES": 22796319,
+      "TOTAL_SHARES_RATIO": 8.05865349,
+      "ALL_SHARES_RATIO": 8.05865349
     },
     {
       "SECUCODE": "605169.SH",
       "SECURITY_CODE": "605169",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 2,
       "TOTAL_FREE_SHARES": 22796319,

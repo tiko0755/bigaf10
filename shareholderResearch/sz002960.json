@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 11.85,
       "AVG_HOLD_AMT": 314739.089205703,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 55.15422123,
+      "FREEHOLD_RATIO_TOTAL": 51.91038298
     },
     {
       "SECUCODE": "002960.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002960.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002960.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002960.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002960.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002960.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002960.SZ",
       "END_DATE": "2026-03-13 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002960.SZ",
       "END_DATE": "2021-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002960.SZ",
-      "END_DATE": "2021-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "002960.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "002960.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "002960.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002960.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [
@@ -478,28 +478,6 @@
       "HOLD_CHANGE": "-2700",
       "CHANGE_RATIO": -0.03248322,
       "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-26 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "北京北大青鸟环宇科技股份有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 256613363,
-      "HOLD_NUM_RATIO": 29.17,
-      "HOLD_CHANGE": "70044000",
-      "CHANGE_RATIO": 37.54314153,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-26 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "蔡为民",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 87375532,
-      "HOLD_NUM_RATIO": 9.93,
-      "HOLD_CHANGE": "-70044000",
-      "CHANGE_RATIO": -44.49511386,
-      "CHANGE_REASON": "临时公告"
     }
   ],
   "jjcg_date": [
@@ -529,152 +507,152 @@
     {
       "SECUCODE": "002960.SZ",
       "SECURITY_CODE": "002960",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京北大青鸟环宇科技股份有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 256613363,
-      "FREE_HOLDNUM_RATIO": 32.362895631514,
-      "HOLD_NUM_CHANGE": "70044000",
-      "CHANGE_RATIO": 37.54314153
+      "FREE_HOLDNUM_RATIO": 31.737575957446,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002960.SZ",
       "SECURITY_CODE": "002960",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中国国际海运集装箱(集团)股份有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 77967512,
-      "FREE_HOLDNUM_RATIO": 9.832903571373,
+      "FREE_HOLDNUM_RATIO": 9.642911052583,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002960.SZ",
       "SECURITY_CODE": "002960",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "蔡为民",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 21843883,
+      "FREE_HOLDNUM_RATIO": 2.701620398148,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002960.SZ",
+      "SECURITY_CODE": "002960",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "国泰海通证券股份有限公司",
       "HOLDER_TYPE": "证券公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12189511,
-      "FREE_HOLDNUM_RATIO": 1.53728499436,
-      "HOLD_NUM_CHANGE": "1041219",
-      "CHANGE_RATIO": 9.33971769
+      "HOLD_NUM": 12492011,
+      "FREE_HOLDNUM_RATIO": 1.544994162965,
+      "HOLD_NUM_CHANGE": "-81400",
+      "CHANGE_RATIO": -0.64739791
     },
     {
       "SECUCODE": "002960.SZ",
       "SECURITY_CODE": "002960",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10797891,
-      "FREE_HOLDNUM_RATIO": 1.3617802884,
-      "HOLD_NUM_CHANGE": "3581859",
-      "CHANGE_RATIO": 49.63751547
+      "HOLD_NUM": 11649834,
+      "FREE_HOLDNUM_RATIO": 1.440834908768,
+      "HOLD_NUM_CHANGE": "2174141",
+      "CHANGE_RATIO": 22.94440101
     },
     {
       "SECUCODE": "002960.SZ",
       "SECURITY_CODE": "002960",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "全国社保基金一一八组合",
+      "HOLDER_TYPE": "全国社保基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 9978318,
+      "FREE_HOLDNUM_RATIO": 1.234104185964,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002960.SZ",
+      "SECURITY_CODE": "002960",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "俞韵",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 8721685,
-      "FREE_HOLDNUM_RATIO": 1.099938748653,
+      "FREE_HOLDNUM_RATIO": 1.07868560284,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002960.SZ",
       "SECURITY_CODE": "002960",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "赵勋亮",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8311985,
-      "FREE_HOLDNUM_RATIO": 1.048269271331,
-      "HOLD_NUM_CHANGE": "-578740",
-      "CHANGE_RATIO": -6.50948039
+      "HOLD_NUM": 8309285,
+      "FREE_HOLDNUM_RATIO": 1.02768055707,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002960.SZ",
       "SECURITY_CODE": "002960",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "全国社保基金五零三组合",
-      "HOLDER_TYPE": "全国社保基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8000000,
-      "FREE_HOLDNUM_RATIO": 1.008923159828,
-      "HOLD_NUM_CHANGE": "-7000041",
-      "CHANGE_RATIO": -46.66681244
-    },
-    {
-      "SECUCODE": "002960.SZ",
-      "SECURITY_CODE": "002960",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "杨玮",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 6468872,
-      "FREE_HOLDNUM_RATIO": 0.815824347346,
+      "FREE_HOLDNUM_RATIO": 0.800060893395,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002960.SZ",
       "SECURITY_CODE": "002960",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "何怀珍",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 5675318,
-      "FREE_HOLDNUM_RATIO": 0.715744971199,
+      "FREE_HOLDNUM_RATIO": 0.70191526272,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002960.SZ",
-      "SECURITY_CODE": "002960",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "蔡为民",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5231034,
-      "FREE_HOLDNUM_RATIO": 0.659713919056,
-      "HOLD_NUM_CHANGE": "-34123849",
-      "CHANGE_RATIO": -86.70804332
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "002960.SZ",
       "SECURITY_CODE": "002960",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 399977171,
-      "LIMITED_SHARES": 86884262,
-      "OTHER_UNLIMITED_SHARES": 392947436,
-      "HOLD_NUM_RATIO": 45.46,
-      "LIMITED_SHARES_RATIO": 9.88,
-      "UNLIMITED_SHARES_RATIO": 44.66
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 419720081,
+      "LIMITED_SHARES": 71261413,
+      "OTHER_UNLIMITED_SHARES": 388827375,
+      "HOLD_NUM_RATIO": 47.71,
+      "LIMITED_SHARES_RATIO": 8.1,
+      "UNLIMITED_SHARES_RATIO": 44.19
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002960.SZ",
       "SECURITY_CODE": "002960",
-      "END_DATE": "2026-03-13 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京北大青鸟环宇科技股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -686,7 +664,7 @@
     {
       "SECUCODE": "002960.SZ",
       "SECURITY_CODE": "002960",
-      "END_DATE": "2026-03-13 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "蔡为民",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -698,7 +676,7 @@
     {
       "SECUCODE": "002960.SZ",
       "SECURITY_CODE": "002960",
-      "END_DATE": "2026-03-13 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中国国际海运集装箱(集团)股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -710,43 +688,43 @@
     {
       "SECUCODE": "002960.SZ",
       "SECURITY_CODE": "002960",
-      "END_DATE": "2026-03-13 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "国泰海通证券股份有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 12573411,
-      "HOLD_NUM_RATIO": 1.43,
-      "HOLD_NUM_CHANGE": "383900",
-      "CHANGE_RATIO": 3.14942905
+      "HOLD_NUM": 12492011,
+      "HOLD_NUM_RATIO": 1.42,
+      "HOLD_NUM_CHANGE": "-81400",
+      "CHANGE_RATIO": -0.64739791
     },
     {
       "SECUCODE": "002960.SZ",
       "SECURITY_CODE": "002960",
-      "END_DATE": "2026-03-13 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 11649834,
+      "HOLD_NUM_RATIO": 1.32,
+      "HOLD_NUM_CHANGE": "2174141",
+      "CHANGE_RATIO": 22.94440101
+    },
+    {
+      "SECUCODE": "002960.SZ",
+      "SECURITY_CODE": "002960",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "全国社保基金一一八组合",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 9978318,
       "HOLD_NUM_RATIO": 1.13,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002960.SZ",
       "SECURITY_CODE": "002960",
-      "END_DATE": "2026-03-13 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9475693,
-      "HOLD_NUM_RATIO": 1.08,
-      "HOLD_NUM_CHANGE": "-1322198",
-      "CHANGE_RATIO": -12.24496524
-    },
-    {
-      "SECUCODE": "002960.SZ",
-      "SECURITY_CODE": "002960",
-      "END_DATE": "2026-03-13 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "俞韵",
       "SHARES_TYPE": "流通A股",
@@ -758,19 +736,19 @@
     {
       "SECUCODE": "002960.SZ",
       "SECURITY_CODE": "002960",
-      "END_DATE": "2026-03-13 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "赵勋亮",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 8309285,
       "HOLD_NUM_RATIO": 0.94,
-      "HOLD_NUM_CHANGE": "-2700",
-      "CHANGE_RATIO": -0.03248322
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002960.SZ",
       "SECURITY_CODE": "002960",
-      "END_DATE": "2026-03-13 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "杨玮",
       "SHARES_TYPE": "流通A股",
@@ -782,7 +760,7 @@
     {
       "SECUCODE": "002960.SZ",
       "SECURITY_CODE": "002960",
-      "END_DATE": "2026-03-13 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "何怀珍",
       "SHARES_TYPE": "流通A股",
@@ -796,52 +774,42 @@
     {
       "SECUCODE": "002960.SZ",
       "SECURITY_CODE": "002960",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 73,
-      "TOTAL_FREE_SHARES": 389303463,
-      "TOTAL_SHARES_RATIO": 49.09715995,
-      "ALL_SHARES_RATIO": 44.24864046
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 368701038,
+      "TOTAL_SHARES_RATIO": 45.60042027,
+      "ALL_SHARES_RATIO": 41.90694718
     },
     {
       "SECUCODE": "002960.SZ",
       "SECURITY_CODE": "002960",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 68,
-      "TOTAL_FREE_SHARES": 23735186,
-      "TOTAL_SHARES_RATIO": 2.99337231,
-      "ALL_SHARES_RATIO": 2.69776619
-    },
-    {
-      "SECUCODE": "002960.SZ",
-      "SECURITY_CODE": "002960",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "03",
       "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 8000000,
-      "TOTAL_SHARES_RATIO": 1.00892316,
-      "ALL_SHARES_RATIO": 0.9092884
+      "TOTAL_FREE_SHARES": 9978318,
+      "TOTAL_SHARES_RATIO": 1.23410419,
+      "ALL_SHARES_RATIO": 1.1341461
     },
     {
       "SECUCODE": "002960.SZ",
       "SECURITY_CODE": "002960",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "04",
       "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 12189511,
-      "TOTAL_SHARES_RATIO": 1.53728499,
-      "ALL_SHARES_RATIO": 1.38547262
+      "TOTAL_FREE_SHARES": 12492011,
+      "TOTAL_SHARES_RATIO": 1.54499416,
+      "ALL_SHARES_RATIO": 1.41985509
     },
     {
       "SECUCODE": "002960.SZ",
       "SECURITY_CODE": "002960",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 345378766,
-      "TOTAL_SHARES_RATIO": 43.55757949,
-      "ALL_SHARES_RATIO": 39.25611325
+      "TOTAL_FREE_SHARES": 346230709,
+      "TOTAL_SHARES_RATIO": 42.82132192,
+      "ALL_SHARES_RATIO": 39.35294599
     }
   ],
   "jjcg": [

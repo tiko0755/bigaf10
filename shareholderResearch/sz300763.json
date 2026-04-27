@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 99.9,
       "AVG_HOLD_AMT": 416082.607261731,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 50.41044961,
+      "FREEHOLD_RATIO_TOTAL": 39.0893735
     },
     {
       "SECUCODE": "300763.SZ",
@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300763.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300763.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300763.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "300763.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300763.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300763.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300763.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300763.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300763.SZ",
       "END_DATE": "2025-09-30 00:00:00",
@@ -403,16 +413,6 @@
       "SECUCODE": "300763.SZ",
       "END_DATE": "2021-11-30 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300763.SZ",
-      "END_DATE": "2021-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "300763.SZ",
-      "END_DATE": "2021-08-31 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -420,7 +420,7 @@
       "SECUCODE": "300763.SZ",
       "SECURITY_CODE": "300763",
       "HOLDER_NAME": "王一鸣,林伊蓓,王峻适",
-      "HOLD_RATIO": 38.09
+      "HOLD_RATIO": 38.1
     }
   ],
   "jgcc_date": [
@@ -468,181 +468,171 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "xsjj": [
-    {
-      "SECUCODE": "300763.SZ",
-      "SECURITY_CODE": "300763",
-      "LIFT_DATE": "2026-07-28 00:00:00",
-      "LIFT_NUM": 1663800,
-      "LIFT_TYPE": "股权激励限售股份",
-      "TOTAL_SHARES_RATIO": 0.42,
-      "UNLIMITED_A_SHARES_RATIO": 0.52
-    }
-  ],
+  "xsjj": [],
   "sdltgd": [
     {
       "SECUCODE": "300763.SZ",
       "SECURITY_CODE": "300763",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
-      "HOLDER_NAME": "锦浪控股有限公司",
+      "HOLDER_NAME": "宁波锦浪控股集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 31319073,
-      "FREE_HOLDNUM_RATIO": 9.741270935391,
+      "FREE_HOLDNUM_RATIO": 9.738776485837,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300763.SZ",
       "SECURITY_CODE": "300763",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "林伊蓓",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 30417000,
-      "FREE_HOLDNUM_RATIO": 9.460696299721,
+      "FREE_HOLDNUM_RATIO": 9.45827369698,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300763.SZ",
       "SECURITY_CODE": "300763",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "王一鸣",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 24984956,
-      "FREE_HOLDNUM_RATIO": 7.771150369132,
+      "FREE_HOLDNUM_RATIO": 7.769160408817,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300763.SZ",
       "SECURITY_CODE": "300763",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "王峻适",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 21291300,
-      "FREE_HOLDNUM_RATIO": 6.622300789895,
+      "FREE_HOLDNUM_RATIO": 6.620605015764,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300763.SZ",
       "SECURITY_CODE": "300763",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4716296,
-      "FREE_HOLDNUM_RATIO": 1.466924552572,
-      "HOLD_NUM_CHANGE": "-267544",
-      "CHANGE_RATIO": -5.36823012
+      "HOLD_NUM": 5261572,
+      "FREE_HOLDNUM_RATIO": 1.636104417016,
+      "HOLD_NUM_CHANGE": "131471",
+      "CHANGE_RATIO": 2.56273707
     },
     {
       "SECUCODE": "300763.SZ",
       "SECURITY_CODE": "300763",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国工商银行股份有限公司-易方达创业板交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4714942,
-      "FREE_HOLDNUM_RATIO": 1.466503413644,
-      "HOLD_NUM_CHANGE": "-799530",
-      "CHANGE_RATIO": -14.4987589
-    },
-    {
-      "SECUCODE": "300763.SZ",
-      "SECURITY_CODE": "300763",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "许颇",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 4612984,
-      "FREE_HOLDNUM_RATIO": 1.434791092464,
+      "FREE_HOLDNUM_RATIO": 1.434423685169,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300763.SZ",
       "SECURITY_CODE": "300763",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国工商银行股份有限公司-易方达创业板交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3489343,
-      "FREE_HOLDNUM_RATIO": 1.085301456704,
-      "HOLD_NUM_CHANGE": "-47900",
-      "CHANGE_RATIO": -1.35416198
+      "HOLD_NUM": 2144677,
+      "FREE_HOLDNUM_RATIO": 0.666894896197,
+      "HOLD_NUM_CHANGE": "-2072165",
+      "CHANGE_RATIO": -49.14020966
     },
     {
       "SECUCODE": "300763.SZ",
       "SECURITY_CODE": "300763",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "中国银行股份有限公司-华泰柏瑞中证光伏产业交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2723068,
-      "FREE_HOLDNUM_RATIO": 0.846964505095,
+      "HOLD_NUM": 2059668,
+      "FREE_HOLDNUM_RATIO": 0.640461047076,
+      "HOLD_NUM_CHANGE": "-285600",
+      "CHANGE_RATIO": -12.17771274
+    },
+    {
+      "SECUCODE": "300763.SZ",
+      "SECURITY_CODE": "300763",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "国投证券股份有限公司-易方达国证新能源电池交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1899612,
+      "FREE_HOLDNUM_RATIO": 0.590691067958,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300763.SZ",
       "SECURITY_CODE": "300763",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中信建投证券股份有限公司-天弘中证光伏产业指数型发起式证券投资基金",
+      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1830240,
-      "FREE_HOLDNUM_RATIO": 0.569265371194,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1717243,
+      "FREE_HOLDNUM_RATIO": 0.533982782596,
+      "HOLD_NUM_CHANGE": "-1828200",
+      "CHANGE_RATIO": -51.5647833
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "300763.SZ",
       "SECURITY_CODE": "300763",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 130099202,
-      "LIMITED_SHARES": 76604740,
-      "OTHER_UNLIMITED_SHARES": 191409903,
-      "HOLD_NUM_RATIO": 32.68,
-      "LIMITED_SHARES_RATIO": 19.24,
-      "UNLIMITED_SHARES_RATIO": 48.08
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 125708085,
+      "LIMITED_SHARES": 76466790,
+      "OTHER_UNLIMITED_SHARES": 195883370,
+      "HOLD_NUM_RATIO": 31.58,
+      "LIMITED_SHARES_RATIO": 19.21,
+      "UNLIMITED_SHARES_RATIO": 49.21
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300763.SZ",
       "SECURITY_CODE": "300763",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "王一鸣",
       "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 99939822,
-      "HOLD_NUM_RATIO": 25.1,
+      "HOLD_NUM_RATIO": 25.11,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300763.SZ",
       "SECURITY_CODE": "300763",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "锦浪控股有限公司",
+      "HOLDER_NAME": "宁波锦浪控股集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 31319073,
       "HOLD_NUM_RATIO": 7.87,
@@ -652,7 +642,7 @@
     {
       "SECUCODE": "300763.SZ",
       "SECURITY_CODE": "300763",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "林伊蓓",
       "SHARES_TYPE": "流通A股",
@@ -664,7 +654,7 @@
     {
       "SECUCODE": "300763.SZ",
       "SECURITY_CODE": "300763",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "王峻适",
       "SHARES_TYPE": "流通A股",
@@ -676,32 +666,20 @@
     {
       "SECUCODE": "300763.SZ",
       "SECURITY_CODE": "300763",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4716296,
-      "HOLD_NUM_RATIO": 1.18,
-      "HOLD_NUM_CHANGE": "-267544",
-      "CHANGE_RATIO": -5.36823012
+      "HOLD_NUM": 5261572,
+      "HOLD_NUM_RATIO": 1.32,
+      "HOLD_NUM_CHANGE": "131471",
+      "CHANGE_RATIO": 2.56273707
     },
     {
       "SECUCODE": "300763.SZ",
       "SECURITY_CODE": "300763",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国工商银行股份有限公司-易方达创业板交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4714942,
-      "HOLD_NUM_RATIO": 1.18,
-      "HOLD_NUM_CHANGE": "-799530",
-      "CHANGE_RATIO": -14.4987589
-    },
-    {
-      "SECUCODE": "300763.SZ",
-      "SECURITY_CODE": "300763",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "许颇",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4612984,
@@ -712,38 +690,50 @@
     {
       "SECUCODE": "300763.SZ",
       "SECURITY_CODE": "300763",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国工商银行股份有限公司-易方达创业板交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3489343,
-      "HOLD_NUM_RATIO": 0.88,
-      "HOLD_NUM_CHANGE": "-47900",
-      "CHANGE_RATIO": -1.35416198
+      "HOLD_NUM": 2144677,
+      "HOLD_NUM_RATIO": 0.54,
+      "HOLD_NUM_CHANGE": "-2072165",
+      "CHANGE_RATIO": -49.14020966
     },
     {
       "SECUCODE": "300763.SZ",
       "SECURITY_CODE": "300763",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "中国银行股份有限公司-华泰柏瑞中证光伏产业交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2723068,
-      "HOLD_NUM_RATIO": 0.68,
+      "HOLD_NUM": 2059668,
+      "HOLD_NUM_RATIO": 0.52,
+      "HOLD_NUM_CHANGE": "-285600",
+      "CHANGE_RATIO": -12.17771274
+    },
+    {
+      "SECUCODE": "300763.SZ",
+      "SECURITY_CODE": "300763",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "国投证券股份有限公司-易方达国证新能源电池交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1899612,
+      "HOLD_NUM_RATIO": 0.48,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300763.SZ",
       "SECURITY_CODE": "300763",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中信建投证券股份有限公司-天弘中证光伏产业指数型发起式证券投资基金",
+      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1830240,
-      "HOLD_NUM_RATIO": 0.46,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1717243,
+      "HOLD_NUM_RATIO": 0.43,
+      "HOLD_NUM_CHANGE": "-1828200",
+      "CHANGE_RATIO": -51.5647833
     }
   ],
   "jgcc": [
@@ -752,23 +742,67 @@
       "SECURITY_CODE": "300763",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 37,
-      "TOTAL_FREE_SHARES": 9145576,
-      "TOTAL_SHARES_RATIO": 2.84384917,
-      "ALL_SHARES_RATIO": 2.29754721
+      "TOTAL_ORG_NUM": 42,
+      "TOTAL_FREE_SHARES": 51647809,
+      "TOTAL_SHARES_RATIO": 16.06006881,
+      "ALL_SHARES_RATIO": 12.97493766
     },
     {
       "SECUCODE": "300763.SZ",
       "SECURITY_CODE": "300763",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 37,
-      "TOTAL_FREE_SHARES": 9145576,
-      "TOTAL_SHARES_RATIO": 2.84384917,
-      "ALL_SHARES_RATIO": 2.29754721
+      "TOTAL_ORG_NUM": 40,
+      "TOTAL_FREE_SHARES": 15067164,
+      "TOTAL_SHARES_RATIO": 4.6851879,
+      "ALL_SHARES_RATIO": 3.78516569
+    },
+    {
+      "SECUCODE": "300763.SZ",
+      "SECURITY_CODE": "300763",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 36580645,
+      "TOTAL_SHARES_RATIO": 11.37488091,
+      "ALL_SHARES_RATIO": 9.18977197
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300763.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "159915",
+      "HOLDER_NAME": "易方达创业板ETF",
+      "TOTAL_SHARES": 2144677,
+      "HOLD_VALUE": 214253232.3,
+      "TOTALSHARES_RATIO": 0.53878472,
+      "FREESHARES_RATIO": 0.6668949,
+      "FREE_MARKET_CAP": 214253232.3,
+      "FREE_SHARES": 2144677,
+      "SECURITY_CODE": "300763",
+      "FUND_CODE": "159915",
+      "FUND_DERIVECODE": "159915.SZ",
+      "NETVALUE_RATIO": 0.42
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300763.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "515790",
+      "HOLDER_NAME": "华泰柏瑞中证光伏产业ETF",
+      "TOTAL_SHARES": 2059668,
+      "HOLD_VALUE": 205760833.2,
+      "TOTALSHARES_RATIO": 0.5174288,
+      "FREESHARES_RATIO": 0.64046105,
+      "FREE_MARKET_CAP": 205760833.2,
+      "FREE_SHARES": 2059668,
+      "SECURITY_CODE": "300763",
+      "FUND_CODE": "515790",
+      "FUND_DERIVECODE": "515790.SH",
+      "NETVALUE_RATIO": 1.93
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "300763.SZ",
@@ -785,6 +819,23 @@
       "FUND_CODE": "159566",
       "FUND_DERIVECODE": "159566.SZ",
       "NETVALUE_RATIO": 2.6
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300763.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "510500",
+      "HOLDER_NAME": "南方中证500ETF",
+      "TOTAL_SHARES": 1717243,
+      "HOLD_VALUE": 171552575.7,
+      "TOTALSHARES_RATIO": 0.43140496,
+      "FREESHARES_RATIO": 0.53398278,
+      "FREE_MARKET_CAP": 171552575.7,
+      "FREE_SHARES": 1717243,
+      "SECURITY_CODE": "300763",
+      "FUND_CODE": "510500",
+      "FUND_DERIVECODE": "510500.SH",
+      "NETVALUE_RATIO": 0.24
     },
     {
       "ORG_TYPE": "01",

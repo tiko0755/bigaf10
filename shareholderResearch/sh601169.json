@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "601169.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "601169.SH",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "601169.SH",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "601169.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "601169.SH",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "601169.SH",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "601169.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "601169.SH",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "601169.SH",
       "END_DATE": "2025-09-30 00:00:00",
@@ -403,16 +413,6 @@
       "SECUCODE": "601169.SH",
       "END_DATE": "2014-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "601169.SH",
-      "END_DATE": "2014-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "601169.SH",
-      "END_DATE": "2014-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "601169.SH",
       "SECURITY_CODE": "601169",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "ING BANK N.V.",
       "HOLDER_TYPE": "其它",
@@ -486,20 +486,20 @@
     {
       "SECUCODE": "601169.SH",
       "SECURITY_CODE": "601169",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "北京市国有资产经营有限责任公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1942045895,
       "FREE_HOLDNUM_RATIO": 9.185296976132,
-      "HOLD_NUM_CHANGE": "14599935",
-      "CHANGE_RATIO": 0.75747571
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601169.SH",
       "SECURITY_CODE": "601169",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "北京能源集团有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "601169.SH",
       "SECURITY_CODE": "601169",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "信泰人寿保险股份有限公司-自有资金",
       "HOLDER_TYPE": "保险产品",
@@ -525,20 +525,20 @@
     {
       "SECUCODE": "601169.SH",
       "SECURITY_CODE": "601169",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 663280833,
-      "FREE_HOLDNUM_RATIO": 3.13712021192,
-      "HOLD_NUM_CHANGE": "-279394524",
-      "CHANGE_RATIO": -29.63846694
+      "HOLD_NUM": 482095022,
+      "FREE_HOLDNUM_RATIO": 2.280165447781,
+      "HOLD_NUM_CHANGE": "35510404",
+      "CHANGE_RATIO": 7.95155108
     },
     {
       "SECUCODE": "601169.SH",
       "SECURITY_CODE": "601169",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "三峡资本控股有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -551,7 +551,7 @@
     {
       "SECUCODE": "601169.SH",
       "SECURITY_CODE": "601169",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "中国长江三峡集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -564,7 +564,7 @@
     {
       "SECUCODE": "601169.SH",
       "SECURITY_CODE": "601169",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "北京联东投资(集团)有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -577,26 +577,26 @@
     {
       "SECUCODE": "601169.SH",
       "SECURITY_CODE": "601169",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国证券金融股份有限公司",
-      "HOLDER_TYPE": "证券公司",
+      "HOLDER_NAME": "北京首农食品集团有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 324032671,
-      "FREE_HOLDNUM_RATIO": 1.53257774225,
+      "HOLD_NUM": 260488420,
+      "FREE_HOLDNUM_RATIO": 1.23203241628,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601169.SH",
       "SECURITY_CODE": "601169",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "北京首农食品集团有限公司",
-      "HOLDER_TYPE": "其它",
+      "HOLDER_NAME": "泰富德投资集团有限公司",
+      "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 260488420,
-      "FREE_HOLDNUM_RATIO": 1.23203241628,
+      "HOLD_NUM": 257789978,
+      "FREE_HOLDNUM_RATIO": 1.21926959167,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "601169.SH",
       "SECURITY_CODE": "601169",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 9932146996,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 9684718492,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 11210837276,
-      "HOLD_NUM_RATIO": 46.98,
+      "OTHER_UNLIMITED_SHARES": 11458265780,
+      "HOLD_NUM_RATIO": 45.81,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 53.02
+      "UNLIMITED_SHARES_RATIO": 54.19
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "601169.SH",
       "SECURITY_CODE": "601169",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "ING BANK N.V.",
       "SHARES_TYPE": "流通A股",
@@ -630,19 +630,19 @@
     {
       "SECUCODE": "601169.SH",
       "SECURITY_CODE": "601169",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "北京市国有资产经营有限责任公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1942045895,
       "HOLD_NUM_RATIO": 9.19,
-      "HOLD_NUM_CHANGE": "14599935",
-      "CHANGE_RATIO": 0.75747571
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601169.SH",
       "SECURITY_CODE": "601169",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "北京能源集团有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "601169.SH",
       "SECURITY_CODE": "601169",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "信泰人寿保险股份有限公司-自有资金",
       "SHARES_TYPE": "流通A股",
@@ -666,19 +666,19 @@
     {
       "SECUCODE": "601169.SH",
       "SECURITY_CODE": "601169",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 663280833,
-      "HOLD_NUM_RATIO": 3.14,
-      "HOLD_NUM_CHANGE": "-279394524",
-      "CHANGE_RATIO": -29.63846694
+      "HOLD_NUM": 482095022,
+      "HOLD_NUM_RATIO": 2.28,
+      "HOLD_NUM_CHANGE": "35510404",
+      "CHANGE_RATIO": 7.95155108
     },
     {
       "SECUCODE": "601169.SH",
       "SECURITY_CODE": "601169",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "三峡资本控股有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -690,7 +690,7 @@
     {
       "SECUCODE": "601169.SH",
       "SECURITY_CODE": "601169",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "中国长江三峡集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -702,7 +702,7 @@
     {
       "SECUCODE": "601169.SH",
       "SECURITY_CODE": "601169",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "北京联东投资(集团)有限公司",
       "SHARES_TYPE": "流通A股",
@@ -714,24 +714,24 @@
     {
       "SECUCODE": "601169.SH",
       "SECURITY_CODE": "601169",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国证券金融股份有限公司",
+      "HOLDER_NAME": "北京首农食品集团有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 324032671,
-      "HOLD_NUM_RATIO": 1.53,
+      "HOLD_NUM": 260488420,
+      "HOLD_NUM_RATIO": 1.23,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601169.SH",
       "SECURITY_CODE": "601169",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "北京首农食品集团有限公司",
+      "HOLDER_NAME": "泰富德投资集团有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 260488420,
-      "HOLD_NUM_RATIO": 1.23,
+      "HOLD_NUM": 257789978,
+      "HOLD_NUM_RATIO": 1.22,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "601169",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 25,
-      "TOTAL_FREE_SHARES": 108931176,
-      "TOTAL_SHARES_RATIO": 0.51521193,
-      "ALL_SHARES_RATIO": 0.51521193
+      "TOTAL_ORG_NUM": 35,
+      "TOTAL_FREE_SHARES": 9793649668,
+      "TOTAL_SHARES_RATIO": 46.32103749,
+      "ALL_SHARES_RATIO": 46.32103749
     },
     {
       "SECUCODE": "601169.SH",
@@ -756,6 +756,26 @@
       "TOTAL_FREE_SHARES": 108931176,
       "TOTAL_SHARES_RATIO": 0.51521193,
       "ALL_SHARES_RATIO": 0.51521193
+    },
+    {
+      "SECUCODE": "601169.SH",
+      "SECURITY_CODE": "601169",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "05",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 993500888,
+      "TOTAL_SHARES_RATIO": 4.69896243,
+      "ALL_SHARES_RATIO": 4.69896243
+    },
+    {
+      "SECUCODE": "601169.SH",
+      "SECURITY_CODE": "601169",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 9,
+      "TOTAL_FREE_SHARES": 8691217604,
+      "TOTAL_SHARES_RATIO": 41.10686313,
+      "ALL_SHARES_RATIO": 41.10686313
     }
   ],
   "jjcg": [

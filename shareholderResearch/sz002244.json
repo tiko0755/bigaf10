@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 9.76,
       "AVG_HOLD_AMT": 910568.784328585,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 69.56150574,
+      "FREEHOLD_RATIO_TOTAL": 65.67036331
     },
     {
       "SECUCODE": "002244.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002244.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002244.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002244.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002244.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002244.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002244.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002244.SZ",
       "END_DATE": "2019-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002244.SZ",
-      "END_DATE": "2018-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "002244.SZ",
       "SECURITY_CODE": "002244",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "杭州滨江投资控股有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "002244.SZ",
       "SECURITY_CODE": "002244",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "戚金兴",
       "HOLDER_TYPE": "个人",
@@ -499,46 +499,46 @@
     {
       "SECUCODE": "002244.SZ",
       "SECURITY_CODE": "002244",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "朱慧明",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 91070500,
-      "FREE_HOLDNUM_RATIO": 3.302588232202,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 91320500,
+      "FREE_HOLDNUM_RATIO": 3.31165425312,
+      "HOLD_NUM_CHANGE": "250000",
+      "CHANGE_RATIO": 0.2745126
     },
     {
       "SECUCODE": "002244.SZ",
       "SECURITY_CODE": "002244",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 48501928,
-      "FREE_HOLDNUM_RATIO": 1.758877975326,
-      "HOLD_NUM_CHANGE": "1623749",
-      "CHANGE_RATIO": 3.46376296
-    },
-    {
-      "SECUCODE": "002244.SZ",
-      "SECURITY_CODE": "002244",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国工商银行股份有限公司-富国天惠精选成长混合型证券投资基金(LOF)",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 40000000,
-      "FREE_HOLDNUM_RATIO": 1.450563346946,
-      "HOLD_NUM_CHANGE": "-10000000",
-      "CHANGE_RATIO": -20
+      "HOLD_NUM": 35000010,
+      "FREE_HOLDNUM_RATIO": 1.269243291219,
+      "HOLD_NUM_CHANGE": "-4999990",
+      "CHANGE_RATIO": -12.499975
     },
     {
       "SECUCODE": "002244.SZ",
       "SECURITY_CODE": "002244",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 34586668,
+      "FREE_HOLDNUM_RATIO": 1.254253822345,
+      "HOLD_NUM_CHANGE": "-13915260",
+      "CHANGE_RATIO": -28.69011723
+    },
+    {
+      "SECUCODE": "002244.SZ",
+      "SECURITY_CODE": "002244",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "戚加奇",
       "HOLDER_TYPE": "个人",
@@ -551,8 +551,21 @@
     {
       "SECUCODE": "002244.SZ",
       "SECURITY_CODE": "002244",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "招商银行股份有限公司-工银瑞信价值精选混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 30217170,
+      "FREE_HOLDNUM_RATIO": 1.095797981261,
+      "HOLD_NUM_CHANGE": "2236700",
+      "CHANGE_RATIO": 7.99378995
+    },
+    {
+      "SECUCODE": "002244.SZ",
+      "SECURITY_CODE": "002244",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "珠海阿巴马私募基金投资管理有限公司-阿巴马元享红利71号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
@@ -564,8 +577,8 @@
     {
       "SECUCODE": "002244.SZ",
       "SECURITY_CODE": "002244",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "中央汇金资产管理有限责任公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -577,26 +590,13 @@
     {
       "SECUCODE": "002244.SZ",
       "SECURITY_CODE": "002244",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "招商银行股份有限公司-工银瑞信价值精选混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 27980470,
-      "FREE_HOLDNUM_RATIO": 1.014686105308,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002244.SZ",
-      "SECURITY_CODE": "002244",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "瑞众人寿保险有限责任公司-自有资金",
-      "HOLDER_TYPE": "保险产品",
+      "HOLDER_NAME": "嘉实基金管理有限公司-社保基金16042组合",
+      "HOLDER_TYPE": "全国社保基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 25263000,
-      "FREE_HOLDNUM_RATIO": 0.916139545848,
+      "HOLD_NUM": 25485200,
+      "FREE_HOLDNUM_RATIO": 0.92419742524,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "002244.SZ",
       "SECURITY_CODE": "002244",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 1827099020,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 1810892670,
       "LIMITED_SHARES": 353894550,
-      "OTHER_UNLIMITED_SHARES": 930450320,
-      "HOLD_NUM_RATIO": 58.72,
+      "OTHER_UNLIMITED_SHARES": 946656670,
+      "HOLD_NUM_RATIO": 58.2,
       "LIMITED_SHARES_RATIO": 11.37,
-      "UNLIMITED_SHARES_RATIO": 29.9
+      "UNLIMITED_SHARES_RATIO": 30.42
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002244.SZ",
       "SECURITY_CODE": "002244",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "杭州滨江投资控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "002244.SZ",
       "SECURITY_CODE": "002244",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "戚金兴",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "002244.SZ",
       "SECURITY_CODE": "002244",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "莫建华",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -654,43 +654,43 @@
     {
       "SECUCODE": "002244.SZ",
       "SECURITY_CODE": "002244",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "朱慧明",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 91070500,
+      "HOLD_NUM": 91320500,
       "HOLD_NUM_RATIO": 2.93,
-      "HOLD_NUM_CHANGE": "-1462800",
-      "CHANGE_RATIO": -1.5808363
+      "HOLD_NUM_CHANGE": "250000",
+      "CHANGE_RATIO": 0.2745126
     },
     {
       "SECUCODE": "002244.SZ",
       "SECURITY_CODE": "002244",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 48501928,
-      "HOLD_NUM_RATIO": 1.56,
-      "HOLD_NUM_CHANGE": "1623749",
-      "CHANGE_RATIO": 3.46376296
-    },
-    {
-      "SECUCODE": "002244.SZ",
-      "SECURITY_CODE": "002244",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "中国工商银行股份有限公司-富国天惠精选成长混合型证券投资基金(LOF)",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 40000000,
-      "HOLD_NUM_RATIO": 1.29,
-      "HOLD_NUM_CHANGE": "-10000000",
-      "CHANGE_RATIO": -20
+      "HOLD_NUM": 35000010,
+      "HOLD_NUM_RATIO": 1.12,
+      "HOLD_NUM_CHANGE": "-4999990",
+      "CHANGE_RATIO": -12.499975
     },
     {
       "SECUCODE": "002244.SZ",
       "SECURITY_CODE": "002244",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 34586668,
+      "HOLD_NUM_RATIO": 1.11,
+      "HOLD_NUM_CHANGE": "-13915260",
+      "CHANGE_RATIO": -28.69011723
+    },
+    {
+      "SECUCODE": "002244.SZ",
+      "SECURITY_CODE": "002244",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "戚加奇",
       "SHARES_TYPE": "流通A股",
@@ -702,8 +702,20 @@
     {
       "SECUCODE": "002244.SZ",
       "SECURITY_CODE": "002244",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "招商银行股份有限公司-工银瑞信价值精选混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 30217170,
+      "HOLD_NUM_RATIO": 0.97,
+      "HOLD_NUM_CHANGE": "2236700",
+      "CHANGE_RATIO": 7.99378995
+    },
+    {
+      "SECUCODE": "002244.SZ",
+      "SECURITY_CODE": "002244",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "珠海阿巴马私募基金投资管理有限公司-阿巴马元享红利71号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 28880000,
@@ -714,25 +726,13 @@
     {
       "SECUCODE": "002244.SZ",
       "SECURITY_CODE": "002244",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "中央汇金资产管理有限责任公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 28450600,
       "HOLD_NUM_RATIO": 0.91,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002244.SZ",
-      "SECURITY_CODE": "002244",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "招商银行股份有限公司-工银瑞信价值精选混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 27980470,
-      "HOLD_NUM_RATIO": 0.9,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -742,23 +742,77 @@
       "SECURITY_CODE": "002244",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 47,
-      "TOTAL_FREE_SHARES": 105068142,
-      "TOTAL_SHARES_RATIO": 3.81019994,
-      "ALL_SHARES_RATIO": 3.37682904
+      "TOTAL_ORG_NUM": 54,
+      "TOTAL_FREE_SHARES": 1700700662,
+      "TOTAL_SHARES_RATIO": 61.67435116,
+      "ALL_SHARES_RATIO": 54.65953175
     },
     {
       "SECUCODE": "002244.SZ",
       "SECURITY_CODE": "002244",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 47,
-      "TOTAL_FREE_SHARES": 105068142,
-      "TOTAL_SHARES_RATIO": 3.81019994,
-      "ALL_SHARES_RATIO": 3.37682904
+      "TOTAL_ORG_NUM": 49,
+      "TOTAL_FREE_SHARES": 170285322,
+      "TOTAL_SHARES_RATIO": 6.17524121,
+      "ALL_SHARES_RATIO": 5.47287134
+    },
+    {
+      "SECUCODE": "002244.SZ",
+      "SECURITY_CODE": "002244",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 25485200,
+      "TOTAL_SHARES_RATIO": 0.92419743,
+      "ALL_SHARES_RATIO": 0.81907953
+    },
+    {
+      "SECUCODE": "002244.SZ",
+      "SECURITY_CODE": "002244",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 1504930140,
+      "TOTAL_SHARES_RATIO": 54.57491252,
+      "ALL_SHARES_RATIO": 48.36758088
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002244.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "161005",
+      "HOLDER_NAME": "富国天惠成长混合(LOF)A",
+      "TOTAL_SHARES": 35000010,
+      "HOLD_VALUE": 341600097.6,
+      "TOTALSHARES_RATIO": 1.12488,
+      "FREESHARES_RATIO": 1.26924329,
+      "FREE_MARKET_CAP": 341600097.6,
+      "FREE_SHARES": 35000010,
+      "SECURITY_CODE": "002244",
+      "FUND_CODE": "161005",
+      "FUND_DERIVECODE": "161005.SZ",
+      "NETVALUE_RATIO": 1.84
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002244.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "019085",
+      "HOLDER_NAME": "工银价值精选混合A",
+      "TOTAL_SHARES": 30217170,
+      "HOLD_VALUE": 294919579.2,
+      "TOTALSHARES_RATIO": 0.9711623,
+      "FREESHARES_RATIO": 1.09579798,
+      "FREE_MARKET_CAP": 294919579.2,
+      "FREE_SHARES": 30217170,
+      "SECURITY_CODE": "002244",
+      "FUND_CODE": "019085",
+      "FUND_DERIVECODE": "019085.OF",
+      "NETVALUE_RATIO": 3.1
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "002244.SZ",

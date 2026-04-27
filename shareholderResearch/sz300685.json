@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 22.45,
       "AVG_HOLD_AMT": 298864.837132654,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 41.06761035,
+      "FREEHOLD_RATIO_TOTAL": 41.27424409
     },
     {
       "SECUCODE": "300685.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300685.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300685.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300685.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300685.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300685.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300685.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "300685.SZ",
       "END_DATE": "2019-05-14 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300685.SZ",
-      "END_DATE": "2019-05-13 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -445,85 +445,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-11-03 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 31394756,
-      "HOLD_NUM_RATIO": 8.02,
-      "HOLD_CHANGE": "324814",
-      "CHANGE_RATIO": 1.04542841,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-03 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国银行股份有限公司-华宝中证医疗交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7964200,
-      "HOLD_NUM_RATIO": 2.03,
-      "HOLD_CHANGE": "-97800",
-      "CHANGE_RATIO": -1.21309849,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-03 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "宋宁",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3510900,
-      "HOLD_NUM_RATIO": 0.9,
-      "HOLD_CHANGE": "70900",
-      "CHANGE_RATIO": 2.06104651,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-24 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 31069942,
-      "HOLD_NUM_RATIO": 7.94,
-      "HOLD_CHANGE": "-4319240",
-      "CHANGE_RATIO": -12.20497269,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-24 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国银行股份有限公司-华宝中证医疗交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8062000,
-      "HOLD_NUM_RATIO": 2.06,
-      "HOLD_CHANGE": "359800",
-      "CHANGE_RATIO": 4.67139259,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-24 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "宋宁",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3440000,
-      "HOLD_NUM_RATIO": 0.88,
-      "HOLD_CHANGE": "890000",
-      "CHANGE_RATIO": 34.90196078,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-24 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "林作华",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3393263,
-      "HOLD_NUM_RATIO": 0.87,
-      "HOLD_CHANGE": "387000",
-      "CHANGE_RATIO": 12.87312521,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "300685.SZ",
@@ -551,7 +473,7 @@
     {
       "SECUCODE": "300685.SZ",
       "SECURITY_CODE": "300685",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "前瞻投资(香港)有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -564,33 +486,33 @@
     {
       "SECUCODE": "300685.SZ",
       "SECURITY_CODE": "300685",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 21221098,
-      "FREE_HOLDNUM_RATIO": 5.447229672965,
-      "HOLD_NUM_CHANGE": "-10173658",
-      "CHANGE_RATIO": -32.40559665
+      "HOLD_NUM": 27039733,
+      "FREE_HOLDNUM_RATIO": 6.940811259939,
+      "HOLD_NUM_CHANGE": "5818635",
+      "CHANGE_RATIO": 27.41910433
     },
     {
       "SECUCODE": "300685.SZ",
       "SECURITY_CODE": "300685",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "厦门科英投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 15940946,
-      "FREE_HOLDNUM_RATIO": 4.091870932708,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 11165846,
+      "FREE_HOLDNUM_RATIO": 2.866153657787,
+      "HOLD_NUM_CHANGE": "-4775100",
+      "CHANGE_RATIO": -29.95493492
     },
     {
       "SECUCODE": "300685.SZ",
       "SECURITY_CODE": "300685",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "宁波屹祥自有资金投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -603,33 +525,33 @@
     {
       "SECUCODE": "300685.SZ",
       "SECURITY_CODE": "300685",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "林作华",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4889063,
-      "FREE_HOLDNUM_RATIO": 1.254970362353,
-      "HOLD_NUM_CHANGE": "1495800",
-      "CHANGE_RATIO": 44.08146377
+      "HOLD_NUM": 7220563,
+      "FREE_HOLDNUM_RATIO": 1.853441562219,
+      "HOLD_NUM_CHANGE": "2331500",
+      "CHANGE_RATIO": 47.68807438
     },
     {
       "SECUCODE": "300685.SZ",
       "SECURITY_CODE": "300685",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "宋宁",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 4550000,
       "FREE_HOLDNUM_RATIO": 1.167936504133,
-      "HOLD_NUM_CHANGE": "1039100",
-      "CHANGE_RATIO": 29.59639978
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300685.SZ",
       "SECURITY_CODE": "300685",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "厦门市海沧区润鼎盛投资合伙企业(普通合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -642,61 +564,61 @@
     {
       "SECUCODE": "300685.SZ",
       "SECURITY_CODE": "300685",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中信证券股份有限公司-社保基金17052组合",
+      "HOLDER_TYPE": "全国社保基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4088644,
+      "FREE_HOLDNUM_RATIO": 1.049511336265,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300685.SZ",
+      "SECURITY_CODE": "300685",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "杜洪海",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3560000,
+      "FREE_HOLDNUM_RATIO": 0.913814055981,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300685.SZ",
+      "SECURITY_CODE": "300685",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "泰康人寿保险有限责任公司-分红-个人分红-019L-FH002深",
       "HOLDER_TYPE": "保险产品",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3375290,
-      "FREE_HOLDNUM_RATIO": 0.8664009677,
-      "HOLD_NUM_CHANGE": "553910",
-      "CHANGE_RATIO": 19.63259114
-    },
-    {
-      "SECUCODE": "300685.SZ",
-      "SECURITY_CODE": "300685",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2875844,
-      "FREE_HOLDNUM_RATIO": 0.738198502812,
-      "HOLD_NUM_CHANGE": "367000",
-      "CHANGE_RATIO": 14.6282511
-    },
-    {
-      "SECUCODE": "300685.SZ",
-      "SECURITY_CODE": "300685",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "基本养老保险基金一二零四组合",
-      "HOLDER_TYPE": "基本养老基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2542800,
-      "FREE_HOLDNUM_RATIO": 0.652709657739,
-      "HOLD_NUM_CHANGE": "-222000",
-      "CHANGE_RATIO": -8.02951389
+      "HOLD_NUM": 2638410,
+      "FREE_HOLDNUM_RATIO": 0.677251725686,
+      "HOLD_NUM_CHANGE": "-736880",
+      "CHANGE_RATIO": -21.83160558
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "300685.SZ",
       "SECURITY_CODE": "300685",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 155926383,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 160794538,
       "LIMITED_SHARES": 1960171,
-      "OTHER_UNLIMITED_SHARES": 233649590,
-      "HOLD_NUM_RATIO": 39.82,
+      "OTHER_UNLIMITED_SHARES": 228781435,
+      "HOLD_NUM_RATIO": 41.07,
       "LIMITED_SHARES_RATIO": 0.5,
-      "UNLIMITED_SHARES_RATIO": 59.68
+      "UNLIMITED_SHARES_RATIO": 58.43
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300685.SZ",
       "SECURITY_CODE": "300685",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "前瞻投资(香港)有限公司",
       "SHARES_TYPE": "流通A股",
@@ -708,31 +630,31 @@
     {
       "SECUCODE": "300685.SZ",
       "SECURITY_CODE": "300685",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 21221098,
-      "HOLD_NUM_RATIO": 5.42,
-      "HOLD_NUM_CHANGE": "-10173658",
-      "CHANGE_RATIO": -32.40559665
+      "HOLD_NUM": 27039733,
+      "HOLD_NUM_RATIO": 6.91,
+      "HOLD_NUM_CHANGE": "5818635",
+      "CHANGE_RATIO": 27.41910433
     },
     {
       "SECUCODE": "300685.SZ",
       "SECURITY_CODE": "300685",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "厦门科英投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 15940946,
-      "HOLD_NUM_RATIO": 4.07,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 11165846,
+      "HOLD_NUM_RATIO": 2.85,
+      "HOLD_NUM_CHANGE": "-4775100",
+      "CHANGE_RATIO": -29.95493492
     },
     {
       "SECUCODE": "300685.SZ",
       "SECURITY_CODE": "300685",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "宁波屹祥自有资金投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -744,31 +666,31 @@
     {
       "SECUCODE": "300685.SZ",
       "SECURITY_CODE": "300685",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "林作华",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4889063,
-      "HOLD_NUM_RATIO": 1.25,
-      "HOLD_NUM_CHANGE": "1495800",
-      "CHANGE_RATIO": 44.08146377
+      "HOLD_NUM": 7220563,
+      "HOLD_NUM_RATIO": 1.84,
+      "HOLD_NUM_CHANGE": "2331500",
+      "CHANGE_RATIO": 47.68807438
     },
     {
       "SECUCODE": "300685.SZ",
       "SECURITY_CODE": "300685",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "宋宁",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4550000,
       "HOLD_NUM_RATIO": 1.16,
-      "HOLD_NUM_CHANGE": "1039100",
-      "CHANGE_RATIO": 29.59639978
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300685.SZ",
       "SECURITY_CODE": "300685",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "厦门市海沧区润鼎盛投资合伙企业(普通合伙)",
       "SHARES_TYPE": "流通A股",
@@ -780,38 +702,38 @@
     {
       "SECUCODE": "300685.SZ",
       "SECURITY_CODE": "300685",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中信证券股份有限公司-社保基金17052组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4088644,
+      "HOLD_NUM_RATIO": 1.04,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300685.SZ",
+      "SECURITY_CODE": "300685",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "杜洪海",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3560000,
+      "HOLD_NUM_RATIO": 0.91,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300685.SZ",
+      "SECURITY_CODE": "300685",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "泰康人寿保险有限责任公司-分红-个人分红-019L-FH002深",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3375290,
-      "HOLD_NUM_RATIO": 0.86,
-      "HOLD_NUM_CHANGE": "553910",
-      "CHANGE_RATIO": 19.63259114
-    },
-    {
-      "SECUCODE": "300685.SZ",
-      "SECURITY_CODE": "300685",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2875844,
-      "HOLD_NUM_RATIO": 0.73,
-      "HOLD_NUM_CHANGE": "367000",
-      "CHANGE_RATIO": 14.6282511
-    },
-    {
-      "SECUCODE": "300685.SZ",
-      "SECURITY_CODE": "300685",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "基本养老保险基金一二零四组合",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2542800,
-      "HOLD_NUM_RATIO": 0.65,
-      "HOLD_NUM_CHANGE": "-222000",
-      "CHANGE_RATIO": -8.02951389
+      "HOLD_NUM": 2638410,
+      "HOLD_NUM_RATIO": 0.67,
+      "HOLD_NUM_CHANGE": "-736880",
+      "CHANGE_RATIO": -21.83160558
     }
   ],
   "jgcc": [
@@ -820,10 +742,10 @@
       "SECURITY_CODE": "300685",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 8,
-      "TOTAL_FREE_SHARES": 1253500,
-      "TOTAL_SHARES_RATIO": 0.32176009,
-      "ALL_SHARES_RATIO": 0.32014924
+      "TOTAL_ORG_NUM": 15,
+      "TOTAL_FREE_SHARES": 146717475,
+      "TOTAL_SHARES_RATIO": 37.66081207,
+      "ALL_SHARES_RATIO": 37.47226845
     },
     {
       "SECUCODE": "300685.SZ",
@@ -834,6 +756,36 @@
       "TOTAL_FREE_SHARES": 1253500,
       "TOTAL_SHARES_RATIO": 0.32176009,
       "ALL_SHARES_RATIO": 0.32014924
+    },
+    {
+      "SECUCODE": "300685.SZ",
+      "SECURITY_CODE": "300685",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 4088644,
+      "TOTAL_SHARES_RATIO": 1.04951134,
+      "ALL_SHARES_RATIO": 1.0442571
+    },
+    {
+      "SECUCODE": "300685.SZ",
+      "SECURITY_CODE": "300685",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "05",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 2638410,
+      "TOTAL_SHARES_RATIO": 0.67725173,
+      "ALL_SHARES_RATIO": 0.67386116
+    },
+    {
+      "SECUCODE": "300685.SZ",
+      "SECURITY_CODE": "300685",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 138736921,
+      "TOTAL_SHARES_RATIO": 35.61228891,
+      "ALL_SHARES_RATIO": 35.43400095
     }
   ],
   "jjcg": [

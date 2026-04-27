@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 37.08,
       "AVG_HOLD_AMT": 215597.538860529,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 41.52593524,
+      "FREEHOLD_RATIO_TOTAL": 41.64693073
     },
     {
       "SECUCODE": "300671.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300671.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300671.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300671.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300671.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300671.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300671.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "300671.SZ",
       "END_DATE": "2020-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "300671.SZ",
-      "END_DATE": "2020-12-24 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "300671.SZ",
       "SECURITY_CODE": "300671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "集晶(香港)有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,33 +486,33 @@
     {
       "SECUCODE": "300671.SZ",
       "SECURITY_CODE": "300671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "李新岗",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6220000,
-      "FREE_HOLDNUM_RATIO": 2.81775291064,
-      "HOLD_NUM_CHANGE": "-61200",
-      "CHANGE_RATIO": -0.97433611
+      "HOLD_NUM": 6230000,
+      "FREE_HOLDNUM_RATIO": 2.822283060014,
+      "HOLD_NUM_CHANGE": "10000",
+      "CHANGE_RATIO": 0.1607717
     },
     {
       "SECUCODE": "300671.SZ",
       "SECURITY_CODE": "300671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "吴晓虹",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2857488,
-      "FREE_HOLDNUM_RATIO": 1.294484747447,
-      "HOLD_NUM_CHANGE": "100000",
-      "CHANGE_RATIO": 3.62648904
+      "HOLD_NUM": 3646988,
+      "FREE_HOLDNUM_RATIO": 1.652140040526,
+      "HOLD_NUM_CHANGE": "789500",
+      "CHANGE_RATIO": 27.6291624
     },
     {
       "SECUCODE": "300671.SZ",
       "SECURITY_CODE": "300671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "霍鹏冲",
       "HOLDER_TYPE": "个人",
@@ -525,8 +525,21 @@
     {
       "SECUCODE": "300671.SZ",
       "SECURITY_CODE": "300671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2488913,
+      "FREE_HOLDNUM_RATIO": 1.127514766894,
+      "HOLD_NUM_CHANGE": "1054300",
+      "CHANGE_RATIO": 73.49020258
+    },
+    {
+      "SECUCODE": "300671.SZ",
+      "SECURITY_CODE": "300671",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "肖玲",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -538,20 +551,7 @@
     {
       "SECUCODE": "300671.SZ",
       "SECURITY_CODE": "300671",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "康云",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1785000,
-      "FREE_HOLDNUM_RATIO": 0.808631663263,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300671.SZ",
-      "SECURITY_CODE": "300671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "张亚飞",
       "HOLDER_TYPE": "个人",
@@ -564,61 +564,61 @@
     {
       "SECUCODE": "300671.SZ",
       "SECURITY_CODE": "300671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "刁云景",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1600000,
-      "FREE_HOLDNUM_RATIO": 0.724823899843,
-      "HOLD_NUM_CHANGE": "180000",
-      "CHANGE_RATIO": 12.67605634
+      "HOLD_NUM": 1467800,
+      "FREE_HOLDNUM_RATIO": 0.664935325119,
+      "HOLD_NUM_CHANGE": "-132200",
+      "CHANGE_RATIO": -8.2625
     },
     {
       "SECUCODE": "300671.SZ",
       "SECURITY_CODE": "300671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "项丽君",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1437800,
-      "FREE_HOLDNUM_RATIO": 0.651344876997,
-      "HOLD_NUM_CHANGE": "75000",
-      "CHANGE_RATIO": 5.5033754
+      "HOLD_NUM": 1411400,
+      "FREE_HOLDNUM_RATIO": 0.639385282649,
+      "HOLD_NUM_CHANGE": "-26400",
+      "CHANGE_RATIO": -1.83613854
     },
     {
       "SECUCODE": "300671.SZ",
       "SECURITY_CODE": "300671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
+      "HOLDER_NAME": "上海理成资产管理有限公司-理成风景1号投资基金",
+      "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1434613,
-      "FREE_HOLDNUM_RATIO": 0.649901118391,
-      "HOLD_NUM_CHANGE": "-315727",
-      "CHANGE_RATIO": -18.03803832
+      "HOLD_NUM": 1340000,
+      "FREE_HOLDNUM_RATIO": 0.607040016119,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "300671.SZ",
       "SECURITY_CODE": "300671",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 90682598,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 91932798,
       "LIMITED_SHARES": 643187,
-      "OTHER_UNLIMITED_SHARES": 130060675,
-      "HOLD_NUM_RATIO": 40.96,
+      "OTHER_UNLIMITED_SHARES": 128810475,
+      "HOLD_NUM_RATIO": 41.53,
       "LIMITED_SHARES_RATIO": 0.29,
-      "UNLIMITED_SHARES_RATIO": 58.75
+      "UNLIMITED_SHARES_RATIO": 58.18
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300671.SZ",
       "SECURITY_CODE": "300671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "集晶(香港)有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,31 +630,31 @@
     {
       "SECUCODE": "300671.SZ",
       "SECURITY_CODE": "300671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "李新岗",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6220000,
+      "HOLD_NUM": 6230000,
       "HOLD_NUM_RATIO": 2.81,
-      "HOLD_NUM_CHANGE": "-61200",
-      "CHANGE_RATIO": -0.97433611
+      "HOLD_NUM_CHANGE": "10000",
+      "CHANGE_RATIO": 0.1607717
     },
     {
       "SECUCODE": "300671.SZ",
       "SECURITY_CODE": "300671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "吴晓虹",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2857488,
-      "HOLD_NUM_RATIO": 1.29,
-      "HOLD_NUM_CHANGE": "100000",
-      "CHANGE_RATIO": 3.62648904
+      "HOLD_NUM": 3646988,
+      "HOLD_NUM_RATIO": 1.65,
+      "HOLD_NUM_CHANGE": "789500",
+      "CHANGE_RATIO": 27.6291624
     },
     {
       "SECUCODE": "300671.SZ",
       "SECURITY_CODE": "300671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "霍鹏冲",
       "SHARES_TYPE": "流通A股",
@@ -666,8 +666,20 @@
     {
       "SECUCODE": "300671.SZ",
       "SECURITY_CODE": "300671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2488913,
+      "HOLD_NUM_RATIO": 1.12,
+      "HOLD_NUM_CHANGE": "1054300",
+      "CHANGE_RATIO": 73.49020258
+    },
+    {
+      "SECUCODE": "300671.SZ",
+      "SECURITY_CODE": "300671",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "肖玲",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2218990,
@@ -678,19 +690,7 @@
     {
       "SECUCODE": "300671.SZ",
       "SECURITY_CODE": "300671",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "康云",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1785000,
-      "HOLD_NUM_RATIO": 0.81,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300671.SZ",
-      "SECURITY_CODE": "300671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "张亚飞",
       "SHARES_TYPE": "流通A股",
@@ -702,38 +702,38 @@
     {
       "SECUCODE": "300671.SZ",
       "SECURITY_CODE": "300671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "刁云景",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1600000,
-      "HOLD_NUM_RATIO": 0.72,
-      "HOLD_NUM_CHANGE": "180000",
-      "CHANGE_RATIO": 12.67605634
+      "HOLD_NUM": 1467800,
+      "HOLD_NUM_RATIO": 0.66,
+      "HOLD_NUM_CHANGE": "-132200",
+      "CHANGE_RATIO": -8.2625
     },
     {
       "SECUCODE": "300671.SZ",
       "SECURITY_CODE": "300671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "项丽君",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1437800,
-      "HOLD_NUM_RATIO": 0.65,
-      "HOLD_NUM_CHANGE": "75000",
-      "CHANGE_RATIO": 5.5033754
+      "HOLD_NUM": 1411400,
+      "HOLD_NUM_RATIO": 0.64,
+      "HOLD_NUM_CHANGE": "-26400",
+      "CHANGE_RATIO": -1.83613854
     },
     {
       "SECUCODE": "300671.SZ",
       "SECURITY_CODE": "300671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_NAME": "上海理成资产管理有限公司-理成风景1号投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1434613,
-      "HOLD_NUM_RATIO": 0.65,
-      "HOLD_NUM_CHANGE": "-315727",
-      "CHANGE_RATIO": -18.03803832
+      "HOLD_NUM": 1340000,
+      "HOLD_NUM_RATIO": 0.61,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "300671",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 923200,
-      "TOTAL_SHARES_RATIO": 0.41822339,
-      "ALL_SHARES_RATIO": 0.41700834
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 73662156,
+      "TOTAL_SHARES_RATIO": 33.370057,
+      "ALL_SHARES_RATIO": 33.27310802
     },
     {
       "SECUCODE": "300671.SZ",
@@ -756,6 +756,16 @@
       "TOTAL_FREE_SHARES": 923200,
       "TOTAL_SHARES_RATIO": 0.41822339,
       "ALL_SHARES_RATIO": 0.41700834
+    },
+    {
+      "SECUCODE": "300671.SZ",
+      "SECURITY_CODE": "300671",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 72738956,
+      "TOTAL_SHARES_RATIO": 32.95183361,
+      "ALL_SHARES_RATIO": 32.85609968
     }
   ],
   "jjcg": [

@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 14.62,
       "AVG_HOLD_AMT": 105302.802413294,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 47.60371146,
+      "FREEHOLD_RATIO_TOTAL": 24.39085274
     },
     {
       "SECUCODE": "002823.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002823.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002823.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002823.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002823.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002823.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002823.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002823.SZ",
       "END_DATE": "2018-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002823.SZ",
-      "END_DATE": "2017-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "002823.SZ",
       "SECURITY_CODE": "002823",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "张浩宇",
       "HOLDER_TYPE": "个人",
@@ -486,20 +486,20 @@
     {
       "SECUCODE": "002823.SZ",
       "SECURITY_CODE": "002823",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "吴瑛",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9896239,
-      "FREE_HOLDNUM_RATIO": 4.521129205887,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 14799310,
+      "FREE_HOLDNUM_RATIO": 6.761113254032,
+      "HOLD_NUM_CHANGE": "4903071",
+      "CHANGE_RATIO": 49.54479171
     },
     {
       "SECUCODE": "002823.SZ",
       "SECURITY_CODE": "002823",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "建信信托12860号",
       "HOLDER_TYPE": "信托计划",
@@ -512,73 +512,86 @@
     {
       "SECUCODE": "002823.SZ",
       "SECURITY_CODE": "002823",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1642695,
-      "FREE_HOLDNUM_RATIO": 0.750470591996,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 4353703,
+      "FREE_HOLDNUM_RATIO": 1.98900347769,
+      "HOLD_NUM_CHANGE": "2711008",
+      "CHANGE_RATIO": 165.03416642
     },
     {
       "SECUCODE": "002823.SZ",
       "SECURITY_CODE": "002823",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "壹点纳锦(泉州)私募基金管理有限公司-壹点纳锦宏亚私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1274300,
-      "FREE_HOLDNUM_RATIO": 0.582168129434,
-      "HOLD_NUM_CHANGE": "362200",
-      "CHANGE_RATIO": 39.71055805
+      "HOLD_NUM": 1811600,
+      "FREE_HOLDNUM_RATIO": 0.827635394556,
+      "HOLD_NUM_CHANGE": "537300",
+      "CHANGE_RATIO": 42.16432551
     },
     {
       "SECUCODE": "002823.SZ",
       "SECURITY_CODE": "002823",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "壹点纳锦(泉州)私募基金管理有限公司-壹点纳锦冠宏六期私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1536300,
+      "FREE_HOLDNUM_RATIO": 0.70186368771,
+      "HOLD_NUM_CHANGE": "315500",
+      "CHANGE_RATIO": 25.84370904
+    },
+    {
+      "SECUCODE": "002823.SZ",
+      "SECURITY_CODE": "002823",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "何庆平",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1477200,
+      "FREE_HOLDNUM_RATIO": 0.674863659107,
+      "HOLD_NUM_CHANGE": "299900",
+      "CHANGE_RATIO": 25.47354115
+    },
+    {
+      "SECUCODE": "002823.SZ",
+      "SECURITY_CODE": "002823",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "深圳市凯中精密技术股份有限公司-2025年员工持股计划",
       "HOLDER_TYPE": "员工持股计划",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1252200,
       "FREE_HOLDNUM_RATIO": 0.572071672037,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002823.SZ",
       "SECURITY_CODE": "002823",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "壹点纳锦(泉州)私募基金管理有限公司-壹点纳锦冠宏六期私募证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "壹点纳锦(泉州)私募基金管理有限公司-壹点纳锦长虹私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1220800,
-      "FREE_HOLDNUM_RATIO": 0.557726479175,
-      "HOLD_NUM_CHANGE": "240300",
-      "CHANGE_RATIO": 24.50790413
-    },
-    {
-      "SECUCODE": "002823.SZ",
-      "SECURITY_CODE": "002823",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "何庆平",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1177300,
-      "FREE_HOLDNUM_RATIO": 0.537853361675,
+      "HOLD_NUM": 1153100,
+      "FREE_HOLDNUM_RATIO": 0.526797512399,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002823.SZ",
       "SECURITY_CODE": "002823",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "深圳市凯中精密技术股份有限公司-2024年第二次员工持股计划",
       "HOLDER_TYPE": "员工持股计划",
       "SHARES_TYPE": "A股",
@@ -586,39 +599,26 @@
       "FREE_HOLDNUM_RATIO": 0.50747261883,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002823.SZ",
-      "SECURITY_CODE": "002823",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "王卫国",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1030000,
-      "FREE_HOLDNUM_RATIO": 0.47055887414,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "002823.SZ",
       "SECURITY_CODE": "002823",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 44498931,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 53388810,
       "LIMITED_SHARES": 109480292,
-      "OTHER_UNLIMITED_SHARES": 174389726,
-      "HOLD_NUM_RATIO": 13.55,
+      "OTHER_UNLIMITED_SHARES": 165499847,
+      "HOLD_NUM_RATIO": 16.26,
       "LIMITED_SHARES_RATIO": 33.34,
-      "UNLIMITED_SHARES_RATIO": 53.11
+      "UNLIMITED_SHARES_RATIO": 50.4
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002823.SZ",
       "SECURITY_CODE": "002823",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "张浩宇",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "002823.SZ",
       "SECURITY_CODE": "002823",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "吴瑛",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "002823.SZ",
       "SECURITY_CODE": "002823",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "建信信托12860号",
       "SHARES_TYPE": "流通A股",
@@ -654,20 +654,32 @@
     {
       "SECUCODE": "002823.SZ",
       "SECURITY_CODE": "002823",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1642695,
-      "HOLD_NUM_RATIO": 0.5,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 4353703,
+      "HOLD_NUM_RATIO": 1.33,
+      "HOLD_NUM_CHANGE": "2711008",
+      "CHANGE_RATIO": 165.03416642
     },
     {
       "SECUCODE": "002823.SZ",
       "SECURITY_CODE": "002823",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "壹点纳锦(泉州)私募基金管理有限公司-壹点纳锦宏亚私募证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1811600,
+      "HOLD_NUM_RATIO": 0.55,
+      "HOLD_NUM_CHANGE": "537300",
+      "CHANGE_RATIO": 42.16432551
+    },
+    {
+      "SECUCODE": "002823.SZ",
+      "SECURITY_CODE": "002823",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "吴琪",
       "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 1568359,
@@ -678,61 +690,49 @@
     {
       "SECUCODE": "002823.SZ",
       "SECURITY_CODE": "002823",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "壹点纳锦(泉州)私募基金管理有限公司-壹点纳锦宏亚私募证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "壹点纳锦(泉州)私募基金管理有限公司-壹点纳锦冠宏六期私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1274300,
-      "HOLD_NUM_RATIO": 0.39,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1536300,
+      "HOLD_NUM_RATIO": 0.47,
+      "HOLD_NUM_CHANGE": "315500",
+      "CHANGE_RATIO": 25.84370904
     },
     {
       "SECUCODE": "002823.SZ",
       "SECURITY_CODE": "002823",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "何庆平",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1477200,
+      "HOLD_NUM_RATIO": 0.45,
+      "HOLD_NUM_CHANGE": "299900",
+      "CHANGE_RATIO": 25.47354115
+    },
+    {
+      "SECUCODE": "002823.SZ",
+      "SECURITY_CODE": "002823",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "深圳市凯中精密技术股份有限公司-2025年员工持股计划",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1252200,
       "HOLD_NUM_RATIO": 0.38,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002823.SZ",
-      "SECURITY_CODE": "002823",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "壹点纳锦(泉州)私募基金管理有限公司-壹点纳锦冠宏六期私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1220800,
-      "HOLD_NUM_RATIO": 0.37,
-      "HOLD_NUM_CHANGE": "240300",
-      "CHANGE_RATIO": 24.50790413
-    },
-    {
-      "SECUCODE": "002823.SZ",
-      "SECURITY_CODE": "002823",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "何庆平",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1177300,
-      "HOLD_NUM_RATIO": 0.36,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002823.SZ",
-      "SECURITY_CODE": "002823",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "深圳市凯中精密技术股份有限公司-2024年第二次员工持股计划",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1110800,
-      "HOLD_NUM_RATIO": 0.34,
       "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002823.SZ",
+      "SECURITY_CODE": "002823",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "壹点纳锦(泉州)私募基金管理有限公司-壹点纳锦长虹私募证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1153100,
+      "HOLD_NUM_RATIO": 0.35,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "002823",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 94800,
-      "TOTAL_SHARES_RATIO": 0.0433097,
-      "ALL_SHARES_RATIO": 0.02886996
+      "TOTAL_ORG_NUM": 10,
+      "TOTAL_FREE_SHARES": 17849931,
+      "TOTAL_SHARES_RATIO": 8.15479946,
+      "ALL_SHARES_RATIO": 5.43593755
     },
     {
       "SECUCODE": "002823.SZ",
@@ -756,6 +756,26 @@
       "TOTAL_FREE_SHARES": 94800,
       "TOTAL_SHARES_RATIO": 0.0433097,
       "ALL_SHARES_RATIO": 0.02886996
+    },
+    {
+      "SECUCODE": "002823.SZ",
+      "SECURITY_CODE": "002823",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "06",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 6537428,
+      "TOTAL_SHARES_RATIO": 2.9866454,
+      "ALL_SHARES_RATIO": 1.99087886
+    },
+    {
+      "SECUCODE": "002823.SZ",
+      "SECURITY_CODE": "002823",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 11217703,
+      "TOTAL_SHARES_RATIO": 5.12484436,
+      "ALL_SHARES_RATIO": 3.41618873
     }
   ],
   "jjcg": [
