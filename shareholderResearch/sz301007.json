@@ -8,7 +8,7 @@
       "TOTAL_NUM_RATIO": 0,
       "AVG_FREE_SHARES": 11126,
       "AVG_FREESHARES_RATIO": 0,
-      "HOLD_FOCUS": "非常集中",
+      "HOLD_FOCUS": "较集中",
       "PRICE": 35.35,
       "AVG_HOLD_AMT": 393334.056525735,
       "HOLD_RATIO_TOTAL": null,
@@ -22,7 +22,7 @@
       "TOTAL_NUM_RATIO": 6.6834,
       "AVG_FREE_SHARES": 11126,
       "AVG_FREESHARES_RATIO": -6.264705882353,
-      "HOLD_FOCUS": "非常集中",
+      "HOLD_FOCUS": "较集中",
       "PRICE": 36.56,
       "AVG_HOLD_AMT": 406797.541911765,
       "HOLD_RATIO_TOTAL": null,
@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 33.61,
       "AVG_HOLD_AMT": 398967.481271572,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 26.28354376,
+      "FREEHOLD_RATIO_TOTAL": 26.11713422
     },
     {
       "SECUCODE": "301007.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "301007.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "301007.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "301007.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301007.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "301007.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "301007.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -468,7 +473,7 @@
     {
       "SECUCODE": "301007.SZ",
       "SECURITY_CODE": "301007",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "大连德迈仕投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -481,34 +486,21 @@
     {
       "SECUCODE": "301007.SZ",
       "SECURITY_CODE": "301007",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "深圳市前海道明投资管理有限公司-道明1号私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2328100,
-      "FREE_HOLDNUM_RATIO": 1.538475517532,
-      "HOLD_NUM_CHANGE": "-61900",
-      "CHANGE_RATIO": -2.58995816
-    },
-    {
-      "SECUCODE": "301007.SZ",
-      "SECURITY_CODE": "301007",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "黄奇俊",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 2000000,
       "FREE_HOLDNUM_RATIO": 1.321657589908,
-      "HOLD_NUM_CHANGE": "500000",
-      "CHANGE_RATIO": 33.33333333
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301007.SZ",
       "SECURITY_CODE": "301007",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "陈平泽",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -520,21 +512,8 @@
     {
       "SECUCODE": "301007.SZ",
       "SECURITY_CODE": "301007",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "韩军",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1590200,
-      "FREE_HOLDNUM_RATIO": 1.050849949736,
-      "HOLD_NUM_CHANGE": "400",
-      "CHANGE_RATIO": 0.0251604
-    },
-    {
-      "SECUCODE": "301007.SZ",
-      "SECURITY_CODE": "301007",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "姚伟旋",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -546,7 +525,33 @@
     {
       "SECUCODE": "301007.SZ",
       "SECURITY_CODE": "301007",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "孙守用",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1508700,
+      "FREE_HOLDNUM_RATIO": 0.996992402947,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301007.SZ",
+      "SECURITY_CODE": "301007",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "韩军",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1490200,
+      "FREE_HOLDNUM_RATIO": 0.98476707024,
+      "HOLD_NUM_CHANGE": "-100000",
+      "CHANGE_RATIO": -6.28851717
+    },
+    {
+      "SECUCODE": "301007.SZ",
+      "SECURITY_CODE": "301007",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "潘但铨",
       "HOLDER_TYPE": "个人",
@@ -559,7 +564,7 @@
     {
       "SECUCODE": "301007.SZ",
       "SECURITY_CODE": "301007",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "李亦争",
       "HOLDER_TYPE": "个人",
@@ -572,48 +577,48 @@
     {
       "SECUCODE": "301007.SZ",
       "SECURITY_CODE": "301007",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "毛爱英",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1400033,
       "FREE_HOLDNUM_RATIO": 0.925182120286,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301007.SZ",
       "SECURITY_CODE": "301007",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "王小红",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "大连德迈仕精密科技股份有限公司回购专用证券账户",
+      "HOLDER_TYPE": "证券账户",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1398759,
-      "FREE_HOLDNUM_RATIO": 0.924340224401,
-      "HOLD_NUM_CHANGE": "-383400",
-      "CHANGE_RATIO": -21.51323198
+      "HOLD_NUM": 1333100,
+      "FREE_HOLDNUM_RATIO": 0.880950866553,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "301007.SZ",
       "SECURITY_CODE": "301007",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 40506845,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 39521786,
       "LIMITED_SHARES": 2014875,
-      "OTHER_UNLIMITED_SHARES": 110818280,
-      "HOLD_NUM_RATIO": 26.42,
+      "OTHER_UNLIMITED_SHARES": 111803339,
+      "HOLD_NUM_RATIO": 25.77,
       "LIMITED_SHARES_RATIO": 1.31,
-      "UNLIMITED_SHARES_RATIO": 72.27
+      "UNLIMITED_SHARES_RATIO": 72.91
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "301007.SZ",
       "SECURITY_CODE": "301007",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "大连德迈仕投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -625,20 +630,8 @@
     {
       "SECUCODE": "301007.SZ",
       "SECURITY_CODE": "301007",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "深圳市前海道明投资管理有限公司-道明1号私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2328100,
-      "HOLD_NUM_RATIO": 1.52,
-      "HOLD_NUM_CHANGE": "-61900",
-      "CHANGE_RATIO": -2.58995816
-    },
-    {
-      "SECUCODE": "301007.SZ",
-      "SECURITY_CODE": "301007",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "潘异",
       "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 2114500,
@@ -649,20 +642,20 @@
     {
       "SECUCODE": "301007.SZ",
       "SECURITY_CODE": "301007",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "黄奇俊",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2000000,
       "HOLD_NUM_RATIO": 1.3,
-      "HOLD_NUM_CHANGE": "500000",
-      "CHANGE_RATIO": 33.33333333
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301007.SZ",
       "SECURITY_CODE": "301007",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "陈平泽",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1734100,
@@ -673,20 +666,8 @@
     {
       "SECUCODE": "301007.SZ",
       "SECURITY_CODE": "301007",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "韩军",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1590200,
-      "HOLD_NUM_RATIO": 1.04,
-      "HOLD_NUM_CHANGE": "400",
-      "CHANGE_RATIO": 0.0251604
-    },
-    {
-      "SECUCODE": "301007.SZ",
-      "SECURITY_CODE": "301007",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "姚伟旋",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1537750,
@@ -697,7 +678,31 @@
     {
       "SECUCODE": "301007.SZ",
       "SECURITY_CODE": "301007",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "孙守用",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1508700,
+      "HOLD_NUM_RATIO": 0.98,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301007.SZ",
+      "SECURITY_CODE": "301007",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "韩军",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1490200,
+      "HOLD_NUM_RATIO": 0.97,
+      "HOLD_NUM_CHANGE": "-100000",
+      "CHANGE_RATIO": -6.28851717
+    },
+    {
+      "SECUCODE": "301007.SZ",
+      "SECURITY_CODE": "301007",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "潘但铨",
       "SHARES_TYPE": "流通A股",
@@ -709,25 +714,25 @@
     {
       "SECUCODE": "301007.SZ",
       "SECURITY_CODE": "301007",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "李亦争",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1407800,
       "HOLD_NUM_RATIO": 0.92,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301007.SZ",
       "SECURITY_CODE": "301007",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "毛爱英",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1400033,
       "HOLD_NUM_RATIO": 0.91,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -737,10 +742,10 @@
       "SECURITY_CODE": "301007",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 9300,
-      "TOTAL_SHARES_RATIO": 0.00614571,
-      "ALL_SHARES_RATIO": 0.00606496
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 25659300,
+      "TOTAL_SHARES_RATIO": 16.9564043,
+      "ALL_SHARES_RATIO": 16.73359855
     },
     {
       "SECUCODE": "301007.SZ",
@@ -751,6 +756,16 @@
       "TOTAL_FREE_SHARES": 9300,
       "TOTAL_SHARES_RATIO": 0.00614571,
       "ALL_SHARES_RATIO": 0.00606496
+    },
+    {
+      "SECUCODE": "301007.SZ",
+      "SECURITY_CODE": "301007",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 25650000,
+      "TOTAL_SHARES_RATIO": 16.95025859,
+      "ALL_SHARES_RATIO": 16.72753359
     }
   ],
   "jjcg": [

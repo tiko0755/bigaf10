@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 17.36,
       "AVG_HOLD_AMT": 241391.369693473,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 65.80661681,
+      "FREEHOLD_RATIO_TOTAL": 65.80661681
     },
     {
       "SECUCODE": "603096.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603096.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603096.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603096.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603096.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603096.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603096.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -463,7 +468,7 @@
     {
       "SECUCODE": "603096.SH",
       "SECURITY_CODE": "603096",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "陈明俊",
       "HOLDER_TYPE": "个人",
@@ -476,47 +481,60 @@
     {
       "SECUCODE": "603096.SH",
       "SECURITY_CODE": "603096",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "陈李平",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5119300,
-      "FREE_HOLDNUM_RATIO": 3.319163925216,
-      "HOLD_NUM_CHANGE": "-760700",
-      "CHANGE_RATIO": -12.93707483
+      "HOLD_NUM": 4680040,
+      "FREE_HOLDNUM_RATIO": 3.034364060822,
+      "HOLD_NUM_CHANGE": "-439260",
+      "CHANGE_RATIO": -8.58046999
     },
     {
       "SECUCODE": "603096.SH",
       "SECURITY_CODE": "603096",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "高盛公司有限责任公司",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4157160,
-      "FREE_HOLDNUM_RATIO": 2.69534809512,
+      "HOLD_NUM": 3085240,
+      "FREE_HOLDNUM_RATIO": 2.000354991626,
+      "HOLD_NUM_CHANGE": "-1071920",
+      "CHANGE_RATIO": -25.78491085
+    },
+    {
+      "SECUCODE": "603096.SH",
+      "SECURITY_CODE": "603096",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "BARCLAYS BANK PLC",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1684351,
+      "FREE_HOLDNUM_RATIO": 1.092070610552,
+      "HOLD_NUM_CHANGE": "1011727",
+      "CHANGE_RATIO": 150.41494208
+    },
+    {
+      "SECUCODE": "603096.SH",
+      "SECURITY_CODE": "603096",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中国工商银行股份有限公司-大成中证360互联网+大数据100指数型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1008800,
+      "FREE_HOLDNUM_RATIO": 0.65406844056,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603096.SH",
       "SECURITY_CODE": "603096",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "闫颜",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1114000,
-      "FREE_HOLDNUM_RATIO": 0.722276212117,
-      "HOLD_NUM_CHANGE": "-86000",
-      "CHANGE_RATIO": -7.16666667
-    },
-    {
-      "SECUCODE": "603096.SH",
-      "SECURITY_CODE": "603096",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "中国对外经济贸易信托有限公司-外贸信托-仁桥泽源股票私募证券投资基金",
       "HOLDER_TYPE": "信托计划",
       "SHARES_TYPE": "A股",
@@ -528,87 +546,74 @@
     {
       "SECUCODE": "603096.SH",
       "SECURITY_CODE": "603096",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 790200,
-      "FREE_HOLDNUM_RATIO": 0.512336322096,
-      "HOLD_NUM_CHANGE": "-66000",
-      "CHANGE_RATIO": -7.70847933
-    },
-    {
-      "SECUCODE": "603096.SH",
-      "SECURITY_CODE": "603096",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中信银行股份有限公司-招商优质成长混合型证券投资基金(LOF)",
+      "HOLDER_NAME": "中国民生银行股份有限公司-建信灵活配置混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 771300,
-      "FREE_HOLDNUM_RATIO": 0.500082264278,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603096.SH",
-      "SECURITY_CODE": "603096",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "BARCLAYS BANK PLC",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 672624,
-      "FREE_HOLDNUM_RATIO": 0.436104411938,
+      "HOLD_NUM": 752200,
+      "FREE_HOLDNUM_RATIO": 0.487698533891,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603096.SH",
       "SECURITY_CODE": "603096",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国银行股份有限公司-大成景恒混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 589940,
+      "FREE_HOLDNUM_RATIO": 0.382495178255,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603096.SH",
+      "SECURITY_CODE": "603096",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "中国国际金融股份有限公司",
       "HOLDER_TYPE": "证券公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 557517,
-      "FREE_HOLDNUM_RATIO": 0.361473309651,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 573017,
+      "FREE_HOLDNUM_RATIO": 0.371522933787,
+      "HOLD_NUM_CHANGE": "15500",
+      "CHANGE_RATIO": 2.78018428
     },
     {
       "SECUCODE": "603096.SH",
       "SECURITY_CODE": "603096",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "顾志孝",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 556700,
-      "FREE_HOLDNUM_RATIO": 0.360943597204,
-      "HOLD_NUM_CHANGE": "23600",
-      "CHANGE_RATIO": 4.42693678
+      "HOLD_NUM": 551800,
+      "FREE_HOLDNUM_RATIO": 0.357766619251,
+      "HOLD_NUM_CHANGE": "-4900",
+      "CHANGE_RATIO": -0.88018682
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "603096.SH",
       "SECURITY_CODE": "603096",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 102310001,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 101496588,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 51924623,
-      "HOLD_NUM_RATIO": 66.33,
+      "OTHER_UNLIMITED_SHARES": 52738036,
+      "HOLD_NUM_RATIO": 65.81,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 33.67
+      "UNLIMITED_SHARES_RATIO": 34.19
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603096.SH",
       "SECURITY_CODE": "603096",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "陈明俊",
       "SHARES_TYPE": "流通A股",
@@ -620,44 +625,56 @@
     {
       "SECUCODE": "603096.SH",
       "SECURITY_CODE": "603096",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "陈李平",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5119300,
-      "HOLD_NUM_RATIO": 3.32,
-      "HOLD_NUM_CHANGE": "-760700",
-      "CHANGE_RATIO": -12.93707483
+      "HOLD_NUM": 4680040,
+      "HOLD_NUM_RATIO": 3.03,
+      "HOLD_NUM_CHANGE": "-439260",
+      "CHANGE_RATIO": -8.58046999
     },
     {
       "SECUCODE": "603096.SH",
       "SECURITY_CODE": "603096",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "高盛公司有限责任公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4157160,
-      "HOLD_NUM_RATIO": 2.7,
+      "HOLD_NUM": 3085240,
+      "HOLD_NUM_RATIO": 2,
+      "HOLD_NUM_CHANGE": "-1071920",
+      "CHANGE_RATIO": -25.78491085
+    },
+    {
+      "SECUCODE": "603096.SH",
+      "SECURITY_CODE": "603096",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "BARCLAYS BANK PLC",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1684351,
+      "HOLD_NUM_RATIO": 1.09,
+      "HOLD_NUM_CHANGE": "1011727",
+      "CHANGE_RATIO": 150.41494208
+    },
+    {
+      "SECUCODE": "603096.SH",
+      "SECURITY_CODE": "603096",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中国工商银行股份有限公司-大成中证360互联网+大数据100指数型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1008800,
+      "HOLD_NUM_RATIO": 0.65,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603096.SH",
       "SECURITY_CODE": "603096",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "闫颜",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1114000,
-      "HOLD_NUM_RATIO": 0.72,
-      "HOLD_NUM_CHANGE": "-86000",
-      "CHANGE_RATIO": -7.16666667
-    },
-    {
-      "SECUCODE": "603096.SH",
-      "SECURITY_CODE": "603096",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "中国对外经济贸易信托有限公司-外贸信托-仁桥泽源股票私募证券投资基金",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 985200,
@@ -668,62 +685,50 @@
     {
       "SECUCODE": "603096.SH",
       "SECURITY_CODE": "603096",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 790200,
-      "HOLD_NUM_RATIO": 0.51,
-      "HOLD_NUM_CHANGE": "-66000",
-      "CHANGE_RATIO": -7.70847933
-    },
-    {
-      "SECUCODE": "603096.SH",
-      "SECURITY_CODE": "603096",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中信银行股份有限公司-招商优质成长混合型证券投资基金(LOF)",
+      "HOLDER_NAME": "中国民生银行股份有限公司-建信灵活配置混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 771300,
-      "HOLD_NUM_RATIO": 0.5,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603096.SH",
-      "SECURITY_CODE": "603096",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "BARCLAYS BANK PLC",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 672624,
-      "HOLD_NUM_RATIO": 0.44,
+      "HOLD_NUM": 752200,
+      "HOLD_NUM_RATIO": 0.49,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603096.SH",
       "SECURITY_CODE": "603096",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国银行股份有限公司-大成景恒混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 589940,
+      "HOLD_NUM_RATIO": 0.38,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603096.SH",
+      "SECURITY_CODE": "603096",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "中国国际金融股份有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 557517,
-      "HOLD_NUM_RATIO": 0.36,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 573017,
+      "HOLD_NUM_RATIO": 0.37,
+      "HOLD_NUM_CHANGE": "15500",
+      "CHANGE_RATIO": 2.78018428
     },
     {
       "SECUCODE": "603096.SH",
       "SECURITY_CODE": "603096",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "顾志孝",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 556700,
+      "HOLD_NUM": 551800,
       "HOLD_NUM_RATIO": 0.36,
-      "HOLD_NUM_CHANGE": "23600",
-      "CHANGE_RATIO": 4.42693678
+      "HOLD_NUM_CHANGE": "-4900",
+      "CHANGE_RATIO": -0.88018682
     }
   ],
   "jgcc": [
@@ -732,23 +737,104 @@
       "SECURITY_CODE": "603096",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 19700,
-      "TOTAL_SHARES_RATIO": 0.01277275,
-      "ALL_SHARES_RATIO": 0.01277275
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 8698448,
+      "TOTAL_SHARES_RATIO": 5.63975051,
+      "ALL_SHARES_RATIO": 5.63975051
     },
     {
       "SECUCODE": "603096.SH",
       "SECURITY_CODE": "603096",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 2370640,
+      "TOTAL_SHARES_RATIO": 1.5370349,
+      "ALL_SHARES_RATIO": 1.5370349
+    },
+    {
+      "SECUCODE": "603096.SH",
+      "SECURITY_CODE": "603096",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 4769591,
+      "TOTAL_SHARES_RATIO": 3.0924256,
+      "ALL_SHARES_RATIO": 3.0924256
+    },
+    {
+      "SECUCODE": "603096.SH",
+      "SECURITY_CODE": "603096",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "04",
       "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 19700,
-      "TOTAL_SHARES_RATIO": 0.01277275,
-      "ALL_SHARES_RATIO": 0.01277275
+      "TOTAL_FREE_SHARES": 573017,
+      "TOTAL_SHARES_RATIO": 0.37152293,
+      "ALL_SHARES_RATIO": 0.37152293
+    },
+    {
+      "SECUCODE": "603096.SH",
+      "SECURITY_CODE": "603096",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "06",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 985200,
+      "TOTAL_SHARES_RATIO": 0.63876708,
+      "ALL_SHARES_RATIO": 0.63876708
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603096.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "002236",
+      "HOLDER_NAME": "大成中证360互联网+大数据100指数A",
+      "TOTAL_SHARES": 1008800,
+      "HOLD_VALUE": 17512768,
+      "TOTALSHARES_RATIO": 0.65406844,
+      "FREESHARES_RATIO": 0.65406844,
+      "FREE_MARKET_CAP": 17512768,
+      "FREE_SHARES": 1008800,
+      "SECURITY_CODE": "603096",
+      "FUND_CODE": "002236",
+      "FUND_DERIVECODE": "002236.OF",
+      "NETVALUE_RATIO": 2.23
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603096.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "000270",
+      "HOLDER_NAME": "建信灵活配置混合A",
+      "TOTAL_SHARES": 752200,
+      "HOLD_VALUE": 13058192,
+      "TOTALSHARES_RATIO": 0.48769853,
+      "FREESHARES_RATIO": 0.48769853,
+      "FREE_MARKET_CAP": 13058192,
+      "FREE_SHARES": 752200,
+      "SECURITY_CODE": "603096",
+      "FUND_CODE": "000270",
+      "FUND_DERIVECODE": "000270.OF",
+      "NETVALUE_RATIO": 3.21
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603096.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "090019",
+      "HOLDER_NAME": "大成景恒混合A",
+      "TOTAL_SHARES": 589940,
+      "HOLD_VALUE": 10241358.4,
+      "TOTALSHARES_RATIO": 0.38249518,
+      "FREESHARES_RATIO": 0.38249518,
+      "FREE_MARKET_CAP": 10241358.4,
+      "FREE_SHARES": 589940,
+      "SECURITY_CODE": "603096",
+      "FUND_CODE": "090019",
+      "FUND_DERIVECODE": "090019.OF",
+      "NETVALUE_RATIO": 1.64
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "603096.SH",

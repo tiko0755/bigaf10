@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 37.17,
       "AVG_HOLD_AMT": 456678.874602393,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 58.67303239,
+      "FREEHOLD_RATIO_TOTAL": 47.17640878
     },
     {
       "SECUCODE": "300909.SZ",
@@ -25,7 +25,7 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 48.1,
       "AVG_HOLD_AMT": 681706.082929375,
-      "HOLD_RATIO_TOTAL": null,
+      "HOLD_RATIO_TOTAL": 59.97963416,
       "FREEHOLD_RATIO_TOTAL": 44.21018521
     },
     {
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300909.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300909.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,19 @@
     {
       "SECUCODE": "300909.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300909.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300909.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300909.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300909.SZ",
       "END_DATE": "2025-12-04 00:00:00",
@@ -403,16 +413,6 @@
       "SECUCODE": "300909.SZ",
       "END_DATE": "2018-11-15 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300909.SZ",
-      "END_DATE": "2018-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "300909.SZ",
-      "END_DATE": "2017-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "300909.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "300909.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,47 +443,9 @@
     {
       "SECUCODE": "300909.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300909.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-12-04 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "宁波通慕创业投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 24310573,
-      "HOLD_NUM_RATIO": 14.05,
-      "HOLD_CHANGE": "-1975744",
-      "CHANGE_RATIO": -7.51624505,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-19 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "宁波通慕创业投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 26286317,
-      "HOLD_NUM_RATIO": 15.2,
-      "HOLD_CHANGE": "-1755213",
-      "CHANGE_RATIO": -6.25933392,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-06 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "宁波通慕创业投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 28041530,
-      "HOLD_NUM_RATIO": 16.21,
-      "HOLD_CHANGE": "-1457600",
-      "CHANGE_RATIO": -4.94116267,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "300909.SZ",
@@ -507,20 +473,20 @@
     {
       "SECUCODE": "300909.SZ",
       "SECURITY_CODE": "300909",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "宁波通慕创业投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 24310573,
       "FREE_HOLDNUM_RATIO": 19.892286991297,
-      "HOLD_NUM_CHANGE": "-5188557",
-      "CHANGE_RATIO": -17.58884754
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300909.SZ",
       "SECURITY_CODE": "300909",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "李明",
       "HOLDER_TYPE": "个人",
@@ -533,46 +499,46 @@
     {
       "SECUCODE": "300909.SZ",
       "SECURITY_CODE": "300909",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "深圳市博隆伟业私募证券投资基金管理有限公司-博隆量化阿尔法1号私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
+      "HOLDER_NAME": "段志刚",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3622700,
-      "FREE_HOLDNUM_RATIO": 2.964298212279,
+      "HOLD_NUM": 6928221,
+      "FREE_HOLDNUM_RATIO": 5.669062612022,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300909.SZ",
       "SECURITY_CODE": "300909",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "上海犇腾向前科技发展中心(有限合伙)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3004307,
-      "FREE_HOLDNUM_RATIO": 2.458294053948,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2923007,
+      "FREE_HOLDNUM_RATIO": 2.391769791751,
+      "HOLD_NUM_CHANGE": "-81300",
+      "CHANGE_RATIO": -2.70611492
     },
     {
       "SECUCODE": "300909.SZ",
       "SECURITY_CODE": "300909",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "张淑媛",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "深圳市博隆伟业私募证券投资基金管理有限公司-博隆量化阿尔法1号私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2728118,
-      "FREE_HOLDNUM_RATIO": 2.232300579757,
-      "HOLD_NUM_CHANGE": "-4172149",
-      "CHANGE_RATIO": -60.46358786
+      "HOLD_NUM": 2858900,
+      "FREE_HOLDNUM_RATIO": 2.339313815409,
+      "HOLD_NUM_CHANGE": "-763800",
+      "CHANGE_RATIO": -21.08372209
     },
     {
       "SECUCODE": "300909.SZ",
       "SECURITY_CODE": "300909",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "段志军",
       "HOLDER_TYPE": "个人",
@@ -585,7 +551,7 @@
     {
       "SECUCODE": "300909.SZ",
       "SECURITY_CODE": "300909",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "董芳梅",
       "HOLDER_TYPE": "个人",
@@ -598,20 +564,20 @@
     {
       "SECUCODE": "300909.SZ",
       "SECURITY_CODE": "300909",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "前海大唐英加(深圳)基金管理有限公司-英加傲鑫私募证券投资基金",
+      "HOLDER_NAME": "深圳市前海方位投资管理有限公司-方位投资优选私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1252800,
-      "FREE_HOLDNUM_RATIO": 1.025111877976,
+      "HOLD_NUM": 1482550,
+      "FREE_HOLDNUM_RATIO": 1.213106333567,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300909.SZ",
       "SECURITY_CODE": "300909",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "东莞市信为通达创业投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -624,35 +590,35 @@
     {
       "SECUCODE": "300909.SZ",
       "SECURITY_CODE": "300909",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "黄兆京",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1043100,
-      "FREE_HOLDNUM_RATIO": 0.853523467366,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1083400,
+      "FREE_HOLDNUM_RATIO": 0.886499208652,
+      "HOLD_NUM_CHANGE": "40300",
+      "CHANGE_RATIO": 3.86348385
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "300909.SZ",
       "SECURITY_CODE": "300909",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 54029732,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 57654785,
       "LIMITED_SHARES": 50761928,
-      "OTHER_UNLIMITED_SHARES": 68181319,
-      "HOLD_NUM_RATIO": 31.24,
+      "OTHER_UNLIMITED_SHARES": 64556266,
+      "HOLD_NUM_RATIO": 33.33,
       "LIMITED_SHARES_RATIO": 29.35,
-      "UNLIMITED_SHARES_RATIO": 39.42
+      "UNLIMITED_SHARES_RATIO": 37.32
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300909.SZ",
       "SECURITY_CODE": "300909",
-      "END_DATE": "2025-12-04 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "李明",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -664,46 +630,132 @@
     {
       "SECUCODE": "300909.SZ",
       "SECURITY_CODE": "300909",
-      "END_DATE": "2025-12-04 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "宁波通慕创业投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 24310573,
       "HOLD_NUM_RATIO": 14.05,
-      "HOLD_NUM_CHANGE": "-1975744",
-      "CHANGE_RATIO": -7.51624505
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300909.SZ",
+      "SECURITY_CODE": "300909",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "段志刚",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6928221,
+      "HOLD_NUM_RATIO": 4.01,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300909.SZ",
+      "SECURITY_CODE": "300909",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "董芳梅",
+      "SHARES_TYPE": "流通A股,限售流通A股",
+      "HOLD_NUM": 6126742,
+      "HOLD_NUM_RATIO": 3.54,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300909.SZ",
+      "SECURITY_CODE": "300909",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "上海犇腾向前科技发展中心(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2923007,
+      "HOLD_NUM_RATIO": 1.69,
+      "HOLD_NUM_CHANGE": "-81300",
+      "CHANGE_RATIO": -2.70611492
+    },
+    {
+      "SECUCODE": "300909.SZ",
+      "SECURITY_CODE": "300909",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "深圳市博隆伟业私募证券投资基金管理有限公司-博隆量化阿尔法1号私募证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2858900,
+      "HOLD_NUM_RATIO": 1.65,
+      "HOLD_NUM_CHANGE": "-763800",
+      "CHANGE_RATIO": -21.08372209
+    },
+    {
+      "SECUCODE": "300909.SZ",
+      "SECURITY_CODE": "300909",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "段志军",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2288573,
+      "HOLD_NUM_RATIO": 1.32,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300909.SZ",
+      "SECURITY_CODE": "300909",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "深圳市前海方位投资管理有限公司-方位投资优选私募证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1482550,
+      "HOLD_NUM_RATIO": 0.86,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300909.SZ",
+      "SECURITY_CODE": "300909",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "东莞市信为通达创业投资合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1168324,
+      "HOLD_NUM_RATIO": 0.68,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300909.SZ",
+      "SECURITY_CODE": "300909",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "黄兆京",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1083400,
+      "HOLD_NUM_RATIO": 0.63,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "300909.SZ",
       "SECURITY_CODE": "300909",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 67,
-      "TOTAL_FREE_SHARES": 27350876,
-      "TOTAL_SHARES_RATIO": 22.380035,
-      "ALL_SHARES_RATIO": 15.81222459
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 32743354,
+      "TOTAL_SHARES_RATIO": 26.79246576,
+      "ALL_SHARES_RATIO": 18.92975087
     },
     {
       "SECUCODE": "300909.SZ",
       "SECURITY_CODE": "300909",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 64,
-      "TOTAL_FREE_SHARES": 619179,
-      "TOTAL_SHARES_RATIO": 0.5066473,
-      "ALL_SHARES_RATIO": 0.3579628
-    },
-    {
-      "SECUCODE": "300909.SZ",
-      "SECURITY_CODE": "300909",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 26731697,
-      "TOTAL_SHARES_RATIO": 21.8733877,
-      "ALL_SHARES_RATIO": 15.45426179
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 32743354,
+      "TOTAL_SHARES_RATIO": 26.79246576,
+      "ALL_SHARES_RATIO": 18.92975087
     }
   ],
   "jjcg": [
@@ -1306,8 +1358,8 @@
       "ORG_TYPE": "01",
       "SECUCODE": "300909.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00",
-      "HOLDER_CODE": "159289",
-      "HOLDER_NAME": "鹏华创业板综合ETF",
+      "HOLDER_CODE": "561370",
+      "HOLDER_NAME": "国泰中证2000ETF",
       "TOTAL_SHARES": 1100,
       "HOLD_VALUE": 52910,
       "TOTALSHARES_RATIO": 0.00063594,
@@ -1315,9 +1367,9 @@
       "FREE_MARKET_CAP": 52910,
       "FREE_SHARES": 1100,
       "SECURITY_CODE": "300909",
-      "FUND_CODE": "159289",
-      "FUND_DERIVECODE": "159289.SZ",
-      "NETVALUE_RATIO": 0.05
+      "FUND_CODE": "561370",
+      "FUND_DERIVECODE": "561370.SH",
+      "NETVALUE_RATIO": 0.17
     },
     {
       "ORG_TYPE": "01",
@@ -1340,8 +1392,8 @@
       "ORG_TYPE": "01",
       "SECUCODE": "300909.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00",
-      "HOLDER_CODE": "561370",
-      "HOLDER_NAME": "国泰中证2000ETF",
+      "HOLDER_CODE": "159289",
+      "HOLDER_NAME": "鹏华创业板综合ETF",
       "TOTAL_SHARES": 1100,
       "HOLD_VALUE": 52910,
       "TOTALSHARES_RATIO": 0.00063594,
@@ -1349,9 +1401,9 @@
       "FREE_MARKET_CAP": 52910,
       "FREE_SHARES": 1100,
       "SECURITY_CODE": "300909",
-      "FUND_CODE": "561370",
-      "FUND_DERIVECODE": "561370.SH",
-      "NETVALUE_RATIO": 0.17
+      "FUND_CODE": "159289",
+      "FUND_DERIVECODE": "159289.SZ",
+      "NETVALUE_RATIO": 0.05
     },
     {
       "ORG_TYPE": "01",

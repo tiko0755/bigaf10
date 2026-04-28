@@ -25,8 +25,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 9.59,
       "AVG_HOLD_AMT": 70879.9004920901,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 51.47461042,
+      "FREEHOLD_RATIO_TOTAL": 51.4773676
     },
     {
       "SECUCODE": "002300.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002300.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002300.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002300.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002300.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002300.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002300.SZ",
       "END_DATE": "2026-03-06 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002300.SZ",
       "END_DATE": "2017-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002300.SZ",
-      "END_DATE": "2016-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "002300.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "002300.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "002300.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002300.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [
@@ -489,61 +489,6 @@
       "HOLD_CHANGE": "-7270955",
       "CHANGE_RATIO": -7.54731026,
       "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-30 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "厦门象屿集团有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 96338361,
-      "HOLD_NUM_RATIO": 13.34,
-      "HOLD_CHANGE": "-5056341",
-      "CHANGE_RATIO": -4.98679014,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-04 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "福建亿力集团有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 96531840,
-      "HOLD_NUM_RATIO": 13.36,
-      "HOLD_CHANGE": "-3844800",
-      "CHANGE_RATIO": -3.83037328,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-13 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "福建亿力集团有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 100376640,
-      "HOLD_NUM_RATIO": 13.9,
-      "HOLD_CHANGE": "-7973374",
-      "CHANGE_RATIO": -7.35890445,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-06 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "福建亿力集团有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 108350014,
-      "HOLD_NUM_RATIO": 15,
-      "HOLD_CHANGE": "-1128500",
-      "CHANGE_RATIO": -1.03079587,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-05 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "福建亿力集团有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 109478514,
-      "HOLD_NUM_RATIO": 15.16,
-      "HOLD_CHANGE": "-8723300",
-      "CHANGE_RATIO": -7.38000518,
-      "CHANGE_REASON": "临时公告"
     }
   ],
   "jjcg_date": [
@@ -573,7 +518,7 @@
     {
       "SECUCODE": "002300.SZ",
       "SECURITY_CODE": "002300",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "福州太顺实业有限公司",
       "HOLDER_TYPE": "其它",
@@ -586,33 +531,33 @@
     {
       "SECUCODE": "002300.SZ",
       "SECURITY_CODE": "002300",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "福建亿力集团有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 96531840,
-      "FREE_HOLDNUM_RATIO": 13.364600132895,
-      "HOLD_NUM_CHANGE": "-21669974",
-      "CHANGE_RATIO": -18.33302998
-    },
-    {
-      "SECUCODE": "002300.SZ",
-      "SECURITY_CODE": "002300",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "厦门象屿集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 96338361,
-      "FREE_HOLDNUM_RATIO": 13.337813432578,
-      "HOLD_NUM_CHANGE": "-5056341",
-      "CHANGE_RATIO": -4.98679014
+      "HOLD_NUM": 85795086,
+      "FREE_HOLDNUM_RATIO": 11.878122469823,
+      "HOLD_NUM_CHANGE": "-10543275",
+      "CHANGE_RATIO": -10.94400495
     },
     {
       "SECUCODE": "002300.SZ",
       "SECURITY_CODE": "002300",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "福建亿力集团有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 79918240,
+      "FREE_HOLDNUM_RATIO": 11.06448733314,
+      "HOLD_NUM_CHANGE": "-16613600",
+      "CHANGE_RATIO": -17.21048723
+    },
+    {
+      "SECUCODE": "002300.SZ",
+      "SECURITY_CODE": "002300",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "南平实业集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -625,7 +570,7 @@
     {
       "SECUCODE": "002300.SZ",
       "SECURITY_CODE": "002300",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "博时资本-厦门象屿集团有限公司-博时资本博创15号单一资产管理计划",
       "HOLDER_TYPE": "集合理财计划",
@@ -638,66 +583,66 @@
     {
       "SECUCODE": "002300.SZ",
       "SECURITY_CODE": "002300",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "BARCLAYS BANK PLC",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4181831,
-      "FREE_HOLDNUM_RATIO": 0.578964403231,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002300.SZ",
-      "SECURITY_CODE": "002300",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "高盛公司有限责任公司",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3918735,
-      "FREE_HOLDNUM_RATIO": 0.542539397382,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2477762,
+      "FREE_HOLDNUM_RATIO": 0.343040165343,
+      "HOLD_NUM_CHANGE": "-1440973",
+      "CHANGE_RATIO": -36.77138158
     },
     {
       "SECUCODE": "002300.SZ",
       "SECURITY_CODE": "002300",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "BARCLAYS BANK PLC",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1743226,
+      "FREE_HOLDNUM_RATIO": 0.241345429977,
+      "HOLD_NUM_CHANGE": "-2438605",
+      "CHANGE_RATIO": -58.31428865
+    },
+    {
+      "SECUCODE": "002300.SZ",
+      "SECURITY_CODE": "002300",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "UBS AG",
-      "HOLDER_TYPE": "QFII",
+      "HOLDER_NAME": "封宇",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2414510,
-      "FREE_HOLDNUM_RATIO": 0.334283078691,
+      "HOLD_NUM": 1637500,
+      "FREE_HOLDNUM_RATIO": 0.226707920595,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002300.SZ",
       "SECURITY_CODE": "002300",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "MORGAN STANLEY&CO.INTERNATI ONAL PLC.",
-      "HOLDER_TYPE": "QFII",
+      "HOLDER_NAME": "刘鹏成",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1603268,
-      "FREE_HOLDNUM_RATIO": 0.221968582862,
+      "HOLD_NUM": 1537000,
+      "FREE_HOLDNUM_RATIO": 0.212793938293,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002300.SZ",
       "SECURITY_CODE": "002300",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "莆田市荔城区财政局",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1417264,
       "FREE_HOLDNUM_RATIO": 0.196216778244,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -705,20 +650,20 @@
     {
       "SECUCODE": "002300.SZ",
       "SECURITY_CODE": "002300",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 403698189,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 371818458,
       "LIMITED_SHARES": 38689,
-      "OTHER_UNLIMITED_SHARES": 318596822,
-      "HOLD_NUM_RATIO": 55.89,
+      "OTHER_UNLIMITED_SHARES": 350476553,
+      "HOLD_NUM_RATIO": 51.47,
       "LIMITED_SHARES_RATIO": 0.01,
-      "UNLIMITED_SHARES_RATIO": 44.11
+      "UNLIMITED_SHARES_RATIO": 48.52
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002300.SZ",
       "SECURITY_CODE": "002300",
-      "END_DATE": "2026-03-06 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "福州太顺实业有限公司",
       "SHARES_TYPE": "流通A股",
@@ -730,63 +675,137 @@
     {
       "SECUCODE": "002300.SZ",
       "SECURITY_CODE": "002300",
-      "END_DATE": "2026-03-06 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "厦门象屿集团有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 89067406,
-      "HOLD_NUM_RATIO": 12.33,
+      "HOLD_NUM": 85795086,
+      "HOLD_NUM_RATIO": 11.88,
+      "HOLD_NUM_CHANGE": "-3272320",
+      "CHANGE_RATIO": -3.67398148
+    },
+    {
+      "SECUCODE": "002300.SZ",
+      "SECURITY_CODE": "002300",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "福建亿力集团有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 79918240,
+      "HOLD_NUM_RATIO": 11.06,
+      "HOLD_NUM_CHANGE": "-5778600",
+      "CHANGE_RATIO": -6.74307244
+    },
+    {
+      "SECUCODE": "002300.SZ",
+      "SECURITY_CODE": "002300",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "南平实业集团有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 24165417,
+      "HOLD_NUM_RATIO": 3.35,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002300.SZ",
       "SECURITY_CODE": "002300",
-      "END_DATE": "2026-03-06 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "福建亿力集团有限公司",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "博时资本-厦门象屿集团有限公司-博时资本博创15号单一资产管理计划",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 85696840,
-      "HOLD_NUM_RATIO": 11.86,
-      "HOLD_NUM_CHANGE": "-3611700",
-      "CHANGE_RATIO": -4.04407014
+      "HOLD_NUM": 11990000,
+      "HOLD_NUM_RATIO": 1.66,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002300.SZ",
+      "SECURITY_CODE": "002300",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2477762,
+      "HOLD_NUM_RATIO": 0.34,
+      "HOLD_NUM_CHANGE": "-1440973",
+      "CHANGE_RATIO": -36.77138158
+    },
+    {
+      "SECUCODE": "002300.SZ",
+      "SECURITY_CODE": "002300",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "BARCLAYS BANK PLC",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1743226,
+      "HOLD_NUM_RATIO": 0.24,
+      "HOLD_NUM_CHANGE": "-2438605",
+      "CHANGE_RATIO": -58.31428865
+    },
+    {
+      "SECUCODE": "002300.SZ",
+      "SECURITY_CODE": "002300",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "封宇",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1637500,
+      "HOLD_NUM_RATIO": 0.23,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002300.SZ",
+      "SECURITY_CODE": "002300",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "刘鹏成",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1537000,
+      "HOLD_NUM_RATIO": 0.21,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002300.SZ",
+      "SECURITY_CODE": "002300",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "莆田市荔城区财政局",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1417264,
+      "HOLD_NUM_RATIO": 0.2,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "002300.SZ",
       "SECURITY_CODE": "002300",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 22,
-      "TOTAL_FREE_SHARES": 404942989,
-      "TOTAL_SHARES_RATIO": 56.06337895,
-      "ALL_SHARES_RATIO": 56.06037611
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 368643958,
+      "TOTAL_SHARES_RATIO": 51.03786576,
+      "ALL_SHARES_RATIO": 51.03513209
     },
     {
       "SECUCODE": "002300.SZ",
       "SECURITY_CODE": "002300",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 12,
-      "TOTAL_FREE_SHARES": 1244800,
-      "TOTAL_SHARES_RATIO": 0.17233957,
-      "ALL_SHARES_RATIO": 0.17233034
-    },
-    {
-      "SECUCODE": "002300.SZ",
-      "SECURITY_CODE": "002300",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "02",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 12118344,
-      "TOTAL_SHARES_RATIO": 1.67775546,
-      "ALL_SHARES_RATIO": 1.67766559
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 4220988,
+      "TOTAL_SHARES_RATIO": 0.5843856,
+      "ALL_SHARES_RATIO": 0.58435429
     },
     {
       "SECUCODE": "002300.SZ",
       "SECURITY_CODE": "002300",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "04",
       "TOTAL_ORG_NUM": 1,
       "TOTAL_FREE_SHARES": 11990000,
@@ -796,12 +815,12 @@
     {
       "SECUCODE": "002300.SZ",
       "SECURITY_CODE": "002300",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 379589845,
-      "TOTAL_SHARES_RATIO": 52.55329737,
-      "ALL_SHARES_RATIO": 52.55048255
+      "TOTAL_FREE_SHARES": 352432970,
+      "TOTAL_SHARES_RATIO": 48.79349361,
+      "ALL_SHARES_RATIO": 48.79088017
     }
   ],
   "jjcg": [

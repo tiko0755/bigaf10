@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 29.6,
       "AVG_HOLD_AMT": 438740.212107822,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 56.48224052,
+      "FREEHOLD_RATIO_TOTAL": 56.48224052
     },
     {
       "SECUCODE": "688136.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "688136.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "688136.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "688136.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "688136.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "688136.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "688136.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -385,19 +390,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-11-20 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "深圳科益医药控股有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 99625830,
-      "HOLD_NUM_RATIO": 49.5,
-      "HOLD_CHANGE": "-10062800",
-      "CHANGE_RATIO": -9.17396817,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "688136.SH",
@@ -425,60 +418,34 @@
     {
       "SECUCODE": "688136.SH",
       "SECURITY_CODE": "688136",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "深圳科益医药控股有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 99625830,
       "FREE_HOLDNUM_RATIO": 49.501734720116,
-      "HOLD_NUM_CHANGE": "-10062800",
-      "CHANGE_RATIO": -9.17396817
-    },
-    {
-      "SECUCODE": "688136.SH",
-      "SECURITY_CODE": "688136",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "汇安基金-华能信托·悦盈18号单一资金信托-汇安基金汇鑫86号单一资产管理计划",
-      "HOLDER_TYPE": "基金资产管理计划",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4662000,
-      "FREE_HOLDNUM_RATIO": 2.316438289801,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688136.SH",
-      "SECURITY_CODE": "688136",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2217233,
-      "FREE_HOLDNUM_RATIO": 1.101690994983,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688136.SH",
-      "SECURITY_CODE": "688136",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "江苏瑞华投资管理有限公司",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1872800,
-      "FREE_HOLDNUM_RATIO": 0.930550328001,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688136.SH",
       "SECURITY_CODE": "688136",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "汇安基金-华能信托·悦盈18号单一资金信托-汇安基金汇鑫86号单一资产管理计划",
+      "HOLDER_TYPE": "基金资产管理计划",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4662000,
+      "FREE_HOLDNUM_RATIO": 2.316438289801,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688136.SH",
+      "SECURITY_CODE": "688136",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "邓学勤",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -490,87 +457,113 @@
     {
       "SECUCODE": "688136.SH",
       "SECURITY_CODE": "688136",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国银行股份有限公司-易方达医疗保健行业混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1740304,
-      "FREE_HOLDNUM_RATIO": 0.864716177927,
-      "HOLD_NUM_CHANGE": "-321832",
-      "CHANGE_RATIO": -15.60673011
+      "HOLD_NUM": 1520658,
+      "FREE_HOLDNUM_RATIO": 0.755579240003,
+      "HOLD_NUM_CHANGE": "-696575",
+      "CHANGE_RATIO": -31.41640955
     },
     {
       "SECUCODE": "688136.SH",
       "SECURITY_CODE": "688136",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "广发证券股份有限公司",
-      "HOLDER_TYPE": "证券公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1589543,
-      "FREE_HOLDNUM_RATIO": 0.789806578397,
-      "HOLD_NUM_CHANGE": "593950",
-      "CHANGE_RATIO": 59.65791242
-    },
-    {
-      "SECUCODE": "688136.SH",
-      "SECURITY_CODE": "688136",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国工商银行股份有限公司-富国天惠精选成长混合型证券投资基金(LOF)",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1500000,
-      "FREE_HOLDNUM_RATIO": 0.745314765058,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688136.SH",
-      "SECURITY_CODE": "688136",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "李勇刚",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1210599,
-      "FREE_HOLDNUM_RATIO": 0.601518206176,
-      "HOLD_NUM_CHANGE": "-400",
-      "CHANGE_RATIO": -0.03303058
+      "HOLD_NUM": 1210710,
+      "FREE_HOLDNUM_RATIO": 0.601573359469,
+      "HOLD_NUM_CHANGE": "111",
+      "CHANGE_RATIO": 0.00916901
     },
     {
       "SECUCODE": "688136.SH",
       "SECURITY_CODE": "688136",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "关帅",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1141355,
-      "FREE_HOLDNUM_RATIO": 0.567112489115,
+      "HOLD_NUM": 1175584,
+      "FREE_HOLDNUM_RATIO": 0.584120075177,
+      "HOLD_NUM_CHANGE": "34229",
+      "CHANGE_RATIO": 2.99897928
+    },
+    {
+      "SECUCODE": "688136.SH",
+      "SECURITY_CODE": "688136",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "邵林",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1038078,
+      "FREE_HOLDNUM_RATIO": 0.515796573788,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688136.SH",
+      "SECURITY_CODE": "688136",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国银行股份有限公司-易方达稳健收益债券型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 957085,
+      "FREE_HOLDNUM_RATIO": 0.47555305461,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688136.SH",
+      "SECURITY_CODE": "688136",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "周忠政",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 880910,
+      "FREE_HOLDNUM_RATIO": 0.437703486458,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688136.SH",
+      "SECURITY_CODE": "688136",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国银行股份有限公司-易方达医疗保健行业混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 839624,
+      "FREE_HOLDNUM_RATIO": 0.417189442865,
+      "HOLD_NUM_CHANGE": "-900680",
+      "CHANGE_RATIO": -51.75417628
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "688136.SH",
       "SECURITY_CODE": "688136",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 117323789,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 113674604,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 83933461,
-      "HOLD_NUM_RATIO": 58.3,
+      "OTHER_UNLIMITED_SHARES": 87582646,
+      "HOLD_NUM_RATIO": 56.48,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 41.7
+      "UNLIMITED_SHARES_RATIO": 43.52
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "688136.SH",
       "SECURITY_CODE": "688136",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "深圳科益医药控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -582,44 +575,20 @@
     {
       "SECUCODE": "688136.SH",
       "SECURITY_CODE": "688136",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "汇安基金-华能信托·悦盈18号单一资金信托-汇安基金汇鑫86号单一资产管理计划",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4662000,
       "HOLD_NUM_RATIO": 2.32,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688136.SH",
-      "SECURITY_CODE": "688136",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2217233,
-      "HOLD_NUM_RATIO": 1.1,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688136.SH",
-      "SECURITY_CODE": "688136",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "江苏瑞华投资管理有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1872800,
-      "HOLD_NUM_RATIO": 0.93,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688136.SH",
       "SECURITY_CODE": "688136",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "邓学勤",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1764125,
@@ -630,62 +599,86 @@
     {
       "SECUCODE": "688136.SH",
       "SECURITY_CODE": "688136",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国银行股份有限公司-易方达医疗保健行业混合型证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1740304,
-      "HOLD_NUM_RATIO": 0.86,
-      "HOLD_NUM_CHANGE": "-321832",
-      "CHANGE_RATIO": -15.60673011
+      "HOLD_NUM": 1520658,
+      "HOLD_NUM_RATIO": 0.76,
+      "HOLD_NUM_CHANGE": "-696575",
+      "CHANGE_RATIO": -31.41640955
     },
     {
       "SECUCODE": "688136.SH",
       "SECURITY_CODE": "688136",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "广发证券股份有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1589543,
-      "HOLD_NUM_RATIO": 0.79,
-      "HOLD_NUM_CHANGE": "593950",
-      "CHANGE_RATIO": 59.65791242
-    },
-    {
-      "SECUCODE": "688136.SH",
-      "SECURITY_CODE": "688136",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国工商银行股份有限公司-富国天惠精选成长混合型证券投资基金(LOF)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1500000,
-      "HOLD_NUM_RATIO": 0.75,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688136.SH",
-      "SECURITY_CODE": "688136",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "李勇刚",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1210599,
+      "HOLD_NUM": 1210710,
       "HOLD_NUM_RATIO": 0.6,
-      "HOLD_NUM_CHANGE": "-400",
-      "CHANGE_RATIO": -0.03303058
+      "HOLD_NUM_CHANGE": "111",
+      "CHANGE_RATIO": 0.00916901
     },
     {
       "SECUCODE": "688136.SH",
       "SECURITY_CODE": "688136",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "关帅",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1141355,
-      "HOLD_NUM_RATIO": 0.57,
+      "HOLD_NUM": 1175584,
+      "HOLD_NUM_RATIO": 0.58,
+      "HOLD_NUM_CHANGE": "34229",
+      "CHANGE_RATIO": 2.99897928
+    },
+    {
+      "SECUCODE": "688136.SH",
+      "SECURITY_CODE": "688136",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "邵林",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1038078,
+      "HOLD_NUM_RATIO": 0.52,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688136.SH",
+      "SECURITY_CODE": "688136",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国银行股份有限公司-易方达稳健收益债券型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 957085,
+      "HOLD_NUM_RATIO": 0.48,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688136.SH",
+      "SECURITY_CODE": "688136",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "周忠政",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 880910,
+      "HOLD_NUM_RATIO": 0.44,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688136.SH",
+      "SECURITY_CODE": "688136",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国银行股份有限公司-易方达医疗保健行业混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 839624,
+      "HOLD_NUM_RATIO": 0.42,
+      "HOLD_NUM_CHANGE": "-900680",
+      "CHANGE_RATIO": -51.75417628
     }
   ],
   "jgcc": [
@@ -694,23 +687,84 @@
       "SECURITY_CODE": "688136",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 50100,
-      "TOTAL_SHARES_RATIO": 0.02489351,
-      "ALL_SHARES_RATIO": 0.02489351
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 107655297,
+      "TOTAL_SHARES_RATIO": 53.49138825,
+      "ALL_SHARES_RATIO": 53.49138825
     },
     {
       "SECUCODE": "688136.SH",
       "SECURITY_CODE": "688136",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 6508809,
+      "TOTAL_SHARES_RATIO": 3.23407429,
+      "ALL_SHARES_RATIO": 3.23407429
+    },
+    {
+      "SECUCODE": "688136.SH",
+      "SECURITY_CODE": "688136",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 50100,
-      "TOTAL_SHARES_RATIO": 0.02489351,
-      "ALL_SHARES_RATIO": 0.02489351
+      "TOTAL_FREE_SHARES": 101146488,
+      "TOTAL_SHARES_RATIO": 50.25731396,
+      "ALL_SHARES_RATIO": 50.25731396
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "688136.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "70432125",
+      "HOLDER_NAME": "汇安基金-华能信托·悦盈18号单一资金信托-汇安基金汇鑫86号单一资产管理计划",
+      "TOTAL_SHARES": 4662000,
+      "HOLD_VALUE": 137995200,
+      "TOTALSHARES_RATIO": 2.31643829,
+      "FREESHARES_RATIO": 2.31643829,
+      "FREE_MARKET_CAP": 137995200,
+      "FREE_SHARES": 4662000,
+      "SECURITY_CODE": "688136",
+      "FUND_CODE": null,
+      "FUND_DERIVECODE": null,
+      "NETVALUE_RATIO": null
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "688136.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "110007",
+      "HOLDER_NAME": "易方达稳健收益债券A",
+      "TOTAL_SHARES": 957085,
+      "HOLD_VALUE": 28329716,
+      "TOTALSHARES_RATIO": 0.47555305,
+      "FREESHARES_RATIO": 0.47555305,
+      "FREE_MARKET_CAP": 28329716,
+      "FREE_SHARES": 957085,
+      "SECURITY_CODE": "688136",
+      "FUND_CODE": "110007",
+      "FUND_DERIVECODE": "110007.OF",
+      "NETVALUE_RATIO": 0.22
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "688136.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "110023",
+      "HOLDER_NAME": "易方达医疗保健行业混合A",
+      "TOTAL_SHARES": 839624,
+      "HOLD_VALUE": 24852870.4,
+      "TOTALSHARES_RATIO": 0.41718944,
+      "FREESHARES_RATIO": 0.41718944,
+      "FREE_MARKET_CAP": 24852870.4,
+      "FREE_SHARES": 839624,
+      "SECURITY_CODE": "688136",
+      "FUND_CODE": "110023",
+      "FUND_DERIVECODE": "110023.OF",
+      "NETVALUE_RATIO": 0.76
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "688136.SH",

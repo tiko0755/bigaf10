@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 20.65,
       "AVG_HOLD_AMT": 337318.25839971,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 73.28286839,
+      "FREEHOLD_RATIO_TOTAL": 73.28286839
     },
     {
       "SECUCODE": "300864.SZ",
@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300864.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300864.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300864.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "300864.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300864.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300864.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300864.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300864.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300864.SZ",
       "END_DATE": "2025-12-14 00:00:00",
@@ -341,6 +351,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "300864.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300864.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -354,80 +368,9 @@
     {
       "SECUCODE": "300864.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300864.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-12-14 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "南京国环投资管理有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 40172874,
-      "HOLD_NUM_RATIO": 25.4403,
-      "HOLD_CHANGE": "-600200",
-      "CHANGE_RATIO": -1.47204991,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-14 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "南京南高管理咨询中心(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 13426977,
-      "HOLD_NUM_RATIO": 8.5029,
-      "HOLD_CHANGE": "-322200",
-      "CHANGE_RATIO": -2.34341299,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-14 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "南京两江管理咨询中心(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 13044549,
-      "HOLD_NUM_RATIO": 8.2607,
-      "HOLD_CHANGE": "-319000",
-      "CHANGE_RATIO": -2.38709044,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-07-27 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "南京国环投资管理有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 40773074,
-      "HOLD_NUM_RATIO": 26.055,
-      "HOLD_CHANGE": "-415200",
-      "CHANGE_RATIO": -1.00805389,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-07-27 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "南京南高管理咨询中心(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 13768177,
-      "HOLD_NUM_RATIO": 8.7982,
-      "HOLD_CHANGE": "-83200",
-      "CHANGE_RATIO": -0.6006623,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-07-27 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "南京两江管理咨询中心(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 13379549,
-      "HOLD_NUM_RATIO": 8.5499,
-      "HOLD_CHANGE": "-6500",
-      "CHANGE_RATIO": -0.04855802,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "300864.SZ",
@@ -455,152 +398,152 @@
     {
       "SECUCODE": "300864.SZ",
       "SECURITY_CODE": "300864",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "南京大学资本运营有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 46512000,
-      "FREE_HOLDNUM_RATIO": 29.482601826173,
+      "FREE_HOLDNUM_RATIO": 29.454625308663,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300864.SZ",
       "SECURITY_CODE": "300864",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "南京国环投资管理有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 40773074,
-      "FREE_HOLDNUM_RATIO": 25.844863819468,
-      "HOLD_NUM_CHANGE": "-415200",
-      "CHANGE_RATIO": -1.00805389
-    },
-    {
-      "SECUCODE": "300864.SZ",
-      "SECURITY_CODE": "300864",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "南京南高管理咨询中心(有限合伙)",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 13749177,
-      "FREE_HOLDNUM_RATIO": 8.715202763342,
-      "HOLD_NUM_CHANGE": "-102200",
-      "CHANGE_RATIO": -0.73783278
-    },
-    {
-      "SECUCODE": "300864.SZ",
-      "SECURITY_CODE": "300864",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "南京两江管理咨询中心(有限合伙)",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 13363549,
-      "FREE_HOLDNUM_RATIO": 8.470764408143,
-      "HOLD_NUM_CHANGE": "-22500",
-      "CHANGE_RATIO": -0.16808544
-    },
-    {
-      "SECUCODE": "300864.SZ",
-      "SECURITY_CODE": "300864",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "张剑",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1865009,
-      "FREE_HOLDNUM_RATIO": 1.182174874209,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300864.SZ",
-      "SECURITY_CODE": "300864",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "孙成程",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 480000,
-      "FREE_HOLDNUM_RATIO": 0.304258016782,
-      "HOLD_NUM_CHANGE": "224000",
-      "CHANGE_RATIO": 87.5
-    },
-    {
-      "SECUCODE": "300864.SZ",
-      "SECURITY_CODE": "300864",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "华汇工程设计集团股份有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 313880,
-      "FREE_HOLDNUM_RATIO": 0.198959388141,
-      "HOLD_NUM_CHANGE": "-326120",
-      "CHANGE_RATIO": -50.95625
-    },
-    {
-      "SECUCODE": "300864.SZ",
-      "SECURITY_CODE": "300864",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "郑新学",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 265000,
-      "FREE_HOLDNUM_RATIO": 0.167975780098,
+      "HOLD_NUM": 40172874,
+      "FREE_HOLDNUM_RATIO": 25.440250929698,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300864.SZ",
       "SECURITY_CODE": "300864",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "谭坤",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "南京南高管理咨询中心(有限合伙)",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 13426977,
+      "FREE_HOLDNUM_RATIO": 8.502893372958,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300864.SZ",
+      "SECURITY_CODE": "300864",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "南京两江管理咨询中心(有限合伙)",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 13044549,
+      "FREE_HOLDNUM_RATIO": 8.260713431276,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300864.SZ",
+      "SECURITY_CODE": "300864",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "谢素菊",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 233408,
-      "FREE_HOLDNUM_RATIO": 0.147950531627,
+      "HOLD_NUM": 652267,
+      "FREE_HOLDNUM_RATIO": 0.413060717368,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300864.SZ",
       "SECURITY_CODE": "300864",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "张书华",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 504200,
+      "FREE_HOLDNUM_RATIO": 0.319294420378,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300864.SZ",
+      "SECURITY_CODE": "300864",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 452585,
+      "FREE_HOLDNUM_RATIO": 0.286608221434,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300864.SZ",
+      "SECURITY_CODE": "300864",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 383226,
+      "FREE_HOLDNUM_RATIO": 0.242685290646,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300864.SZ",
+      "SECURITY_CODE": "300864",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "林财彬",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 221100,
-      "FREE_HOLDNUM_RATIO": 0.14014884898,
+      "HOLD_NUM": 288500,
+      "FREE_HOLDNUM_RATIO": 0.182698215548,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300864.SZ",
+      "SECURITY_CODE": "300864",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "郑新学",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 284300,
+      "FREE_HOLDNUM_RATIO": 0.18003848416,
+      "HOLD_NUM_CHANGE": "14300",
+      "CHANGE_RATIO": 5.2962963
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "300864.SZ",
       "SECURITY_CODE": "300864",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 117776197,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 115721478,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 39984642,
-      "HOLD_NUM_RATIO": 74.65,
+      "OTHER_UNLIMITED_SHARES": 42189205,
+      "HOLD_NUM_RATIO": 73.28,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 25.35
+      "UNLIMITED_SHARES_RATIO": 26.72
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300864.SZ",
       "SECURITY_CODE": "300864",
-      "END_DATE": "2025-12-14 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "南京大学资本运营有限公司",
       "SHARES_TYPE": "流通A股",
@@ -612,60 +555,142 @@
     {
       "SECUCODE": "300864.SZ",
       "SECURITY_CODE": "300864",
-      "END_DATE": "2025-12-14 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "南京国环投资管理有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 40172874,
-      "HOLD_NUM_RATIO": 25.4403,
-      "HOLD_NUM_CHANGE": "-600200",
-      "CHANGE_RATIO": -1.47204991
+      "HOLD_NUM_RATIO": 25.44,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300864.SZ",
       "SECURITY_CODE": "300864",
-      "END_DATE": "2025-12-14 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "南京南高管理咨询中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 13426977,
-      "HOLD_NUM_RATIO": 8.5029,
-      "HOLD_NUM_CHANGE": "-322200",
-      "CHANGE_RATIO": -2.34341299
+      "HOLD_NUM_RATIO": 8.5,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300864.SZ",
       "SECURITY_CODE": "300864",
-      "END_DATE": "2025-12-14 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "南京两江管理咨询中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 13044549,
-      "HOLD_NUM_RATIO": 8.2607,
-      "HOLD_NUM_CHANGE": "-319000",
-      "CHANGE_RATIO": -2.38709044
+      "HOLD_NUM_RATIO": 8.26,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300864.SZ",
+      "SECURITY_CODE": "300864",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "谢素菊",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 652267,
+      "HOLD_NUM_RATIO": 0.41,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300864.SZ",
+      "SECURITY_CODE": "300864",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "张书华",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 504200,
+      "HOLD_NUM_RATIO": 0.32,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300864.SZ",
+      "SECURITY_CODE": "300864",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 452585,
+      "HOLD_NUM_RATIO": 0.29,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300864.SZ",
+      "SECURITY_CODE": "300864",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 383226,
+      "HOLD_NUM_RATIO": 0.24,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300864.SZ",
+      "SECURITY_CODE": "300864",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "林财彬",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 288500,
+      "HOLD_NUM_RATIO": 0.18,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300864.SZ",
+      "SECURITY_CODE": "300864",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "郑新学",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 284300,
+      "HOLD_NUM_RATIO": 0.18,
+      "HOLD_NUM_CHANGE": "14300",
+      "CHANGE_RATIO": 5.2962963
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "300864.SZ",
       "SECURITY_CODE": "300864",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 25,
-      "TOTAL_FREE_SHARES": 465991,
-      "TOTAL_SHARES_RATIO": 0.29509785,
-      "ALL_SHARES_RATIO": 0.29509785
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 113992211,
+      "TOTAL_SHARES_RATIO": 72.18777655,
+      "ALL_SHARES_RATIO": 72.18777655
     },
     {
       "SECUCODE": "300864.SZ",
       "SECURITY_CODE": "300864",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 25,
-      "TOTAL_FREE_SHARES": 465991,
-      "TOTAL_SHARES_RATIO": 0.29509785,
-      "ALL_SHARES_RATIO": 0.29509785
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 835811,
+      "TOTAL_SHARES_RATIO": 0.52929351,
+      "ALL_SHARES_RATIO": 0.52929351
+    },
+    {
+      "SECUCODE": "300864.SZ",
+      "SECURITY_CODE": "300864",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 113156400,
+      "TOTAL_SHARES_RATIO": 71.65848304,
+      "ALL_SHARES_RATIO": 71.65848304
     }
   ],
   "jjcg": [

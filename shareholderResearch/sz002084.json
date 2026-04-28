@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 3.9,
       "AVG_HOLD_AMT": 79027.6333249497,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 47.015069,
+      "FREEHOLD_RATIO_TOTAL": 47.12556142
     },
     {
       "SECUCODE": "002084.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002084.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002084.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002084.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002084.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002084.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002084.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002084.SZ",
       "END_DATE": "2016-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002084.SZ",
-      "END_DATE": "2016-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "002084.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "002084.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "002084.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002084.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "002084.SZ",
       "SECURITY_CODE": "002084",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中馀投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "002084.SZ",
       "SECURITY_CODE": "002084",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中盛集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "002084.SZ",
       "SECURITY_CODE": "002084",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "上海齐煜信息科技有限公司",
       "HOLDER_TYPE": "其它",
@@ -512,20 +512,20 @@
     {
       "SECUCODE": "002084.SZ",
       "SECURITY_CODE": "002084",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "广州市裕进贸易有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 15906597,
-      "FREE_HOLDNUM_RATIO": 2.467894251464,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 15806597,
+      "FREE_HOLDNUM_RATIO": 2.452379341194,
+      "HOLD_NUM_CHANGE": "-100000",
+      "CHANGE_RATIO": -0.62866998
     },
     {
       "SECUCODE": "002084.SZ",
       "SECURITY_CODE": "002084",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "齐家网(上海)网络科技有限公司",
       "HOLDER_TYPE": "其它",
@@ -538,20 +538,20 @@
     {
       "SECUCODE": "002084.SZ",
       "SECURITY_CODE": "002084",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "广东东鹏文化创意股份有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 7594136,
       "FREE_HOLDNUM_RATIO": 1.178223386136,
-      "HOLD_NUM_CHANGE": "-1000000",
-      "CHANGE_RATIO": -11.635841
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002084.SZ",
       "SECURITY_CODE": "002084",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "上海齐盛电子商务有限公司",
       "HOLDER_TYPE": "其它",
@@ -564,39 +564,39 @@
     {
       "SECUCODE": "002084.SZ",
       "SECURITY_CODE": "002084",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "信益陶瓷(中国)有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3000000,
-      "FREE_HOLDNUM_RATIO": 0.465447308082,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002084.SZ",
-      "SECURITY_CODE": "002084",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "唐台英",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2662067,
-      "FREE_HOLDNUM_RATIO": 0.413017306361,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002084.SZ",
-      "SECURITY_CODE": "002084",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "高盛国际-自有资金",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2405609,
-      "FREE_HOLDNUM_RATIO": 0.373228077782,
+      "HOLD_NUM": 6315113,
+      "FREE_HOLDNUM_RATIO": 0.979784115361,
+      "HOLD_NUM_CHANGE": "3909504",
+      "CHANGE_RATIO": 162.51618613
+    },
+    {
+      "SECUCODE": "002084.SZ",
+      "SECURITY_CODE": "002084",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "李子树",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4218600,
+      "FREE_HOLDNUM_RATIO": 0.654512004625,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002084.SZ",
+      "SECURITY_CODE": "002084",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "UBS AG",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3935090,
+      "FREE_HOLDNUM_RATIO": 0.61052568252,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "002084.SZ",
       "SECURITY_CODE": "002084",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 297442566,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 303743693,
       "LIMITED_SHARES": 1514768,
-      "OTHER_UNLIMITED_SHARES": 347098706,
-      "HOLD_NUM_RATIO": 46.04,
+      "OTHER_UNLIMITED_SHARES": 340797579,
+      "HOLD_NUM_RATIO": 47.02,
       "LIMITED_SHARES_RATIO": 0.23,
-      "UNLIMITED_SHARES_RATIO": 53.73
+      "UNLIMITED_SHARES_RATIO": 52.75
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002084.SZ",
       "SECURITY_CODE": "002084",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中馀投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "002084.SZ",
       "SECURITY_CODE": "002084",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中盛集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "002084.SZ",
       "SECURITY_CODE": "002084",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "上海齐煜信息科技有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,19 +654,19 @@
     {
       "SECUCODE": "002084.SZ",
       "SECURITY_CODE": "002084",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "广州市裕进贸易有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 15906597,
-      "HOLD_NUM_RATIO": 2.46,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 15806597,
+      "HOLD_NUM_RATIO": 2.45,
+      "HOLD_NUM_CHANGE": "-100000",
+      "CHANGE_RATIO": -0.62866998
     },
     {
       "SECUCODE": "002084.SZ",
       "SECURITY_CODE": "002084",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "齐家网(上海)网络科技有限公司",
       "SHARES_TYPE": "流通A股",
@@ -678,19 +678,19 @@
     {
       "SECUCODE": "002084.SZ",
       "SECURITY_CODE": "002084",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "广东东鹏文化创意股份有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 7594136,
       "HOLD_NUM_RATIO": 1.18,
-      "HOLD_NUM_CHANGE": "-1000000",
-      "CHANGE_RATIO": -11.635841
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002084.SZ",
       "SECURITY_CODE": "002084",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "上海齐盛电子商务有限公司",
       "SHARES_TYPE": "流通A股",
@@ -702,36 +702,36 @@
     {
       "SECUCODE": "002084.SZ",
       "SECURITY_CODE": "002084",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "信益陶瓷(中国)有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3000000,
-      "HOLD_NUM_RATIO": 0.46,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002084.SZ",
-      "SECURITY_CODE": "002084",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "唐台英",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2662067,
-      "HOLD_NUM_RATIO": 0.41,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002084.SZ",
-      "SECURITY_CODE": "002084",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "高盛国际-自有资金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2405609,
-      "HOLD_NUM_RATIO": 0.37,
+      "HOLD_NUM": 6315113,
+      "HOLD_NUM_RATIO": 0.98,
+      "HOLD_NUM_CHANGE": "3909504",
+      "CHANGE_RATIO": 162.51618613
+    },
+    {
+      "SECUCODE": "002084.SZ",
+      "SECURITY_CODE": "002084",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "李子树",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4218600,
+      "HOLD_NUM_RATIO": 0.65,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002084.SZ",
+      "SECURITY_CODE": "002084",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "UBS AG",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3935090,
+      "HOLD_NUM_RATIO": 0.61,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -740,42 +740,32 @@
     {
       "SECUCODE": "002084.SZ",
       "SECURITY_CODE": "002084",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 29,
-      "TOTAL_FREE_SHARES": 299275914,
-      "TOTAL_SHARES_RATIO": 46.43238953,
-      "ALL_SHARES_RATIO": 46.32352233
+      "TOTAL_ORG_NUM": 9,
+      "TOTAL_FREE_SHARES": 299525093,
+      "TOTAL_SHARES_RATIO": 46.47104942,
+      "ALL_SHARES_RATIO": 46.36209159
     },
     {
       "SECUCODE": "002084.SZ",
       "SECURITY_CODE": "002084",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 20,
-      "TOTAL_FREE_SHARES": 4495415,
-      "TOTAL_SHARES_RATIO": 0.69745961,
-      "ALL_SHARES_RATIO": 0.69582432
-    },
-    {
-      "SECUCODE": "002084.SZ",
-      "SECURITY_CODE": "002084",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "02",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 2405609,
-      "TOTAL_SHARES_RATIO": 0.37322808,
-      "ALL_SHARES_RATIO": 0.37235299
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 10250203,
+      "TOTAL_SHARES_RATIO": 1.5903098,
+      "ALL_SHARES_RATIO": 1.5865811
     },
     {
       "SECUCODE": "002084.SZ",
       "SECURITY_CODE": "002084",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 8,
-      "TOTAL_FREE_SHARES": 292374890,
-      "TOTAL_SHARES_RATIO": 45.36170184,
-      "ALL_SHARES_RATIO": 45.25534502
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 289274890,
+      "TOTAL_SHARES_RATIO": 44.88073962,
+      "ALL_SHARES_RATIO": 44.77551049
     }
   ],
   "jjcg": [

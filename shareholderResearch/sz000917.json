@@ -1,1 +1,807 @@
-"<!DOCTYPE html>\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head>\r\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\r\n    <title>无F10资料</title>\r\n    <style type=\"text/css\">\r\n        .parent {\r\n            position: fixed;\r\n            top: 50%;\r\n            bottom: 50%;\r\n            left: 50%;\r\n            right: 50%;\r\n            width: 0;\r\n            height: 0;\r\n        }\r\n\r\n        .show {\r\n            border: 0px solid red;\r\n            width: 20rem;\r\n            /* 以下两个属性必须为width,height值的负一半 */\r\n            margin-left: -10rem;\r\n            margin-top: -60px;\r\n            text-align: center;\r\n        }\r\n\r\n        table {\r\n            width: 100%;\r\n            height: 100%;\r\n            text-align: center;\r\n        }\r\n\r\n        td {\r\n            border: 1px solid red;\r\n        }\r\n    </style>\r\n</head>\r\n<body style=\"background-color: #070707;\">\r\n    <div class=\"parent\">\r\n        <div class=\"show\">\r\n            <img id=\"loadImg\" src=\"../Content/img/noData_b.png\" />\r\n        </div>\r\n    </div>\r\n</body>\r\n</html>\r\n<script>\r\n    window.onload = function () {\r\n        var skin = GetQueryString(\"type\");\r\n        var color = GetQueryString(\"color\");\r\n        if (skin && skin == \"web\" || color==\"w\") {\r\n            document.getElementById(\"loadImg\").src = \"../Content/img/noData_w.png\";\r\n            document.getElementsByTagName(\"body\")[0].style.backgroundColor = \"#ffffff\";\r\n        }\r\n    };\r\n\r\n    function GetQueryString(name) {\r\n        var reg = new RegExp(\"(^|&)\" + name + \"=([^&]*)(&|$)\");\r\n        var r = window.location.search.substr(1).match(reg);\r\n        if (r != null) return unescape(r[2]); return null;\r\n    }\r\n</script>\r\n"
+{
+  "gdrs": [
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_TOTAL_NUM": 96691,
+      "TOTAL_NUM_RATIO": 6.5325,
+      "AVG_FREE_SHARES": 14659,
+      "AVG_FREESHARES_RATIO": -6.131904727431,
+      "HOLD_FOCUS": "非常分散",
+      "PRICE": 9.35,
+      "AVG_HOLD_AMT": 137068.031606354,
+      "HOLD_RATIO_TOTAL": 24.06950397,
+      "FREEHOLD_RATIO_TOTAL": 24.07115067
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_TOTAL_NUM": 90762,
+      "TOTAL_NUM_RATIO": 18.1197,
+      "AVG_FREE_SHARES": 15617,
+      "AVG_FREESHARES_RATIO": -15.340120314669,
+      "HOLD_FOCUS": "非常分散",
+      "PRICE": 10.28,
+      "AVG_HOLD_AMT": 160546.06830656,
+      "HOLD_RATIO_TOTAL": 24.76999521,
+      "FREEHOLD_RATIO_TOTAL": 24.77168984
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2025-09-30 00:00:00",
+      "HOLDER_TOTAL_NUM": 76839,
+      "TOTAL_NUM_RATIO": -14.3617,
+      "AVG_FREE_SHARES": 18447,
+      "AVG_FREESHARES_RATIO": 16.770129751819,
+      "HOLD_FOCUS": "非常分散",
+      "PRICE": 8.38,
+      "AVG_HOLD_AMT": 154586.986581554,
+      "HOLD_RATIO_TOTAL": 24.77485075,
+      "FREEHOLD_RATIO_TOTAL": 24.77654571
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2025-06-30 00:00:00",
+      "HOLDER_TOTAL_NUM": 89725,
+      "TOTAL_NUM_RATIO": -3.2844,
+      "AVG_FREE_SHARES": 15797,
+      "AVG_FREESHARES_RATIO": 3.395932014489,
+      "HOLD_FOCUS": "非常分散",
+      "PRICE": 7.540490286,
+      "AVG_HOLD_AMT": 119123.305182516,
+      "HOLD_RATIO_TOTAL": 24.10188935,
+      "FREEHOLD_RATIO_TOTAL": 24.10353827
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2025-03-31 00:00:00",
+      "HOLDER_TOTAL_NUM": 92772,
+      "TOTAL_NUM_RATIO": -9.0417,
+      "AVG_FREE_SHARES": 15278,
+      "AVG_FREESHARES_RATIO": 9.940499288578,
+      "HOLD_FOCUS": "非常分散",
+      "PRICE": 7.9893289935,
+      "AVG_HOLD_AMT": 122068.611067175,
+      "HOLD_RATIO_TOTAL": 24.08957837,
+      "FREEHOLD_RATIO_TOTAL": 24.09122645
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2024-12-31 00:00:00",
+      "HOLDER_TOTAL_NUM": 101994,
+      "TOTAL_NUM_RATIO": 6.0736,
+      "AVG_FREE_SHARES": 13897,
+      "AVG_FREESHARES_RATIO": -5.725827009432,
+      "HOLD_FOCUS": "非常分散",
+      "PRICE": 7.0517548045,
+      "AVG_HOLD_AMT": 98001.6066946954,
+      "HOLD_RATIO_TOTAL": 25.35385327,
+      "FREEHOLD_RATIO_TOTAL": 25.35558785
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2024-09-30 00:00:00",
+      "HOLDER_TOTAL_NUM": 96154,
+      "TOTAL_NUM_RATIO": -8.0587,
+      "AVG_FREE_SHARES": 14741,
+      "AVG_FREESHARES_RATIO": 8.76510597583,
+      "HOLD_FOCUS": "非常分散",
+      "PRICE": 6.363535453,
+      "AVG_HOLD_AMT": 93808.4001667876,
+      "HOLD_RATIO_TOTAL": 25.11970561,
+      "FREEHOLD_RATIO_TOTAL": 25.12142417
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2024-06-30 00:00:00",
+      "HOLDER_TOTAL_NUM": 104582,
+      "TOTAL_NUM_RATIO": -16.7354,
+      "AVG_FREE_SHARES": 13553,
+      "AVG_FREESHARES_RATIO": 20.099061023886,
+      "HOLD_FOCUS": "非常分散",
+      "PRICE": 5.0164505775,
+      "AVG_HOLD_AMT": 67990.8095093241,
+      "HOLD_RATIO_TOTAL": 23.76994536,
+      "FREEHOLD_RATIO_TOTAL": 23.77157157
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2024-03-31 00:00:00",
+      "HOLDER_TOTAL_NUM": 125602,
+      "TOTAL_NUM_RATIO": 47.9411,
+      "AVG_FREE_SHARES": 11285,
+      "AVG_FREESHARES_RATIO": -32.405534943711,
+      "HOLD_FOCUS": "非常分散",
+      "PRICE": 6.4468840095,
+      "AVG_HOLD_AMT": 72755.1798652948,
+      "HOLD_RATIO_TOTAL": 23.60562674,
+      "FREEHOLD_RATIO_TOTAL": 23.60724171
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2023-12-31 00:00:00",
+      "HOLDER_TOTAL_NUM": 84900,
+      "TOTAL_NUM_RATIO": 13.0975,
+      "AVG_FREE_SHARES": 16695,
+      "AVG_FREESHARES_RATIO": -11.568724721924,
+      "HOLD_FOCUS": "非常分散",
+      "PRICE": 5.443593894,
+      "AVG_HOLD_AMT": 90884.2536327436,
+      "HOLD_RATIO_TOTAL": 24.18447682,
+      "FREEHOLD_RATIO_TOTAL": 24.18613139
+    }
+  ],
+  "sdltgd_date": [
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2025-09-30 00:00:00"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2025-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2025-03-31 00:00:00"
+    }
+  ],
+  "sdgd_date": [
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2025-09-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2025-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2025-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2024-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2024-09-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2024-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2024-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2024-03-22 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2023-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2023-09-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2023-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2023-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2022-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2022-09-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2022-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2022-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2021-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2021-09-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2021-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2021-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2020-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2020-09-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2020-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2020-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2019-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2019-09-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2019-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2019-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2018-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2018-09-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2018-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2018-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2017-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2017-09-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2017-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2017-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2016-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2016-09-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2016-07-06 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2016-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2016-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2015-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2015-09-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2015-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2015-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2014-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2014-09-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "END_DATE": "2014-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    }
+  ],
+  "sjkzr": [
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "HOLDER_NAME": "湖南省国有文化资产监督管理委员会",
+      "HOLD_RATIO": null
+    }
+  ],
+  "jgcc_date": [
+    {
+      "SECUCODE": "000917.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "REPORT_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "REPORT_DATE": "2025-09-30 00:00:00"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "REPORT_DATE": "2025-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "REPORT_DATE": "2025-03-31 00:00:00"
+    }
+  ],
+  "sdgdcgbd": [],
+  "jjcg_date": [
+    {
+      "SECUCODE": "000917.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "REPORT_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "REPORT_DATE": "2025-09-30 00:00:00"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "REPORT_DATE": "2025-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "REPORT_DATE": "2025-03-31 00:00:00"
+    }
+  ],
+  "xsjj": [],
+  "sdltgd": [
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 1,
+      "HOLDER_NAME": "芒果传媒有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 236141980,
+      "FREE_HOLDNUM_RATIO": 16.659523804634,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "程燕",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 25102400,
+      "FREE_HOLDNUM_RATIO": 1.770943185762,
+      "HOLD_NUM_CHANGE": "-2233600",
+      "CHANGE_RATIO": -8.17091016
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 14778631,
+      "FREE_HOLDNUM_RATIO": 1.042614087272,
+      "HOLD_NUM_CHANGE": "-1860377",
+      "CHANGE_RATIO": -11.18081679
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "赵芝虹",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 14639200,
+      "FREE_HOLDNUM_RATIO": 1.032777403157,
+      "HOLD_NUM_CHANGE": "1139200",
+      "CHANGE_RATIO": 8.43851852
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "衡阳市广播电视台",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 11988651,
+      "FREE_HOLDNUM_RATIO": 0.845784458655,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国工商银行股份有限公司-广发中证传媒交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 9310670,
+      "FREE_HOLDNUM_RATIO": 0.656856220576,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "李桑",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 9000000,
+      "FREE_HOLDNUM_RATIO": 0.634938837396,
+      "HOLD_NUM_CHANGE": "-200500",
+      "CHANGE_RATIO": -2.17922939
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "赵芝伟",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7827648,
+      "FREE_HOLDNUM_RATIO": 0.552230857852,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "北京鼎新隆文化发展有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7000800,
+      "FREE_HOLDNUM_RATIO": 0.493897756983,
+      "HOLD_NUM_CHANGE": "-292000",
+      "CHANGE_RATIO": -4.0039491
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "陈妙云",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5408799,
+      "FREE_HOLDNUM_RATIO": 0.381584060975,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    }
+  ],
+  "ltgf": [
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 341198779,
+      "LIMITED_SHARES": 96975,
+      "OTHER_UNLIMITED_SHARES": 1076260584,
+      "HOLD_NUM_RATIO": 24.07,
+      "LIMITED_SHARES_RATIO": 0.01,
+      "UNLIMITED_SHARES_RATIO": 75.92
+    }
+  ],
+  "sdgd": [
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 1,
+      "HOLDER_NAME": "芒果传媒有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 236141980,
+      "HOLD_NUM_RATIO": 16.66,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "程燕",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 25102400,
+      "HOLD_NUM_RATIO": 1.77,
+      "HOLD_NUM_CHANGE": "-2233600",
+      "CHANGE_RATIO": -8.17091016
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 14778631,
+      "HOLD_NUM_RATIO": 1.04,
+      "HOLD_NUM_CHANGE": "-1860377",
+      "CHANGE_RATIO": -11.18081679
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "赵芝虹",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 14639200,
+      "HOLD_NUM_RATIO": 1.03,
+      "HOLD_NUM_CHANGE": "1139200",
+      "CHANGE_RATIO": 8.43851852
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "衡阳市广播电视台",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 11988651,
+      "HOLD_NUM_RATIO": 0.85,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国工商银行股份有限公司-广发中证传媒交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 9310670,
+      "HOLD_NUM_RATIO": 0.66,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "李桑",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 9000000,
+      "HOLD_NUM_RATIO": 0.63,
+      "HOLD_NUM_CHANGE": "-200500",
+      "CHANGE_RATIO": -2.17922939
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "赵芝伟",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7827648,
+      "HOLD_NUM_RATIO": 0.55,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "北京鼎新隆文化发展有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7000800,
+      "HOLD_NUM_RATIO": 0.49,
+      "HOLD_NUM_CHANGE": "-292000",
+      "CHANGE_RATIO": -4.0039491
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "陈妙云",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5408799,
+      "HOLD_NUM_RATIO": 0.38,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    }
+  ],
+  "jgcc": [
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "00",
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 279326732,
+      "TOTAL_SHARES_RATIO": 19.7061545,
+      "ALL_SHARES_RATIO": 19.70480641
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "01",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 9416670,
+      "TOTAL_SHARES_RATIO": 0.66433439,
+      "ALL_SHARES_RATIO": 0.66428895
+    },
+    {
+      "SECUCODE": "000917.SZ",
+      "SECURITY_CODE": "000917",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 269910062,
+      "TOTAL_SHARES_RATIO": 19.04182011,
+      "ALL_SHARES_RATIO": 19.04051746
+    }
+  ],
+  "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "000917.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "512980",
+      "HOLDER_NAME": "广发中证传媒ETF",
+      "TOTAL_SHARES": 9310670,
+      "HOLD_VALUE": 87054764.5,
+      "TOTALSHARES_RATIO": 0.65681129,
+      "FREESHARES_RATIO": 0.65685622,
+      "FREE_MARKET_CAP": 87054764.5,
+      "FREE_SHARES": 9310670,
+      "SECURITY_CODE": "000917",
+      "FUND_CODE": "512980",
+      "FUND_DERIVECODE": "512980.SH",
+      "NETVALUE_RATIO": 1.67
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "000917.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "017505",
+      "HOLDER_NAME": "明亚中证1000指数增强A",
+      "TOTAL_SHARES": 106000,
+      "HOLD_VALUE": 991100,
+      "TOTALSHARES_RATIO": 0.00747766,
+      "FREESHARES_RATIO": 0.00747817,
+      "FREE_MARKET_CAP": 991100,
+      "FREE_SHARES": 106000,
+      "SECURITY_CODE": "000917",
+      "FUND_CODE": "017505",
+      "FUND_DERIVECODE": "017505.OF",
+      "NETVALUE_RATIO": 0.81
+    }
+  ]
+}

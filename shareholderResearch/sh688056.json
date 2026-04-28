@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 34.16,
       "AVG_HOLD_AMT": 635109.16030871,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 66.77895513,
+      "FREEHOLD_RATIO_TOTAL": 66.77895513
     },
     {
       "SECUCODE": "688056.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "688056.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "688056.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "688056.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "688056.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "688056.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "688056.SH",
       "END_DATE": "2026-01-08 00:00:00",
@@ -420,7 +425,7 @@
     {
       "SECUCODE": "688056.SH",
       "SECURITY_CODE": "688056",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京莱伯泰科管理咨询有限公司",
       "HOLDER_TYPE": "其它",
@@ -433,34 +438,47 @@
     {
       "SECUCODE": "688056.SH",
       "SECURITY_CODE": "688056",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "LabTech Holdings,Inc.",
+      "HOLDER_NAME": "LabTechHoldings,Inc.",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 16118000,
-      "FREE_HOLDNUM_RATIO": 23.89534792356,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 11972546,
+      "FREE_HOLDNUM_RATIO": 17.749606167069,
+      "HOLD_NUM_CHANGE": "-4145454",
+      "CHANGE_RATIO": -25.71940687
+    },
+    {
+      "SECUCODE": "688056.SH",
+      "SECURITY_CODE": "688056",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "青岛市创新投资有限公司",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4145454,
+      "FREE_HOLDNUM_RATIO": 6.14574175649,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688056.SH",
       "SECURITY_CODE": "688056",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "陈宣昆",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1687738,
-      "FREE_HOLDNUM_RATIO": 2.502114822795,
-      "HOLD_NUM_CHANGE": "210434",
-      "CHANGE_RATIO": 14.24446153
+      "HOLD_NUM": 1463316,
+      "FREE_HOLDNUM_RATIO": 2.169403458376,
+      "HOLD_NUM_CHANGE": "-224422",
+      "CHANGE_RATIO": -13.29720608
     },
     {
       "SECUCODE": "688056.SH",
       "SECURITY_CODE": "688056",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "于浩",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -472,8 +490,8 @@
     {
       "SECUCODE": "688056.SH",
       "SECURITY_CODE": "688056",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "王墨",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -485,8 +503,8 @@
     {
       "SECUCODE": "688056.SH",
       "SECURITY_CODE": "688056",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "周宜霞",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -498,47 +516,21 @@
     {
       "SECUCODE": "688056.SH",
       "SECURITY_CODE": "688056",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "诺德基金-山东惠瀚产业发展有限公司-诺德基金浦江520号单一资产管理计划",
-      "HOLDER_TYPE": "基金资产管理计划",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 685166,
-      "FREE_HOLDNUM_RATIO": 1.01577614812,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688056.SH",
-      "SECURITY_CODE": "688056",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国农业银行股份有限公司-大成睿享混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 568056,
-      "FREE_HOLDNUM_RATIO": 0.842157572904,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688056.SH",
-      "SECURITY_CODE": "688056",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "倪东帆",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 548210,
-      "FREE_HOLDNUM_RATIO": 0.812735369474,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 524710,
+      "FREE_HOLDNUM_RATIO": 0.777896017432,
+      "HOLD_NUM_CHANGE": "-23500",
+      "CHANGE_RATIO": -4.28667846
     },
     {
       "SECUCODE": "688056.SH",
       "SECURITY_CODE": "688056",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "北京兢业诚成咨询服务有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -546,26 +538,39 @@
       "FREE_HOLDNUM_RATIO": 0.741262809392,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688056.SH",
+      "SECURITY_CODE": "688056",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "黄图江",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 440215,
+      "FREE_HOLDNUM_RATIO": 0.652630015273,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "688056.SH",
       "SECURITY_CODE": "688056",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 46104977,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 45044048,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 21347483,
-      "HOLD_NUM_RATIO": 68.35,
+      "OTHER_UNLIMITED_SHARES": 22408412,
+      "HOLD_NUM_RATIO": 66.78,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 31.65
+      "UNLIMITED_SHARES_RATIO": 33.22
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "688056.SH",
       "SECURITY_CODE": "688056",
-      "END_DATE": "2026-01-08 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京莱伯泰科管理咨询有限公司",
       "SHARES_TYPE": "流通A股",
@@ -577,24 +582,108 @@
     {
       "SECUCODE": "688056.SH",
       "SECURITY_CODE": "688056",
-      "END_DATE": "2026-01-08 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "LabTech Holdings,Inc.",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 11972546,
       "HOLD_NUM_RATIO": 17.75,
-      "HOLD_NUM_CHANGE": "-4145454",
-      "CHANGE_RATIO": -25.71940687
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688056.SH",
       "SECURITY_CODE": "688056",
-      "END_DATE": "2026-01-08 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "青岛市创新投资有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4145454,
       "HOLD_NUM_RATIO": 6.15,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688056.SH",
+      "SECURITY_CODE": "688056",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "陈宣昆",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1463316,
+      "HOLD_NUM_RATIO": 2.17,
+      "HOLD_NUM_CHANGE": "-224422",
+      "CHANGE_RATIO": -13.29720608
+    },
+    {
+      "SECUCODE": "688056.SH",
+      "SECURITY_CODE": "688056",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "于浩",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1432446,
+      "HOLD_NUM_RATIO": 2.12,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688056.SH",
+      "SECURITY_CODE": "688056",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "王墨",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1210084,
+      "HOLD_NUM_RATIO": 1.79,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688056.SH",
+      "SECURITY_CODE": "688056",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "周宜霞",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1201850,
+      "HOLD_NUM_RATIO": 1.78,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688056.SH",
+      "SECURITY_CODE": "688056",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "倪东帆",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 524710,
+      "HOLD_NUM_RATIO": 0.78,
+      "HOLD_NUM_CHANGE": "-23500",
+      "CHANGE_RATIO": -4.28667846
+    },
+    {
+      "SECUCODE": "688056.SH",
+      "SECURITY_CODE": "688056",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "北京兢业诚成咨询服务有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 500000,
+      "HOLD_NUM_RATIO": 0.74,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688056.SH",
+      "SECURITY_CODE": "688056",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "黄图江",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 440215,
+      "HOLD_NUM_RATIO": 0.65,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,10 +694,10 @@
       "SECURITY_CODE": "688056",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 441027,
-      "TOTAL_SHARES_RATIO": 0.65383383,
-      "ALL_SHARES_RATIO": 0.65383383
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 39212454,
+      "TOTAL_SHARES_RATIO": 58.13346764,
+      "ALL_SHARES_RATIO": 58.13346764
     },
     {
       "SECUCODE": "688056.SH",
@@ -619,6 +708,16 @@
       "TOTAL_FREE_SHARES": 441027,
       "TOTAL_SHARES_RATIO": 0.65383383,
       "ALL_SHARES_RATIO": 0.65383383
+    },
+    {
+      "SECUCODE": "688056.SH",
+      "SECURITY_CODE": "688056",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 38771427,
+      "TOTAL_SHARES_RATIO": 57.47963381,
+      "ALL_SHARES_RATIO": 57.47963381
     }
   ],
   "jjcg": [

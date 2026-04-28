@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 34.14,
       "AVG_HOLD_AMT": 229147.099705681,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 43.7695631,
+      "FREEHOLD_RATIO_TOTAL": 37.06279456
     },
     {
       "SECUCODE": "300606.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300606.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300606.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300606.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300606.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300606.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300606.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -421,6 +426,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "300606.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300606.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -434,10 +443,6 @@
     {
       "SECUCODE": "300606.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300606.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -468,7 +473,7 @@
     {
       "SECUCODE": "300606.SZ",
       "SECURITY_CODE": "300606",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "HU XIUYING",
       "HOLDER_TYPE": "个人",
@@ -481,7 +486,7 @@
     {
       "SECUCODE": "300606.SZ",
       "SECURITY_CODE": "300606",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "YANG QING",
       "HOLDER_TYPE": "个人",
@@ -494,7 +499,7 @@
     {
       "SECUCODE": "300606.SZ",
       "SECURITY_CODE": "300606",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "杨璐",
       "HOLDER_TYPE": "个人",
@@ -507,21 +512,47 @@
     {
       "SECUCODE": "300606.SZ",
       "SECURITY_CODE": "300606",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1388342,
-      "FREE_HOLDNUM_RATIO": 1.179815648398,
-      "HOLD_NUM_CHANGE": "788072",
-      "CHANGE_RATIO": 131.28625452
+      "HOLD_NUM": 1552059,
+      "FREE_HOLDNUM_RATIO": 1.318942663578,
+      "HOLD_NUM_CHANGE": "868650",
+      "CHANGE_RATIO": 127.10543759
     },
     {
       "SECUCODE": "300606.SZ",
       "SECURITY_CODE": "300606",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "钱文祥",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1234600,
+      "FREE_HOLDNUM_RATIO": 1.04916540702,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300606.SZ",
+      "SECURITY_CODE": "300606",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "UBS AG",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1192700,
+      "FREE_HOLDNUM_RATIO": 1.013558708045,
+      "HOLD_NUM_CHANGE": "441110",
+      "CHANGE_RATIO": 58.69024335
+    },
+    {
+      "SECUCODE": "300606.SZ",
+      "SECURITY_CODE": "300606",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "YANG ZHEN",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -533,87 +564,61 @@
     {
       "SECUCODE": "300606.SZ",
       "SECURITY_CODE": "300606",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "李旭刚",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1120000,
-      "FREE_HOLDNUM_RATIO": 0.951778111017,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300606.SZ",
-      "SECURITY_CODE": "300606",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "于进江",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 772000,
-      "FREE_HOLDNUM_RATIO": 0.656047055094,
-      "HOLD_NUM_CHANGE": "173700",
-      "CHANGE_RATIO": 29.03225806
-    },
-    {
-      "SECUCODE": "300606.SZ",
-      "SECURITY_CODE": "300606",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "UBS AG",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 751590,
-      "FREE_HOLDNUM_RATIO": 0.638702598624,
-      "HOLD_NUM_CHANGE": "-65460",
-      "CHANGE_RATIO": -8.01174959
-    },
-    {
-      "SECUCODE": "300606.SZ",
-      "SECURITY_CODE": "300606",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "窦卉欣",
+      "HOLDER_NAME": "元元",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 694400,
-      "FREE_HOLDNUM_RATIO": 0.590102428831,
+      "HOLD_NUM": 1046000,
+      "FREE_HOLDNUM_RATIO": 0.888892771539,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300606.SZ",
       "SECURITY_CODE": "300606",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "BARCLAYS BANK PLC",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 683409,
-      "FREE_HOLDNUM_RATIO": 0.580762256314,
-      "HOLD_NUM_CHANGE": "90300",
-      "CHANGE_RATIO": 15.22485749
+      "HOLD_NUM": 1013039,
+      "FREE_HOLDNUM_RATIO": 0.860882451613,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300606.SZ",
+      "SECURITY_CODE": "300606",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 945052,
+      "FREE_HOLDNUM_RATIO": 0.803106970869,
+      "HOLD_NUM_CHANGE": "-443290",
+      "CHANGE_RATIO": -31.92945254
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "300606.SZ",
       "SECURITY_CODE": "300606",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 42039744,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 43613453,
       "LIMITED_SHARES": 20673340,
-      "OTHER_UNLIMITED_SHARES": 75634742,
-      "HOLD_NUM_RATIO": 30.39,
+      "OTHER_UNLIMITED_SHARES": 74061033,
+      "HOLD_NUM_RATIO": 31.52,
       "LIMITED_SHARES_RATIO": 14.94,
-      "UNLIMITED_SHARES_RATIO": 54.67
+      "UNLIMITED_SHARES_RATIO": 53.53
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300606.SZ",
       "SECURITY_CODE": "300606",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "HU XIUYING",
       "SHARES_TYPE": "流通A股",
@@ -625,7 +630,7 @@
     {
       "SECUCODE": "300606.SZ",
       "SECURITY_CODE": "300606",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "杨璐",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -637,7 +642,7 @@
     {
       "SECUCODE": "300606.SZ",
       "SECURITY_CODE": "300606",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "YANG QING",
       "SHARES_TYPE": "流通A股",
@@ -649,7 +654,7 @@
     {
       "SECUCODE": "300606.SZ",
       "SECURITY_CODE": "300606",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "YANG ZHEN",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -661,7 +666,7 @@
     {
       "SECUCODE": "300606.SZ",
       "SECURITY_CODE": "300606",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "杨伟",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -673,7 +678,7 @@
     {
       "SECUCODE": "300606.SZ",
       "SECURITY_CODE": "300606",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "方红",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -685,19 +690,19 @@
     {
       "SECUCODE": "300606.SZ",
       "SECURITY_CODE": "300606",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1388342,
-      "HOLD_NUM_RATIO": 1,
-      "HOLD_NUM_CHANGE": "788072",
-      "CHANGE_RATIO": 131.28625452
+      "HOLD_NUM": 1552059,
+      "HOLD_NUM_RATIO": 1.12,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300606.SZ",
       "SECURITY_CODE": "300606",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "刘宜彪",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -709,25 +714,25 @@
     {
       "SECUCODE": "300606.SZ",
       "SECURITY_CODE": "300606",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "李旭刚",
+      "HOLDER_NAME": "钱文祥",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1120000,
-      "HOLD_NUM_RATIO": 0.81,
+      "HOLD_NUM": 1234600,
+      "HOLD_NUM_RATIO": 0.89,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300606.SZ",
       "SECURITY_CODE": "300606",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "农忠超",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 1107500,
-      "HOLD_NUM_RATIO": 0.8,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLDER_NAME": "UBS AG",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1192700,
+      "HOLD_NUM_RATIO": 0.86,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -735,32 +740,22 @@
     {
       "SECUCODE": "300606.SZ",
       "SECURITY_CODE": "300606",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 31,
-      "TOTAL_FREE_SHARES": 3779941,
-      "TOTAL_SHARES_RATIO": 3.21220098,
-      "ALL_SHARES_RATIO": 2.73220122
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 4702850,
+      "TOTAL_SHARES_RATIO": 3.99649079,
+      "ALL_SHARES_RATIO": 3.39929447
     },
     {
       "SECUCODE": "300606.SZ",
       "SECURITY_CODE": "300606",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 28,
-      "TOTAL_FREE_SHARES": 956600,
-      "TOTAL_SHARES_RATIO": 0.81292047,
-      "ALL_SHARES_RATIO": 0.69144562
-    },
-    {
-      "SECUCODE": "300606.SZ",
-      "SECURITY_CODE": "300606",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "02",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 2823341,
-      "TOTAL_SHARES_RATIO": 2.39928051,
-      "ALL_SHARES_RATIO": 2.0407556
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 4702850,
+      "TOTAL_SHARES_RATIO": 3.99649079,
+      "ALL_SHARES_RATIO": 3.39929447
     }
   ],
   "jjcg": [

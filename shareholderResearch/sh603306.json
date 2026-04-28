@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 75.6,
       "AVG_HOLD_AMT": 956487.742656376,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 37.27776652,
+      "FREEHOLD_RATIO_TOTAL": 37.27776652
     },
     {
       "SECUCODE": "603306.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603306.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603306.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603306.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603306.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603306.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603306.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603306.SH",
       "END_DATE": "2021-05-13 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "603306.SH",
-      "END_DATE": "2021-05-12 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -445,30 +445,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-11-05 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "东阳华盛企业管理合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 51630360,
-      "HOLD_NUM_RATIO": 15.67,
-      "HOLD_CHANGE": "2207000",
-      "CHANGE_RATIO": 4.46549972,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-22 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "东阳华盛企业管理合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 49423360,
-      "HOLD_NUM_RATIO": 15,
-      "HOLD_CHANGE": "195100",
-      "CHANGE_RATIO": 0.39631707,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "603306.SH",
@@ -496,152 +473,152 @@
     {
       "SECUCODE": "603306.SH",
       "SECURITY_CODE": "603306",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "东阳华盛企业管理合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 51630360,
-      "FREE_HOLDNUM_RATIO": 15.669575456375,
-      "HOLD_NUM_CHANGE": "2402100",
-      "CHANGE_RATIO": 4.87951433
-    },
-    {
-      "SECUCODE": "603306.SH",
-      "SECURITY_CODE": "603306",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "华懋(厦门)新材料科技股份有限公司回购专用证券账户",
-      "HOLDER_TYPE": "证券账户",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 21527943,
-      "FREE_HOLDNUM_RATIO": 6.533631128256,
-      "HOLD_NUM_CHANGE": "364500",
-      "CHANGE_RATIO": 1.72230955
-    },
-    {
-      "SECUCODE": "603306.SH",
-      "SECURITY_CODE": "603306",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "华懋(厦门)新材料科技股份有限公司-2024年员工持股计划",
-      "HOLDER_TYPE": "员工持股计划",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12000000,
-      "FREE_HOLDNUM_RATIO": 3.64194449693,
+      "FREE_HOLDNUM_RATIO": 15.669550156392,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603306.SH",
       "SECURITY_CODE": "603306",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "华懋(厦门)新材料科技股份有限公司回购专用证券账户",
+      "HOLDER_TYPE": "证券账户",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 21527943,
+      "FREE_HOLDNUM_RATIO": 6.533620579102,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603306.SH",
+      "SECURITY_CODE": "603306",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "华懋(厦门)新材料科技股份有限公司-2024年员工持股计划",
+      "HOLDER_TYPE": "员工持股计划",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 12000000,
+      "FREE_HOLDNUM_RATIO": 3.641938616672,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603306.SH",
+      "SECURITY_CODE": "603306",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "张初全",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 11487400,
-      "FREE_HOLDNUM_RATIO": 3.486372767836,
-      "HOLD_NUM_CHANGE": "-2447500",
-      "CHANGE_RATIO": -17.5638146
+      "FREE_HOLDNUM_RATIO": 3.486367138764,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603306.SH",
       "SECURITY_CODE": "603306",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "兴业银行股份有限公司-博时汇兴回报一年持有期灵活配置混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "徐根林",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6925228,
-      "FREE_HOLDNUM_RATIO": 2.101774667049,
-      "HOLD_NUM_CHANGE": "-374200",
-      "CHANGE_RATIO": -5.12642908
+      "HOLD_NUM": 5292476,
+      "FREE_HOLDNUM_RATIO": 1.606239393518,
+      "HOLD_NUM_CHANGE": "1713700",
+      "CHANGE_RATIO": 47.88508697
     },
     {
       "SECUCODE": "603306.SH",
       "SECURITY_CODE": "603306",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "懋盛(厦门)企业管理咨询有限责任公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 4987300,
-      "FREE_HOLDNUM_RATIO": 1.513622482461,
-      "HOLD_NUM_CHANGE": "-1612300",
-      "CHANGE_RATIO": -24.4302685
+      "FREE_HOLDNUM_RATIO": 1.513620038578,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603306.SH",
       "SECURITY_CODE": "603306",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4543080,
-      "FREE_HOLDNUM_RATIO": 1.378803767093,
-      "HOLD_NUM_CHANGE": "1420664",
-      "CHANGE_RATIO": 45.49887011
-    },
-    {
-      "SECUCODE": "603306.SH",
-      "SECURITY_CODE": "603306",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "中国银河证券股份有限公司",
       "HOLDER_TYPE": "证券公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4279333,
-      "FREE_HOLDNUM_RATIO": 1.29875777249,
-      "HOLD_NUM_CHANGE": "1010533",
-      "CHANGE_RATIO": 30.91449462
+      "HOLD_NUM": 4411233,
+      "FREE_HOLDNUM_RATIO": 1.33878665082,
+      "HOLD_NUM_CHANGE": "131900",
+      "CHANGE_RATIO": 3.08225604
     },
     {
       "SECUCODE": "603306.SH",
       "SECURITY_CODE": "603306",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4366691,
+      "FREE_HOLDNUM_RATIO": 1.325268381665,
+      "HOLD_NUM_CHANGE": "-176389",
+      "CHANGE_RATIO": -3.88258626
+    },
+    {
+      "SECUCODE": "603306.SH",
+      "SECURITY_CODE": "603306",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
+      "HOLDER_NAME": "兴业银行股份有限公司-博时汇兴回报一年持有期灵活配置混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3703528,
+      "FREE_HOLDNUM_RATIO": 1.124001803427,
+      "HOLD_NUM_CHANGE": "-3221700",
+      "CHANGE_RATIO": -46.52121201
+    },
+    {
+      "SECUCODE": "603306.SH",
+      "SECURITY_CODE": "603306",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "林伟斌",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4155424,
-      "FREE_HOLDNUM_RATIO": 1.261151964101,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603306.SH",
-      "SECURITY_CODE": "603306",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "徐根林",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3578776,
-      "FREE_HOLDNUM_RATIO": 1.086141963245,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3421388,
+      "FREE_HOLDNUM_RATIO": 1.038373756652,
+      "HOLD_NUM_CHANGE": "-734036",
+      "CHANGE_RATIO": -17.66452713
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "603306.SH",
       "SECURITY_CODE": "603306",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 125114844,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 122828319,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 204379469,
-      "HOLD_NUM_RATIO": 37.97,
+      "OTHER_UNLIMITED_SHARES": 206666526,
+      "HOLD_NUM_RATIO": 37.28,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 62.03
+      "UNLIMITED_SHARES_RATIO": 62.72
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603306.SH",
       "SECURITY_CODE": "603306",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "东阳华盛企业管理合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -653,19 +630,19 @@
     {
       "SECUCODE": "603306.SH",
       "SECURITY_CODE": "603306",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "华懋(厦门)新材料科技股份有限公司回购专用证券账户",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 21527943,
       "HOLD_NUM_RATIO": 6.53,
-      "HOLD_NUM_CHANGE": "364500",
-      "CHANGE_RATIO": 1.72230955
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603306.SH",
       "SECURITY_CODE": "603306",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "华懋(厦门)新材料科技股份有限公司-2024年员工持股计划",
       "SHARES_TYPE": "流通A股",
@@ -677,86 +654,86 @@
     {
       "SECUCODE": "603306.SH",
       "SECURITY_CODE": "603306",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "张初全",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 11487400,
       "HOLD_NUM_RATIO": 3.49,
-      "HOLD_NUM_CHANGE": "-2447500",
-      "CHANGE_RATIO": -17.5638146
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603306.SH",
       "SECURITY_CODE": "603306",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "兴业银行股份有限公司-博时汇兴回报一年持有期灵活配置混合型证券投资基金",
+      "HOLDER_NAME": "徐根林",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6925228,
-      "HOLD_NUM_RATIO": 2.1,
-      "HOLD_NUM_CHANGE": "-374200",
-      "CHANGE_RATIO": -5.12642908
+      "HOLD_NUM": 5292476,
+      "HOLD_NUM_RATIO": 1.61,
+      "HOLD_NUM_CHANGE": "1713700",
+      "CHANGE_RATIO": 47.88508697
     },
     {
       "SECUCODE": "603306.SH",
       "SECURITY_CODE": "603306",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "懋盛(厦门)企业管理咨询有限责任公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4987300,
       "HOLD_NUM_RATIO": 1.51,
-      "HOLD_NUM_CHANGE": "-1612300",
-      "CHANGE_RATIO": -24.4302685
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603306.SH",
       "SECURITY_CODE": "603306",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4543080,
-      "HOLD_NUM_RATIO": 1.38,
-      "HOLD_NUM_CHANGE": "1420664",
-      "CHANGE_RATIO": 45.49887011
-    },
-    {
-      "SECUCODE": "603306.SH",
-      "SECURITY_CODE": "603306",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "中国银河证券股份有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4279333,
-      "HOLD_NUM_RATIO": 1.3,
-      "HOLD_NUM_CHANGE": "1010533",
-      "CHANGE_RATIO": 30.91449462
+      "HOLD_NUM": 4411233,
+      "HOLD_NUM_RATIO": 1.34,
+      "HOLD_NUM_CHANGE": "131900",
+      "CHANGE_RATIO": 3.08225604
     },
     {
       "SECUCODE": "603306.SH",
       "SECURITY_CODE": "603306",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4366691,
+      "HOLD_NUM_RATIO": 1.33,
+      "HOLD_NUM_CHANGE": "-176389",
+      "CHANGE_RATIO": -3.88258626
+    },
+    {
+      "SECUCODE": "603306.SH",
+      "SECURITY_CODE": "603306",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
+      "HOLDER_NAME": "兴业银行股份有限公司-博时汇兴回报一年持有期灵活配置混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3703528,
+      "HOLD_NUM_RATIO": 1.12,
+      "HOLD_NUM_CHANGE": "-3221700",
+      "CHANGE_RATIO": -46.52121201
+    },
+    {
+      "SECUCODE": "603306.SH",
+      "SECURITY_CODE": "603306",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "林伟斌",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4155424,
-      "HOLD_NUM_RATIO": 1.26,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603306.SH",
-      "SECURITY_CODE": "603306",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "徐根林",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3578776,
-      "HOLD_NUM_RATIO": 1.09,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3421388,
+      "HOLD_NUM_RATIO": 1.04,
+      "HOLD_NUM_CHANGE": "-734036",
+      "CHANGE_RATIO": -17.66452713
     }
   ],
   "jgcc": [
@@ -765,10 +742,10 @@
       "SECURITY_CODE": "603306",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 32,
-      "TOTAL_FREE_SHARES": 11381095,
-      "TOTAL_SHARES_RATIO": 3.45410412,
-      "ALL_SHARES_RATIO": 3.45410412
+      "TOTAL_ORG_NUM": 38,
+      "TOTAL_FREE_SHARES": 110304622,
+      "TOTAL_SHARES_RATIO": 33.47688855,
+      "ALL_SHARES_RATIO": 33.47688855
     },
     {
       "SECUCODE": "603306.SH",
@@ -779,6 +756,26 @@
       "TOTAL_FREE_SHARES": 11381095,
       "TOTAL_SHARES_RATIO": 3.45410412,
       "ALL_SHARES_RATIO": 3.45410412
+    },
+    {
+      "SECUCODE": "603306.SH",
+      "SECURITY_CODE": "603306",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "04",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 4411233,
+      "TOTAL_SHARES_RATIO": 1.33878665,
+      "ALL_SHARES_RATIO": 1.33878665
+    },
+    {
+      "SECUCODE": "603306.SH",
+      "SECURITY_CODE": "603306",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 94512294,
+      "TOTAL_SHARES_RATIO": 28.68399778,
+      "ALL_SHARES_RATIO": 28.68399778
     }
   ],
   "jjcg": [

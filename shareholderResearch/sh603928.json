@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 14.3,
       "AVG_HOLD_AMT": 169091.499729291,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 66.34830853,
+      "FREEHOLD_RATIO_TOTAL": 66.34830853
     },
     {
       "SECUCODE": "603928.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603928.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603928.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603928.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603928.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603928.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603928.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -376,6 +381,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "603928.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603928.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -389,10 +398,6 @@
     {
       "SECUCODE": "603928.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603928.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -423,7 +428,7 @@
     {
       "SECUCODE": "603928.SH",
       "SECURITY_CODE": "603928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "王进兴",
       "HOLDER_TYPE": "个人",
@@ -436,7 +441,7 @@
     {
       "SECUCODE": "603928.SH",
       "SECURITY_CODE": "603928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "王泉兴",
       "HOLDER_TYPE": "个人",
@@ -449,7 +454,7 @@
     {
       "SECUCODE": "603928.SH",
       "SECURITY_CODE": "603928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "王文浩",
       "HOLDER_TYPE": "个人",
@@ -462,7 +467,7 @@
     {
       "SECUCODE": "603928.SH",
       "SECURITY_CODE": "603928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "沈根珍",
       "HOLDER_TYPE": "个人",
@@ -475,21 +480,8 @@
     {
       "SECUCODE": "603928.SH",
       "SECURITY_CODE": "603928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "曹连英",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6568770,
-      "FREE_HOLDNUM_RATIO": 2.506398809524,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603928.SH",
-      "SECURITY_CODE": "603928",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "苏州宝沃创业投资有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -501,20 +493,33 @@
     {
       "SECUCODE": "603928.SH",
       "SECURITY_CODE": "603928",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "王锦程",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 4573140,
       "FREE_HOLDNUM_RATIO": 1.74494047619,
-      "HOLD_NUM_CHANGE": "-99200",
-      "CHANGE_RATIO": -2.12313316
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603928.SH",
       "SECURITY_CODE": "603928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "曹连英",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3947970,
+      "FREE_HOLDNUM_RATIO": 1.506398809524,
+      "HOLD_NUM_CHANGE": "-2620800",
+      "CHANGE_RATIO": -39.89788043
+    },
+    {
+      "SECUCODE": "603928.SH",
+      "SECURITY_CODE": "603928",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "王文娟",
       "HOLDER_TYPE": "个人",
@@ -527,7 +532,7 @@
     {
       "SECUCODE": "603928.SH",
       "SECURITY_CODE": "603928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "王永兴",
       "HOLDER_TYPE": "个人",
@@ -540,35 +545,35 @@
     {
       "SECUCODE": "603928.SH",
       "SECURITY_CODE": "603928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "高盛国际-自有资金",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1035923,
-      "FREE_HOLDNUM_RATIO": 0.395269764957,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1000967,
+      "FREE_HOLDNUM_RATIO": 0.381931852869,
+      "HOLD_NUM_CHANGE": "-34956",
+      "CHANGE_RATIO": -3.37438207
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "603928.SH",
       "SECURITY_CODE": "603928",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 176541403,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 173885647,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 85538597,
-      "HOLD_NUM_RATIO": 67.36,
+      "OTHER_UNLIMITED_SHARES": 88194353,
+      "HOLD_NUM_RATIO": 66.35,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 32.64
+      "UNLIMITED_SHARES_RATIO": 33.65
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603928.SH",
       "SECURITY_CODE": "603928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "王进兴",
       "SHARES_TYPE": "流通A股",
@@ -580,7 +585,7 @@
     {
       "SECUCODE": "603928.SH",
       "SECURITY_CODE": "603928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "王泉兴",
       "SHARES_TYPE": "流通A股",
@@ -592,7 +597,7 @@
     {
       "SECUCODE": "603928.SH",
       "SECURITY_CODE": "603928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "王文浩",
       "SHARES_TYPE": "流通A股",
@@ -604,7 +609,7 @@
     {
       "SECUCODE": "603928.SH",
       "SECURITY_CODE": "603928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "沈根珍",
       "SHARES_TYPE": "流通A股",
@@ -616,20 +621,8 @@
     {
       "SECUCODE": "603928.SH",
       "SECURITY_CODE": "603928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "曹连英",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6568770,
-      "HOLD_NUM_RATIO": 2.51,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603928.SH",
-      "SECURITY_CODE": "603928",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "苏州宝沃创业投资有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4675190,
@@ -640,19 +633,31 @@
     {
       "SECUCODE": "603928.SH",
       "SECURITY_CODE": "603928",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "王锦程",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4573140,
       "HOLD_NUM_RATIO": 1.74,
-      "HOLD_NUM_CHANGE": "-99200",
-      "CHANGE_RATIO": -2.12313316
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603928.SH",
       "SECURITY_CODE": "603928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "曹连英",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3947970,
+      "HOLD_NUM_RATIO": 1.51,
+      "HOLD_NUM_CHANGE": "-2620800",
+      "CHANGE_RATIO": -39.89788043
+    },
+    {
+      "SECUCODE": "603928.SH",
+      "SECURITY_CODE": "603928",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "王文娟",
       "SHARES_TYPE": "流通A股",
@@ -664,7 +669,7 @@
     {
       "SECUCODE": "603928.SH",
       "SECURITY_CODE": "603928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "王永兴",
       "SHARES_TYPE": "流通A股",
@@ -676,51 +681,41 @@
     {
       "SECUCODE": "603928.SH",
       "SECURITY_CODE": "603928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "高盛国际-自有资金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1035923,
-      "HOLD_NUM_RATIO": 0.4,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1000967,
+      "HOLD_NUM_RATIO": 0.38,
+      "HOLD_NUM_CHANGE": "-34956",
+      "CHANGE_RATIO": -3.37438207
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "603928.SH",
       "SECURITY_CODE": "603928",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 9,
-      "TOTAL_FREE_SHARES": 5771497,
-      "TOTAL_SHARES_RATIO": 2.20218904,
-      "ALL_SHARES_RATIO": 2.20218904
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 5676157,
+      "TOTAL_SHARES_RATIO": 2.16581082,
+      "ALL_SHARES_RATIO": 2.16581082
     },
     {
       "SECUCODE": "603928.SH",
       "SECURITY_CODE": "603928",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 7,
-      "TOTAL_FREE_SHARES": 60384,
-      "TOTAL_SHARES_RATIO": 0.02304031,
-      "ALL_SHARES_RATIO": 0.02304031
-    },
-    {
-      "SECUCODE": "603928.SH",
-      "SECURITY_CODE": "603928",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "02",
       "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 1035923,
-      "TOTAL_SHARES_RATIO": 0.39526976,
-      "ALL_SHARES_RATIO": 0.39526976
+      "TOTAL_FREE_SHARES": 1000967,
+      "TOTAL_SHARES_RATIO": 0.38193185,
+      "ALL_SHARES_RATIO": 0.38193185
     },
     {
       "SECUCODE": "603928.SH",
       "SECURITY_CODE": "603928",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 1,
       "TOTAL_FREE_SHARES": 4675190,

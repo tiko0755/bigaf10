@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 5.33,
       "AVG_HOLD_AMT": 157997.728516345,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 60.27555009,
+      "FREEHOLD_RATIO_TOTAL": 61.04182042
     },
     {
       "SECUCODE": "000597.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000597.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000597.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "000597.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000597.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000597.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000597.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "000597.SZ",
       "END_DATE": "2019-04-08 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "000597.SZ",
-      "END_DATE": "2019-04-04 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "000597.SZ",
       "SECURITY_CODE": "000597",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "江西方大钢铁集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "000597.SZ",
       "SECURITY_CODE": "000597",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "辽宁方大集团实业有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,8 +499,21 @@
     {
       "SECUCODE": "000597.SZ",
       "SECURITY_CODE": "000597",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 15656597,
+      "FREE_HOLDNUM_RATIO": 1.111048026862,
+      "HOLD_NUM_CHANGE": "4151515",
+      "CHANGE_RATIO": 36.08418436
+    },
+    {
+      "SECUCODE": "000597.SZ",
+      "SECURITY_CODE": "000597",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "方威",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -512,33 +525,20 @@
     {
       "SECUCODE": "000597.SZ",
       "SECURITY_CODE": "000597",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11505082,
-      "FREE_HOLDNUM_RATIO": 0.816441698984,
-      "HOLD_NUM_CHANGE": "-1027014",
-      "CHANGE_RATIO": -8.19506968
-    },
-    {
-      "SECUCODE": "000597.SZ",
-      "SECURITY_CODE": "000597",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "张少光",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10498100,
-      "FREE_HOLDNUM_RATIO": 0.744982660715,
-      "HOLD_NUM_CHANGE": "500000",
-      "CHANGE_RATIO": 5.00095018
+      "HOLD_NUM": 10693020,
+      "FREE_HOLDNUM_RATIO": 0.7588148799,
+      "HOLD_NUM_CHANGE": "194920",
+      "CHANGE_RATIO": 1.85671693
     },
     {
       "SECUCODE": "000597.SZ",
       "SECURITY_CODE": "000597",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "吕坤钰",
       "HOLDER_TYPE": "个人",
@@ -551,7 +551,7 @@
     {
       "SECUCODE": "000597.SZ",
       "SECURITY_CODE": "000597",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "武恩波",
       "HOLDER_TYPE": "个人",
@@ -564,39 +564,39 @@
     {
       "SECUCODE": "000597.SZ",
       "SECURITY_CODE": "000597",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "胡彬彬",
+      "HOLDER_NAME": "张素芬",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6686500,
-      "FREE_HOLDNUM_RATIO": 0.474497914944,
+      "HOLD_NUM": 5730000,
+      "FREE_HOLDNUM_RATIO": 0.406621259647,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000597.SZ",
       "SECURITY_CODE": "000597",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "胡彬彬",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6587558,
-      "FREE_HOLDNUM_RATIO": 0.46747663734,
-      "HOLD_NUM_CHANGE": "47100",
-      "CHANGE_RATIO": 0.72013305
+      "HOLD_NUM": 5286500,
+      "FREE_HOLDNUM_RATIO": 0.375148916077,
+      "HOLD_NUM_CHANGE": "-1400000",
+      "CHANGE_RATIO": -20.93771031
     },
     {
       "SECUCODE": "000597.SZ",
       "SECURITY_CODE": "000597",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "许福建",
+      "HOLDER_NAME": "张增焕",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6450300,
-      "FREE_HOLDNUM_RATIO": 0.457736319564,
+      "HOLD_NUM": 4313000,
+      "FREE_HOLDNUM_RATIO": 0.30606588008,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,10 +605,10 @@
     {
       "SECUCODE": "000597.SZ",
       "SECURITY_CODE": "000597",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 860233725,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 860185302,
       "LIMITED_SHARES": 17914528,
-      "OTHER_UNLIMITED_SHARES": 548940012,
+      "OTHER_UNLIMITED_SHARES": 548988435,
       "HOLD_NUM_RATIO": 60.28,
       "LIMITED_SHARES_RATIO": 1.26,
       "UNLIMITED_SHARES_RATIO": 38.47
@@ -618,7 +618,7 @@
     {
       "SECUCODE": "000597.SZ",
       "SECURITY_CODE": "000597",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "江西方大钢铁集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "000597.SZ",
       "SECURITY_CODE": "000597",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "辽宁方大集团实业有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,8 +642,20 @@
     {
       "SECUCODE": "000597.SZ",
       "SECURITY_CODE": "000597",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 15656597,
+      "HOLD_NUM_RATIO": 1.1,
+      "HOLD_NUM_CHANGE": "4151515",
+      "CHANGE_RATIO": 36.08418436
+    },
+    {
+      "SECUCODE": "000597.SZ",
+      "SECURITY_CODE": "000597",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "方威",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 12189130,
@@ -654,31 +666,19 @@
     {
       "SECUCODE": "000597.SZ",
       "SECURITY_CODE": "000597",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11505082,
-      "HOLD_NUM_RATIO": 0.81,
-      "HOLD_NUM_CHANGE": "-1027014",
-      "CHANGE_RATIO": -8.19506968
-    },
-    {
-      "SECUCODE": "000597.SZ",
-      "SECURITY_CODE": "000597",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "张少光",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10498100,
-      "HOLD_NUM_RATIO": 0.74,
-      "HOLD_NUM_CHANGE": "500000",
-      "CHANGE_RATIO": 5.00095018
+      "HOLD_NUM": 10693020,
+      "HOLD_NUM_RATIO": 0.75,
+      "HOLD_NUM_CHANGE": "194920",
+      "CHANGE_RATIO": 1.85671693
     },
     {
       "SECUCODE": "000597.SZ",
       "SECURITY_CODE": "000597",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "吕坤钰",
       "SHARES_TYPE": "流通A股",
@@ -690,7 +690,7 @@
     {
       "SECUCODE": "000597.SZ",
       "SECURITY_CODE": "000597",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "武恩波",
       "SHARES_TYPE": "流通A股",
@@ -702,36 +702,36 @@
     {
       "SECUCODE": "000597.SZ",
       "SECURITY_CODE": "000597",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "胡彬彬",
+      "HOLDER_NAME": "张素芬",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6686500,
-      "HOLD_NUM_RATIO": 0.47,
+      "HOLD_NUM": 5730000,
+      "HOLD_NUM_RATIO": 0.4,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000597.SZ",
       "SECURITY_CODE": "000597",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "胡彬彬",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6587558,
-      "HOLD_NUM_RATIO": 0.46,
-      "HOLD_NUM_CHANGE": "47100",
-      "CHANGE_RATIO": 0.72013305
+      "HOLD_NUM": 5286500,
+      "HOLD_NUM_RATIO": 0.37,
+      "HOLD_NUM_CHANGE": "-1400000",
+      "CHANGE_RATIO": -20.93771031
     },
     {
       "SECUCODE": "000597.SZ",
       "SECURITY_CODE": "000597",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "许福建",
+      "HOLDER_NAME": "张增焕",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6450300,
-      "HOLD_NUM_RATIO": 0.45,
+      "HOLD_NUM": 4313000,
+      "HOLD_NUM_RATIO": 0.3,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "000597",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 1943900,
-      "TOTAL_SHARES_RATIO": 0.13794608,
-      "ALL_SHARES_RATIO": 0.13621442
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 804530552,
+      "TOTAL_SHARES_RATIO": 57.09236064,
+      "ALL_SHARES_RATIO": 56.37566868
     },
     {
       "SECUCODE": "000597.SZ",
@@ -756,6 +756,16 @@
       "TOTAL_FREE_SHARES": 1943900,
       "TOTAL_SHARES_RATIO": 0.13794608,
       "ALL_SHARES_RATIO": 0.13621442
+    },
+    {
+      "SECUCODE": "000597.SZ",
+      "SECURITY_CODE": "000597",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 802586652,
+      "TOTAL_SHARES_RATIO": 56.95441456,
+      "ALL_SHARES_RATIO": 56.23945426
     }
   ],
   "jjcg": [

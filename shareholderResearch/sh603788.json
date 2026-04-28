@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 14.93,
       "AVG_HOLD_AMT": 235577.666070595,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 62.93503427,
+      "FREEHOLD_RATIO_TOTAL": 62.93503427
     },
     {
       "SECUCODE": "603788.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603788.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603788.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603788.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603788.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603788.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603788.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603788.SH",
       "END_DATE": "2015-01-20 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "603788.SH",
-      "END_DATE": "2014-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "603788.SH",
       "SECURITY_CODE": "603788",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "宁波高发控股有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "603788.SH",
       "SECURITY_CODE": "603788",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "钱高法",
       "HOLDER_TYPE": "个人",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "603788.SH",
       "SECURITY_CODE": "603788",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "长城国融投资管理有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "603788.SH",
       "SECURITY_CODE": "603788",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "钱国年",
       "HOLDER_TYPE": "个人",
@@ -525,7 +525,7 @@
     {
       "SECUCODE": "603788.SH",
       "SECURITY_CODE": "603788",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "钱国耀",
       "HOLDER_TYPE": "个人",
@@ -538,21 +538,34 @@
     {
       "SECUCODE": "603788.SH",
       "SECURITY_CODE": "603788",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "徐钦山",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3718820,
-      "FREE_HOLDNUM_RATIO": 1.667145839258,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 4358820,
+      "FREE_HOLDNUM_RATIO": 1.954057638464,
+      "HOLD_NUM_CHANGE": "640000",
+      "CHANGE_RATIO": 17.20976009
     },
     {
       "SECUCODE": "603788.SH",
       "SECURITY_CODE": "603788",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "欧林敏",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3888880,
+      "FREE_HOLDNUM_RATIO": 1.743383683903,
+      "HOLD_NUM_CHANGE": "1200000",
+      "CHANGE_RATIO": 44.6282467
+    },
+    {
+      "SECUCODE": "603788.SH",
+      "SECURITY_CODE": "603788",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "浙江浙商创新资本管理有限公司-浙江浙商转型升级母基金合伙企业(有限合伙)",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
@@ -564,61 +577,48 @@
     {
       "SECUCODE": "603788.SH",
       "SECURITY_CODE": "603788",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "欧林敏",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2688880,
-      "FREE_HOLDNUM_RATIO": 1.205424060391,
-      "HOLD_NUM_CHANGE": "788880",
-      "CHANGE_RATIO": 41.52
-    },
-    {
-      "SECUCODE": "603788.SH",
-      "SECURITY_CODE": "603788",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "王建成",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2180000,
-      "FREE_HOLDNUM_RATIO": 0.977293316047,
-      "HOLD_NUM_CHANGE": "180000",
-      "CHANGE_RATIO": 9
+      "HOLD_NUM": 2200000,
+      "FREE_HOLDNUM_RATIO": 0.986259309772,
+      "HOLD_NUM_CHANGE": "20000",
+      "CHANGE_RATIO": 0.91743119
     },
     {
       "SECUCODE": "603788.SH",
       "SECURITY_CODE": "603788",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "曹晖",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "宁波睿高股权投资管理有限公司",
+      "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1595000,
-      "FREE_HOLDNUM_RATIO": 0.715037999585,
-      "HOLD_NUM_CHANGE": "15000",
-      "CHANGE_RATIO": 0.94936709
+      "HOLD_NUM": 1762200,
+      "FREE_HOLDNUM_RATIO": 0.789993707128,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "603788.SH",
       "SECURITY_CODE": "603788",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 138358877,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 140386077,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 84706191,
-      "HOLD_NUM_RATIO": 62.03,
+      "OTHER_UNLIMITED_SHARES": 82678991,
+      "HOLD_NUM_RATIO": 62.94,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 37.97
+      "UNLIMITED_SHARES_RATIO": 37.06
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603788.SH",
       "SECURITY_CODE": "603788",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "宁波高发控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "603788.SH",
       "SECURITY_CODE": "603788",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "钱高法",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "603788.SH",
       "SECURITY_CODE": "603788",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "长城国融投资管理有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "603788.SH",
       "SECURITY_CODE": "603788",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "钱国年",
       "SHARES_TYPE": "流通A股",
@@ -666,7 +666,7 @@
     {
       "SECUCODE": "603788.SH",
       "SECURITY_CODE": "603788",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "钱国耀",
       "SHARES_TYPE": "流通A股",
@@ -678,20 +678,32 @@
     {
       "SECUCODE": "603788.SH",
       "SECURITY_CODE": "603788",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "徐钦山",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3718820,
-      "HOLD_NUM_RATIO": 1.67,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 4358820,
+      "HOLD_NUM_RATIO": 1.95,
+      "HOLD_NUM_CHANGE": "640000",
+      "CHANGE_RATIO": 17.20976009
     },
     {
       "SECUCODE": "603788.SH",
       "SECURITY_CODE": "603788",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "欧林敏",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3888880,
+      "HOLD_NUM_RATIO": 1.74,
+      "HOLD_NUM_CHANGE": "1200000",
+      "CHANGE_RATIO": 44.6282467
+    },
+    {
+      "SECUCODE": "603788.SH",
+      "SECURITY_CODE": "603788",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "浙江浙商创新资本管理有限公司-浙江浙商转型升级母基金合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3271877,
@@ -702,38 +714,26 @@
     {
       "SECUCODE": "603788.SH",
       "SECURITY_CODE": "603788",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "欧林敏",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2688880,
-      "HOLD_NUM_RATIO": 1.21,
-      "HOLD_NUM_CHANGE": "788880",
-      "CHANGE_RATIO": 41.52
-    },
-    {
-      "SECUCODE": "603788.SH",
-      "SECURITY_CODE": "603788",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "王建成",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2180000,
-      "HOLD_NUM_RATIO": 0.98,
-      "HOLD_NUM_CHANGE": "180000",
-      "CHANGE_RATIO": 9
+      "HOLD_NUM": 2200000,
+      "HOLD_NUM_RATIO": 0.99,
+      "HOLD_NUM_CHANGE": "20000",
+      "CHANGE_RATIO": 0.91743119
     },
     {
       "SECUCODE": "603788.SH",
       "SECURITY_CODE": "603788",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "曹晖",
+      "HOLDER_NAME": "宁波睿高股权投资管理有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1595000,
-      "HOLD_NUM_RATIO": 0.72,
-      "HOLD_NUM_CHANGE": "15000",
-      "CHANGE_RATIO": 0.94936709
+      "HOLD_NUM": 1762200,
+      "HOLD_NUM_RATIO": 0.79,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "603788",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 5000,
-      "TOTAL_SHARES_RATIO": 0.0022415,
-      "ALL_SHARES_RATIO": 0.0022415
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 99508777,
+      "TOTAL_SHARES_RATIO": 44.60975351,
+      "ALL_SHARES_RATIO": 44.60975351
     },
     {
       "SECUCODE": "603788.SH",
@@ -756,6 +756,16 @@
       "TOTAL_FREE_SHARES": 5000,
       "TOTAL_SHARES_RATIO": 0.0022415,
       "ALL_SHARES_RATIO": 0.0022415
+    },
+    {
+      "SECUCODE": "603788.SH",
+      "SECURITY_CODE": "603788",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 99503777,
+      "TOTAL_SHARES_RATIO": 44.60751201,
+      "ALL_SHARES_RATIO": 44.60751201
     }
   ],
   "jjcg": [

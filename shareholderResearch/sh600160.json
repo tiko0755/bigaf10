@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 34.15,
       "AVG_HOLD_AMT": 1199973.04074019,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 62.51828473,
+      "FREEHOLD_RATIO_TOTAL": 62.51828473
     },
     {
       "SECUCODE": "600160.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600160.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600160.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600160.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600160.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600160.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600160.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600160.SH",
       "END_DATE": "2016-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600160.SH",
-      "END_DATE": "2016-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600160.SH",
       "SECURITY_CODE": "600160",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "巨化集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,47 +486,86 @@
     {
       "SECUCODE": "600160.SH",
       "SECURITY_CODE": "600160",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 53123091,
-      "FREE_HOLDNUM_RATIO": 1.967706940066,
-      "HOLD_NUM_CHANGE": "-11385923",
-      "CHANGE_RATIO": -17.65012716
-    },
-    {
-      "SECUCODE": "600160.SH",
-      "SECURITY_CODE": "600160",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "招商银行股份有限公司-兴全合润混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 46459794,
-      "FREE_HOLDNUM_RATIO": 1.720894951083,
-      "HOLD_NUM_CHANGE": "-2262570",
-      "CHANGE_RATIO": -4.64380177
+      "HOLD_NUM": 55109845,
+      "FREE_HOLDNUM_RATIO": 2.041297342289,
+      "HOLD_NUM_CHANGE": "8650051",
+      "CHANGE_RATIO": 18.61835849
     },
     {
       "SECUCODE": "600160.SH",
       "SECURITY_CODE": "600160",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 52450243,
+      "FREE_HOLDNUM_RATIO": 1.942784299943,
+      "HOLD_NUM_CHANGE": "-672848",
+      "CHANGE_RATIO": -1.26658293
+    },
+    {
+      "SECUCODE": "600160.SH",
+      "SECURITY_CODE": "600160",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "上海紫阁投资管理有限公司-紫阁骏益3号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 25904090,
-      "FREE_HOLDNUM_RATIO": 0.959500976122,
-      "HOLD_NUM_CHANGE": "2043200",
-      "CHANGE_RATIO": 8.56296643
+      "HOLD_NUM": 30481690,
+      "FREE_HOLDNUM_RATIO": 1.129057662664,
+      "HOLD_NUM_CHANGE": "4577600",
+      "CHANGE_RATIO": 17.6713407
     },
     {
       "SECUCODE": "600160.SH",
       "SECURITY_CODE": "600160",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中国光大银行股份有限公司-兴全商业模式优选混合型证券投资基金(LOF)",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 29250799,
+      "FREE_HOLDNUM_RATIO": 1.083464819372,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600160.SH",
+      "SECURITY_CODE": "600160",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "招商银行股份有限公司-兴全合宜灵活配置混合型证券投资基金(LOF)",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 26778797,
+      "FREE_HOLDNUM_RATIO": 0.991900578668,
+      "HOLD_NUM_CHANGE": "4194300",
+      "CHANGE_RATIO": 18.57158917
+    },
+    {
+      "SECUCODE": "600160.SH",
+      "SECURITY_CODE": "600160",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "华泰证券股份有限公司-鹏华中证细分化工产业主题交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 24263596,
+      "FREE_HOLDNUM_RATIO": 0.89873622452,
+      "HOLD_NUM_CHANGE": "8110210",
+      "CHANGE_RATIO": 50.2074921
+    },
+    {
+      "SECUCODE": "600160.SH",
+      "SECURITY_CODE": "600160",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "浙江巨化投资有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -538,87 +577,48 @@
     {
       "SECUCODE": "600160.SH",
       "SECURITY_CODE": "600160",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "招商银行股份有限公司-兴全合宜灵活配置混合型证券投资基金(LOF)",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "王咏梅",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 22584497,
-      "FREE_HOLDNUM_RATIO": 0.836541523625,
-      "HOLD_NUM_CHANGE": "-2640700",
-      "CHANGE_RATIO": -10.468501
+      "HOLD_NUM": 11997774,
+      "FREE_HOLDNUM_RATIO": 0.444403793543,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600160.SH",
       "SECURITY_CODE": "600160",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 22330102,
-      "FREE_HOLDNUM_RATIO": 0.827118600418,
-      "HOLD_NUM_CHANGE": "-781783",
-      "CHANGE_RATIO": -3.38260164
-    },
-    {
-      "SECUCODE": "600160.SH",
-      "SECURITY_CODE": "600160",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "华泰证券股份有限公司-鹏华中证细分化工产业主题交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 16153386,
-      "FREE_HOLDNUM_RATIO": 0.59832982493,
-      "HOLD_NUM_CHANGE": "-4113610",
-      "CHANGE_RATIO": -20.29708794
-    },
-    {
-      "SECUCODE": "600160.SH",
-      "SECURITY_CODE": "600160",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国建设银行股份有限公司-易方达沪深300交易型开放式指数发起式证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 15914504,
-      "FREE_HOLDNUM_RATIO": 0.589481511317,
-      "HOLD_NUM_CHANGE": "-697596",
-      "CHANGE_RATIO": -4.19932459
-    },
-    {
-      "SECUCODE": "600160.SH",
-      "SECURITY_CODE": "600160",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国工商银行股份有限公司-华夏沪深300交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12136436,
-      "FREE_HOLDNUM_RATIO": 0.449539906194,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 10867703,
+      "FREE_HOLDNUM_RATIO": 0.402545375526,
+      "HOLD_NUM_CHANGE": "-11462399",
+      "CHANGE_RATIO": -51.33160162
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600160.SH",
       "SECURITY_CODE": "600160",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 1661240395,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 1687834942,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 1038505686,
-      "HOLD_NUM_RATIO": 61.53,
+      "OTHER_UNLIMITED_SHARES": 1011911139,
+      "HOLD_NUM_RATIO": 62.52,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 38.47
+      "UNLIMITED_SHARES_RATIO": 37.48
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600160.SH",
       "SECURITY_CODE": "600160",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "巨化集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,44 +630,80 @@
     {
       "SECUCODE": "600160.SH",
       "SECURITY_CODE": "600160",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 53123091,
-      "HOLD_NUM_RATIO": 1.97,
-      "HOLD_NUM_CHANGE": "-11385923",
-      "CHANGE_RATIO": -17.65012716
-    },
-    {
-      "SECUCODE": "600160.SH",
-      "SECURITY_CODE": "600160",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "招商银行股份有限公司-兴全合润混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 46459794,
-      "HOLD_NUM_RATIO": 1.72,
-      "HOLD_NUM_CHANGE": "-2262570",
-      "CHANGE_RATIO": -4.64380177
+      "HOLD_NUM": 55109845,
+      "HOLD_NUM_RATIO": 2.04,
+      "HOLD_NUM_CHANGE": "8650051",
+      "CHANGE_RATIO": 18.61835849
     },
     {
       "SECUCODE": "600160.SH",
       "SECURITY_CODE": "600160",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 52450243,
+      "HOLD_NUM_RATIO": 1.94,
+      "HOLD_NUM_CHANGE": "-672848",
+      "CHANGE_RATIO": -1.26658293
+    },
+    {
+      "SECUCODE": "600160.SH",
+      "SECURITY_CODE": "600160",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "上海紫阁投资管理有限公司-紫阁骏益3号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 25904090,
-      "HOLD_NUM_RATIO": 0.96,
-      "HOLD_NUM_CHANGE": "2043200",
-      "CHANGE_RATIO": 8.56296643
+      "HOLD_NUM": 30481690,
+      "HOLD_NUM_RATIO": 1.13,
+      "HOLD_NUM_CHANGE": "4577600",
+      "CHANGE_RATIO": 17.6713407
     },
     {
       "SECUCODE": "600160.SH",
       "SECURITY_CODE": "600160",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中国光大银行股份有限公司-兴全商业模式优选混合型证券投资基金(LOF)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 29250799,
+      "HOLD_NUM_RATIO": 1.08,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600160.SH",
+      "SECURITY_CODE": "600160",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "招商银行股份有限公司-兴全合宜灵活配置混合型证券投资基金(LOF)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 26778797,
+      "HOLD_NUM_RATIO": 0.99,
+      "HOLD_NUM_CHANGE": "4194300",
+      "CHANGE_RATIO": 18.57158917
+    },
+    {
+      "SECUCODE": "600160.SH",
+      "SECURITY_CODE": "600160",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "华泰证券股份有限公司-鹏华中证细分化工产业主题交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 24263596,
+      "HOLD_NUM_RATIO": 0.9,
+      "HOLD_NUM_CHANGE": "8110210",
+      "CHANGE_RATIO": 50.2074921
+    },
+    {
+      "SECUCODE": "600160.SH",
+      "SECURITY_CODE": "600160",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "浙江巨化投资有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 23854178,
@@ -678,62 +714,26 @@
     {
       "SECUCODE": "600160.SH",
       "SECURITY_CODE": "600160",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "招商银行股份有限公司-兴全合宜灵活配置混合型证券投资基金(LOF)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 22584497,
-      "HOLD_NUM_RATIO": 0.84,
-      "HOLD_NUM_CHANGE": "-2640700",
-      "CHANGE_RATIO": -10.468501
-    },
-    {
-      "SECUCODE": "600160.SH",
-      "SECURITY_CODE": "600160",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 22330102,
-      "HOLD_NUM_RATIO": 0.83,
-      "HOLD_NUM_CHANGE": "-781783",
-      "CHANGE_RATIO": -3.38260164
-    },
-    {
-      "SECUCODE": "600160.SH",
-      "SECURITY_CODE": "600160",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "华泰证券股份有限公司-鹏华中证细分化工产业主题交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 16153386,
-      "HOLD_NUM_RATIO": 0.6,
-      "HOLD_NUM_CHANGE": "-4113610",
-      "CHANGE_RATIO": -20.29708794
-    },
-    {
-      "SECUCODE": "600160.SH",
-      "SECURITY_CODE": "600160",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国建设银行股份有限公司-易方达沪深300交易型开放式指数发起式证券投资基金",
+      "HOLDER_NAME": "王咏梅",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 15914504,
-      "HOLD_NUM_RATIO": 0.59,
-      "HOLD_NUM_CHANGE": "-697596",
-      "CHANGE_RATIO": -4.19932459
-    },
-    {
-      "SECUCODE": "600160.SH",
-      "SECURITY_CODE": "600160",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国工商银行股份有限公司-华夏沪深300交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 12136436,
-      "HOLD_NUM_RATIO": 0.45,
+      "HOLD_NUM": 11997774,
+      "HOLD_NUM_RATIO": 0.44,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600160.SH",
+      "SECURITY_CODE": "600160",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 10867703,
+      "HOLD_NUM_RATIO": 0.4,
+      "HOLD_NUM_CHANGE": "-11462399",
+      "CHANGE_RATIO": -51.33160162
     }
   ],
   "jgcc": [
@@ -742,20 +742,30 @@
       "SECURITY_CODE": "600160",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 81,
-      "TOTAL_FREE_SHARES": 223841395,
-      "TOTAL_SHARES_RATIO": 8.29120178,
-      "ALL_SHARES_RATIO": 8.29120178
+      "TOTAL_ORG_NUM": 86,
+      "TOTAL_FREE_SHARES": 1764275526,
+      "TOTAL_SHARES_RATIO": 65.34968376,
+      "ALL_SHARES_RATIO": 65.34968376
     },
     {
       "SECUCODE": "600160.SH",
       "SECURITY_CODE": "600160",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 81,
-      "TOTAL_FREE_SHARES": 223841395,
-      "TOTAL_SHARES_RATIO": 8.29120178,
-      "ALL_SHARES_RATIO": 8.29120178
+      "TOTAL_ORG_NUM": 82,
+      "TOTAL_FREE_SHARES": 234709098,
+      "TOTAL_SHARES_RATIO": 8.69374716,
+      "ALL_SHARES_RATIO": 8.69374716
+    },
+    {
+      "SECUCODE": "600160.SH",
+      "SECURITY_CODE": "600160",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 1529566428,
+      "TOTAL_SHARES_RATIO": 56.6559366,
+      "ALL_SHARES_RATIO": 56.6559366
     }
   ],
   "jjcg": [
@@ -826,6 +836,23 @@
       "FUND_CODE": "159870",
       "FUND_DERIVECODE": "159870.SZ",
       "NETVALUE_RATIO": 3.08
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600160.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "510300",
+      "HOLDER_NAME": "华泰柏瑞沪深300ETF",
+      "TOTAL_SHARES": 10867703,
+      "HOLD_VALUE": 371132057.45,
+      "TOTALSHARES_RATIO": 0.40254538,
+      "FREESHARES_RATIO": 0.40254538,
+      "FREE_MARKET_CAP": 371132057.45,
+      "FREE_SHARES": 10867703,
+      "SECURITY_CODE": "600160",
+      "FUND_CODE": "510300",
+      "FUND_DERIVECODE": "510300.SH",
+      "NETVALUE_RATIO": 0.19
     },
     {
       "ORG_TYPE": "01",
@@ -1591,23 +1618,6 @@
       "FUND_CODE": "017801",
       "FUND_DERIVECODE": "017801.OF",
       "NETVALUE_RATIO": 3.41
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "600160.SH",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "HOLDER_CODE": "024995",
-      "HOLDER_NAME": "汇添富稳颐优选债券A",
-      "TOTAL_SHARES": 167700,
-      "HOLD_VALUE": 5726955,
-      "TOTALSHARES_RATIO": 0.0062117,
-      "FREESHARES_RATIO": 0.0062117,
-      "FREE_MARKET_CAP": 5726955,
-      "FREE_SHARES": 167700,
-      "SECURITY_CODE": "600160",
-      "FUND_CODE": "024995",
-      "FUND_DERIVECODE": "024995.OF",
-      "NETVALUE_RATIO": 0.36
     }
   ]
 }

@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 10.12,
       "AVG_HOLD_AMT": 119104.249823902,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 61.81685636,
+      "FREEHOLD_RATIO_TOTAL": 61.81685636
     },
     {
       "SECUCODE": "603719.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603719.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603719.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603719.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603719.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603719.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603719.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603719.SH",
       "END_DATE": "2019-01-11 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "603719.SH",
-      "END_DATE": "2018-06-29 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "603719.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "603719.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "603719.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603719.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "603719.SH",
       "SECURITY_CODE": "603719",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "宁波汉意创业投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "603719.SH",
       "SECURITY_CODE": "603719",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "达永有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "603719.SH",
       "SECURITY_CODE": "603719",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "宁波良品投资管理有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "603719.SH",
       "SECURITY_CODE": "603719",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "宁波艾邦投资管理有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -525,8 +525,34 @@
     {
       "SECUCODE": "603719.SH",
       "SECURITY_CODE": "603719",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "陈丽雯",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4056600,
+      "FREE_HOLDNUM_RATIO": 1.011620947631,
+      "HOLD_NUM_CHANGE": "1640713",
+      "CHANGE_RATIO": 67.91348271
+    },
+    {
+      "SECUCODE": "603719.SH",
+      "SECURITY_CODE": "603719",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3077140,
+      "FREE_HOLDNUM_RATIO": 0.767366583541,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603719.SH",
+      "SECURITY_CODE": "603719",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "良品铺子股份有限公司-2023年员工持股计划",
       "HOLDER_TYPE": "员工持股计划",
       "SHARES_TYPE": "A股",
@@ -538,65 +564,39 @@
     {
       "SECUCODE": "603719.SH",
       "SECURITY_CODE": "603719",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "宁波汉亮奇好投资管理合伙企业(有限合伙)",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2692013,
-      "FREE_HOLDNUM_RATIO": 0.671324937656,
-      "HOLD_NUM_CHANGE": "-121900",
-      "CHANGE_RATIO": -4.3320458
-    },
-    {
-      "SECUCODE": "603719.SH",
-      "SECURITY_CODE": "603719",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "赵文慧",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2562601,
-      "FREE_HOLDNUM_RATIO": 0.639052618454,
-      "HOLD_NUM_CHANGE": "-274600",
-      "CHANGE_RATIO": -9.67855291
+      "HOLD_NUM": 2554601,
+      "FREE_HOLDNUM_RATIO": 0.637057605985,
+      "HOLD_NUM_CHANGE": "-8000",
+      "CHANGE_RATIO": -0.31218282
     },
     {
       "SECUCODE": "603719.SH",
       "SECURITY_CODE": "603719",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "陈丽雯",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2415887,
-      "FREE_HOLDNUM_RATIO": 0.602465586035,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603719.SH",
-      "SECURITY_CODE": "603719",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "宁波汉林致好投资管理合伙企业(有限合伙)",
+      "HOLDER_NAME": "宁波汉亮奇好投资管理合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2260613,
-      "FREE_HOLDNUM_RATIO": 0.563743890274,
-      "HOLD_NUM_CHANGE": "-238800",
-      "CHANGE_RATIO": -9.55424334
+      "HOLD_NUM": 2467313,
+      "FREE_HOLDNUM_RATIO": 0.615290024938,
+      "HOLD_NUM_CHANGE": "-224700",
+      "CHANGE_RATIO": -8.34691363
     },
     {
       "SECUCODE": "603719.SH",
       "SECURITY_CODE": "603719",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "龙奏璋",
+      "HOLDER_NAME": "吁强",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2194300,
-      "FREE_HOLDNUM_RATIO": 0.547206982544,
+      "HOLD_NUM": 1880000,
+      "FREE_HOLDNUM_RATIO": 0.468827930175,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "603719.SH",
       "SECURITY_CODE": "603719",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 245975354,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 247885594,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 155024646,
-      "HOLD_NUM_RATIO": 61.34,
+      "OTHER_UNLIMITED_SHARES": 153114406,
+      "HOLD_NUM_RATIO": 61.82,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 38.66
+      "UNLIMITED_SHARES_RATIO": 38.18
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603719.SH",
       "SECURITY_CODE": "603719",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "宁波汉意创业投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "603719.SH",
       "SECURITY_CODE": "603719",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "达永有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "603719.SH",
       "SECURITY_CODE": "603719",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "宁波良品投资管理有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "603719.SH",
       "SECURITY_CODE": "603719",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "宁波艾邦投资管理有限公司",
       "SHARES_TYPE": "流通A股",
@@ -666,8 +666,32 @@
     {
       "SECUCODE": "603719.SH",
       "SECURITY_CODE": "603719",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "陈丽雯",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4056600,
+      "HOLD_NUM_RATIO": 1.01,
+      "HOLD_NUM_CHANGE": "1640713",
+      "CHANGE_RATIO": 67.91348271
+    },
+    {
+      "SECUCODE": "603719.SH",
+      "SECURITY_CODE": "603719",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3077140,
+      "HOLD_NUM_RATIO": 0.77,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603719.SH",
+      "SECURITY_CODE": "603719",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "良品铺子股份有限公司-2023年员工持股计划",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3016600,
@@ -678,60 +702,36 @@
     {
       "SECUCODE": "603719.SH",
       "SECURITY_CODE": "603719",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "宁波汉亮奇好投资管理合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2692013,
-      "HOLD_NUM_RATIO": 0.67,
-      "HOLD_NUM_CHANGE": "-121900",
-      "CHANGE_RATIO": -4.3320458
-    },
-    {
-      "SECUCODE": "603719.SH",
-      "SECURITY_CODE": "603719",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "赵文慧",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2562601,
+      "HOLD_NUM": 2554601,
       "HOLD_NUM_RATIO": 0.64,
-      "HOLD_NUM_CHANGE": "-274600",
-      "CHANGE_RATIO": -9.67855291
+      "HOLD_NUM_CHANGE": "-8000",
+      "CHANGE_RATIO": -0.31218282
     },
     {
       "SECUCODE": "603719.SH",
       "SECURITY_CODE": "603719",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "陈丽雯",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2415887,
-      "HOLD_NUM_RATIO": 0.6,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603719.SH",
-      "SECURITY_CODE": "603719",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "宁波汉林致好投资管理合伙企业(有限合伙)",
+      "HOLDER_NAME": "宁波汉亮奇好投资管理合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2260613,
-      "HOLD_NUM_RATIO": 0.56,
-      "HOLD_NUM_CHANGE": "-238800",
-      "CHANGE_RATIO": -9.55424334
+      "HOLD_NUM": 2467313,
+      "HOLD_NUM_RATIO": 0.62,
+      "HOLD_NUM_CHANGE": "-224700",
+      "CHANGE_RATIO": -8.34691363
     },
     {
       "SECUCODE": "603719.SH",
       "SECURITY_CODE": "603719",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "龙奏璋",
+      "HOLDER_NAME": "吁强",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2194300,
-      "HOLD_NUM_RATIO": 0.55,
+      "HOLD_NUM": 1880000,
+      "HOLD_NUM_RATIO": 0.47,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -740,32 +740,22 @@
     {
       "SECUCODE": "603719.SH",
       "SECURITY_CODE": "603719",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 23,
-      "TOTAL_FREE_SHARES": 240100766,
-      "TOTAL_SHARES_RATIO": 59.87550275,
-      "ALL_SHARES_RATIO": 59.87550275
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 239394393,
+      "TOTAL_SHARES_RATIO": 59.69934987,
+      "ALL_SHARES_RATIO": 59.69934987
     },
     {
       "SECUCODE": "603719.SH",
       "SECURITY_CODE": "603719",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 16,
-      "TOTAL_FREE_SHARES": 1298200,
-      "TOTAL_SHARES_RATIO": 0.32374065,
-      "ALL_SHARES_RATIO": 0.32374065
-    },
-    {
-      "SECUCODE": "603719.SH",
-      "SECURITY_CODE": "603719",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 7,
-      "TOTAL_FREE_SHARES": 238802566,
-      "TOTAL_SHARES_RATIO": 59.5517621,
-      "ALL_SHARES_RATIO": 59.5517621
+      "TOTAL_FREE_SHARES": 239394393,
+      "TOTAL_SHARES_RATIO": 59.69934987,
+      "ALL_SHARES_RATIO": 59.69934987
     }
   ],
   "jjcg": [

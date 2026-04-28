@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 16.32,
       "AVG_HOLD_AMT": 85361.4419695478,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 54.65339508,
+      "FREEHOLD_RATIO_TOTAL": 54.65339508
     },
     {
       "SECUCODE": "603017.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603017.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603017.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603017.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603017.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603017.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603017.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603017.SH",
       "END_DATE": "2016-07-31 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "603017.SH",
-      "END_DATE": "2016-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "603017.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "603017.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "603017.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603017.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "603017.SH",
       "SECURITY_CODE": "603017",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "苏州赛普成长投资管理有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "603017.SH",
       "SECURITY_CODE": "603017",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "冯正功",
       "HOLDER_TYPE": "个人",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "603017.SH",
       "SECURITY_CODE": "603017",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "张谨",
       "HOLDER_TYPE": "个人",
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "603017.SH",
       "SECURITY_CODE": "603017",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "苏州广电传媒集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -525,7 +525,7 @@
     {
       "SECUCODE": "603017.SH",
       "SECURITY_CODE": "603017",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "中衡设计集团股份有限公司回购专用证券账户",
       "HOLDER_TYPE": "证券账户",
@@ -538,7 +538,7 @@
     {
       "SECUCODE": "603017.SH",
       "SECURITY_CODE": "603017",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "苏州市历史文化名城发展集团创业投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -551,8 +551,21 @@
     {
       "SECUCODE": "603017.SH",
       "SECURITY_CODE": "603017",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "戚承超",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3000000,
+      "FREE_HOLDNUM_RATIO": 1.086207617007,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603017.SH",
+      "SECURITY_CODE": "603017",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "廖晨",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -564,61 +577,48 @@
     {
       "SECUCODE": "603017.SH",
       "SECURITY_CODE": "603017",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "陆学君",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 2282264,
       "FREE_HOLDNUM_RATIO": 0.826337513607,
-      "HOLD_NUM_CHANGE": "-760700",
-      "CHANGE_RATIO": -24.99865263
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603017.SH",
       "SECURITY_CODE": "603017",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "王彩霞",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2018400,
-      "FREE_HOLDNUM_RATIO": 0.730800484722,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603017.SH",
-      "SECURITY_CODE": "603017",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "苏州工业园区中衡衡利产业投资有限公司",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1750000,
-      "FREE_HOLDNUM_RATIO": 0.633621109921,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1595800,
+      "FREE_HOLDNUM_RATIO": 0.577790038407,
+      "HOLD_NUM_CHANGE": "-422600",
+      "CHANGE_RATIO": -20.93737614
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "603017.SH",
       "SECURITY_CODE": "603017",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 150119972,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 150947372,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 126070321,
-      "HOLD_NUM_RATIO": 54.35,
+      "OTHER_UNLIMITED_SHARES": 125242921,
+      "HOLD_NUM_RATIO": 54.65,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 45.65
+      "UNLIMITED_SHARES_RATIO": 45.35
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603017.SH",
       "SECURITY_CODE": "603017",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "苏州赛普成长投资管理有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "603017.SH",
       "SECURITY_CODE": "603017",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "冯正功",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "603017.SH",
       "SECURITY_CODE": "603017",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "张谨",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "603017.SH",
       "SECURITY_CODE": "603017",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "苏州广电传媒集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -666,7 +666,7 @@
     {
       "SECUCODE": "603017.SH",
       "SECURITY_CODE": "603017",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "中衡设计集团股份有限公司回购专用证券账户",
       "SHARES_TYPE": "流通A股",
@@ -678,7 +678,7 @@
     {
       "SECUCODE": "603017.SH",
       "SECURITY_CODE": "603017",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "苏州市历史文化名城发展集团创业投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -690,8 +690,20 @@
     {
       "SECUCODE": "603017.SH",
       "SECURITY_CODE": "603017",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "戚承超",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3000000,
+      "HOLD_NUM_RATIO": 1.09,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603017.SH",
+      "SECURITY_CODE": "603017",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "廖晨",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2569228,
@@ -702,70 +714,48 @@
     {
       "SECUCODE": "603017.SH",
       "SECURITY_CODE": "603017",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "陆学君",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2282264,
       "HOLD_NUM_RATIO": 0.83,
-      "HOLD_NUM_CHANGE": "-760700",
-      "CHANGE_RATIO": -24.99865263
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603017.SH",
       "SECURITY_CODE": "603017",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "王彩霞",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2018400,
-      "HOLD_NUM_RATIO": 0.73,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603017.SH",
-      "SECURITY_CODE": "603017",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "苏州工业园区中衡衡利产业投资有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1750000,
-      "HOLD_NUM_RATIO": 0.63,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1595800,
+      "HOLD_NUM_RATIO": 0.58,
+      "HOLD_NUM_CHANGE": "-422600",
+      "CHANGE_RATIO": -20.93737614
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "603017.SH",
       "SECURITY_CODE": "603017",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 9,
-      "TOTAL_FREE_SHARES": 116428206,
-      "TOTAL_SHARES_RATIO": 42.15506806,
-      "ALL_SHARES_RATIO": 42.15506806
-    },
-    {
-      "SECUCODE": "603017.SH",
-      "SECURITY_CODE": "603017",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
       "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 194300,
-      "TOTAL_SHARES_RATIO": 0.07035004,
-      "ALL_SHARES_RATIO": 0.07035004
+      "TOTAL_FREE_SHARES": 114483906,
+      "TOTAL_SHARES_RATIO": 41.45109691,
+      "ALL_SHARES_RATIO": 41.45109691
     },
     {
       "SECUCODE": "603017.SH",
       "SECURITY_CODE": "603017",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 116233906,
-      "TOTAL_SHARES_RATIO": 42.08471802,
-      "ALL_SHARES_RATIO": 42.08471802
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 114483906,
+      "TOTAL_SHARES_RATIO": 41.45109691,
+      "ALL_SHARES_RATIO": 41.45109691
     }
   ],
   "jjcg": [

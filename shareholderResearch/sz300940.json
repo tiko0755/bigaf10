@@ -25,8 +25,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 21.71,
       "AVG_HOLD_AMT": 189548.054089926,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 47.58063995,
+      "FREEHOLD_RATIO_TOTAL": 25.8909491
     },
     {
       "SECUCODE": "300940.SZ",
@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300940.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300940.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300940.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "300940.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300940.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300940.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300940.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300940.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300940.SZ",
       "END_DATE": "2025-09-30 00:00:00",
@@ -403,16 +413,6 @@
       "SECUCODE": "300940.SZ",
       "END_DATE": "2023-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "300940.SZ",
-      "END_DATE": "2022-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "300940.SZ",
-      "END_DATE": "2022-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "300940.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "300940.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "300940.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300940.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,20 +473,20 @@
     {
       "SECUCODE": "300940.SZ",
       "SECURITY_CODE": "300940",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "姜发明",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11973750,
-      "FREE_HOLDNUM_RATIO": 7.603374363414,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 11976000,
+      "FREE_HOLDNUM_RATIO": 7.604803121515,
+      "HOLD_NUM_CHANGE": "2250",
+      "CHANGE_RATIO": 0.01879111
     },
     {
       "SECUCODE": "300940.SZ",
       "SECURITY_CODE": "300940",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "潘连兴",
       "HOLDER_TYPE": "个人",
@@ -499,21 +499,8 @@
     {
       "SECUCODE": "300940.SZ",
       "SECURITY_CODE": "300940",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "锦福源(海南)私募基金管理合伙企业(有限合伙)-锦福源五号私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7597200,
-      "FREE_HOLDNUM_RATIO": 4.824249354941,
-      "HOLD_NUM_CHANGE": "-2635000",
-      "CHANGE_RATIO": -25.75203768
-    },
-    {
-      "SECUCODE": "300940.SZ",
-      "SECURITY_CODE": "300940",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "深圳市奥斯曼咨询管理合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -525,8 +512,8 @@
     {
       "SECUCODE": "300940.SZ",
       "SECURITY_CODE": "300940",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "深圳市南极光管理咨询合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -538,65 +525,78 @@
     {
       "SECUCODE": "300940.SZ",
       "SECURITY_CODE": "300940",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "董菊英",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2060400,
-      "FREE_HOLDNUM_RATIO": 1.308361418802,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2210000,
+      "FREE_HOLDNUM_RATIO": 1.403357957461,
+      "HOLD_NUM_CHANGE": "3000",
+      "CHANGE_RATIO": 0.13593113
     },
     {
       "SECUCODE": "300940.SZ",
       "SECURITY_CODE": "300940",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "罗健",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1793940,
-      "FREE_HOLDNUM_RATIO": 1.13915835937,
-      "HOLD_NUM_CHANGE": "-28760",
-      "CHANGE_RATIO": -1.57787897
+      "HOLD_NUM": 1712762,
+      "FREE_HOLDNUM_RATIO": 1.087610037075,
+      "HOLD_NUM_CHANGE": "-17400",
+      "CHANGE_RATIO": -1.00568617
     },
     {
       "SECUCODE": "300940.SZ",
       "SECURITY_CODE": "300940",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "邓克维",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "戴路",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1438020,
-      "FREE_HOLDNUM_RATIO": 0.913147877822,
+      "HOLD_NUM": 1506496,
+      "FREE_HOLDNUM_RATIO": 0.956630384381,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300940.SZ",
       "SECURITY_CODE": "300940",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "任元林",
-      "HOLDER_TYPE": "个人",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1114100,
-      "FREE_HOLDNUM_RATIO": 0.707457511496,
-      "HOLD_NUM_CHANGE": "-2240100",
-      "CHANGE_RATIO": -66.78492636
+      "HOLD_NUM": 1094624,
+      "FREE_HOLDNUM_RATIO": 0.69509018137,
+      "HOLD_NUM_CHANGE": "-117006",
+      "CHANGE_RATIO": -9.65690846
     },
     {
       "SECUCODE": "300940.SZ",
       "SECURITY_CODE": "300940",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "戴路",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "陈键",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1076418,
-      "FREE_HOLDNUM_RATIO": 0.683529305816,
+      "HOLD_NUM": 889599,
+      "FREE_HOLDNUM_RATIO": 0.564898568144,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300940.SZ",
+      "SECURITY_CODE": "300940",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "孙宇羿",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 669000,
+      "FREE_HOLDNUM_RATIO": 0.424817408842,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "300940.SZ",
       "SECURITY_CODE": "300940",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 47768264,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 40772917,
       "LIMITED_SHARES": 65164950,
-      "OTHER_UNLIMITED_SHARES": 109711158,
-      "HOLD_NUM_RATIO": 21.45,
+      "OTHER_UNLIMITED_SHARES": 116706505,
+      "HOLD_NUM_RATIO": 18.31,
       "LIMITED_SHARES_RATIO": 29.27,
-      "UNLIMITED_SHARES_RATIO": 49.28
+      "UNLIMITED_SHARES_RATIO": 52.42
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300940.SZ",
       "SECURITY_CODE": "300940",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "姜发明",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "300940.SZ",
       "SECURITY_CODE": "300940",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "潘连兴",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -642,20 +642,8 @@
     {
       "SECUCODE": "300940.SZ",
       "SECURITY_CODE": "300940",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "锦福源(海南)私募基金管理合伙企业(有限合伙)-锦福源五号私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7597200,
-      "HOLD_NUM_RATIO": 3.41,
-      "HOLD_NUM_CHANGE": "-2635000",
-      "CHANGE_RATIO": -25.75203768
-    },
-    {
-      "SECUCODE": "300940.SZ",
-      "SECURITY_CODE": "300940",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "深圳市奥斯曼咨询管理合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 5484768,
@@ -666,8 +654,8 @@
     {
       "SECUCODE": "300940.SZ",
       "SECURITY_CODE": "300940",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "深圳市南极光管理咨询合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 5484768,
@@ -678,60 +666,72 @@
     {
       "SECUCODE": "300940.SZ",
       "SECURITY_CODE": "300940",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "董菊英",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2060400,
-      "HOLD_NUM_RATIO": 0.93,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2210000,
+      "HOLD_NUM_RATIO": 0.99,
+      "HOLD_NUM_CHANGE": "3000",
+      "CHANGE_RATIO": 0.13593113
     },
     {
       "SECUCODE": "300940.SZ",
       "SECURITY_CODE": "300940",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "罗健",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1793940,
-      "HOLD_NUM_RATIO": 0.81,
-      "HOLD_NUM_CHANGE": "-28760",
-      "CHANGE_RATIO": -1.57787897
+      "HOLD_NUM": 1712762,
+      "HOLD_NUM_RATIO": 0.77,
+      "HOLD_NUM_CHANGE": "-17400",
+      "CHANGE_RATIO": -1.00568617
     },
     {
       "SECUCODE": "300940.SZ",
       "SECURITY_CODE": "300940",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "邓克维",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "戴路",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1438020,
-      "HOLD_NUM_RATIO": 0.65,
+      "HOLD_NUM": 1506496,
+      "HOLD_NUM_RATIO": 0.68,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300940.SZ",
       "SECURITY_CODE": "300940",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "任元林",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1114100,
-      "HOLD_NUM_RATIO": 0.5,
-      "HOLD_NUM_CHANGE": "-2240100",
-      "CHANGE_RATIO": -66.78492636
+      "HOLD_NUM": 1094624,
+      "HOLD_NUM_RATIO": 0.49,
+      "HOLD_NUM_CHANGE": "-117006",
+      "CHANGE_RATIO": -9.65690846
     },
     {
       "SECUCODE": "300940.SZ",
       "SECURITY_CODE": "300940",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "戴路",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "陈键",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1076418,
-      "HOLD_NUM_RATIO": 0.48,
+      "HOLD_NUM": 889599,
+      "HOLD_NUM_RATIO": 0.4,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300940.SZ",
+      "SECURITY_CODE": "300940",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "孙宇羿",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 669000,
+      "HOLD_NUM_RATIO": 0.3,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -740,22 +740,22 @@
     {
       "SECUCODE": "300940.SZ",
       "SECURITY_CODE": "300940",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 69,
-      "TOTAL_FREE_SHARES": 959704,
-      "TOTAL_SHARES_RATIO": 0.60941547,
-      "ALL_SHARES_RATIO": 0.43104793
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 12064160,
+      "TOTAL_SHARES_RATIO": 7.66078504,
+      "ALL_SHARES_RATIO": 5.41857847
     },
     {
       "SECUCODE": "300940.SZ",
       "SECURITY_CODE": "300940",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 69,
-      "TOTAL_FREE_SHARES": 959704,
-      "TOTAL_SHARES_RATIO": 0.60941547,
-      "ALL_SHARES_RATIO": 0.43104793
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 12064160,
+      "TOTAL_SHARES_RATIO": 7.66078504,
+      "ALL_SHARES_RATIO": 5.41857847
     }
   ],
   "jjcg": [

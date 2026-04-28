@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 22.96,
       "AVG_HOLD_AMT": 455234.592457143,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 74.48775049,
+      "FREEHOLD_RATIO_TOTAL": 74.48775049
     },
     {
       "SECUCODE": "605222.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "605222.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "605222.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "605222.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "605222.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "605222.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "605222.SH",
       "END_DATE": "2026-02-12 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "605222.SH",
       "END_DATE": "2021-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "605222.SH",
-      "END_DATE": "2021-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "605222.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "605222.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "605222.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "605222.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [
@@ -621,94 +621,6 @@
       "HOLD_CHANGE": "-100000",
       "CHANGE_RATIO": -0.11384439,
       "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-30 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "周供华",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 87839200,
-      "HOLD_NUM_RATIO": 21.27,
-      "HOLD_CHANGE": "-100000",
-      "CHANGE_RATIO": -0.11371493,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-26 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "周供华",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 87939200,
-      "HOLD_NUM_RATIO": 21.3,
-      "HOLD_CHANGE": "-400000",
-      "CHANGE_RATIO": -0.45280012,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-25 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "周供华",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 88339200,
-      "HOLD_NUM_RATIO": 21.39,
-      "HOLD_CHANGE": "-400000",
-      "CHANGE_RATIO": -0.45075908,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-24 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "周供华",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 88739200,
-      "HOLD_NUM_RATIO": 21.49,
-      "HOLD_CHANGE": "-400000",
-      "CHANGE_RATIO": -0.44873636,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-23 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "周供华",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 89139200,
-      "HOLD_NUM_RATIO": 21.59,
-      "HOLD_CHANGE": "-320000",
-      "CHANGE_RATIO": -0.35770496,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-22 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "周供华",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 89459200,
-      "HOLD_NUM_RATIO": 21.67,
-      "HOLD_CHANGE": "-349000",
-      "CHANGE_RATIO": -0.38860594,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-19 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "周供华",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 89808200,
-      "HOLD_NUM_RATIO": 21.75,
-      "HOLD_CHANGE": "-900000",
-      "CHANGE_RATIO": -0.99219255,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-18 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "周供华",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 90708200,
-      "HOLD_NUM_RATIO": 21.97,
-      "HOLD_CHANGE": "-300000",
-      "CHANGE_RATIO": -0.32964063,
-      "CHANGE_REASON": "临时公告"
     }
   ],
   "jjcg_date": [
@@ -738,143 +650,143 @@
     {
       "SECUCODE": "605222.SH",
       "SECURITY_CODE": "605222",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
-      "HOLDER_NAME": "周供华",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 87839200,
-      "FREE_HOLDNUM_RATIO": 21.273651916616,
-      "HOLD_NUM_CHANGE": "-3169000",
-      "CHANGE_RATIO": -3.48210381
-    },
-    {
-      "SECUCODE": "605222.SH",
-      "SECURITY_CODE": "605222",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 2,
       "HOLDER_NAME": "周桂华",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 84996400,
-      "FREE_HOLDNUM_RATIO": 20.585158195492,
+      "FREE_HOLDNUM_RATIO": 20.585060580052,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605222.SH",
       "SECURITY_CODE": "605222",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "周供华",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 78621200,
+      "FREE_HOLDNUM_RATIO": 19.041067208451,
+      "HOLD_NUM_CHANGE": "-9218000",
+      "CHANGE_RATIO": -10.49417572
+    },
+    {
+      "SECUCODE": "605222.SH",
+      "SECURITY_CODE": "605222",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "周桂幸",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 63991400,
-      "FREE_HOLDNUM_RATIO": 15.497986881221,
+      "FREE_HOLDNUM_RATIO": 15.4979133893,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605222.SH",
       "SECURITY_CODE": "605222",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "何德康",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 21433900,
-      "FREE_HOLDNUM_RATIO": 5.191046000141,
+      "FREE_HOLDNUM_RATIO": 5.191021384044,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605222.SH",
       "SECURITY_CODE": "605222",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "北京利福私募基金管理有限公司-利福逸升二号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 18935500,
-      "FREE_HOLDNUM_RATIO": 4.585962029106,
-      "HOLD_NUM_CHANGE": "-2064500",
-      "CHANGE_RATIO": -9.83095238
+      "FREE_HOLDNUM_RATIO": 4.585940282336,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605222.SH",
       "SECURITY_CODE": "605222",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "上海庆智仓储有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 9500000,
-      "FREE_HOLDNUM_RATIO": 2.300791596552,
+      "FREE_HOLDNUM_RATIO": 2.300780686129,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605222.SH",
       "SECURITY_CODE": "605222",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "周宜静",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 6016800,
-      "FREE_HOLDNUM_RATIO": 1.457200302961,
+      "FREE_HOLDNUM_RATIO": 1.457193392874,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605222.SH",
       "SECURITY_CODE": "605222",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "周悦",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 6016800,
-      "FREE_HOLDNUM_RATIO": 1.457200302961,
+      "FREE_HOLDNUM_RATIO": 1.457193392874,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605222.SH",
       "SECURITY_CODE": "605222",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "周志浩",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 6016800,
-      "FREE_HOLDNUM_RATIO": 1.457200302961,
+      "FREE_HOLDNUM_RATIO": 1.457193392874,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605222.SH",
       "SECURITY_CODE": "605222",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "周智巧",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 6016800,
-      "FREE_HOLDNUM_RATIO": 1.457200302961,
+      "FREE_HOLDNUM_RATIO": 1.457193392874,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605222.SH",
       "SECURITY_CODE": "605222",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "周婷",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 6016800,
-      "FREE_HOLDNUM_RATIO": 1.457200302961,
+      "FREE_HOLDNUM_RATIO": 1.457193392874,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
@@ -883,20 +795,20 @@
     {
       "SECUCODE": "605222.SH",
       "SECURITY_CODE": "605222",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 316780400,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 307562400,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 96120969,
-      "HOLD_NUM_RATIO": 76.72,
+      "OTHER_UNLIMITED_SHARES": 105340927,
+      "HOLD_NUM_RATIO": 74.49,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 23.28
+      "UNLIMITED_SHARES_RATIO": 25.51
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "605222.SH",
       "SECURITY_CODE": "605222",
-      "END_DATE": "2026-02-12 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "周桂华",
       "SHARES_TYPE": "流通A股",
@@ -908,19 +820,19 @@
     {
       "SECUCODE": "605222.SH",
       "SECURITY_CODE": "605222",
-      "END_DATE": "2026-02-12 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "周供华",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 78621200,
       "HOLD_NUM_RATIO": 19.04,
-      "HOLD_NUM_CHANGE": "-150000",
-      "CHANGE_RATIO": -0.19042493
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605222.SH",
       "SECURITY_CODE": "605222",
-      "END_DATE": "2026-02-12 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "周桂幸",
       "SHARES_TYPE": "流通A股",
@@ -932,12 +844,96 @@
     {
       "SECUCODE": "605222.SH",
       "SECURITY_CODE": "605222",
-      "END_DATE": "2026-02-12 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "何德康",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 21433900,
       "HOLD_NUM_RATIO": 5.19,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "605222.SH",
+      "SECURITY_CODE": "605222",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "北京利福私募基金管理有限公司-利福逸升二号私募证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 18935500,
+      "HOLD_NUM_RATIO": 4.59,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "605222.SH",
+      "SECURITY_CODE": "605222",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "上海庆智仓储有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 9500000,
+      "HOLD_NUM_RATIO": 2.3,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "605222.SH",
+      "SECURITY_CODE": "605222",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "周宜静",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6016800,
+      "HOLD_NUM_RATIO": 1.46,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "605222.SH",
+      "SECURITY_CODE": "605222",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "周悦",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6016800,
+      "HOLD_NUM_RATIO": 1.46,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "605222.SH",
+      "SECURITY_CODE": "605222",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "周志浩",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6016800,
+      "HOLD_NUM_RATIO": 1.46,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "605222.SH",
+      "SECURITY_CODE": "605222",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "周智巧",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6016800,
+      "HOLD_NUM_RATIO": 1.46,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "605222.SH",
+      "SECURITY_CODE": "605222",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "周婷",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6016800,
+      "HOLD_NUM_RATIO": 1.46,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
@@ -946,32 +942,22 @@
     {
       "SECUCODE": "605222.SH",
       "SECURITY_CODE": "605222",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 46,
-      "TOTAL_FREE_SHARES": 29964200,
-      "TOTAL_SHARES_RATIO": 7.25698733,
-      "ALL_SHARES_RATIO": 7.25698733
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 28435500,
+      "TOTAL_SHARES_RATIO": 6.88672097,
+      "ALL_SHARES_RATIO": 6.88672097
     },
     {
       "SECUCODE": "605222.SH",
       "SECURITY_CODE": "605222",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 44,
-      "TOTAL_FREE_SHARES": 1528700,
-      "TOTAL_SHARES_RATIO": 0.3702337,
-      "ALL_SHARES_RATIO": 0.3702337
-    },
-    {
-      "SECUCODE": "605222.SH",
-      "SECURITY_CODE": "605222",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 2,
       "TOTAL_FREE_SHARES": 28435500,
-      "TOTAL_SHARES_RATIO": 6.88675363,
-      "ALL_SHARES_RATIO": 6.88675363
+      "TOTAL_SHARES_RATIO": 6.88672097,
+      "ALL_SHARES_RATIO": 6.88672097
     }
   ],
   "jjcg": [

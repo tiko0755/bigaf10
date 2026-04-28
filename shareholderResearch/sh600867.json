@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 9.49,
       "AVG_HOLD_AMT": 180140.838620733,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 48.48701014,
+      "FREEHOLD_RATIO_TOTAL": 48.48701014
     },
     {
       "SECUCODE": "600867.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600867.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600867.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600867.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600867.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600867.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600867.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600867.SH",
       "END_DATE": "2019-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600867.SH",
-      "END_DATE": "2019-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -445,74 +445,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-10-30 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "东宝实业集团股份有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 619500796,
-      "HOLD_NUM_RATIO": 31.63,
-      "HOLD_CHANGE": "5677300",
-      "CHANGE_RATIO": 0.92490757,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-17 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 36244430,
-      "HOLD_NUM_RATIO": 1.85,
-      "HOLD_CHANGE": "400159",
-      "CHANGE_RATIO": 1.11638203,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-17 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "阿布达比投资局",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 33189712,
-      "HOLD_NUM_RATIO": 1.69,
-      "HOLD_CHANGE": "229199",
-      "CHANGE_RATIO": 0.69537449,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-17 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国银行股份有限公司-招商国证生物医药指数分级证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 17131777,
-      "HOLD_NUM_RATIO": 0.87,
-      "HOLD_CHANGE": "-92700",
-      "CHANGE_RATIO": -0.5381876,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-17 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 16715007,
-      "HOLD_NUM_RATIO": 0.85,
-      "HOLD_CHANGE": "-338900",
-      "CHANGE_RATIO": -1.98722791,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-17 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "上海银行股份有限公司-银华中证创新药产业交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11769411,
-      "HOLD_NUM_RATIO": 0.6,
-      "HOLD_CHANGE": "211200",
-      "CHANGE_RATIO": 1.8272724,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "600867.SH",
@@ -540,20 +473,20 @@
     {
       "SECUCODE": "600867.SH",
       "SECURITY_CODE": "600867",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "东宝实业集团股份有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 619500796,
       "FREE_HOLDNUM_RATIO": 31.630699458143,
-      "HOLD_NUM_CHANGE": "5677300",
-      "CHANGE_RATIO": 0.92490757
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600867.SH",
       "SECURITY_CODE": "600867",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "天津桢逸股权投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -566,60 +499,73 @@
     {
       "SECUCODE": "600867.SH",
       "SECURITY_CODE": "600867",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "阿布达比投资局-自有资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 32373512,
+      "FREE_HOLDNUM_RATIO": 1.652938680771,
+      "HOLD_NUM_CHANGE": "-277000",
+      "CHANGE_RATIO": -0.84837873
+    },
+    {
+      "SECUCODE": "600867.SH",
+      "SECURITY_CODE": "600867",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 42055209,
-      "FREE_HOLDNUM_RATIO": 2.147270326556,
-      "HOLD_NUM_CHANGE": "5810779",
-      "CHANGE_RATIO": 16.0321986
+      "HOLD_NUM": 29193919,
+      "FREE_HOLDNUM_RATIO": 1.490593852109,
+      "HOLD_NUM_CHANGE": "-12861290",
+      "CHANGE_RATIO": -30.58191911
     },
     {
       "SECUCODE": "600867.SH",
       "SECURITY_CODE": "600867",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "阿布达比投资局",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 32650512,
-      "FREE_HOLDNUM_RATIO": 1.667081848635,
-      "HOLD_NUM_CHANGE": "-539200",
-      "CHANGE_RATIO": -1.62459982
-    },
-    {
-      "SECUCODE": "600867.SH",
-      "SECURITY_CODE": "600867",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国银行股份有限公司-招商国证生物医药指数分级证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "杨祖贵",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 17482577,
-      "FREE_HOLDNUM_RATIO": 0.89263184553,
-      "HOLD_NUM_CHANGE": "350800",
-      "CHANGE_RATIO": 2.04765682
+      "HOLD_NUM": 19005900,
+      "FREE_HOLDNUM_RATIO": 0.970410231453,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600867.SH",
       "SECURITY_CODE": "600867",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "上海银行股份有限公司-银华中证创新药产业交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 14265311,
-      "FREE_HOLDNUM_RATIO": 0.728363494981,
-      "HOLD_NUM_CHANGE": "2495900",
-      "CHANGE_RATIO": 21.20666871
+      "HOLD_NUM": 17926411,
+      "FREE_HOLDNUM_RATIO": 0.915293285118,
+      "HOLD_NUM_CHANGE": "3661100",
+      "CHANGE_RATIO": 25.6643546
     },
     {
       "SECUCODE": "600867.SH",
       "SECURITY_CODE": "600867",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国银行股份有限公司-招商国证生物医药指数分级证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 17506577,
+      "FREE_HOLDNUM_RATIO": 0.893857246356,
+      "HOLD_NUM_CHANGE": "24000",
+      "CHANGE_RATIO": 0.13727953
+    },
+    {
+      "SECUCODE": "600867.SH",
+      "SECURITY_CODE": "600867",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "李一奎",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -631,21 +577,21 @@
     {
       "SECUCODE": "600867.SH",
       "SECURITY_CODE": "600867",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国银行股份有限公司-广发中证创新药产业交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10755410,
-      "FREE_HOLDNUM_RATIO": 0.549153678988,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 10454199,
+      "FREE_HOLDNUM_RATIO": 0.533774336982,
+      "HOLD_NUM_CHANGE": "2249938",
+      "CHANGE_RATIO": 27.42401784
     },
     {
       "SECUCODE": "600867.SH",
       "SECURITY_CODE": "600867",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "通化东宝药业股份有限公司-2025年员工持股计划",
       "HOLDER_TYPE": "员工持股计划",
       "SHARES_TYPE": "A股",
@@ -653,39 +599,26 @@
       "FREE_HOLDNUM_RATIO": 0.474332236316,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600867.SH",
-      "SECURITY_CODE": "600867",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国银行股份有限公司-广发中证创新药产业交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8204261,
-      "FREE_HOLDNUM_RATIO": 0.418896175183,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600867.SH",
       "SECURITY_CODE": "600867",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 948591622,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 949638860,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 1009951207,
-      "HOLD_NUM_RATIO": 48.43,
+      "OTHER_UNLIMITED_SHARES": 1008903969,
+      "HOLD_NUM_RATIO": 48.49,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 51.57
+      "UNLIMITED_SHARES_RATIO": 51.51
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600867.SH",
       "SECURITY_CODE": "600867",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "东宝实业集团股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -697,7 +630,7 @@
     {
       "SECUCODE": "600867.SH",
       "SECURITY_CODE": "600867",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "天津桢逸股权投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -709,56 +642,68 @@
     {
       "SECUCODE": "600867.SH",
       "SECURITY_CODE": "600867",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "阿布达比投资局-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 32373512,
+      "HOLD_NUM_RATIO": 1.65,
+      "HOLD_NUM_CHANGE": "-277000",
+      "CHANGE_RATIO": -0.84837873
+    },
+    {
+      "SECUCODE": "600867.SH",
+      "SECURITY_CODE": "600867",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 42055209,
-      "HOLD_NUM_RATIO": 2.15,
-      "HOLD_NUM_CHANGE": "5810779",
-      "CHANGE_RATIO": 16.0321986
+      "HOLD_NUM": 29193919,
+      "HOLD_NUM_RATIO": 1.49,
+      "HOLD_NUM_CHANGE": "-12861290",
+      "CHANGE_RATIO": -30.58191911
     },
     {
       "SECUCODE": "600867.SH",
       "SECURITY_CODE": "600867",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "阿布达比投资局",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 32650512,
-      "HOLD_NUM_RATIO": 1.67,
-      "HOLD_NUM_CHANGE": "-539200",
-      "CHANGE_RATIO": -1.62459982
-    },
-    {
-      "SECUCODE": "600867.SH",
-      "SECURITY_CODE": "600867",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国银行股份有限公司-招商国证生物医药指数分级证券投资基金",
+      "HOLDER_NAME": "杨祖贵",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 17482577,
-      "HOLD_NUM_RATIO": 0.89,
-      "HOLD_NUM_CHANGE": "350800",
-      "CHANGE_RATIO": 2.04765682
+      "HOLD_NUM": 19005900,
+      "HOLD_NUM_RATIO": 0.97,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600867.SH",
       "SECURITY_CODE": "600867",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "上海银行股份有限公司-银华中证创新药产业交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 14265311,
-      "HOLD_NUM_RATIO": 0.73,
-      "HOLD_NUM_CHANGE": "2495900",
-      "CHANGE_RATIO": 21.20666871
+      "HOLD_NUM": 17926411,
+      "HOLD_NUM_RATIO": 0.92,
+      "HOLD_NUM_CHANGE": "3661100",
+      "CHANGE_RATIO": 25.6643546
     },
     {
       "SECUCODE": "600867.SH",
       "SECURITY_CODE": "600867",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国银行股份有限公司-招商国证生物医药指数分级证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 17506577,
+      "HOLD_NUM_RATIO": 0.89,
+      "HOLD_NUM_CHANGE": "24000",
+      "CHANGE_RATIO": 0.13727953
+    },
+    {
+      "SECUCODE": "600867.SH",
+      "SECURITY_CODE": "600867",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "李一奎",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 11328579,
@@ -769,37 +714,25 @@
     {
       "SECUCODE": "600867.SH",
       "SECURITY_CODE": "600867",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国银行股份有限公司-广发中证创新药产业交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10755410,
-      "HOLD_NUM_RATIO": 0.55,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 10454199,
+      "HOLD_NUM_RATIO": 0.53,
+      "HOLD_NUM_CHANGE": "2249938",
+      "CHANGE_RATIO": 27.42401784
     },
     {
       "SECUCODE": "600867.SH",
       "SECURITY_CODE": "600867",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "通化东宝药业股份有限公司-2025年员工持股计划",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 9290000,
       "HOLD_NUM_RATIO": 0.47,
       "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600867.SH",
-      "SECURITY_CODE": "600867",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国银行股份有限公司-广发中证创新药产业交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8204261,
-      "HOLD_NUM_RATIO": 0.42,
-      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -809,23 +742,94 @@
       "SECURITY_CODE": "600867",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 8,
-      "TOTAL_FREE_SHARES": 3609400,
-      "TOTAL_SHARES_RATIO": 0.18429007,
-      "ALL_SHARES_RATIO": 0.18429007
+      "TOTAL_ORG_NUM": 16,
+      "TOTAL_FREE_SHARES": 922913781,
+      "TOTAL_SHARES_RATIO": 47.12247124,
+      "ALL_SHARES_RATIO": 47.12247124
     },
     {
       "SECUCODE": "600867.SH",
       "SECURITY_CODE": "600867",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 8,
-      "TOTAL_FREE_SHARES": 3609400,
-      "TOTAL_SHARES_RATIO": 0.18429007,
-      "ALL_SHARES_RATIO": 0.18429007
+      "TOTAL_ORG_NUM": 11,
+      "TOTAL_FREE_SHARES": 49496587,
+      "TOTAL_SHARES_RATIO": 2.52721495,
+      "ALL_SHARES_RATIO": 2.52721495
+    },
+    {
+      "SECUCODE": "600867.SH",
+      "SECURITY_CODE": "600867",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 32373512,
+      "TOTAL_SHARES_RATIO": 1.65293868,
+      "ALL_SHARES_RATIO": 1.65293868
+    },
+    {
+      "SECUCODE": "600867.SH",
+      "SECURITY_CODE": "600867",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 841043682,
+      "TOTAL_SHARES_RATIO": 42.94231761,
+      "ALL_SHARES_RATIO": 42.94231761
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600867.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "159992",
+      "HOLDER_NAME": "银华中证创新药产业ETF",
+      "TOTAL_SHARES": 17926411,
+      "HOLD_VALUE": 170121640.39,
+      "TOTALSHARES_RATIO": 0.91529329,
+      "FREESHARES_RATIO": 0.91529329,
+      "FREE_MARKET_CAP": 170121640.39,
+      "FREE_SHARES": 17926411,
+      "SECURITY_CODE": "600867",
+      "FUND_CODE": "159992",
+      "FUND_DERIVECODE": "159992.SZ",
+      "NETVALUE_RATIO": 1.12
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600867.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "161726",
+      "HOLDER_NAME": "招商国证生物医药指数(LOF)A",
+      "TOTAL_SHARES": 17506577,
+      "HOLD_VALUE": 166137415.73,
+      "TOTALSHARES_RATIO": 0.89385725,
+      "FREESHARES_RATIO": 0.89385725,
+      "FREE_MARKET_CAP": 166137415.73,
+      "FREE_SHARES": 17506577,
+      "SECURITY_CODE": "600867",
+      "FUND_CODE": "161726",
+      "FUND_DERIVECODE": "161726.SZ",
+      "NETVALUE_RATIO": 2.55
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600867.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "515120",
+      "HOLDER_NAME": "广发中证创新药产业ETF",
+      "TOTAL_SHARES": 10454199,
+      "HOLD_VALUE": 99210348.51,
+      "TOTALSHARES_RATIO": 0.53377434,
+      "FREESHARES_RATIO": 0.53377434,
+      "FREE_MARKET_CAP": 99210348.51,
+      "FREE_SHARES": 10454199,
+      "SECURITY_CODE": "600867",
+      "FUND_CODE": "515120",
+      "FUND_DERIVECODE": "515120.SH",
+      "NETVALUE_RATIO": 1.12
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "600867.SH",

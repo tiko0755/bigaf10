@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 12.45,
       "AVG_HOLD_AMT": 91320.189769576,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 38.26949738,
+      "FREEHOLD_RATIO_TOTAL": 19.18535169
     },
     {
       "SECUCODE": "300288.SZ",
@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300288.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300288.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300288.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "300288.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300288.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300288.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300288.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300288.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300288.SZ",
       "END_DATE": "2025-09-30 00:00:00",
@@ -403,16 +413,6 @@
       "SECUCODE": "300288.SZ",
       "END_DATE": "2020-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "300288.SZ",
-      "END_DATE": "2020-09-07 00:00:00",
-      "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300288.SZ",
-      "END_DATE": "2020-09-04 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "300288.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "300288.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "300288.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300288.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,20 +473,20 @@
     {
       "SECUCODE": "300288.SZ",
       "SECURITY_CODE": "300288",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "王伟",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 25434304,
-      "FREE_HOLDNUM_RATIO": 9.913226165003,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 26701579,
+      "FREE_HOLDNUM_RATIO": 10.407156869309,
+      "HOLD_NUM_CHANGE": "1267275",
+      "CHANGE_RATIO": 4.98254247
     },
     {
       "SECUCODE": "300288.SZ",
       "SECURITY_CODE": "300288",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "刘玲",
       "HOLDER_TYPE": "个人",
@@ -499,98 +499,98 @@
     {
       "SECUCODE": "300288.SZ",
       "SECURITY_CODE": "300288",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "贵阳朗玛投资咨询企业(有限合伙)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6595940,
-      "FREE_HOLDNUM_RATIO": 2.570821084422,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 6253884,
+      "FREE_HOLDNUM_RATIO": 2.437501985574,
+      "HOLD_NUM_CHANGE": "-342056",
+      "CHANGE_RATIO": -5.18585675
     },
     {
       "SECUCODE": "300288.SZ",
       "SECURITY_CODE": "300288",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "玄元私募基金投资管理(广东)有限公司",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4320100,
-      "FREE_HOLDNUM_RATIO": 1.68379399552,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300288.SZ",
-      "SECURITY_CODE": "300288",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1760083,
-      "FREE_HOLDNUM_RATIO": 0.686006617212,
-      "HOLD_NUM_CHANGE": "-153657",
-      "CHANGE_RATIO": -8.02914712
+      "HOLD_NUM": 2337677,
+      "FREE_HOLDNUM_RATIO": 0.911128560928,
+      "HOLD_NUM_CHANGE": "730605",
+      "CHANGE_RATIO": 45.46187103
     },
     {
       "SECUCODE": "300288.SZ",
       "SECURITY_CODE": "300288",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "何志怀",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1604300,
-      "FREE_HOLDNUM_RATIO": 0.62528893012,
-      "HOLD_NUM_CHANGE": "-2800",
-      "CHANGE_RATIO": -0.17422687
-    },
-    {
-      "SECUCODE": "300288.SZ",
-      "SECURITY_CODE": "300288",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "袁同合",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1100000,
-      "FREE_HOLDNUM_RATIO": 0.428733917056,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1000000,
+      "FREE_HOLDNUM_RATIO": 0.389758106414,
+      "HOLD_NUM_CHANGE": "-23100",
+      "CHANGE_RATIO": -2.25784381
     },
     {
       "SECUCODE": "300288.SZ",
       "SECURITY_CODE": "300288",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "琚英",
-      "HOLDER_TYPE": "个人",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "玄元私募基金投资管理(广东)有限公司-玄元定增精选证券投资基金",
+      "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1022100,
-      "FREE_HOLDNUM_RATIO": 0.398371760566,
-      "HOLD_NUM_CHANGE": "342100",
-      "CHANGE_RATIO": 50.30882353
+      "HOLD_NUM": 820100,
+      "FREE_HOLDNUM_RATIO": 0.31964062307,
+      "HOLD_NUM_CHANGE": "-3500000",
+      "CHANGE_RATIO": -81.01664313
     },
     {
       "SECUCODE": "300288.SZ",
       "SECURITY_CODE": "300288",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "王健飞",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "徐素英",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 870000,
-      "FREE_HOLDNUM_RATIO": 0.33908955258,
+      "HOLD_NUM": 790200,
+      "FREE_HOLDNUM_RATIO": 0.307986855688,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300288.SZ",
       "SECURITY_CODE": "300288",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "何志怀",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 784700,
+      "FREE_HOLDNUM_RATIO": 0.305843186103,
+      "HOLD_NUM_CHANGE": "-450800",
+      "CHANGE_RATIO": -36.48725212
+    },
+    {
+      "SECUCODE": "300288.SZ",
+      "SECURITY_CODE": "300288",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "施林元",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 780000,
+      "FREE_HOLDNUM_RATIO": 0.304011323003,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300288.SZ",
+      "SECURITY_CODE": "300288",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "靳国文",
       "HOLDER_TYPE": "个人",
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "300288.SZ",
       "SECURITY_CODE": "300288",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 52462427,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 49223740,
       "LIMITED_SHARES": 81372011,
-      "OTHER_UNLIMITED_SHARES": 204106964,
-      "HOLD_NUM_RATIO": 15.52,
+      "OTHER_UNLIMITED_SHARES": 207345651,
+      "HOLD_NUM_RATIO": 14.57,
       "LIMITED_SHARES_RATIO": 24.08,
-      "UNLIMITED_SHARES_RATIO": 60.4
+      "UNLIMITED_SHARES_RATIO": 61.36
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300288.SZ",
       "SECURITY_CODE": "300288",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "王伟",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "300288.SZ",
       "SECURITY_CODE": "300288",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "刘玲",
       "SHARES_TYPE": "流通A股",
@@ -642,91 +642,91 @@
     {
       "SECUCODE": "300288.SZ",
       "SECURITY_CODE": "300288",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "贵阳朗玛投资咨询企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6595940,
-      "HOLD_NUM_RATIO": 1.95,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 6253884,
+      "HOLD_NUM_RATIO": 1.85,
+      "HOLD_NUM_CHANGE": "-342056",
+      "CHANGE_RATIO": -5.18585675
     },
     {
       "SECUCODE": "300288.SZ",
       "SECURITY_CODE": "300288",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "玄元私募基金投资管理(广东)有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4320100,
-      "HOLD_NUM_RATIO": 1.28,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300288.SZ",
-      "SECURITY_CODE": "300288",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1760083,
-      "HOLD_NUM_RATIO": 0.52,
-      "HOLD_NUM_CHANGE": "-153657",
-      "CHANGE_RATIO": -8.02914712
+      "HOLD_NUM": 2337677,
+      "HOLD_NUM_RATIO": 0.69,
+      "HOLD_NUM_CHANGE": "730605",
+      "CHANGE_RATIO": 45.46187103
     },
     {
       "SECUCODE": "300288.SZ",
       "SECURITY_CODE": "300288",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "何志怀",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1604300,
-      "HOLD_NUM_RATIO": 0.47,
-      "HOLD_NUM_CHANGE": "-2800",
-      "CHANGE_RATIO": -0.17422687
-    },
-    {
-      "SECUCODE": "300288.SZ",
-      "SECURITY_CODE": "300288",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "袁同合",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1100000,
-      "HOLD_NUM_RATIO": 0.33,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300288.SZ",
-      "SECURITY_CODE": "300288",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "琚英",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1022100,
+      "HOLD_NUM": 1000000,
       "HOLD_NUM_RATIO": 0.3,
-      "HOLD_NUM_CHANGE": "342100",
-      "CHANGE_RATIO": 50.30882353
+      "HOLD_NUM_CHANGE": "-23100",
+      "CHANGE_RATIO": -2.25784381
     },
     {
       "SECUCODE": "300288.SZ",
       "SECURITY_CODE": "300288",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "王健飞",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "玄元私募基金投资管理(广东)有限公司-玄元定增精选证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 870000,
-      "HOLD_NUM_RATIO": 0.26,
+      "HOLD_NUM": 820100,
+      "HOLD_NUM_RATIO": 0.24,
+      "HOLD_NUM_CHANGE": "-3500000",
+      "CHANGE_RATIO": -81.01664313
+    },
+    {
+      "SECUCODE": "300288.SZ",
+      "SECURITY_CODE": "300288",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "徐素英",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 790200,
+      "HOLD_NUM_RATIO": 0.23,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300288.SZ",
       "SECURITY_CODE": "300288",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "何志怀",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 784700,
+      "HOLD_NUM_RATIO": 0.23,
+      "HOLD_NUM_CHANGE": "-450800",
+      "CHANGE_RATIO": -36.48725212
+    },
+    {
+      "SECUCODE": "300288.SZ",
+      "SECURITY_CODE": "300288",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "施林元",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 780000,
+      "HOLD_NUM_RATIO": 0.23,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300288.SZ",
+      "SECURITY_CODE": "300288",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "靳国文",
       "SHARES_TYPE": "流通A股",
@@ -740,22 +740,22 @@
     {
       "SECUCODE": "300288.SZ",
       "SECURITY_CODE": "300288",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 16,
-      "TOTAL_FREE_SHARES": 172400,
-      "TOTAL_SHARES_RATIO": 0.06719429,
-      "ALL_SHARES_RATIO": 0.05101476
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 9411661,
+      "TOTAL_SHARES_RATIO": 3.66827117,
+      "ALL_SHARES_RATIO": 2.78499792
     },
     {
       "SECUCODE": "300288.SZ",
       "SECURITY_CODE": "300288",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 16,
-      "TOTAL_FREE_SHARES": 172400,
-      "TOTAL_SHARES_RATIO": 0.06719429,
-      "ALL_SHARES_RATIO": 0.05101476
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 9411661,
+      "TOTAL_SHARES_RATIO": 3.66827117,
+      "ALL_SHARES_RATIO": 2.78499792
     }
   ],
   "jjcg": [

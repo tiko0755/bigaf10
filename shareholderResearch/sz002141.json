@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 3.71,
       "AVG_HOLD_AMT": 78772.2627511357,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 40.9015047,
+      "FREEHOLD_RATIO_TOTAL": 40.9015047
     },
     {
       "SECUCODE": "002141.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002141.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002141.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002141.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002141.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002141.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002141.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002141.SZ",
       "END_DATE": "2019-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002141.SZ",
-      "END_DATE": "2018-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "002141.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "002141.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "002141.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002141.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "002141.SZ",
       "SECURITY_CODE": "002141",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "深圳安盛致和投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "002141.SZ",
       "SECURITY_CODE": "002141",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "贤丰控股集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,21 +499,8 @@
     {
       "SECUCODE": "002141.SZ",
       "SECURITY_CODE": "002141",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "徐妙娴",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 22830457,
-      "FREE_HOLDNUM_RATIO": 2.210249373117,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002141.SZ",
-      "SECURITY_CODE": "002141",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "李廷生",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -525,21 +512,47 @@
     {
       "SECUCODE": "002141.SZ",
       "SECURITY_CODE": "002141",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "徐妙娴",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 16200000,
+      "FREE_HOLDNUM_RATIO": 1.568345296132,
+      "HOLD_NUM_CHANGE": "-6630457",
+      "CHANGE_RATIO": -29.04215627
+    },
+    {
+      "SECUCODE": "002141.SZ",
+      "SECURITY_CODE": "002141",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "萧巧当",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 14619900,
       "FREE_HOLDNUM_RATIO": 1.415373542897,
-      "HOLD_NUM_CHANGE": "318600",
-      "CHANGE_RATIO": 2.2277695
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002141.SZ",
       "SECURITY_CODE": "002141",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "蔡玉栋",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 14143700,
+      "FREE_HOLDNUM_RATIO": 1.369271936105,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002141.SZ",
+      "SECURITY_CODE": "002141",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "王琦",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -551,8 +564,8 @@
     {
       "SECUCODE": "002141.SZ",
       "SECURITY_CODE": "002141",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "黄国良",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -564,8 +577,8 @@
     {
       "SECUCODE": "002141.SZ",
       "SECURITY_CODE": "002141",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "深圳南杉私募证券基金管理有限公司-南杉-长盈私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
@@ -577,27 +590,14 @@
     {
       "SECUCODE": "002141.SZ",
       "SECURITY_CODE": "002141",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "章卫初",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 9040184,
       "FREE_HOLDNUM_RATIO": 0.875193213122,
-      "HOLD_NUM_CHANGE": "461000",
-      "CHANGE_RATIO": 5.37347142
-    },
-    {
-      "SECUCODE": "002141.SZ",
-      "SECURITY_CODE": "002141",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "黄键良",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8424900,
-      "FREE_HOLDNUM_RATIO": 0.815626684283,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "002141.SZ",
       "SECURITY_CODE": "002141",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 423397941,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 422486284,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 609537857,
-      "HOLD_NUM_RATIO": 40.99,
+      "OTHER_UNLIMITED_SHARES": 610449514,
+      "HOLD_NUM_RATIO": 40.9,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 59.01
+      "UNLIMITED_SHARES_RATIO": 59.1
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002141.SZ",
       "SECURITY_CODE": "002141",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "深圳安盛致和投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "002141.SZ",
       "SECURITY_CODE": "002141",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "贤丰控股集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,20 +642,8 @@
     {
       "SECUCODE": "002141.SZ",
       "SECURITY_CODE": "002141",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "徐妙娴",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 22830457,
-      "HOLD_NUM_RATIO": 2.21,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002141.SZ",
-      "SECURITY_CODE": "002141",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "李廷生",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 19409300,
@@ -666,20 +654,44 @@
     {
       "SECUCODE": "002141.SZ",
       "SECURITY_CODE": "002141",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "徐妙娴",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 16200000,
+      "HOLD_NUM_RATIO": 1.57,
+      "HOLD_NUM_CHANGE": "-6630457",
+      "CHANGE_RATIO": -29.04215627
+    },
+    {
+      "SECUCODE": "002141.SZ",
+      "SECURITY_CODE": "002141",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "萧巧当",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 14619900,
       "HOLD_NUM_RATIO": 1.42,
-      "HOLD_NUM_CHANGE": "318600",
-      "CHANGE_RATIO": 2.2277695
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002141.SZ",
       "SECURITY_CODE": "002141",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "蔡玉栋",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 14143700,
+      "HOLD_NUM_RATIO": 1.37,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002141.SZ",
+      "SECURITY_CODE": "002141",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "王琦",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 13569600,
@@ -690,8 +702,8 @@
     {
       "SECUCODE": "002141.SZ",
       "SECURITY_CODE": "002141",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "黄国良",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 13211600,
@@ -702,8 +714,8 @@
     {
       "SECUCODE": "002141.SZ",
       "SECURITY_CODE": "002141",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "深圳南杉私募证券基金管理有限公司-南杉-长盈私募证券投资基金",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 10000000,
@@ -714,25 +726,13 @@
     {
       "SECUCODE": "002141.SZ",
       "SECURITY_CODE": "002141",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "章卫初",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 9040184,
       "HOLD_NUM_RATIO": 0.88,
-      "HOLD_NUM_CHANGE": "461000",
-      "CHANGE_RATIO": 5.37347142
-    },
-    {
-      "SECUCODE": "002141.SZ",
-      "SECURITY_CODE": "002141",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "黄键良",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8424900,
-      "HOLD_NUM_RATIO": 0.82,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -740,27 +740,17 @@
     {
       "SECUCODE": "002141.SZ",
       "SECURITY_CODE": "002141",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 322295000,
-      "TOTAL_SHARES_RATIO": 31.20184241,
-      "ALL_SHARES_RATIO": 31.20184241
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 322292000,
+      "TOTAL_SHARES_RATIO": 31.20155198,
+      "ALL_SHARES_RATIO": 31.20155198
     },
     {
       "SECUCODE": "002141.SZ",
       "SECURITY_CODE": "002141",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 3000,
-      "TOTAL_SHARES_RATIO": 0.00029043,
-      "ALL_SHARES_RATIO": 0.00029043
-    },
-    {
-      "SECUCODE": "002141.SZ",
-      "SECURITY_CODE": "002141",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 3,
       "TOTAL_FREE_SHARES": 322292000,

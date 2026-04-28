@@ -123,8 +123,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 3.12,
       "AVG_HOLD_AMT": 94385.0631039467,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 31.78789434,
+      "FREEHOLD_RATIO_TOTAL": 31.82873307
     },
     {
       "SECUCODE": "600759.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600759.SH",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600759.SH",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600759.SH",
       "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600759.SH",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600759.SH",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600759.SH",
       "END_DATE": "2025-09-30 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600759.SH",
       "END_DATE": "2014-12-15 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "600759.SH",
-      "END_DATE": "2014-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600759.SH",
       "SECURITY_CODE": "600759",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "广西正和实业集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600759.SH",
       "SECURITY_CODE": "600759",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "深圳市中民昇汇壹号投资企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "600759.SH",
       "SECURITY_CODE": "600759",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "星河云享(湖州)股权投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -512,46 +512,46 @@
     {
       "SECUCODE": "600759.SH",
       "SECURITY_CODE": "600759",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "海南裕马能源投资有限公司",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 121083601,
-      "FREE_HOLDNUM_RATIO": 2.922123139366,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600759.SH",
-      "SECURITY_CODE": "600759",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "洲际油气股份有限公司破产企业财产处置专用账户",
       "HOLDER_TYPE": "证券账户",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 113433148,
       "FREE_HOLDNUM_RATIO": 2.737493961234,
-      "HOLD_NUM_CHANGE": "-178435126",
-      "CHANGE_RATIO": -61.13549909
-    },
-    {
-      "SECUCODE": "600759.SH",
-      "SECURITY_CODE": "600759",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "北京厚晟厚朴科技发展中心(有限合伙)",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 52905667,
-      "FREE_HOLDNUM_RATIO": 1.276777965534,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600759.SH",
       "SECURITY_CODE": "600759",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 83920742,
+      "FREE_HOLDNUM_RATIO": 2.025267997034,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600759.SH",
+      "SECURITY_CODE": "600759",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "海南裕马能源投资有限公司",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 76231701,
+      "FREE_HOLDNUM_RATIO": 1.839707570684,
+      "HOLD_NUM_CHANGE": "-44851900",
+      "CHANGE_RATIO": -37.04209293
+    },
+    {
+      "SECUCODE": "600759.SH",
+      "SECURITY_CODE": "600759",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "海口东铎商务服务合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
@@ -564,8 +564,34 @@
     {
       "SECUCODE": "600759.SH",
       "SECURITY_CODE": "600759",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "柴长茂",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 51151600,
+      "FREE_HOLDNUM_RATIO": 1.234446884146,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600759.SH",
+      "SECURITY_CODE": "600759",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "洲际油气股份有限公司回购专用证券账户",
+      "HOLDER_TYPE": "证券账户",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 50000000,
+      "FREE_HOLDNUM_RATIO": 1.206655201544,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600759.SH",
+      "SECURITY_CODE": "600759",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "周世平",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -573,52 +599,26 @@
       "FREE_HOLDNUM_RATIO": 1.1973700863,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600759.SH",
-      "SECURITY_CODE": "600759",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "金忠栲",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 41111799,
-      "FREE_HOLDNUM_RATIO": 0.992155322163,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600759.SH",
-      "SECURITY_CODE": "600759",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 37923900,
-      "FREE_HOLDNUM_RATIO": 0.915221423957,
-      "HOLD_NUM_CHANGE": "-385600",
-      "CHANGE_RATIO": -1.00653885
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600759.SH",
       "SECURITY_CODE": "600759",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 1310603610,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLD_NUM_COUNT": 1318882686,
       "LIMITED_SHARES": 5323500,
-      "OTHER_UNLIMITED_SHARES": 2833082170,
-      "HOLD_NUM_RATIO": 31.59,
+      "OTHER_UNLIMITED_SHARES": 2824803094,
+      "HOLD_NUM_RATIO": 31.79,
       "LIMITED_SHARES_RATIO": 0.13,
-      "UNLIMITED_SHARES_RATIO": 68.28
+      "UNLIMITED_SHARES_RATIO": 68.08
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600759.SH",
       "SECURITY_CODE": "600759",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "广西正和实业集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600759.SH",
       "SECURITY_CODE": "600759",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "深圳市中民昇汇壹号投资企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "600759.SH",
       "SECURITY_CODE": "600759",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "星河云享(湖州)股权投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -654,43 +654,43 @@
     {
       "SECUCODE": "600759.SH",
       "SECURITY_CODE": "600759",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "海南裕马能源投资有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 121083601,
-      "HOLD_NUM_RATIO": 2.92,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600759.SH",
-      "SECURITY_CODE": "600759",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "洲际油气股份有限公司破产企业财产处置专用账户",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 113433148,
       "HOLD_NUM_RATIO": 2.73,
-      "HOLD_NUM_CHANGE": "-178435126",
-      "CHANGE_RATIO": -61.13549909
-    },
-    {
-      "SECUCODE": "600759.SH",
-      "SECURITY_CODE": "600759",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "北京厚晟厚朴科技发展中心(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 52905667,
-      "HOLD_NUM_RATIO": 1.28,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600759.SH",
       "SECURITY_CODE": "600759",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 83920742,
+      "HOLD_NUM_RATIO": 2.02,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600759.SH",
+      "SECURITY_CODE": "600759",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "海南裕马能源投资有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 76231701,
+      "HOLD_NUM_RATIO": 1.84,
+      "HOLD_NUM_CHANGE": "-44851900",
+      "CHANGE_RATIO": -37.04209293
+    },
+    {
+      "SECUCODE": "600759.SH",
+      "SECURITY_CODE": "600759",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "海口东铎商务服务合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -702,38 +702,38 @@
     {
       "SECUCODE": "600759.SH",
       "SECURITY_CODE": "600759",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "柴长茂",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 51151600,
+      "HOLD_NUM_RATIO": 1.23,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600759.SH",
+      "SECURITY_CODE": "600759",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "洲际油气股份有限公司回购专用证券账户",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 50000000,
+      "HOLD_NUM_RATIO": 1.21,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600759.SH",
+      "SECURITY_CODE": "600759",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "周世平",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 49615254,
       "HOLD_NUM_RATIO": 1.2,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600759.SH",
-      "SECURITY_CODE": "600759",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "金忠栲",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 41111799,
-      "HOLD_NUM_RATIO": 0.99,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600759.SH",
-      "SECURITY_CODE": "600759",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 37923900,
-      "HOLD_NUM_RATIO": 0.91,
-      "HOLD_NUM_CHANGE": "-385600",
-      "CHANGE_RATIO": -1.00653885
     }
   ],
   "jgcc": [

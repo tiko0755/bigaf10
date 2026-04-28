@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 17.56,
       "AVG_HOLD_AMT": 172767.918301264,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 60.32275633,
+      "FREEHOLD_RATIO_TOTAL": 60.32275633
     },
     {
       "SECUCODE": "603069.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603069.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603069.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603069.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603069.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603069.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603069.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603069.SH",
       "END_DATE": "2020-06-12 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "603069.SH",
-      "END_DATE": "2020-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "603069.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "603069.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "603069.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603069.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "603069.SH",
       "SECURITY_CODE": "603069",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "海南海汽投资控股有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "603069.SH",
       "SECURITY_CODE": "603069",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "海南高速公路股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,126 +499,126 @@
     {
       "SECUCODE": "603069.SH",
       "SECURITY_CODE": "603069",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2986934,
-      "FREE_HOLDNUM_RATIO": 0.945232278481,
-      "HOLD_NUM_CHANGE": "1201782",
-      "CHANGE_RATIO": 67.32099003
+      "HOLD_NUM": 4676791,
+      "FREE_HOLDNUM_RATIO": 1.479997151899,
+      "HOLD_NUM_CHANGE": "1689857",
+      "CHANGE_RATIO": 56.57496952
     },
     {
       "SECUCODE": "603069.SH",
       "SECURITY_CODE": "603069",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "段其军",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 973000,
-      "FREE_HOLDNUM_RATIO": 0.307911392405,
-      "HOLD_NUM_CHANGE": "4200",
-      "CHANGE_RATIO": 0.43352601
-    },
-    {
-      "SECUCODE": "603069.SH",
-      "SECURITY_CODE": "603069",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "MORGAN STANLEY&CO.INTERNATIONAL PLC.",
+      "HOLDER_NAME": "高盛公司有限责任公司",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 923816,
-      "FREE_HOLDNUM_RATIO": 0.292346835443,
+      "HOLD_NUM": 979631,
+      "FREE_HOLDNUM_RATIO": 0.310009810127,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603069.SH",
       "SECURITY_CODE": "603069",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "段其军",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 969400,
+      "FREE_HOLDNUM_RATIO": 0.306772151899,
+      "HOLD_NUM_CHANGE": "-3600",
+      "CHANGE_RATIO": -0.36998972
+    },
+    {
+      "SECUCODE": "603069.SH",
+      "SECURITY_CODE": "603069",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "深圳润域贸易有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 819200,
       "FREE_HOLDNUM_RATIO": 0.259240506329,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603069.SH",
       "SECURITY_CODE": "603069",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "石培树",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 818756,
-      "FREE_HOLDNUM_RATIO": 0.2591,
-      "HOLD_NUM_CHANGE": "165156",
-      "CHANGE_RATIO": 25.26866585
-    },
-    {
-      "SECUCODE": "603069.SH",
-      "SECURITY_CODE": "603069",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "海南金岭盛世投资有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 762800,
-      "FREE_HOLDNUM_RATIO": 0.241392405063,
-      "HOLD_NUM_CHANGE": "102600",
-      "CHANGE_RATIO": 15.54074523
+      "HOLD_NUM": 788400,
+      "FREE_HOLDNUM_RATIO": 0.249493670886,
+      "HOLD_NUM_CHANGE": "25600",
+      "CHANGE_RATIO": 3.35605663
     },
     {
       "SECUCODE": "603069.SH",
       "SECURITY_CODE": "603069",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "UBS AG",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 754607,
-      "FREE_HOLDNUM_RATIO": 0.238799683544,
+      "HOLD_NUM": 667888,
+      "FREE_HOLDNUM_RATIO": 0.211356962025,
+      "HOLD_NUM_CHANGE": "-86719",
+      "CHANGE_RATIO": -11.49194216
+    },
+    {
+      "SECUCODE": "603069.SH",
+      "SECURITY_CODE": "603069",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "叶立胜",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 650000,
+      "FREE_HOLDNUM_RATIO": 0.205696202532,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603069.SH",
       "SECURITY_CODE": "603069",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "张波",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 613800,
-      "FREE_HOLDNUM_RATIO": 0.194240506329,
-      "HOLD_NUM_CHANGE": "6000",
-      "CHANGE_RATIO": 0.98716683
+      "HOLD_NUM": 587900,
+      "FREE_HOLDNUM_RATIO": 0.186044303797,
+      "HOLD_NUM_CHANGE": "-25900",
+      "CHANGE_RATIO": -4.21961551
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "603069.SH",
       "SECURITY_CODE": "603069",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 189133613,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 190619910,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 126866387,
-      "HOLD_NUM_RATIO": 59.85,
+      "OTHER_UNLIMITED_SHARES": 125380090,
+      "HOLD_NUM_RATIO": 60.32,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 40.15
+      "UNLIMITED_SHARES_RATIO": 39.68
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603069.SH",
       "SECURITY_CODE": "603069",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "海南海汽投资控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "603069.SH",
       "SECURITY_CODE": "603069",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "海南高速公路股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,140 +642,130 @@
     {
       "SECUCODE": "603069.SH",
       "SECURITY_CODE": "603069",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2986934,
-      "HOLD_NUM_RATIO": 0.95,
-      "HOLD_NUM_CHANGE": "1201782",
-      "CHANGE_RATIO": 67.32099003
+      "HOLD_NUM": 4676791,
+      "HOLD_NUM_RATIO": 1.48,
+      "HOLD_NUM_CHANGE": "1689857",
+      "CHANGE_RATIO": 56.57496952
     },
     {
       "SECUCODE": "603069.SH",
       "SECURITY_CODE": "603069",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "段其军",
+      "HOLDER_NAME": "高盛公司有限责任公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 973000,
+      "HOLD_NUM": 979631,
       "HOLD_NUM_RATIO": 0.31,
-      "HOLD_NUM_CHANGE": "4200",
-      "CHANGE_RATIO": 0.43352601
-    },
-    {
-      "SECUCODE": "603069.SH",
-      "SECURITY_CODE": "603069",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "MORGAN STANLEY&CO.INTERNATIONAL PLC.",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 923816,
-      "HOLD_NUM_RATIO": 0.29,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603069.SH",
       "SECURITY_CODE": "603069",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "段其军",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 969400,
+      "HOLD_NUM_RATIO": 0.31,
+      "HOLD_NUM_CHANGE": "-3600",
+      "CHANGE_RATIO": -0.36998972
+    },
+    {
+      "SECUCODE": "603069.SH",
+      "SECURITY_CODE": "603069",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "深圳润域贸易有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 819200,
       "HOLD_NUM_RATIO": 0.26,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603069.SH",
       "SECURITY_CODE": "603069",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "石培树",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 818756,
-      "HOLD_NUM_RATIO": 0.26,
-      "HOLD_NUM_CHANGE": "165156",
-      "CHANGE_RATIO": 25.26866585
-    },
-    {
-      "SECUCODE": "603069.SH",
-      "SECURITY_CODE": "603069",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "海南金岭盛世投资有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 762800,
-      "HOLD_NUM_RATIO": 0.24,
-      "HOLD_NUM_CHANGE": "102600",
-      "CHANGE_RATIO": 15.54074523
+      "HOLD_NUM": 788400,
+      "HOLD_NUM_RATIO": 0.25,
+      "HOLD_NUM_CHANGE": "25600",
+      "CHANGE_RATIO": 3.35605663
     },
     {
       "SECUCODE": "603069.SH",
       "SECURITY_CODE": "603069",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "UBS AG",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 754607,
-      "HOLD_NUM_RATIO": 0.24,
+      "HOLD_NUM": 667888,
+      "HOLD_NUM_RATIO": 0.21,
+      "HOLD_NUM_CHANGE": "-86719",
+      "CHANGE_RATIO": -11.49194216
+    },
+    {
+      "SECUCODE": "603069.SH",
+      "SECURITY_CODE": "603069",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "叶立胜",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 650000,
+      "HOLD_NUM_RATIO": 0.21,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603069.SH",
       "SECURITY_CODE": "603069",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "张波",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 613800,
+      "HOLD_NUM": 587900,
       "HOLD_NUM_RATIO": 0.19,
-      "HOLD_NUM_CHANGE": "6000",
-      "CHANGE_RATIO": 0.98716683
+      "HOLD_NUM_CHANGE": "-25900",
+      "CHANGE_RATIO": -4.21961551
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "603069.SH",
       "SECURITY_CODE": "603069",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 13,
-      "TOTAL_FREE_SHARES": 186882957,
-      "TOTAL_SHARES_RATIO": 59.14017628,
-      "ALL_SHARES_RATIO": 59.14017628
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 188412610,
+      "TOTAL_SHARES_RATIO": 59.62424367,
+      "ALL_SHARES_RATIO": 59.62424367
     },
     {
       "SECUCODE": "603069.SH",
       "SECURITY_CODE": "603069",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 154900,
-      "TOTAL_SHARES_RATIO": 0.04901899,
-      "ALL_SHARES_RATIO": 0.04901899
-    },
-    {
-      "SECUCODE": "603069.SH",
-      "SECURITY_CODE": "603069",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "02",
       "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 1678423,
-      "TOTAL_SHARES_RATIO": 0.53114652,
-      "ALL_SHARES_RATIO": 0.53114652
+      "TOTAL_FREE_SHARES": 1647519,
+      "TOTAL_SHARES_RATIO": 0.52136677,
+      "ALL_SHARES_RATIO": 0.52136677
     },
     {
       "SECUCODE": "603069.SH",
       "SECURITY_CODE": "603069",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 185049634,
-      "TOTAL_SHARES_RATIO": 58.56001077,
-      "ALL_SHARES_RATIO": 58.56001077
+      "TOTAL_FREE_SHARES": 186765091,
+      "TOTAL_SHARES_RATIO": 59.1028769,
+      "ALL_SHARES_RATIO": 59.1028769
     }
   ],
   "jjcg": [

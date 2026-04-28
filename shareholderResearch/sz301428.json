@@ -10,7 +10,7 @@
       "AVG_FREESHARES_RATIO": 0.113079532605,
       "HOLD_FOCUS": "较集中",
       "PRICE": 34.65,
-      "AVG_HOLD_AMT": 114181.493271768,
+      "AVG_HOLD_AMT": 114181.213399925,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
     },
@@ -24,7 +24,7 @@
       "AVG_FREESHARES_RATIO": 5.012908777969,
       "HOLD_FOCUS": "较集中",
       "PRICE": 33.78,
-      "AVG_HOLD_AMT": 111188.866784639,
+      "AVG_HOLD_AMT": 111188.594248064,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
     },
@@ -38,9 +38,9 @@
       "AVG_FREESHARES_RATIO": -2.40729358738,
       "HOLD_FOCUS": "较集中",
       "PRICE": 34.69,
-      "AVG_HOLD_AMT": 108733.47563153,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "AVG_HOLD_AMT": 108733.209113399,
+      "HOLD_RATIO_TOTAL": 41.16670527,
+      "FREEHOLD_RATIO_TOTAL": 7.39857793
     },
     {
       "SECUCODE": "301428.SZ",
@@ -52,7 +52,7 @@
       "AVG_FREESHARES_RATIO": 6.35562086701,
       "HOLD_FOCUS": "较集中",
       "PRICE": 36.7,
-      "AVG_HOLD_AMT": 117871.191293167,
+      "AVG_HOLD_AMT": 117870.902377454,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
     },
@@ -66,7 +66,7 @@
       "AVG_FREESHARES_RATIO": -10.565013570195,
       "HOLD_FOCUS": "较集中",
       "PRICE": 36.71,
-      "AVG_HOLD_AMT": 110857.618829016,
+      "AVG_HOLD_AMT": 110857.347104367,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
     },
@@ -80,7 +80,7 @@
       "AVG_FREESHARES_RATIO": 4.287133083205,
       "HOLD_FOCUS": "较集中",
       "PRICE": 35.51,
-      "AVG_HOLD_AMT": 119901.437054182,
+      "AVG_HOLD_AMT": 119901.143162105,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
     },
@@ -94,7 +94,7 @@
       "AVG_FREESHARES_RATIO": 9.343420983017,
       "HOLD_FOCUS": "较集中",
       "PRICE": 37.17,
-      "AVG_HOLD_AMT": 120347.07752976,
+      "AVG_HOLD_AMT": 120346.782545368,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
     },
@@ -108,7 +108,7 @@
       "AVG_FREESHARES_RATIO": -26.757632941404,
       "HOLD_FOCUS": "较集中",
       "PRICE": 45.2,
-      "AVG_HOLD_AMT": 133840.874263318,
+      "AVG_HOLD_AMT": 133840.546204093,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
     },
@@ -122,7 +122,7 @@
       "AVG_FREESHARES_RATIO": -1.955473343463,
       "HOLD_FOCUS": "较集中",
       "PRICE": 36.53,
-      "AVG_HOLD_AMT": 147685.42283874,
+      "AVG_HOLD_AMT": 147685.060844949,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
     },
@@ -136,12 +136,20 @@
       "AVG_FREESHARES_RATIO": -2.769355164746,
       "HOLD_FOCUS": "较集中",
       "PRICE": 35.65,
-      "AVG_HOLD_AMT": 147002.302981605,
+      "AVG_HOLD_AMT": 147001.94266222,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
     }
   ],
   "sdltgd_date": [
+    {
+      "SECUCODE": "301428.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "301428.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
     {
       "SECUCODE": "301428.SZ",
       "END_DATE": "2025-09-30 00:00:00"
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "301428.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301428.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301428.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "301428.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "301428.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "301428.SZ",
       "END_DATE": "2025-09-30 00:00:00",
@@ -301,6 +311,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "301428.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "301428.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -314,10 +328,6 @@
     {
       "SECUCODE": "301428.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301428.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -358,130 +368,130 @@
     {
       "SECUCODE": "301428.SZ",
       "SECURITY_CODE": "301428",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
-      "HOLDER_NAME": "深圳市熔岩创新股权投资合伙企业(有限合伙)",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2012068,
-      "FREE_HOLDNUM_RATIO": 3.287871870538,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301428.SZ",
-      "SECURITY_CODE": "301428",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "北京君盛泰石股权投资中心(有限合伙)",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1883300,
-      "FREE_HOLDNUM_RATIO": 3.077455182322,
-      "HOLD_NUM_CHANGE": "-3050000",
-      "CHANGE_RATIO": -61.82474206
-    },
-    {
-      "SECUCODE": "301428.SZ",
-      "SECURITY_CODE": "301428",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "达孜熔岩投资管理有限公司-平潭熔岩新浪潮股权投资合伙企业(有限合伙)",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1052900,
-      "FREE_HOLDNUM_RATIO": 1.72051853739,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301428.SZ",
-      "SECURITY_CODE": "301428",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "深圳市熔岩稳健股权投资合伙企业(有限合伙)",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 809800,
-      "FREE_HOLDNUM_RATIO": 1.323274680956,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301428.SZ",
-      "SECURITY_CODE": "301428",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "昆明腾通科技有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 752000,
-      "FREE_HOLDNUM_RATIO": 1.228825092713,
+      "FREE_HOLDNUM_RATIO": 1.228828104711,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301428.SZ",
       "SECURITY_CODE": "301428",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "深圳市东方熔岩私募股权基金合伙企业(有限合伙)",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 500100,
-      "FREE_HOLDNUM_RATIO": 0.817201368173,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301428.SZ",
-      "SECURITY_CODE": "301428",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "邱华云",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 459014,
-      "FREE_HOLDNUM_RATIO": 0.750063724876,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301428.SZ",
-      "SECURITY_CODE": "301428",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "李海凤",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 453100,
-      "FREE_HOLDNUM_RATIO": 0.740399799878,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301428.SZ",
-      "SECURITY_CODE": "301428",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "刘冬秀",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 445900,
-      "FREE_HOLDNUM_RATIO": 0.728634453246,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301428.SZ",
-      "SECURITY_CODE": "301428",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
       "HOLDER_NAME": "朱林洲",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 439300,
-      "FREE_HOLDNUM_RATIO": 0.717849552166,
+      "HOLD_NUM": 680000,
+      "FREE_HOLDNUM_RATIO": 1.111174350004,
+      "HOLD_NUM_CHANGE": "169500",
+      "CHANGE_RATIO": 33.20274241
+    },
+    {
+      "SECUCODE": "301428.SZ",
+      "SECURITY_CODE": "301428",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "UBSAG",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 570614,
+      "FREE_HOLDNUM_RATIO": 0.932428883167,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301428.SZ",
+      "SECURITY_CODE": "301428",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "陈浦育",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 434500,
+      "FREE_HOLDNUM_RATIO": 0.710007728054,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301428.SZ",
+      "SECURITY_CODE": "301428",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "高盛国际-自有资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 360052,
+      "FREE_HOLDNUM_RATIO": 0.588353745688,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301428.SZ",
+      "SECURITY_CODE": "301428",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "付铁军",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 350500,
+      "FREE_HOLDNUM_RATIO": 0.57274501423,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301428.SZ",
+      "SECURITY_CODE": "301428",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "深圳市熔岩稳健股权投资合伙企业(有限合伙)",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 350246,
+      "FREE_HOLDNUM_RATIO": 0.572329957929,
+      "HOLD_NUM_CHANGE": "-199054",
+      "CHANGE_RATIO": -36.23775715
+    },
+    {
+      "SECUCODE": "301428.SZ",
+      "SECURITY_CODE": "301428",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "贵阳高新创业投资有限公司",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 350000,
+      "FREE_HOLDNUM_RATIO": 0.571927974267,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301428.SZ",
+      "SECURITY_CODE": "301428",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "李陆军",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 340000,
+      "FREE_HOLDNUM_RATIO": 0.555587175002,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301428.SZ",
+      "SECURITY_CODE": "301428",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 339760,
+      "FREE_HOLDNUM_RATIO": 0.55519499582,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -490,20 +500,20 @@
     {
       "SECUCODE": "301428.SZ",
       "SECURITY_CODE": "301428",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 8807482,
-      "LIMITED_SHARES": 37470000,
-      "OTHER_UNLIMITED_SHARES": 52389185,
-      "HOLD_NUM_RATIO": 8.93,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 4527672,
+      "LIMITED_SHARES": 37470150,
+      "OTHER_UNLIMITED_SHARES": 56668845,
+      "HOLD_NUM_RATIO": 4.59,
       "LIMITED_SHARES_RATIO": 37.98,
-      "UNLIMITED_SHARES_RATIO": 53.1
+      "UNLIMITED_SHARES_RATIO": 57.43
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "301428.SZ",
       "SECURITY_CODE": "301428",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "杨兴海",
       "SHARES_TYPE": "限售流通A股",
@@ -515,32 +525,8 @@
     {
       "SECUCODE": "301428.SZ",
       "SECURITY_CODE": "301428",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "深圳市熔岩创新股权投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2012068,
-      "HOLD_NUM_RATIO": 2.04,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301428.SZ",
-      "SECURITY_CODE": "301428",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "北京君盛泰石股权投资中心(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1883300,
-      "HOLD_NUM_RATIO": 1.91,
-      "HOLD_NUM_CHANGE": "-3050000",
-      "CHANGE_RATIO": -61.82474206
-    },
-    {
-      "SECUCODE": "301428.SZ",
-      "SECURITY_CODE": "301428",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "杨兴荣",
       "SHARES_TYPE": "限售流通A股",
       "HOLD_NUM": 1710000,
@@ -551,32 +537,8 @@
     {
       "SECUCODE": "301428.SZ",
       "SECURITY_CODE": "301428",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "达孜熔岩投资管理有限公司-平潭熔岩新浪潮股权投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1052900,
-      "HOLD_NUM_RATIO": 1.07,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301428.SZ",
-      "SECURITY_CODE": "301428",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "深圳市熔岩稳健股权投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 809800,
-      "HOLD_NUM_RATIO": 0.82,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301428.SZ",
-      "SECURITY_CODE": "301428",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "昆明腾通科技有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 752000,
@@ -587,36 +549,84 @@
     {
       "SECUCODE": "301428.SZ",
       "SECURITY_CODE": "301428",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "胡海荣",
-      "SHARES_TYPE": "流通A股,限售流通A股",
+      "SHARES_TYPE": "限售流通A股",
       "HOLD_NUM": 732000,
       "HOLD_NUM_RATIO": 0.74,
-      "HOLD_NUM_CHANGE": "-243800",
-      "CHANGE_RATIO": -24.984628
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301428.SZ",
       "SECURITY_CODE": "301428",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "深圳市东方熔岩私募股权基金合伙企业(有限合伙)",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "朱林洲",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 500100,
-      "HOLD_NUM_RATIO": 0.51,
+      "HOLD_NUM": 680000,
+      "HOLD_NUM_RATIO": 0.69,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301428.SZ",
       "SECURITY_CODE": "301428",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "UBSAG",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 570614,
+      "HOLD_NUM_RATIO": 0.58,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301428.SZ",
+      "SECURITY_CODE": "301428",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "陶正林",
-      "SHARES_TYPE": "限售流通A股",
+      "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 498150,
       "HOLD_NUM_RATIO": 0.5,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301428.SZ",
+      "SECURITY_CODE": "301428",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "陈浦育",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 434500,
+      "HOLD_NUM_RATIO": 0.44,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301428.SZ",
+      "SECURITY_CODE": "301428",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "高盛国际-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 360052,
+      "HOLD_NUM_RATIO": 0.36,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301428.SZ",
+      "SECURITY_CODE": "301428",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "付铁军",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 350500,
+      "HOLD_NUM_RATIO": 0.36,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -625,22 +635,32 @@
     {
       "SECUCODE": "301428.SZ",
       "SECURITY_CODE": "301428",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 18,
-      "TOTAL_FREE_SHARES": 47612,
-      "TOTAL_SHARES_RATIO": 0.07780161,
-      "ALL_SHARES_RATIO": 0.04825536
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 2722672,
+      "TOTAL_SHARES_RATIO": 4.44906366,
+      "ALL_SHARES_RATIO": 2.75946486
     },
     {
       "SECUCODE": "301428.SZ",
       "SECURITY_CODE": "301428",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 18,
-      "TOTAL_FREE_SHARES": 47612,
-      "TOTAL_SHARES_RATIO": 0.07780161,
-      "ALL_SHARES_RATIO": 0.04825536
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 1270426,
+      "TOTAL_SHARES_RATIO": 2.07597763,
+      "ALL_SHARES_RATIO": 1.28759392
+    },
+    {
+      "SECUCODE": "301428.SZ",
+      "SECURITY_CODE": "301428",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 1452246,
+      "TOTAL_SHARES_RATIO": 2.37308603,
+      "ALL_SHARES_RATIO": 1.47187094
     }
   ],
   "jjcg": [
@@ -653,7 +673,7 @@
       "TOTAL_SHARES": 16000,
       "HOLD_VALUE": 536640,
       "TOTALSHARES_RATIO": 0.01621622,
-      "FREESHARES_RATIO": 0.02614521,
+      "FREESHARES_RATIO": 0.02614528,
       "FREE_MARKET_CAP": 536640,
       "FREE_SHARES": 16000,
       "SECURITY_CODE": "301428",
@@ -670,7 +690,7 @@
       "TOTAL_SHARES": 10400,
       "HOLD_VALUE": 348816,
       "TOTALSHARES_RATIO": 0.01054054,
-      "FREESHARES_RATIO": 0.01699439,
+      "FREESHARES_RATIO": 0.01699443,
       "FREE_MARKET_CAP": 348816,
       "FREE_SHARES": 10400,
       "SECURITY_CODE": "301428",
@@ -687,7 +707,7 @@
       "TOTAL_SHARES": 7000,
       "HOLD_VALUE": 234780,
       "TOTALSHARES_RATIO": 0.00709459,
-      "FREESHARES_RATIO": 0.01143853,
+      "FREESHARES_RATIO": 0.01143856,
       "FREE_MARKET_CAP": 234780,
       "FREE_SHARES": 7000,
       "SECURITY_CODE": "301428",
@@ -704,7 +724,7 @@
       "TOTAL_SHARES": 5400,
       "HOLD_VALUE": 181116,
       "TOTALSHARES_RATIO": 0.00547297,
-      "FREESHARES_RATIO": 0.00882401,
+      "FREESHARES_RATIO": 0.00882403,
       "FREE_MARKET_CAP": 181116,
       "FREE_SHARES": 5400,
       "SECURITY_CODE": "301428",
@@ -721,7 +741,7 @@
       "TOTAL_SHARES": 2289,
       "HOLD_VALUE": 76773.06,
       "TOTALSHARES_RATIO": 0.00231993,
-      "FREESHARES_RATIO": 0.0037404,
+      "FREESHARES_RATIO": 0.00374041,
       "FREE_MARKET_CAP": 76773.06,
       "FREE_SHARES": 2289,
       "SECURITY_CODE": "301428",
@@ -738,7 +758,7 @@
       "TOTAL_SHARES": 2289,
       "HOLD_VALUE": 76773.06,
       "TOTALSHARES_RATIO": 0.00231993,
-      "FREESHARES_RATIO": 0.0037404,
+      "FREESHARES_RATIO": 0.00374041,
       "FREE_MARKET_CAP": 76773.06,
       "FREE_SHARES": 2289,
       "SECURITY_CODE": "301428",
@@ -755,7 +775,7 @@
       "TOTAL_SHARES": 1100,
       "HOLD_VALUE": 36894,
       "TOTALSHARES_RATIO": 0.00111486,
-      "FREESHARES_RATIO": 0.00179748,
+      "FREESHARES_RATIO": 0.00179749,
       "FREE_MARKET_CAP": 36894,
       "FREE_SHARES": 1100,
       "SECURITY_CODE": "301428",

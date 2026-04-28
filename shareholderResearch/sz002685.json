@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 7.28,
       "AVG_HOLD_AMT": 94669.6504966443,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 19.88193666,
+      "FREEHOLD_RATIO_TOTAL": 19.88460208
     },
     {
       "SECUCODE": "002685.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002685.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002685.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002685.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002685.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002685.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002685.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002685.SZ",
       "END_DATE": "2019-07-18 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "002685.SZ",
-      "END_DATE": "2019-07-17 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "002685.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "002685.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "002685.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002685.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "002685.SZ",
       "SECURITY_CODE": "002685",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "翁耀根",
       "HOLDER_TYPE": "个人",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "002685.SZ",
       "SECURITY_CODE": "002685",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "无锡华东重机科技集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,47 +499,34 @@
     {
       "SECUCODE": "002685.SZ",
       "SECURITY_CODE": "002685",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "北京昊青私募基金管理有限公司-昊青明裕6号私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 45561561,
-      "FREE_HOLDNUM_RATIO": 4.521989906808,
-      "HOLD_NUM_CHANGE": "-4938439",
-      "CHANGE_RATIO": -9.77908713
-    },
-    {
-      "SECUCODE": "002685.SZ",
-      "SECURITY_CODE": "002685",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "苏州天琛投资管理有限公司-天琛金艇1号证券投资私募基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 40398513,
-      "FREE_HOLDNUM_RATIO": 4.00955682875,
-      "HOLD_NUM_CHANGE": "-9986020",
-      "CHANGE_RATIO": -19.81961409
-    },
-    {
-      "SECUCODE": "002685.SZ",
-      "SECURITY_CODE": "002685",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "滕文宏",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 24408434,
       "FREE_HOLDNUM_RATIO": 2.422539741099,
-      "HOLD_NUM_CHANGE": "4568134",
-      "CHANGE_RATIO": 23.0245208
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002685.SZ",
       "SECURITY_CODE": "002685",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "北京昊青私募基金管理有限公司-昊青明裕6号私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 16136061,
+      "FREE_HOLDNUM_RATIO": 1.6015058171,
+      "HOLD_NUM_CHANGE": "-29425500",
+      "CHANGE_RATIO": -64.58404707
+    },
+    {
+      "SECUCODE": "002685.SZ",
+      "SECURITY_CODE": "002685",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "翁霖",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -551,34 +538,34 @@
     {
       "SECUCODE": "002685.SZ",
       "SECURITY_CODE": "002685",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "石庭波",
-      "HOLDER_TYPE": "个人",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8213500,
-      "FREE_HOLDNUM_RATIO": 0.815190772317,
-      "HOLD_NUM_CHANGE": "85300",
-      "CHANGE_RATIO": 1.04943284
+      "HOLD_NUM": 10472694,
+      "FREE_HOLDNUM_RATIO": 1.039416023632,
+      "HOLD_NUM_CHANGE": "4848292",
+      "CHANGE_RATIO": 86.2010219
     },
     {
       "SECUCODE": "002685.SZ",
       "SECURITY_CODE": "002685",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中证乾元资本管理有限公司-中证乾元康祺一号私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5624402,
-      "FREE_HOLDNUM_RATIO": 0.558222512961,
+      "HOLD_NUM": 9500000,
+      "FREE_HOLDNUM_RATIO": 0.942876037866,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002685.SZ",
       "SECURITY_CODE": "002685",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "董柳波",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -590,8 +577,8 @@
     {
       "SECUCODE": "002685.SZ",
       "SECURITY_CODE": "002685",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "张少华",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -599,26 +586,39 @@
       "FREE_HOLDNUM_RATIO": 0.54930965465,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002685.SZ",
+      "SECURITY_CODE": "002685",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "郑宏达",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5452207,
+      "FREE_HOLDNUM_RATIO": 0.541132140398,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "002685.SZ",
       "SECURITY_CODE": "002685",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 258585429,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 200348415,
       "LIMITED_SHARES": 135075,
-      "OTHER_UNLIMITED_SHARES": 748970137,
-      "HOLD_NUM_RATIO": 25.66,
+      "OTHER_UNLIMITED_SHARES": 807207151,
+      "HOLD_NUM_RATIO": 19.88,
       "LIMITED_SHARES_RATIO": 0.01,
-      "UNLIMITED_SHARES_RATIO": 74.33
+      "UNLIMITED_SHARES_RATIO": 80.1
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002685.SZ",
       "SECURITY_CODE": "002685",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "翁耀根",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "002685.SZ",
       "SECURITY_CODE": "002685",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "无锡华东重机科技集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,44 +642,32 @@
     {
       "SECUCODE": "002685.SZ",
       "SECURITY_CODE": "002685",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "北京昊青私募基金管理有限公司-昊青明裕6号私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 45561561,
-      "HOLD_NUM_RATIO": 4.52,
-      "HOLD_NUM_CHANGE": "-4938439",
-      "CHANGE_RATIO": -9.77908713
-    },
-    {
-      "SECUCODE": "002685.SZ",
-      "SECURITY_CODE": "002685",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "苏州天琛投资管理有限公司-天琛金艇1号证券投资私募基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 40398513,
-      "HOLD_NUM_RATIO": 4.01,
-      "HOLD_NUM_CHANGE": "-9986020",
-      "CHANGE_RATIO": -19.81961409
-    },
-    {
-      "SECUCODE": "002685.SZ",
-      "SECURITY_CODE": "002685",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "滕文宏",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 24408434,
       "HOLD_NUM_RATIO": 2.42,
-      "HOLD_NUM_CHANGE": "4568134",
-      "CHANGE_RATIO": 23.0245208
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002685.SZ",
       "SECURITY_CODE": "002685",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "北京昊青私募基金管理有限公司-昊青明裕6号私募证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 16136061,
+      "HOLD_NUM_RATIO": 1.6,
+      "HOLD_NUM_CHANGE": "-29425500",
+      "CHANGE_RATIO": -64.58404707
+    },
+    {
+      "SECUCODE": "002685.SZ",
+      "SECURITY_CODE": "002685",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "翁霖",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 14047619,
@@ -690,32 +678,32 @@
     {
       "SECUCODE": "002685.SZ",
       "SECURITY_CODE": "002685",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "石庭波",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8213500,
-      "HOLD_NUM_RATIO": 0.82,
-      "HOLD_NUM_CHANGE": "85300",
-      "CHANGE_RATIO": 1.04943284
+      "HOLD_NUM": 10472694,
+      "HOLD_NUM_RATIO": 1.04,
+      "HOLD_NUM_CHANGE": "4848292",
+      "CHANGE_RATIO": 86.2010219
     },
     {
       "SECUCODE": "002685.SZ",
       "SECURITY_CODE": "002685",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "香港中央结算有限公司",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中证乾元资本管理有限公司-中证乾元康祺一号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5624402,
-      "HOLD_NUM_RATIO": 0.56,
+      "HOLD_NUM": 9500000,
+      "HOLD_NUM_RATIO": 0.94,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002685.SZ",
       "SECURITY_CODE": "002685",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "董柳波",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 5594800,
@@ -726,13 +714,25 @@
     {
       "SECUCODE": "002685.SZ",
       "SECURITY_CODE": "002685",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "张少华",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 5534600,
       "HOLD_NUM_RATIO": 0.55,
       "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002685.SZ",
+      "SECURITY_CODE": "002685",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "郑宏达",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5452207,
+      "HOLD_NUM_RATIO": 0.54,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -740,32 +740,22 @@
     {
       "SECUCODE": "002685.SZ",
       "SECURITY_CODE": "002685",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 18,
-      "TOTAL_FREE_SHARES": 141983709,
-      "TOTAL_SHARES_RATIO": 14.09189865,
-      "ALL_SHARES_RATIO": 14.09000972
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 84144088,
+      "TOTAL_SHARES_RATIO": 8.35130993,
+      "ALL_SHARES_RATIO": 8.35019048
     },
     {
       "SECUCODE": "002685.SZ",
       "SECURITY_CODE": "002685",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 14,
-      "TOTAL_FREE_SHARES": 2363900,
-      "TOTAL_SHARES_RATIO": 0.23461735,
-      "ALL_SHARES_RATIO": 0.23458591
-    },
-    {
-      "SECUCODE": "002685.SZ",
-      "SECURITY_CODE": "002685",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 139619809,
-      "TOTAL_SHARES_RATIO": 13.8572813,
-      "ALL_SHARES_RATIO": 13.85542381
+      "TOTAL_FREE_SHARES": 84144088,
+      "TOTAL_SHARES_RATIO": 8.35130993,
+      "ALL_SHARES_RATIO": 8.35019048
     }
   ],
   "jjcg": [

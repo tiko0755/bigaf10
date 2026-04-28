@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 29.34,
       "AVG_HOLD_AMT": 1221459.54882002,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 53.67800969,
+      "FREEHOLD_RATIO_TOTAL": 53.67800969
     },
     {
       "SECUCODE": "600323.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600323.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600323.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,10 +161,6 @@
     {
       "SECUCODE": "600323.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600323.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
@@ -168,6 +168,11 @@
       "SECUCODE": "600323.SH",
       "END_DATE": "2026-04-21 00:00:00",
       "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "600323.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
     },
     {
       "SECUCODE": "600323.SH",
@@ -408,11 +413,6 @@
       "SECUCODE": "600323.SH",
       "END_DATE": "2017-12-26 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "600323.SH",
-      "END_DATE": "2017-12-25 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -453,19 +453,19 @@
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 10707543,
       "HOLD_NUM_RATIO": 1.31,
-      "HOLD_CHANGE": "-714851",
-      "CHANGE_RATIO": -6.25832903,
+      "HOLD_CHANGE": "-990795",
+      "CHANGE_RATIO": -8.46953644,
       "CHANGE_REASON": "临时公告"
     },
     {
       "END_DATE": "2026-04-21 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "招商银行股份有限公司-工银瑞信红利优享灵活配置混合型证券投资基金",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "华泰证券股份有限公司-中庚价值领航混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10555921,
-      "HOLD_NUM_RATIO": 1.29,
-      "HOLD_CHANGE": "884400",
-      "CHANGE_RATIO": 9.14437347,
+      "HOLD_NUM": 8300163,
+      "HOLD_NUM_RATIO": 1.02,
+      "HOLD_CHANGE": "758166",
+      "CHANGE_RATIO": 10.05258952,
       "CHANGE_REASON": "临时公告"
     }
   ],
@@ -496,7 +496,7 @@
     {
       "SECUCODE": "600323.SH",
       "SECURITY_CODE": "600323",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "佛山市南海供水集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -509,7 +509,7 @@
     {
       "SECUCODE": "600323.SH",
       "SECURITY_CODE": "600323",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "广东南海控股集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -522,7 +522,7 @@
     {
       "SECUCODE": "600323.SH",
       "SECURITY_CODE": "600323",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "国投电力控股股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -535,7 +535,7 @@
     {
       "SECUCODE": "600323.SH",
       "SECURITY_CODE": "600323",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "广东南海数字城市发展有限公司",
       "HOLDER_TYPE": "其它",
@@ -548,7 +548,7 @@
     {
       "SECUCODE": "600323.SH",
       "SECURITY_CODE": "600323",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "全国社保基金一零一组合",
       "HOLDER_TYPE": "全国社保基金",
@@ -561,7 +561,7 @@
     {
       "SECUCODE": "600323.SH",
       "SECURITY_CODE": "600323",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "基本养老保险基金八零八组合",
       "HOLDER_TYPE": "基本养老基金",
@@ -574,47 +574,34 @@
     {
       "SECUCODE": "600323.SH",
       "SECURITY_CODE": "600323",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11422394,
-      "FREE_HOLDNUM_RATIO": 1.400924018197,
-      "HOLD_NUM_CHANGE": "-1463970",
-      "CHANGE_RATIO": -11.36061344
+      "HOLD_NUM": 11698338,
+      "FREE_HOLDNUM_RATIO": 1.434767762099,
+      "HOLD_NUM_CHANGE": "275944",
+      "CHANGE_RATIO": 2.41581581
     },
     {
       "SECUCODE": "600323.SH",
       "SECURITY_CODE": "600323",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "招商银行股份有限公司-工银瑞信红利优享灵活配置混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9671521,
-      "FREE_HOLDNUM_RATIO": 1.186184442718,
-      "HOLD_NUM_CHANGE": "843700",
-      "CHANGE_RATIO": 9.55728486
+      "HOLD_NUM": 10555921,
+      "FREE_HOLDNUM_RATIO": 1.294653578146,
+      "HOLD_NUM_CHANGE": "884400",
+      "CHANGE_RATIO": 9.14437347
     },
     {
       "SECUCODE": "600323.SH",
       "SECURITY_CODE": "600323",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "全国社保基金一一五组合",
-      "HOLDER_TYPE": "全国社保基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8500000,
-      "FREE_HOLDNUM_RATIO": 1.042500736245,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600323.SH",
-      "SECURITY_CODE": "600323",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "全国社保基金一一零组合",
       "HOLDER_TYPE": "全国社保基金",
       "SHARES_TYPE": "A股",
@@ -622,19 +609,32 @@
       "FREE_HOLDNUM_RATIO": 0.982023428828,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600323.SH",
+      "SECURITY_CODE": "600323",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "华泰证券股份有限公司-中庚价值领航混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7541997,
+      "FREE_HOLDNUM_RATIO": 0.925004402971,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600323.SH",
       "SECURITY_CODE": "600323",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 437459779,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 437662120,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 377887367,
-      "HOLD_NUM_RATIO": 53.65,
+      "OTHER_UNLIMITED_SHARES": 377685026,
+      "HOLD_NUM_RATIO": 53.68,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 46.35
+      "UNLIMITED_SHARES_RATIO": 46.32
     }
   ],
   "sdgd": [
@@ -719,8 +719,8 @@
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 10707543,
       "HOLD_NUM_RATIO": 1.31,
-      "HOLD_NUM_CHANGE": "-714851",
-      "CHANGE_RATIO": -6.25832903
+      "HOLD_NUM_CHANGE": "-990795",
+      "CHANGE_RATIO": -8.46953644
     },
     {
       "SECUCODE": "600323.SH",
@@ -731,8 +731,8 @@
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 10555921,
       "HOLD_NUM_RATIO": 1.29,
-      "HOLD_NUM_CHANGE": "884400",
-      "CHANGE_RATIO": 9.14437347
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600323.SH",
@@ -743,8 +743,8 @@
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 8300163,
       "HOLD_NUM_RATIO": 1.02,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM_CHANGE": "758166",
+      "CHANGE_RATIO": 10.05258952
     },
     {
       "SECUCODE": "600323.SH",
@@ -765,10 +765,10 @@
       "SECURITY_CODE": "600323",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 99,
-      "TOTAL_FREE_SHARES": 54831118,
-      "TOTAL_SHARES_RATIO": 6.72488013,
-      "ALL_SHARES_RATIO": 6.72488013
+      "TOTAL_ORG_NUM": 107,
+      "TOTAL_FREE_SHARES": 474395320,
+      "TOTAL_SHARES_RATIO": 58.18323183,
+      "ALL_SHARES_RATIO": 58.18323183
     },
     {
       "SECUCODE": "600323.SH",
@@ -779,6 +779,26 @@
       "TOTAL_FREE_SHARES": 54831118,
       "TOTAL_SHARES_RATIO": 6.72488013,
       "ALL_SHARES_RATIO": 6.72488013
+    },
+    {
+      "SECUCODE": "600323.SH",
+      "SECURITY_CODE": "600323",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 22265159,
+      "TOTAL_SHARES_RATIO": 2.7307582,
+      "ALL_SHARES_RATIO": 2.7307582
+    },
+    {
+      "SECUCODE": "600323.SH",
+      "SECURITY_CODE": "600323",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 397299043,
+      "TOTAL_SHARES_RATIO": 48.7275935,
+      "ALL_SHARES_RATIO": 48.7275935
     }
   ],
   "jjcg": [

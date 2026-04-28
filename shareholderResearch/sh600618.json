@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 12.49,
       "AVG_HOLD_AMT": 181195.24914994,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 50.94793144,
+      "FREEHOLD_RATIO_TOTAL": 50.94793144
     },
     {
       "SECUCODE": "600618.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600618.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600618.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600618.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600618.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600618.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600618.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600618.SH",
       "END_DATE": "2013-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600618.SH",
-      "END_DATE": "2013-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "600618.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "600618.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "600618.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600618.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600618.SH",
       "SECURITY_CODE": "600618",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海华谊控股集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,47 +486,34 @@
     {
       "SECUCODE": "600618.SH",
       "SECURITY_CODE": "600618",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "ISHARES CORE MSCI EMERGING MARKETS ETF",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "B股",
-      "HOLD_NUM": 8894809,
-      "FREE_HOLDNUM_RATIO": 0.7691810087,
-      "HOLD_NUM_CHANGE": "320200",
-      "CHANGE_RATIO": 3.73428106
+      "HOLD_NUM": 9619809,
+      "FREE_HOLDNUM_RATIO": 0.831875579354,
+      "HOLD_NUM_CHANGE": "725000",
+      "CHANGE_RATIO": 8.15082145
     },
     {
       "SECUCODE": "600618.SH",
       "SECURITY_CODE": "600618",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "施亦珺",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8855300,
-      "FREE_HOLDNUM_RATIO": 0.765764457262,
+      "HOLDER_NAME": "MORGAN STANLEY & CO. INTERNATIONAL PLC",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "B股",
+      "HOLD_NUM": 7082287,
+      "FREE_HOLDNUM_RATIO": 0.612442679608,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600618.SH",
       "SECURITY_CODE": "600618",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6774347,
-      "FREE_HOLDNUM_RATIO": 0.585813485005,
-      "HOLD_NUM_CHANGE": "-1479877",
-      "CHANGE_RATIO": -17.92872352
-    },
-    {
-      "SECUCODE": "600618.SH",
-      "SECURITY_CODE": "600618",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "VANGUARD EMERGING MARKETS STOCK INDEX FUND",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "B股",
@@ -538,7 +525,20 @@
     {
       "SECUCODE": "600618.SH",
       "SECURITY_CODE": "600618",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5713320,
+      "FREE_HOLDNUM_RATIO": 0.494060888842,
+      "HOLD_NUM_CHANGE": "-1061027",
+      "CHANGE_RATIO": -15.66242473
+    },
+    {
+      "SECUCODE": "600618.SH",
+      "SECURITY_CODE": "600618",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
       "HOLDER_TYPE": "基金管理公司",
@@ -551,33 +551,33 @@
     {
       "SECUCODE": "600618.SH",
       "SECURITY_CODE": "600618",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "SPDR Portfolio Emerging Markets ETF",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "B股",
-      "HOLD_NUM": 4272020,
-      "FREE_HOLDNUM_RATIO": 0.369424082382,
-      "HOLD_NUM_CHANGE": "170300",
-      "CHANGE_RATIO": 4.15191676
+      "HOLD_NUM": 4317520,
+      "FREE_HOLDNUM_RATIO": 0.373358707161,
+      "HOLD_NUM_CHANGE": "45500",
+      "CHANGE_RATIO": 1.06506992
     },
     {
       "SECUCODE": "600618.SH",
       "SECURITY_CODE": "600618",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "ARROWSTREET EMERGING MARKET ALPHA EXTENSION TRUST FUND",
+      "HOLDER_NAME": "SSGA SPDR ETFS EUROPE I PUBLIC LIMITED COMPANY(SPFB)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "B股",
-      "HOLD_NUM": 3967688,
-      "FREE_HOLDNUM_RATIO": 0.343106890552,
-      "HOLD_NUM_CHANGE": "332300",
-      "CHANGE_RATIO": 9.14070245
+      "HOLD_NUM": 4115508,
+      "FREE_HOLDNUM_RATIO": 0.355889664944,
+      "HOLD_NUM_CHANGE": "703700",
+      "CHANGE_RATIO": 20.62542793
     },
     {
       "SECUCODE": "600618.SH",
       "SECURITY_CODE": "600618",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "孙月龙",
       "HOLDER_TYPE": "个人",
@@ -590,35 +590,35 @@
     {
       "SECUCODE": "600618.SH",
       "SECURITY_CODE": "600618",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "SSGA SPDR ETFS EUROPE I PUBLIC LIMITED COMPANY(SPFB)",
+      "HOLDER_NAME": "ARROWSTREET EMERGING MARKET ALPHA EXTENSION TRUST FUND",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "B股",
-      "HOLD_NUM": 3411808,
-      "FREE_HOLDNUM_RATIO": 0.295037017538,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3884288,
+      "FREE_HOLDNUM_RATIO": 0.335894853045,
+      "HOLD_NUM_CHANGE": "-83400",
+      "CHANGE_RATIO": -2.10197979
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600618.SH",
       "SECURITY_CODE": "600618",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 590605107,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 589161867,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 565794869,
-      "HOLD_NUM_RATIO": 51.07,
+      "OTHER_UNLIMITED_SHARES": 567238109,
+      "HOLD_NUM_RATIO": 50.95,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 48.93
+      "UNLIMITED_SHARES_RATIO": 49.05
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600618.SH",
       "SECURITY_CODE": "600618",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海华谊控股集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,44 +630,32 @@
     {
       "SECUCODE": "600618.SH",
       "SECURITY_CODE": "600618",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "ISHARES CORE MSCI EMERGING MARKETS ETF",
       "SHARES_TYPE": "流通B股",
-      "HOLD_NUM": 8894809,
-      "HOLD_NUM_RATIO": 0.77,
-      "HOLD_NUM_CHANGE": "320200",
-      "CHANGE_RATIO": 3.73428106
+      "HOLD_NUM": 9619809,
+      "HOLD_NUM_RATIO": 0.83,
+      "HOLD_NUM_CHANGE": "725000",
+      "CHANGE_RATIO": 8.15082145
     },
     {
       "SECUCODE": "600618.SH",
       "SECURITY_CODE": "600618",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "施亦珺",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8855300,
-      "HOLD_NUM_RATIO": 0.77,
+      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC",
+      "SHARES_TYPE": "流通B股",
+      "HOLD_NUM": 7082287,
+      "HOLD_NUM_RATIO": 0.61,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600618.SH",
       "SECURITY_CODE": "600618",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6774347,
-      "HOLD_NUM_RATIO": 0.59,
-      "HOLD_NUM_CHANGE": "-1479877",
-      "CHANGE_RATIO": -17.92872352
-    },
-    {
-      "SECUCODE": "600618.SH",
-      "SECURITY_CODE": "600618",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "VANGUARD EMERGING MARKETS STOCK INDEX FUND",
       "SHARES_TYPE": "流通B股",
       "HOLD_NUM": 6349390,
@@ -678,7 +666,19 @@
     {
       "SECUCODE": "600618.SH",
       "SECURITY_CODE": "600618",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5713320,
+      "HOLD_NUM_RATIO": 0.49,
+      "HOLD_NUM_CHANGE": "-1061027",
+      "CHANGE_RATIO": -15.66242473
+    },
+    {
+      "SECUCODE": "600618.SH",
+      "SECURITY_CODE": "600618",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
       "SHARES_TYPE": "流通B股",
@@ -690,31 +690,31 @@
     {
       "SECUCODE": "600618.SH",
       "SECURITY_CODE": "600618",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "SPDR Portfolio Emerging Markets ETF",
       "SHARES_TYPE": "流通B股",
-      "HOLD_NUM": 4272020,
+      "HOLD_NUM": 4317520,
       "HOLD_NUM_RATIO": 0.37,
-      "HOLD_NUM_CHANGE": "170300",
-      "CHANGE_RATIO": 4.15191676
+      "HOLD_NUM_CHANGE": "45500",
+      "CHANGE_RATIO": 1.06506992
     },
     {
       "SECUCODE": "600618.SH",
       "SECURITY_CODE": "600618",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "ARROWSTREET EMERGING MARKET ALPHA EXTENSION TRUST FUND",
+      "HOLDER_NAME": "SSGA SPDR ETFS EUROPE I PUBLIC LIMITED COMPANY(SPFB)",
       "SHARES_TYPE": "流通B股",
-      "HOLD_NUM": 3967688,
-      "HOLD_NUM_RATIO": 0.34,
-      "HOLD_NUM_CHANGE": "332300",
-      "CHANGE_RATIO": 9.14070245
+      "HOLD_NUM": 4115508,
+      "HOLD_NUM_RATIO": 0.36,
+      "HOLD_NUM_CHANGE": "703700",
+      "CHANGE_RATIO": 20.62542793
     },
     {
       "SECUCODE": "600618.SH",
       "SECURITY_CODE": "600618",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "孙月龙",
       "SHARES_TYPE": "流通A股",
@@ -726,46 +726,36 @@
     {
       "SECUCODE": "600618.SH",
       "SECURITY_CODE": "600618",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "SSGA SPDR ETFS EUROPE I PUBLIC LIMITED COMPANY(SPFB)",
+      "HOLDER_NAME": "ARROWSTREET EMERGING MARKET ALPHA EXTENSION TRUST FUND",
       "SHARES_TYPE": "流通B股",
-      "HOLD_NUM": 3411808,
-      "HOLD_NUM_RATIO": 0.3,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3884288,
+      "HOLD_NUM_RATIO": 0.34,
+      "HOLD_NUM_CHANGE": "-83400",
+      "CHANGE_RATIO": -2.10197979
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "600618.SH",
       "SECURITY_CODE": "600618",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 58,
-      "TOTAL_FREE_SHARES": 554209296,
-      "TOTAL_SHARES_RATIO": 73.91034269,
-      "ALL_SHARES_RATIO": 47.92539848
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 544518967,
+      "TOTAL_SHARES_RATIO": 72.6180231,
+      "ALL_SHARES_RATIO": 47.08742462
     },
     {
       "SECUCODE": "600618.SH",
       "SECURITY_CODE": "600618",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 56,
-      "TOTAL_FREE_SHARES": 8629302,
-      "TOTAL_SHARES_RATIO": 1.15081913,
-      "ALL_SHARES_RATIO": 0.74622126
-    },
-    {
-      "SECUCODE": "600618.SH",
-      "SECURITY_CODE": "600618",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 545579994,
-      "TOTAL_SHARES_RATIO": 72.75952356,
-      "ALL_SHARES_RATIO": 47.17917722
+      "TOTAL_FREE_SHARES": 544518967,
+      "TOTAL_SHARES_RATIO": 72.6180231,
+      "ALL_SHARES_RATIO": 47.08742462
     }
   ],
   "jjcg": [

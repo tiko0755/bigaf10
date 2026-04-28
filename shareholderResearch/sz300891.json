@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 8.3,
       "AVG_HOLD_AMT": 120413.977451492,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 55.0302227,
+      "FREEHOLD_RATIO_TOTAL": 46.05794621
     },
     {
       "SECUCODE": "300891.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300891.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300891.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300891.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300891.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300891.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300891.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "300891.SZ",
       "END_DATE": "2020-08-31 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300891.SZ",
-      "END_DATE": "2020-08-04 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "300891.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "300891.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,135 +443,9 @@
     {
       "SECUCODE": "300891.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300891.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-11-07 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "美国万邦有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 63976372,
-      "HOLD_NUM_RATIO": 15.9938,
-      "HOLD_CHANGE": "-3078850",
-      "CHANGE_RATIO": -4.59151414,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-05 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "美国万邦有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 67055222,
-      "HOLD_NUM_RATIO": 16.7635,
-      "HOLD_CHANGE": "-2832700",
-      "CHANGE_RATIO": -4.05320393,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-04 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "钟镇光",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 88712100,
-      "HOLD_NUM_RATIO": 22.18,
-      "HOLD_CHANGE": "-27200",
-      "CHANGE_RATIO": -0.03065158,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-03 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "钟镇光",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 88739300,
-      "HOLD_NUM_RATIO": 22.18,
-      "HOLD_CHANGE": "-91000",
-      "CHANGE_RATIO": -0.10244252,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-31 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "钟镇光",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 88830300,
-      "HOLD_NUM_RATIO": 22.21,
-      "HOLD_CHANGE": "-398300",
-      "CHANGE_RATIO": -0.44638154,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-30 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "钟镇光",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 89228600,
-      "HOLD_NUM_RATIO": 22.31,
-      "HOLD_CHANGE": "-151300",
-      "CHANGE_RATIO": -0.16927743,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-23 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "钟镇光",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 89379900,
-      "HOLD_NUM_RATIO": 22.34,
-      "HOLD_CHANGE": "-405000",
-      "CHANGE_RATIO": -0.45107808,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-22 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "钟镇光",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 89784900,
-      "HOLD_NUM_RATIO": 22.45,
-      "HOLD_CHANGE": "-112500",
-      "CHANGE_RATIO": -0.12514266,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-21 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "钟镇光",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 89897400,
-      "HOLD_NUM_RATIO": 22.47,
-      "HOLD_CHANGE": "-60000",
-      "CHANGE_RATIO": -0.06669824,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-20 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "钟镇光",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 89957400,
-      "HOLD_NUM_RATIO": 22.49,
-      "HOLD_CHANGE": "-140000",
-      "CHANGE_RATIO": -0.15538739,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-15 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "钟镇光",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 90097400,
-      "HOLD_NUM_RATIO": 22.52,
-      "HOLD_CHANGE": "-17600",
-      "CHANGE_RATIO": -0.0195306,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "300891.SZ",
@@ -595,131 +473,131 @@
     {
       "SECUCODE": "300891.SZ",
       "SECURITY_CODE": "300891",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "美国万邦有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 63976372,
-      "FREE_HOLDNUM_RATIO": 19.245534028592,
-      "HOLD_NUM_CHANGE": "-5911550",
-      "CHANGE_RATIO": -8.45861464
+      "FREE_HOLDNUM_RATIO": 19.184805309919,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300891.SZ",
       "SECURITY_CODE": "300891",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "朝阳投资有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 52696600,
-      "FREE_HOLDNUM_RATIO": 15.85232448772,
+      "FREE_HOLDNUM_RATIO": 15.802302942322,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300891.SZ",
       "SECURITY_CODE": "300891",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "钟镇光",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 21125850,
-      "FREE_HOLDNUM_RATIO": 6.355131626688,
-      "HOLD_NUM_CHANGE": "-1402900",
-      "CHANGE_RATIO": -6.22715419
+      "HOLD_NUM": 22178025,
+      "FREE_HOLDNUM_RATIO": 6.650597376536,
+      "HOLD_NUM_CHANGE": "1052175",
+      "CHANGE_RATIO": 4.98050966
     },
     {
       "SECUCODE": "300891.SZ",
       "SECURITY_CODE": "300891",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "广东南传私募基金管理有限公司-南传薪火3号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5559600,
-      "FREE_HOLDNUM_RATIO": 1.672452932863,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 5251500,
+      "FREE_HOLDNUM_RATIO": 1.574784595241,
+      "HOLD_NUM_CHANGE": "-308100",
+      "CHANGE_RATIO": -5.54176559
     },
     {
       "SECUCODE": "300891.SZ",
       "SECURITY_CODE": "300891",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "方宜婷",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2250000,
-      "FREE_HOLDNUM_RATIO": 0.676850690507,
-      "HOLD_NUM_CHANGE": "1110500",
-      "CHANGE_RATIO": 97.45502413
+      "HOLD_NUM": 3643800,
+      "FREE_HOLDNUM_RATIO": 1.092678302988,
+      "HOLD_NUM_CHANGE": "1393800",
+      "CHANGE_RATIO": 61.94666667
     },
     {
       "SECUCODE": "300891.SZ",
       "SECURITY_CODE": "300891",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_NAME": "BARCLAYS BANK PLC",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1307822,
-      "FREE_HOLDNUM_RATIO": 0.393422321671,
+      "HOLD_NUM": 1316923,
+      "FREE_HOLDNUM_RATIO": 0.394910035898,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300891.SZ",
       "SECURITY_CODE": "300891",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "杨国泰",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1300600,
-      "FREE_HOLDNUM_RATIO": 0.391249781366,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1250800,
+      "FREE_HOLDNUM_RATIO": 0.375081514182,
+      "HOLD_NUM_CHANGE": "-49800",
+      "CHANGE_RATIO": -3.829002
     },
     {
       "SECUCODE": "300891.SZ",
       "SECURITY_CODE": "300891",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1185226,
+      "FREE_HOLDNUM_RATIO": 0.355417622904,
+      "HOLD_NUM_CHANGE": "-122596",
+      "CHANGE_RATIO": -9.37405855
+    },
+    {
+      "SECUCODE": "300891.SZ",
+      "SECURITY_CODE": "300891",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "翟迎辉",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1112312,
-      "FREE_HOLDNUM_RATIO": 0.334608509004,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1112112,
+      "FREE_HOLDNUM_RATIO": 0.333492687001,
+      "HOLD_NUM_CHANGE": "-200",
+      "CHANGE_RATIO": -0.01798057
     },
     {
       "SECUCODE": "300891.SZ",
       "SECURITY_CODE": "300891",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "陈润桥",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "齐宗旭",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1080000,
-      "FREE_HOLDNUM_RATIO": 0.324888331443,
-      "HOLD_NUM_CHANGE": "-70000",
-      "CHANGE_RATIO": -6.08695652
-    },
-    {
-      "SECUCODE": "300891.SZ",
-      "SECURITY_CODE": "300891",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "云浮市百家利投资合伙企业(有限合伙)",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1009200,
-      "FREE_HOLDNUM_RATIO": 0.303590096382,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 980000,
+      "FREE_HOLDNUM_RATIO": 0.29387582659,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -727,20 +605,20 @@
     {
       "SECUCODE": "300891.SZ",
       "SECURITY_CODE": "300891",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 151418356,
-      "LIMITED_SHARES": 67586250,
-      "OTHER_UNLIMITED_SHARES": 181003555,
-      "HOLD_NUM_RATIO": 37.85,
-      "LIMITED_SHARES_RATIO": 16.9,
-      "UNLIMITED_SHARES_RATIO": 45.25
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 153591358,
+      "LIMITED_SHARES": 66534075,
+      "OTHER_UNLIMITED_SHARES": 179882821,
+      "HOLD_NUM_RATIO": 38.4,
+      "LIMITED_SHARES_RATIO": 16.63,
+      "UNLIMITED_SHARES_RATIO": 44.97
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300891.SZ",
       "SECURITY_CODE": "300891",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "钟镇光",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -752,7 +630,7 @@
     {
       "SECUCODE": "300891.SZ",
       "SECURITY_CODE": "300891",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "美国万邦有限公司",
       "SHARES_TYPE": "流通A股",
@@ -764,7 +642,7 @@
     {
       "SECUCODE": "300891.SZ",
       "SECURITY_CODE": "300891",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "朝阳投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -776,35 +654,35 @@
     {
       "SECUCODE": "300891.SZ",
       "SECURITY_CODE": "300891",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "广东南传私募基金管理有限公司-南传薪火3号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5559600,
-      "HOLD_NUM_RATIO": 1.39,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 5251500,
+      "HOLD_NUM_RATIO": 1.31,
+      "HOLD_NUM_CHANGE": "-308100",
+      "CHANGE_RATIO": -5.54176559
     },
     {
       "SECUCODE": "300891.SZ",
       "SECURITY_CODE": "300891",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "方宜婷",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2250000,
-      "HOLD_NUM_RATIO": 0.56,
-      "HOLD_NUM_CHANGE": "1110500",
-      "CHANGE_RATIO": 97.45502413
+      "HOLD_NUM": 3643800,
+      "HOLD_NUM_RATIO": 0.91,
+      "HOLD_NUM_CHANGE": "1393800",
+      "CHANGE_RATIO": 61.94666667
     },
     {
       "SECUCODE": "300891.SZ",
       "SECURITY_CODE": "300891",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_NAME": "BARCLAYS BANK PLC",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1307822,
+      "HOLD_NUM": 1316923,
       "HOLD_NUM_RATIO": 0.33,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
@@ -812,49 +690,49 @@
     {
       "SECUCODE": "300891.SZ",
       "SECURITY_CODE": "300891",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "杨国泰",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1300600,
-      "HOLD_NUM_RATIO": 0.33,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1250800,
+      "HOLD_NUM_RATIO": 0.31,
+      "HOLD_NUM_CHANGE": "-49800",
+      "CHANGE_RATIO": -3.829002
     },
     {
       "SECUCODE": "300891.SZ",
       "SECURITY_CODE": "300891",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1185226,
+      "HOLD_NUM_RATIO": 0.3,
+      "HOLD_NUM_CHANGE": "-122596",
+      "CHANGE_RATIO": -9.37405855
+    },
+    {
+      "SECUCODE": "300891.SZ",
+      "SECURITY_CODE": "300891",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "翟迎辉",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1112312,
+      "HOLD_NUM": 1112112,
       "HOLD_NUM_RATIO": 0.28,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM_CHANGE": "-200",
+      "CHANGE_RATIO": -0.01798057
     },
     {
       "SECUCODE": "300891.SZ",
       "SECURITY_CODE": "300891",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "陈润桥",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1080000,
-      "HOLD_NUM_RATIO": 0.27,
-      "HOLD_NUM_CHANGE": "-70000",
-      "CHANGE_RATIO": -6.08695652
-    },
-    {
-      "SECUCODE": "300891.SZ",
-      "SECURITY_CODE": "300891",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "云浮市百家利投资合伙企业(有限合伙)",
+      "HOLDER_NAME": "齐宗旭",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1009200,
-      "HOLD_NUM_RATIO": 0.25,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 980000,
+      "HOLD_NUM_RATIO": 0.24,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -862,42 +740,32 @@
     {
       "SECUCODE": "300891.SZ",
       "SECURITY_CODE": "300891",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 29,
-      "TOTAL_FREE_SHARES": 126359537,
-      "TOTAL_SHARES_RATIO": 38.01179552,
-      "ALL_SHARES_RATIO": 31.58923975
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 124426621,
+      "TOTAL_SHARES_RATIO": 37.31222051,
+      "ALL_SHARES_RATIO": 31.10601339
     },
     {
       "SECUCODE": "300891.SZ",
       "SECURITY_CODE": "300891",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 24,
-      "TOTAL_FREE_SHARES": 1809943,
-      "TOTAL_SHARES_RATIO": 0.54447165,
-      "ALL_SHARES_RATIO": 0.45247652
-    },
-    {
-      "SECUCODE": "300891.SZ",
-      "SECURITY_CODE": "300891",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "02",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 1307822,
-      "TOTAL_SHARES_RATIO": 0.39342232,
-      "ALL_SHARES_RATIO": 0.32694883
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 2502149,
+      "TOTAL_SHARES_RATIO": 0.75032766,
+      "ALL_SHARES_RATIO": 0.62552435
     },
     {
       "SECUCODE": "300891.SZ",
       "SECURITY_CODE": "300891",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 123241772,
-      "TOTAL_SHARES_RATIO": 37.07390155,
-      "ALL_SHARES_RATIO": 30.8098144
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 121924472,
+      "TOTAL_SHARES_RATIO": 36.56189285,
+      "ALL_SHARES_RATIO": 30.48048904
     }
   ],
   "jjcg": [

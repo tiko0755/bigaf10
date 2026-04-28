@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 3.83,
       "AVG_HOLD_AMT": 80286.8629641833,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 54.26295952,
+      "FREEHOLD_RATIO_TOTAL": 54.26295952
     },
     {
       "SECUCODE": "601388.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "601388.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "601388.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "601388.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "601388.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "601388.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "601388.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "601388.SH",
       "END_DATE": "2015-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "601388.SH",
-      "END_DATE": "2015-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "601388.SH",
       "SECURITY_CODE": "601388",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "怡球(香港)有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "601388.SH",
       "SECURITY_CODE": "601388",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "林胜枝",
       "HOLDER_TYPE": "个人",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "601388.SH",
       "SECURITY_CODE": "601388",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "智联投资控股有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "601388.SH",
       "SECURITY_CODE": "601388",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "黄崇胜",
       "HOLDER_TYPE": "个人",
@@ -525,20 +525,20 @@
     {
       "SECUCODE": "601388.SH",
       "SECURITY_CODE": "601388",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
+      "HOLDER_NAME": "周信钢",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 24738821,
-      "FREE_HOLDNUM_RATIO": 1.123867291758,
-      "HOLD_NUM_CHANGE": "6604391",
-      "CHANGE_RATIO": 36.41907135
+      "HOLD_NUM": 28000000,
+      "FREE_HOLDNUM_RATIO": 1.272020367067,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601388.SH",
       "SECURITY_CODE": "601388",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "智富(太仓)投资管理有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -551,21 +551,34 @@
     {
       "SECUCODE": "601388.SH",
       "SECURITY_CODE": "601388",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "李智贤",
+      "HOLDER_NAME": "周晨",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8086400,
-      "FREE_HOLDNUM_RATIO": 0.367359482009,
+      "HOLD_NUM": 19470400,
+      "FREE_HOLDNUM_RATIO": 0.884526619819,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601388.SH",
       "SECURITY_CODE": "601388",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 11674103,
+      "FREE_HOLDNUM_RATIO": 0.530346313687,
+      "HOLD_NUM_CHANGE": "-13064718",
+      "CHANGE_RATIO": -52.81059271
+    },
+    {
+      "SECUCODE": "601388.SH",
+      "SECURITY_CODE": "601388",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "太仓环宇商务咨询有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -577,26 +590,13 @@
     {
       "SECUCODE": "601388.SH",
       "SECURITY_CODE": "601388",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "陆军",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5983123,
-      "FREE_HOLDNUM_RATIO": 0.271809082667,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "601388.SH",
-      "SECURITY_CODE": "601388",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "陈沛仪",
+      "HOLDER_NAME": "李欣",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5531800,
-      "FREE_HOLDNUM_RATIO": 0.251305795234,
+      "HOLD_NUM": 6840220,
+      "FREE_HOLDNUM_RATIO": 0.310746398401,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "601388.SH",
       "SECURITY_CODE": "601388",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 1172803958,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 1194448537,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 1028418658,
-      "HOLD_NUM_RATIO": 53.28,
+      "OTHER_UNLIMITED_SHARES": 1006774079,
+      "HOLD_NUM_RATIO": 54.26,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 46.72
+      "UNLIMITED_SHARES_RATIO": 45.74
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "601388.SH",
       "SECURITY_CODE": "601388",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "怡球(香港)有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "601388.SH",
       "SECURITY_CODE": "601388",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "林胜枝",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "601388.SH",
       "SECURITY_CODE": "601388",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "智联投资控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "601388.SH",
       "SECURITY_CODE": "601388",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "黄崇胜",
       "SHARES_TYPE": "流通A股",
@@ -666,19 +666,19 @@
     {
       "SECUCODE": "601388.SH",
       "SECURITY_CODE": "601388",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_NAME": "周信钢",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 24738821,
-      "HOLD_NUM_RATIO": 1.12,
-      "HOLD_NUM_CHANGE": "6604391",
-      "CHANGE_RATIO": 36.41907135
+      "HOLD_NUM": 28000000,
+      "HOLD_NUM_RATIO": 1.27,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601388.SH",
       "SECURITY_CODE": "601388",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "智富(太仓)投资管理有限公司",
       "SHARES_TYPE": "流通A股",
@@ -690,20 +690,32 @@
     {
       "SECUCODE": "601388.SH",
       "SECURITY_CODE": "601388",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "李智贤",
+      "HOLDER_NAME": "周晨",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8086400,
-      "HOLD_NUM_RATIO": 0.37,
+      "HOLD_NUM": 19470400,
+      "HOLD_NUM_RATIO": 0.88,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601388.SH",
       "SECURITY_CODE": "601388",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 11674103,
+      "HOLD_NUM_RATIO": 0.53,
+      "HOLD_NUM_CHANGE": "-13064718",
+      "CHANGE_RATIO": -52.81059271
+    },
+    {
+      "SECUCODE": "601388.SH",
+      "SECURITY_CODE": "601388",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "太仓环宇商务咨询有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 7628268,
@@ -714,24 +726,12 @@
     {
       "SECUCODE": "601388.SH",
       "SECURITY_CODE": "601388",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "陆军",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5983123,
-      "HOLD_NUM_RATIO": 0.27,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "601388.SH",
-      "SECURITY_CODE": "601388",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "陈沛仪",
+      "HOLDER_NAME": "李欣",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5531800,
-      "HOLD_NUM_RATIO": 0.25,
+      "HOLD_NUM": 6840220,
+      "HOLD_NUM_RATIO": 0.31,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "601388",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 7,
-      "TOTAL_FREE_SHARES": 2279600,
-      "TOTAL_SHARES_RATIO": 0.10356063,
-      "ALL_SHARES_RATIO": 0.10356063
+      "TOTAL_ORG_NUM": 12,
+      "TOTAL_FREE_SHARES": 928071031,
+      "TOTAL_SHARES_RATIO": 42.1616162,
+      "ALL_SHARES_RATIO": 42.1616162
     },
     {
       "SECUCODE": "601388.SH",
@@ -756,6 +756,16 @@
       "TOTAL_FREE_SHARES": 2279600,
       "TOTAL_SHARES_RATIO": 0.10356063,
       "ALL_SHARES_RATIO": 0.10356063
+    },
+    {
+      "SECUCODE": "601388.SH",
+      "SECURITY_CODE": "601388",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 925791431,
+      "TOTAL_SHARES_RATIO": 42.05805557,
+      "ALL_SHARES_RATIO": 42.05805557
     }
   ],
   "jjcg": [

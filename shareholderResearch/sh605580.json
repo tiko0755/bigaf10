@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 21,
       "AVG_HOLD_AMT": 238114.521746173,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 74.98449714,
+      "FREEHOLD_RATIO_TOTAL": 74.98449714
     },
     {
       "SECUCODE": "605580.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "605580.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "605580.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "605580.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "605580.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "605580.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "605580.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -356,6 +361,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "605580.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "605580.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -369,36 +378,9 @@
     {
       "SECUCODE": "605580.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "605580.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-12-21 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "杜顺仙",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 57211100,
-      "HOLD_NUM_RATIO": 20.43,
-      "HOLD_CHANGE": "-100000",
-      "CHANGE_RATIO": -0.17448627,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-11 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "杜顺仙",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 57311100,
-      "HOLD_NUM_RATIO": 20.47,
-      "HOLD_CHANGE": "-1012900",
-      "CHANGE_RATIO": -1.73667787,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "605580.SH",
@@ -426,7 +408,7 @@
     {
       "SECUCODE": "605580.SH",
       "SECURITY_CODE": "605580",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "余国旭",
       "HOLDER_TYPE": "个人",
@@ -439,20 +421,20 @@
     {
       "SECUCODE": "605580.SH",
       "SECURITY_CODE": "605580",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "杜顺仙",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 57211100,
       "FREE_HOLDNUM_RATIO": 20.432535714286,
-      "HOLD_NUM_CHANGE": "-1112900",
-      "CHANGE_RATIO": -1.90813387
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605580.SH",
       "SECURITY_CODE": "605580",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "余恒",
       "HOLDER_TYPE": "个人",
@@ -465,7 +447,7 @@
     {
       "SECUCODE": "605580.SH",
       "SECURITY_CODE": "605580",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "余杜康",
       "HOLDER_TYPE": "个人",
@@ -478,78 +460,78 @@
     {
       "SECUCODE": "605580.SH",
       "SECURITY_CODE": "605580",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "上海海升私募基金管理有限公司-海升16号私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1452609,
-      "FREE_HOLDNUM_RATIO": 0.518788928571,
-      "HOLD_NUM_CHANGE": "-518600",
-      "CHANGE_RATIO": -26.30872728
-    },
-    {
-      "SECUCODE": "605580.SH",
-      "SECURITY_CODE": "605580",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1348440,
-      "FREE_HOLDNUM_RATIO": 0.481585714286,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 674381,
+      "FREE_HOLDNUM_RATIO": 0.240850357143,
+      "HOLD_NUM_CHANGE": "-674059",
+      "CHANGE_RATIO": -49.98806028
     },
     {
       "SECUCODE": "605580.SH",
       "SECURITY_CODE": "605580",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "王丽芳",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 587400,
-      "FREE_HOLDNUM_RATIO": 0.209785714286,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "605580.SH",
-      "SECURITY_CODE": "605580",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "上海海升私募基金管理有限公司-海升18号私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 569000,
-      "FREE_HOLDNUM_RATIO": 0.203214285714,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "605580.SH",
-      "SECURITY_CODE": "605580",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "徐洁芬",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 560000,
       "FREE_HOLDNUM_RATIO": 0.2,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "605580.SH",
+      "SECURITY_CODE": "605580",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "UBS AG",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 536311,
+      "FREE_HOLDNUM_RATIO": 0.191539642857,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605580.SH",
       "SECURITY_CODE": "605580",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "上海海升私募基金管理有限公司-海升白玉兰7号私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "基本养老保险基金一三零二组合",
+      "HOLDER_TYPE": "基本养老基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 558500,
-      "FREE_HOLDNUM_RATIO": 0.199464285714,
+      "HOLD_NUM": 466200,
+      "FREE_HOLDNUM_RATIO": 0.1665,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "605580.SH",
+      "SECURITY_CODE": "605580",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "余国升",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 462000,
+      "FREE_HOLDNUM_RATIO": 0.165,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "605580.SH",
+      "SECURITY_CODE": "605580",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "周然",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 386600,
+      "FREE_HOLDNUM_RATIO": 0.138071428571,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -558,20 +540,20 @@
     {
       "SECUCODE": "605580.SH",
       "SECURITY_CODE": "605580",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 211947049,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 209956592,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 68052951,
-      "HOLD_NUM_RATIO": 75.7,
+      "OTHER_UNLIMITED_SHARES": 70043408,
+      "HOLD_NUM_RATIO": 74.98,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 24.3
+      "UNLIMITED_SHARES_RATIO": 25.02
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "605580.SH",
       "SECURITY_CODE": "605580",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "余国旭",
       "SHARES_TYPE": "流通A股",
@@ -583,7 +565,7 @@
     {
       "SECUCODE": "605580.SH",
       "SECURITY_CODE": "605580",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "杜顺仙",
       "SHARES_TYPE": "流通A股",
@@ -595,7 +577,7 @@
     {
       "SECUCODE": "605580.SH",
       "SECURITY_CODE": "605580",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "余恒",
       "SHARES_TYPE": "流通A股",
@@ -607,7 +589,7 @@
     {
       "SECUCODE": "605580.SH",
       "SECURITY_CODE": "605580",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "余杜康",
       "SHARES_TYPE": "流通A股",
@@ -619,72 +601,72 @@
     {
       "SECUCODE": "605580.SH",
       "SECURITY_CODE": "605580",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "上海海升私募基金管理有限公司-海升16号私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1452609,
-      "HOLD_NUM_RATIO": 0.52,
-      "HOLD_NUM_CHANGE": "-518600",
-      "CHANGE_RATIO": -26.30872728
-    },
-    {
-      "SECUCODE": "605580.SH",
-      "SECURITY_CODE": "605580",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1348440,
-      "HOLD_NUM_RATIO": 0.48,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 674381,
+      "HOLD_NUM_RATIO": 0.24,
+      "HOLD_NUM_CHANGE": "-674059",
+      "CHANGE_RATIO": -49.98806028
     },
     {
       "SECUCODE": "605580.SH",
       "SECURITY_CODE": "605580",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "王丽芳",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 587400,
-      "HOLD_NUM_RATIO": 0.21,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "605580.SH",
-      "SECURITY_CODE": "605580",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "上海海升私募基金管理有限公司-海升18号私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 569000,
-      "HOLD_NUM_RATIO": 0.2,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "605580.SH",
-      "SECURITY_CODE": "605580",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "徐洁芬",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 560000,
       "HOLD_NUM_RATIO": 0.2,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "605580.SH",
+      "SECURITY_CODE": "605580",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "UBS AG",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 536311,
+      "HOLD_NUM_RATIO": 0.19,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "605580.SH",
       "SECURITY_CODE": "605580",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "上海海升私募基金管理有限公司-海升白玉兰7号私募证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "基本养老保险基金一三零二组合",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 558500,
-      "HOLD_NUM_RATIO": 0.2,
+      "HOLD_NUM": 466200,
+      "HOLD_NUM_RATIO": 0.17,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "605580.SH",
+      "SECURITY_CODE": "605580",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "余国升",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 462000,
+      "HOLD_NUM_RATIO": 0.17,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "605580.SH",
+      "SECURITY_CODE": "605580",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "周然",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 386600,
+      "HOLD_NUM_RATIO": 0.14,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -693,32 +675,32 @@
     {
       "SECUCODE": "605580.SH",
       "SECURITY_CODE": "605580",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 42,
-      "TOTAL_FREE_SHARES": 3190981,
-      "TOTAL_SHARES_RATIO": 1.13963604,
-      "ALL_SHARES_RATIO": 1.13963604
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 1676892,
+      "TOTAL_SHARES_RATIO": 0.59889,
+      "ALL_SHARES_RATIO": 0.59889
     },
     {
       "SECUCODE": "605580.SH",
       "SECURITY_CODE": "605580",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 40,
-      "TOTAL_FREE_SHARES": 389932,
-      "TOTAL_SHARES_RATIO": 0.1392614,
-      "ALL_SHARES_RATIO": 0.1392614
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 536311,
+      "TOTAL_SHARES_RATIO": 0.19153964,
+      "ALL_SHARES_RATIO": 0.19153964
     },
     {
       "SECUCODE": "605580.SH",
       "SECURITY_CODE": "605580",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 2801049,
-      "TOTAL_SHARES_RATIO": 1.00037464,
-      "ALL_SHARES_RATIO": 1.00037464
+      "TOTAL_FREE_SHARES": 1140581,
+      "TOTAL_SHARES_RATIO": 0.40735036,
+      "ALL_SHARES_RATIO": 0.40735036
     }
   ],
   "jjcg": [

@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 5.44,
       "AVG_HOLD_AMT": 62504.3579968102,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 32.6248953,
+      "FREEHOLD_RATIO_TOTAL": 32.64073287
     },
     {
       "SECUCODE": "000566.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000566.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000566.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "000566.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000566.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000566.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000566.SZ",
       "END_DATE": "2026-02-02 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "000566.SZ",
       "END_DATE": "2016-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000566.SZ",
-      "END_DATE": "2016-09-09 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "000566.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "000566.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "000566.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000566.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "000566.SZ",
       "SECURITY_CODE": "000566",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "海南华同实业有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,60 +486,47 @@
     {
       "SECUCODE": "000566.SZ",
       "SECURITY_CODE": "000566",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "云南国际信托有限公司-聚利36号单一资金信托",
       "HOLDER_TYPE": "信托计划",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 68295512,
-      "FREE_HOLDNUM_RATIO": 5.26672594336,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 59868212,
+      "FREE_HOLDNUM_RATIO": 4.616840200612,
+      "HOLD_NUM_CHANGE": "-8427300",
+      "CHANGE_RATIO": -12.33946383
     },
     {
       "SECUCODE": "000566.SZ",
       "SECURITY_CODE": "000566",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "胡景",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 33988362,
-      "FREE_HOLDNUM_RATIO": 2.621071029055,
-      "HOLD_NUM_CHANGE": "-895163",
-      "CHANGE_RATIO": -2.56614835
-    },
-    {
-      "SECUCODE": "000566.SZ",
-      "SECURITY_CODE": "000566",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 20786468,
-      "FREE_HOLDNUM_RATIO": 1.602984252998,
-      "HOLD_NUM_CHANGE": "14140082",
-      "CHANGE_RATIO": 212.74843201
+      "HOLD_NUM": 19245431,
+      "FREE_HOLDNUM_RATIO": 1.484144532643,
+      "HOLD_NUM_CHANGE": "-1541037",
+      "CHANGE_RATIO": -7.41365488
     },
     {
       "SECUCODE": "000566.SZ",
       "SECURITY_CODE": "000566",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "华东仔",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 13990100,
-      "FREE_HOLDNUM_RATIO": 1.078870638237,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 13990700,
+      "FREE_HOLDNUM_RATIO": 1.07891690827,
+      "HOLD_NUM_CHANGE": "600",
+      "CHANGE_RATIO": 0.00428875
     },
     {
       "SECUCODE": "000566.SZ",
       "SECURITY_CODE": "000566",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "华春芳",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -551,47 +538,34 @@
     {
       "SECUCODE": "000566.SZ",
       "SECURITY_CODE": "000566",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "UBS AG",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7826702,
-      "FREE_HOLDNUM_RATIO": 0.603569594358,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000566.SZ",
-      "SECURITY_CODE": "000566",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "高盛公司有限责任公司",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6275639,
-      "FREE_HOLDNUM_RATIO": 0.483956701759,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000566.SZ",
-      "SECURITY_CODE": "000566",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "田国涛",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6119500,
-      "FREE_HOLDNUM_RATIO": 0.471915774061,
-      "HOLD_NUM_CHANGE": "168000",
-      "CHANGE_RATIO": 2.82281778
+      "HOLD_NUM": 6223900,
+      "FREE_HOLDNUM_RATIO": 0.479966759732,
+      "HOLD_NUM_CHANGE": "104400",
+      "CHANGE_RATIO": 1.70602173
     },
     {
       "SECUCODE": "000566.SZ",
       "SECURITY_CODE": "000566",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "陈本亭",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5690000,
+      "FREE_HOLDNUM_RATIO": 0.438794142399,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000566.SZ",
+      "SECURITY_CODE": "000566",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "徐前",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -599,26 +573,52 @@
       "FREE_HOLDNUM_RATIO": 0.424141965412,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000566.SZ",
+      "SECURITY_CODE": "000566",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "蒋以宁",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4057846,
+      "FREE_HOLDNUM_RATIO": 0.312927777778,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000566.SZ",
+      "SECURITY_CODE": "000566",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "UBS AG",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3517136,
+      "FREE_HOLDNUM_RATIO": 0.271229995575,
+      "HOLD_NUM_CHANGE": "-4309566",
+      "CHANGE_RATIO": -55.06234938
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "000566.SZ",
       "SECURITY_CODE": "000566",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 467953072,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 423264014,
       "LIMITED_SHARES": 629493,
-      "OTHER_UNLIMITED_SHARES": 828782561,
-      "HOLD_NUM_RATIO": 36.07,
+      "OTHER_UNLIMITED_SHARES": 873471619,
+      "HOLD_NUM_RATIO": 32.62,
       "LIMITED_SHARES_RATIO": 0.05,
-      "UNLIMITED_SHARES_RATIO": 63.88
+      "UNLIMITED_SHARES_RATIO": 67.33
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "000566.SZ",
       "SECURITY_CODE": "000566",
-      "END_DATE": "2026-02-02 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "海南华同实业有限公司",
       "SHARES_TYPE": "流通A股",
@@ -626,58 +626,156 @@
       "HOLD_NUM_RATIO": 22.89,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000566.SZ",
+      "SECURITY_CODE": "000566",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "云南国际信托有限公司-聚利36号单一资金信托",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 59868212,
+      "HOLD_NUM_RATIO": 4.61,
+      "HOLD_NUM_CHANGE": "-8427300",
+      "CHANGE_RATIO": -12.33946383
+    },
+    {
+      "SECUCODE": "000566.SZ",
+      "SECURITY_CODE": "000566",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 19245431,
+      "HOLD_NUM_RATIO": 1.48,
+      "HOLD_NUM_CHANGE": "-1541037",
+      "CHANGE_RATIO": -7.41365488
+    },
+    {
+      "SECUCODE": "000566.SZ",
+      "SECURITY_CODE": "000566",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "华东仔",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 13990700,
+      "HOLD_NUM_RATIO": 1.08,
+      "HOLD_NUM_CHANGE": "600",
+      "CHANGE_RATIO": 0.00428875
+    },
+    {
+      "SECUCODE": "000566.SZ",
+      "SECURITY_CODE": "000566",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "华春芳",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 8180900,
+      "HOLD_NUM_RATIO": 0.63,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000566.SZ",
+      "SECURITY_CODE": "000566",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "田国涛",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6223900,
+      "HOLD_NUM_RATIO": 0.48,
+      "HOLD_NUM_CHANGE": "104400",
+      "CHANGE_RATIO": 1.70602173
+    },
+    {
+      "SECUCODE": "000566.SZ",
+      "SECURITY_CODE": "000566",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "陈本亭",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5690000,
+      "HOLD_NUM_RATIO": 0.44,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000566.SZ",
+      "SECURITY_CODE": "000566",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "徐前",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5500000,
+      "HOLD_NUM_RATIO": 0.42,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000566.SZ",
+      "SECURITY_CODE": "000566",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "蒋以宁",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4057846,
+      "HOLD_NUM_RATIO": 0.31,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000566.SZ",
+      "SECURITY_CODE": "000566",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "UBS AG",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3517136,
+      "HOLD_NUM_RATIO": 0.27,
+      "HOLD_NUM_CHANGE": "-4309566",
+      "CHANGE_RATIO": -55.06234938
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "000566.SZ",
       "SECURITY_CODE": "000566",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 22,
-      "TOTAL_FREE_SHARES": 401241010,
-      "TOTAL_SHARES_RATIO": 30.942391,
-      "ALL_SHARES_RATIO": 30.9273775
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 379620668,
+      "TOTAL_SHARES_RATIO": 29.27510114,
+      "ALL_SHARES_RATIO": 29.26089659
     },
     {
       "SECUCODE": "000566.SZ",
       "SECURITY_CODE": "000566",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 17,
-      "TOTAL_FREE_SHARES": 1066800,
-      "TOTAL_SHARES_RATIO": 0.08226811,
-      "ALL_SHARES_RATIO": 0.08222821
-    },
-    {
-      "SECUCODE": "000566.SZ",
-      "SECURITY_CODE": "000566",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "02",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 14102341,
-      "TOTAL_SHARES_RATIO": 1.08752629,
-      "ALL_SHARES_RATIO": 1.08699862
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 3517136,
+      "TOTAL_SHARES_RATIO": 0.27123,
+      "ALL_SHARES_RATIO": 0.27109839
     },
     {
       "SECUCODE": "000566.SZ",
       "SECURITY_CODE": "000566",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "06",
       "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 68295512,
-      "TOTAL_SHARES_RATIO": 5.26672594,
-      "ALL_SHARES_RATIO": 5.26417048
+      "TOTAL_FREE_SHARES": 59868212,
+      "TOTAL_SHARES_RATIO": 4.6168402,
+      "ALL_SHARES_RATIO": 4.61460007
     },
     {
       "SECUCODE": "000566.SZ",
       "SECURITY_CODE": "000566",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 317776357,
-      "TOTAL_SHARES_RATIO": 24.50587066,
-      "ALL_SHARES_RATIO": 24.49398019
+      "TOTAL_FREE_SHARES": 316235320,
+      "TOTAL_SHARES_RATIO": 24.38703094,
+      "ALL_SHARES_RATIO": 24.37519813
     }
   ],
   "jjcg": [

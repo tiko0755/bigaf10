@@ -25,8 +25,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 9.34,
       "AVG_HOLD_AMT": 72172.2873798775,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 29.10823808,
+      "FREEHOLD_RATIO_TOTAL": 29.10823808
     },
     {
       "SECUCODE": "600326.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600326.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600326.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600326.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600326.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600326.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600326.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600326.SH",
       "END_DATE": "2015-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600326.SH",
-      "END_DATE": "2015-11-04 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600326.SH",
       "SECURITY_CODE": "600326",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "西藏建工建材集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600326.SH",
       "SECURITY_CODE": "600326",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "西藏天海集团有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -499,99 +499,60 @@
     {
       "SECUCODE": "600326.SH",
       "SECURITY_CODE": "600326",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 19930410,
-      "FREE_HOLDNUM_RATIO": 1.462820581848,
-      "HOLD_NUM_CHANGE": "-69230",
-      "CHANGE_RATIO": -0.34615623
+      "HOLD_NUM": 14749618,
+      "FREE_HOLDNUM_RATIO": 1.082569038208,
+      "HOLD_NUM_CHANGE": "-5180792",
+      "CHANGE_RATIO": -25.99440754
     },
     {
       "SECUCODE": "600326.SH",
       "SECURITY_CODE": "600326",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "UBS AG",
-      "HOLDER_TYPE": "QFII",
+      "HOLDER_NAME": "中国银河证券股份有限公司-国泰中证全指建筑材料交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5593222,
-      "FREE_HOLDNUM_RATIO": 0.410522425803,
-      "HOLD_NUM_CHANGE": "3356960",
-      "CHANGE_RATIO": 150.11478977
+      "HOLD_NUM": 6405335,
+      "FREE_HOLDNUM_RATIO": 0.470128606066,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600326.SH",
       "SECURITY_CODE": "600326",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中信银行股份有限公司-永赢睿信混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "连云港皓宏智业创业投资合伙企业(有限合伙)",
+      "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5245065,
-      "FREE_HOLDNUM_RATIO": 0.384968951222,
+      "HOLD_NUM": 4037125,
+      "FREE_HOLDNUM_RATIO": 0.296310489423,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600326.SH",
       "SECURITY_CODE": "600326",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国国际金融香港资产管理有限公司-CICCFT3(R)",
-      "HOLDER_TYPE": "其他理财产品",
+      "HOLDER_NAME": "尹宁欣",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3182143,
-      "FREE_HOLDNUM_RATIO": 0.233557878377,
+      "HOLD_NUM": 2959784,
+      "FREE_HOLDNUM_RATIO": 0.217237525622,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600326.SH",
       "SECURITY_CODE": "600326",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "浙商银行股份有限公司-永赢稳健增强债券型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3015364,
-      "FREE_HOLDNUM_RATIO": 0.221316898195,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600326.SH",
-      "SECURITY_CODE": "600326",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "高盛公司有限责任公司",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2805924,
-      "FREE_HOLDNUM_RATIO": 0.205944753686,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600326.SH",
-      "SECURITY_CODE": "600326",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2652279,
-      "FREE_HOLDNUM_RATIO": 0.194667761978,
-      "HOLD_NUM_CHANGE": "682831",
-      "CHANGE_RATIO": 34.67118705
-    },
-    {
-      "SECUCODE": "600326.SH",
-      "SECURITY_CODE": "600326",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "西藏自治区交通厅格尔木运输总公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -599,26 +560,65 @@
       "FREE_HOLDNUM_RATIO": 0.187580090669,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600326.SH",
+      "SECURITY_CODE": "600326",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "浙商银行股份有限公司-格林新兴产业混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2499959,
+      "FREE_HOLDNUM_RATIO": 0.183488020516,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600326.SH",
+      "SECURITY_CODE": "600326",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "罗玉清",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2173365,
+      "FREE_HOLDNUM_RATIO": 0.159517192766,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600326.SH",
+      "SECURITY_CODE": "600326",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "姜小琴",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2107600,
+      "FREE_HOLDNUM_RATIO": 0.154690277737,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600326.SH",
       "SECURITY_CODE": "600326",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 404081009,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 396589388,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 958383414,
-      "HOLD_NUM_RATIO": 29.66,
+      "OTHER_UNLIMITED_SHARES": 965875035,
+      "HOLD_NUM_RATIO": 29.11,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 70.34
+      "UNLIMITED_SHARES_RATIO": 70.89
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600326.SH",
       "SECURITY_CODE": "600326",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "西藏建工建材集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600326.SH",
       "SECURITY_CODE": "600326",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "西藏天海集团有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -642,59 +642,47 @@
     {
       "SECUCODE": "600326.SH",
       "SECURITY_CODE": "600326",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 19930410,
-      "HOLD_NUM_RATIO": 1.46,
-      "HOLD_NUM_CHANGE": "-69230",
-      "CHANGE_RATIO": -0.34615623
+      "HOLD_NUM": 14749618,
+      "HOLD_NUM_RATIO": 1.08,
+      "HOLD_NUM_CHANGE": "-5180792",
+      "CHANGE_RATIO": -25.99440754
     },
     {
       "SECUCODE": "600326.SH",
       "SECURITY_CODE": "600326",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "UBSAG",
+      "HOLDER_NAME": "中国银河证券股份有限公司-国泰中证全指建筑材料交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5593222,
-      "HOLD_NUM_RATIO": 0.41,
-      "HOLD_NUM_CHANGE": "3356960",
-      "CHANGE_RATIO": 150.11478977
+      "HOLD_NUM": 6405335,
+      "HOLD_NUM_RATIO": 0.47,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600326.SH",
       "SECURITY_CODE": "600326",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中信银行股份有限公司-永赢睿信混合型证券投资基金",
+      "HOLDER_NAME": "连云港皓宏智业创业投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5245065,
-      "HOLD_NUM_RATIO": 0.38,
+      "HOLD_NUM": 4037125,
+      "HOLD_NUM_RATIO": 0.3,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600326.SH",
       "SECURITY_CODE": "600326",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国国际金融香港资产管理有限公司-CICCFT3(R)",
+      "HOLDER_NAME": "尹宁欣",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3182143,
-      "HOLD_NUM_RATIO": 0.23,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600326.SH",
-      "SECURITY_CODE": "600326",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "浙商银行股份有限公司-永赢稳健增强债券型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3015364,
+      "HOLD_NUM": 2959784,
       "HOLD_NUM_RATIO": 0.22,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
@@ -702,37 +690,49 @@
     {
       "SECUCODE": "600326.SH",
       "SECURITY_CODE": "600326",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "高盛公司有限责任公司",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "西藏自治区交通厅格尔木运输总公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2805924,
-      "HOLD_NUM_RATIO": 0.21,
+      "HOLD_NUM": 2555712,
+      "HOLD_NUM_RATIO": 0.19,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600326.SH",
+      "SECURITY_CODE": "600326",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "浙商银行股份有限公司-格林新兴产业混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2499959,
+      "HOLD_NUM_RATIO": 0.18,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600326.SH",
       "SECURITY_CODE": "600326",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "HOLDER_NAME": "罗玉清",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2652279,
-      "HOLD_NUM_RATIO": 0.19,
-      "HOLD_NUM_CHANGE": "682831",
-      "CHANGE_RATIO": 34.67118705
+      "HOLD_NUM": 2173365,
+      "HOLD_NUM_RATIO": 0.16,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600326.SH",
       "SECURITY_CODE": "600326",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "西藏自治区交通厅格尔木运输总公司",
+      "HOLDER_NAME": "姜小琴",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2555712,
-      "HOLD_NUM_RATIO": 0.19,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 2107600,
+      "HOLD_NUM_RATIO": 0.15,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -742,20 +742,30 @@
       "SECURITY_CODE": "600326",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 9184373,
-      "TOTAL_SHARES_RATIO": 0.67410002,
-      "ALL_SHARES_RATIO": 0.67410002
+      "TOTAL_ORG_NUM": 11,
+      "TOTAL_FREE_SHARES": 392127677,
+      "TOTAL_SHARES_RATIO": 28.7807645,
+      "ALL_SHARES_RATIO": 28.7807645
     },
     {
       "SECUCODE": "600326.SH",
       "SECURITY_CODE": "600326",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 11684332,
+      "TOTAL_SHARES_RATIO": 0.85758804,
+      "ALL_SHARES_RATIO": 0.85758804
+    },
+    {
+      "SECUCODE": "600326.SH",
+      "SECURITY_CODE": "600326",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 9184373,
-      "TOTAL_SHARES_RATIO": 0.67410002,
-      "ALL_SHARES_RATIO": 0.67410002
+      "TOTAL_FREE_SHARES": 380443345,
+      "TOTAL_SHARES_RATIO": 27.92317646,
+      "ALL_SHARES_RATIO": 27.92317646
     }
   ],
   "jjcg": [
@@ -775,6 +785,23 @@
       "FUND_CODE": "159745",
       "FUND_DERIVECODE": "159745.SZ",
       "NETVALUE_RATIO": 3.6
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600326.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "014327",
+      "HOLDER_NAME": "格林新兴产业混合A",
+      "TOTAL_SHARES": 2499959,
+      "HOLD_VALUE": 23349617.06,
+      "TOTALSHARES_RATIO": 0.18348802,
+      "FREESHARES_RATIO": 0.18348802,
+      "FREE_MARKET_CAP": 23349617.06,
+      "FREE_SHARES": 2499959,
+      "SECURITY_CODE": "600326",
+      "FUND_CODE": "014327",
+      "FUND_DERIVECODE": "014327.OF",
+      "NETVALUE_RATIO": 62.51
     },
     {
       "ORG_TYPE": "01",

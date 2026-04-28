@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 16.6,
       "AVG_HOLD_AMT": 80064.1261647523,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 61.06609364,
+      "FREEHOLD_RATIO_TOTAL": 32.302998
     },
     {
       "SECUCODE": "002612.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002612.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002612.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002612.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002612.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002612.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002612.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002612.SZ",
       "END_DATE": "2015-08-21 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "002612.SZ",
-      "END_DATE": "2015-08-04 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "002612.SZ",
       "SECURITY_CODE": "002612",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "申东日",
       "HOLDER_TYPE": "个人",
@@ -486,21 +486,8 @@
     {
       "SECUCODE": "002612.SZ",
       "SECURITY_CODE": "002612",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8000471,
-      "FREE_HOLDNUM_RATIO": 3.14410724827,
-      "HOLD_NUM_CHANGE": "5581466",
-      "CHANGE_RATIO": 230.7339588
-    },
-    {
-      "SECUCODE": "002612.SZ",
-      "SECURITY_CODE": "002612",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "申今花",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -512,7 +499,20 @@
     {
       "SECUCODE": "002612.SZ",
       "SECURITY_CODE": "002612",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5399751,
+      "FREE_HOLDNUM_RATIO": 2.122049596574,
+      "HOLD_NUM_CHANGE": "-2600720",
+      "CHANGE_RATIO": -32.50708615
+    },
+    {
+      "SECUCODE": "002612.SZ",
+      "SECURITY_CODE": "002612",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "上海烜鼎私募基金管理有限公司-烜鼎长红七号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
@@ -525,7 +525,7 @@
     {
       "SECUCODE": "002612.SZ",
       "SECURITY_CODE": "002612",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "上海烜鼎私募基金管理有限公司-烜鼎长红六号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
@@ -538,47 +538,21 @@
     {
       "SECUCODE": "002612.SZ",
       "SECURITY_CODE": "002612",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "朗姿股份有限公司-第三期员工持股计划",
       "HOLDER_TYPE": "员工持股计划",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 2520000,
       "FREE_HOLDNUM_RATIO": 0.990335477204,
-      "HOLD_NUM_CHANGE": "-280000",
-      "CHANGE_RATIO": -10
-    },
-    {
-      "SECUCODE": "002612.SZ",
-      "SECURITY_CODE": "002612",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2037400,
-      "FREE_HOLDNUM_RATIO": 0.800678373514,
-      "HOLD_NUM_CHANGE": "16400",
-      "CHANGE_RATIO": 0.81147947
-    },
-    {
-      "SECUCODE": "002612.SZ",
-      "SECURITY_CODE": "002612",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "伍文彬",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2006598,
-      "FREE_HOLDNUM_RATIO": 0.788573487257,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002612.SZ",
       "SECURITY_CODE": "002612",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "北京合源融微股权投资中心(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -590,8 +564,8 @@
     {
       "SECUCODE": "002612.SZ",
       "SECURITY_CODE": "002612",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "深圳南山架桥卓越智能装备投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -599,26 +573,52 @@
       "FREE_HOLDNUM_RATIO": 0.56142550492,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002612.SZ",
+      "SECURITY_CODE": "002612",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "从沁",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1044510,
+      "FREE_HOLDNUM_RATIO": 0.410482265593,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002612.SZ",
+      "SECURITY_CODE": "002612",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "全国社保基金一一三组合",
+      "HOLDER_TYPE": "全国社保基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1000000,
+      "FREE_HOLDNUM_RATIO": 0.392990268732,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "002612.SZ",
       "SECURITY_CODE": "002612",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 86798167,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 82197959,
       "LIMITED_SHARES": 187986148,
-      "OTHER_UNLIMITED_SHARES": 167661060,
-      "HOLD_NUM_RATIO": 19.62,
+      "OTHER_UNLIMITED_SHARES": 172261268,
+      "HOLD_NUM_RATIO": 18.58,
       "LIMITED_SHARES_RATIO": 42.49,
-      "UNLIMITED_SHARES_RATIO": 37.89
+      "UNLIMITED_SHARES_RATIO": 38.93
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002612.SZ",
       "SECURITY_CODE": "002612",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "申东日",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "002612.SZ",
       "SECURITY_CODE": "002612",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "申今花",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "002612.SZ",
       "SECURITY_CODE": "002612",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "朗姿股份有限公司-第三期员工持股计划",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -654,19 +654,19 @@
     {
       "SECUCODE": "002612.SZ",
       "SECURITY_CODE": "002612",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8000471,
-      "HOLD_NUM_RATIO": 1.81,
-      "HOLD_NUM_CHANGE": "5581466",
-      "CHANGE_RATIO": 230.7339588
+      "HOLD_NUM": 5399751,
+      "HOLD_NUM_RATIO": 1.22,
+      "HOLD_NUM_CHANGE": "-2600720",
+      "CHANGE_RATIO": -32.50708615
     },
     {
       "SECUCODE": "002612.SZ",
       "SECURITY_CODE": "002612",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "上海烜鼎私募基金管理有限公司-烜鼎长红七号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
@@ -678,7 +678,7 @@
     {
       "SECUCODE": "002612.SZ",
       "SECURITY_CODE": "002612",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "上海烜鼎私募基金管理有限公司-烜鼎长红六号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
@@ -690,32 +690,8 @@
     {
       "SECUCODE": "002612.SZ",
       "SECURITY_CODE": "002612",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2037400,
-      "HOLD_NUM_RATIO": 0.46,
-      "HOLD_NUM_CHANGE": "16400",
-      "CHANGE_RATIO": 0.81147947
-    },
-    {
-      "SECUCODE": "002612.SZ",
-      "SECURITY_CODE": "002612",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "伍文彬",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2006598,
-      "HOLD_NUM_RATIO": 0.45,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002612.SZ",
-      "SECURITY_CODE": "002612",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "北京合源融微股权投资中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1594149,
@@ -726,13 +702,37 @@
     {
       "SECUCODE": "002612.SZ",
       "SECURITY_CODE": "002612",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "深圳南山架桥卓越智能装备投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1428599,
       "HOLD_NUM_RATIO": 0.32,
       "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002612.SZ",
+      "SECURITY_CODE": "002612",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "从沁",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1044510,
+      "HOLD_NUM_RATIO": 0.24,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002612.SZ",
+      "SECURITY_CODE": "002612",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "全国社保基金一一三组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1000000,
+      "HOLD_NUM_RATIO": 0.23,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "002612",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 237700,
-      "TOTAL_SHARES_RATIO": 0.09341379,
-      "ALL_SHARES_RATIO": 0.05372415
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 27929099,
+      "TOTAL_SHARES_RATIO": 8.26423126,
+      "ALL_SHARES_RATIO": 4.75292549
     },
     {
       "SECUCODE": "002612.SZ",
@@ -756,6 +756,26 @@
       "TOTAL_FREE_SHARES": 237700,
       "TOTAL_SHARES_RATIO": 0.09341379,
       "ALL_SHARES_RATIO": 0.05372415
+    },
+    {
+      "SECUCODE": "002612.SZ",
+      "SECURITY_CODE": "002612",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 1000000,
+      "TOTAL_SHARES_RATIO": 0.39299027,
+      "ALL_SHARES_RATIO": 0.2260166
+    },
+    {
+      "SECUCODE": "002612.SZ",
+      "SECURITY_CODE": "002612",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 26691399,
+      "TOTAL_SHARES_RATIO": 7.7778272,
+      "ALL_SHARES_RATIO": 4.47318474
     }
   ],
   "jjcg": [

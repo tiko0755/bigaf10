@@ -25,8 +25,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 104.3,
       "AVG_HOLD_AMT": 413950.55125604,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 35.77699141,
+      "FREEHOLD_RATIO_TOTAL": 28.36623798
     },
     {
       "SECUCODE": "300223.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300223.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300223.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300223.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300223.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300223.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300223.SZ",
       "END_DATE": "2026-03-18 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "300223.SZ",
       "END_DATE": "2021-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "300223.SZ",
-      "END_DATE": "2021-12-14 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -467,28 +467,6 @@
       "HOLD_CHANGE": "-2905496",
       "CHANGE_RATIO": -9.12018143,
       "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-27 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "上海武岳峰集成电路股权投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 33777791,
-      "HOLD_NUM_RATIO": 6.9999,
-      "HOLD_CHANGE": "-2534245",
-      "CHANGE_RATIO": -6.97907713,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-20 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "北京屹唐盛芯半导体产业投资中心(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 33777775,
-      "HOLD_NUM_RATIO": 6.999984,
-      "HOLD_CHANGE": "-1501441",
-      "CHANGE_RATIO": -4.25587972,
-      "CHANGE_REASON": "临时公告"
     }
   ],
   "jjcg_date": [
@@ -518,60 +496,47 @@
     {
       "SECUCODE": "300223.SZ",
       "SECURITY_CODE": "300223",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
-      "HOLDER_NAME": "上海武岳峰集成电路股权投资合伙企业(有限合伙)",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 32573848,
-      "FREE_HOLDNUM_RATIO": 7.745156024167,
-      "HOLD_NUM_CHANGE": "-3738188",
-      "CHANGE_RATIO": -10.29462518
-    },
-    {
-      "SECUCODE": "300223.SZ",
-      "SECURITY_CODE": "300223",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 2,
       "HOLDER_NAME": "北京屹唐盛芯半导体产业投资中心(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 31857875,
-      "FREE_HOLDNUM_RATIO": 7.574917537326,
-      "HOLD_NUM_CHANGE": "-3421341",
-      "CHANGE_RATIO": -9.69789408
+      "HOLD_NUM": 28952379,
+      "FREE_HOLDNUM_RATIO": 6.884071314688,
+      "HOLD_NUM_CHANGE": "-2905496",
+      "CHANGE_RATIO": -9.12018143
     },
     {
       "SECUCODE": "300223.SZ",
       "SECURITY_CODE": "300223",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "上海武岳峰集成电路股权投资合伙企业(有限合伙)",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 28810598,
+      "FREE_HOLDNUM_RATIO": 6.850359732124,
+      "HOLD_NUM_CHANGE": "-3763250",
+      "CHANGE_RATIO": -11.55297956
+    },
+    {
+      "SECUCODE": "300223.SZ",
+      "SECURITY_CODE": "300223",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "戴思元",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11523938,
-      "FREE_HOLDNUM_RATIO": 2.740072275858,
-      "HOLD_NUM_CHANGE": "-2754062",
-      "CHANGE_RATIO": -19.28884998
+      "HOLD_NUM": 12773196,
+      "FREE_HOLDNUM_RATIO": 3.037111118934,
+      "HOLD_NUM_CHANGE": "1249258",
+      "CHANGE_RATIO": 10.84054774
     },
     {
       "SECUCODE": "300223.SZ",
       "SECURITY_CODE": "300223",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10331965,
-      "FREE_HOLDNUM_RATIO": 2.456654214179,
-      "HOLD_NUM_CHANGE": "2242345",
-      "CHANGE_RATIO": 27.71879272
-    },
-    {
-      "SECUCODE": "300223.SZ",
-      "SECURITY_CODE": "300223",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "刘强",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -583,87 +548,100 @@
     {
       "SECUCODE": "300223.SZ",
       "SECURITY_CODE": "300223",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国工商银行股份有限公司-易方达创业板交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中信银行股份有限公司-永赢先锋半导体智选混合型发起式证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6563892,
-      "FREE_HOLDNUM_RATIO": 1.560711146739,
-      "HOLD_NUM_CHANGE": "-275800",
-      "CHANGE_RATIO": -4.03234532
+      "HOLD_NUM": 10000000,
+      "FREE_HOLDNUM_RATIO": 2.377722160479,
+      "HOLD_NUM_CHANGE": "3800000",
+      "CHANGE_RATIO": 61.29032258
     },
     {
       "SECUCODE": "300223.SZ",
       "SECURITY_CODE": "300223",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中信银行股份有限公司-永赢先锋半导体智选混合型发起式证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6200000,
-      "FREE_HOLDNUM_RATIO": 1.474187739497,
+      "HOLD_NUM": 9036658,
+      "FREE_HOLDNUM_RATIO": 2.148666198327,
+      "HOLD_NUM_CHANGE": "-1295307",
+      "CHANGE_RATIO": -12.53688916
+    },
+    {
+      "SECUCODE": "300223.SZ",
+      "SECURITY_CODE": "300223",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "北京四海君芯有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6018049,
+      "FREE_HOLDNUM_RATIO": 1.430924847015,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300223.SZ",
+      "SECURITY_CODE": "300223",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "全国社保基金一零一组合",
+      "HOLDER_TYPE": "全国社保基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4918478,
+      "FREE_HOLDNUM_RATIO": 1.169477413643,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300223.SZ",
       "SECURITY_CODE": "300223",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "北京四海君芯有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6018049,
-      "FREE_HOLDNUM_RATIO": 1.430924847015,
-      "HOLD_NUM_CHANGE": "-799960",
-      "CHANGE_RATIO": -11.73304406
-    },
-    {
-      "SECUCODE": "300223.SZ",
-      "SECURITY_CODE": "300223",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "李杰",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4968345,
-      "FREE_HOLDNUM_RATIO": 1.18133440074,
-      "HOLD_NUM_CHANGE": "49700",
-      "CHANGE_RATIO": 1.01044088
+      "HOLD_NUM": 4479446,
+      "FREE_HOLDNUM_RATIO": 1.065087802087,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300223.SZ",
       "SECURITY_CODE": "300223",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "中国建设银行股份有限公司-华夏国证半导体芯片交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4337427,
-      "FREE_HOLDNUM_RATIO": 1.031319629736,
-      "HOLD_NUM_CHANGE": "227100",
-      "CHANGE_RATIO": 5.52510786
+      "HOLD_NUM": 4192363,
+      "FREE_HOLDNUM_RATIO": 0.996827440987,
+      "HOLD_NUM_CHANGE": "-145064",
+      "CHANGE_RATIO": -3.34447127
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "300223.SZ",
       "SECURITY_CODE": "300223",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 124494225,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 119300053,
       "LIMITED_SHARES": 61970138,
-      "OTHER_UNLIMITED_SHARES": 296076360,
-      "HOLD_NUM_RATIO": 25.8,
+      "OTHER_UNLIMITED_SHARES": 301270532,
+      "HOLD_NUM_RATIO": 24.72,
       "LIMITED_SHARES_RATIO": 12.84,
-      "UNLIMITED_SHARES_RATIO": 61.36
+      "UNLIMITED_SHARES_RATIO": 62.43
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300223.SZ",
       "SECURITY_CODE": "300223",
-      "END_DATE": "2026-03-18 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "刘强",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -675,25 +653,109 @@
     {
       "SECUCODE": "300223.SZ",
       "SECURITY_CODE": "300223",
-      "END_DATE": "2026-03-18 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "上海武岳峰集成电路股权投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 28952398,
-      "HOLD_NUM_RATIO": 5.99999,
-      "HOLD_NUM_CHANGE": "-3621450",
-      "CHANGE_RATIO": -11.11766101
-    },
-    {
-      "SECUCODE": "300223.SZ",
-      "SECURITY_CODE": "300223",
-      "END_DATE": "2026-03-18 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "北京屹唐盛芯半导体产业投资中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 28952379,
       "HOLD_NUM_RATIO": 6,
       "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300223.SZ",
+      "SECURITY_CODE": "300223",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "上海武岳峰集成电路股权投资合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 28810598,
+      "HOLD_NUM_RATIO": 5.97,
+      "HOLD_NUM_CHANGE": "-141800",
+      "CHANGE_RATIO": -0.48976945
+    },
+    {
+      "SECUCODE": "300223.SZ",
+      "SECURITY_CODE": "300223",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "李杰",
+      "SHARES_TYPE": "流通A股,限售流通A股",
+      "HOLD_NUM": 17917785,
+      "HOLD_NUM_RATIO": 3.71,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300223.SZ",
+      "SECURITY_CODE": "300223",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "戴思元",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 12773196,
+      "HOLD_NUM_RATIO": 2.65,
+      "HOLD_NUM_CHANGE": "1249258",
+      "CHANGE_RATIO": 10.84054774
+    },
+    {
+      "SECUCODE": "300223.SZ",
+      "SECURITY_CODE": "300223",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中信银行股份有限公司-永赢先锋半导体智选混合型发起式证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 10000000,
+      "HOLD_NUM_RATIO": 2.07,
+      "HOLD_NUM_CHANGE": "3800000",
+      "CHANGE_RATIO": 61.29032258
+    },
+    {
+      "SECUCODE": "300223.SZ",
+      "SECURITY_CODE": "300223",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "冼永辉",
+      "SHARES_TYPE": "流通A股,限售流通A股",
+      "HOLD_NUM": 9928659,
+      "HOLD_NUM_RATIO": 2.06,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300223.SZ",
+      "SECURITY_CODE": "300223",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 9036658,
+      "HOLD_NUM_RATIO": 1.87,
+      "HOLD_NUM_CHANGE": "-1295307",
+      "CHANGE_RATIO": -12.53688916
+    },
+    {
+      "SECUCODE": "300223.SZ",
+      "SECURITY_CODE": "300223",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "张紧",
+      "SHARES_TYPE": "流通A股,限售流通A股",
+      "HOLD_NUM": 8725685,
+      "HOLD_NUM_RATIO": 1.81,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300223.SZ",
+      "SECURITY_CODE": "300223",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "北京四海君芯有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6018049,
+      "HOLD_NUM_RATIO": 1.25,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -703,20 +765,40 @@
       "SECURITY_CODE": "300223",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 65,
-      "TOTAL_FREE_SHARES": 40383158,
-      "TOTAL_SHARES_RATIO": 9.60199294,
-      "ALL_SHARES_RATIO": 8.36886009
+      "TOTAL_ORG_NUM": 71,
+      "TOTAL_FREE_SHARES": 122311683,
+      "TOTAL_SHARES_RATIO": 29.08231988,
+      "ALL_SHARES_RATIO": 25.34743228
     },
     {
       "SECUCODE": "300223.SZ",
       "SECURITY_CODE": "300223",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 65,
-      "TOTAL_FREE_SHARES": 40383158,
-      "TOTAL_SHARES_RATIO": 9.60199294,
-      "ALL_SHARES_RATIO": 8.36886009
+      "TOTAL_ORG_NUM": 66,
+      "TOTAL_FREE_SHARES": 44575521,
+      "TOTAL_SHARES_RATIO": 10.59882038,
+      "ALL_SHARES_RATIO": 9.23767029
+    },
+    {
+      "SECUCODE": "300223.SZ",
+      "SECURITY_CODE": "300223",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 4918478,
+      "TOTAL_SHARES_RATIO": 1.16947741,
+      "ALL_SHARES_RATIO": 1.01928765
+    },
+    {
+      "SECUCODE": "300223.SZ",
+      "SECURITY_CODE": "300223",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 72817684,
+      "TOTAL_SHARES_RATIO": 17.31402209,
+      "ALL_SHARES_RATIO": 15.09047434
     }
   ],
   "jjcg": [
@@ -736,6 +818,23 @@
       "FUND_CODE": "025208",
       "FUND_DERIVECODE": "025208.OF",
       "NETVALUE_RATIO": 5.8
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300223.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "159995",
+      "HOLDER_NAME": "华夏国证半导体芯片ETF",
+      "TOTAL_SHARES": 4192363,
+      "HOLD_VALUE": 437263460.9,
+      "TOTALSHARES_RATIO": 0.8688102,
+      "FREESHARES_RATIO": 0.99682744,
+      "FREE_MARKET_CAP": 437263460.9,
+      "FREE_SHARES": 4192363,
+      "SECURITY_CODE": "300223",
+      "FUND_CODE": "159995",
+      "FUND_DERIVECODE": "159995.SZ",
+      "NETVALUE_RATIO": 1.91
     },
     {
       "ORG_TYPE": "01",
@@ -1552,23 +1651,6 @@
       "FUND_CODE": "580009",
       "FUND_DERIVECODE": "580009.OF",
       "NETVALUE_RATIO": 5.57
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "300223.SZ",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "HOLDER_CODE": "588430",
-      "HOLDER_NAME": "工银瑞信中证科创创业人工智能ETF",
-      "TOTAL_SHARES": 51300,
-      "HOLD_VALUE": 5350590,
-      "TOTALSHARES_RATIO": 0.01063123,
-      "FREESHARES_RATIO": 0.01219771,
-      "FREE_MARKET_CAP": 5350590,
-      "FREE_SHARES": 51300,
-      "SECURITY_CODE": "300223",
-      "FUND_CODE": "588430",
-      "FUND_DERIVECODE": "588430.SH",
-      "NETVALUE_RATIO": 2.5
     }
   ]
 }

@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 16.89,
       "AVG_HOLD_AMT": 459173.622470638,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 55.63562346,
+      "FREEHOLD_RATIO_TOTAL": 55.63562346
     },
     {
       "SECUCODE": "603279.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603279.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603279.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603279.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603279.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603279.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603279.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603279.SH",
       "END_DATE": "2018-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "603279.SH",
-      "END_DATE": "2018-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "603279.SH",
       "SECURITY_CODE": "603279",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "景津投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "603279.SH",
       "SECURITY_CODE": "603279",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "姜桂廷",
       "HOLDER_TYPE": "个人",
@@ -499,21 +499,8 @@
     {
       "SECUCODE": "603279.SH",
       "SECURITY_CODE": "603279",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 32597470,
-      "FREE_HOLDNUM_RATIO": 5.655620579035,
-      "HOLD_NUM_CHANGE": "3179623",
-      "CHANGE_RATIO": 10.80848303
-    },
-    {
-      "SECUCODE": "603279.SH",
-      "SECURITY_CODE": "603279",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "宋桂花",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -525,8 +512,8 @@
     {
       "SECUCODE": "603279.SH",
       "SECURITY_CODE": "603279",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "天津力天融金投资有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -538,65 +525,78 @@
     {
       "SECUCODE": "603279.SH",
       "SECURITY_CODE": "603279",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "蔡敏",
-      "HOLDER_TYPE": "个人",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12974375,
-      "FREE_HOLDNUM_RATIO": 2.251037956323,
+      "HOLD_NUM": 21326597,
+      "FREE_HOLDNUM_RATIO": 3.700138105012,
+      "HOLD_NUM_CHANGE": "-11270873",
+      "CHANGE_RATIO": -34.57591341
+    },
+    {
+      "SECUCODE": "603279.SH",
+      "SECURITY_CODE": "603279",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "大成基金管理有限公司-社保基金1101组合",
+      "HOLDER_TYPE": "全国社保基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5742162,
+      "FREE_HOLDNUM_RATIO": 0.996257978774,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603279.SH",
       "SECURITY_CODE": "603279",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "大成基金管理有限公司-社保基金1101组合",
-      "HOLDER_TYPE": "全国社保基金",
+      "HOLDER_NAME": "南京双安资产管理有限公司-双安红山1号私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5742162,
-      "FREE_HOLDNUM_RATIO": 0.996257978774,
-      "HOLD_NUM_CHANGE": "-1792000",
-      "CHANGE_RATIO": -23.78499427
+      "HOLD_NUM": 3600300,
+      "FREE_HOLDNUM_RATIO": 0.624647580647,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603279.SH",
       "SECURITY_CODE": "603279",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "中国工商银行股份有限公司-景顺长城竞争优势混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3464520,
-      "FREE_HOLDNUM_RATIO": 0.601089919202,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3360620,
+      "FREE_HOLDNUM_RATIO": 0.583063398181,
+      "HOLD_NUM_CHANGE": "-103900",
+      "CHANGE_RATIO": -2.99897244
     },
     {
       "SECUCODE": "603279.SH",
       "SECURITY_CODE": "603279",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "上海宁泉资产管理有限公司-宁泉致远76号私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3457600,
-      "FREE_HOLDNUM_RATIO": 0.599889307792,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603279.SH",
-      "SECURITY_CODE": "603279",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "华泰证券股份有限公司-中庚价值领航混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3185276,
-      "FREE_HOLDNUM_RATIO": 0.552641431851,
+      "HOLD_NUM": 3144048,
+      "FREE_HOLDNUM_RATIO": 0.54548842503,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603279.SH",
+      "SECURITY_CODE": "603279",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国银行股份有限公司-华宝标普中国A股红利机会交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2760147,
+      "FREE_HOLDNUM_RATIO": 0.478882078099,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "603279.SH",
       "SECURITY_CODE": "603279",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 342156241,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 320668712,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 234216759,
-      "HOLD_NUM_RATIO": 59.36,
+      "OTHER_UNLIMITED_SHARES": 255704288,
+      "HOLD_NUM_RATIO": 55.64,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 40.64
+      "UNLIMITED_SHARES_RATIO": 44.36
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603279.SH",
       "SECURITY_CODE": "603279",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "景津投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "603279.SH",
       "SECURITY_CODE": "603279",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "姜桂廷",
       "SHARES_TYPE": "流通A股",
@@ -642,20 +642,8 @@
     {
       "SECUCODE": "603279.SH",
       "SECURITY_CODE": "603279",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 32597470,
-      "HOLD_NUM_RATIO": 5.66,
-      "HOLD_NUM_CHANGE": "3179623",
-      "CHANGE_RATIO": 10.80848303
-    },
-    {
-      "SECUCODE": "603279.SH",
-      "SECURITY_CODE": "603279",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "宋桂花",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 24163769,
@@ -666,8 +654,8 @@
     {
       "SECUCODE": "603279.SH",
       "SECURITY_CODE": "603279",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "天津力天融金投资有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 21714000,
@@ -678,60 +666,72 @@
     {
       "SECUCODE": "603279.SH",
       "SECURITY_CODE": "603279",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "蔡敏",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 12974375,
-      "HOLD_NUM_RATIO": 2.25,
+      "HOLD_NUM": 21326597,
+      "HOLD_NUM_RATIO": 3.7,
+      "HOLD_NUM_CHANGE": "-11270873",
+      "CHANGE_RATIO": -34.57591341
+    },
+    {
+      "SECUCODE": "603279.SH",
+      "SECURITY_CODE": "603279",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "大成基金管理有限公司-社保基金1101组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5742162,
+      "HOLD_NUM_RATIO": 1,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603279.SH",
       "SECURITY_CODE": "603279",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "大成基金管理有限公司-社保基金1101组合",
+      "HOLDER_NAME": "南京双安资产管理有限公司-双安红山1号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5742162,
-      "HOLD_NUM_RATIO": 1,
-      "HOLD_NUM_CHANGE": "-1792000",
-      "CHANGE_RATIO": -23.78499427
+      "HOLD_NUM": 3600300,
+      "HOLD_NUM_RATIO": 0.62,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603279.SH",
       "SECURITY_CODE": "603279",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "中国工商银行股份有限公司-景顺长城竞争优势混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3464520,
-      "HOLD_NUM_RATIO": 0.6,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3360620,
+      "HOLD_NUM_RATIO": 0.58,
+      "HOLD_NUM_CHANGE": "-103900",
+      "CHANGE_RATIO": -2.99897244
     },
     {
       "SECUCODE": "603279.SH",
       "SECURITY_CODE": "603279",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "上海宁泉资产管理有限公司-宁泉致远76号私募证券投资基金",
+      "HOLDER_NAME": "华泰证券股份有限公司-中庚价值领航混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3457600,
-      "HOLD_NUM_RATIO": 0.6,
+      "HOLD_NUM": 3144048,
+      "HOLD_NUM_RATIO": 0.55,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603279.SH",
       "SECURITY_CODE": "603279",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "中国银行股份有限公司-华宝标普中国A股红利机会交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3185276,
-      "HOLD_NUM_RATIO": 0.55,
+      "HOLD_NUM": 2760147,
+      "HOLD_NUM_RATIO": 0.48,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,23 +742,94 @@
       "SECURITY_CODE": "603279",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 23,
-      "TOTAL_FREE_SHARES": 10839415,
-      "TOTAL_SHARES_RATIO": 1.88062504,
-      "ALL_SHARES_RATIO": 1.88062504
+      "TOTAL_ORG_NUM": 30,
+      "TOTAL_FREE_SHARES": 249666278,
+      "TOTAL_SHARES_RATIO": 43.31678931,
+      "ALL_SHARES_RATIO": 43.31678931
     },
     {
       "SECUCODE": "603279.SH",
       "SECURITY_CODE": "603279",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 23,
-      "TOTAL_FREE_SHARES": 10839415,
-      "TOTAL_SHARES_RATIO": 1.88062504,
-      "ALL_SHARES_RATIO": 1.88062504
+      "TOTAL_ORG_NUM": 26,
+      "TOTAL_FREE_SHARES": 20104230,
+      "TOTAL_SHARES_RATIO": 3.48805895,
+      "ALL_SHARES_RATIO": 3.48805895
+    },
+    {
+      "SECUCODE": "603279.SH",
+      "SECURITY_CODE": "603279",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 5742162,
+      "TOTAL_SHARES_RATIO": 0.99625798,
+      "ALL_SHARES_RATIO": 0.99625798
+    },
+    {
+      "SECUCODE": "603279.SH",
+      "SECURITY_CODE": "603279",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 223819886,
+      "TOTAL_SHARES_RATIO": 38.83247238,
+      "ALL_SHARES_RATIO": 38.83247238
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603279.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "008131",
+      "HOLDER_NAME": "景顺长城竞争优势混合",
+      "TOTAL_SHARES": 3360620,
+      "HOLD_VALUE": 56760871.8,
+      "TOTALSHARES_RATIO": 0.5830634,
+      "FREESHARES_RATIO": 0.5830634,
+      "FREE_MARKET_CAP": 56760871.8,
+      "FREE_SHARES": 3360620,
+      "SECURITY_CODE": "603279",
+      "FUND_CODE": "008131",
+      "FUND_DERIVECODE": "008131.OF",
+      "NETVALUE_RATIO": 3.09
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603279.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "006551",
+      "HOLDER_NAME": "中庚价值领航混合",
+      "TOTAL_SHARES": 3144048,
+      "HOLD_VALUE": 53102970.72,
+      "TOTALSHARES_RATIO": 0.54548843,
+      "FREESHARES_RATIO": 0.54548843,
+      "FREE_MARKET_CAP": 53102970.72,
+      "FREE_SHARES": 3144048,
+      "SECURITY_CODE": "603279",
+      "FUND_CODE": "006551",
+      "FUND_DERIVECODE": "006551.OF",
+      "NETVALUE_RATIO": 1.06
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603279.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "562060",
+      "HOLDER_NAME": "华宝标普中国A股红利机会ETF",
+      "TOTAL_SHARES": 2760147,
+      "HOLD_VALUE": 46618882.83,
+      "TOTALSHARES_RATIO": 0.47888208,
+      "FREESHARES_RATIO": 0.47888208,
+      "FREE_MARKET_CAP": 46618882.83,
+      "FREE_SHARES": 2760147,
+      "SECURITY_CODE": "603279",
+      "FUND_CODE": "562060",
+      "FUND_DERIVECODE": "562060.SH",
+      "NETVALUE_RATIO": 1.05
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "603279.SH",

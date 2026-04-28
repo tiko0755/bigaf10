@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 9.23,
       "AVG_HOLD_AMT": 171503.897919484,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 64.2216079,
+      "FREEHOLD_RATIO_TOTAL": 63.12638192
     },
     {
       "SECUCODE": "600283.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600283.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600283.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600283.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600283.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600283.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600283.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600283.SH",
       "END_DATE": "2017-10-08 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "600283.SH",
-      "END_DATE": "2017-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -483,7 +483,7 @@
     {
       "SECUCODE": "600283.SH",
       "SECURITY_CODE": "600283",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国水务投资集团有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -496,7 +496,7 @@
     {
       "SECUCODE": "600283.SH",
       "SECURITY_CODE": "600283",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "浙江省新能源投资集团股份有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -509,7 +509,7 @@
     {
       "SECUCODE": "600283.SH",
       "SECURITY_CODE": "600283",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "钱江硅谷控股有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -522,7 +522,7 @@
     {
       "SECUCODE": "600283.SH",
       "SECURITY_CODE": "600283",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "浙江省水电实业有限公司",
       "HOLDER_TYPE": "其它",
@@ -535,79 +535,79 @@
     {
       "SECUCODE": "600283.SH",
       "SECURITY_CODE": "600283",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "封明",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8188691,
-      "FREE_HOLDNUM_RATIO": 1.504811603038,
-      "HOLD_NUM_CHANGE": "393671",
-      "CHANGE_RATIO": 5.05028852
+      "HOLD_NUM": 8000000,
+      "FREE_HOLDNUM_RATIO": 1.47013641427,
+      "HOLD_NUM_CHANGE": "-188691",
+      "CHANGE_RATIO": -2.30428771
     },
     {
       "SECUCODE": "600283.SH",
       "SECURITY_CODE": "600283",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "杜德全",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 6492820,
       "FREE_HOLDNUM_RATIO": 1.193166389163,
-      "HOLD_NUM_CHANGE": "-2658101",
-      "CHANGE_RATIO": -29.04736037
-    },
-    {
-      "SECUCODE": "600283.SH",
-      "SECURITY_CODE": "600283",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "深圳大铲岛集团有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2903460,
-      "FREE_HOLDNUM_RATIO": 0.533560284172,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600283.SH",
       "SECURITY_CODE": "600283",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2348854,
-      "FREE_HOLDNUM_RATIO": 0.431641974651,
-      "HOLD_NUM_CHANGE": "178816",
-      "CHANGE_RATIO": 8.24022436
+      "HOLD_NUM": 4752702,
+      "FREE_HOLDNUM_RATIO": 0.873390034547,
+      "HOLD_NUM_CHANGE": "2403848",
+      "CHANGE_RATIO": 102.34131198
     },
     {
       "SECUCODE": "600283.SH",
       "SECURITY_CODE": "600283",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "深圳大铲岛集团有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3422640,
+      "FREE_HOLDNUM_RATIO": 0.628968462117,
+      "HOLD_NUM_CHANGE": "519180",
+      "CHANGE_RATIO": 17.88142423
+    },
+    {
+      "SECUCODE": "600283.SH",
+      "SECURITY_CODE": "600283",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
+      "HOLDER_NAME": "郑建华",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2330000,
+      "FREE_HOLDNUM_RATIO": 0.428177230656,
+      "HOLD_NUM_CHANGE": "100000",
+      "CHANGE_RATIO": 4.48430493
+    },
+    {
+      "SECUCODE": "600283.SH",
+      "SECURITY_CODE": "600283",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "高建勇",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 2232527,
       "FREE_HOLDNUM_RATIO": 0.410264904818,
-      "HOLD_NUM_CHANGE": "32500",
-      "CHANGE_RATIO": 1.4772546
-    },
-    {
-      "SECUCODE": "600283.SH",
-      "SECURITY_CODE": "600283",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "郑建华",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2230000,
-      "FREE_HOLDNUM_RATIO": 0.409800525478,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -615,20 +615,20 @@
     {
       "SECUCODE": "600283.SH",
       "SECURITY_CODE": "600283",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 340678721,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 343513058,
       "LIMITED_SHARES": 16657709,
-      "OTHER_UNLIMITED_SHARES": 203488468,
-      "HOLD_NUM_RATIO": 60.75,
+      "OTHER_UNLIMITED_SHARES": 200654131,
+      "HOLD_NUM_RATIO": 61.25,
       "LIMITED_SHARES_RATIO": 2.97,
-      "UNLIMITED_SHARES_RATIO": 36.28
+      "UNLIMITED_SHARES_RATIO": 35.78
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600283.SH",
       "SECURITY_CODE": "600283",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国水务投资集团有限公司",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -640,7 +640,7 @@
     {
       "SECUCODE": "600283.SH",
       "SECURITY_CODE": "600283",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "浙江省新能源投资集团股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -652,7 +652,7 @@
     {
       "SECUCODE": "600283.SH",
       "SECURITY_CODE": "600283",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "钱江硅谷控股有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -664,7 +664,7 @@
     {
       "SECUCODE": "600283.SH",
       "SECURITY_CODE": "600283",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "浙江省水电实业有限公司",
       "SHARES_TYPE": "流通A股",
@@ -676,73 +676,73 @@
     {
       "SECUCODE": "600283.SH",
       "SECURITY_CODE": "600283",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "封明",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8188691,
-      "HOLD_NUM_RATIO": 1.46,
-      "HOLD_NUM_CHANGE": "393671",
-      "CHANGE_RATIO": 5.05028852
+      "HOLD_NUM": 8000000,
+      "HOLD_NUM_RATIO": 1.43,
+      "HOLD_NUM_CHANGE": "-188691",
+      "CHANGE_RATIO": -2.30428771
     },
     {
       "SECUCODE": "600283.SH",
       "SECURITY_CODE": "600283",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "杜德全",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 6492820,
       "HOLD_NUM_RATIO": 1.16,
-      "HOLD_NUM_CHANGE": "-2658101",
-      "CHANGE_RATIO": -29.04736037
-    },
-    {
-      "SECUCODE": "600283.SH",
-      "SECURITY_CODE": "600283",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "深圳大铲岛集团有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2903460,
-      "HOLD_NUM_RATIO": 0.52,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600283.SH",
       "SECURITY_CODE": "600283",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2348854,
-      "HOLD_NUM_RATIO": 0.42,
-      "HOLD_NUM_CHANGE": "178816",
-      "CHANGE_RATIO": 8.24022436
+      "HOLD_NUM": 4752702,
+      "HOLD_NUM_RATIO": 0.85,
+      "HOLD_NUM_CHANGE": "2403848",
+      "CHANGE_RATIO": 102.34131198
     },
     {
       "SECUCODE": "600283.SH",
       "SECURITY_CODE": "600283",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "深圳大铲岛集团有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3422640,
+      "HOLD_NUM_RATIO": 0.61,
+      "HOLD_NUM_CHANGE": "519180",
+      "CHANGE_RATIO": 17.88142423
+    },
+    {
+      "SECUCODE": "600283.SH",
+      "SECURITY_CODE": "600283",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
+      "HOLDER_NAME": "郑建华",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2330000,
+      "HOLD_NUM_RATIO": 0.42,
+      "HOLD_NUM_CHANGE": "100000",
+      "CHANGE_RATIO": 4.48430493
+    },
+    {
+      "SECUCODE": "600283.SH",
+      "SECURITY_CODE": "600283",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "高建勇",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2232527,
       "HOLD_NUM_RATIO": 0.4,
-      "HOLD_NUM_CHANGE": "32500",
-      "CHANGE_RATIO": 1.4772546
-    },
-    {
-      "SECUCODE": "600283.SH",
-      "SECURITY_CODE": "600283",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "郑建华",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2230000,
-      "HOLD_NUM_RATIO": 0.4,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -752,10 +752,10 @@
       "SECURITY_CODE": "600283",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 80,
-      "TOTAL_SHARES_RATIO": 0.0000147,
-      "ALL_SHARES_RATIO": 0.00001426
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 341115500,
+      "TOTAL_SHARES_RATIO": 59.62465167,
+      "ALL_SHARES_RATIO": 57.85367092
     },
     {
       "SECUCODE": "600283.SH",
@@ -766,6 +766,16 @@
       "TOTAL_FREE_SHARES": 80,
       "TOTAL_SHARES_RATIO": 0.0000147,
       "ALL_SHARES_RATIO": 0.00001426
+    },
+    {
+      "SECUCODE": "600283.SH",
+      "SECURITY_CODE": "600283",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 341115420,
+      "TOTAL_SHARES_RATIO": 59.62463697,
+      "ALL_SHARES_RATIO": 57.85365666
     }
   ],
   "jjcg": [

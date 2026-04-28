@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 4.7,
       "AVG_HOLD_AMT": 122456.493941566,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 29.13118862,
+      "FREEHOLD_RATIO_TOTAL": 28.66827091
     },
     {
       "SECUCODE": "300451.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300451.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300451.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300451.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300451.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300451.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300451.SZ",
       "END_DATE": "2026-02-11 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "300451.SZ",
       "END_DATE": "2020-02-05 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300451.SZ",
-      "END_DATE": "2019-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "300451.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "300451.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,47 +443,9 @@
     {
       "SECUCODE": "300451.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300451.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-12-08 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "飞利浦(中国)投资有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 0,
-      "HOLD_NUM_RATIO": null,
-      "HOLD_CHANGE": "-117698823",
-      "CHANGE_RATIO": -100,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-20 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "飞利浦(中国)投资有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 117698823,
-      "HOLD_NUM_RATIO": 7.6,
-      "HOLD_CHANGE": "-20950000",
-      "CHANGE_RATIO": -15.11011745,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-10 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "飞利浦(中国)投资有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 138648823,
-      "HOLD_NUM_RATIO": 8.95,
-      "HOLD_CHANGE": "-8829364",
-      "CHANGE_RATIO": -5.98689486,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "300451.SZ",
@@ -507,34 +473,47 @@
     {
       "SECUCODE": "300451.SZ",
       "SECURITY_CODE": "300451",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
-      "HOLDER_NAME": "葛航",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "飞利浦医疗器械(上海)有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 155780282,
-      "FREE_HOLDNUM_RATIO": 10.203767452329,
+      "HOLD_NUM": 117698823,
+      "FREE_HOLDNUM_RATIO": 7.709393023854,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300451.SZ",
       "SECURITY_CODE": "300451",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "飞利浦医疗器械(上海)有限公司",
+      "HOLDER_NAME": "杭州更好智投管理咨询合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 117698823,
-      "FREE_HOLDNUM_RATIO": 7.709393023854,
+      "HOLD_NUM": 96525096,
+      "FREE_HOLDNUM_RATIO": 6.32249229654,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300451.SZ",
       "SECURITY_CODE": "300451",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "葛航",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 59255186,
+      "FREE_HOLDNUM_RATIO": 3.88127515579,
+      "HOLD_NUM_CHANGE": "-96525096",
+      "CHANGE_RATIO": -61.96233231
+    },
+    {
+      "SECUCODE": "300451.SZ",
+      "SECURITY_CODE": "300451",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "锦福源(海南)私募基金管理合伙企业(有限合伙)-锦福源长弓五号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
@@ -546,8 +525,8 @@
     {
       "SECUCODE": "300451.SZ",
       "SECURITY_CODE": "300451",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "浙江鑫粟科技有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -559,21 +538,34 @@
     {
       "SECUCODE": "300451.SZ",
       "SECURITY_CODE": "300451",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "张跃军",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 25000000,
-      "FREE_HOLDNUM_RATIO": 1.637525513712,
-      "HOLD_NUM_CHANGE": "500000",
-      "CHANGE_RATIO": 2.04081633
+      "HOLD_NUM": 28552700,
+      "FREE_HOLDNUM_RATIO": 1.870230989414,
+      "HOLD_NUM_CHANGE": "3552700",
+      "CHANGE_RATIO": 14.2108
     },
     {
       "SECUCODE": "300451.SZ",
       "SECURITY_CODE": "300451",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "上海滦海啸阳私募基金管理有限公司-滦海啸阳月异34号私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 23433800,
+      "FREE_HOLDNUM_RATIO": 1.534937815329,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300451.SZ",
+      "SECURITY_CODE": "300451",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "浙江省兴合集团有限责任公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -585,74 +577,48 @@
     {
       "SECUCODE": "300451.SZ",
       "SECURITY_CODE": "300451",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12365897,
-      "FREE_HOLDNUM_RATIO": 0.809978873497,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300451.SZ",
-      "SECURITY_CODE": "300451",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11371425,
-      "FREE_HOLDNUM_RATIO": 0.74483994259,
-      "HOLD_NUM_CHANGE": "23200",
-      "CHANGE_RATIO": 0.20443726
-    },
-    {
-      "SECUCODE": "300451.SZ",
-      "SECURITY_CODE": "300451",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "周仁清",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11029600,
-      "FREE_HOLDNUM_RATIO": 0.722450056241,
-      "HOLD_NUM_CHANGE": "-238400",
-      "CHANGE_RATIO": -2.11572595
+      "HOLD_NUM": 9650200,
+      "FREE_HOLDNUM_RATIO": 0.632097948497,
+      "HOLD_NUM_CHANGE": "-1379400",
+      "CHANGE_RATIO": -12.50634656
     },
     {
       "SECUCODE": "300451.SZ",
       "SECURITY_CODE": "300451",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "招商银行股份有限公司-华夏中证1000交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7183510,
-      "FREE_HOLDNUM_RATIO": 0.47052723612,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 9571808,
+      "FREE_HOLDNUM_RATIO": 0.626963192494,
+      "HOLD_NUM_CHANGE": "-2794089",
+      "CHANGE_RATIO": -22.59511785
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "300451.SZ",
       "SECURITY_CODE": "300451",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 433418630,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 437676706,
       "LIMITED_SHARES": 22430922,
-      "OTHER_UNLIMITED_SHARES": 1093275140,
-      "HOLD_NUM_RATIO": 27.98,
+      "OTHER_UNLIMITED_SHARES": 1089017064,
+      "HOLD_NUM_RATIO": 28.25,
       "LIMITED_SHARES_RATIO": 1.45,
-      "UNLIMITED_SHARES_RATIO": 70.57
+      "UNLIMITED_SHARES_RATIO": 70.3
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300451.SZ",
       "SECURITY_CODE": "300451",
-      "END_DATE": "2026-02-11 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "飞利浦医疗器械(上海)有限公司",
       "SHARES_TYPE": "流通A股",
@@ -664,46 +630,132 @@
     {
       "SECUCODE": "300451.SZ",
       "SECURITY_CODE": "300451",
-      "END_DATE": "2026-02-11 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "杭州更好智投管理咨询合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 96525096,
       "HOLD_NUM_RATIO": 6.23,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300451.SZ",
+      "SECURITY_CODE": "300451",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "葛航",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 59255186,
+      "HOLD_NUM_RATIO": 3.83,
+      "HOLD_NUM_CHANGE": "-96525096",
+      "CHANGE_RATIO": -61.96233231
+    },
+    {
+      "SECUCODE": "300451.SZ",
+      "SECURITY_CODE": "300451",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "锦福源(海南)私募基金管理合伙企业(有限合伙)-锦福源长弓五号私募证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 40000000,
+      "HOLD_NUM_RATIO": 2.58,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300451.SZ",
+      "SECURITY_CODE": "300451",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "浙江鑫粟科技有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 38743590,
+      "HOLD_NUM_RATIO": 2.5,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300451.SZ",
+      "SECURITY_CODE": "300451",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "张跃军",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 28552700,
+      "HOLD_NUM_RATIO": 1.84,
+      "HOLD_NUM_CHANGE": "3552700",
+      "CHANGE_RATIO": 14.2108
+    },
+    {
+      "SECUCODE": "300451.SZ",
+      "SECURITY_CODE": "300451",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "上海滦海啸阳私募基金管理有限公司-滦海啸阳月异34号私募证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 23433800,
+      "HOLD_NUM_RATIO": 1.51,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300451.SZ",
+      "SECURITY_CODE": "300451",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "张吕峥",
+      "SHARES_TYPE": "流通A股,限售流通A股",
+      "HOLD_NUM": 23173538,
+      "HOLD_NUM_RATIO": 1.5,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300451.SZ",
+      "SECURITY_CODE": "300451",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "浙江省兴合集团有限责任公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 14245503,
+      "HOLD_NUM_RATIO": 0.92,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300451.SZ",
+      "SECURITY_CODE": "300451",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "周仁清",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 9650200,
+      "HOLD_NUM_RATIO": 0.62,
+      "HOLD_NUM_CHANGE": "-1379400",
+      "CHANGE_RATIO": -12.50634656
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "300451.SZ",
       "SECURITY_CODE": "300451",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 82,
-      "TOTAL_FREE_SHARES": 276577052,
-      "TOTAL_SHARES_RATIO": 18.11607912,
-      "ALL_SHARES_RATIO": 17.85376305
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 340218620,
+      "TOTAL_SHARES_RATIO": 22.28466681,
+      "ALL_SHARES_RATIO": 21.96199065
     },
     {
       "SECUCODE": "300451.SZ",
       "SECURITY_CODE": "300451",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 77,
-      "TOTAL_FREE_SHARES": 53523239,
-      "TOTAL_SHARES_RATIO": 3.50582675,
-      "ALL_SHARES_RATIO": 3.45506332
-    },
-    {
-      "SECUCODE": "300451.SZ",
-      "SECURITY_CODE": "300451",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 223053813,
-      "TOTAL_SHARES_RATIO": 14.61025237,
-      "ALL_SHARES_RATIO": 14.39869973
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 340218620,
+      "TOTAL_SHARES_RATIO": 22.28466681,
+      "ALL_SHARES_RATIO": 21.96199065
     }
   ],
   "jjcg": [

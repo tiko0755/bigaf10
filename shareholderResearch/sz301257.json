@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 55.46,
       "AVG_HOLD_AMT": 459334.362562129,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 55.05923123,
+      "FREEHOLD_RATIO_TOTAL": 52.90133318
     },
     {
       "SECUCODE": "301257.SZ",
@@ -53,8 +53,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 52.04,
       "AVG_HOLD_AMT": 579907.682254771,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 55.02459915,
+      "FREEHOLD_RATIO_TOTAL": 52.86500632
     },
     {
       "SECUCODE": "301257.SZ",
@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "301257.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "301257.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "301257.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "301257.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301257.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301257.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "301257.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "301257.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "301257.SZ",
       "END_DATE": "2025-12-17 00:00:00",
@@ -403,16 +413,6 @@
       "SECUCODE": "301257.SZ",
       "END_DATE": "2020-09-30 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "301257.SZ",
-      "END_DATE": "2018-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "301257.SZ",
-      "END_DATE": "2018-11-23 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -445,30 +445,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-12-17 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "石河子市睿新股权投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6324460,
-      "HOLD_NUM_RATIO": 8.0052,
-      "HOLD_CHANGE": "-73100",
-      "CHANGE_RATIO": -1.14262313,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-16 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "上海观由投资发展有限公司-观由昭泰(嘉兴)创业投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4763040,
-      "HOLD_NUM_RATIO": 6.03,
-      "HOLD_CHANGE": "-711000",
-      "CHANGE_RATIO": -12.98857882,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "301257.SZ",
@@ -496,7 +473,7 @@
     {
       "SECUCODE": "301257.SZ",
       "SECURITY_CODE": "301257",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "石河子市玺泰股权投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -509,20 +486,20 @@
     {
       "SECUCODE": "301257.SZ",
       "SECURITY_CODE": "301257",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "石河子市睿新股权投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6397560,
-      "FREE_HOLDNUM_RATIO": 8.49396265153,
+      "HOLD_NUM": 6324460,
+      "FREE_HOLDNUM_RATIO": 8.396908670039,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301257.SZ",
       "SECURITY_CODE": "301257",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "石河子市睿泽盛股权投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -535,34 +512,60 @@
     {
       "SECUCODE": "301257.SZ",
       "SECURITY_CODE": "301257",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "上海观由投资发展有限公司-观由昭泰(嘉兴)创业投资合伙企业(有限合伙)",
-      "HOLDER_TYPE": "私募基金",
+      "HOLDER_NAME": "中国工商银行股份有限公司-诺安先锋混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5474040,
-      "FREE_HOLDNUM_RATIO": 7.267816372646,
+      "HOLD_NUM": 3419930,
+      "FREE_HOLDNUM_RATIO": 4.540599492752,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301257.SZ",
       "SECURITY_CODE": "301257",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国工商银行股份有限公司-诺安先锋混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "上海观由投资发展有限公司-观由昭泰(嘉兴)创业投资合伙企业(有限合伙)",
+      "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3291930,
-      "FREE_HOLDNUM_RATIO": 4.370655448554,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM": 3104090,
+      "FREE_HOLDNUM_RATIO": 4.121262563694,
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301257.SZ",
       "SECURITY_CODE": "301257",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "华润深国投信托有限公司-华润信托·慎知资产行知集合资金信托计划",
+      "HOLDER_TYPE": "信托计划",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1485400,
+      "FREE_HOLDNUM_RATIO": 1.972147525398,
+      "HOLD_NUM_CHANGE": "638",
+      "CHANGE_RATIO": 0.04296985
+    },
+    {
+      "SECUCODE": "301257.SZ",
+      "SECURITY_CODE": "301257",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "全国社保基金四一三组合",
+      "HOLDER_TYPE": "全国社保基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1421200,
+      "FREE_HOLDNUM_RATIO": 1.88690996573,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301257.SZ",
+      "SECURITY_CODE": "301257",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "赖春宝",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -574,52 +577,26 @@
     {
       "SECUCODE": "301257.SZ",
       "SECURITY_CODE": "301257",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "李未科",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1047000,
-      "FREE_HOLDNUM_RATIO": 1.390089174021,
-      "HOLD_NUM_CHANGE": "-148020",
-      "CHANGE_RATIO": -12.38640357
-    },
-    {
-      "SECUCODE": "301257.SZ",
-      "SECURITY_CODE": "301257",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "招商证券股份有限公司-天弘医疗健康混合型证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国银行股份有限公司-工银瑞信医疗保健行业股票型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 961025,
-      "FREE_HOLDNUM_RATIO": 1.275941211522,
-      "HOLD_NUM_CHANGE": "-467720",
-      "CHANGE_RATIO": -32.73642252
+      "HOLD_NUM": 1156614,
+      "FREE_HOLDNUM_RATIO": 1.535622349495,
+      "HOLD_NUM_CHANGE": "-69200",
+      "CHANGE_RATIO": -5.6452284
     },
     {
       "SECUCODE": "301257.SZ",
       "SECURITY_CODE": "301257",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "张晶",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 916826,
-      "FREE_HOLDNUM_RATIO": 1.217258736448,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301257.SZ",
-      "SECURITY_CODE": "301257",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "华润深国投信托有限公司-华润信托·慎知资产行知集合资金信托计划",
-      "HOLDER_TYPE": "信托计划",
+      "HOLDER_NAME": "中国银行股份有限公司-易方达医疗保健行业混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 904662,
-      "FREE_HOLDNUM_RATIO": 1.201108741498,
+      "HOLD_NUM": 1091302,
+      "FREE_HOLDNUM_RATIO": 1.448908400944,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -628,20 +605,20 @@
     {
       "SECUCODE": "301257.SZ",
       "SECURITY_CODE": "301257",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 40834754,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 39844707,
       "LIMITED_SHARES": 3685861,
-      "OTHER_UNLIMITED_SHARES": 34484155,
-      "HOLD_NUM_RATIO": 51.69,
+      "OTHER_UNLIMITED_SHARES": 35474202,
+      "HOLD_NUM_RATIO": 50.43,
       "LIMITED_SHARES_RATIO": 4.67,
-      "UNLIMITED_SHARES_RATIO": 43.65
+      "UNLIMITED_SHARES_RATIO": 44.9
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "301257.SZ",
       "SECURITY_CODE": "301257",
-      "END_DATE": "2025-12-17 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "石河子市玺泰股权投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -653,19 +630,19 @@
     {
       "SECUCODE": "301257.SZ",
       "SECURITY_CODE": "301257",
-      "END_DATE": "2025-12-17 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "石河子市睿新股权投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 6324460,
-      "HOLD_NUM_RATIO": 8.0052,
-      "HOLD_NUM_CHANGE": "-73100",
-      "CHANGE_RATIO": -1.14262313
+      "HOLD_NUM_RATIO": 8.01,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301257.SZ",
       "SECURITY_CODE": "301257",
-      "END_DATE": "2025-12-17 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "石河子市睿泽盛股权投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -677,13 +654,85 @@
     {
       "SECUCODE": "301257.SZ",
       "SECURITY_CODE": "301257",
-      "END_DATE": "2025-12-17 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "赖春宝",
       "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 4872950,
       "HOLD_NUM_RATIO": 6.17,
       "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301257.SZ",
+      "SECURITY_CODE": "301257",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中国工商银行股份有限公司-诺安先锋混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3419930,
+      "HOLD_NUM_RATIO": 4.33,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301257.SZ",
+      "SECURITY_CODE": "301257",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "上海观由投资发展有限公司-观由昭泰(嘉兴)创业投资合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3104090,
+      "HOLD_NUM_RATIO": 3.93,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301257.SZ",
+      "SECURITY_CODE": "301257",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "华润深国投信托有限公司-华润信托·慎知资产行知集合资金信托计划",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1485400,
+      "HOLD_NUM_RATIO": 1.88,
+      "HOLD_NUM_CHANGE": "638",
+      "CHANGE_RATIO": 0.04296985
+    },
+    {
+      "SECUCODE": "301257.SZ",
+      "SECURITY_CODE": "301257",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "全国社保基金四一三组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1421200,
+      "HOLD_NUM_RATIO": 1.8,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301257.SZ",
+      "SECURITY_CODE": "301257",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国银行股份有限公司-工银瑞信医疗保健行业股票型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1156614,
+      "HOLD_NUM_RATIO": 1.46,
+      "HOLD_NUM_CHANGE": "-69200",
+      "CHANGE_RATIO": -5.6452284
+    },
+    {
+      "SECUCODE": "301257.SZ",
+      "SECURITY_CODE": "301257",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国银行股份有限公司-易方达医疗保健行业混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1091302,
+      "HOLD_NUM_RATIO": 1.38,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -693,20 +742,50 @@
       "SECURITY_CODE": "301257",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 17,
-      "TOTAL_FREE_SHARES": 7514655,
-      "TOTAL_SHARES_RATIO": 9.97711607,
-      "ALL_SHARES_RATIO": 9.5116472
+      "TOTAL_ORG_NUM": 25,
+      "TOTAL_FREE_SHARES": 42721194,
+      "TOTAL_SHARES_RATIO": 56.72040997,
+      "ALL_SHARES_RATIO": 54.07419576
     },
     {
       "SECUCODE": "301257.SZ",
       "SECURITY_CODE": "301257",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 17,
-      "TOTAL_FREE_SHARES": 7514655,
-      "TOTAL_SHARES_RATIO": 9.97711607,
-      "ALL_SHARES_RATIO": 9.5116472
+      "TOTAL_ORG_NUM": 19,
+      "TOTAL_FREE_SHARES": 9762571,
+      "TOTAL_SHARES_RATIO": 12.96164682,
+      "ALL_SHARES_RATIO": 12.35693869
+    },
+    {
+      "SECUCODE": "301257.SZ",
+      "SECURITY_CODE": "301257",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 1421200,
+      "TOTAL_SHARES_RATIO": 1.88690997,
+      "ALL_SHARES_RATIO": 1.79887873
+    },
+    {
+      "SECUCODE": "301257.SZ",
+      "SECURITY_CODE": "301257",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "06",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 1485400,
+      "TOTAL_SHARES_RATIO": 1.97214753,
+      "ALL_SHARES_RATIO": 1.88013964
+    },
+    {
+      "SECUCODE": "301257.SZ",
+      "SECURITY_CODE": "301257",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 30052023,
+      "TOTAL_SHARES_RATIO": 39.89970565,
+      "ALL_SHARES_RATIO": 38.0382387
     }
   ],
   "jjcg": [
@@ -726,6 +805,40 @@
       "FUND_CODE": "320003",
       "FUND_DERIVECODE": "320003.OF",
       "NETVALUE_RATIO": 3.97
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "301257.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "000831",
+      "HOLDER_NAME": "工银医疗保健股票",
+      "TOTAL_SHARES": 1156614,
+      "HOLD_VALUE": 64145812.44,
+      "TOTALSHARES_RATIO": 1.46397996,
+      "FREESHARES_RATIO": 1.53562235,
+      "FREE_MARKET_CAP": 64145812.44,
+      "FREE_SHARES": 1156614,
+      "SECURITY_CODE": "301257",
+      "FUND_CODE": "000831",
+      "FUND_DERIVECODE": "000831.OF",
+      "NETVALUE_RATIO": 2.86
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "301257.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "110023",
+      "HOLDER_NAME": "易方达医疗保健行业混合A",
+      "TOTAL_SHARES": 1091302,
+      "HOLD_VALUE": 60523608.92,
+      "TOTALSHARES_RATIO": 1.38131153,
+      "FREESHARES_RATIO": 1.4489084,
+      "FREE_MARKET_CAP": 60523608.92,
+      "FREE_SHARES": 1091302,
+      "SECURITY_CODE": "301257",
+      "FUND_CODE": "110023",
+      "FUND_DERIVECODE": "110023.OF",
+      "NETVALUE_RATIO": 1.86
     },
     {
       "ORG_TYPE": "01",

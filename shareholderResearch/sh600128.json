@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 10.83,
       "AVG_HOLD_AMT": 129789.326647564,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 35.64906811,
+      "FREEHOLD_RATIO_TOTAL": 36.36144995
     },
     {
       "SECUCODE": "600128.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600128.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600128.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600128.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600128.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600128.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600128.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600128.SH",
       "END_DATE": "2014-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600128.SH",
-      "END_DATE": "2014-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "600128.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "600128.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "600128.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600128.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -501,7 +501,7 @@
     {
       "SECUCODE": "600128.SH",
       "SECURITY_CODE": "600128",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "江苏省苏豪控股集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -514,7 +514,7 @@
     {
       "SECUCODE": "600128.SH",
       "SECURITY_CODE": "600128",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "苏豪文化集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -527,33 +527,33 @@
     {
       "SECUCODE": "600128.SH",
       "SECURITY_CODE": "600128",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "周宇光",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8681841,
-      "FREE_HOLDNUM_RATIO": 3.518227076094,
-      "HOLD_NUM_CHANGE": "-3040900",
-      "CHANGE_RATIO": -25.94017901
+      "HOLD_NUM": 6790941,
+      "FREE_HOLDNUM_RATIO": 2.751959232881,
+      "HOLD_NUM_CHANGE": "-1890900",
+      "CHANGE_RATIO": -21.77994276
     },
     {
       "SECUCODE": "600128.SH",
       "SECURITY_CODE": "600128",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "北京进化私募基金管理有限公司-北京进化和赢2号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3652500,
-      "FREE_HOLDNUM_RATIO": 1.480138186755,
-      "HOLD_NUM_CHANGE": "70000",
-      "CHANGE_RATIO": 1.95394278
+      "HOLD_NUM": 3562500,
+      "FREE_HOLDNUM_RATIO": 1.443666609258,
+      "HOLD_NUM_CHANGE": "-90000",
+      "CHANGE_RATIO": -2.46406571
     },
     {
       "SECUCODE": "600128.SH",
       "SECURITY_CODE": "600128",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国烟草总公司江苏省公司(江苏省烟草公司)",
       "HOLDER_TYPE": "其它",
@@ -566,47 +566,60 @@
     {
       "SECUCODE": "600128.SH",
       "SECURITY_CODE": "600128",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "北京进化私募基金管理有限公司-进化多策略启源1号私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2218900,
-      "FREE_HOLDNUM_RATIO": 0.899186481202,
-      "HOLD_NUM_CHANGE": "400000",
-      "CHANGE_RATIO": 21.99131343
-    },
-    {
-      "SECUCODE": "600128.SH",
-      "SECURITY_CODE": "600128",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "高盛国际-自有资金",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1690156,
-      "FREE_HOLDNUM_RATIO": 0.684918394845,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2856458,
+      "FREE_HOLDNUM_RATIO": 1.157550325711,
+      "HOLD_NUM_CHANGE": "1166302",
+      "CHANGE_RATIO": 69.00558292
     },
     {
       "SECUCODE": "600128.SH",
       "SECURITY_CODE": "600128",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "北京进化私募基金管理有限公司-进化多策略启源1号私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2808900,
+      "FREE_HOLDNUM_RATIO": 1.138277933683,
+      "HOLD_NUM_CHANGE": "590000",
+      "CHANGE_RATIO": 26.58975168
+    },
+    {
+      "SECUCODE": "600128.SH",
+      "SECURITY_CODE": "600128",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "李春云",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1650600,
-      "FREE_HOLDNUM_RATIO": 0.668888731296,
+      "HOLD_NUM": 2239500,
+      "FREE_HOLDNUM_RATIO": 0.907534420051,
+      "HOLD_NUM_CHANGE": "588900",
+      "CHANGE_RATIO": 35.6779353
+    },
+    {
+      "SECUCODE": "600128.SH",
+      "SECURITY_CODE": "600128",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "UBS AG",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1515260,
+      "FREE_HOLDNUM_RATIO": 0.614043583535,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600128.SH",
       "SECURITY_CODE": "600128",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "杨燕芳",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -614,39 +627,26 @@
       "FREE_HOLDNUM_RATIO": 0.601335264976,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600128.SH",
-      "SECURITY_CODE": "600128",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "徐新春",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1400000,
-      "FREE_HOLDNUM_RATIO": 0.567335649954,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600128.SH",
       "SECURITY_CODE": "600128",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 89248679,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 89728241,
       "LIMITED_SHARES": 4931200,
-      "OTHER_UNLIMITED_SHARES": 157518821,
-      "HOLD_NUM_RATIO": 35.46,
+      "OTHER_UNLIMITED_SHARES": 157039259,
+      "HOLD_NUM_RATIO": 35.65,
       "LIMITED_SHARES_RATIO": 1.96,
-      "UNLIMITED_SHARES_RATIO": 62.58
+      "UNLIMITED_SHARES_RATIO": 62.39
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600128.SH",
       "SECURITY_CODE": "600128",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "江苏省苏豪控股集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -658,7 +658,7 @@
     {
       "SECUCODE": "600128.SH",
       "SECURITY_CODE": "600128",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "苏豪文化集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -670,31 +670,31 @@
     {
       "SECUCODE": "600128.SH",
       "SECURITY_CODE": "600128",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "周宇光",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8681841,
-      "HOLD_NUM_RATIO": 3.45,
-      "HOLD_NUM_CHANGE": "-3040900",
-      "CHANGE_RATIO": -25.94017901
+      "HOLD_NUM": 6790941,
+      "HOLD_NUM_RATIO": 2.7,
+      "HOLD_NUM_CHANGE": "-1890900",
+      "CHANGE_RATIO": -21.77994276
     },
     {
       "SECUCODE": "600128.SH",
       "SECURITY_CODE": "600128",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "北京进化私募基金管理有限公司-北京进化和赢2号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3652500,
-      "HOLD_NUM_RATIO": 1.45,
-      "HOLD_NUM_CHANGE": "70000",
-      "CHANGE_RATIO": 1.95394278
+      "HOLD_NUM": 3562500,
+      "HOLD_NUM_RATIO": 1.42,
+      "HOLD_NUM_CHANGE": "-90000",
+      "CHANGE_RATIO": -2.46406571
     },
     {
       "SECUCODE": "600128.SH",
       "SECURITY_CODE": "600128",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国烟草总公司江苏省公司(江苏省烟草公司)",
       "SHARES_TYPE": "流通A股",
@@ -706,61 +706,61 @@
     {
       "SECUCODE": "600128.SH",
       "SECURITY_CODE": "600128",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "北京进化私募基金管理有限公司-进化多策略启源1号私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2218900,
-      "HOLD_NUM_RATIO": 0.88,
-      "HOLD_NUM_CHANGE": "400000",
-      "CHANGE_RATIO": 21.99131343
-    },
-    {
-      "SECUCODE": "600128.SH",
-      "SECURITY_CODE": "600128",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "高盛国际-自有资金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1690156,
-      "HOLD_NUM_RATIO": 0.67,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2856458,
+      "HOLD_NUM_RATIO": 1.13,
+      "HOLD_NUM_CHANGE": "1166302",
+      "CHANGE_RATIO": 69.00558292
     },
     {
       "SECUCODE": "600128.SH",
       "SECURITY_CODE": "600128",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "北京进化私募基金管理有限公司-进化多策略启源1号私募证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2808900,
+      "HOLD_NUM_RATIO": 1.12,
+      "HOLD_NUM_CHANGE": "590000",
+      "CHANGE_RATIO": 26.58975168
+    },
+    {
+      "SECUCODE": "600128.SH",
+      "SECURITY_CODE": "600128",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "李春云",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1650600,
-      "HOLD_NUM_RATIO": 0.66,
+      "HOLD_NUM": 2239500,
+      "HOLD_NUM_RATIO": 0.89,
+      "HOLD_NUM_CHANGE": "588900",
+      "CHANGE_RATIO": 35.6779353
+    },
+    {
+      "SECUCODE": "600128.SH",
+      "SECURITY_CODE": "600128",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "UBS AG",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1515260,
+      "HOLD_NUM_RATIO": 0.6,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600128.SH",
       "SECURITY_CODE": "600128",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "杨燕芳",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1483900,
       "HOLD_NUM_RATIO": 0.59,
       "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600128.SH",
-      "SECURITY_CODE": "600128",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "徐新春",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1400000,
-      "HOLD_NUM_RATIO": 0.56,
-      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -768,42 +768,32 @@
     {
       "SECUCODE": "600128.SH",
       "SECURITY_CODE": "600128",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 84,
-      "TOTAL_FREE_SHARES": 81389840,
-      "TOTAL_SHARES_RATIO": 32.98239837,
-      "ALL_SHARES_RATIO": 32.33621783
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 79213900,
+      "TOTAL_SHARES_RATIO": 32.10062103,
+      "ALL_SHARES_RATIO": 31.47171598
     },
     {
       "SECUCODE": "600128.SH",
       "SECURITY_CODE": "600128",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 78,
-      "TOTAL_FREE_SHARES": 5357502,
-      "TOTAL_SHARES_RATIO": 2.17107273,
-      "ALL_SHARES_RATIO": 2.12853778
-    },
-    {
-      "SECUCODE": "600128.SH",
-      "SECURITY_CODE": "600128",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "02",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 1690156,
-      "TOTAL_SHARES_RATIO": 0.68491839,
-      "ALL_SHARES_RATIO": 0.67149969
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 4371718,
+      "TOTAL_SHARES_RATIO": 1.77159391,
+      "ALL_SHARES_RATIO": 1.73688541
     },
     {
       "SECUCODE": "600128.SH",
       "SECURITY_CODE": "600128",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 74342182,
-      "TOTAL_SHARES_RATIO": 30.12640725,
-      "ALL_SHARES_RATIO": 29.53618036
+      "TOTAL_FREE_SHARES": 74842182,
+      "TOTAL_SHARES_RATIO": 30.32902712,
+      "ALL_SHARES_RATIO": 29.73483057
     }
   ],
   "jjcg": [

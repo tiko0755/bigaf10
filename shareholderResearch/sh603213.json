@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 13.66,
       "AVG_HOLD_AMT": 348918.821551176,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 79.07401539,
+      "FREEHOLD_RATIO_TOTAL": 79.07401539
     },
     {
       "SECUCODE": "603213.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603213.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603213.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603213.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603213.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603213.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603213.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -301,6 +306,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "603213.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603213.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -314,10 +323,6 @@
     {
       "SECUCODE": "603213.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603213.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -348,7 +353,7 @@
     {
       "SECUCODE": "603213.SH",
       "SECURITY_CODE": "603213",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "浙江省交通投资集团有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -361,7 +366,7 @@
     {
       "SECUCODE": "603213.SH",
       "SECURITY_CODE": "603213",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "宁波市镇海区海江投资发展有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -374,7 +379,7 @@
     {
       "SECUCODE": "603213.SH",
       "SECURITY_CODE": "603213",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "宁波汇海企业管理合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
@@ -387,7 +392,7 @@
     {
       "SECUCODE": "603213.SH",
       "SECURITY_CODE": "603213",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "宁波海江企业管理合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
@@ -400,7 +405,7 @@
     {
       "SECUCODE": "603213.SH",
       "SECURITY_CODE": "603213",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "杭州德联科技股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -413,34 +418,47 @@
     {
       "SECUCODE": "603213.SH",
       "SECURITY_CODE": "603213",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "沈洪明",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 2800000,
       "FREE_HOLDNUM_RATIO": 0.633523786799,
-      "HOLD_NUM_CHANGE": "100000",
-      "CHANGE_RATIO": 3.7037037
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603213.SH",
       "SECURITY_CODE": "603213",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "李红杰",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1700000,
-      "FREE_HOLDNUM_RATIO": 0.384639441985,
-      "HOLD_NUM_CHANGE": "69200",
-      "CHANGE_RATIO": 4.24331616
+      "HOLD_NUM": 1380100,
+      "FREE_HOLDNUM_RATIO": 0.312259349343,
+      "HOLD_NUM_CHANGE": "-319900",
+      "CHANGE_RATIO": -18.81764706
     },
     {
       "SECUCODE": "603213.SH",
       "SECURITY_CODE": "603213",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "陈志国",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1355800,
+      "FREE_HOLDNUM_RATIO": 0.306761267908,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603213.SH",
+      "SECURITY_CODE": "603213",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "陆建英",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -452,48 +470,35 @@
     {
       "SECUCODE": "603213.SH",
       "SECURITY_CODE": "603213",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "陈永升",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1021200,
-      "FREE_HOLDNUM_RATIO": 0.231055175385,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603213.SH",
-      "SECURITY_CODE": "603213",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "陈冬根",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1000000,
-      "FREE_HOLDNUM_RATIO": 0.226258495285,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1052300,
+      "FREE_HOLDNUM_RATIO": 0.238091814589,
+      "HOLD_NUM_CHANGE": "31100",
+      "CHANGE_RATIO": 3.04543674
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "603213.SH",
       "SECURITY_CODE": "603213",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 349418288,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 349485288,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 92554067,
-      "HOLD_NUM_RATIO": 79.06,
+      "OTHER_UNLIMITED_SHARES": 92487067,
+      "HOLD_NUM_RATIO": 79.07,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 20.94
+      "UNLIMITED_SHARES_RATIO": 20.93
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603213.SH",
       "SECURITY_CODE": "603213",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "浙江省交通投资集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -505,7 +510,7 @@
     {
       "SECUCODE": "603213.SH",
       "SECURITY_CODE": "603213",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "宁波市镇海区海江投资发展有限公司",
       "SHARES_TYPE": "流通A股",
@@ -517,7 +522,7 @@
     {
       "SECUCODE": "603213.SH",
       "SECURITY_CODE": "603213",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "宁波汇海企业管理合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -529,7 +534,7 @@
     {
       "SECUCODE": "603213.SH",
       "SECURITY_CODE": "603213",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "宁波海江企业管理合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -541,7 +546,7 @@
     {
       "SECUCODE": "603213.SH",
       "SECURITY_CODE": "603213",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "杭州德联科技股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -553,32 +558,44 @@
     {
       "SECUCODE": "603213.SH",
       "SECURITY_CODE": "603213",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "沈洪明",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2800000,
       "HOLD_NUM_RATIO": 0.63,
-      "HOLD_NUM_CHANGE": "100000",
-      "CHANGE_RATIO": 3.7037037
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603213.SH",
       "SECURITY_CODE": "603213",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "李红杰",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1700000,
-      "HOLD_NUM_RATIO": 0.38,
-      "HOLD_NUM_CHANGE": "69200",
-      "CHANGE_RATIO": 4.24331616
+      "HOLD_NUM": 1380100,
+      "HOLD_NUM_RATIO": 0.31,
+      "HOLD_NUM_CHANGE": "-319900",
+      "CHANGE_RATIO": -18.81764706
     },
     {
       "SECUCODE": "603213.SH",
       "SECURITY_CODE": "603213",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "陈志国",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1355800,
+      "HOLD_NUM_RATIO": 0.31,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603213.SH",
+      "SECURITY_CODE": "603213",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "陆建英",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1200000,
@@ -589,53 +606,31 @@
     {
       "SECUCODE": "603213.SH",
       "SECURITY_CODE": "603213",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "陈永升",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1021200,
-      "HOLD_NUM_RATIO": 0.23,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603213.SH",
-      "SECURITY_CODE": "603213",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "陈冬根",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1000000,
-      "HOLD_NUM_RATIO": 0.23,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1052300,
+      "HOLD_NUM_RATIO": 0.24,
+      "HOLD_NUM_CHANGE": "31100",
+      "CHANGE_RATIO": 3.04543674
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "603213.SH",
       "SECURITY_CODE": "603213",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 22,
-      "TOTAL_FREE_SHARES": 341881783,
-      "TOTAL_SHARES_RATIO": 77.35365778,
-      "ALL_SHARES_RATIO": 77.35365778
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 341697088,
+      "TOTAL_SHARES_RATIO": 77.31186897,
+      "ALL_SHARES_RATIO": 77.31186897
     },
     {
       "SECUCODE": "603213.SH",
       "SECURITY_CODE": "603213",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 17,
-      "TOTAL_FREE_SHARES": 184695,
-      "TOTAL_SHARES_RATIO": 0.04178881,
-      "ALL_SHARES_RATIO": 0.04178881
-    },
-    {
-      "SECUCODE": "603213.SH",
-      "SECURITY_CODE": "603213",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 5,
       "TOTAL_FREE_SHARES": 341697088,

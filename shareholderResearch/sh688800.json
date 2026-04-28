@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 80.28,
       "AVG_HOLD_AMT": 918072.594595496,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 48.00037399,
+      "FREEHOLD_RATIO_TOTAL": 48.00037399
     },
     {
       "SECUCODE": "688800.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "688800.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "688800.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "688800.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "688800.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "688800.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "688800.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "688800.SH",
       "END_DATE": "2015-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "688800.SH",
-      "END_DATE": "2015-06-09 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "688800.SH",
       "SECURITY_CODE": "688800",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "吴世均",
       "HOLDER_TYPE": "个人",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "688800.SH",
       "SECURITY_CODE": "688800",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "黄博",
       "HOLDER_TYPE": "个人",
@@ -499,20 +499,20 @@
     {
       "SECUCODE": "688800.SH",
       "SECURITY_CODE": "688800",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9811124,
-      "FREE_HOLDNUM_RATIO": 4.770222789343,
-      "HOLD_NUM_CHANGE": "2789069",
-      "CHANGE_RATIO": 39.71870058
+      "HOLD_NUM": 9496785,
+      "FREE_HOLDNUM_RATIO": 4.617389427806,
+      "HOLD_NUM_CHANGE": "-314339",
+      "CHANGE_RATIO": -3.20390406
     },
     {
       "SECUCODE": "688800.SH",
       "SECURITY_CODE": "688800",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "苏州联瑞投资管理中心(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -525,7 +525,7 @@
     {
       "SECUCODE": "688800.SH",
       "SECURITY_CODE": "688800",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "马剑",
       "HOLDER_TYPE": "个人",
@@ -538,65 +538,65 @@
     {
       "SECUCODE": "688800.SH",
       "SECURITY_CODE": "688800",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "UBS AG",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1934507,
-      "FREE_HOLDNUM_RATIO": 0.940568010102,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688800.SH",
-      "SECURITY_CODE": "688800",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "瑞众人寿保险有限责任公司-自有资金",
-      "HOLDER_TYPE": "保险产品",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1690000,
-      "FREE_HOLDNUM_RATIO": 0.821687353456,
-      "HOLD_NUM_CHANGE": "-4600",
-      "CHANGE_RATIO": -0.27145049
-    },
-    {
-      "SECUCODE": "688800.SH",
-      "SECURITY_CODE": "688800",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "晨曦(深圳)私募证券投资基金管理有限公司-晨曦浩然核心价值1号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1527675,
-      "FREE_HOLDNUM_RATIO": 0.742764040054,
+      "HOLD_NUM": 1631100,
+      "FREE_HOLDNUM_RATIO": 0.793049847469,
+      "HOLD_NUM_CHANGE": "103425",
+      "CHANGE_RATIO": 6.77009181
+    },
+    {
+      "SECUCODE": "688800.SH",
+      "SECURITY_CODE": "688800",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "胡强",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1570000,
+      "FREE_HOLDNUM_RATIO": 0.763342689305,
+      "HOLD_NUM_CHANGE": "81000",
+      "CHANGE_RATIO": 5.43989255
+    },
+    {
+      "SECUCODE": "688800.SH",
+      "SECURITY_CODE": "688800",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "陆慧娟",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1204000,
+      "FREE_HOLDNUM_RATIO": 0.585391463646,
+      "HOLD_NUM_CHANGE": "-46000",
+      "CHANGE_RATIO": -3.68
+    },
+    {
+      "SECUCODE": "688800.SH",
+      "SECURITY_CODE": "688800",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "李肖维",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1160040,
+      "FREE_HOLDNUM_RATIO": 0.564017868345,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688800.SH",
       "SECURITY_CODE": "688800",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "胡强",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1489000,
-      "FREE_HOLDNUM_RATIO": 0.723960041004,
-      "HOLD_NUM_CHANGE": "-42000",
-      "CHANGE_RATIO": -2.74330503
-    },
-    {
-      "SECUCODE": "688800.SH",
-      "SECURITY_CODE": "688800",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "陆慧娟",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "晨曦(深圳)私募证券投资基金管理有限公司-晨曦洛山达1号私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1250000,
-      "FREE_HOLDNUM_RATIO": 0.607756918237,
+      "HOLD_NUM": 1089125,
+      "FREE_HOLDNUM_RATIO": 0.52953860286,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "688800.SH",
       "SECURITY_CODE": "688800",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 100275706,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 98724450,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 105398629,
-      "HOLD_NUM_RATIO": 48.75,
+      "OTHER_UNLIMITED_SHARES": 106949885,
+      "HOLD_NUM_RATIO": 48,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 51.25
+      "UNLIMITED_SHARES_RATIO": 52
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "688800.SH",
       "SECURITY_CODE": "688800",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "吴世均",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "688800.SH",
       "SECURITY_CODE": "688800",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "黄博",
       "SHARES_TYPE": "流通A股",
@@ -642,19 +642,19 @@
     {
       "SECUCODE": "688800.SH",
       "SECURITY_CODE": "688800",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9811124,
-      "HOLD_NUM_RATIO": 4.77,
-      "HOLD_NUM_CHANGE": "2789069",
-      "CHANGE_RATIO": 39.71870058
+      "HOLD_NUM": 9496785,
+      "HOLD_NUM_RATIO": 4.62,
+      "HOLD_NUM_CHANGE": "-314339",
+      "CHANGE_RATIO": -3.20390406
     },
     {
       "SECUCODE": "688800.SH",
       "SECURITY_CODE": "688800",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "苏州联瑞投资管理中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -666,7 +666,7 @@
     {
       "SECUCODE": "688800.SH",
       "SECURITY_CODE": "688800",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "马剑",
       "SHARES_TYPE": "流通A股",
@@ -678,60 +678,60 @@
     {
       "SECUCODE": "688800.SH",
       "SECURITY_CODE": "688800",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "UBS AG",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1934507,
-      "HOLD_NUM_RATIO": 0.94,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688800.SH",
-      "SECURITY_CODE": "688800",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "瑞众人寿保险有限责任公司-自有资金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1690000,
-      "HOLD_NUM_RATIO": 0.82,
-      "HOLD_NUM_CHANGE": "-4600",
-      "CHANGE_RATIO": -0.27145049
-    },
-    {
-      "SECUCODE": "688800.SH",
-      "SECURITY_CODE": "688800",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "晨曦(深圳)私募证券投资基金管理有限公司-晨曦浩然核心价值1号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1527675,
-      "HOLD_NUM_RATIO": 0.74,
+      "HOLD_NUM": 1631100,
+      "HOLD_NUM_RATIO": 0.79,
+      "HOLD_NUM_CHANGE": "103425",
+      "CHANGE_RATIO": 6.77009181
+    },
+    {
+      "SECUCODE": "688800.SH",
+      "SECURITY_CODE": "688800",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "胡强",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1570000,
+      "HOLD_NUM_RATIO": 0.76,
+      "HOLD_NUM_CHANGE": "81000",
+      "CHANGE_RATIO": 5.43989255
+    },
+    {
+      "SECUCODE": "688800.SH",
+      "SECURITY_CODE": "688800",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "陆慧娟",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1204000,
+      "HOLD_NUM_RATIO": 0.59,
+      "HOLD_NUM_CHANGE": "-46000",
+      "CHANGE_RATIO": -3.68
+    },
+    {
+      "SECUCODE": "688800.SH",
+      "SECURITY_CODE": "688800",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "李肖维",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1160040,
+      "HOLD_NUM_RATIO": 0.56,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688800.SH",
       "SECURITY_CODE": "688800",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "胡强",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1489000,
-      "HOLD_NUM_RATIO": 0.72,
-      "HOLD_NUM_CHANGE": "-42000",
-      "CHANGE_RATIO": -2.74330503
-    },
-    {
-      "SECUCODE": "688800.SH",
-      "SECURITY_CODE": "688800",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "陆慧娟",
+      "HOLDER_NAME": "晨曦(深圳)私募证券投资基金管理有限公司-晨曦洛山达1号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1250000,
-      "HOLD_NUM_RATIO": 0.61,
+      "HOLD_NUM": 1089125,
+      "HOLD_NUM_RATIO": 0.53,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "688800",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 31284,
-      "TOTAL_SHARES_RATIO": 0.01521046,
-      "ALL_SHARES_RATIO": 0.01521046
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 19528294,
+      "TOTAL_SHARES_RATIO": 9.49476463,
+      "ALL_SHARES_RATIO": 9.49476463
     },
     {
       "SECUCODE": "688800.SH",
@@ -756,6 +756,16 @@
       "TOTAL_FREE_SHARES": 31284,
       "TOTAL_SHARES_RATIO": 0.01521046,
       "ALL_SHARES_RATIO": 0.01521046
+    },
+    {
+      "SECUCODE": "688800.SH",
+      "SECURITY_CODE": "688800",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 19497010,
+      "TOTAL_SHARES_RATIO": 9.47955417,
+      "ALL_SHARES_RATIO": 9.47955417
     }
   ],
   "jjcg": [

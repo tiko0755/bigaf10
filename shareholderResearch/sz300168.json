@@ -25,8 +25,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 5.55,
       "AVG_HOLD_AMT": 139040.561295629,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 32.1074015,
+      "FREEHOLD_RATIO_TOTAL": 32.13966169
     },
     {
       "SECUCODE": "300168.SZ",
@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300168.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300168.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300168.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "300168.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300168.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300168.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300168.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300168.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300168.SZ",
       "END_DATE": "2025-09-30 00:00:00",
@@ -403,16 +413,6 @@
       "SECUCODE": "300168.SZ",
       "END_DATE": "2019-10-21 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300168.SZ",
-      "END_DATE": "2019-10-18 00:00:00",
-      "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300168.SZ",
-      "END_DATE": "2019-10-17 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "300168.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "300168.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,47 +443,9 @@
     {
       "SECUCODE": "300168.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300168.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-08-07 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "和谐健康保险股份有限公司-万能产品",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 76832328,
-      "HOLD_NUM_RATIO": 5.33,
-      "HOLD_CHANGE": "-7823772",
-      "CHANGE_RATIO": -9.241829,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-08-06 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "和谐健康保险股份有限公司-万能产品",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 84656100,
-      "HOLD_NUM_RATIO": 5.88,
-      "HOLD_CHANGE": "-1491200",
-      "CHANGE_RATIO": -1.73098867,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-08-05 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "和谐健康保险股份有限公司-万能产品",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 86147300,
-      "HOLD_NUM_RATIO": 5.9798,
-      "HOLD_CHANGE": "-2215000",
-      "CHANGE_RATIO": -2.50672515,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "300168.SZ",
@@ -507,7 +473,7 @@
     {
       "SECUCODE": "300168.SZ",
       "SECURITY_CODE": "300168",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
       "HOLDER_TYPE": "保险产品",
@@ -520,22 +486,9 @@
     {
       "SECUCODE": "300168.SZ",
       "SECURITY_CODE": "300168",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "和谐健康保险股份有限公司-万能产品",
-      "HOLDER_TYPE": "保险产品",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 72031399,
-      "FREE_HOLDNUM_RATIO": 5.005021722244,
-      "HOLD_NUM_CHANGE": "-16330901",
-      "CHANGE_RATIO": -18.48175183
-    },
-    {
-      "SECUCODE": "300168.SZ",
-      "SECURITY_CODE": "300168",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "中国人寿保险股份有限公司-分红-个人分红-005L-FH002沪",
+      "HOLDER_NAME": "中国人寿保险股份有限公司-分红-个人分红005L-FH002沪",
       "HOLDER_TYPE": "保险产品",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 59260000,
@@ -546,8 +499,8 @@
     {
       "SECUCODE": "300168.SZ",
       "SECURITY_CODE": "300168",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "宁波通商控股集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -559,8 +512,8 @@
     {
       "SECUCODE": "300168.SZ",
       "SECURITY_CODE": "300168",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "上海科技创业投资有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -572,8 +525,8 @@
     {
       "SECUCODE": "300168.SZ",
       "SECURITY_CODE": "300168",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "朗新科技集团股份有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -585,8 +538,8 @@
     {
       "SECUCODE": "300168.SZ",
       "SECURITY_CODE": "300168",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "陈耀远",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -598,20 +551,33 @@
     {
       "SECUCODE": "300168.SZ",
       "SECURITY_CODE": "300168",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "颜晓滨",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 13764149,
       "FREE_HOLDNUM_RATIO": 0.956386599311,
-      "HOLD_NUM_CHANGE": "-934000",
-      "CHANGE_RATIO": -6.35454165
+      "HOLD_NUM_CHANGE": "-28900",
+      "CHANGE_RATIO": -0.20952583
     },
     {
       "SECUCODE": "300168.SZ",
       "SECURITY_CODE": "300168",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "项强峰",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 11545030,
+      "FREE_HOLDNUM_RATIO": 0.802193581357,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300168.SZ",
+      "SECURITY_CODE": "300168",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "宁波通达富企业管理合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
@@ -624,35 +590,35 @@
     {
       "SECUCODE": "300168.SZ",
       "SECURITY_CODE": "300168",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_NAME": "上海计算机软件技术开发中心",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9779451,
-      "FREE_HOLDNUM_RATIO": 0.679514286355,
-      "HOLD_NUM_CHANGE": "-2644300",
-      "CHANGE_RATIO": -21.28423211
+      "HOLD_NUM": 9089392,
+      "FREE_HOLDNUM_RATIO": 0.631566303495,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "300168.SZ",
       "SECURITY_CODE": "300168",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 523724829,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 462548401,
       "LIMITED_SHARES": 1446031,
-      "OTHER_UNLIMITED_SHARES": 915457716,
-      "HOLD_NUM_RATIO": 36.35,
+      "OTHER_UNLIMITED_SHARES": 976634144,
+      "HOLD_NUM_RATIO": 32.11,
       "LIMITED_SHARES_RATIO": 0.1,
-      "UNLIMITED_SHARES_RATIO": 63.55
+      "UNLIMITED_SHARES_RATIO": 67.79
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300168.SZ",
       "SECURITY_CODE": "300168",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
       "SHARES_TYPE": "流通A股",
@@ -664,21 +630,9 @@
     {
       "SECUCODE": "300168.SZ",
       "SECURITY_CODE": "300168",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "和谐健康保险股份有限公司-万能产品",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 72031399,
-      "HOLD_NUM_RATIO": 5,
-      "HOLD_NUM_CHANGE": "-4800929",
-      "CHANGE_RATIO": -6.24857937
-    },
-    {
-      "SECUCODE": "300168.SZ",
-      "SECURITY_CODE": "300168",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "中国人寿保险股份有限公司-分红-个人分红-005L-FH002沪",
+      "HOLDER_NAME": "中国人寿保险股份有限公司-分红-个人分红005L-FH002沪",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 59260000,
       "HOLD_NUM_RATIO": 4.11,
@@ -688,8 +642,8 @@
     {
       "SECUCODE": "300168.SZ",
       "SECURITY_CODE": "300168",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "宁波通商控股集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 50620155,
@@ -700,8 +654,8 @@
     {
       "SECUCODE": "300168.SZ",
       "SECURITY_CODE": "300168",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "上海科技创业投资有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 41350000,
@@ -712,8 +666,8 @@
     {
       "SECUCODE": "300168.SZ",
       "SECURITY_CODE": "300168",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "朗新科技集团股份有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 17430000,
@@ -724,8 +678,8 @@
     {
       "SECUCODE": "300168.SZ",
       "SECURITY_CODE": "300168",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "陈耀远",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 14051257,
@@ -736,19 +690,31 @@
     {
       "SECUCODE": "300168.SZ",
       "SECURITY_CODE": "300168",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "颜晓滨",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 13764149,
       "HOLD_NUM_RATIO": 0.96,
-      "HOLD_NUM_CHANGE": "-934000",
-      "CHANGE_RATIO": -6.35454165
+      "HOLD_NUM_CHANGE": "-28900",
+      "CHANGE_RATIO": -0.20952583
     },
     {
       "SECUCODE": "300168.SZ",
       "SECURITY_CODE": "300168",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "项强峰",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 11545030,
+      "HOLD_NUM_RATIO": 0.8,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300168.SZ",
+      "SECURITY_CODE": "300168",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "宁波通达富企业管理合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -760,36 +726,46 @@
     {
       "SECUCODE": "300168.SZ",
       "SECURITY_CODE": "300168",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_NAME": "上海计算机软件技术开发中心",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9779451,
-      "HOLD_NUM_RATIO": 0.68,
-      "HOLD_NUM_CHANGE": "-2644300",
-      "CHANGE_RATIO": -21.28423211
+      "HOLD_NUM": 9089392,
+      "HOLD_NUM_RATIO": 0.63,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "300168.SZ",
       "SECURITY_CODE": "300168",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 70,
-      "TOTAL_FREE_SHARES": 16556181,
-      "TOTAL_SHARES_RATIO": 1.08090397,
-      "ALL_SHARES_RATIO": 1.07981896
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 423187965,
+      "TOTAL_SHARES_RATIO": 29.40474551,
+      "ALL_SHARES_RATIO": 29.37523052
     },
     {
       "SECUCODE": "300168.SZ",
       "SECURITY_CODE": "300168",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 70,
-      "TOTAL_FREE_SHARES": 16556181,
-      "TOTAL_SHARES_RATIO": 1.08090397,
-      "ALL_SHARES_RATIO": 1.07981896
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "05",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 293267849,
+      "TOTAL_SHARES_RATIO": 20.37739062,
+      "ALL_SHARES_RATIO": 20.35693682
+    },
+    {
+      "SECUCODE": "300168.SZ",
+      "SECURITY_CODE": "300168",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 129920116,
+      "TOTAL_SHARES_RATIO": 9.02735489,
+      "ALL_SHARES_RATIO": 9.0182937
     }
   ],
   "jjcg": [

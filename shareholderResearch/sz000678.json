@@ -123,8 +123,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 15.03,
       "AVG_HOLD_AMT": 68654.6806160864,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 46.92783201,
+      "FREEHOLD_RATIO_TOTAL": 46.92783201
     },
     {
       "SECUCODE": "000678.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000678.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000678.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "000678.SZ",
       "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000678.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000678.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000678.SZ",
       "END_DATE": "2025-09-30 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "000678.SZ",
       "END_DATE": "2015-07-28 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "000678.SZ",
-      "END_DATE": "2015-07-24 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -445,30 +445,7 @@
       "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-07-17 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "襄阳轴承投资发展集团有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 78563013,
-      "HOLD_NUM_RATIO": 17.09,
-      "HOLD_CHANGE": "-3596117",
-      "CHANGE_RATIO": -4.37701446,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-07-16 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "襄阳轴承投资发展集团有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 82159130,
-      "HOLD_NUM_RATIO": 17.88,
-      "HOLD_CHANGE": "-1000000",
-      "CHANGE_RATIO": -1.20251378,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "000678.SZ",
@@ -496,7 +473,7 @@
     {
       "SECUCODE": "000678.SZ",
       "SECURITY_CODE": "000678",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "三环集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -509,21 +486,34 @@
     {
       "SECUCODE": "000678.SZ",
       "SECURITY_CODE": "000678",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "襄阳轴承投资发展集团有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 78563013,
       "FREE_HOLDNUM_RATIO": 17.093341274702,
-      "HOLD_NUM_CHANGE": "-4596117",
-      "CHANGE_RATIO": -5.52689404
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000678.SZ",
       "SECURITY_CODE": "000678",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2923340,
+      "FREE_HOLDNUM_RATIO": 0.636045466866,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000678.SZ",
+      "SECURITY_CODE": "000678",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "湖北新海天投资有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -535,113 +525,100 @@
     {
       "SECUCODE": "000678.SZ",
       "SECURITY_CODE": "000678",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "董正新",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1230849,
-      "FREE_HOLDNUM_RATIO": 0.267801872805,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000678.SZ",
-      "SECURITY_CODE": "000678",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "高盛国际-自有资金",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 897424,
-      "FREE_HOLDNUM_RATIO": 0.195256955078,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000678.SZ",
-      "SECURITY_CODE": "000678",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "景海燕",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 786000,
-      "FREE_HOLDNUM_RATIO": 0.171013887183,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000678.SZ",
-      "SECURITY_CODE": "000678",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 664661,
-      "FREE_HOLDNUM_RATIO": 0.144613563955,
-      "HOLD_NUM_CHANGE": "92695",
-      "CHANGE_RATIO": 16.2063829
-    },
-    {
-      "SECUCODE": "000678.SZ",
-      "SECURITY_CODE": "000678",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "陈学良",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 541000,
-      "FREE_HOLDNUM_RATIO": 0.117708031763,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1038300,
+      "FREE_HOLDNUM_RATIO": 0.225908039519,
+      "HOLD_NUM_CHANGE": "497300",
+      "CHANGE_RATIO": 91.92236599
     },
     {
       "SECUCODE": "000678.SZ",
       "SECURITY_CODE": "000678",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "李琦民",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 525300,
-      "FREE_HOLDNUM_RATIO": 0.114292105518,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000678.SZ",
-      "SECURITY_CODE": "000678",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "陈光权",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 500000,
-      "FREE_HOLDNUM_RATIO": 0.10878746004,
+      "HOLD_NUM": 1029700,
+      "FREE_HOLDNUM_RATIO": 0.224036895206,
+      "HOLD_NUM_CHANGE": "529700",
+      "CHANGE_RATIO": 105.94
+    },
+    {
+      "SECUCODE": "000678.SZ",
+      "SECURITY_CODE": "000678",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "万柳军",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 665600,
+      "FREE_HOLDNUM_RATIO": 0.144817866805,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000678.SZ",
+      "SECURITY_CODE": "000678",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 497164,
+      "FREE_HOLDNUM_RATIO": 0.108170417567,
+      "HOLD_NUM_CHANGE": "-167497",
+      "CHANGE_RATIO": -25.2003653
+    },
+    {
+      "SECUCODE": "000678.SZ",
+      "SECURITY_CODE": "000678",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "何月媚",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 489700,
+      "FREE_HOLDNUM_RATIO": 0.106546438363,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000678.SZ",
+      "SECURITY_CODE": "000678",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "高盛国际-自有资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 463504,
+      "FREE_HOLDNUM_RATIO": 0.100846845757,
+      "HOLD_NUM_CHANGE": "-433920",
+      "CHANGE_RATIO": -48.35172672
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "000678.SZ",
       "SECURITY_CODE": "000678",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 213723778,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLD_NUM_COUNT": 215685852,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 245888019,
-      "HOLD_NUM_RATIO": 46.5,
+      "OTHER_UNLIMITED_SHARES": 243925945,
+      "HOLD_NUM_RATIO": 46.93,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 53.5
+      "UNLIMITED_SHARES_RATIO": 53.07
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "000678.SZ",
       "SECURITY_CODE": "000678",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "三环集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -653,7 +630,7 @@
     {
       "SECUCODE": "000678.SZ",
       "SECURITY_CODE": "000678",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "襄阳轴承投资发展集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -665,8 +642,20 @@
     {
       "SECUCODE": "000678.SZ",
       "SECURITY_CODE": "000678",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2923340,
+      "HOLD_NUM_RATIO": 0.64,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000678.SZ",
+      "SECURITY_CODE": "000678",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "湖北新海天投资有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1615531,
@@ -677,86 +666,74 @@
     {
       "SECUCODE": "000678.SZ",
       "SECURITY_CODE": "000678",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "董正新",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1230849,
-      "HOLD_NUM_RATIO": 0.27,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000678.SZ",
-      "SECURITY_CODE": "000678",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "高盛国际-自有资金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 897424,
-      "HOLD_NUM_RATIO": 0.2,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000678.SZ",
-      "SECURITY_CODE": "000678",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "景海燕",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 786000,
-      "HOLD_NUM_RATIO": 0.17,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000678.SZ",
-      "SECURITY_CODE": "000678",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 664661,
-      "HOLD_NUM_RATIO": 0.14,
-      "HOLD_NUM_CHANGE": "92695",
-      "CHANGE_RATIO": 16.2063829
-    },
-    {
-      "SECUCODE": "000678.SZ",
-      "SECURITY_CODE": "000678",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "陈学良",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 541000,
-      "HOLD_NUM_RATIO": 0.12,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1038300,
+      "HOLD_NUM_RATIO": 0.23,
+      "HOLD_NUM_CHANGE": "497300",
+      "CHANGE_RATIO": 91.92236599
     },
     {
       "SECUCODE": "000678.SZ",
       "SECURITY_CODE": "000678",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "李琦民",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 525300,
-      "HOLD_NUM_RATIO": 0.11,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000678.SZ",
-      "SECURITY_CODE": "000678",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "陈光权",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 500000,
+      "HOLD_NUM": 1029700,
+      "HOLD_NUM_RATIO": 0.22,
+      "HOLD_NUM_CHANGE": "529700",
+      "CHANGE_RATIO": 105.94
+    },
+    {
+      "SECUCODE": "000678.SZ",
+      "SECURITY_CODE": "000678",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "万柳军",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 665600,
+      "HOLD_NUM_RATIO": 0.14,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000678.SZ",
+      "SECURITY_CODE": "000678",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 497164,
+      "HOLD_NUM_RATIO": 0.11,
+      "HOLD_NUM_CHANGE": "-167497",
+      "CHANGE_RATIO": -25.2003653
+    },
+    {
+      "SECUCODE": "000678.SZ",
+      "SECURITY_CODE": "000678",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "何月媚",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 489700,
       "HOLD_NUM_RATIO": 0.11,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000678.SZ",
+      "SECURITY_CODE": "000678",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "高盛国际-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 463504,
+      "HOLD_NUM_RATIO": 0.1,
+      "HOLD_NUM_CHANGE": "-433920",
+      "CHANGE_RATIO": -48.35172672
     }
   ],
   "jgcc": [
@@ -765,10 +742,10 @@
       "SECURITY_CODE": "000678",
       "REPORT_DATE": "2025-12-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 732,
-      "TOTAL_SHARES_RATIO": 0.00015926,
-      "ALL_SHARES_RATIO": 0.00015926
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 212463284,
+      "TOTAL_SHARES_RATIO": 46.22668204,
+      "ALL_SHARES_RATIO": 46.22668204
     },
     {
       "SECUCODE": "000678.SZ",
@@ -779,6 +756,26 @@
       "TOTAL_FREE_SHARES": 732,
       "TOTAL_SHARES_RATIO": 0.00015926,
       "ALL_SHARES_RATIO": 0.00015926
+    },
+    {
+      "SECUCODE": "000678.SZ",
+      "SECURITY_CODE": "000678",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 960668,
+      "TOTAL_SHARES_RATIO": 0.20901727,
+      "ALL_SHARES_RATIO": 0.20901727
+    },
+    {
+      "SECUCODE": "000678.SZ",
+      "SECURITY_CODE": "000678",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 211501884,
+      "TOTAL_SHARES_RATIO": 46.01750551,
+      "ALL_SHARES_RATIO": 46.01750551
     }
   ],
   "jjcg": [

@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 4.34,
       "AVG_HOLD_AMT": 221035.104959407,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 59.94074943,
+      "FREEHOLD_RATIO_TOTAL": 59.94074943
     },
     {
       "SECUCODE": "600500.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600500.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600500.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600500.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600500.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600500.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600500.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600500.SH",
       "END_DATE": "2014-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600500.SH",
-      "END_DATE": "2014-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600500.SH",
       "SECURITY_CODE": "600500",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国中化股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600500.SH",
       "SECURITY_CODE": "600500",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中国国有企业结构调整基金二期股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "600500.SH",
       "SECURITY_CODE": "600500",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "上海国际集团投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -512,20 +512,20 @@
     {
       "SECUCODE": "600500.SH",
       "SECURITY_CODE": "600500",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 26651790,
-      "FREE_HOLDNUM_RATIO": 0.742740104927,
-      "HOLD_NUM_CHANGE": "-941918",
-      "CHANGE_RATIO": -3.41352456
+      "HOLD_NUM": 26834510,
+      "FREE_HOLDNUM_RATIO": 0.747832200879,
+      "HOLD_NUM_CHANGE": "182720",
+      "CHANGE_RATIO": 0.68558247
     },
     {
       "SECUCODE": "600500.SH",
       "SECURITY_CODE": "600500",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "江苏盛世聚鑫私募基金管理有限公司-连云港碳三投资基金合伙企业(有限合伙)",
       "HOLDER_TYPE": "私募基金",
@@ -538,7 +538,7 @@
     {
       "SECUCODE": "600500.SH",
       "SECURITY_CODE": "600500",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "江苏金桥私募基金管理有限公司-连云港润洋股权投资基金合伙企业(有限合伙)",
       "HOLDER_TYPE": "私募基金",
@@ -551,7 +551,7 @@
     {
       "SECUCODE": "600500.SH",
       "SECURITY_CODE": "600500",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "国华投资开发资产管理(北京)有限公司-北京国能新能源产业投资基金(有限合伙)",
       "HOLDER_TYPE": "私募基金",
@@ -564,21 +564,8 @@
     {
       "SECUCODE": "600500.SH",
       "SECURITY_CODE": "600500",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "安徽省皖能资本投资有限公司",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11682666,
-      "FREE_HOLDNUM_RATIO": 0.32557605214,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600500.SH",
-      "SECURITY_CODE": "600500",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "青岛惠鑫投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -590,8 +577,8 @@
     {
       "SECUCODE": "600500.SH",
       "SECURITY_CODE": "600500",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "无锡金投控股有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -599,18 +586,31 @@
       "FREE_HOLDNUM_RATIO": 0.325130159325,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600500.SH",
+      "SECURITY_CODE": "600500",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "济南瀚惠投资合伙企业(有限合伙)",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 11666666,
+      "FREE_HOLDNUM_RATIO": 0.325130159325,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600500.SH",
       "SECURITY_CODE": "600500",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 2150690970,
-      "LIMITED_SHARES": 217290,
-      "OTHER_UNLIMITED_SHARES": 1437615333,
-      "HOLD_NUM_RATIO": 59.93,
-      "LIMITED_SHARES_RATIO": 0.01,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 2150857690,
+      "LIMITED_SHARES": null,
+      "OTHER_UNLIMITED_SHARES": 1437448613,
+      "HOLD_NUM_RATIO": 59.94,
+      "LIMITED_SHARES_RATIO": null,
       "UNLIMITED_SHARES_RATIO": 40.06
     }
   ],
@@ -618,7 +618,7 @@
     {
       "SECUCODE": "600500.SH",
       "SECURITY_CODE": "600500",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国中化股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600500.SH",
       "SECURITY_CODE": "600500",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中国国有企业结构调整基金二期股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "600500.SH",
       "SECURITY_CODE": "600500",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "上海国际集团投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,19 +654,19 @@
     {
       "SECUCODE": "600500.SH",
       "SECURITY_CODE": "600500",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 26651790,
-      "HOLD_NUM_RATIO": 0.74,
-      "HOLD_NUM_CHANGE": "-941918",
-      "CHANGE_RATIO": -3.41352456
+      "HOLD_NUM": 26834510,
+      "HOLD_NUM_RATIO": 0.75,
+      "HOLD_NUM_CHANGE": "182720",
+      "CHANGE_RATIO": 0.68558247
     },
     {
       "SECUCODE": "600500.SH",
       "SECURITY_CODE": "600500",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "江苏盛世聚鑫私募基金管理有限公司-连云港碳三投资基金合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -678,7 +678,7 @@
     {
       "SECUCODE": "600500.SH",
       "SECURITY_CODE": "600500",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "江苏金桥私募基金管理有限公司-连云港润洋股权投资基金合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -690,7 +690,7 @@
     {
       "SECUCODE": "600500.SH",
       "SECURITY_CODE": "600500",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "国华投资开发资产管理(北京)有限公司-北京国能新能源产业投资基金(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -702,11 +702,11 @@
     {
       "SECUCODE": "600500.SH",
       "SECURITY_CODE": "600500",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "安徽省皖能资本投资有限公司",
+      "HOLDER_NAME": "济南瀚惠投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11682666,
+      "HOLD_NUM": 11666666,
       "HOLD_NUM_RATIO": 0.33,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
@@ -714,8 +714,8 @@
     {
       "SECUCODE": "600500.SH",
       "SECURITY_CODE": "600500",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "青岛惠鑫投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 11666666,
@@ -726,8 +726,8 @@
     {
       "SECUCODE": "600500.SH",
       "SECURITY_CODE": "600500",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "无锡金投控股有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 11666666,
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "600500",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 429600,
-      "TOTAL_SHARES_RATIO": 0.01197222,
-      "ALL_SHARES_RATIO": 0.01197222
+      "TOTAL_ORG_NUM": 11,
+      "TOTAL_FREE_SHARES": 2151287290,
+      "TOTAL_SHARES_RATIO": 59.95272166,
+      "ALL_SHARES_RATIO": 59.95272166
     },
     {
       "SECUCODE": "600500.SH",
@@ -756,6 +756,16 @@
       "TOTAL_FREE_SHARES": 429600,
       "TOTAL_SHARES_RATIO": 0.01197222,
       "ALL_SHARES_RATIO": 0.01197222
+    },
+    {
+      "SECUCODE": "600500.SH",
+      "SECURITY_CODE": "600500",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 10,
+      "TOTAL_FREE_SHARES": 2150857690,
+      "TOTAL_SHARES_RATIO": 59.94074944,
+      "ALL_SHARES_RATIO": 59.94074944
     }
   ],
   "jjcg": [

@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 5.67,
       "AVG_HOLD_AMT": 287487.614828165,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 61.49406371,
+      "FREEHOLD_RATIO_TOTAL": 61.49406371
     },
     {
       "SECUCODE": "600395.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600395.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600395.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600395.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600395.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600395.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600395.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600395.SH",
       "END_DATE": "2017-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600395.SH",
-      "END_DATE": "2016-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -445,19 +445,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-12-26 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "贵州能源集团有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 978884100,
-      "HOLD_NUM_RATIO": 45.6,
-      "HOLD_CHANGE": "2005500",
-      "CHANGE_RATIO": 0.20529675,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "600395.SH",
@@ -485,33 +473,20 @@
     {
       "SECUCODE": "600395.SH",
       "SECURITY_CODE": "600395",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "贵州能源集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 978884100,
       "FREE_HOLDNUM_RATIO": 45.601078359618,
-      "HOLD_NUM_CHANGE": "2005500",
-      "CHANGE_RATIO": 0.20529675
-    },
-    {
-      "SECUCODE": "600395.SH",
-      "SECURITY_CODE": "600395",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "贵州省贵鑫瑞和创业投资管理有限责任公司-贵州省新型工业化发展股权投资基金合伙企业(有限合伙)",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 84269662,
-      "FREE_HOLDNUM_RATIO": 3.925681763756,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600395.SH",
       "SECURITY_CODE": "600395",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "贵州省黔晟国有资产经营有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -524,7 +499,20 @@
     {
       "SECUCODE": "600395.SH",
       "SECURITY_CODE": "600395",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "贵州省贵鑫瑞和创业投资管理有限责任公司-贵州省新型工业化发展股权投资基金合伙企业(有限合伙)",
+      "HOLDER_TYPE": "私募基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 84269662,
+      "FREE_HOLDNUM_RATIO": 3.925681763756,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600395.SH",
+      "SECURITY_CODE": "600395",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "芜湖信达降杠杆投资管理合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -537,78 +525,78 @@
     {
       "SECUCODE": "600395.SH",
       "SECURITY_CODE": "600395",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国工商银行股份有限公司-国泰中证煤炭交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 32119897,
-      "FREE_HOLDNUM_RATIO": 1.496297610718,
-      "HOLD_NUM_CHANGE": "-10487618",
-      "CHANGE_RATIO": -24.61447939
+      "HOLD_NUM": 31450454,
+      "FREE_HOLDNUM_RATIO": 1.465111770944,
+      "HOLD_NUM_CHANGE": "-669443",
+      "CHANGE_RATIO": -2.08420033
     },
     {
       "SECUCODE": "600395.SH",
       "SECURITY_CODE": "600395",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
+      "HOLDER_NAME": "中信证券股份有限公司",
+      "HOLDER_TYPE": "证券公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 22211609,
-      "FREE_HOLDNUM_RATIO": 1.0347224176,
-      "HOLD_NUM_CHANGE": "8915661",
-      "CHANGE_RATIO": 67.05547434
+      "HOLD_NUM": 22351265,
+      "FREE_HOLDNUM_RATIO": 1.041228258485,
+      "HOLD_NUM_CHANGE": "3384872",
+      "CHANGE_RATIO": 17.84668281
     },
     {
       "SECUCODE": "600395.SH",
       "SECURITY_CODE": "600395",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "银河德睿资本管理有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 19046229,
-      "FREE_HOLDNUM_RATIO": 0.887263958097,
-      "HOLD_NUM_CHANGE": "83700",
-      "CHANGE_RATIO": 0.44139682
+      "HOLD_NUM": 15035929,
+      "FREE_HOLDNUM_RATIO": 0.700445105338,
+      "HOLD_NUM_CHANGE": "-4010300",
+      "CHANGE_RATIO": -21.05561159
     },
     {
       "SECUCODE": "600395.SH",
       "SECURITY_CODE": "600395",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中信证券股份有限公司",
-      "HOLDER_TYPE": "证券公司",
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 18966393,
-      "FREE_HOLDNUM_RATIO": 0.883544817402,
-      "HOLD_NUM_CHANGE": "-583933",
-      "CHANGE_RATIO": -2.98681976
+      "HOLD_NUM": 13815240,
+      "FREE_HOLDNUM_RATIO": 0.643579604365,
+      "HOLD_NUM_CHANGE": "-8396369",
+      "CHANGE_RATIO": -37.80171441
     },
     {
       "SECUCODE": "600395.SH",
       "SECURITY_CODE": "600395",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "河南银泰投资有限公司",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 15950000,
-      "FREE_HOLDNUM_RATIO": 0.743026881156,
-      "HOLD_NUM_CHANGE": "220000",
-      "CHANGE_RATIO": 1.3986014
-    },
-    {
-      "SECUCODE": "600395.SH",
-      "SECURITY_CODE": "600395",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "广东天创私募证券投资基金管理有限公司-天创机遇15号私募证券投资基金",
+      "HOLDER_NAME": "广东天创私募证券投资基金管理有限公司-广东天创海上风电新能源私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 13141149,
-      "FREE_HOLDNUM_RATIO": 0.612177238638,
+      "HOLD_NUM": 11107349,
+      "FREE_HOLDNUM_RATIO": 0.517433158958,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600395.SH",
+      "SECURITY_CODE": "600395",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "周先云",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 8638500,
+      "FREE_HOLDNUM_RATIO": 0.402422427139,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -617,20 +605,20 @@
     {
       "SECUCODE": "600395.SH",
       "SECURITY_CODE": "600395",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 1339083420,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 1320046880,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 807541474,
-      "HOLD_NUM_RATIO": 62.38,
+      "OTHER_UNLIMITED_SHARES": 826578014,
+      "HOLD_NUM_RATIO": 61.49,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 37.62
+      "UNLIMITED_SHARES_RATIO": 38.51
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600395.SH",
       "SECURITY_CODE": "600395",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "贵州能源集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,19 +630,7 @@
     {
       "SECUCODE": "600395.SH",
       "SECURITY_CODE": "600395",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "贵州省贵鑫瑞和创业投资管理有限责任公司-贵州省新型工业化发展股权投资基金合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 84269662,
-      "HOLD_NUM_RATIO": 3.93,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600395.SH",
-      "SECURITY_CODE": "600395",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "贵州省黔晟国有资产经营有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -666,7 +642,19 @@
     {
       "SECUCODE": "600395.SH",
       "SECURITY_CODE": "600395",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "贵州省贵鑫瑞和创业投资管理有限责任公司-贵州省新型工业化发展股权投资基金合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 84269662,
+      "HOLD_NUM_RATIO": 3.93,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600395.SH",
+      "SECURITY_CODE": "600395",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "芜湖信达降杠杆投资管理合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -678,72 +666,72 @@
     {
       "SECUCODE": "600395.SH",
       "SECURITY_CODE": "600395",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国工商银行股份有限公司-国泰中证煤炭交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 32119897,
-      "HOLD_NUM_RATIO": 1.5,
-      "HOLD_NUM_CHANGE": "-10487618",
-      "CHANGE_RATIO": -24.61447939
+      "HOLD_NUM": 31450454,
+      "HOLD_NUM_RATIO": 1.47,
+      "HOLD_NUM_CHANGE": "-669443",
+      "CHANGE_RATIO": -2.08420033
     },
     {
       "SECUCODE": "600395.SH",
       "SECURITY_CODE": "600395",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_NAME": "中信证券股份有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 22211609,
-      "HOLD_NUM_RATIO": 1.03,
-      "HOLD_NUM_CHANGE": "8915661",
-      "CHANGE_RATIO": 67.05547434
+      "HOLD_NUM": 22351265,
+      "HOLD_NUM_RATIO": 1.04,
+      "HOLD_NUM_CHANGE": "3384872",
+      "CHANGE_RATIO": 17.84668281
     },
     {
       "SECUCODE": "600395.SH",
       "SECURITY_CODE": "600395",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "银河德睿资本管理有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 19046229,
-      "HOLD_NUM_RATIO": 0.89,
-      "HOLD_NUM_CHANGE": "83700",
-      "CHANGE_RATIO": 0.44139682
+      "HOLD_NUM": 15035929,
+      "HOLD_NUM_RATIO": 0.7,
+      "HOLD_NUM_CHANGE": "-4010300",
+      "CHANGE_RATIO": -21.05561159
     },
     {
       "SECUCODE": "600395.SH",
       "SECURITY_CODE": "600395",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中信证券股份有限公司",
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 18966393,
-      "HOLD_NUM_RATIO": 0.88,
-      "HOLD_NUM_CHANGE": "-583933",
-      "CHANGE_RATIO": -2.98681976
+      "HOLD_NUM": 13815240,
+      "HOLD_NUM_RATIO": 0.64,
+      "HOLD_NUM_CHANGE": "-8396369",
+      "CHANGE_RATIO": -37.80171441
     },
     {
       "SECUCODE": "600395.SH",
       "SECURITY_CODE": "600395",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "河南银泰投资有限公司",
+      "HOLDER_NAME": "广东天创私募证券投资基金管理有限公司-广东天创海上风电新能源私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 15950000,
-      "HOLD_NUM_RATIO": 0.74,
-      "HOLD_NUM_CHANGE": "220000",
-      "CHANGE_RATIO": 1.3986014
+      "HOLD_NUM": 11107349,
+      "HOLD_NUM_RATIO": 0.52,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600395.SH",
       "SECURITY_CODE": "600395",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "广东天创私募证券投资基金管理有限公司-天创机遇15号私募证券投资基金",
+      "HOLDER_NAME": "周先云",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 13141149,
-      "HOLD_NUM_RATIO": 0.61,
+      "HOLD_NUM": 8638500,
+      "HOLD_NUM_RATIO": 0.4,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -754,23 +742,60 @@
       "SECURITY_CODE": "600395",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 14635491,
-      "TOTAL_SHARES_RATIO": 0.6817908,
-      "ALL_SHARES_RATIO": 0.6817908
+      "TOTAL_ORG_NUM": 12,
+      "TOTAL_FREE_SHARES": 1326043871,
+      "TOTAL_SHARES_RATIO": 61.77343208,
+      "ALL_SHARES_RATIO": 61.77343208
     },
     {
       "SECUCODE": "600395.SH",
       "SECURITY_CODE": "600395",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 14635491,
-      "TOTAL_SHARES_RATIO": 0.6817908,
-      "ALL_SHARES_RATIO": 0.6817908
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 46085945,
+      "TOTAL_SHARES_RATIO": 2.14690257,
+      "ALL_SHARES_RATIO": 2.14690257
+    },
+    {
+      "SECUCODE": "600395.SH",
+      "SECURITY_CODE": "600395",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "04",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 22351265,
+      "TOTAL_SHARES_RATIO": 1.04122826,
+      "ALL_SHARES_RATIO": 1.04122826
+    },
+    {
+      "SECUCODE": "600395.SH",
+      "SECURITY_CODE": "600395",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 1257606661,
+      "TOTAL_SHARES_RATIO": 58.58530125,
+      "ALL_SHARES_RATIO": 58.58530125
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600395.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "515220",
+      "HOLDER_NAME": "国泰中证煤炭ETF",
+      "TOTAL_SHARES": 31450454,
+      "HOLD_VALUE": 178324074.18,
+      "TOTALSHARES_RATIO": 1.46511177,
+      "FREESHARES_RATIO": 1.46511177,
+      "FREE_MARKET_CAP": 178324074.18,
+      "FREE_SHARES": 31450454,
+      "SECURITY_CODE": "600395",
+      "FUND_CODE": "515220",
+      "FUND_DERIVECODE": "515220.SH",
+      "NETVALUE_RATIO": 1.76
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "600395.SH",

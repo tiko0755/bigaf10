@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 31.57,
       "AVG_HOLD_AMT": 1087209.7688704,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 65.64714043,
+      "FREEHOLD_RATIO_TOTAL": 67.99374929
     },
     {
       "SECUCODE": "688683.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "688683.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "688683.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "688683.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "688683.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "688683.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "688683.SH",
       "END_DATE": "2026-01-07 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "688683.SH",
       "END_DATE": "2022-05-30 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "688683.SH",
-      "END_DATE": "2022-05-27 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -517,7 +517,7 @@
     {
       "SECUCODE": "688683.SH",
       "SECURITY_CODE": "688683",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "广东特耐尔投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -530,7 +530,7 @@
     {
       "SECUCODE": "688683.SH",
       "SECURITY_CODE": "688683",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "范小平",
       "HOLDER_TYPE": "个人",
@@ -543,7 +543,7 @@
     {
       "SECUCODE": "688683.SH",
       "SECURITY_CODE": "688683",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "广东世运电路科技股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -556,7 +556,7 @@
     {
       "SECUCODE": "688683.SH",
       "SECURITY_CODE": "688683",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "龚伟全",
       "HOLDER_TYPE": "个人",
@@ -569,7 +569,7 @@
     {
       "SECUCODE": "688683.SH",
       "SECURITY_CODE": "688683",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "广东莱尔新材料科技股份有限公司-2025年员工持股计划",
       "HOLDER_TYPE": "员工持股计划",
@@ -582,21 +582,8 @@
     {
       "SECUCODE": "688683.SH",
       "SECURITY_CODE": "688683",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "上海瑞廷资产管理有限公司-上海瑞廷守雅多策略1号私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1450738,
-      "FREE_HOLDNUM_RATIO": 0.934886816282,
-      "HOLD_NUM_CHANGE": "-527618",
-      "CHANGE_RATIO": -26.66951752
-    },
-    {
-      "SECUCODE": "688683.SH",
-      "SECURITY_CODE": "688683",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "石永华",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -608,8 +595,34 @@
     {
       "SECUCODE": "688683.SH",
       "SECURITY_CODE": "688683",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "林伟帆",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1359062,
+      "FREE_HOLDNUM_RATIO": 0.875808827169,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688683.SH",
+      "SECURITY_CODE": "688683",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "唐沁",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1343121,
+      "FREE_HOLDNUM_RATIO": 0.865536103398,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688683.SH",
+      "SECURITY_CODE": "688683",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "郭瑛",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -621,48 +634,35 @@
     {
       "SECUCODE": "688683.SH",
       "SECURITY_CODE": "688683",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "刘学恒",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1249287,
-      "FREE_HOLDNUM_RATIO": 0.805067452601,
-      "HOLD_NUM_CHANGE": "17640",
-      "CHANGE_RATIO": 1.43222855
-    },
-    {
-      "SECUCODE": "688683.SH",
-      "SECURITY_CODE": "688683",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "上海瑞廷资产管理有限公司-上海瑞廷多策略2号私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1193800,
-      "FREE_HOLDNUM_RATIO": 0.769310434604,
-      "HOLD_NUM_CHANGE": "-7000",
-      "CHANGE_RATIO": -0.5829447
+      "HOLD_NUM": 1248313,
+      "FREE_HOLDNUM_RATIO": 0.804439786021,
+      "HOLD_NUM_CHANGE": "-974",
+      "CHANGE_RATIO": -0.07796447
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "688683.SH",
       "SECURITY_CODE": "688683",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 105454621,
-      "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 49723308,
-      "HOLD_NUM_RATIO": 67.96,
-      "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 32.04
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 105511292,
+      "LIMITED_SHARES": 5919871,
+      "OTHER_UNLIMITED_SHARES": 49666637,
+      "HOLD_NUM_RATIO": 65.5,
+      "LIMITED_SHARES_RATIO": 3.67,
+      "UNLIMITED_SHARES_RATIO": 30.83
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "688683.SH",
       "SECURITY_CODE": "688683",
-      "END_DATE": "2026-01-07 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "广东特耐尔投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -674,7 +674,7 @@
     {
       "SECUCODE": "688683.SH",
       "SECURITY_CODE": "688683",
-      "END_DATE": "2026-01-07 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "范小平",
       "SHARES_TYPE": "流通A股",
@@ -686,7 +686,7 @@
     {
       "SECUCODE": "688683.SH",
       "SECURITY_CODE": "688683",
-      "END_DATE": "2026-01-07 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "广东世运电路科技股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -698,7 +698,7 @@
     {
       "SECUCODE": "688683.SH",
       "SECURITY_CODE": "688683",
-      "END_DATE": "2026-01-07 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "龚伟全",
       "SHARES_TYPE": "流通A股",
@@ -710,19 +710,19 @@
     {
       "SECUCODE": "688683.SH",
       "SECURITY_CODE": "688683",
-      "END_DATE": "2026-01-07 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "上海瑞廷资产管理有限公司-上海瑞廷守雅多策略1号私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1978356,
-      "HOLD_NUM_RATIO": 1.23,
-      "HOLD_NUM_CHANGE": "527618",
-      "CHANGE_RATIO": 36.36893774
+      "HOLDER_NAME": "唐沁",
+      "SHARES_TYPE": "流通A股,限售流通A股",
+      "HOLD_NUM": 1587928,
+      "HOLD_NUM_RATIO": 0.99,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688683.SH",
       "SECURITY_CODE": "688683",
-      "END_DATE": "2026-01-07 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "广东莱尔新材料科技股份有限公司-2025年员工持股计划",
       "SHARES_TYPE": "流通A股",
@@ -734,7 +734,7 @@
     {
       "SECUCODE": "688683.SH",
       "SECURITY_CODE": "688683",
-      "END_DATE": "2026-01-07 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "石永华",
       "SHARES_TYPE": "流通A股",
@@ -746,8 +746,20 @@
     {
       "SECUCODE": "688683.SH",
       "SECURITY_CODE": "688683",
-      "END_DATE": "2026-01-07 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "林伟帆",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1359062,
+      "HOLD_NUM_RATIO": 0.84,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688683.SH",
+      "SECURITY_CODE": "688683",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "郭瑛",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1303032,
@@ -758,26 +770,14 @@
     {
       "SECUCODE": "688683.SH",
       "SECURITY_CODE": "688683",
-      "END_DATE": "2026-01-07 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "刘学恒",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1231647,
-      "HOLD_NUM_RATIO": 0.76,
-      "HOLD_NUM_CHANGE": "-17640",
-      "CHANGE_RATIO": -1.41200541
-    },
-    {
-      "SECUCODE": "688683.SH",
-      "SECURITY_CODE": "688683",
-      "END_DATE": "2026-01-07 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "上海瑞廷资产管理有限公司-上海瑞廷多策略2号私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1200800,
-      "HOLD_NUM_RATIO": 0.75,
-      "HOLD_NUM_CHANGE": "7000",
-      "CHANGE_RATIO": 0.58636287
+      "HOLD_NUM": 1248313,
+      "HOLD_NUM_RATIO": 0.77,
+      "HOLD_NUM_CHANGE": "16666",
+      "CHANGE_RATIO": 1.35314745
     }
   ],
   "jgcc": [
@@ -786,10 +786,10 @@
       "SECURITY_CODE": "688683",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 142039,
-      "TOTAL_SHARES_RATIO": 0.09153299,
-      "ALL_SHARES_RATIO": 0.08816942
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 81649188,
+      "TOTAL_SHARES_RATIO": 52.61649548,
+      "ALL_SHARES_RATIO": 50.6829938
     },
     {
       "SECUCODE": "688683.SH",
@@ -800,6 +800,16 @@
       "TOTAL_FREE_SHARES": 142039,
       "TOTAL_SHARES_RATIO": 0.09153299,
       "ALL_SHARES_RATIO": 0.08816942
+    },
+    {
+      "SECUCODE": "688683.SH",
+      "SECURITY_CODE": "688683",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 81507149,
+      "TOTAL_SHARES_RATIO": 52.52496249,
+      "ALL_SHARES_RATIO": 50.59482438
     }
   ],
   "jjcg": [

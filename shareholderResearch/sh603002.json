@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 9.84,
       "AVG_HOLD_AMT": 227476.864230589,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 57.04566085,
+      "FREEHOLD_RATIO_TOTAL": 57.04566085
     },
     {
       "SECUCODE": "603002.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603002.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603002.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603002.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603002.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603002.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603002.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603002.SH",
       "END_DATE": "2019-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "603002.SH",
-      "END_DATE": "2019-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "603002.SH",
       "SECURITY_CODE": "603002",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "广州宏仁电子工业有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "603002.SH",
       "SECURITY_CODE": "603002",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "EPOXY BASE INVESTMENT HOLDING LTD.",
       "HOLDER_TYPE": "投资公司",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "603002.SH",
       "SECURITY_CODE": "603002",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "聚豐投資有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "603002.SH",
       "SECURITY_CODE": "603002",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "CRESCENT UNION LIMITED",
       "HOLDER_TYPE": "其它",
@@ -525,47 +525,21 @@
     {
       "SECUCODE": "603002.SH",
       "SECURITY_CODE": "603002",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国工商银行股份有限公司-金鹰科技创新股票型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9977650,
-      "FREE_HOLDNUM_RATIO": 0.879802405285,
-      "HOLD_NUM_CHANGE": "-3401900",
-      "CHANGE_RATIO": -25.42611672
+      "HOLD_NUM": 15177650,
+      "FREE_HOLDNUM_RATIO": 1.338324452809,
+      "HOLD_NUM_CHANGE": "5200000",
+      "CHANGE_RATIO": 52.11648033
     },
     {
       "SECUCODE": "603002.SH",
       "SECURITY_CODE": "603002",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8542955,
-      "FREE_HOLDNUM_RATIO": 0.753294849713,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603002.SH",
-      "SECURITY_CODE": "603002",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "朱永伟",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7680000,
-      "FREE_HOLDNUM_RATIO": 0.677201793267,
-      "HOLD_NUM_CHANGE": "-790000",
-      "CHANGE_RATIO": -9.3270366
-    },
-    {
-      "SECUCODE": "603002.SH",
-      "SECURITY_CODE": "603002",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "珠海格力金融投资管理有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -577,48 +551,74 @@
     {
       "SECUCODE": "603002.SH",
       "SECURITY_CODE": "603002",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国工商银行股份有限公司-金鹰核心资源混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4570000,
-      "FREE_HOLDNUM_RATIO": 0.40297033792,
-      "HOLD_NUM_CHANGE": "-820000",
-      "CHANGE_RATIO": -15.21335807
+      "HOLD_NUM": 7105749,
+      "FREE_HOLDNUM_RATIO": 0.626565880899,
+      "HOLD_NUM_CHANGE": "-1437206",
+      "CHANGE_RATIO": -16.8232889
     },
     {
       "SECUCODE": "603002.SH",
       "SECURITY_CODE": "603002",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "平安基金-中国平安人寿保险股份有限公司-分红-个险分红-平安人寿-平安基金权益委托投资2号单一资产管理计划",
-      "HOLDER_TYPE": "基金资产管理计划",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "交通银行股份有限公司-金鹰红利价值灵活配置混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4170000,
-      "FREE_HOLDNUM_RATIO": 0.367699411188,
+      "HOLD_NUM": 4976200,
+      "FREE_HOLDNUM_RATIO": 0.438787964017,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603002.SH",
+      "SECURITY_CODE": "603002",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "陶永根",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4970000,
+      "FREE_HOLDNUM_RATIO": 0.438241264653,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603002.SH",
+      "SECURITY_CODE": "603002",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国工商银行股份有限公司-金鹰核心资源混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4770000,
+      "FREE_HOLDNUM_RATIO": 0.420605801287,
+      "HOLD_NUM_CHANGE": "200000",
+      "CHANGE_RATIO": 4.37636761
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "603002.SH",
       "SECURITY_CODE": "603002",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 644883586,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 646942580,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 489194923,
-      "HOLD_NUM_RATIO": 56.86,
+      "OTHER_UNLIMITED_SHARES": 487135929,
+      "HOLD_NUM_RATIO": 57.05,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 43.14
+      "UNLIMITED_SHARES_RATIO": 42.95
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603002.SH",
       "SECURITY_CODE": "603002",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "广州宏仁电子工业有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "603002.SH",
       "SECURITY_CODE": "603002",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "EPOXY BASE INVESTMENT HOLDING LTD.",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "603002.SH",
       "SECURITY_CODE": "603002",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "聚豐投資有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "603002.SH",
       "SECURITY_CODE": "603002",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "CRESCENT UNION LIMITED",
       "SHARES_TYPE": "流通A股",
@@ -666,44 +666,20 @@
     {
       "SECUCODE": "603002.SH",
       "SECURITY_CODE": "603002",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国工商银行股份有限公司-金鹰科技创新股票型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9977650,
-      "HOLD_NUM_RATIO": 0.88,
-      "HOLD_NUM_CHANGE": "-3401900",
-      "CHANGE_RATIO": -25.42611672
+      "HOLD_NUM": 15177650,
+      "HOLD_NUM_RATIO": 1.34,
+      "HOLD_NUM_CHANGE": "5200000",
+      "CHANGE_RATIO": 52.11648033
     },
     {
       "SECUCODE": "603002.SH",
       "SECURITY_CODE": "603002",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8542955,
-      "HOLD_NUM_RATIO": 0.75,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603002.SH",
-      "SECURITY_CODE": "603002",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "朱永伟",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7680000,
-      "HOLD_NUM_RATIO": 0.68,
-      "HOLD_NUM_CHANGE": "-790000",
-      "CHANGE_RATIO": -9.3270366
-    },
-    {
-      "SECUCODE": "603002.SH",
-      "SECURITY_CODE": "603002",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "珠海格力金融投资管理有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 7510246,
@@ -714,26 +690,50 @@
     {
       "SECUCODE": "603002.SH",
       "SECURITY_CODE": "603002",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国工商银行股份有限公司-金鹰核心资源混合型证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4570000,
-      "HOLD_NUM_RATIO": 0.4,
-      "HOLD_NUM_CHANGE": "-820000",
-      "CHANGE_RATIO": -15.21335807
+      "HOLD_NUM": 7105749,
+      "HOLD_NUM_RATIO": 0.63,
+      "HOLD_NUM_CHANGE": "-1437206",
+      "CHANGE_RATIO": -16.8232889
     },
     {
       "SECUCODE": "603002.SH",
       "SECURITY_CODE": "603002",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "平安基金-中国平安人寿保险股份有限公司-分红-个险分红-平安人寿-平安基金权益委托投资2号单一资产管理计划",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "交通银行股份有限公司-金鹰红利价值灵活配置混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4170000,
-      "HOLD_NUM_RATIO": 0.37,
+      "HOLD_NUM": 4976200,
+      "HOLD_NUM_RATIO": 0.44,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603002.SH",
+      "SECURITY_CODE": "603002",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "陶永根",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4970000,
+      "HOLD_NUM_RATIO": 0.44,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603002.SH",
+      "SECURITY_CODE": "603002",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国工商银行股份有限公司-金鹰核心资源混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4770000,
+      "HOLD_NUM_RATIO": 0.42,
+      "HOLD_NUM_CHANGE": "200000",
+      "CHANGE_RATIO": 4.37636761
     }
   ],
   "jgcc": [
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "603002",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 7,
-      "TOTAL_FREE_SHARES": 33796836,
-      "TOTAL_SHARES_RATIO": 2.9801143,
-      "ALL_SHARES_RATIO": 2.9801143
+      "TOTAL_ORG_NUM": 13,
+      "TOTAL_FREE_SHARES": 650845566,
+      "TOTAL_SHARES_RATIO": 57.38981566,
+      "ALL_SHARES_RATIO": 57.38981566
     },
     {
       "SECUCODE": "603002.SH",
@@ -756,6 +756,16 @@
       "TOTAL_FREE_SHARES": 33796836,
       "TOTAL_SHARES_RATIO": 2.9801143,
       "ALL_SHARES_RATIO": 2.9801143
+    },
+    {
+      "SECUCODE": "603002.SH",
+      "SECURITY_CODE": "603002",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 617048730,
+      "TOTAL_SHARES_RATIO": 54.40970136,
+      "ALL_SHARES_RATIO": 54.40970136
     }
   ],
   "jjcg": [

@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 22.49,
       "AVG_HOLD_AMT": 642126.846568713,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 58.37481072,
+      "FREEHOLD_RATIO_TOTAL": 58.37481072
     },
     {
       "SECUCODE": "603701.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603701.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603701.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603701.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603701.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603701.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603701.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603701.SH",
       "END_DATE": "2017-05-19 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "603701.SH",
-      "END_DATE": "2017-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "603701.SH",
       "SECURITY_CODE": "603701",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "宁波市镇海投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "603701.SH",
       "SECURITY_CODE": "603701",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "张元园",
       "HOLDER_TYPE": "个人",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "603701.SH",
       "SECURITY_CODE": "603701",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "张宏保",
       "HOLDER_TYPE": "个人",
@@ -512,60 +512,73 @@
     {
       "SECUCODE": "603701.SH",
       "SECURITY_CODE": "603701",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "中国工商银行股份有限公司-富国天惠精选成长混合型证券投资基金(LOF)",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10000000,
-      "FREE_HOLDNUM_RATIO": 3.826112360577,
-      "HOLD_NUM_CHANGE": "-2007000",
-      "CHANGE_RATIO": -16.71524944
-    },
-    {
-      "SECUCODE": "603701.SH",
-      "SECURITY_CODE": "603701",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "施旻霞",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6786340,
-      "FREE_HOLDNUM_RATIO": 2.596529935708,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 5879340,
+      "FREE_HOLDNUM_RATIO": 2.249501544603,
+      "HOLD_NUM_CHANGE": "-907000",
+      "CHANGE_RATIO": -13.36508339
     },
     {
       "SECUCODE": "603701.SH",
       "SECURITY_CODE": "603701",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中国工商银行股份有限公司-富国天惠精选成长混合型证券投资基金(LOF)",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5000000,
+      "FREE_HOLDNUM_RATIO": 1.913056180289,
+      "HOLD_NUM_CHANGE": "-5000000",
+      "CHANGE_RATIO": -50
+    },
+    {
+      "SECUCODE": "603701.SH",
+      "SECURITY_CODE": "603701",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "中信银行股份有限公司-华夏卓越成长混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3068576,
-      "FREE_HOLDNUM_RATIO": 1.174071656297,
-      "HOLD_NUM_CHANGE": "-268800",
-      "CHANGE_RATIO": -8.05423183
+      "HOLD_NUM": 4276076,
+      "FREE_HOLDNUM_RATIO": 1.636074723837,
+      "HOLD_NUM_CHANGE": "1207500",
+      "CHANGE_RATIO": 39.35050004
     },
     {
       "SECUCODE": "603701.SH",
       "SECURITY_CODE": "603701",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国银行股份有限公司-华夏行业景气混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3936000,
+      "FREE_HOLDNUM_RATIO": 1.505957825123,
+      "HOLD_NUM_CHANGE": "1326400",
+      "CHANGE_RATIO": 50.82771306
+    },
+    {
+      "SECUCODE": "603701.SH",
+      "SECURITY_CODE": "603701",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "郑建达",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2889800,
-      "FREE_HOLDNUM_RATIO": 1.10566994996,
-      "HOLD_NUM_CHANGE": "-66300",
-      "CHANGE_RATIO": -2.24281993
+      "HOLD_NUM": 2741900,
+      "FREE_HOLDNUM_RATIO": 1.049081748147,
+      "HOLD_NUM_CHANGE": "-147900",
+      "CHANGE_RATIO": -5.11800125
     },
     {
       "SECUCODE": "603701.SH",
       "SECURITY_CODE": "603701",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "张宁",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -577,48 +590,35 @@
     {
       "SECUCODE": "603701.SH",
       "SECURITY_CODE": "603701",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "中国建设银行股份有限公司-富国新活力灵活配置混合型发起式证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2636200,
-      "FREE_HOLDNUM_RATIO": 1.008639740495,
-      "HOLD_NUM_CHANGE": "-141600",
-      "CHANGE_RATIO": -5.09755922
-    },
-    {
-      "SECUCODE": "603701.SH",
-      "SECURITY_CODE": "603701",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国银行股份有限公司-华夏行业景气混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2609600,
-      "FREE_HOLDNUM_RATIO": 0.998462281616,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2244300,
+      "FREE_HOLDNUM_RATIO": 0.858694397084,
+      "HOLD_NUM_CHANGE": "-391900",
+      "CHANGE_RATIO": -14.86609514
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "603701.SH",
       "SECURITY_CODE": "603701",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 156482415,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 152569515,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 104879486,
-      "HOLD_NUM_RATIO": 59.87,
+      "OTHER_UNLIMITED_SHARES": 108792386,
+      "HOLD_NUM_RATIO": 58.37,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 40.13
+      "UNLIMITED_SHARES_RATIO": 41.63
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603701.SH",
       "SECURITY_CODE": "603701",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "宁波市镇海投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "603701.SH",
       "SECURITY_CODE": "603701",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "张元园",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "603701.SH",
       "SECURITY_CODE": "603701",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "张宏保",
       "SHARES_TYPE": "流通A股",
@@ -654,56 +654,68 @@
     {
       "SECUCODE": "603701.SH",
       "SECURITY_CODE": "603701",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "中国工商银行股份有限公司-富国天惠精选成长混合型证券投资基金(LOF)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10000000,
-      "HOLD_NUM_RATIO": 3.83,
-      "HOLD_NUM_CHANGE": "-2007000",
-      "CHANGE_RATIO": -16.71524944
-    },
-    {
-      "SECUCODE": "603701.SH",
-      "SECURITY_CODE": "603701",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "施旻霞",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6786340,
-      "HOLD_NUM_RATIO": 2.6,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 5879340,
+      "HOLD_NUM_RATIO": 2.25,
+      "HOLD_NUM_CHANGE": "-907000",
+      "CHANGE_RATIO": -13.36508339
     },
     {
       "SECUCODE": "603701.SH",
       "SECURITY_CODE": "603701",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中国工商银行股份有限公司-富国天惠精选成长混合型证券投资基金(LOF)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5000000,
+      "HOLD_NUM_RATIO": 1.91,
+      "HOLD_NUM_CHANGE": "-5000000",
+      "CHANGE_RATIO": -50
+    },
+    {
+      "SECUCODE": "603701.SH",
+      "SECURITY_CODE": "603701",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "中信银行股份有限公司-华夏卓越成长混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3068576,
-      "HOLD_NUM_RATIO": 1.17,
-      "HOLD_NUM_CHANGE": "-268800",
-      "CHANGE_RATIO": -8.05423183
+      "HOLD_NUM": 4276076,
+      "HOLD_NUM_RATIO": 1.64,
+      "HOLD_NUM_CHANGE": "1207500",
+      "CHANGE_RATIO": 39.35050004
     },
     {
       "SECUCODE": "603701.SH",
       "SECURITY_CODE": "603701",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国银行股份有限公司-华夏行业景气混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3936000,
+      "HOLD_NUM_RATIO": 1.51,
+      "HOLD_NUM_CHANGE": "1326400",
+      "CHANGE_RATIO": 50.82771306
+    },
+    {
+      "SECUCODE": "603701.SH",
+      "SECURITY_CODE": "603701",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "郑建达",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2889800,
-      "HOLD_NUM_RATIO": 1.11,
-      "HOLD_NUM_CHANGE": "-66300",
-      "CHANGE_RATIO": -2.24281993
+      "HOLD_NUM": 2741900,
+      "HOLD_NUM_RATIO": 1.05,
+      "HOLD_NUM_CHANGE": "-147900",
+      "CHANGE_RATIO": -5.11800125
     },
     {
       "SECUCODE": "603701.SH",
       "SECURITY_CODE": "603701",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "张宁",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2640019,
@@ -714,26 +726,14 @@
     {
       "SECUCODE": "603701.SH",
       "SECURITY_CODE": "603701",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "中国建设银行股份有限公司-富国新活力灵活配置混合型发起式证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2636200,
-      "HOLD_NUM_RATIO": 1.01,
-      "HOLD_NUM_CHANGE": "-141600",
-      "CHANGE_RATIO": -5.09755922
-    },
-    {
-      "SECUCODE": "603701.SH",
-      "SECURITY_CODE": "603701",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国银行股份有限公司-华夏行业景气混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2609600,
-      "HOLD_NUM_RATIO": 1,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2244300,
+      "HOLD_NUM_RATIO": 0.86,
+      "HOLD_NUM_CHANGE": "-391900",
+      "CHANGE_RATIO": -14.86609514
     }
   ],
   "jgcc": [
@@ -742,23 +742,50 @@
       "SECURITY_CODE": "603701",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 9030878,
-      "TOTAL_SHARES_RATIO": 3.4553154,
-      "ALL_SHARES_RATIO": 3.4553154
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 96746878,
+      "TOTAL_SHARES_RATIO": 37.01644259,
+      "ALL_SHARES_RATIO": 37.01644259
     },
     {
       "SECUCODE": "603701.SH",
       "SECURITY_CODE": "603701",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 9030878,
-      "TOTAL_SHARES_RATIO": 3.4553154,
-      "ALL_SHARES_RATIO": 3.4553154
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 17966878,
+      "TOTAL_SHARES_RATIO": 6.87432941,
+      "ALL_SHARES_RATIO": 6.87432941
+    },
+    {
+      "SECUCODE": "603701.SH",
+      "SECURITY_CODE": "603701",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 78780000,
+      "TOTAL_SHARES_RATIO": 30.14211318,
+      "ALL_SHARES_RATIO": 30.14211318
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603701.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "161005",
+      "HOLDER_NAME": "富国天惠成长混合(LOF)A",
+      "TOTAL_SHARES": 5000000,
+      "HOLD_VALUE": 112450000,
+      "TOTALSHARES_RATIO": 1.91305618,
+      "FREESHARES_RATIO": 1.91305618,
+      "FREE_MARKET_CAP": 112450000,
+      "FREE_SHARES": 5000000,
+      "SECURITY_CODE": "603701",
+      "FUND_CODE": "161005",
+      "FUND_DERIVECODE": "161005.SZ",
+      "NETVALUE_RATIO": 0.61
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "603701.SH",
@@ -775,6 +802,23 @@
       "FUND_CODE": "024928",
       "FUND_DERIVECODE": "024928.OF",
       "NETVALUE_RATIO": 3.61
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603701.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "003567",
+      "HOLDER_NAME": "华夏行业景气混合A",
+      "TOTAL_SHARES": 3936000,
+      "HOLD_VALUE": 88520640,
+      "TOTALSHARES_RATIO": 1.50595783,
+      "FREESHARES_RATIO": 1.50595783,
+      "FREE_MARKET_CAP": 88520640,
+      "FREE_SHARES": 3936000,
+      "SECURITY_CODE": "603701",
+      "FUND_CODE": "003567",
+      "FUND_DERIVECODE": "003567.OF",
+      "NETVALUE_RATIO": 1.07
     },
     {
       "ORG_TYPE": "01",

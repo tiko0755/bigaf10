@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600028.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600028.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,10 +161,6 @@
     {
       "SECUCODE": "600028.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600028.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
@@ -168,6 +168,11 @@
       "SECUCODE": "600028.SH",
       "END_DATE": "2026-04-01 00:00:00",
       "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "600028.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
     },
     {
       "SECUCODE": "600028.SH",
@@ -408,11 +413,6 @@
       "SECUCODE": "600028.SH",
       "END_DATE": "2016-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600028.SH",
-      "END_DATE": "2016-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -453,19 +453,8 @@
       "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 83183932653,
       "HOLD_NUM_RATIO": 68.79,
-      "HOLD_CHANGE": "67494578",
-      "CHANGE_RATIO": 0.08120485,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-21 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "中国石油化工集团有限公司",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 83114461775,
-      "HOLD_NUM_RATIO": 68.59,
-      "HOLD_CHANGE": "6840664",
-      "CHANGE_RATIO": 0.00823109,
+      "HOLD_CHANGE": "3376400",
+      "CHANGE_RATIO": 0.00405912,
       "CHANGE_REASON": "临时公告"
     }
   ],
@@ -506,47 +495,34 @@
     {
       "SECUCODE": "600028.SH",
       "SECURITY_CODE": "600028",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国石油化工集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 80725999828,
-      "FREE_HOLDNUM_RATIO": 68.103048118032,
-      "HOLD_NUM_CHANGE": "8816964",
-      "CHANGE_RATIO": 0.01092328
+      "HOLD_NUM": 80790118006,
+      "FREE_HOLDNUM_RATIO": 68.157140273854,
+      "HOLD_NUM_CHANGE": "64118178",
+      "CHANGE_RATIO": 0.07942692
     },
     {
       "SECUCODE": "600028.SH",
       "SECURITY_CODE": "600028",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "香港中央结算(代理人)有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "H股",
-      "HOLD_NUM": 23648004723,
-      "FREE_HOLDNUM_RATIO": 19.95021686913,
-      "HOLD_NUM_CHANGE": "-162559201",
-      "CHANGE_RATIO": -0.68271882
+      "HOLD_NUM": 23647983793,
+      "FREE_HOLDNUM_RATIO": 19.950199211909,
+      "HOLD_NUM_CHANGE": "-20930",
+      "CHANGE_RATIO": -0.00008851
     },
     {
       "SECUCODE": "600028.SH",
       "SECURITY_CODE": "600028",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "中国证券金融股份有限公司",
-      "HOLDER_TYPE": "证券公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2325374407,
-      "FREE_HOLDNUM_RATIO": 1.961760591009,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600028.SH",
-      "SECURITY_CODE": "600028",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "中国石油天然气集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -558,34 +534,60 @@
     {
       "SECUCODE": "600028.SH",
       "SECURITY_CODE": "600028",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "中国证券金融股份有限公司",
+      "HOLDER_TYPE": "证券公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1978558034,
+      "FREE_HOLDNUM_RATIO": 1.669175151512,
+      "HOLD_NUM_CHANGE": "-346816373",
+      "CHANGE_RATIO": -14.9144315
+    },
+    {
+      "SECUCODE": "600028.SH",
+      "SECURITY_CODE": "600028",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 569079343,
-      "FREE_HOLDNUM_RATIO": 0.480093624878,
-      "HOLD_NUM_CHANGE": "68022871",
-      "CHANGE_RATIO": 13.57588911
+      "HOLD_NUM": 561765398,
+      "FREE_HOLDNUM_RATIO": 0.473923345794,
+      "HOLD_NUM_CHANGE": "-7313945",
+      "CHANGE_RATIO": -1.28522412
     },
     {
       "SECUCODE": "600028.SH",
       "SECURITY_CODE": "600028",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "国新宏盛投资(北京)有限公司",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 495725348,
+      "FREE_HOLDNUM_RATIO": 0.418209836981,
+      "HOLD_NUM_CHANGE": "238671923",
+      "CHANGE_RATIO": 92.84915111
+    },
+    {
+      "SECUCODE": "600028.SH",
+      "SECURITY_CODE": "600028",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
       "HOLDER_TYPE": "保险产品",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 369033614,
-      "FREE_HOLDNUM_RATIO": 0.311328618103,
-      "HOLD_NUM_CHANGE": "48469469",
-      "CHANGE_RATIO": 15.12005312
+      "HOLD_NUM": 374139453,
+      "FREE_HOLDNUM_RATIO": 0.315636067993,
+      "HOLD_NUM_CHANGE": "5105839",
+      "CHANGE_RATIO": 1.38357017
     },
     {
       "SECUCODE": "600028.SH",
       "SECURITY_CODE": "600028",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "中央汇金资产管理有限责任公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -597,8 +599,8 @@
     {
       "SECUCODE": "600028.SH",
       "SECURITY_CODE": "600028",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "国丰兴华(北京)私募基金管理有限公司-国丰兴华鸿鹄志远三期私募证券投资基金1号",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
@@ -610,26 +612,13 @@
     {
       "SECUCODE": "600028.SH",
       "SECURITY_CODE": "600028",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国工商银行-上证50交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 269565538,
-      "FREE_HOLDNUM_RATIO": 0.227414152126,
-      "HOLD_NUM_CHANGE": "-8971183",
-      "CHANGE_RATIO": -3.22082595
-    },
-    {
-      "SECUCODE": "600028.SH",
-      "SECURITY_CODE": "600028",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "国新宏盛投资(北京)有限公司",
-      "HOLDER_TYPE": "投资公司",
+      "HOLDER_NAME": "国信证券股份有限公司",
+      "HOLDER_TYPE": "证券公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 257053425,
-      "FREE_HOLDNUM_RATIO": 0.216858531439,
+      "HOLD_NUM": 235375724,
+      "FREE_HOLDNUM_RATIO": 0.19857052612,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -638,13 +627,13 @@
     {
       "SECUCODE": "600028.SH",
       "SECURITY_CODE": "600028",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 110950042602,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 110869597480,
       "LIMITED_SHARES": 2390438247,
-      "OTHER_UNLIMITED_SHARES": 7585033373,
-      "HOLD_NUM_RATIO": 91.75,
+      "OTHER_UNLIMITED_SHARES": 7665478495,
+      "HOLD_NUM_RATIO": 91.68,
       "LIMITED_SHARES_RATIO": 1.98,
-      "UNLIMITED_SHARES_RATIO": 6.27
+      "UNLIMITED_SHARES_RATIO": 6.34
     }
   ],
   "sdgd": [
@@ -657,8 +646,8 @@
       "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 83183932653,
       "HOLD_NUM_RATIO": 68.79,
-      "HOLD_NUM_CHANGE": "67494578",
-      "CHANGE_RATIO": 0.08120485
+      "HOLD_NUM_CHANGE": "3376400",
+      "CHANGE_RATIO": 0.00405912
     },
     {
       "SECUCODE": "600028.SH",
@@ -667,7 +656,7 @@
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "香港中央结算(代理人)有限公司",
       "SHARES_TYPE": "流通H股",
-      "HOLD_NUM": 23648004723,
+      "HOLD_NUM": 23647983793,
       "HOLD_NUM_RATIO": 19.56,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
@@ -679,10 +668,10 @@
       "SECURITY_CODE": "600028",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 78,
-      "TOTAL_FREE_SHARES": 377946262,
-      "TOTAL_SHARES_RATIO": 0.39887747,
-      "ALL_SHARES_RATIO": 0.31254468
+      "TOTAL_ORG_NUM": 87,
+      "TOTAL_FREE_SHARES": 89989998196,
+      "TOTAL_SHARES_RATIO": 92.45094613,
+      "ALL_SHARES_RATIO": 72.44092408
     },
     {
       "SECUCODE": "600028.SH",
@@ -693,6 +682,36 @@
       "TOTAL_FREE_SHARES": 377946262,
       "TOTAL_SHARES_RATIO": 0.39887747,
       "ALL_SHARES_RATIO": 0.31254468
+    },
+    {
+      "SECUCODE": "600028.SH",
+      "SECURITY_CODE": "600028",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "04",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 235375724,
+      "TOTAL_SHARES_RATIO": 0.24841116,
+      "ALL_SHARES_RATIO": 0.19464521
+    },
+    {
+      "SECUCODE": "600028.SH",
+      "SECURITY_CODE": "600028",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "05",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 374139453,
+      "TOTAL_SHARES_RATIO": 0.39485982,
+      "ALL_SHARES_RATIO": 0.30939662
+    },
+    {
+      "SECUCODE": "600028.SH",
+      "SECURITY_CODE": "600028",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 89002536757,
+      "TOTAL_SHARES_RATIO": 91.40879768,
+      "ALL_SHARES_RATIO": 71.62433757
     }
   ],
   "jjcg": [

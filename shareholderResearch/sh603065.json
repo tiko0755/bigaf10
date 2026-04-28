@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 8.13,
       "AVG_HOLD_AMT": 188866.446374272,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 61.16800777,
+      "FREEHOLD_RATIO_TOTAL": 61.16800777
     },
     {
       "SECUCODE": "603065.SH",
@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603065.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603065.SH",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603065.SH",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "603065.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603065.SH",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603065.SH",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603065.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "603065.SH",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603065.SH",
       "END_DATE": "2025-09-30 00:00:00",
@@ -296,6 +306,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "603065.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603065.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -309,47 +323,9 @@
     {
       "SECUCODE": "603065.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603065.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-08-19 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "宁波梅山保税港区方源智合投资管理合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 21579957,
-      "HOLD_NUM_RATIO": 5.15,
-      "HOLD_CHANGE": "-4117300",
-      "CHANGE_RATIO": -16.02233266,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-08-11 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "宁波梅山保税港区方源智本股权投资管理有限公司-宁波梅山保税港区方源智合投资管理合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 25697257,
-      "HOLD_NUM_RATIO": 6.13,
-      "HOLD_CHANGE": "-4269300",
-      "CHANGE_RATIO": -14.24688195,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-08-04 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "宁波梅山保税港区方源智本股权投资管理有限公司-宁波梅山保税港区方源智合投资管理合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 29966557,
-      "HOLD_NUM_RATIO": 7.15,
-      "HOLD_CHANGE": "-602000",
-      "CHANGE_RATIO": -1.96934386,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "603065.SH",
@@ -377,130 +353,130 @@
     {
       "SECUCODE": "603065.SH",
       "SECURITY_CODE": "603065",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
-      "HOLDER_NAME": "江苏沿海产业投资基金(有限合伙)",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 34280000,
-      "FREE_HOLDNUM_RATIO": 17.429906847368,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603065.SH",
-      "SECURITY_CODE": "603065",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "宁波梅山保税港区方源智本股权投资管理有限公司-宁波梅山保税港区方源智合投资管理合伙企业(有限合伙)",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 17999531,
-      "FREE_HOLDNUM_RATIO": 9.151987999601,
-      "HOLD_NUM_CHANGE": "-12569026",
-      "CHANGE_RATIO": -41.11749861
-    },
-    {
-      "SECUCODE": "603065.SH",
-      "SECURITY_CODE": "603065",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "南京邦盛新工股权投资基金管理有限公司-江苏疌泉新工邦盛创业投资基金合伙企业(有限合伙)",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7900000,
-      "FREE_HOLDNUM_RATIO": 4.016810504498,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603065.SH",
-      "SECURITY_CODE": "603065",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "深圳市招商盈葵股权投资基金管理有限公司-深圳市招商招银股权投资基金合伙企业(有限合伙)",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7069939,
-      "FREE_HOLDNUM_RATIO": 3.594760157135,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603065.SH",
-      "SECURITY_CODE": "603065",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "宿迁联发科技合伙企业(有限合伙)",
+      "HOLDER_NAME": "宿迁联拓控股(集团)有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7000000,
-      "FREE_HOLDNUM_RATIO": 3.559199181201,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603065.SH",
-      "SECURITY_CODE": "603065",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "宿迁联拓科技合伙企业(有限合伙)",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4564000,
-      "FREE_HOLDNUM_RATIO": 2.320597866143,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603065.SH",
-      "SECURITY_CODE": "603065",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "宁波梅山保税港区方源智本股权投资管理有限公司-宁波梅山保税港区方源创盈股权投资合伙企业(有限合伙)",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3394214,
-      "FREE_HOLDNUM_RATIO": 1.72581195566,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603065.SH",
-      "SECURITY_CODE": "603065",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "王永昌",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2500000,
-      "FREE_HOLDNUM_RATIO": 1.271142564715,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603065.SH",
-      "SECURITY_CODE": "603065",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "宿迁高投毅达产才融合发展创业投资合伙企业(有限合伙)",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1142856,
-      "FREE_HOLDNUM_RATIO": 0.581093162776,
+      "HOLD_NUM": 80000000,
+      "FREE_HOLDNUM_RATIO": 19.094556559141,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603065.SH",
       "SECURITY_CODE": "603065",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "王永正",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "王宝光",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1046100,
-      "FREE_HOLDNUM_RATIO": 0.531896894779,
+      "HOLD_NUM": 65433334,
+      "FREE_HOLDNUM_RATIO": 15.617756211452,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603065.SH",
+      "SECURITY_CODE": "603065",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "江苏沿海产业投资基金(有限合伙)",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 34280000,
+      "FREE_HOLDNUM_RATIO": 8.182017485592,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603065.SH",
+      "SECURITY_CODE": "603065",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "项瞻波",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 32500000,
+      "FREE_HOLDNUM_RATIO": 7.757163602151,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603065.SH",
+      "SECURITY_CODE": "603065",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "孙作席",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 10000000,
+      "FREE_HOLDNUM_RATIO": 2.386819569893,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603065.SH",
+      "SECURITY_CODE": "603065",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "南京邦盛新工股权投资基金管理有限公司-江苏疌泉新工邦盛创业投资基金合伙企业(有限合伙)",
+      "HOLDER_TYPE": "私募基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7900000,
+      "FREE_HOLDNUM_RATIO": 1.885587460215,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603065.SH",
+      "SECURITY_CODE": "603065",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "王小红",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7260783,
+      "FREE_HOLDNUM_RATIO": 1.733017895714,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603065.SH",
+      "SECURITY_CODE": "603065",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "宿迁联发科技合伙企业(有限合伙)",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7000000,
+      "FREE_HOLDNUM_RATIO": 1.670773698925,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603065.SH",
+      "SECURITY_CODE": "603065",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "宿迁联宏科技合伙企业(有限合伙)",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6700000,
+      "FREE_HOLDNUM_RATIO": 1.599169111828,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603065.SH",
+      "SECURITY_CODE": "603065",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "项有智",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5200000,
+      "FREE_HOLDNUM_RATIO": 1.241146176344,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -509,23 +485,23 @@
     {
       "SECUCODE": "603065.SH",
       "SECURITY_CODE": "603065",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 86896640,
-      "LIMITED_SHARES": 222294117,
-      "OTHER_UNLIMITED_SHARES": 109776815,
-      "HOLD_NUM_RATIO": 20.74,
-      "LIMITED_SHARES_RATIO": 53.06,
-      "UNLIMITED_SHARES_RATIO": 26.2
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 256274117,
+      "LIMITED_SHARES": null,
+      "OTHER_UNLIMITED_SHARES": 162693455,
+      "HOLD_NUM_RATIO": 61.17,
+      "LIMITED_SHARES_RATIO": null,
+      "UNLIMITED_SHARES_RATIO": 38.83
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603065.SH",
       "SECURITY_CODE": "603065",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "宿迁联拓控股(集团)有限公司",
-      "SHARES_TYPE": "限售流通A股",
+      "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 80000000,
       "HOLD_NUM_RATIO": 19.09,
       "HOLD_NUM_CHANGE": "不变",
@@ -534,10 +510,10 @@
     {
       "SECUCODE": "603065.SH",
       "SECURITY_CODE": "603065",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "王宝光",
-      "SHARES_TYPE": "限售流通A股",
+      "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 65433334,
       "HOLD_NUM_RATIO": 15.62,
       "HOLD_NUM_CHANGE": "不变",
@@ -546,7 +522,7 @@
     {
       "SECUCODE": "603065.SH",
       "SECURITY_CODE": "603065",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "江苏沿海产业投资基金(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -558,10 +534,10 @@
     {
       "SECUCODE": "603065.SH",
       "SECURITY_CODE": "603065",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "项瞻波",
-      "SHARES_TYPE": "限售流通A股",
+      "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 32500000,
       "HOLD_NUM_RATIO": 7.76,
       "HOLD_NUM_CHANGE": "不变",
@@ -570,22 +546,10 @@
     {
       "SECUCODE": "603065.SH",
       "SECURITY_CODE": "603065",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "宁波梅山保税港区方源智本股权投资管理有限公司-宁波梅山保税港区方源智合投资管理合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 17999531,
-      "HOLD_NUM_RATIO": 4.3,
-      "HOLD_NUM_CHANGE": "-3580426",
-      "CHANGE_RATIO": -16.59144177
-    },
-    {
-      "SECUCODE": "603065.SH",
-      "SECURITY_CODE": "603065",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "孙作席",
-      "SHARES_TYPE": "限售流通A股",
+      "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 10000000,
       "HOLD_NUM_RATIO": 2.39,
       "HOLD_NUM_CHANGE": "不变",
@@ -594,8 +558,8 @@
     {
       "SECUCODE": "603065.SH",
       "SECURITY_CODE": "603065",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "南京邦盛新工股权投资基金管理有限公司-江苏疌泉新工邦盛创业投资基金合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 7900000,
@@ -606,10 +570,10 @@
     {
       "SECUCODE": "603065.SH",
       "SECURITY_CODE": "603065",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "王小红",
-      "SHARES_TYPE": "限售流通A股",
+      "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 7260783,
       "HOLD_NUM_RATIO": 1.73,
       "HOLD_NUM_CHANGE": "不变",
@@ -618,25 +582,37 @@
     {
       "SECUCODE": "603065.SH",
       "SECURITY_CODE": "603065",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "深圳市招商盈葵股权投资基金管理有限公司-深圳市招商招银股权投资基金合伙企业(有限合伙)",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "宿迁联发科技合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7069939,
-      "HOLD_NUM_RATIO": 1.69,
+      "HOLD_NUM": 7000000,
+      "HOLD_NUM_RATIO": 1.67,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603065.SH",
       "SECURITY_CODE": "603065",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "宿迁联发科技合伙企业(有限合伙)",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "宿迁联宏科技合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7000000,
-      "HOLD_NUM_RATIO": 1.67,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 6700000,
+      "HOLD_NUM_RATIO": 1.6,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603065.SH",
+      "SECURITY_CODE": "603065",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "项有智",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5200000,
+      "HOLD_NUM_RATIO": 1.24,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -644,22 +620,22 @@
     {
       "SECUCODE": "603065.SH",
       "SECURITY_CODE": "603065",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 38,
-      "TOTAL_FREE_SHARES": 1343815,
-      "TOTAL_SHARES_RATIO": 0.68327216,
-      "ALL_SHARES_RATIO": 0.32074435
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 135880000,
+      "TOTAL_SHARES_RATIO": 32.43210432,
+      "ALL_SHARES_RATIO": 32.43210432
     },
     {
       "SECUCODE": "603065.SH",
       "SECURITY_CODE": "603065",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 38,
-      "TOTAL_FREE_SHARES": 1343815,
-      "TOTAL_SHARES_RATIO": 0.68327216,
-      "ALL_SHARES_RATIO": 0.32074435
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 135880000,
+      "TOTAL_SHARES_RATIO": 32.43210432,
+      "ALL_SHARES_RATIO": 32.43210432
     }
   ],
   "jjcg": [

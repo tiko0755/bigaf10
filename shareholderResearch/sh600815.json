@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 4,
       "AVG_HOLD_AMT": 93389.3681813995,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 56.23862919,
+      "FREEHOLD_RATIO_TOTAL": 56.23862919
     },
     {
       "SECUCODE": "600815.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600815.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600815.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600815.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600815.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600815.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600815.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600815.SH",
       "END_DATE": "2016-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600815.SH",
-      "END_DATE": "2016-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "600815.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "600815.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,25 +443,9 @@
     {
       "SECUCODE": "600815.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600815.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-10-21 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "中国进出口银行厦门分行",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 88704788,
-      "HOLD_NUM_RATIO": 5,
-      "HOLD_CHANGE": "-11665300",
-      "CHANGE_RATIO": -11.62228731,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "600815.SH",
@@ -485,7 +473,7 @@
     {
       "SECUCODE": "600815.SH",
       "SECURITY_CODE": "600815",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "厦门海翼集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -498,21 +486,8 @@
     {
       "SECUCODE": "600815.SH",
       "SECURITY_CODE": "600815",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "中国进出口银行厦门分行",
-      "HOLDER_TYPE": "金融",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 84407388,
-      "FREE_HOLDNUM_RATIO": 4.75777299076,
-      "HOLD_NUM_CHANGE": "-15962700",
-      "CHANGE_RATIO": -15.90384179
-    },
-    {
-      "SECUCODE": "600815.SH",
-      "SECURITY_CODE": "600815",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "厦门厦工重工有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -524,47 +499,86 @@
     {
       "SECUCODE": "600815.SH",
       "SECURITY_CODE": "600815",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "中国工商银行股份有限公司厦门市分行",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "中国进出口银行厦门分行",
       "HOLDER_TYPE": "金融",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 28159658,
-      "FREE_HOLDNUM_RATIO": 1.587269354448,
-      "HOLD_NUM_CHANGE": "-17740000",
-      "CHANGE_RATIO": -38.64952545
+      "HOLD_NUM": 56395288,
+      "FREE_HOLDNUM_RATIO": 3.178821006196,
+      "HOLD_NUM_CHANGE": "-28012100",
+      "CHANGE_RATIO": -33.18678692
     },
     {
       "SECUCODE": "600815.SH",
       "SECURITY_CODE": "600815",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "蔡盛韬",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9254000,
-      "FREE_HOLDNUM_RATIO": 0.521618217312,
+      "HOLD_NUM": 24554600,
+      "FREE_HOLDNUM_RATIO": 1.384063829566,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600815.SH",
       "SECURITY_CODE": "600815",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "陈向群",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "王煜锋",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7552900,
-      "FREE_HOLDNUM_RATIO": 0.425732681385,
-      "HOLD_NUM_CHANGE": "-387500",
-      "CHANGE_RATIO": -4.8801068
+      "HOLD_NUM": 16738100,
+      "FREE_HOLDNUM_RATIO": 0.943472863971,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600815.SH",
       "SECURITY_CODE": "600815",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 15906295,
+      "FREE_HOLDNUM_RATIO": 0.896586691369,
+      "HOLD_NUM_CHANGE": "6652295",
+      "CHANGE_RATIO": 71.88561703
+    },
+    {
+      "SECUCODE": "600815.SH",
+      "SECURITY_CODE": "600815",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国工商银行股份有限公司厦门市分行",
+      "HOLDER_TYPE": "金融",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 10419658,
+      "FREE_HOLDNUM_RATIO": 0.587322609786,
+      "HOLD_NUM_CHANGE": "-17740000",
+      "CHANGE_RATIO": -62.99792419
+    },
+    {
+      "SECUCODE": "600815.SH",
+      "SECURITY_CODE": "600815",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "蔡文澜",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 9700000,
+      "FREE_HOLDNUM_RATIO": 0.546757802888,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600815.SH",
+      "SECURITY_CODE": "600815",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "厦门创程资产运营有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -576,39 +590,13 @@
     {
       "SECUCODE": "600815.SH",
       "SECURITY_CODE": "600815",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "高盛公司有限责任公司",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6475825,
-      "FREE_HOLDNUM_RATIO": 0.36502142772,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600815.SH",
-      "SECURITY_CODE": "600815",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "孙文芳",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4226700,
-      "FREE_HOLDNUM_RATIO": 0.2382454851,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600815.SH",
-      "SECURITY_CODE": "600815",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "孙小阳",
+      "HOLDER_NAME": "蔡福益",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3862300,
-      "FREE_HOLDNUM_RATIO": 0.217705429082,
+      "HOLD_NUM": 7010000,
+      "FREE_HOLDNUM_RATIO": 0.395131154458,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -617,20 +605,20 @@
     {
       "SECUCODE": "600815.SH",
       "SECURITY_CODE": "600815",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 1000941246,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 997726416,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 773153234,
-      "HOLD_NUM_RATIO": 56.42,
+      "OTHER_UNLIMITED_SHARES": 776368064,
+      "HOLD_NUM_RATIO": 56.24,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 43.58
+      "UNLIMITED_SHARES_RATIO": 43.76
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600815.SH",
       "SECURITY_CODE": "600815",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "厦门海翼集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,20 +630,8 @@
     {
       "SECUCODE": "600815.SH",
       "SECURITY_CODE": "600815",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "中国进出口银行厦门分行",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 84407388,
-      "HOLD_NUM_RATIO": 4.76,
-      "HOLD_NUM_CHANGE": "-4297400",
-      "CHANGE_RATIO": -4.84460884
-    },
-    {
-      "SECUCODE": "600815.SH",
-      "SECURITY_CODE": "600815",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "厦门厦工重工有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 72750834,
@@ -666,44 +642,80 @@
     {
       "SECUCODE": "600815.SH",
       "SECURITY_CODE": "600815",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "中国工商银行股份有限公司厦门市分行",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "中国进出口银行厦门分行",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 28159658,
-      "HOLD_NUM_RATIO": 1.59,
-      "HOLD_NUM_CHANGE": "-17740000",
-      "CHANGE_RATIO": -38.64952545
+      "HOLD_NUM": 56395288,
+      "HOLD_NUM_RATIO": 3.18,
+      "HOLD_NUM_CHANGE": "-28012100",
+      "CHANGE_RATIO": -33.18678692
     },
     {
       "SECUCODE": "600815.SH",
       "SECURITY_CODE": "600815",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "香港中央结算有限公司",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "蔡盛韬",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9254000,
-      "HOLD_NUM_RATIO": 0.52,
+      "HOLD_NUM": 24554600,
+      "HOLD_NUM_RATIO": 1.38,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600815.SH",
       "SECURITY_CODE": "600815",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "陈向群",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "王煜锋",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7552900,
-      "HOLD_NUM_RATIO": 0.43,
-      "HOLD_NUM_CHANGE": "-387500",
-      "CHANGE_RATIO": -4.8801068
+      "HOLD_NUM": 16738100,
+      "HOLD_NUM_RATIO": 0.94,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600815.SH",
       "SECURITY_CODE": "600815",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 15906295,
+      "HOLD_NUM_RATIO": 0.9,
+      "HOLD_NUM_CHANGE": "6652295",
+      "CHANGE_RATIO": 71.88561703
+    },
+    {
+      "SECUCODE": "600815.SH",
+      "SECURITY_CODE": "600815",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国工商银行股份有限公司厦门市分行",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 10419658,
+      "HOLD_NUM_RATIO": 0.59,
+      "HOLD_NUM_CHANGE": "-17740000",
+      "CHANGE_RATIO": -62.99792419
+    },
+    {
+      "SECUCODE": "600815.SH",
+      "SECURITY_CODE": "600815",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "蔡文澜",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 9700000,
+      "HOLD_NUM_RATIO": 0.55,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600815.SH",
+      "SECURITY_CODE": "600815",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "厦门创程资产运营有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 7053768,
@@ -714,36 +726,12 @@
     {
       "SECUCODE": "600815.SH",
       "SECURITY_CODE": "600815",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "高盛公司有限责任公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6475825,
-      "HOLD_NUM_RATIO": 0.37,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600815.SH",
-      "SECURITY_CODE": "600815",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "孙文芳",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4226700,
-      "HOLD_NUM_RATIO": 0.24,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600815.SH",
-      "SECURITY_CODE": "600815",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "孙小阳",
+      "HOLDER_NAME": "蔡福益",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3862300,
-      "HOLD_NUM_RATIO": 0.22,
+      "HOLD_NUM": 7010000,
+      "HOLD_NUM_RATIO": 0.4,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -752,42 +740,22 @@
     {
       "SECUCODE": "600815.SH",
       "SECURITY_CODE": "600815",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 9,
-      "TOTAL_FREE_SHARES": 985449446,
-      "TOTAL_SHARES_RATIO": 55.54661588,
-      "ALL_SHARES_RATIO": 55.54661588
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 939723716,
+      "TOTAL_SHARES_RATIO": 52.96920354,
+      "ALL_SHARES_RATIO": 52.96920354
     },
     {
       "SECUCODE": "600815.SH",
       "SECURITY_CODE": "600815",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 150100,
-      "TOTAL_SHARES_RATIO": 0.00846066,
-      "ALL_SHARES_RATIO": 0.00846066
-    },
-    {
-      "SECUCODE": "600815.SH",
-      "SECURITY_CODE": "600815",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "02",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 6475825,
-      "TOTAL_SHARES_RATIO": 0.36502143,
-      "ALL_SHARES_RATIO": 0.36502143
-    },
-    {
-      "SECUCODE": "600815.SH",
-      "SECURITY_CODE": "600815",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 978823521,
-      "TOTAL_SHARES_RATIO": 55.17313379,
-      "ALL_SHARES_RATIO": 55.17313379
+      "TOTAL_FREE_SHARES": 939723716,
+      "TOTAL_SHARES_RATIO": 52.96920354,
+      "ALL_SHARES_RATIO": 52.96920354
     }
   ],
   "jjcg": [

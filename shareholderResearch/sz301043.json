@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 53.5,
       "AVG_HOLD_AMT": 502483.387123469,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 76.48033529,
+      "FREEHOLD_RATIO_TOTAL": 71.82069421
     },
     {
       "SECUCODE": "301043.SZ",
@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "301043.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "301043.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "301043.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,21 +161,23 @@
     {
       "SECUCODE": "301043.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301043.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301043.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
     {
       "SECUCODE": "301043.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "301043.SZ",
       "END_DATE": "2026-03-16 00:00:00",
       "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "301043.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
     },
     {
       "SECUCODE": "301043.SZ",
@@ -336,6 +346,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "301043.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "301043.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -349,36 +363,9 @@
     {
       "SECUCODE": "301043.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301043.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-09-26 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "台山市振中投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3695000,
-      "HOLD_NUM_RATIO": 5.43,
-      "HOLD_CHANGE": "-113000",
-      "CHANGE_RATIO": -2.96743697,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-09-24 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "台山市振中投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3808000,
-      "HOLD_NUM_RATIO": 5.6,
-      "HOLD_CHANGE": "-567000",
-      "CHANGE_RATIO": -12.96,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "301043.SZ",
@@ -406,7 +393,7 @@
     {
       "SECUCODE": "301043.SZ",
       "SECURITY_CODE": "301043",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "台山市奥达投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -419,7 +406,7 @@
     {
       "SECUCODE": "301043.SZ",
       "SECURITY_CODE": "301043",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "李清泉",
       "HOLDER_TYPE": "个人",
@@ -432,104 +419,104 @@
     {
       "SECUCODE": "301043.SZ",
       "SECURITY_CODE": "301043",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "台山市振中投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3695000,
-      "FREE_HOLDNUM_RATIO": 6.511271371993,
-      "HOLD_NUM_CHANGE": "-680000",
-      "CHANGE_RATIO": -15.54285714
+      "HOLD_NUM": 3264400,
+      "FREE_HOLDNUM_RATIO": 5.752474767722,
+      "HOLD_NUM_CHANGE": "-430600",
+      "CHANGE_RATIO": -11.65358593
     },
     {
       "SECUCODE": "301043.SZ",
       "SECURITY_CODE": "301043",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "高盛公司有限责任公司",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1058909,
-      "FREE_HOLDNUM_RATIO": 1.86599292483,
-      "HOLD_NUM_CHANGE": "326309",
-      "CHANGE_RATIO": 44.54122304
+      "HOLD_NUM": 1231388,
+      "FREE_HOLDNUM_RATIO": 2.16993272861,
+      "HOLD_NUM_CHANGE": "-680417",
+      "CHANGE_RATIO": -35.59029294
     },
     {
       "SECUCODE": "301043.SZ",
       "SECURITY_CODE": "301043",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "王采国",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "法国巴黎银行-自有资金",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 938619,
-      "FREE_HOLDNUM_RATIO": 1.654019762898,
-      "HOLD_NUM_CHANGE": "99920",
-      "CHANGE_RATIO": 11.91369013
+      "HOLD_NUM": 958409,
+      "FREE_HOLDNUM_RATIO": 1.688893392249,
+      "HOLD_NUM_CHANGE": "636186",
+      "CHANGE_RATIO": 197.43655791
     },
     {
       "SECUCODE": "301043.SZ",
       "SECURITY_CODE": "301043",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "孟敏",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "BARCLAYS BANK PLC",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 538223,
-      "FREE_HOLDNUM_RATIO": 0.948448176359,
-      "HOLD_NUM_CHANGE": "33900",
-      "CHANGE_RATIO": 6.7218826
+      "HOLD_NUM": 411991,
+      "FREE_HOLDNUM_RATIO": 0.726004114701,
+      "HOLD_NUM_CHANGE": "-38085",
+      "CHANGE_RATIO": -8.46190421
     },
     {
       "SECUCODE": "301043.SZ",
       "SECURITY_CODE": "301043",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "赵惠珍",
+      "HOLDER_NAME": "蓝朝强",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 435100,
-      "FREE_HOLDNUM_RATIO": 0.766726434088,
-      "HOLD_NUM_CHANGE": "34200",
-      "CHANGE_RATIO": 8.53080569
-    },
-    {
-      "SECUCODE": "301043.SZ",
-      "SECURITY_CODE": "301043",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "林依琴",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 419400,
-      "FREE_HOLDNUM_RATIO": 0.739060138948,
+      "HOLD_NUM": 313000,
+      "FREE_HOLDNUM_RATIO": 0.551563718385,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301043.SZ",
       "SECURITY_CODE": "301043",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "UBS AG",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 327078,
-      "FREE_HOLDNUM_RATIO": 0.576371750422,
-      "HOLD_NUM_CHANGE": "-394115",
-      "CHANGE_RATIO": -54.64764633
+      "HOLD_NUM": 287145,
+      "FREE_HOLDNUM_RATIO": 0.506002440625,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301043.SZ",
       "SECURITY_CODE": "301043",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "凌静芝",
-      "HOLDER_TYPE": "个人",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "上海勤学堂投资控股有限公司",
+      "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 292400,
-      "FREE_HOLDNUM_RATIO": 0.515262719667,
+      "HOLD_NUM": 277200,
+      "FREE_HOLDNUM_RATIO": 0.48847751673,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301043.SZ",
+      "SECURITY_CODE": "301043",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中信证券资产管理(香港)有限公司-客户资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 266095,
+      "FREE_HOLDNUM_RATIO": 0.468908458926,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -538,20 +525,20 @@
     {
       "SECUCODE": "301043.SZ",
       "SECURITY_CODE": "301043",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 41451729,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 40756628,
       "LIMITED_SHARES": 11252250,
-      "OTHER_UNLIMITED_SHARES": 15296021,
-      "HOLD_NUM_RATIO": 60.96,
+      "OTHER_UNLIMITED_SHARES": 15991122,
+      "HOLD_NUM_RATIO": 59.94,
       "LIMITED_SHARES_RATIO": 16.55,
-      "UNLIMITED_SHARES_RATIO": 22.49
+      "UNLIMITED_SHARES_RATIO": 23.52
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "301043.SZ",
       "SECURITY_CODE": "301043",
-      "END_DATE": "2026-03-16 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "台山市奥达投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -563,7 +550,7 @@
     {
       "SECUCODE": "301043.SZ",
       "SECURITY_CODE": "301043",
-      "END_DATE": "2026-03-16 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "李清泉",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -571,28 +558,134 @@
       "HOLD_NUM_RATIO": 22.06,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301043.SZ",
+      "SECURITY_CODE": "301043",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "台山市振中投资合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3264400,
+      "HOLD_NUM_RATIO": 4.8,
+      "HOLD_NUM_CHANGE": "-430600",
+      "CHANGE_RATIO": -11.65358593
+    },
+    {
+      "SECUCODE": "301043.SZ",
+      "SECURITY_CODE": "301043",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1231388,
+      "HOLD_NUM_RATIO": 1.81,
+      "HOLD_NUM_CHANGE": "-680417",
+      "CHANGE_RATIO": -35.59029294
+    },
+    {
+      "SECUCODE": "301043.SZ",
+      "SECURITY_CODE": "301043",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "法国巴黎银行-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 958409,
+      "HOLD_NUM_RATIO": 1.41,
+      "HOLD_NUM_CHANGE": "636186",
+      "CHANGE_RATIO": 197.43655791
+    },
+    {
+      "SECUCODE": "301043.SZ",
+      "SECURITY_CODE": "301043",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "BARCLAYSBANKPLC",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 411991,
+      "HOLD_NUM_RATIO": 0.61,
+      "HOLD_NUM_CHANGE": "-38085",
+      "CHANGE_RATIO": -8.46190421
+    },
+    {
+      "SECUCODE": "301043.SZ",
+      "SECURITY_CODE": "301043",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "蓝朝强",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 313000,
+      "HOLD_NUM_RATIO": 0.46,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301043.SZ",
+      "SECURITY_CODE": "301043",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "UBSAG",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 287145,
+      "HOLD_NUM_RATIO": 0.42,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301043.SZ",
+      "SECURITY_CODE": "301043",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "上海勤学堂投资控股有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 277200,
+      "HOLD_NUM_RATIO": 0.41,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301043.SZ",
+      "SECURITY_CODE": "301043",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中信证券资产管理(香港)有限公司-客户资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 266095,
+      "HOLD_NUM_RATIO": 0.39,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "301043.SZ",
       "SECURITY_CODE": "301043",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 19400,
-      "TOTAL_SHARES_RATIO": 0.03418637,
-      "ALL_SHARES_RATIO": 0.02852941
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 36693628,
+      "TOTAL_SHARES_RATIO": 64.66093898,
+      "ALL_SHARES_RATIO": 53.96121766
     },
     {
       "SECUCODE": "301043.SZ",
       "SECURITY_CODE": "301043",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 19400,
-      "TOTAL_SHARES_RATIO": 0.03418637,
-      "ALL_SHARES_RATIO": 0.02852941
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 3155028,
+      "TOTAL_SHARES_RATIO": 5.55974113,
+      "ALL_SHARES_RATIO": 4.63974707
+    },
+    {
+      "SECUCODE": "301043.SZ",
+      "SECURITY_CODE": "301043",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 33538600,
+      "TOTAL_SHARES_RATIO": 59.10119785,
+      "ALL_SHARES_RATIO": 49.32147059
     }
   ],
   "jjcg": [

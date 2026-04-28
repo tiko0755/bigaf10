@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 7.97,
       "AVG_HOLD_AMT": 101645.409468425,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 53.66673664,
+      "FREEHOLD_RATIO_TOTAL": 54.02224264
     },
     {
       "SECUCODE": "002693.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002693.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002693.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002693.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002693.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002693.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002693.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002693.SZ",
       "END_DATE": "2014-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002693.SZ",
-      "END_DATE": "2014-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "002693.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "002693.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "002693.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002693.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "002693.SZ",
       "SECURITY_CODE": "002693",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "海南双成投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "002693.SZ",
       "SECURITY_CODE": "002693",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "HSP INVESTMENT HOLDINGS LIMITED",
       "HOLDER_TYPE": "其它",
@@ -499,20 +499,20 @@
     {
       "SECUCODE": "002693.SZ",
       "SECURITY_CODE": "002693",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "陈文宜",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3800000,
-      "FREE_HOLDNUM_RATIO": 0.924615612228,
-      "HOLD_NUM_CHANGE": "695000",
-      "CHANGE_RATIO": 22.38325282
+      "HOLD_NUM": 3980000,
+      "FREE_HOLDNUM_RATIO": 0.96841319386,
+      "HOLD_NUM_CHANGE": "180000",
+      "CHANGE_RATIO": 4.73684211
     },
     {
       "SECUCODE": "002693.SZ",
       "SECURITY_CODE": "002693",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "XU HAOTIAN",
       "HOLDER_TYPE": "个人",
@@ -525,8 +525,21 @@
     {
       "SECUCODE": "002693.SZ",
       "SECURITY_CODE": "002693",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "UBS AG",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3384266,
+      "FREE_HOLDNUM_RATIO": 0.823459257772,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002693.SZ",
+      "SECURITY_CODE": "002693",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "韩文晶",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -538,65 +551,52 @@
     {
       "SECUCODE": "002693.SZ",
       "SECURITY_CODE": "002693",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "MERRILL LYNCH INTERNATIONAL",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2057259,
+      "FREE_HOLDNUM_RATIO": 0.500572049946,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002693.SZ",
+      "SECURITY_CODE": "002693",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "李东璘",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2214500,
-      "FREE_HOLDNUM_RATIO": 0.538831914021,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1841900,
+      "FREE_HOLDNUM_RATIO": 0.448170920043,
+      "HOLD_NUM_CHANGE": "-372600",
+      "CHANGE_RATIO": -16.8254685
     },
     {
       "SECUCODE": "002693.SZ",
       "SECURITY_CODE": "002693",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "刘修煌",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2200500,
-      "FREE_HOLDNUM_RATIO": 0.535425435449,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002693.SZ",
-      "SECURITY_CODE": "002693",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "北京金汇豪国际投资有限公司",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2100000,
-      "FREE_HOLDNUM_RATIO": 0.510971785705,
-      "HOLD_NUM_CHANGE": "900000",
-      "CHANGE_RATIO": 75
-    },
-    {
-      "SECUCODE": "002693.SZ",
-      "SECURITY_CODE": "002693",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "SHANGLONG XU",
+      "HOLDER_NAME": "严佳炫",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2000000,
-      "FREE_HOLDNUM_RATIO": 0.486639795909,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 1800000,
+      "FREE_HOLDNUM_RATIO": 0.437975816319,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002693.SZ",
       "SECURITY_CODE": "002693",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "毛聪芬",
+      "HOLDER_NAME": "李学军",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1986600,
-      "FREE_HOLDNUM_RATIO": 0.483379309277,
+      "HOLD_NUM": 1581925,
+      "FREE_HOLDNUM_RATIO": 0.384913829572,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "002693.SZ",
       "SECURITY_CODE": "002693",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 221677725,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 222021475,
       "LIMITED_SHARES": 3708154,
-      "OTHER_UNLIMITED_SHARES": 189303871,
-      "HOLD_NUM_RATIO": 53.46,
+      "OTHER_UNLIMITED_SHARES": 188960121,
+      "HOLD_NUM_RATIO": 53.54,
       "LIMITED_SHARES_RATIO": 0.89,
-      "UNLIMITED_SHARES_RATIO": 45.65
+      "UNLIMITED_SHARES_RATIO": 45.57
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002693.SZ",
       "SECURITY_CODE": "002693",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "海南双成投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "002693.SZ",
       "SECURITY_CODE": "002693",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "HSP INVESTMENT HOLDINGS LIMITED",
       "SHARES_TYPE": "流通A股",
@@ -642,19 +642,19 @@
     {
       "SECUCODE": "002693.SZ",
       "SECURITY_CODE": "002693",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "陈文宜",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3800000,
-      "HOLD_NUM_RATIO": 0.92,
-      "HOLD_NUM_CHANGE": "695000",
-      "CHANGE_RATIO": 22.38325282
+      "HOLD_NUM": 3980000,
+      "HOLD_NUM_RATIO": 0.96,
+      "HOLD_NUM_CHANGE": "180000",
+      "CHANGE_RATIO": 4.73684211
     },
     {
       "SECUCODE": "002693.SZ",
       "SECURITY_CODE": "002693",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "XU HAOTIAN",
       "SHARES_TYPE": "流通A股",
@@ -666,8 +666,20 @@
     {
       "SECUCODE": "002693.SZ",
       "SECURITY_CODE": "002693",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "UBS AG",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3384266,
+      "HOLD_NUM_RATIO": 0.82,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002693.SZ",
+      "SECURITY_CODE": "002693",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "韩文晶",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2740000,
@@ -678,32 +690,8 @@
     {
       "SECUCODE": "002693.SZ",
       "SECURITY_CODE": "002693",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "李东璘",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2214500,
-      "HOLD_NUM_RATIO": 0.53,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002693.SZ",
-      "SECURITY_CODE": "002693",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "刘修煌",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2200500,
-      "HOLD_NUM_RATIO": 0.53,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002693.SZ",
-      "SECURITY_CODE": "002693",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "王成栋",
       "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 2110906,
@@ -714,25 +702,37 @@
     {
       "SECUCODE": "002693.SZ",
       "SECURITY_CODE": "002693",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "北京金汇豪国际投资有限公司",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "MERRILL LYNCH INTERNATIONAL",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2100000,
-      "HOLD_NUM_RATIO": 0.51,
+      "HOLD_NUM": 2057259,
+      "HOLD_NUM_RATIO": 0.5,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002693.SZ",
       "SECURITY_CODE": "002693",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "SHANGLONG XU",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "李东璘",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2000000,
-      "HOLD_NUM_RATIO": 0.48,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 1841900,
+      "HOLD_NUM_RATIO": 0.44,
+      "HOLD_NUM_CHANGE": "-372600",
+      "CHANGE_RATIO": -16.8254685
+    },
+    {
+      "SECUCODE": "002693.SZ",
+      "SECURITY_CODE": "002693",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "严佳炫",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1800000,
+      "HOLD_NUM_RATIO": 0.43,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -740,22 +740,32 @@
     {
       "SECUCODE": "002693.SZ",
       "SECURITY_CODE": "002693",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 203215925,
-      "TOTAL_SHARES_RATIO": 49.44647814,
-      "ALL_SHARES_RATIO": 49.00432794
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 206557450,
+      "TOTAL_SHARES_RATIO": 50.25953766,
+      "ALL_SHARES_RATIO": 49.81011709
     },
     {
       "SECUCODE": "002693.SZ",
       "SECURITY_CODE": "002693",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 5441525,
+      "TOTAL_SHARES_RATIO": 1.32403131,
+      "ALL_SHARES_RATIO": 1.31219183
+    },
+    {
+      "SECUCODE": "002693.SZ",
+      "SECURITY_CODE": "002693",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 203215925,
-      "TOTAL_SHARES_RATIO": 49.44647814,
-      "ALL_SHARES_RATIO": 49.00432794
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 201115925,
+      "TOTAL_SHARES_RATIO": 48.93550635,
+      "ALL_SHARES_RATIO": 48.49792526
     }
   ],
   "jjcg": [

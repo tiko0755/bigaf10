@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 34.5,
       "AVG_HOLD_AMT": 121142.924244017,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 26.80626844,
+      "FREEHOLD_RATIO_TOTAL": 26.82985706
     },
     {
       "SECUCODE": "002759.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002759.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002759.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002759.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002759.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002759.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002759.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002759.SZ",
       "END_DATE": "2021-04-26 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "002759.SZ",
-      "END_DATE": "2021-04-18 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -445,41 +445,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-12-08 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "汕头市天际有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 43911880,
-      "HOLD_NUM_RATIO": 8.76,
-      "HOLD_CHANGE": "-3519900",
-      "CHANGE_RATIO": -7.42097387,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-05 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "汕头市天际有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 47431780,
-      "HOLD_NUM_RATIO": 9.46,
-      "HOLD_CHANGE": "-14256300",
-      "CHANGE_RATIO": -23.11029943,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-09 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "汕头市天际有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 61688080,
-      "HOLD_NUM_RATIO": 12.3,
-      "HOLD_CHANGE": "-3900000",
-      "CHANGE_RATIO": -5.94620242,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "002759.SZ",
@@ -507,20 +473,20 @@
     {
       "SECUCODE": "002759.SZ",
       "SECURITY_CODE": "002759",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "汕头市天际有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 43721880,
       "FREE_HOLDNUM_RATIO": 8.727936181599,
-      "HOLD_NUM_CHANGE": "-21866200",
-      "CHANGE_RATIO": -33.33867983
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002759.SZ",
       "SECURITY_CODE": "002759",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "常熟市新华化工有限公司",
       "HOLDER_TYPE": "其它",
@@ -533,104 +499,104 @@
     {
       "SECUCODE": "002759.SZ",
       "SECURITY_CODE": "002759",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "江苏瑞泰新能源材料股份有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 20069115,
-      "FREE_HOLDNUM_RATIO": 4.006276833045,
-      "HOLD_NUM_CHANGE": "-9973803",
-      "CHANGE_RATIO": -33.1985162
+      "HOLD_NUM": 15064515,
+      "FREE_HOLDNUM_RATIO": 3.00723860746,
+      "HOLD_NUM_CHANGE": "-5004600",
+      "CHANGE_RATIO": -24.93682457
     },
     {
       "SECUCODE": "002759.SZ",
       "SECURITY_CODE": "002759",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "星嘉国际有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 13341540,
       "FREE_HOLDNUM_RATIO": 2.663291461489,
-      "HOLD_NUM_CHANGE": "-650000",
-      "CHANGE_RATIO": -4.64566445
-    },
-    {
-      "SECUCODE": "002759.SZ",
-      "SECURITY_CODE": "002759",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "陈晏群",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8055400,
-      "FREE_HOLDNUM_RATIO": 1.608051097466,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002759.SZ",
       "SECURITY_CODE": "002759",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6350771,
-      "FREE_HOLDNUM_RATIO": 1.267766253234,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 9172273,
+      "FREE_HOLDNUM_RATIO": 1.831005743216,
+      "HOLD_NUM_CHANGE": "2821502",
+      "CHANGE_RATIO": 44.42770807
     },
     {
       "SECUCODE": "002759.SZ",
       "SECURITY_CODE": "002759",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "吴晓纯",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 4550000,
       "FREE_HOLDNUM_RATIO": 0.908289159256,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002759.SZ",
       "SECURITY_CODE": "002759",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "中国银行股份有限公司-国投瑞银新能源混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 4361200,
       "FREE_HOLDNUM_RATIO": 0.870600149746,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002759.SZ",
       "SECURITY_CODE": "002759",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国农业银行股份有限公司-摩根新兴动力混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3462227,
-      "FREE_HOLDNUM_RATIO": 0.691143571644,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002759.SZ",
-      "SECURITY_CODE": "002759",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "沈江涛",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "胡建平",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3339700,
-      "FREE_HOLDNUM_RATIO": 0.666684242894,
+      "HOLD_NUM": 3195000,
+      "FREE_HOLDNUM_RATIO": 0.637798651389,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002759.SZ",
+      "SECURITY_CODE": "002759",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国建设银行股份有限公司-华宝优势产业混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2949100,
+      "FREE_HOLDNUM_RATIO": 0.588711111991,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002759.SZ",
+      "SECURITY_CODE": "002759",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国银行股份有限公司-国投瑞银产业趋势混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2910449,
+      "FREE_HOLDNUM_RATIO": 0.580995445114,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -639,32 +605,32 @@
     {
       "SECUCODE": "002759.SZ",
       "SECURITY_CODE": "002759",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 142387843,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 134401967,
       "LIMITED_SHARES": 440812,
-      "OTHER_UNLIMITED_SHARES": 358553950,
-      "HOLD_NUM_RATIO": 28.4,
+      "OTHER_UNLIMITED_SHARES": 366539826,
+      "HOLD_NUM_RATIO": 26.81,
       "LIMITED_SHARES_RATIO": 0.09,
-      "UNLIMITED_SHARES_RATIO": 71.51
+      "UNLIMITED_SHARES_RATIO": 73.11
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002759.SZ",
       "SECURITY_CODE": "002759",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "汕头市天际有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 43721880,
       "HOLD_NUM_RATIO": 8.72,
-      "HOLD_NUM_CHANGE": "-190000",
-      "CHANGE_RATIO": -0.43268473
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002759.SZ",
       "SECURITY_CODE": "002759",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "常熟市新华化工有限公司",
       "SHARES_TYPE": "流通A股",
@@ -676,96 +642,96 @@
     {
       "SECUCODE": "002759.SZ",
       "SECURITY_CODE": "002759",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "江苏瑞泰新能源材料股份有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 20069115,
-      "HOLD_NUM_RATIO": 4,
-      "HOLD_NUM_CHANGE": "-9973803",
-      "CHANGE_RATIO": -33.1985162
+      "HOLD_NUM": 15064515,
+      "HOLD_NUM_RATIO": 3,
+      "HOLD_NUM_CHANGE": "-5004600",
+      "CHANGE_RATIO": -24.93682457
     },
     {
       "SECUCODE": "002759.SZ",
       "SECURITY_CODE": "002759",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "星嘉国际有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 13341540,
       "HOLD_NUM_RATIO": 2.66,
-      "HOLD_NUM_CHANGE": "-650000",
-      "CHANGE_RATIO": -4.64566445
-    },
-    {
-      "SECUCODE": "002759.SZ",
-      "SECURITY_CODE": "002759",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "陈晏群",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8055400,
-      "HOLD_NUM_RATIO": 1.61,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002759.SZ",
       "SECURITY_CODE": "002759",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6350771,
-      "HOLD_NUM_RATIO": 1.27,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 9172273,
+      "HOLD_NUM_RATIO": 1.83,
+      "HOLD_NUM_CHANGE": "2821502",
+      "CHANGE_RATIO": 44.42770807
     },
     {
       "SECUCODE": "002759.SZ",
       "SECURITY_CODE": "002759",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "吴晓纯",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4550000,
       "HOLD_NUM_RATIO": 0.91,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002759.SZ",
       "SECURITY_CODE": "002759",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "中国银行股份有限公司-国投瑞银新能源混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4361200,
       "HOLD_NUM_RATIO": 0.87,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002759.SZ",
+      "SECURITY_CODE": "002759",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "胡建平",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3195000,
+      "HOLD_NUM_RATIO": 0.64,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002759.SZ",
       "SECURITY_CODE": "002759",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国农业银行股份有限公司-摩根新兴动力混合型证券投资基金",
+      "HOLDER_NAME": "中国建设银行股份有限公司-华宝优势产业混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3462227,
-      "HOLD_NUM_RATIO": 0.69,
+      "HOLD_NUM": 2949100,
+      "HOLD_NUM_RATIO": 0.59,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002759.SZ",
       "SECURITY_CODE": "002759",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "沈江涛",
+      "HOLDER_NAME": "中国银行股份有限公司-国投瑞银产业趋势混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3339700,
-      "HOLD_NUM_RATIO": 0.67,
+      "HOLD_NUM": 2910449,
+      "HOLD_NUM_RATIO": 0.58,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -776,20 +742,30 @@
       "SECURITY_CODE": "002759",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 20,
-      "TOTAL_FREE_SHARES": 16366442,
-      "TOTAL_SHARES_RATIO": 3.2671345,
-      "ALL_SHARES_RATIO": 3.26426204
+      "TOTAL_ORG_NUM": 26,
+      "TOTAL_FREE_SHARES": 135751760,
+      "TOTAL_SHARES_RATIO": 27.09930815,
+      "ALL_SHARES_RATIO": 27.07548261
     },
     {
       "SECUCODE": "002759.SZ",
       "SECURITY_CODE": "002759",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 20,
-      "TOTAL_FREE_SHARES": 16366442,
-      "TOTAL_SHARES_RATIO": 3.2671345,
-      "ALL_SHARES_RATIO": 3.26426204
+      "TOTAL_ORG_NUM": 21,
+      "TOTAL_FREE_SHARES": 19315542,
+      "TOTAL_SHARES_RATIO": 3.85584561,
+      "ALL_SHARES_RATIO": 3.85245556
+    },
+    {
+      "SECUCODE": "002759.SZ",
+      "SECURITY_CODE": "002759",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 116436218,
+      "TOTAL_SHARES_RATIO": 23.24346254,
+      "ALL_SHARES_RATIO": 23.22302705
     }
   ],
   "jjcg": [
@@ -809,6 +785,23 @@
       "FUND_CODE": "007689",
       "FUND_DERIVECODE": "007689.OF",
       "NETVALUE_RATIO": 5.09
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002759.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "026286",
+      "HOLDER_NAME": "华宝优势产业混合A",
+      "TOTAL_SHARES": 2949100,
+      "HOLD_VALUE": 101743950,
+      "TOTALSHARES_RATIO": 0.58819352,
+      "FREESHARES_RATIO": 0.58871111,
+      "FREE_MARKET_CAP": 101743950,
+      "FREE_SHARES": 2949100,
+      "SECURITY_CODE": "002759",
+      "FUND_CODE": "026286",
+      "FUND_DERIVECODE": "026286.OF",
+      "NETVALUE_RATIO": 2.2
     },
     {
       "ORG_TYPE": "01",

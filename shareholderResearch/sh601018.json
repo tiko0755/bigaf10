@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 4.09,
       "AVG_HOLD_AMT": 678223.037631671,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 90.04216206,
+      "FREEHOLD_RATIO_TOTAL": 90.04216206
     },
     {
       "SECUCODE": "601018.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "601018.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "601018.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "601018.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "601018.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "601018.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "601018.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "601018.SH",
       "END_DATE": "2015-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "601018.SH",
-      "END_DATE": "2014-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "601018.SH",
       "SECURITY_CODE": "601018",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "宁波舟山港集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "601018.SH",
       "SECURITY_CODE": "601018",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "招商局港口集团股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "601018.SH",
       "SECURITY_CODE": "601018",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "上海国际港务(集团)股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "601018.SH",
       "SECURITY_CODE": "601018",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "招商局国际码头(宁波)有限公司",
       "HOLDER_TYPE": "其它",
@@ -525,7 +525,7 @@
     {
       "SECUCODE": "601018.SH",
       "SECURITY_CODE": "601018",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "宁兴集团(宁波)有限公司",
       "HOLDER_TYPE": "其它",
@@ -538,8 +538,21 @@
     {
       "SECUCODE": "601018.SH",
       "SECURITY_CODE": "601018",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 84530580,
+      "FREE_HOLDNUM_RATIO": 0.434506489057,
+      "HOLD_NUM_CHANGE": "28302785",
+      "CHANGE_RATIO": 50.33593261
+    },
+    {
+      "SECUCODE": "601018.SH",
+      "SECURITY_CODE": "601018",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "中央汇金资产管理有限责任公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -551,52 +564,39 @@
     {
       "SECUCODE": "601018.SH",
       "SECURITY_CODE": "601018",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "宁波城建投资集团有限公司",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 31765751,
+      "FREE_HOLDNUM_RATIO": 0.163283215841,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "601018.SH",
+      "SECURITY_CODE": "601018",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 59188460,
-      "FREE_HOLDNUM_RATIO": 0.304242203795,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 31294560,
+      "FREE_HOLDNUM_RATIO": 0.160861186475,
+      "HOLD_NUM_CHANGE": "-27893900",
+      "CHANGE_RATIO": -47.12726096
     },
     {
       "SECUCODE": "601018.SH",
       "SECURITY_CODE": "601018",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 56227795,
-      "FREE_HOLDNUM_RATIO": 0.289023709442,
-      "HOLD_NUM_CHANGE": "-36780427",
-      "CHANGE_RATIO": -39.54535009
-    },
-    {
-      "SECUCODE": "601018.SH",
-      "SECURITY_CODE": "601018",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国建设银行股份有限公司-易方达沪深300交易型开放式指数发起式证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 45834780,
-      "FREE_HOLDNUM_RATIO": 0.235601238445,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "601018.SH",
-      "SECURITY_CODE": "601018",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国工商银行股份有限公司-华夏沪深300交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "中国工商银行股份有限公司-嘉实沪深300红利低波动交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 34978800,
-      "FREE_HOLDNUM_RATIO": 0.179799021602,
+      "HOLD_NUM": 24265779,
+      "FREE_HOLDNUM_RATIO": 0.124731646672,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "601018.SH",
       "SECURITY_CODE": "601018",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 17541525095,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 17517151930,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 1912863304,
-      "HOLD_NUM_RATIO": 90.17,
+      "OTHER_UNLIMITED_SHARES": 1937236469,
+      "HOLD_NUM_RATIO": 90.04,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 9.83
+      "UNLIMITED_SHARES_RATIO": 9.96
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "601018.SH",
       "SECURITY_CODE": "601018",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "宁波舟山港集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "601018.SH",
       "SECURITY_CODE": "601018",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "招商局港口集团股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "601018.SH",
       "SECURITY_CODE": "601018",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "上海国际港务(集团)股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "601018.SH",
       "SECURITY_CODE": "601018",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "招商局国际码头(宁波)有限公司",
       "SHARES_TYPE": "流通A股",
@@ -666,7 +666,7 @@
     {
       "SECUCODE": "601018.SH",
       "SECURITY_CODE": "601018",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "宁兴集团(宁波)有限公司",
       "SHARES_TYPE": "流通A股",
@@ -678,8 +678,20 @@
     {
       "SECUCODE": "601018.SH",
       "SECURITY_CODE": "601018",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 84530580,
+      "HOLD_NUM_RATIO": 0.43,
+      "HOLD_NUM_CHANGE": "28302785",
+      "CHANGE_RATIO": 50.33593261
+    },
+    {
+      "SECUCODE": "601018.SH",
+      "SECURITY_CODE": "601018",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "中央汇金资产管理有限责任公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 62704814,
@@ -690,48 +702,36 @@
     {
       "SECUCODE": "601018.SH",
       "SECURITY_CODE": "601018",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "宁波城建投资集团有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 31765751,
+      "HOLD_NUM_RATIO": 0.16,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "601018.SH",
+      "SECURITY_CODE": "601018",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 59188460,
-      "HOLD_NUM_RATIO": 0.3,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 31294560,
+      "HOLD_NUM_RATIO": 0.16,
+      "HOLD_NUM_CHANGE": "-27893900",
+      "CHANGE_RATIO": -47.12726096
     },
     {
       "SECUCODE": "601018.SH",
       "SECURITY_CODE": "601018",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 56227795,
-      "HOLD_NUM_RATIO": 0.29,
-      "HOLD_NUM_CHANGE": "-36780427",
-      "CHANGE_RATIO": -39.54535009
-    },
-    {
-      "SECUCODE": "601018.SH",
-      "SECURITY_CODE": "601018",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国建设银行股份有限公司-易方达沪深300交易型开放式指数发起式证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 45834780,
-      "HOLD_NUM_RATIO": 0.24,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "601018.SH",
-      "SECURITY_CODE": "601018",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国工商银行股份有限公司-华夏沪深300交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "中国工商银行股份有限公司-嘉实沪深300红利低波动交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 34978800,
-      "HOLD_NUM_RATIO": 0.18,
+      "HOLD_NUM": 24265779,
+      "HOLD_NUM_RATIO": 0.12,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,23 +742,67 @@
       "SECURITY_CODE": "601018",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 8,
-      "TOTAL_FREE_SHARES": 15865900,
-      "TOTAL_SHARES_RATIO": 0.08155435,
-      "ALL_SHARES_RATIO": 0.08155435
+      "TOTAL_ORG_NUM": 18,
+      "TOTAL_FREE_SHARES": 17533017830,
+      "TOTAL_SHARES_RATIO": 90.12371642,
+      "ALL_SHARES_RATIO": 90.12371642
     },
     {
       "SECUCODE": "601018.SH",
       "SECURITY_CODE": "601018",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
+      "TOTAL_ORG_NUM": 10,
+      "TOTAL_FREE_SHARES": 71426239,
+      "TOTAL_SHARES_RATIO": 0.36714719,
+      "ALL_SHARES_RATIO": 0.36714719
+    },
+    {
+      "SECUCODE": "601018.SH",
+      "SECURITY_CODE": "601018",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 8,
-      "TOTAL_FREE_SHARES": 15865900,
-      "TOTAL_SHARES_RATIO": 0.08155435,
-      "ALL_SHARES_RATIO": 0.08155435
+      "TOTAL_FREE_SHARES": 17461591591,
+      "TOTAL_SHARES_RATIO": 89.75656923,
+      "ALL_SHARES_RATIO": 89.75656923
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "601018.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "510300",
+      "HOLDER_NAME": "华泰柏瑞沪深300ETF",
+      "TOTAL_SHARES": 31294560,
+      "HOLD_VALUE": 127994750.4,
+      "TOTALSHARES_RATIO": 0.16086119,
+      "FREESHARES_RATIO": 0.16086119,
+      "FREE_MARKET_CAP": 127994750.4,
+      "FREE_SHARES": 31294560,
+      "SECURITY_CODE": "601018",
+      "FUND_CODE": "510300",
+      "FUND_DERIVECODE": "510300.SH",
+      "NETVALUE_RATIO": 0.06
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "601018.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "515300",
+      "HOLDER_NAME": "嘉实沪深300红利低波动ETF",
+      "TOTAL_SHARES": 24265779,
+      "HOLD_VALUE": 99247036.11,
+      "TOTALSHARES_RATIO": 0.12473165,
+      "FREESHARES_RATIO": 0.12473165,
+      "FREE_MARKET_CAP": 99247036.11,
+      "FREE_SHARES": 24265779,
+      "SECURITY_CODE": "601018",
+      "FUND_CODE": "515300",
+      "FUND_DERIVECODE": "515300.SH",
+      "NETVALUE_RATIO": 1.78
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "601018.SH",
