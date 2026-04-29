@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 7.55,
       "AVG_HOLD_AMT": 73608.6423986535,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 53.99685722,
+      "FREEHOLD_RATIO_TOTAL": 54.18882914
     },
     {
       "SECUCODE": "603900.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603900.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603900.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603900.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603900.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603900.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603900.SH",
       "END_DATE": "2026-03-17 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603900.SH",
       "END_DATE": "2022-10-31 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "603900.SH",
-      "END_DATE": "2022-10-27 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -495,7 +495,7 @@
     {
       "SECUCODE": "603900.SH",
       "SECURITY_CODE": "603900",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "马峻",
       "HOLDER_TYPE": "个人",
@@ -508,7 +508,7 @@
     {
       "SECUCODE": "603900.SH",
       "SECURITY_CODE": "603900",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "王丽丽",
       "HOLDER_TYPE": "个人",
@@ -521,7 +521,7 @@
     {
       "SECUCODE": "603900.SH",
       "SECURITY_CODE": "603900",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "蔄毅泽",
       "HOLDER_TYPE": "个人",
@@ -534,47 +534,34 @@
     {
       "SECUCODE": "603900.SH",
       "SECURITY_CODE": "603900",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "上海拓牌私募基金管理有限公司-拓牌兴丰7号私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 18213162,
-      "FREE_HOLDNUM_RATIO": 5.329399801328,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603900.SH",
-      "SECURITY_CODE": "603900",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "欧陆之星钻石(上海)有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 17156192,
-      "FREE_HOLDNUM_RATIO": 5.020117112907,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 17098192,
+      "FREE_HOLDNUM_RATIO": 5.003145584927,
+      "HOLD_NUM_CHANGE": "-58000",
+      "CHANGE_RATIO": -0.33807036
     },
     {
       "SECUCODE": "603900.SH",
       "SECURITY_CODE": "603900",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "宁波宁聚资产管理中心(有限合伙)-宁聚量化多策略证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "上海拓牌私募基金管理有限公司-拓牌兴丰7号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 14793200,
-      "FREE_HOLDNUM_RATIO": 4.328675994921,
-      "HOLD_NUM_CHANGE": "-3420000",
-      "CHANGE_RATIO": -18.77758988
+      "HOLD_NUM": 14813228,
+      "FREE_HOLDNUM_RATIO": 4.3345364391,
+      "HOLD_NUM_CHANGE": "-3399934",
+      "CHANGE_RATIO": -18.66745599
     },
     {
       "SECUCODE": "603900.SH",
       "SECURITY_CODE": "603900",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "南京传世美璟投资管理有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -586,39 +573,52 @@
     {
       "SECUCODE": "603900.SH",
       "SECURITY_CODE": "603900",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "高盛国际-自有资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3369005,
+      "FREE_HOLDNUM_RATIO": 0.985813148627,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603900.SH",
+      "SECURITY_CODE": "603900",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "上海弘尚资产管理中心(有限合伙)-弘尚资产弘利2号私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6350000,
-      "FREE_HOLDNUM_RATIO": 1.858089701197,
-      "HOLD_NUM_CHANGE": "350000",
-      "CHANGE_RATIO": 5.83333333
-    },
-    {
-      "SECUCODE": "603900.SH",
-      "SECURITY_CODE": "603900",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "倪秀芳",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3092548,
-      "FREE_HOLDNUM_RATIO": 0.904918360513,
-      "HOLD_NUM_CHANGE": "-1032000",
-      "CHANGE_RATIO": -25.0209235
-    },
-    {
-      "SECUCODE": "603900.SH",
-      "SECURITY_CODE": "603900",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "中国农业银行股份有限公司-永赢中证沪深港黄金产业股票交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2211100,
-      "FREE_HOLDNUM_RATIO": 0.646995612333,
+      "HOLD_NUM": 2054300,
+      "FREE_HOLDNUM_RATIO": 0.601113964279,
+      "HOLD_NUM_CHANGE": "-156800",
+      "CHANGE_RATIO": -7.09149292
+    },
+    {
+      "SECUCODE": "603900.SH",
+      "SECURITY_CODE": "603900",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1980375,
+      "FREE_HOLDNUM_RATIO": 0.579482581419,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603900.SH",
+      "SECURITY_CODE": "603900",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "UBS AG",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1834895,
+      "FREE_HOLDNUM_RATIO": 0.536913307445,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -627,20 +627,20 @@
     {
       "SECUCODE": "603900.SH",
       "SECURITY_CODE": "603900",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 205855902,
-      "LIMITED_SHARES": 1275000,
-      "OTHER_UNLIMITED_SHARES": 135892938,
-      "HOLD_NUM_RATIO": 60.01,
-      "LIMITED_SHARES_RATIO": 0.37,
-      "UNLIMITED_SHARES_RATIO": 39.62
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 185189695,
+      "LIMITED_SHARES": 1215000,
+      "OTHER_UNLIMITED_SHARES": 156559145,
+      "HOLD_NUM_RATIO": 54,
+      "LIMITED_SHARES_RATIO": 0.35,
+      "UNLIMITED_SHARES_RATIO": 45.65
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603900.SH",
       "SECURITY_CODE": "603900",
-      "END_DATE": "2026-03-17 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "马峻",
       "SHARES_TYPE": "流通A股",
@@ -652,7 +652,7 @@
     {
       "SECUCODE": "603900.SH",
       "SECURITY_CODE": "603900",
-      "END_DATE": "2026-03-17 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "王丽丽",
       "SHARES_TYPE": "流通A股",
@@ -664,7 +664,7 @@
     {
       "SECUCODE": "603900.SH",
       "SECURITY_CODE": "603900",
-      "END_DATE": "2026-03-17 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "蔄毅泽",
       "SHARES_TYPE": "流通A股",
@@ -676,26 +676,86 @@
     {
       "SECUCODE": "603900.SH",
       "SECURITY_CODE": "603900",
-      "END_DATE": "2026-03-17 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "欧陆之星钻石(上海)有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 17098192,
+      "HOLD_NUM_RATIO": 4.99,
+      "HOLD_NUM_CHANGE": "-50000",
+      "CHANGE_RATIO": -0.29157593
+    },
+    {
+      "SECUCODE": "603900.SH",
+      "SECURITY_CODE": "603900",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "上海拓牌私募基金管理有限公司-拓牌兴丰7号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 18213162,
-      "HOLD_NUM_RATIO": 5.31,
+      "HOLD_NUM": 14813228,
+      "HOLD_NUM_RATIO": 4.32,
+      "HOLD_NUM_CHANGE": "-3399934",
+      "CHANGE_RATIO": -18.66745599
+    },
+    {
+      "SECUCODE": "603900.SH",
+      "SECURITY_CODE": "603900",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "南京传世美璟投资管理有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7428400,
+      "HOLD_NUM_RATIO": 2.17,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603900.SH",
       "SECURITY_CODE": "603900",
-      "END_DATE": "2026-03-17 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "欧陆之星钻石(上海)有限公司",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "高盛国际-自有资金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 17148192,
-      "HOLD_NUM_RATIO": 5,
-      "HOLD_NUM_CHANGE": "-8000",
-      "CHANGE_RATIO": -0.04663039
+      "HOLD_NUM": 3369005,
+      "HOLD_NUM_RATIO": 0.98,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603900.SH",
+      "SECURITY_CODE": "603900",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国农业银行股份有限公司-永赢中证沪深港黄金产业股票交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2054300,
+      "HOLD_NUM_RATIO": 0.6,
+      "HOLD_NUM_CHANGE": "-156800",
+      "CHANGE_RATIO": -7.09149292
+    },
+    {
+      "SECUCODE": "603900.SH",
+      "SECURITY_CODE": "603900",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1980375,
+      "HOLD_NUM_RATIO": 0.58,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603900.SH",
+      "SECURITY_CODE": "603900",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "UBS AG",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1834895,
+      "HOLD_NUM_RATIO": 0.54,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
@@ -704,23 +764,60 @@
       "SECURITY_CODE": "603900",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 40,
-      "TOTAL_SHARES_RATIO": 0.0000117,
-      "ALL_SHARES_RATIO": 0.00001166
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 48578435,
+      "TOTAL_SHARES_RATIO": 14.2146598,
+      "ALL_SHARES_RATIO": 14.16430227
     },
     {
       "SECUCODE": "603900.SH",
       "SECURITY_CODE": "603900",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 40,
-      "TOTAL_SHARES_RATIO": 0.0000117,
-      "ALL_SHARES_RATIO": 0.00001166
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 2054340,
+      "TOTAL_SHARES_RATIO": 0.60112566,
+      "ALL_SHARES_RATIO": 0.59899609
+    },
+    {
+      "SECUCODE": "603900.SH",
+      "SECURITY_CODE": "603900",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 7184275,
+      "TOTAL_SHARES_RATIO": 2.10220904,
+      "ALL_SHARES_RATIO": 2.09476165
+    },
+    {
+      "SECUCODE": "603900.SH",
+      "SECURITY_CODE": "603900",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 39339820,
+      "TOTAL_SHARES_RATIO": 11.5113251,
+      "ALL_SHARES_RATIO": 11.47054453
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603900.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "517520",
+      "HOLDER_NAME": "永赢中证沪深港黄金产业股票ETF",
+      "TOTAL_SHARES": 2054300,
+      "HOLD_VALUE": 15509965,
+      "TOTALSHARES_RATIO": 0.59898443,
+      "FREESHARES_RATIO": 0.60111396,
+      "FREE_MARKET_CAP": 15509965,
+      "FREE_SHARES": 2054300,
+      "SECURITY_CODE": "603900",
+      "FUND_CODE": "517520",
+      "FUND_DERIVECODE": "517520.SH",
+      "NETVALUE_RATIO": 0.12
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "603900.SH",

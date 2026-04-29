@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 5.05,
       "AVG_HOLD_AMT": 120005.584287107,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 52.48587472,
+      "FREEHOLD_RATIO_TOTAL": 52.48587472
     },
     {
       "SECUCODE": "600960.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600960.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600960.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600960.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600960.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600960.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600960.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600960.SH",
       "END_DATE": "2015-05-11 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "600960.SH",
-      "END_DATE": "2015-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "600960.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "600960.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "600960.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600960.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600960.SH",
       "SECURITY_CODE": "600960",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京海纳川汽车部件股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600960.SH",
       "SECURITY_CODE": "600960",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "北京汽车集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "600960.SH",
       "SECURITY_CODE": "600960",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "广西铁投创新资本投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -512,21 +512,8 @@
     {
       "SECUCODE": "600960.SH",
       "SECURITY_CODE": "600960",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "苏州东吴古韵文化发展有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 17870041,
-      "FREE_HOLDNUM_RATIO": 1.88003674444,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600960.SH",
-      "SECURITY_CODE": "600960",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "滨州安泰控股集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -538,21 +525,60 @@
     {
       "SECUCODE": "600960.SH",
       "SECURITY_CODE": "600960",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "陆波",
-      "HOLDER_TYPE": "个人",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "苏州东吴古韵文化发展有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10196492,
-      "FREE_HOLDNUM_RATIO": 1.072732828335,
-      "HOLD_NUM_CHANGE": "-344200",
-      "CHANGE_RATIO": -3.26544026
+      "HOLD_NUM": 10000000,
+      "FREE_HOLDNUM_RATIO": 1.052060677667,
+      "HOLD_NUM_CHANGE": "-7870041",
+      "CHANGE_RATIO": -44.04041938
     },
     {
       "SECUCODE": "600960.SH",
       "SECURITY_CODE": "600960",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "陈培香",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7663400,
+      "FREE_HOLDNUM_RATIO": 0.806236179723,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600960.SH",
+      "SECURITY_CODE": "600960",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "徐开东",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7222400,
+      "FREE_HOLDNUM_RATIO": 0.759840303838,
+      "HOLD_NUM_CHANGE": "2191100",
+      "CHANGE_RATIO": 43.54938088
+    },
+    {
+      "SECUCODE": "600960.SH",
+      "SECURITY_CODE": "600960",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "高建成",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6493200,
+      "FREE_HOLDNUM_RATIO": 0.683124039223,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600960.SH",
+      "SECURITY_CODE": "600960",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "北京忠诚志业资本管理有限公司-旗鱼资本专项1期私募基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
@@ -564,61 +590,35 @@
     {
       "SECUCODE": "600960.SH",
       "SECURITY_CODE": "600960",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "北京东海中矿投资管理有限公司-东海中矿2号私募投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5389823,
-      "FREE_HOLDNUM_RATIO": 0.567042083788,
-      "HOLD_NUM_CHANGE": "-1300000",
-      "CHANGE_RATIO": -19.43250218
-    },
-    {
-      "SECUCODE": "600960.SH",
-      "SECURITY_CODE": "600960",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "徐开东",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5031300,
-      "FREE_HOLDNUM_RATIO": 0.529323288755,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600960.SH",
-      "SECURITY_CODE": "600960",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "徐小蓉",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4983300,
-      "FREE_HOLDNUM_RATIO": 0.524273397502,
-      "HOLD_NUM_CHANGE": "1079700",
-      "CHANGE_RATIO": 27.65908392
+      "HOLD_NUM": 5563300,
+      "FREE_HOLDNUM_RATIO": 0.585292916806,
+      "HOLD_NUM_CHANGE": "580000",
+      "CHANGE_RATIO": 11.63887384
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600960.SH",
       "SECURITY_CODE": "600960",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 505415040,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 498886384,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 445100478,
-      "HOLD_NUM_RATIO": 53.17,
+      "OTHER_UNLIMITED_SHARES": 451629134,
+      "HOLD_NUM_RATIO": 52.49,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 46.83
+      "UNLIMITED_SHARES_RATIO": 47.51
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600960.SH",
       "SECURITY_CODE": "600960",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京海纳川汽车部件股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600960.SH",
       "SECURITY_CODE": "600960",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "北京汽车集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "600960.SH",
       "SECURITY_CODE": "600960",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "广西铁投创新资本投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,20 +654,8 @@
     {
       "SECUCODE": "600960.SH",
       "SECURITY_CODE": "600960",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "苏州东吴古韵文化发展有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 17870041,
-      "HOLD_NUM_RATIO": 1.88,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600960.SH",
-      "SECURITY_CODE": "600960",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "滨州安泰控股集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 11906976,
@@ -678,20 +666,56 @@
     {
       "SECUCODE": "600960.SH",
       "SECURITY_CODE": "600960",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "陆波",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "苏州东吴古韵文化发展有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10196492,
-      "HOLD_NUM_RATIO": 1.07,
-      "HOLD_NUM_CHANGE": "-344200",
-      "CHANGE_RATIO": -3.26544026
+      "HOLD_NUM": 10000000,
+      "HOLD_NUM_RATIO": 1.05,
+      "HOLD_NUM_CHANGE": "-7870041",
+      "CHANGE_RATIO": -44.04041938
     },
     {
       "SECUCODE": "600960.SH",
       "SECURITY_CODE": "600960",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "陈培香",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7663400,
+      "HOLD_NUM_RATIO": 0.81,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600960.SH",
+      "SECURITY_CODE": "600960",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "徐开东",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7222400,
+      "HOLD_NUM_RATIO": 0.76,
+      "HOLD_NUM_CHANGE": "2191100",
+      "CHANGE_RATIO": 43.54938088
+    },
+    {
+      "SECUCODE": "600960.SH",
+      "SECURITY_CODE": "600960",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "高建成",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6493200,
+      "HOLD_NUM_RATIO": 0.68,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600960.SH",
+      "SECURITY_CODE": "600960",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "北京忠诚志业资本管理有限公司-旗鱼资本专项1期私募基金",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 5635014,
@@ -702,70 +726,36 @@
     {
       "SECUCODE": "600960.SH",
       "SECURITY_CODE": "600960",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "北京东海中矿投资管理有限公司-东海中矿2号私募投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5389823,
-      "HOLD_NUM_RATIO": 0.57,
-      "HOLD_NUM_CHANGE": "-1300000",
-      "CHANGE_RATIO": -19.43250218
-    },
-    {
-      "SECUCODE": "600960.SH",
-      "SECURITY_CODE": "600960",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "徐开东",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5031300,
-      "HOLD_NUM_RATIO": 0.53,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600960.SH",
-      "SECURITY_CODE": "600960",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "徐小蓉",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4983300,
-      "HOLD_NUM_RATIO": 0.52,
-      "HOLD_NUM_CHANGE": "1079700",
-      "CHANGE_RATIO": 27.65908392
+      "HOLD_NUM": 5563300,
+      "HOLD_NUM_RATIO": 0.59,
+      "HOLD_NUM_CHANGE": "580000",
+      "CHANGE_RATIO": 11.63887384
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "600960.SH",
       "SECURITY_CODE": "600960",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 14,
-      "TOTAL_FREE_SHARES": 485941548,
-      "TOTAL_SHARES_RATIO": 51.12399942,
-      "ALL_SHARES_RATIO": 51.12399942
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 471944084,
+      "TOTAL_SHARES_RATIO": 49.65138128,
+      "ALL_SHARES_RATIO": 49.65138128
     },
     {
       "SECUCODE": "600960.SH",
       "SECURITY_CODE": "600960",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 7,
-      "TOTAL_FREE_SHARES": 737600,
-      "TOTAL_SHARES_RATIO": 0.0776,
-      "ALL_SHARES_RATIO": 0.0776
-    },
-    {
-      "SECUCODE": "600960.SH",
-      "SECURITY_CODE": "600960",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 7,
-      "TOTAL_FREE_SHARES": 485203948,
-      "TOTAL_SHARES_RATIO": 51.04639942,
-      "ALL_SHARES_RATIO": 51.04639942
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 471944084,
+      "TOTAL_SHARES_RATIO": 49.65138128,
+      "ALL_SHARES_RATIO": 49.65138128
     }
   ],
   "jjcg": [

@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 8.25,
       "AVG_HOLD_AMT": 102426.327422103,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 37.52794515,
+      "FREEHOLD_RATIO_TOTAL": 13.82542117
     },
     {
       "SECUCODE": "600692.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600692.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600692.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600692.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600692.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600692.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600692.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600692.SH",
       "END_DATE": "2013-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600692.SH",
-      "END_DATE": "2013-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600692.SH",
       "SECURITY_CODE": "600692",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "崇明区国有资产监督管理委员会",
       "HOLDER_TYPE": "其它",
@@ -486,73 +486,86 @@
     {
       "SECUCODE": "600692.SH",
       "SECURITY_CODE": "600692",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "凤鸣",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "MORGAN STANLEY&CO.INTERNATIONAL PLC.",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1920000,
-      "FREE_HOLDNUM_RATIO": 0.752910124095,
-      "HOLD_NUM_CHANGE": "-180000",
-      "CHANGE_RATIO": -8.57142857
-    },
-    {
-      "SECUCODE": "600692.SH",
-      "SECURITY_CODE": "600692",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1852600,
-      "FREE_HOLDNUM_RATIO": 0.726479841614,
+      "HOLD_NUM": 3303203,
+      "FREE_HOLDNUM_RATIO": 1.295320302417,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600692.SH",
       "SECURITY_CODE": "600692",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "蒋鑫",
-      "HOLDER_TYPE": "个人",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1604400,
-      "FREE_HOLDNUM_RATIO": 0.629150522447,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 2809550,
+      "FREE_HOLDNUM_RATIO": 1.101738874558,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600692.SH",
       "SECURITY_CODE": "600692",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "高盛国际-自有资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2032378,
+      "FREE_HOLDNUM_RATIO": 0.796978110515,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600692.SH",
+      "SECURITY_CODE": "600692",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1948800,
+      "FREE_HOLDNUM_RATIO": 0.764203775956,
+      "HOLD_NUM_CHANGE": "96200",
+      "CHANGE_RATIO": 5.19270215
+    },
+    {
+      "SECUCODE": "600692.SH",
+      "SECURITY_CODE": "600692",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "凤鸣",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1700000,
+      "FREE_HOLDNUM_RATIO": 0.666639172376,
+      "HOLD_NUM_CHANGE": "-220000",
+      "CHANGE_RATIO": -11.45833333
+    },
+    {
+      "SECUCODE": "600692.SH",
+      "SECURITY_CODE": "600692",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "UBS AG",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1584723,
-      "FREE_HOLDNUM_RATIO": 0.621434370097,
-      "HOLD_NUM_CHANGE": "6556",
-      "CHANGE_RATIO": 0.41541865
+      "HOLD_NUM": 1614543,
+      "FREE_HOLDNUM_RATIO": 0.633128005462,
+      "HOLD_NUM_CHANGE": "29820",
+      "CHANGE_RATIO": 1.88171687
     },
     {
       "SECUCODE": "600692.SH",
       "SECURITY_CODE": "600692",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国工商银行股份有限公司-中证上海国企交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1538492,
-      "FREE_HOLDNUM_RATIO": 0.603305313875,
-      "HOLD_NUM_CHANGE": "-283300",
-      "CHANGE_RATIO": -15.55062268
-    },
-    {
-      "SECUCODE": "600692.SH",
-      "SECURITY_CODE": "600692",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "费维俊",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -564,61 +577,48 @@
     {
       "SECUCODE": "600692.SH",
       "SECURITY_CODE": "600692",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "唐鑫",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1472800,
-      "FREE_HOLDNUM_RATIO": 0.577544807691,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600692.SH",
-      "SECURITY_CODE": "600692",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "杨国政",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1429900,
-      "FREE_HOLDNUM_RATIO": 0.560721972106,
-      "HOLD_NUM_CHANGE": "27200",
-      "CHANGE_RATIO": 1.93911742
+      "HOLD_NUM": 1402700,
+      "FREE_HOLDNUM_RATIO": 0.550055745348,
+      "HOLD_NUM_CHANGE": "-27200",
+      "CHANGE_RATIO": -1.90223093
     },
     {
       "SECUCODE": "600692.SH",
       "SECURITY_CODE": "600692",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "杨清明",
+      "HOLDER_NAME": "唐鑫",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1332500,
-      "FREE_HOLDNUM_RATIO": 0.522527468936,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1350000,
+      "FREE_HOLDNUM_RATIO": 0.529389931004,
+      "HOLD_NUM_CHANGE": "-122800",
+      "CHANGE_RATIO": -8.33785986
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600692.SH",
       "SECURITY_CODE": "600692",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 31830519,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 35256278,
       "LIMITED_SHARES": 96753547,
-      "OTHER_UNLIMITED_SHARES": 223179998,
-      "HOLD_NUM_RATIO": 9.05,
+      "OTHER_UNLIMITED_SHARES": 219754239,
+      "HOLD_NUM_RATIO": 10.02,
       "LIMITED_SHARES_RATIO": 27.51,
-      "UNLIMITED_SHARES_RATIO": 63.45
+      "UNLIMITED_SHARES_RATIO": 62.47
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600692.SH",
       "SECURITY_CODE": "600692",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "崇明区国有资产监督管理委员会",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -630,68 +630,80 @@
     {
       "SECUCODE": "600692.SH",
       "SECURITY_CODE": "600692",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "凤鸣",
+      "HOLDER_NAME": "MORGAN STANLEY&CO.INTERNATIONAL PLC.",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1920000,
-      "HOLD_NUM_RATIO": 0.55,
-      "HOLD_NUM_CHANGE": "-180000",
-      "CHANGE_RATIO": -8.57142857
-    },
-    {
-      "SECUCODE": "600692.SH",
-      "SECURITY_CODE": "600692",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1852600,
-      "HOLD_NUM_RATIO": 0.53,
+      "HOLD_NUM": 3303203,
+      "HOLD_NUM_RATIO": 0.94,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600692.SH",
       "SECURITY_CODE": "600692",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "蒋鑫",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1604400,
-      "HOLD_NUM_RATIO": 0.46,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 2809550,
+      "HOLD_NUM_RATIO": 0.8,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600692.SH",
       "SECURITY_CODE": "600692",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "高盛国际-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2032378,
+      "HOLD_NUM_RATIO": 0.58,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600692.SH",
+      "SECURITY_CODE": "600692",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1948800,
+      "HOLD_NUM_RATIO": 0.55,
+      "HOLD_NUM_CHANGE": "96200",
+      "CHANGE_RATIO": 5.19270215
+    },
+    {
+      "SECUCODE": "600692.SH",
+      "SECURITY_CODE": "600692",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "凤鸣",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1700000,
+      "HOLD_NUM_RATIO": 0.48,
+      "HOLD_NUM_CHANGE": "-220000",
+      "CHANGE_RATIO": -11.45833333
+    },
+    {
+      "SECUCODE": "600692.SH",
+      "SECURITY_CODE": "600692",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "UBS AG",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1584723,
-      "HOLD_NUM_RATIO": 0.45,
-      "HOLD_NUM_CHANGE": "6556",
-      "CHANGE_RATIO": 0.41541865
+      "HOLD_NUM": 1614543,
+      "HOLD_NUM_RATIO": 0.46,
+      "HOLD_NUM_CHANGE": "29820",
+      "CHANGE_RATIO": 1.88171687
     },
     {
       "SECUCODE": "600692.SH",
       "SECURITY_CODE": "600692",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国工商银行股份有限公司-中证上海国企交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1538492,
-      "HOLD_NUM_RATIO": 0.44,
-      "HOLD_NUM_CHANGE": "-283300",
-      "CHANGE_RATIO": -15.55062268
-    },
-    {
-      "SECUCODE": "600692.SH",
-      "SECURITY_CODE": "600692",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "费维俊",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1506900,
@@ -702,38 +714,26 @@
     {
       "SECUCODE": "600692.SH",
       "SECURITY_CODE": "600692",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "唐鑫",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1472800,
-      "HOLD_NUM_RATIO": 0.42,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600692.SH",
-      "SECURITY_CODE": "600692",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "杨国政",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1429900,
-      "HOLD_NUM_RATIO": 0.41,
-      "HOLD_NUM_CHANGE": "27200",
-      "CHANGE_RATIO": 1.93911742
+      "HOLD_NUM": 1402700,
+      "HOLD_NUM_RATIO": 0.4,
+      "HOLD_NUM_CHANGE": "-27200",
+      "CHANGE_RATIO": -1.90223093
     },
     {
       "SECUCODE": "600692.SH",
       "SECURITY_CODE": "600692",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "杨清明",
+      "HOLDER_NAME": "唐鑫",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1332500,
+      "HOLD_NUM": 1350000,
       "HOLD_NUM_RATIO": 0.38,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM_CHANGE": "-122800",
+      "CHANGE_RATIO": -8.33785986
     }
   ],
   "jgcc": [
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "600692",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 2047100,
-      "TOTAL_SHARES_RATIO": 0.80275121,
-      "ALL_SHARES_RATIO": 0.58195257
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 126148525,
+      "TOTAL_SHARES_RATIO": 11.52696695,
+      "ALL_SHARES_RATIO": 8.35644713
     },
     {
       "SECUCODE": "600692.SH",
@@ -756,6 +756,26 @@
       "TOTAL_FREE_SHARES": 2047100,
       "TOTAL_SHARES_RATIO": 0.80275121,
       "ALL_SHARES_RATIO": 0.58195257
+    },
+    {
+      "SECUCODE": "600692.SH",
+      "SECURITY_CODE": "600692",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 9759674,
+      "TOTAL_SHARES_RATIO": 3.82716529,
+      "ALL_SHARES_RATIO": 2.77449433
+    },
+    {
+      "SECUCODE": "600692.SH",
+      "SECURITY_CODE": "600692",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 114341751,
+      "TOTAL_SHARES_RATIO": 6.89705045,
+      "ALL_SHARES_RATIO": 5.00000023
     }
   ],
   "jjcg": [

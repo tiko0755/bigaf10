@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 12.68,
       "AVG_HOLD_AMT": 125282.228008557,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 51.69845513,
+      "FREEHOLD_RATIO_TOTAL": 51.69845513
     },
     {
       "SECUCODE": "603339.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603339.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603339.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603339.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603339.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603339.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603339.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603339.SH",
       "END_DATE": "2016-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "603339.SH",
-      "END_DATE": "2016-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "603339.SH",
       "SECURITY_CODE": "603339",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "黄杰",
       "HOLDER_TYPE": "个人",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "603339.SH",
       "SECURITY_CODE": "603339",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "黄晓颖",
       "HOLDER_TYPE": "个人",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "603339.SH",
       "SECURITY_CODE": "603339",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "朱建新",
       "HOLDER_TYPE": "个人",
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "603339.SH",
       "SECURITY_CODE": "603339",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "朱祥",
       "HOLDER_TYPE": "个人",
@@ -525,20 +525,20 @@
     {
       "SECUCODE": "603339.SH",
       "SECURITY_CODE": "603339",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "许丹丹",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 3800000,
       "FREE_HOLDNUM_RATIO": 1.228020156012,
-      "HOLD_NUM_CHANGE": "56000",
-      "CHANGE_RATIO": 1.4957265
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603339.SH",
       "SECURITY_CODE": "603339",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "杨燕萍",
       "HOLDER_TYPE": "个人",
@@ -551,8 +551,21 @@
     {
       "SECUCODE": "603339.SH",
       "SECURITY_CODE": "603339",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "邹瀚枢",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2729296,
+      "FREE_HOLDNUM_RATIO": 0.882008026243,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603339.SH",
+      "SECURITY_CODE": "603339",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "黄华",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -564,8 +577,8 @@
     {
       "SECUCODE": "603339.SH",
       "SECURITY_CODE": "603339",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "凌吉云",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -577,26 +590,13 @@
     {
       "SECUCODE": "603339.SH",
       "SECURITY_CODE": "603339",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "钱丹",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1800073,
       "FREE_HOLDNUM_RATIO": 0.581717349024,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603339.SH",
-      "SECURITY_CODE": "603339",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "蒋琳",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1496796,
-      "FREE_HOLDNUM_RATIO": 0.483709383536,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "603339.SH",
       "SECURITY_CODE": "603339",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 158743807,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 159976307,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 150697368,
-      "HOLD_NUM_RATIO": 51.3,
+      "OTHER_UNLIMITED_SHARES": 149464868,
+      "HOLD_NUM_RATIO": 51.7,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 48.7
+      "UNLIMITED_SHARES_RATIO": 48.3
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603339.SH",
       "SECURITY_CODE": "603339",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "黄杰",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "603339.SH",
       "SECURITY_CODE": "603339",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "黄晓颖",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "603339.SH",
       "SECURITY_CODE": "603339",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "朱建新",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "603339.SH",
       "SECURITY_CODE": "603339",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "朱祥",
       "SHARES_TYPE": "流通A股",
@@ -666,19 +666,19 @@
     {
       "SECUCODE": "603339.SH",
       "SECURITY_CODE": "603339",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "许丹丹",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3800000,
       "HOLD_NUM_RATIO": 1.23,
-      "HOLD_NUM_CHANGE": "56000",
-      "CHANGE_RATIO": 1.4957265
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603339.SH",
       "SECURITY_CODE": "603339",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "杨燕萍",
       "SHARES_TYPE": "流通A股",
@@ -690,8 +690,20 @@
     {
       "SECUCODE": "603339.SH",
       "SECURITY_CODE": "603339",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "邹瀚枢",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2729296,
+      "HOLD_NUM_RATIO": 0.88,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603339.SH",
+      "SECURITY_CODE": "603339",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "黄华",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2280872,
@@ -702,8 +714,8 @@
     {
       "SECUCODE": "603339.SH",
       "SECURITY_CODE": "603339",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "凌吉云",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1950000,
@@ -714,24 +726,12 @@
     {
       "SECUCODE": "603339.SH",
       "SECURITY_CODE": "603339",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "钱丹",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1800073,
       "HOLD_NUM_RATIO": 0.58,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603339.SH",
-      "SECURITY_CODE": "603339",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "蒋琳",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1496796,
-      "HOLD_NUM_RATIO": 0.48,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }

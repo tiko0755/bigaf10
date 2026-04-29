@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 17.22,
       "AVG_HOLD_AMT": 399553.52827614,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 46.89285204,
+      "FREEHOLD_RATIO_TOTAL": 47.56779308
     },
     {
       "SECUCODE": "000811.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000811.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000811.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "000811.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000811.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000811.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000811.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "000811.SZ",
       "END_DATE": "2018-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000811.SZ",
-      "END_DATE": "2018-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -445,19 +445,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-12-10 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "烟台国丰投资控股集团有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 137186012,
-      "HOLD_NUM_RATIO": 13.82,
-      "HOLD_CHANGE": "-6763338",
-      "CHANGE_RATIO": -4.6984151,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "000811.SZ",
@@ -522,20 +510,20 @@
     {
       "SECUCODE": "000811.SZ",
       "SECURITY_CODE": "000811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "烟台国丰投资控股集团有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 134671552,
       "FREE_HOLDNUM_RATIO": 13.764528463817,
-      "HOLD_NUM_CHANGE": "-9277798",
-      "CHANGE_RATIO": -6.44518228
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000811.SZ",
       "SECURITY_CODE": "000811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "烟台冰轮投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -548,7 +536,7 @@
     {
       "SECUCODE": "000811.SZ",
       "SECURITY_CODE": "000811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "烟台国泰诚丰资产管理有限公司",
       "HOLDER_TYPE": "其它",
@@ -561,125 +549,125 @@
     {
       "SECUCODE": "000811.SZ",
       "SECURITY_CODE": "000811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "红塔创新投资股份有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 32413405,
-      "FREE_HOLDNUM_RATIO": 3.312913745375,
-      "HOLD_NUM_CHANGE": "-200000",
-      "CHANGE_RATIO": -0.61324477
+      "HOLD_NUM": 31172005,
+      "FREE_HOLDNUM_RATIO": 3.186032563854,
+      "HOLD_NUM_CHANGE": "-1241400",
+      "CHANGE_RATIO": -3.82989692
     },
     {
       "SECUCODE": "000811.SZ",
       "SECURITY_CODE": "000811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 28049143,
-      "FREE_HOLDNUM_RATIO": 2.8668506561,
-      "HOLD_NUM_CHANGE": "-5518509",
-      "CHANGE_RATIO": -16.43996131
-    },
-    {
-      "SECUCODE": "000811.SZ",
-      "SECURITY_CODE": "000811",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "华泰证券股份有限公司",
       "HOLDER_TYPE": "证券公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 22086311,
-      "FREE_HOLDNUM_RATIO": 2.25740070494,
+      "HOLD_NUM": 20457251,
+      "FREE_HOLDNUM_RATIO": 2.090897516953,
+      "HOLD_NUM_CHANGE": "-1629060",
+      "CHANGE_RATIO": -7.37588092
+    },
+    {
+      "SECUCODE": "000811.SZ",
+      "SECURITY_CODE": "000811",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国农业银行股份有限公司-汇添富新睿精选灵活配置混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 14188734,
+      "FREE_HOLDNUM_RATIO": 1.450204071373,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000811.SZ",
       "SECURITY_CODE": "000811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6379570,
-      "FREE_HOLDNUM_RATIO": 0.65204396584,
-      "HOLD_NUM_CHANGE": "22400",
-      "CHANGE_RATIO": 0.35235805
-    },
-    {
-      "SECUCODE": "000811.SZ",
-      "SECURITY_CODE": "000811",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "全国社保基金一零一组合",
+      "HOLDER_NAME": "汇添富基金管理股份有限公司-社保基金17022组合",
       "HOLDER_TYPE": "全国社保基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4885245,
-      "FREE_HOLDNUM_RATIO": 0.499311791218,
+      "HOLD_NUM": 13962651,
+      "FREE_HOLDNUM_RATIO": 1.42709654909,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000811.SZ",
       "SECURITY_CODE": "000811",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "上海瓴仁私募基金管理合伙企业(有限合伙)-瓴仁盛景长青一期私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4654100,
-      "FREE_HOLDNUM_RATIO": 0.475686891345,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 9962080,
+      "FREE_HOLDNUM_RATIO": 1.018205639442,
+      "HOLD_NUM_CHANGE": "-18087063",
+      "CHANGE_RATIO": -64.48347816
     },
     {
       "SECUCODE": "000811.SZ",
       "SECURITY_CODE": "000811",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "招商银行股份有限公司-华夏中证1000交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "上海浦东发展银行股份有限公司-广发小盘成长混合型证券投资基金(LOF)",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4027022,
-      "FREE_HOLDNUM_RATIO": 0.411594417085,
-      "HOLD_NUM_CHANGE": "251000",
-      "CHANGE_RATIO": 6.64720703
+      "HOLD_NUM": 8827608,
+      "FREE_HOLDNUM_RATIO": 0.902253369616,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000811.SZ",
+      "SECURITY_CODE": "000811",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "华夏银行股份有限公司-广发成长启航混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7951450,
+      "FREE_HOLDNUM_RATIO": 0.812702892543,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "000811.SZ",
       "SECURITY_CODE": "000811",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 461374250,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 465401233,
       "LIMITED_SHARES": 14082304,
-      "OTHER_UNLIMITED_SHARES": 517021431,
-      "HOLD_NUM_RATIO": 46.49,
+      "OTHER_UNLIMITED_SHARES": 512994448,
+      "HOLD_NUM_RATIO": 46.89,
       "LIMITED_SHARES_RATIO": 1.42,
-      "UNLIMITED_SHARES_RATIO": 52.09
+      "UNLIMITED_SHARES_RATIO": 51.69
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "000811.SZ",
       "SECURITY_CODE": "000811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "烟台国丰投资控股集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 134671552,
       "HOLD_NUM_RATIO": 13.57,
-      "HOLD_NUM_CHANGE": "-2514460",
-      "CHANGE_RATIO": -1.83288366
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000811.SZ",
       "SECURITY_CODE": "000811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "烟台冰轮投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -691,7 +679,7 @@
     {
       "SECUCODE": "000811.SZ",
       "SECURITY_CODE": "000811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "烟台国泰诚丰资产管理有限公司",
       "SHARES_TYPE": "流通A股",
@@ -703,86 +691,86 @@
     {
       "SECUCODE": "000811.SZ",
       "SECURITY_CODE": "000811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "红塔创新投资股份有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 32413405,
-      "HOLD_NUM_RATIO": 3.27,
-      "HOLD_NUM_CHANGE": "-200000",
-      "CHANGE_RATIO": -0.61324477
+      "HOLD_NUM": 31172005,
+      "HOLD_NUM_RATIO": 3.14,
+      "HOLD_NUM_CHANGE": "-1241400",
+      "CHANGE_RATIO": -3.82989692
     },
     {
       "SECUCODE": "000811.SZ",
       "SECURITY_CODE": "000811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 28049143,
-      "HOLD_NUM_RATIO": 2.83,
-      "HOLD_NUM_CHANGE": "-5518509",
-      "CHANGE_RATIO": -16.43996131
-    },
-    {
-      "SECUCODE": "000811.SZ",
-      "SECURITY_CODE": "000811",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "华泰证券股份有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 22086311,
-      "HOLD_NUM_RATIO": 2.23,
+      "HOLD_NUM": 20457251,
+      "HOLD_NUM_RATIO": 2.06,
+      "HOLD_NUM_CHANGE": "-1629060",
+      "CHANGE_RATIO": -7.37588092
+    },
+    {
+      "SECUCODE": "000811.SZ",
+      "SECURITY_CODE": "000811",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国农业银行股份有限公司-汇添富新睿精选灵活配置混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 14188734,
+      "HOLD_NUM_RATIO": 1.43,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000811.SZ",
       "SECURITY_CODE": "000811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "汇添富基金管理股份有限公司-社保基金17022组合",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6379570,
-      "HOLD_NUM_RATIO": 0.64,
-      "HOLD_NUM_CHANGE": "22400",
-      "CHANGE_RATIO": 0.35235805
+      "HOLD_NUM": 13962651,
+      "HOLD_NUM_RATIO": 1.41,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000811.SZ",
       "SECURITY_CODE": "000811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "全国社保基金一零一组合",
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4885245,
-      "HOLD_NUM_RATIO": 0.49,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 9962080,
+      "HOLD_NUM_RATIO": 1,
+      "HOLD_NUM_CHANGE": "-18087063",
+      "CHANGE_RATIO": -64.48347816
     },
     {
       "SECUCODE": "000811.SZ",
       "SECURITY_CODE": "000811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "上海瓴仁私募基金管理合伙企业(有限合伙)-瓴仁盛景长青一期私募证券投资基金",
+      "HOLDER_NAME": "上海浦东发展银行股份有限公司-广发小盘成长混合型证券投资基金(LOF)",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4654100,
-      "HOLD_NUM_RATIO": 0.47,
+      "HOLD_NUM": 8827608,
+      "HOLD_NUM_RATIO": 0.89,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000811.SZ",
       "SECURITY_CODE": "000811",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "招商银行股份有限公司-华夏中证1000交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "华夏银行股份有限公司-广发成长启航混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4027022,
-      "HOLD_NUM_RATIO": 0.41,
-      "HOLD_NUM_CHANGE": "251000",
-      "CHANGE_RATIO": 6.64720703
+      "HOLD_NUM": 7951450,
+      "HOLD_NUM_RATIO": 0.8,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
@@ -791,20 +779,50 @@
       "SECURITY_CODE": "000811",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 19,
-      "TOTAL_FREE_SHARES": 49507738,
-      "TOTAL_SHARES_RATIO": 5.06009368,
-      "ALL_SHARES_RATIO": 4.98829585
+      "TOTAL_ORG_NUM": 28,
+      "TOTAL_FREE_SHARES": 500720237,
+      "TOTAL_SHARES_RATIO": 51.17768267,
+      "ALL_SHARES_RATIO": 50.45152081
     },
     {
       "SECUCODE": "000811.SZ",
       "SECURITY_CODE": "000811",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 19,
-      "TOTAL_FREE_SHARES": 49507738,
-      "TOTAL_SHARES_RATIO": 5.06009368,
-      "ALL_SHARES_RATIO": 4.98829585
+      "TOTAL_ORG_NUM": 21,
+      "TOTAL_FREE_SHARES": 66286796,
+      "TOTAL_SHARES_RATIO": 6.77504994,
+      "ALL_SHARES_RATIO": 6.67891854
+    },
+    {
+      "SECUCODE": "000811.SZ",
+      "SECURITY_CODE": "000811",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 13962651,
+      "TOTAL_SHARES_RATIO": 1.42709655,
+      "ALL_SHARES_RATIO": 1.40684743
+    },
+    {
+      "SECUCODE": "000811.SZ",
+      "SECURITY_CODE": "000811",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "04",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 20457251,
+      "TOTAL_SHARES_RATIO": 2.09089752,
+      "ALL_SHARES_RATIO": 2.0612297
+    },
+    {
+      "SECUCODE": "000811.SZ",
+      "SECURITY_CODE": "000811",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 400013539,
+      "TOTAL_SHARES_RATIO": 40.88463866,
+      "ALL_SHARES_RATIO": 40.30452514
     }
   ],
   "jjcg": [
@@ -824,6 +842,40 @@
       "FUND_CODE": "001816",
       "FUND_DERIVECODE": "001816.OF",
       "NETVALUE_RATIO": 4.19
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "000811.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "162703",
+      "HOLDER_NAME": "广发小盘成长混合(LOF)A",
+      "TOTAL_SHARES": 8827608,
+      "HOLD_VALUE": 152011409.76,
+      "TOTALSHARES_RATIO": 0.88945127,
+      "FREESHARES_RATIO": 0.90225337,
+      "FREE_MARKET_CAP": 152011409.76,
+      "FREE_SHARES": 8827608,
+      "SECURITY_CODE": "000811",
+      "FUND_CODE": "162703",
+      "FUND_DERIVECODE": "162703.SZ",
+      "NETVALUE_RATIO": 3.05
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "000811.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "018835",
+      "HOLDER_NAME": "广发成长启航混合A",
+      "TOTAL_SHARES": 7951450,
+      "HOLD_VALUE": 136923969,
+      "TOTALSHARES_RATIO": 0.80117142,
+      "FREESHARES_RATIO": 0.81270289,
+      "FREE_MARKET_CAP": 136923969,
+      "FREE_SHARES": 7951450,
+      "SECURITY_CODE": "000811",
+      "FUND_CODE": "018835",
+      "FUND_DERIVECODE": "018835.OF",
+      "NETVALUE_RATIO": 4.09
     },
     {
       "ORG_TYPE": "01",

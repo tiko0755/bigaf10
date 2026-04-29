@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 9.78,
       "AVG_HOLD_AMT": 534502.781058735,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 78.86022645,
+      "FREEHOLD_RATIO_TOTAL": 78.86022645
     },
     {
       "SECUCODE": "601928.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "601928.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "601928.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "601928.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "601928.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "601928.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "601928.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "601928.SH",
       "END_DATE": "2014-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "601928.SH",
-      "END_DATE": "2014-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "601928.SH",
       "SECURITY_CODE": "601928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "江苏凤凰出版传媒集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "601928.SH",
       "SECURITY_CODE": "601928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中移投资控股有限责任公司",
       "HOLDER_TYPE": "投资公司",
@@ -499,104 +499,104 @@
     {
       "SECUCODE": "601928.SH",
       "SECURITY_CODE": "601928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中国建设银行股份有限公司-华泰柏瑞中证红利低波动交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 47214244,
-      "FREE_HOLDNUM_RATIO": 1.855249479351,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 54944264,
+      "FREE_HOLDNUM_RATIO": 2.158995009627,
+      "HOLD_NUM_CHANGE": "7730020",
+      "CHANGE_RATIO": 16.37222021
     },
     {
       "SECUCODE": "601928.SH",
       "SECURITY_CODE": "601928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "利安人寿保险股份有限公司-利安禧年金保险(分红型)",
-      "HOLDER_TYPE": "保险产品",
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 20396842,
-      "FREE_HOLDNUM_RATIO": 0.801479115093,
-      "HOLD_NUM_CHANGE": "753742",
-      "CHANGE_RATIO": 3.83718456
+      "HOLD_NUM": 20135757,
+      "FREE_HOLDNUM_RATIO": 0.79121996935,
+      "HOLD_NUM_CHANGE": "640589",
+      "CHANGE_RATIO": 3.28588602
     },
     {
       "SECUCODE": "601928.SH",
       "SECURITY_CODE": "601928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "基本养老保险基金一零零一组合",
       "HOLDER_TYPE": "基本养老基金",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 20099844,
       "FREE_HOLDNUM_RATIO": 0.789808794059,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "601928.SH",
+      "SECURITY_CODE": "601928",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中邮人寿保险股份有限公司-传统保险",
+      "HOLDER_TYPE": "保险产品",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 13378500,
+      "FREE_HOLDNUM_RATIO": 0.525698455735,
+      "HOLD_NUM_CHANGE": "1017300",
+      "CHANGE_RATIO": 8.22978352
+    },
+    {
+      "SECUCODE": "601928.SH",
+      "SECURITY_CODE": "601928",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "招商银行股份有限公司-易方达中证红利低波动交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 13355600,
+      "FREE_HOLDNUM_RATIO": 0.524798616842,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601928.SH",
       "SECURITY_CODE": "601928",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 19495168,
-      "FREE_HOLDNUM_RATIO": 0.766048489135,
-      "HOLD_NUM_CHANGE": "-20480007",
-      "CHANGE_RATIO": -51.23181324
-    },
-    {
-      "SECUCODE": "601928.SH",
-      "SECURITY_CODE": "601928",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中邮人寿保险股份有限公司-传统保险",
-      "HOLDER_TYPE": "保险产品",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12361200,
-      "FREE_HOLDNUM_RATIO": 0.485724389956,
-      "HOLD_NUM_CHANGE": "-485900",
-      "CHANGE_RATIO": -3.78217652
-    },
-    {
-      "SECUCODE": "601928.SH",
-      "SECURITY_CODE": "601928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "国联民生证券股份有限公司",
       "HOLDER_TYPE": "证券公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11691600,
-      "FREE_HOLDNUM_RATIO": 0.459412943534,
-      "HOLD_NUM_CHANGE": "-103800",
-      "CHANGE_RATIO": -0.88000407
+      "HOLD_NUM": 11684200,
+      "FREE_HOLDNUM_RATIO": 0.4591221659,
+      "HOLD_NUM_CHANGE": "-7400",
+      "CHANGE_RATIO": -0.0632933
     },
     {
       "SECUCODE": "601928.SH",
       "SECURITY_CODE": "601928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "利安人寿保险股份有限公司-利安禧年金保险(分红型)",
+      "HOLDER_TYPE": "保险产品",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 10601700,
+      "FREE_HOLDNUM_RATIO": 0.416586113403,
+      "HOLD_NUM_CHANGE": "-9795142",
+      "CHANGE_RATIO": -48.02283608
+    },
+    {
+      "SECUCODE": "601928.SH",
+      "SECURITY_CODE": "601928",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国银行股份有限公司-易方达中证红利交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11267948,
-      "FREE_HOLDNUM_RATIO": 0.442765845416,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "601928.SH",
-      "SECURITY_CODE": "601928",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "李文",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10100050,
-      "FREE_HOLDNUM_RATIO": 0.396874140438,
+      "HOLD_NUM": 9933780,
+      "FREE_HOLDNUM_RATIO": 0.390340681363,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "601928.SH",
       "SECURITY_CODE": "601928",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 2005407154,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 2006913903,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 539492846,
-      "HOLD_NUM_RATIO": 78.8,
+      "OTHER_UNLIMITED_SHARES": 537986097,
+      "HOLD_NUM_RATIO": 78.86,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 21.2
+      "UNLIMITED_SHARES_RATIO": 21.14
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "601928.SH",
       "SECURITY_CODE": "601928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "江苏凤凰出版传媒集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "601928.SH",
       "SECURITY_CODE": "601928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中移投资控股有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -642,96 +642,96 @@
     {
       "SECUCODE": "601928.SH",
       "SECURITY_CODE": "601928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中国建设银行股份有限公司-华泰柏瑞中证红利低波动交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 47214244,
-      "HOLD_NUM_RATIO": 1.86,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 54944264,
+      "HOLD_NUM_RATIO": 2.16,
+      "HOLD_NUM_CHANGE": "7730020",
+      "CHANGE_RATIO": 16.37222021
     },
     {
       "SECUCODE": "601928.SH",
       "SECURITY_CODE": "601928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "利安人寿保险股份有限公司-利安禧年金保险(分红型)",
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 20396842,
-      "HOLD_NUM_RATIO": 0.8,
-      "HOLD_NUM_CHANGE": "753742",
-      "CHANGE_RATIO": 3.83718456
+      "HOLD_NUM": 20135757,
+      "HOLD_NUM_RATIO": 0.79,
+      "HOLD_NUM_CHANGE": "640589",
+      "CHANGE_RATIO": 3.28588602
     },
     {
       "SECUCODE": "601928.SH",
       "SECURITY_CODE": "601928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "基本养老保险基金一零零一组合",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 20099844,
       "HOLD_NUM_RATIO": 0.79,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "601928.SH",
+      "SECURITY_CODE": "601928",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中邮人寿保险股份有限公司-传统保险",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 13378500,
+      "HOLD_NUM_RATIO": 0.53,
+      "HOLD_NUM_CHANGE": "1017300",
+      "CHANGE_RATIO": 8.22978352
+    },
+    {
+      "SECUCODE": "601928.SH",
+      "SECURITY_CODE": "601928",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "招商银行股份有限公司-易方达中证红利低波动交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 13355600,
+      "HOLD_NUM_RATIO": 0.52,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601928.SH",
       "SECURITY_CODE": "601928",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 19495168,
-      "HOLD_NUM_RATIO": 0.77,
-      "HOLD_NUM_CHANGE": "-20480007",
-      "CHANGE_RATIO": -51.23181324
-    },
-    {
-      "SECUCODE": "601928.SH",
-      "SECURITY_CODE": "601928",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中邮人寿保险股份有限公司-传统保险",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 12361200,
-      "HOLD_NUM_RATIO": 0.49,
-      "HOLD_NUM_CHANGE": "-485900",
-      "CHANGE_RATIO": -3.78217652
-    },
-    {
-      "SECUCODE": "601928.SH",
-      "SECURITY_CODE": "601928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "国联民生证券股份有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11691600,
+      "HOLD_NUM": 11684200,
       "HOLD_NUM_RATIO": 0.46,
-      "HOLD_NUM_CHANGE": "-103800",
-      "CHANGE_RATIO": -0.88000407
+      "HOLD_NUM_CHANGE": "-7400",
+      "CHANGE_RATIO": -0.0632933
     },
     {
       "SECUCODE": "601928.SH",
       "SECURITY_CODE": "601928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "利安人寿保险股份有限公司-利安禧年金保险(分红型)",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11267948,
-      "HOLD_NUM_RATIO": 0.44,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 10601700,
+      "HOLD_NUM_RATIO": 0.42,
+      "HOLD_NUM_CHANGE": "-9795142",
+      "CHANGE_RATIO": -48.02283608
     },
     {
       "SECUCODE": "601928.SH",
       "SECURITY_CODE": "601928",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "李文",
+      "HOLDER_NAME": "中国银行股份有限公司-易方达中证红利交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10100050,
-      "HOLD_NUM_RATIO": 0.4,
+      "HOLD_NUM": 9933780,
+      "HOLD_NUM_RATIO": 0.39,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,23 +742,104 @@
       "SECURITY_CODE": "601928",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 1580804,
-      "TOTAL_SHARES_RATIO": 0.06211655,
-      "ALL_SHARES_RATIO": 0.06211655
+      "TOTAL_ORG_NUM": 16,
+      "TOTAL_FREE_SHARES": 2008494707,
+      "TOTAL_SHARES_RATIO": 78.92234301,
+      "ALL_SHARES_RATIO": 78.92234301
     },
     {
       "SECUCODE": "601928.SH",
       "SECURITY_CODE": "601928",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 1580804,
-      "TOTAL_SHARES_RATIO": 0.06211655,
-      "ALL_SHARES_RATIO": 0.06211655
+      "TOTAL_ORG_NUM": 9,
+      "TOTAL_FREE_SHARES": 79814448,
+      "TOTAL_SHARES_RATIO": 3.13625086,
+      "ALL_SHARES_RATIO": 3.13625086
+    },
+    {
+      "SECUCODE": "601928.SH",
+      "SECURITY_CODE": "601928",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "04",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 11684200,
+      "TOTAL_SHARES_RATIO": 0.45912217,
+      "ALL_SHARES_RATIO": 0.45912217
+    },
+    {
+      "SECUCODE": "601928.SH",
+      "SECURITY_CODE": "601928",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "05",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 23980200,
+      "TOTAL_SHARES_RATIO": 0.94228457,
+      "ALL_SHARES_RATIO": 0.94228457
+    },
+    {
+      "SECUCODE": "601928.SH",
+      "SECURITY_CODE": "601928",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 1893015859,
+      "TOTAL_SHARES_RATIO": 74.38468541,
+      "ALL_SHARES_RATIO": 74.38468541
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "601928.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "512890",
+      "HOLDER_NAME": "华泰柏瑞中证红利低波动ETF",
+      "TOTAL_SHARES": 54944264,
+      "HOLD_VALUE": 537354901.92,
+      "TOTALSHARES_RATIO": 2.15899501,
+      "FREESHARES_RATIO": 2.15899501,
+      "FREE_MARKET_CAP": 537354901.92,
+      "FREE_SHARES": 54944264,
+      "SECURITY_CODE": "601928",
+      "FUND_CODE": "512890",
+      "FUND_DERIVECODE": "512890.SH",
+      "NETVALUE_RATIO": 1.72
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "601928.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "563020",
+      "HOLDER_NAME": "易方达中证红利低波动ETF",
+      "TOTAL_SHARES": 13355600,
+      "HOLD_VALUE": 130617768,
+      "TOTALSHARES_RATIO": 0.52479862,
+      "FREESHARES_RATIO": 0.52479862,
+      "FREE_MARKET_CAP": 130617768,
+      "FREE_SHARES": 13355600,
+      "SECURITY_CODE": "601928",
+      "FUND_CODE": "563020",
+      "FUND_DERIVECODE": "563020.SH",
+      "NETVALUE_RATIO": 1.74
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "601928.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "515180",
+      "HOLDER_NAME": "易方达中证红利ETF",
+      "TOTAL_SHARES": 9933780,
+      "HOLD_VALUE": 97152368.4,
+      "TOTALSHARES_RATIO": 0.39034068,
+      "FREESHARES_RATIO": 0.39034068,
+      "FREE_MARKET_CAP": 97152368.4,
+      "FREE_SHARES": 9933780,
+      "SECURITY_CODE": "601928",
+      "FUND_CODE": "515180",
+      "FUND_DERIVECODE": "515180.SH",
+      "NETVALUE_RATIO": 0.78
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "601928.SH",

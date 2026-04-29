@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 13.63,
       "AVG_HOLD_AMT": 182973.977469057,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 51.11988685,
+      "FREEHOLD_RATIO_TOTAL": 51.11988685
     },
     {
       "SECUCODE": "600557.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600557.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600557.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,19 @@
     {
       "SECUCODE": "600557.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600557.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600557.SH",
+      "END_DATE": "2026-04-22 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "600557.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600557.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -403,16 +413,6 @@
       "SECUCODE": "600557.SH",
       "END_DATE": "2015-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600557.SH",
-      "END_DATE": "2015-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600557.SH",
-      "END_DATE": "2015-07-08 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -445,7 +445,30 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-04-22 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 18419322,
+      "HOLD_NUM_RATIO": 3.25,
+      "HOLD_CHANGE": "1311211",
+      "CHANGE_RATIO": 7.66426521,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-04-22 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "雷和印",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5100000,
+      "HOLD_NUM_RATIO": 0.9,
+      "HOLD_CHANGE": "420000",
+      "CHANGE_RATIO": 8.97435897,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "600557.SH",
@@ -473,7 +496,7 @@
     {
       "SECUCODE": "600557.SH",
       "SECURITY_CODE": "600557",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "江苏康缘集团有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +509,7 @@
     {
       "SECUCODE": "600557.SH",
       "SECURITY_CODE": "600557",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "连云港康贝尔医疗器械有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,7 +522,7 @@
     {
       "SECUCODE": "600557.SH",
       "SECURITY_CODE": "600557",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中央汇金资产管理有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -512,33 +535,33 @@
     {
       "SECUCODE": "600557.SH",
       "SECURITY_CODE": "600557",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 17108111,
+      "FREE_HOLDNUM_RATIO": 3.021786611582,
+      "HOLD_NUM_CHANGE": "2108272",
+      "CHANGE_RATIO": 14.05529753
+    },
+    {
+      "SECUCODE": "600557.SH",
+      "SECURITY_CODE": "600557",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "肖伟",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 17023232,
       "FREE_HOLDNUM_RATIO": 3.006794528248,
-      "HOLD_NUM_CHANGE": "20000",
-      "CHANGE_RATIO": 0.1176247
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600557.SH",
       "SECURITY_CODE": "600557",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 14999839,
-      "FREE_HOLDNUM_RATIO": 2.649404873869,
-      "HOLD_NUM_CHANGE": "521823",
-      "CHANGE_RATIO": 3.60424384
-    },
-    {
-      "SECUCODE": "600557.SH",
-      "SECURITY_CODE": "600557",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "上海银叶投资有限公司-银叶攻玉10号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
@@ -551,20 +574,20 @@
     {
       "SECUCODE": "600557.SH",
       "SECURITY_CODE": "600557",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "刘衍香",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 6070000,
       "FREE_HOLDNUM_RATIO": 1.072137346566,
-      "HOLD_NUM_CHANGE": "1383000",
-      "CHANGE_RATIO": 29.50714743
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600557.SH",
       "SECURITY_CODE": "600557",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "雷和印",
       "HOLDER_TYPE": "个人",
@@ -577,7 +600,7 @@
     {
       "SECUCODE": "600557.SH",
       "SECURITY_CODE": "600557",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "雷道园",
       "HOLDER_TYPE": "个人",
@@ -590,13 +613,13 @@
     {
       "SECUCODE": "600557.SH",
       "SECURITY_CODE": "600557",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "杨寅",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3120793,
-      "FREE_HOLDNUM_RATIO": 0.551222195421,
+      "HOLD_NUM": 2879988,
+      "FREE_HOLDNUM_RATIO": 0.508689076188,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +628,20 @@
     {
       "SECUCODE": "600557.SH",
       "SECURITY_CODE": "600557",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 287552274,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 289419741,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 278606532,
-      "HOLD_NUM_RATIO": 50.79,
+      "OTHER_UNLIMITED_SHARES": 276739065,
+      "HOLD_NUM_RATIO": 51.12,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 49.21
+      "UNLIMITED_SHARES_RATIO": 48.88
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600557.SH",
       "SECURITY_CODE": "600557",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-04-22 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "江苏康缘集团有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +653,7 @@
     {
       "SECUCODE": "600557.SH",
       "SECURITY_CODE": "600557",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-04-22 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "连云港康贝尔医疗器械有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,8 +665,20 @@
     {
       "SECUCODE": "600557.SH",
       "SECURITY_CODE": "600557",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-04-22 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 18419322,
+      "HOLD_NUM_RATIO": 3.25,
+      "HOLD_NUM_CHANGE": "1311211",
+      "CHANGE_RATIO": 7.66426521
+    },
+    {
+      "SECUCODE": "600557.SH",
+      "SECURITY_CODE": "600557",
+      "END_DATE": "2026-04-22 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "中央汇金资产管理有限责任公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 17886480,
@@ -654,31 +689,19 @@
     {
       "SECUCODE": "600557.SH",
       "SECURITY_CODE": "600557",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-04-22 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "肖伟",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 17023232,
       "HOLD_NUM_RATIO": 3.01,
-      "HOLD_NUM_CHANGE": "20000",
-      "CHANGE_RATIO": 0.1176247
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600557.SH",
       "SECURITY_CODE": "600557",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 14999839,
-      "HOLD_NUM_RATIO": 2.65,
-      "HOLD_NUM_CHANGE": "521823",
-      "CHANGE_RATIO": 3.60424384
-    },
-    {
-      "SECUCODE": "600557.SH",
-      "SECURITY_CODE": "600557",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-04-22 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "上海银叶投资有限公司-银叶攻玉10号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
@@ -690,31 +713,31 @@
     {
       "SECUCODE": "600557.SH",
       "SECURITY_CODE": "600557",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-04-22 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "刘衍香",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 6070000,
       "HOLD_NUM_RATIO": 1.07,
-      "HOLD_NUM_CHANGE": "1383000",
-      "CHANGE_RATIO": 29.50714743
-    },
-    {
-      "SECUCODE": "600557.SH",
-      "SECURITY_CODE": "600557",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "雷和印",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4680000,
-      "HOLD_NUM_RATIO": 0.83,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600557.SH",
       "SECURITY_CODE": "600557",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-04-22 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "雷和印",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5100000,
+      "HOLD_NUM_RATIO": 0.9,
+      "HOLD_NUM_CHANGE": "420000",
+      "CHANGE_RATIO": 8.97435897
+    },
+    {
+      "SECUCODE": "600557.SH",
+      "SECURITY_CODE": "600557",
+      "END_DATE": "2026-04-22 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "雷道园",
       "SHARES_TYPE": "流通A股",
@@ -726,12 +749,12 @@
     {
       "SECUCODE": "600557.SH",
       "SECURITY_CODE": "600557",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-04-22 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "雷道云",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3120793,
-      "HOLD_NUM_RATIO": 0.55,
+      "HOLD_NUM": 3310020,
+      "HOLD_NUM_RATIO": 0.58,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,10 +765,10 @@
       "SECURITY_CODE": "600557",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 61400,
-      "TOTAL_SHARES_RATIO": 0.01084501,
-      "ALL_SHARES_RATIO": 0.01084501
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 255045221,
+      "TOTAL_SHARES_RATIO": 45.04835362,
+      "ALL_SHARES_RATIO": 45.04835362
     },
     {
       "SECUCODE": "600557.SH",
@@ -756,6 +779,16 @@
       "TOTAL_FREE_SHARES": 61400,
       "TOTAL_SHARES_RATIO": 0.01084501,
       "ALL_SHARES_RATIO": 0.01084501
+    },
+    {
+      "SECUCODE": "600557.SH",
+      "SECURITY_CODE": "600557",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 254983821,
+      "TOTAL_SHARES_RATIO": 45.03750861,
+      "ALL_SHARES_RATIO": 45.03750861
     }
   ],
   "jjcg": [

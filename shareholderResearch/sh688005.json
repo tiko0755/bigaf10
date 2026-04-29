@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 28.33,
       "AVG_HOLD_AMT": 549438.19698103,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 40.11722151,
+      "FREEHOLD_RATIO_TOTAL": 40.12321244
     },
     {
       "SECUCODE": "688005.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "688005.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "688005.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "688005.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "688005.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "688005.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "688005.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -418,7 +423,7 @@
     {
       "SECUCODE": "688005.SH",
       "SECURITY_CODE": "688005",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海容百新能源投资企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -431,7 +436,7 @@
     {
       "SECUCODE": "688005.SH",
       "SECURITY_CODE": "688005",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "北京容百新能源投资发展有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -444,7 +449,7 @@
     {
       "SECUCODE": "688005.SH",
       "SECURITY_CODE": "688005",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "北京容百新能源投资管理有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -457,7 +462,7 @@
     {
       "SECUCODE": "688005.SH",
       "SECURITY_CODE": "688005",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "北京容百新能源科技投资管理有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -470,21 +475,8 @@
     {
       "SECUCODE": "688005.SH",
       "SECURITY_CODE": "688005",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12154668,
-      "FREE_HOLDNUM_RATIO": 1.700860489035,
-      "HOLD_NUM_CHANGE": "4590511",
-      "CHANGE_RATIO": 60.68767478
-    },
-    {
-      "SECUCODE": "688005.SH",
-      "SECURITY_CODE": "688005",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "遵义容百新能源投资中心(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -496,53 +488,66 @@
     {
       "SECUCODE": "688005.SH",
       "SECURITY_CODE": "688005",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "共青城容诚投资管理合伙企业(有限合伙)",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8273178,
-      "FREE_HOLDNUM_RATIO": 1.157705136738,
-      "HOLD_NUM_CHANGE": "-784082",
-      "CHANGE_RATIO": -8.65694482
-    },
-    {
-      "SECUCODE": "688005.SH",
-      "SECURITY_CODE": "688005",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "东方增长中小盘混合型开放式证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "兴业银行股份有限公司-兴全趋势投资混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4843969,
-      "FREE_HOLDNUM_RATIO": 0.677839615381,
-      "HOLD_NUM_CHANGE": "-2386625",
-      "CHANGE_RATIO": -33.00731586
-    },
-    {
-      "SECUCODE": "688005.SH",
-      "SECURITY_CODE": "688005",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "南方中证1000交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4602118,
-      "FREE_HOLDNUM_RATIO": 0.643996254943,
+      "HOLD_NUM": 9740834,
+      "FREE_HOLDNUM_RATIO": 1.363081219565,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688005.SH",
       "SECURITY_CODE": "688005",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "谢瑞涵",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 8354943,
+      "FREE_HOLDNUM_RATIO": 1.169146901983,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688005.SH",
+      "SECURITY_CODE": "688005",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "共青城容诚投资管理合伙企业(有限合伙)",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 8273178,
+      "FREE_HOLDNUM_RATIO": 1.157705136738,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688005.SH",
+      "SECURITY_CODE": "688005",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6324652,
+      "FREE_HOLDNUM_RATIO": 0.885038628261,
+      "HOLD_NUM_CHANGE": "-5830016",
+      "CHANGE_RATIO": -47.96524265
+    },
+    {
+      "SECUCODE": "688005.SH",
+      "SECURITY_CODE": "688005",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "天津世纪金沙江股权投资基金合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 4496047,
       "FREE_HOLDNUM_RATIO": 0.629153235542,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -550,20 +555,20 @@
     {
       "SECUCODE": "688005.SH",
       "SECURITY_CODE": "688005",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 283908326,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 286728000,
       "LIMITED_SHARES": 106718,
-      "OTHER_UNLIMITED_SHARES": 430710426,
-      "HOLD_NUM_RATIO": 39.72,
+      "OTHER_UNLIMITED_SHARES": 427890752,
+      "HOLD_NUM_RATIO": 40.12,
       "LIMITED_SHARES_RATIO": 0.01,
-      "UNLIMITED_SHARES_RATIO": 60.26
+      "UNLIMITED_SHARES_RATIO": 59.87
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "688005.SH",
       "SECURITY_CODE": "688005",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海容百新能源投资企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -575,7 +580,7 @@
     {
       "SECUCODE": "688005.SH",
       "SECURITY_CODE": "688005",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "北京容百新能源投资发展有限公司",
       "SHARES_TYPE": "流通A股",
@@ -587,7 +592,7 @@
     {
       "SECUCODE": "688005.SH",
       "SECURITY_CODE": "688005",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "北京容百新能源投资管理有限公司",
       "SHARES_TYPE": "流通A股",
@@ -599,7 +604,7 @@
     {
       "SECUCODE": "688005.SH",
       "SECURITY_CODE": "688005",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "北京容百新能源科技投资管理有限公司",
       "SHARES_TYPE": "流通A股",
@@ -611,20 +616,8 @@
     {
       "SECUCODE": "688005.SH",
       "SECURITY_CODE": "688005",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 12154668,
-      "HOLD_NUM_RATIO": 1.7,
-      "HOLD_NUM_CHANGE": "4590511",
-      "CHANGE_RATIO": 60.68767478
-    },
-    {
-      "SECUCODE": "688005.SH",
-      "SECURITY_CODE": "688005",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "遵义容百新能源投资中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 11141177,
@@ -635,49 +628,61 @@
     {
       "SECUCODE": "688005.SH",
       "SECURITY_CODE": "688005",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "共青城容诚投资管理合伙企业(有限合伙)",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "兴业银行股份有限公司-兴全趋势投资混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8273178,
-      "HOLD_NUM_RATIO": 1.16,
-      "HOLD_NUM_CHANGE": "-784082",
-      "CHANGE_RATIO": -8.65694482
-    },
-    {
-      "SECUCODE": "688005.SH",
-      "SECURITY_CODE": "688005",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "东方增长中小盘混合型开放式证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4843969,
-      "HOLD_NUM_RATIO": 0.68,
-      "HOLD_NUM_CHANGE": "-2386625",
-      "CHANGE_RATIO": -33.00731586
-    },
-    {
-      "SECUCODE": "688005.SH",
-      "SECURITY_CODE": "688005",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "南方中证1000交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4602118,
-      "HOLD_NUM_RATIO": 0.64,
+      "HOLD_NUM": 9740834,
+      "HOLD_NUM_RATIO": 1.36,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688005.SH",
       "SECURITY_CODE": "688005",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "谢瑞涵",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 8354943,
+      "HOLD_NUM_RATIO": 1.17,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688005.SH",
+      "SECURITY_CODE": "688005",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "共青城容诚投资管理合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 8273178,
+      "HOLD_NUM_RATIO": 1.16,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688005.SH",
+      "SECURITY_CODE": "688005",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6324652,
+      "HOLD_NUM_RATIO": 0.88,
+      "HOLD_NUM_CHANGE": "-5830016",
+      "CHANGE_RATIO": -47.96524265
+    },
+    {
+      "SECUCODE": "688005.SH",
+      "SECURITY_CODE": "688005",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "天津世纪金沙江股权投资基金合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4496047,
       "HOLD_NUM_RATIO": 0.63,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -687,23 +692,50 @@
       "SECURITY_CODE": "688005",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 13,
-      "TOTAL_FREE_SHARES": 4273147,
-      "TOTAL_SHARES_RATIO": 0.59796177,
-      "ALL_SHARES_RATIO": 0.59787251
+      "TOTAL_ORG_NUM": 22,
+      "TOTAL_FREE_SHARES": 282646204,
+      "TOTAL_SHARES_RATIO": 39.55202731,
+      "ALL_SHARES_RATIO": 39.54612168
     },
     {
       "SECUCODE": "688005.SH",
       "SECURITY_CODE": "688005",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 13,
-      "TOTAL_FREE_SHARES": 4273147,
-      "TOTAL_SHARES_RATIO": 0.59796177,
-      "ALL_SHARES_RATIO": 0.59787251
+      "TOTAL_ORG_NUM": 14,
+      "TOTAL_FREE_SHARES": 14013981,
+      "TOTAL_SHARES_RATIO": 1.96104299,
+      "ALL_SHARES_RATIO": 1.9607502
+    },
+    {
+      "SECUCODE": "688005.SH",
+      "SECURITY_CODE": "688005",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 268632223,
+      "TOTAL_SHARES_RATIO": 37.59098432,
+      "ALL_SHARES_RATIO": 37.58537148
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "688005.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "163402",
+      "HOLDER_NAME": "兴全趋势投资混合(LOF)",
+      "TOTAL_SHARES": 9740834,
+      "HOLD_VALUE": 275957827.22,
+      "TOTALSHARES_RATIO": 1.36287769,
+      "FREESHARES_RATIO": 1.36308122,
+      "FREE_MARKET_CAP": 275957827.22,
+      "FREE_SHARES": 9740834,
+      "SECURITY_CODE": "688005",
+      "FUND_CODE": "163402",
+      "FUND_DERIVECODE": "163402.SZ",
+      "NETVALUE_RATIO": 2.13
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "688005.SH",

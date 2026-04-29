@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 2.56,
       "AVG_HOLD_AMT": 75347.7641968088,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 49.91068453,
+      "FREEHOLD_RATIO_TOTAL": 49.91068453
     },
     {
       "SECUCODE": "600622.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600622.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600622.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600622.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600622.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600622.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600622.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600622.SH",
       "END_DATE": "2016-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600622.SH",
-      "END_DATE": "2016-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "600622.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "600622.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,36 +443,9 @@
     {
       "SECUCODE": "600622.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600622.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-11-17 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "上海嘉定建业投资开发有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 139183920,
-      "HOLD_NUM_RATIO": 9.28,
-      "HOLD_CHANGE": "-7498400",
-      "CHANGE_RATIO": -5.11199986,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-04 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "上海嘉定科技投资(集团)有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 78270586,
-      "HOLD_NUM_RATIO": 5.22,
-      "HOLD_CHANGE": "-1281400",
-      "CHANGE_RATIO": -1.6107706,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "600622.SH",
@@ -496,7 +473,7 @@
     {
       "SECUCODE": "600622.SH",
       "SECURITY_CODE": "600622",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京光控安宇投资中心(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -509,7 +486,7 @@
     {
       "SECUCODE": "600622.SH",
       "SECURITY_CODE": "600622",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "上海光控股权投资管理有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -522,20 +499,20 @@
     {
       "SECUCODE": "600622.SH",
       "SECURITY_CODE": "600622",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "上海嘉定建业投资开发有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 139183920,
       "FREE_HOLDNUM_RATIO": 9.28087449637,
-      "HOLD_NUM_CHANGE": "-7498400",
-      "CHANGE_RATIO": -5.11199986
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600622.SH",
       "SECURITY_CODE": "600622",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "上海安霞投资中心(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -548,20 +525,20 @@
     {
       "SECUCODE": "600622.SH",
       "SECURITY_CODE": "600622",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "上海嘉定科技投资(集团)有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 72053586,
-      "FREE_HOLDNUM_RATIO": 4.804580074188,
+      "HOLD_NUM": 64555186,
+      "FREE_HOLDNUM_RATIO": 4.304581875233,
       "HOLD_NUM_CHANGE": "-7498400",
-      "CHANGE_RATIO": -9.42578605
+      "CHANGE_RATIO": -10.40669926
     },
     {
       "SECUCODE": "600622.SH",
       "SECURITY_CODE": "600622",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "上海南翔资产经营有限公司",
       "HOLDER_TYPE": "其它",
@@ -574,7 +551,7 @@
     {
       "SECUCODE": "600622.SH",
       "SECURITY_CODE": "600622",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "上海嘉定缘和贸易有限公司",
       "HOLDER_TYPE": "其它",
@@ -587,20 +564,20 @@
     {
       "SECUCODE": "600622.SH",
       "SECURITY_CODE": "600622",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "张素芬",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 22200000,
-      "FREE_HOLDNUM_RATIO": 1.480310468475,
-      "HOLD_NUM_CHANGE": "10810000",
-      "CHANGE_RATIO": 94.90781387
+      "HOLD_NUM": 23700000,
+      "FREE_HOLDNUM_RATIO": 1.580331446075,
+      "HOLD_NUM_CHANGE": "1500000",
+      "CHANGE_RATIO": 6.75675676
     },
     {
       "SECUCODE": "600622.SH",
       "SECURITY_CODE": "600622",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "上海嘉加(集团)有限公司",
       "HOLDER_TYPE": "其它",
@@ -613,13 +590,13 @@
     {
       "SECUCODE": "600622.SH",
       "SECURITY_CODE": "600622",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "吕强",
+      "HOLDER_NAME": "周涛",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12603700,
-      "FREE_HOLDNUM_RATIO": 0.840422930249,
+      "HOLD_NUM": 10850200,
+      "FREE_HOLDNUM_RATIO": 0.723498407435,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -628,20 +605,20 @@
     {
       "SECUCODE": "600622.SH",
       "SECURITY_CODE": "600622",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 756255150,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 748503250,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 743430252,
-      "HOLD_NUM_RATIO": 50.43,
+      "OTHER_UNLIMITED_SHARES": 751182152,
+      "HOLD_NUM_RATIO": 49.91,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 49.57
+      "UNLIMITED_SHARES_RATIO": 50.09
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600622.SH",
       "SECURITY_CODE": "600622",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京光控安宇投资中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -653,7 +630,7 @@
     {
       "SECUCODE": "600622.SH",
       "SECURITY_CODE": "600622",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "上海光控股权投资管理有限公司",
       "SHARES_TYPE": "流通A股",
@@ -665,7 +642,7 @@
     {
       "SECUCODE": "600622.SH",
       "SECURITY_CODE": "600622",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "上海嘉定建业投资开发有限公司",
       "SHARES_TYPE": "流通A股",
@@ -677,7 +654,7 @@
     {
       "SECUCODE": "600622.SH",
       "SECURITY_CODE": "600622",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "上海安霞投资中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -689,19 +666,19 @@
     {
       "SECUCODE": "600622.SH",
       "SECURITY_CODE": "600622",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "上海嘉定科技投资(集团)有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 72053586,
-      "HOLD_NUM_RATIO": 4.8,
-      "HOLD_NUM_CHANGE": "-6217000",
-      "CHANGE_RATIO": -7.94295829
+      "HOLD_NUM": 64555186,
+      "HOLD_NUM_RATIO": 4.3,
+      "HOLD_NUM_CHANGE": "-7498400",
+      "CHANGE_RATIO": -10.40669926
     },
     {
       "SECUCODE": "600622.SH",
       "SECURITY_CODE": "600622",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "上海南翔资产经营有限公司",
       "SHARES_TYPE": "流通A股",
@@ -713,7 +690,7 @@
     {
       "SECUCODE": "600622.SH",
       "SECURITY_CODE": "600622",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "上海嘉定缘和贸易有限公司",
       "SHARES_TYPE": "流通A股",
@@ -725,19 +702,19 @@
     {
       "SECUCODE": "600622.SH",
       "SECURITY_CODE": "600622",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "张素芬",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 22200000,
-      "HOLD_NUM_RATIO": 1.48,
-      "HOLD_NUM_CHANGE": "10810000",
-      "CHANGE_RATIO": 94.90781387
+      "HOLD_NUM": 23700000,
+      "HOLD_NUM_RATIO": 1.58,
+      "HOLD_NUM_CHANGE": "1500000",
+      "CHANGE_RATIO": 6.75675676
     },
     {
       "SECUCODE": "600622.SH",
       "SECURITY_CODE": "600622",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "上海嘉加(集团)有限公司",
       "SHARES_TYPE": "流通A股",
@@ -749,12 +726,12 @@
     {
       "SECUCODE": "600622.SH",
       "SECURITY_CODE": "600622",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "吕强",
+      "HOLDER_NAME": "周涛",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 12603700,
-      "HOLD_NUM_RATIO": 0.84,
+      "HOLD_NUM": 10850200,
+      "HOLD_NUM_RATIO": 0.72,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -763,32 +740,22 @@
     {
       "SECUCODE": "600622.SH",
       "SECURITY_CODE": "600622",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 16,
-      "TOTAL_FREE_SHARES": 731776739,
-      "TOTAL_SHARES_RATIO": 48.79534986,
-      "ALL_SHARES_RATIO": 48.79534986
-    },
-    {
-      "SECUCODE": "600622.SH",
-      "SECURITY_CODE": "600622",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
       "TOTAL_ORG_NUM": 8,
-      "TOTAL_FREE_SHARES": 10325289,
-      "TOTAL_SHARES_RATIO": 0.68849699,
-      "ALL_SHARES_RATIO": 0.68849699
+      "TOTAL_FREE_SHARES": 713953050,
+      "TOTAL_SHARES_RATIO": 47.60685468,
+      "ALL_SHARES_RATIO": 47.60685468
     },
     {
       "SECUCODE": "600622.SH",
       "SECURITY_CODE": "600622",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 8,
-      "TOTAL_FREE_SHARES": 721451450,
-      "TOTAL_SHARES_RATIO": 48.10685287,
-      "ALL_SHARES_RATIO": 48.10685287
+      "TOTAL_FREE_SHARES": 713953050,
+      "TOTAL_SHARES_RATIO": 47.60685468,
+      "ALL_SHARES_RATIO": 47.60685468
     }
   ],
   "jjcg": [

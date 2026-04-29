@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 12.09,
       "AVG_HOLD_AMT": 212219.569248425,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 54.70650939,
+      "FREEHOLD_RATIO_TOTAL": 54.71172206
     },
     {
       "SECUCODE": "000682.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000682.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000682.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "000682.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000682.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000682.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000682.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "000682.SZ",
       "END_DATE": "2014-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000682.SZ",
-      "END_DATE": "2014-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "000682.SZ",
       "SECURITY_CODE": "000682",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "东方电子集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "000682.SZ",
       "SECURITY_CODE": "000682",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "宁夏黄三角投资中心(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -499,47 +499,34 @@
     {
       "SECUCODE": "000682.SZ",
       "SECURITY_CODE": "000682",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "全国社保基金五零三组合",
       "HOLDER_TYPE": "全国社保基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 50000000,
-      "FREE_HOLDNUM_RATIO": 3.729675314331,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 46000000,
+      "FREE_HOLDNUM_RATIO": 3.431301289185,
+      "HOLD_NUM_CHANGE": "-4000000",
+      "CHANGE_RATIO": -8
     },
     {
       "SECUCODE": "000682.SZ",
       "SECURITY_CODE": "000682",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 32475498,
-      "FREE_HOLDNUM_RATIO": 2.422461264224,
-      "HOLD_NUM_CHANGE": "917710",
-      "CHANGE_RATIO": 2.90803018
+      "HOLD_NUM": 37706564,
+      "FREE_HOLDNUM_RATIO": 2.812664818781,
+      "HOLD_NUM_CHANGE": "5231066",
+      "CHANGE_RATIO": 16.10773143
     },
     {
       "SECUCODE": "000682.SZ",
       "SECURITY_CODE": "000682",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "鹏华基金-中国人寿保险股份有限公司-分红险-鹏华基金国寿股份成长股票型组合单一资产管理计划(可供出售)",
-      "HOLDER_TYPE": "基金资产管理计划",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 30621770,
-      "FREE_HOLDNUM_RATIO": 2.284185193003,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000682.SZ",
-      "SECURITY_CODE": "000682",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "刘福娟",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -551,7 +538,20 @@
     {
       "SECUCODE": "000682.SZ",
       "SECURITY_CODE": "000682",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "招商证券股份有限公司-华夏中证电网设备主题交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 19762875,
+      "FREE_HOLDNUM_RATIO": 1.474182140554,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000682.SZ",
+      "SECURITY_CODE": "000682",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "于范易",
       "HOLDER_TYPE": "个人",
@@ -564,61 +564,61 @@
     {
       "SECUCODE": "000682.SZ",
       "SECURITY_CODE": "000682",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "招商银行股份有限公司-鹏华新兴产业混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8610653,
-      "FREE_HOLDNUM_RATIO": 0.642298798687,
-      "HOLD_NUM_CHANGE": "-2703000",
-      "CHANGE_RATIO": -23.89148757
-    },
-    {
-      "SECUCODE": "000682.SZ",
-      "SECURITY_CODE": "000682",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "四川海子投资管理有限公司-海子华灿6号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7748346,
-      "FREE_HOLDNUM_RATIO": 0.577976296062,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 15153139,
+      "FREE_HOLDNUM_RATIO": 1.130325769259,
+      "HOLD_NUM_CHANGE": "7404793",
+      "CHANGE_RATIO": 95.56611179
     },
     {
       "SECUCODE": "000682.SZ",
       "SECURITY_CODE": "000682",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "鹏华基金-中国人寿保险股份有限公司-分红险-鹏华基金国寿股份成长股票型组合单一资产管理计划(可供出售)",
+      "HOLDER_TYPE": "基金资产管理计划",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7386100,
-      "FREE_HOLDNUM_RATIO": 0.550955096784,
-      "HOLD_NUM_CHANGE": "27200",
-      "CHANGE_RATIO": 0.36962046
+      "HOLD_NUM": 14300239,
+      "FREE_HOLDNUM_RATIO": 1.066704967747,
+      "HOLD_NUM_CHANGE": "-16321531",
+      "CHANGE_RATIO": -53.30041666
+    },
+    {
+      "SECUCODE": "000682.SZ",
+      "SECURITY_CODE": "000682",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "于震洋",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6500000,
+      "FREE_HOLDNUM_RATIO": 0.484857790863,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "000682.SZ",
       "SECURITY_CODE": "000682",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 730884496,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 733464946,
       "LIMITED_SHARES": 127738,
-      "OTHER_UNLIMITED_SHARES": 609714773,
-      "HOLD_NUM_RATIO": 54.51,
+      "OTHER_UNLIMITED_SHARES": 607134323,
+      "HOLD_NUM_RATIO": 54.71,
       "LIMITED_SHARES_RATIO": 0.01,
-      "UNLIMITED_SHARES_RATIO": 45.48
+      "UNLIMITED_SHARES_RATIO": 45.28
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "000682.SZ",
       "SECURITY_CODE": "000682",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "东方电子集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "000682.SZ",
       "SECURITY_CODE": "000682",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "宁夏黄三角投资中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -642,44 +642,32 @@
     {
       "SECUCODE": "000682.SZ",
       "SECURITY_CODE": "000682",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "全国社保基金五零三组合",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 50000000,
-      "HOLD_NUM_RATIO": 3.73,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 46000000,
+      "HOLD_NUM_RATIO": 3.43,
+      "HOLD_NUM_CHANGE": "-4000000",
+      "CHANGE_RATIO": -8
     },
     {
       "SECUCODE": "000682.SZ",
       "SECURITY_CODE": "000682",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 32475498,
-      "HOLD_NUM_RATIO": 2.42,
-      "HOLD_NUM_CHANGE": "917710",
-      "CHANGE_RATIO": 2.90803018
+      "HOLD_NUM": 37706564,
+      "HOLD_NUM_RATIO": 2.81,
+      "HOLD_NUM_CHANGE": "5231066",
+      "CHANGE_RATIO": 16.10773143
     },
     {
       "SECUCODE": "000682.SZ",
       "SECURITY_CODE": "000682",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "鹏华基金-中国人寿保险股份有限公司-分红险-鹏华基金国寿股份成长股票型组合单一资产管理计划(可供出售)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 30621770,
-      "HOLD_NUM_RATIO": 2.28,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000682.SZ",
-      "SECURITY_CODE": "000682",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "刘福娟",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 20698646,
@@ -690,7 +678,19 @@
     {
       "SECUCODE": "000682.SZ",
       "SECURITY_CODE": "000682",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "招商证券股份有限公司-华夏中证电网设备主题交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 19762875,
+      "HOLD_NUM_RATIO": 1.47,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000682.SZ",
+      "SECURITY_CODE": "000682",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "于范易",
       "SHARES_TYPE": "流通A股",
@@ -702,38 +702,38 @@
     {
       "SECUCODE": "000682.SZ",
       "SECURITY_CODE": "000682",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "招商银行股份有限公司-鹏华新兴产业混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8610653,
-      "HOLD_NUM_RATIO": 0.64,
-      "HOLD_NUM_CHANGE": "-2703000",
-      "CHANGE_RATIO": -23.89148757
-    },
-    {
-      "SECUCODE": "000682.SZ",
-      "SECURITY_CODE": "000682",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "四川海子投资管理有限公司-海子华灿6号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7748346,
-      "HOLD_NUM_RATIO": 0.58,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 15153139,
+      "HOLD_NUM_RATIO": 1.13,
+      "HOLD_NUM_CHANGE": "7404793",
+      "CHANGE_RATIO": 95.56611179
     },
     {
       "SECUCODE": "000682.SZ",
       "SECURITY_CODE": "000682",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "鹏华基金-中国人寿保险股份有限公司-分红险-鹏华基金国寿股份成长股票型组合单一资产管理计划(可供出售)",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7386100,
-      "HOLD_NUM_RATIO": 0.55,
-      "HOLD_NUM_CHANGE": "27200",
-      "CHANGE_RATIO": 0.36962046
+      "HOLD_NUM": 14300239,
+      "HOLD_NUM_RATIO": 1.07,
+      "HOLD_NUM_CHANGE": "-16321531",
+      "CHANGE_RATIO": -53.30041666
+    },
+    {
+      "SECUCODE": "000682.SZ",
+      "SECURITY_CODE": "000682",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "于震洋",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6500000,
+      "HOLD_NUM_RATIO": 0.48,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
@@ -742,23 +742,77 @@
       "SECURITY_CODE": "000682",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 105800,
-      "TOTAL_SHARES_RATIO": 0.00789199,
-      "ALL_SHARES_RATIO": 0.00789124
+      "TOTAL_ORG_NUM": 9,
+      "TOTAL_FREE_SHARES": 688653855,
+      "TOTAL_SHARES_RATIO": 51.36910567,
+      "ALL_SHARES_RATIO": 51.36421146
     },
     {
       "SECUCODE": "000682.SZ",
       "SECURITY_CODE": "000682",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 105800,
-      "TOTAL_SHARES_RATIO": 0.00789199,
-      "ALL_SHARES_RATIO": 0.00789124
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 34168914,
+      "TOTAL_SHARES_RATIO": 2.5487791,
+      "ALL_SHARES_RATIO": 2.54853627
+    },
+    {
+      "SECUCODE": "000682.SZ",
+      "SECURITY_CODE": "000682",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 46000000,
+      "TOTAL_SHARES_RATIO": 3.43130129,
+      "ALL_SHARES_RATIO": 3.43097437
+    },
+    {
+      "SECUCODE": "000682.SZ",
+      "SECURITY_CODE": "000682",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 608484941,
+      "TOTAL_SHARES_RATIO": 45.38902528,
+      "ALL_SHARES_RATIO": 45.38470082
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "000682.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "159326",
+      "HOLDER_NAME": "华夏中证电网设备主题ETF",
+      "TOTAL_SHARES": 19762875,
+      "HOLD_VALUE": 238933158.75,
+      "TOTALSHARES_RATIO": 1.47404169,
+      "FREESHARES_RATIO": 1.47418214,
+      "FREE_MARKET_CAP": 238933158.75,
+      "FREE_SHARES": 19762875,
+      "SECURITY_CODE": "000682",
+      "FUND_CODE": "159326",
+      "FUND_DERIVECODE": "159326.SZ",
+      "NETVALUE_RATIO": 0.79
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "000682.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "70421367",
+      "HOLDER_NAME": "鹏华基金-中国人寿保险股份有限公司-分红险-鹏华基金国寿股份成长股票型组合单一资产管理计划(可供出售)",
+      "TOTAL_SHARES": 14300239,
+      "HOLD_VALUE": 172889889.51,
+      "TOTALSHARES_RATIO": 1.06660334,
+      "FREESHARES_RATIO": 1.06670497,
+      "FREE_MARKET_CAP": 172889889.51,
+      "FREE_SHARES": 14300239,
+      "SECURITY_CODE": "000682",
+      "FUND_CODE": null,
+      "FUND_DERIVECODE": null,
+      "NETVALUE_RATIO": null
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "000682.SZ",

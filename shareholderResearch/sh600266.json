@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 5.1,
       "AVG_HOLD_AMT": 147750.061210049,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 54.92468145,
+      "FREEHOLD_RATIO_TOTAL": 54.92468145
     },
     {
       "SECUCODE": "600266.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600266.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600266.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600266.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600266.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600266.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600266.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600266.SH",
       "END_DATE": "2016-01-27 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "600266.SH",
-      "END_DATE": "2016-01-25 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600266.SH",
       "SECURITY_CODE": "600266",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京城建集团有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -486,8 +486,21 @@
     {
       "SECUCODE": "600266.SH",
       "SECURITY_CODE": "600266",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
+      "HOLDER_NAME": "周宇光",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 72661309,
+      "FREE_HOLDNUM_RATIO": 3.50049554557,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600266.SH",
+      "SECURITY_CODE": "600266",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "叶怡红",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -499,104 +512,91 @@
     {
       "SECUCODE": "600266.SH",
       "SECURITY_CODE": "600266",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "全国社保基金四一二组合",
-      "HOLDER_TYPE": "全国社保基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 28764599,
-      "FREE_HOLDNUM_RATIO": 1.385749197962,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600266.SH",
-      "SECURITY_CODE": "600266",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "平安养老保险股份有限公司-万能-团险万能",
-      "HOLDER_TYPE": "保险产品",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 20507840,
-      "FREE_HOLDNUM_RATIO": 0.987975630459,
-      "HOLD_NUM_CHANGE": "2699964",
-      "CHANGE_RATIO": 15.16162848
-    },
-    {
-      "SECUCODE": "600266.SH",
-      "SECURITY_CODE": "600266",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "江辉",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 15779400,
-      "FREE_HOLDNUM_RATIO": 0.760180626691,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600266.SH",
-      "SECURITY_CODE": "600266",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11555748,
-      "FREE_HOLDNUM_RATIO": 0.556704041758,
-      "HOLD_NUM_CHANGE": "-3775149",
-      "CHANGE_RATIO": -24.62444957
+      "HOLD_NUM": 22213261,
+      "FREE_HOLDNUM_RATIO": 1.070135155191,
+      "HOLD_NUM_CHANGE": "10657513",
+      "CHANGE_RATIO": 92.22694195
     },
     {
       "SECUCODE": "600266.SH",
       "SECURITY_CODE": "600266",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中国工商银行股份有限公司-南方中证全指房地产交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11387000,
-      "FREE_HOLDNUM_RATIO": 0.548574520966,
-      "HOLD_NUM_CHANGE": "-12100",
-      "CHANGE_RATIO": -0.10614873
+      "HOLD_NUM": 14940230,
+      "FREE_HOLDNUM_RATIO": 0.719753184804,
+      "HOLD_NUM_CHANGE": "4331139",
+      "CHANGE_RATIO": 40.82478885
     },
     {
       "SECUCODE": "600266.SH",
       "SECURITY_CODE": "600266",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "张声茂",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "周爽",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11025600,
-      "FREE_HOLDNUM_RATIO": 0.531163892014,
+      "HOLD_NUM": 14913700,
+      "FREE_HOLDNUM_RATIO": 0.718475088551,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600266.SH",
       "SECURITY_CODE": "600266",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国工商银行股份有限公司-南方中证全指房地产交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "平安养老保险股份有限公司-万能-团险万能",
+      "HOLDER_TYPE": "保险产品",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10609091,
-      "FREE_HOLDNUM_RATIO": 0.511098358936,
-      "HOLD_NUM_CHANGE": "-5144636",
-      "CHANGE_RATIO": -32.65662786
+      "HOLD_NUM": 11507916,
+      "FREE_HOLDNUM_RATIO": 0.554399710812,
+      "HOLD_NUM_CHANGE": "-8999924",
+      "CHANGE_RATIO": -43.88528485
     },
     {
       "SECUCODE": "600266.SH",
       "SECURITY_CODE": "600266",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "胡信生",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6825200,
+      "FREE_HOLDNUM_RATIO": 0.328807484016,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600266.SH",
+      "SECURITY_CODE": "600266",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "平安life-style进取混合型养老金产品-中国工商银行股份有限公司",
       "HOLDER_TYPE": "其他理财产品",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8577716,
-      "FREE_HOLDNUM_RATIO": 0.413235834344,
+      "HOLD_NUM": 6260632,
+      "FREE_HOLDNUM_RATIO": 0.301609133252,
+      "HOLD_NUM_CHANGE": "-2317084",
+      "CHANGE_RATIO": -27.01283185
+    },
+    {
+      "SECUCODE": "600266.SH",
+      "SECURITY_CODE": "600266",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "华伟",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5820000,
+      "FREE_HOLDNUM_RATIO": 0.280381462371,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "600266.SH",
       "SECURITY_CODE": "600266",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 1103160255,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 1140095509,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 972583252,
-      "HOLD_NUM_RATIO": 53.15,
+      "OTHER_UNLIMITED_SHARES": 935647998,
+      "HOLD_NUM_RATIO": 54.92,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 46.85
+      "UNLIMITED_SHARES_RATIO": 45.08
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600266.SH",
       "SECURITY_CODE": "600266",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京城建集团有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -630,8 +630,20 @@
     {
       "SECUCODE": "600266.SH",
       "SECURITY_CODE": "600266",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
+      "HOLDER_NAME": "周宇光",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 72661309,
+      "HOLD_NUM_RATIO": 3.5,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600266.SH",
+      "SECURITY_CODE": "600266",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "叶怡红",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 40290000,
@@ -642,96 +654,84 @@
     {
       "SECUCODE": "600266.SH",
       "SECURITY_CODE": "600266",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "全国社保基金四一二组合",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 28764599,
-      "HOLD_NUM_RATIO": 1.39,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600266.SH",
-      "SECURITY_CODE": "600266",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "平安养老保险股份有限公司-万能-团险万能",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 20507840,
-      "HOLD_NUM_RATIO": 0.99,
-      "HOLD_NUM_CHANGE": "2699964",
-      "CHANGE_RATIO": 15.16162848
-    },
-    {
-      "SECUCODE": "600266.SH",
-      "SECURITY_CODE": "600266",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "江辉",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 15779400,
-      "HOLD_NUM_RATIO": 0.76,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600266.SH",
-      "SECURITY_CODE": "600266",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11555748,
-      "HOLD_NUM_RATIO": 0.56,
-      "HOLD_NUM_CHANGE": "-3775149",
-      "CHANGE_RATIO": -24.62444957
+      "HOLD_NUM": 22213261,
+      "HOLD_NUM_RATIO": 1.07,
+      "HOLD_NUM_CHANGE": "10657513",
+      "CHANGE_RATIO": 92.22694195
     },
     {
       "SECUCODE": "600266.SH",
       "SECURITY_CODE": "600266",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中国工商银行股份有限公司-南方中证全指房地产交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11387000,
-      "HOLD_NUM_RATIO": 0.55,
-      "HOLD_NUM_CHANGE": "-12100",
-      "CHANGE_RATIO": -0.10614873
+      "HOLD_NUM": 14940230,
+      "HOLD_NUM_RATIO": 0.72,
+      "HOLD_NUM_CHANGE": "4331139",
+      "CHANGE_RATIO": 40.82478885
     },
     {
       "SECUCODE": "600266.SH",
       "SECURITY_CODE": "600266",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "张声茂",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "周爽",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11025600,
-      "HOLD_NUM_RATIO": 0.53,
+      "HOLD_NUM": 14913700,
+      "HOLD_NUM_RATIO": 0.72,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600266.SH",
       "SECURITY_CODE": "600266",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国工商银行股份有限公司-南方中证全指房地产交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "平安养老保险股份有限公司-万能-团险万能",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10609091,
-      "HOLD_NUM_RATIO": 0.51,
-      "HOLD_NUM_CHANGE": "-5144636",
-      "CHANGE_RATIO": -32.65662786
+      "HOLD_NUM": 11507916,
+      "HOLD_NUM_RATIO": 0.55,
+      "HOLD_NUM_CHANGE": "-8999924",
+      "CHANGE_RATIO": -43.88528485
     },
     {
       "SECUCODE": "600266.SH",
       "SECURITY_CODE": "600266",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "胡信生",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6825200,
+      "HOLD_NUM_RATIO": 0.33,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600266.SH",
+      "SECURITY_CODE": "600266",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "平安life-style进取混合型养老金产品-中国工商银行股份有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8577716,
-      "HOLD_NUM_RATIO": 0.41,
+      "HOLD_NUM": 6260632,
+      "HOLD_NUM_RATIO": 0.3,
+      "HOLD_NUM_CHANGE": "-2317084",
+      "CHANGE_RATIO": -27.01283185
+    },
+    {
+      "SECUCODE": "600266.SH",
+      "SECURITY_CODE": "600266",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "华伟",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5820000,
+      "HOLD_NUM_RATIO": 0.28,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,23 +742,60 @@
       "SECURITY_CODE": "600266",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 937800,
-      "TOTAL_SHARES_RATIO": 0.04517899,
-      "ALL_SHARES_RATIO": 0.04517899
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 1000523100,
+      "TOTAL_SHARES_RATIO": 48.2007096,
+      "ALL_SHARES_RATIO": 48.2007096
     },
     {
       "SECUCODE": "600266.SH",
       "SECURITY_CODE": "600266",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 15878030,
+      "TOTAL_SHARES_RATIO": 0.76493217,
+      "ALL_SHARES_RATIO": 0.76493217
+    },
+    {
+      "SECUCODE": "600266.SH",
+      "SECURITY_CODE": "600266",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "05",
       "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 937800,
-      "TOTAL_SHARES_RATIO": 0.04517899,
-      "ALL_SHARES_RATIO": 0.04517899
+      "TOTAL_FREE_SHARES": 11507916,
+      "TOTAL_SHARES_RATIO": 0.55439971,
+      "ALL_SHARES_RATIO": 0.55439971
+    },
+    {
+      "SECUCODE": "600266.SH",
+      "SECURITY_CODE": "600266",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 973137154,
+      "TOTAL_SHARES_RATIO": 46.88137772,
+      "ALL_SHARES_RATIO": 46.88137772
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600266.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "512200",
+      "HOLDER_NAME": "南方中证房地产ETF",
+      "TOTAL_SHARES": 14940230,
+      "HOLD_VALUE": 76195173,
+      "TOTALSHARES_RATIO": 0.71975318,
+      "FREESHARES_RATIO": 0.71975318,
+      "FREE_MARKET_CAP": 76195173,
+      "FREE_SHARES": 14940230,
+      "SECURITY_CODE": "600266",
+      "FUND_CODE": "512200",
+      "FUND_DERIVECODE": "512200.SH",
+      "NETVALUE_RATIO": 1.29
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "600266.SH",

@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 8.42,
       "AVG_HOLD_AMT": 116779.468293003,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 51.63509133,
+      "FREEHOLD_RATIO_TOTAL": 51.63509133
     },
     {
       "SECUCODE": "603825.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603825.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603825.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603825.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603825.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603825.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603825.SH",
       "END_DATE": "2026-02-15 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603825.SH",
       "END_DATE": "2017-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "603825.SH",
-      "END_DATE": "2017-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "603825.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "603825.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "603825.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603825.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [
@@ -485,20 +485,20 @@
     {
       "SECUCODE": "603825.SH",
       "SECURITY_CODE": "603825",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "湖南湘江新区发展集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 49122200,
-      "FREE_HOLDNUM_RATIO": 19.390095748994,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 50183100,
+      "FREE_HOLDNUM_RATIO": 19.808866744188,
+      "HOLD_NUM_CHANGE": "1060900",
+      "CHANGE_RATIO": 2.15971597
     },
     {
       "SECUCODE": "603825.SH",
       "SECURITY_CODE": "603825",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "苏同",
       "HOLDER_TYPE": "个人",
@@ -511,7 +511,7 @@
     {
       "SECUCODE": "603825.SH",
       "SECURITY_CODE": "603825",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "湖南省财信资产管理有限公司",
       "HOLDER_TYPE": "其它",
@@ -524,7 +524,7 @@
     {
       "SECUCODE": "603825.SH",
       "SECURITY_CODE": "603825",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "姜香蕊",
       "HOLDER_TYPE": "个人",
@@ -537,47 +537,60 @@
     {
       "SECUCODE": "603825.SH",
       "SECURITY_CODE": "603825",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "徐国新",
+      "HOLDER_NAME": "唐建柏",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5188800,
-      "FREE_HOLDNUM_RATIO": 2.048184503593,
-      "HOLD_NUM_CHANGE": "1188900",
-      "CHANGE_RATIO": 29.72324308
-    },
-    {
-      "SECUCODE": "603825.SH",
-      "SECURITY_CODE": "603825",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "张建飞",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2691000,
-      "FREE_HOLDNUM_RATIO": 1.062223346278,
-      "HOLD_NUM_CHANGE": "300000",
-      "CHANGE_RATIO": 12.54705144
-    },
-    {
-      "SECUCODE": "603825.SH",
-      "SECURITY_CODE": "603825",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "胡群芳",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2640100,
-      "FREE_HOLDNUM_RATIO": 1.042131496287,
+      "HOLD_NUM": 8020000,
+      "FREE_HOLDNUM_RATIO": 3.165749252007,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603825.SH",
       "SECURITY_CODE": "603825",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "徐国新",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5188800,
+      "FREE_HOLDNUM_RATIO": 2.048184503593,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603825.SH",
+      "SECURITY_CODE": "603825",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "娄军",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4884600,
+      "FREE_HOLDNUM_RATIO": 1.92810708184,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603825.SH",
+      "SECURITY_CODE": "603825",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "张建飞",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2691000,
+      "FREE_HOLDNUM_RATIO": 1.062223346278,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603825.SH",
+      "SECURITY_CODE": "603825",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "洪清法",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -589,60 +602,47 @@
     {
       "SECUCODE": "603825.SH",
       "SECURITY_CODE": "603825",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "朱华",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1450414,
-      "FREE_HOLDNUM_RATIO": 0.57252456803,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603825.SH",
-      "SECURITY_CODE": "603825",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "许譞",
+      "HOLDER_NAME": "胡群芳",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1268640,
-      "FREE_HOLDNUM_RATIO": 0.500772584921,
-      "HOLD_NUM_CHANGE": "-6331457",
-      "CHANGE_RATIO": -83.30758147
+      "HOLD_NUM": 1986900,
+      "FREE_HOLDNUM_RATIO": 0.784292666934,
+      "HOLD_NUM_CHANGE": "-653200",
+      "CHANGE_RATIO": -24.74148706
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "603825.SH",
       "SECURITY_CODE": "603825",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 120217314,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 130810560,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 133119238,
-      "HOLD_NUM_RATIO": 47.45,
+      "OTHER_UNLIMITED_SHARES": 122525992,
+      "HOLD_NUM_RATIO": 51.64,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 52.55
+      "UNLIMITED_SHARES_RATIO": 48.36
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603825.SH",
       "SECURITY_CODE": "603825",
-      "END_DATE": "2026-02-15 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "湖南湘江新区发展集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 50183100,
       "HOLD_NUM_RATIO": 19.81,
-      "HOLD_NUM_CHANGE": "1060900",
-      "CHANGE_RATIO": 2.15971597
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603825.SH",
       "SECURITY_CODE": "603825",
-      "END_DATE": "2026-02-15 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "苏同",
       "SHARES_TYPE": "流通A股",
@@ -650,28 +650,124 @@
       "HOLD_NUM_RATIO": 12.67,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603825.SH",
+      "SECURITY_CODE": "603825",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "湖南省财信资产管理有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 12413500,
+      "HOLD_NUM_RATIO": 4.9,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603825.SH",
+      "SECURITY_CODE": "603825",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "姜香蕊",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 11056270,
+      "HOLD_NUM_RATIO": 4.36,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603825.SH",
+      "SECURITY_CODE": "603825",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "唐建柏",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 8020000,
+      "HOLD_NUM_RATIO": 3.17,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603825.SH",
+      "SECURITY_CODE": "603825",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "徐国新",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5188800,
+      "HOLD_NUM_RATIO": 2.05,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603825.SH",
+      "SECURITY_CODE": "603825",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "娄军",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4884600,
+      "HOLD_NUM_RATIO": 1.93,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603825.SH",
+      "SECURITY_CODE": "603825",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "张建飞",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2691000,
+      "HOLD_NUM_RATIO": 1.06,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603825.SH",
+      "SECURITY_CODE": "603825",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "洪清法",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2300000,
+      "HOLD_NUM_RATIO": 0.91,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603825.SH",
+      "SECURITY_CODE": "603825",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "胡群芳",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1986900,
+      "HOLD_NUM_RATIO": 0.78,
+      "HOLD_NUM_CHANGE": "-653200",
+      "CHANGE_RATIO": -24.74148706
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "603825.SH",
       "SECURITY_CODE": "603825",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
       "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 61535700,
-      "TOTAL_SHARES_RATIO": 24.29009928,
-      "ALL_SHARES_RATIO": 24.29009928
+      "TOTAL_FREE_SHARES": 62596600,
+      "TOTAL_SHARES_RATIO": 24.70887027,
+      "ALL_SHARES_RATIO": 24.70887027
     },
     {
       "SECUCODE": "603825.SH",
       "SECURITY_CODE": "603825",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 61535700,
-      "TOTAL_SHARES_RATIO": 24.29009928,
-      "ALL_SHARES_RATIO": 24.29009928
+      "TOTAL_FREE_SHARES": 62596600,
+      "TOTAL_SHARES_RATIO": 24.70887027,
+      "ALL_SHARES_RATIO": 24.70887027
     }
   ],
   "jjcg": [

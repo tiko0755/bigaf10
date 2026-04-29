@@ -19,9 +19,9 @@
       "SECURITY_CODE": "603929",
       "END_DATE": "2026-04-10 00:00:00",
       "HOLDER_TOTAL_NUM": 26783,
-      "TOTAL_NUM_RATIO": 23.0102,
+      "TOTAL_NUM_RATIO": 37.2221,
       "AVG_FREE_SHARES": 7966,
-      "AVG_FREESHARES_RATIO": -18.705895530747,
+      "AVG_FREESHARES_RATIO": -27.125415375425,
       "HOLD_FOCUS": "较集中",
       "PRICE": 210.5,
       "AVG_HOLD_AMT": 1676895.0453646,
@@ -32,15 +32,15 @@
       "SECUCODE": "603929.SH",
       "SECURITY_CODE": "603929",
       "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_TOTAL_NUM": 21773,
-      "TOTAL_NUM_RATIO": 7.521,
-      "AVG_FREE_SHARES": 9799,
-      "AVG_FREESHARES_RATIO": -6.994901942773,
+      "HOLDER_TOTAL_NUM": 19518,
+      "TOTAL_NUM_RATIO": -3.6148,
+      "AVG_FREE_SHARES": 10931,
+      "AVG_FREESHARES_RATIO": 3.750384260682,
       "HOLD_FOCUS": "较集中",
       "PRICE": 179.9,
-      "AVG_HOLD_AMT": 1762892.75708446,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "AVG_HOLD_AMT": 1966567.47617584,
+      "HOLD_RATIO_TOTAL": 74.73644216,
+      "FREEHOLD_RATIO_TOTAL": 74.73644216
     },
     {
       "SECUCODE": "603929.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603929.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603929.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603929.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603929.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603929.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603929.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603929.SH",
       "END_DATE": "2018-02-02 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "603929.SH",
-      "END_DATE": "2018-01-30 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -445,19 +445,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-12-22 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "EVER CREATIVE INVESTMENTS LTD.",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11638000,
-      "HOLD_NUM_RATIO": 5.4546,
-      "HOLD_CHANGE": "-1162000",
-      "CHANGE_RATIO": -9.078125,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "603929.SH",
@@ -485,7 +473,7 @@
     {
       "SECUCODE": "603929.SH",
       "SECURITY_CODE": "603929",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "亚翔工程股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -498,60 +486,73 @@
     {
       "SECUCODE": "603929.SH",
       "SECURITY_CODE": "603929",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "EVER CREATIVE INVESTMEN TSLTD.",
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 13274639,
+      "FREE_HOLDNUM_RATIO": 6.221709317585,
+      "HOLD_NUM_CHANGE": "3970096",
+      "CHANGE_RATIO": 42.66836104
+    },
+    {
+      "SECUCODE": "603929.SH",
+      "SECURITY_CODE": "603929",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "EVER CREATIVE INVESTMENTS LTD.",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 11638000,
       "FREE_HOLDNUM_RATIO": 5.454630671166,
-      "HOLD_NUM_CHANGE": "-1162000",
-      "CHANGE_RATIO": -9.078125
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603929.SH",
       "SECURITY_CODE": "603929",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9304543,
-      "FREE_HOLDNUM_RATIO": 4.360959411324,
-      "HOLD_NUM_CHANGE": "1815409",
-      "CHANGE_RATIO": 24.24057308
-    },
-    {
-      "SECUCODE": "603929.SH",
-      "SECURITY_CODE": "603929",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "WELLMAX HOLDINGS LIMITED",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6661346,
-      "FREE_HOLDNUM_RATIO": 3.122115673041,
-      "HOLD_NUM_CHANGE": "-558654",
-      "CHANGE_RATIO": -7.73759003
+      "HOLD_NUM": 6370000,
+      "FREE_HOLDNUM_RATIO": 2.985564304462,
+      "HOLD_NUM_CHANGE": "-291346",
+      "CHANGE_RATIO": -4.37368063
     },
     {
       "SECUCODE": "603929.SH",
       "SECURITY_CODE": "603929",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中国光大银行股份有限公司-广发远见智选混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4068134,
+      "FREE_HOLDNUM_RATIO": 1.906699475066,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603929.SH",
+      "SECURITY_CODE": "603929",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "邓慧敏",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2021700,
-      "FREE_HOLDNUM_RATIO": 0.947553430821,
-      "HOLD_NUM_CHANGE": "-8000",
-      "CHANGE_RATIO": -0.39414692
+      "HOLD_NUM": 2017200,
+      "FREE_HOLDNUM_RATIO": 0.94544431946,
+      "HOLD_NUM_CHANGE": "-4500",
+      "CHANGE_RATIO": -0.22258495
     },
     {
       "SECUCODE": "603929.SH",
       "SECURITY_CODE": "603929",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "苏州华群管理咨询有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -563,20 +564,7 @@
     {
       "SECUCODE": "603929.SH",
       "SECURITY_CODE": "603929",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国工商银行股份有限公司-广发创新升级灵活配置混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1849185,
-      "FREE_HOLDNUM_RATIO": 0.866697131609,
-      "HOLD_NUM_CHANGE": "-1092300",
-      "CHANGE_RATIO": -37.13430461
-    },
-    {
-      "SECUCODE": "603929.SH",
-      "SECURITY_CODE": "603929",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "全国社保基金一零一组合",
       "HOLDER_TYPE": "全国社保基金",
@@ -589,26 +577,26 @@
     {
       "SECUCODE": "603929.SH",
       "SECURITY_CODE": "603929",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "苏州亚力管理咨询有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1600000,
       "FREE_HOLDNUM_RATIO": 0.749906261717,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603929.SH",
       "SECURITY_CODE": "603929",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "沈向红",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "中信银行股份有限公司-永赢睿信混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1429800,
-      "FREE_HOLDNUM_RATIO": 0.670134983127,
+      "HOLD_NUM": 1590500,
+      "FREE_HOLDNUM_RATIO": 0.745453693288,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -617,20 +605,20 @@
     {
       "SECUCODE": "603929.SH",
       "SECURITY_CODE": "603929",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 153403774,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 159457673,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 59956226,
-      "HOLD_NUM_RATIO": 71.9,
+      "OTHER_UNLIMITED_SHARES": 53902327,
+      "HOLD_NUM_RATIO": 74.74,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 28.1
+      "UNLIMITED_SHARES_RATIO": 25.26
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603929.SH",
       "SECURITY_CODE": "603929",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "亚翔工程股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,8 +630,20 @@
     {
       "SECUCODE": "603929.SH",
       "SECURITY_CODE": "603929",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 13274639,
+      "HOLD_NUM_RATIO": 6.22,
+      "HOLD_NUM_CHANGE": "3970096",
+      "CHANGE_RATIO": 42.66836104
+    },
+    {
+      "SECUCODE": "603929.SH",
+      "SECURITY_CODE": "603929",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "EVER CREATIVE INVESTMENTS LTD.",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 11638000,
@@ -654,44 +654,44 @@
     {
       "SECUCODE": "603929.SH",
       "SECURITY_CODE": "603929",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9304543,
-      "HOLD_NUM_RATIO": 4.36,
-      "HOLD_NUM_CHANGE": "1815409",
-      "CHANGE_RATIO": 24.24057308
-    },
-    {
-      "SECUCODE": "603929.SH",
-      "SECURITY_CODE": "603929",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "WELLMAX HOLDINGS LIMITED",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6661346,
-      "HOLD_NUM_RATIO": 3.12,
-      "HOLD_NUM_CHANGE": "-558654",
-      "CHANGE_RATIO": -7.73759003
+      "HOLD_NUM": 6370000,
+      "HOLD_NUM_RATIO": 2.99,
+      "HOLD_NUM_CHANGE": "-291346",
+      "CHANGE_RATIO": -4.37368063
     },
     {
       "SECUCODE": "603929.SH",
       "SECURITY_CODE": "603929",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中国光大银行股份有限公司-广发远见智选混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4068134,
+      "HOLD_NUM_RATIO": 1.91,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603929.SH",
+      "SECURITY_CODE": "603929",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "邓慧敏",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2021700,
+      "HOLD_NUM": 2017200,
       "HOLD_NUM_RATIO": 0.95,
-      "HOLD_NUM_CHANGE": "-8000",
-      "CHANGE_RATIO": -0.39414692
+      "HOLD_NUM_CHANGE": "-4500",
+      "CHANGE_RATIO": -0.22258495
     },
     {
       "SECUCODE": "603929.SH",
       "SECURITY_CODE": "603929",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "苏州华群管理咨询有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1984000,
@@ -702,19 +702,7 @@
     {
       "SECUCODE": "603929.SH",
       "SECURITY_CODE": "603929",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国工商银行股份有限公司-广发创新升级灵活配置混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1849185,
-      "HOLD_NUM_RATIO": 0.87,
-      "HOLD_NUM_CHANGE": "-1092300",
-      "CHANGE_RATIO": -37.13430461
-    },
-    {
-      "SECUCODE": "603929.SH",
-      "SECURITY_CODE": "603929",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "全国社保基金一零一组合",
       "SHARES_TYPE": "流通A股",
@@ -726,24 +714,24 @@
     {
       "SECUCODE": "603929.SH",
       "SECURITY_CODE": "603929",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "苏州亚力管理咨询有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1600000,
       "HOLD_NUM_RATIO": 0.75,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603929.SH",
       "SECURITY_CODE": "603929",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "沈向红",
+      "HOLDER_NAME": "中信银行股份有限公司-永赢睿信混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1429800,
-      "HOLD_NUM_RATIO": 0.67,
+      "HOLD_NUM": 1590500,
+      "HOLD_NUM_RATIO": 0.75,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -754,20 +742,40 @@
       "SECURITY_CODE": "603929",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 49,
-      "TOTAL_FREE_SHARES": 10187392,
-      "TOTAL_SHARES_RATIO": 4.77474316,
-      "ALL_SHARES_RATIO": 4.77474316
+      "TOTAL_ORG_NUM": 57,
+      "TOTAL_FREE_SHARES": 163559731,
+      "TOTAL_SHARES_RATIO": 76.65904151,
+      "ALL_SHARES_RATIO": 76.65904151
     },
     {
       "SECUCODE": "603929.SH",
       "SECURITY_CODE": "603929",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 49,
-      "TOTAL_FREE_SHARES": 10187392,
-      "TOTAL_SHARES_RATIO": 4.77474316,
-      "ALL_SHARES_RATIO": 4.77474316
+      "TOTAL_ORG_NUM": 50,
+      "TOTAL_FREE_SHARES": 11777892,
+      "TOTAL_SHARES_RATIO": 5.52019685,
+      "ALL_SHARES_RATIO": 5.52019685
+    },
+    {
+      "SECUCODE": "603929.SH",
+      "SECURITY_CODE": "603929",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 1715200,
+      "TOTAL_SHARES_RATIO": 0.80389951,
+      "ALL_SHARES_RATIO": 0.80389951
+    },
+    {
+      "SECUCODE": "603929.SH",
+      "SECURITY_CODE": "603929",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 150066639,
+      "TOTAL_SHARES_RATIO": 70.33494515,
+      "ALL_SHARES_RATIO": 70.33494515
     }
   ],
   "jjcg": [
@@ -787,6 +795,23 @@
       "FUND_CODE": "016873",
       "FUND_DERIVECODE": "016873.OF",
       "NETVALUE_RATIO": 6.11
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603929.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "019431",
+      "HOLDER_NAME": "永赢睿信混合A",
+      "TOTAL_SHARES": 1590500,
+      "HOLD_VALUE": 286130950,
+      "TOTALSHARES_RATIO": 0.74545369,
+      "FREESHARES_RATIO": 0.74545369,
+      "FREE_MARKET_CAP": 286130950,
+      "FREE_SHARES": 1590500,
+      "SECURITY_CODE": "603929",
+      "FUND_CODE": "019431",
+      "FUND_DERIVECODE": "019431.OF",
+      "NETVALUE_RATIO": 4.77
     },
     {
       "ORG_TYPE": "01",

@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 9.25,
       "AVG_HOLD_AMT": 142881.162016002,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 46.57020696,
+      "FREEHOLD_RATIO_TOTAL": 46.57020696
     },
     {
       "SECUCODE": "603167.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603167.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603167.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603167.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603167.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603167.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603167.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603167.SH",
       "END_DATE": "2014-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "603167.SH",
-      "END_DATE": "2014-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "603167.SH",
       "SECURITY_CODE": "603167",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "辽渔集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "603167.SH",
       "SECURITY_CODE": "603167",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "辽宁交通投资有限责任公司",
       "HOLDER_TYPE": "投资公司",
@@ -499,60 +499,21 @@
     {
       "SECUCODE": "603167.SH",
       "SECURITY_CODE": "603167",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "山东高速集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 13199360,
       "FREE_HOLDNUM_RATIO": 2.813495610754,
-      "HOLD_NUM_CHANGE": "-3535600",
-      "CHANGE_RATIO": -21.12702988
-    },
-    {
-      "SECUCODE": "603167.SH",
-      "SECURITY_CODE": "603167",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "中国工商银行股份有限公司-广发多因子灵活配置混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4496038,
-      "FREE_HOLDNUM_RATIO": 0.958348221337,
-      "HOLD_NUM_CHANGE": "-5028600",
-      "CHANGE_RATIO": -52.7957073
-    },
-    {
-      "SECUCODE": "603167.SH",
-      "SECURITY_CODE": "603167",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "叶燕桥",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3950000,
-      "FREE_HOLDNUM_RATIO": 0.841958069367,
-      "HOLD_NUM_CHANGE": "-230000",
-      "CHANGE_RATIO": -5.50239234
-    },
-    {
-      "SECUCODE": "603167.SH",
-      "SECURITY_CODE": "603167",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国银行股份有限公司-易方达港股通红利灵活配置混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3247056,
-      "FREE_HOLDNUM_RATIO": 0.692122785035,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603167.SH",
       "SECURITY_CODE": "603167",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "基本养老保险基金一零零三组合",
       "HOLDER_TYPE": "基本养老基金",
       "SHARES_TYPE": "A股",
@@ -564,39 +525,78 @@
     {
       "SECUCODE": "603167.SH",
       "SECURITY_CODE": "603167",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "叶燕桥",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3099900,
+      "FREE_HOLDNUM_RATIO": 0.660755903603,
+      "HOLD_NUM_CHANGE": "-850100",
+      "CHANGE_RATIO": -21.52151899
+    },
+    {
+      "SECUCODE": "603167.SH",
+      "SECURITY_CODE": "603167",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "浙商证券股份有限公司",
       "HOLDER_TYPE": "证券公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2715900,
-      "FREE_HOLDNUM_RATIO": 0.578904790024,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2717000,
+      "FREE_HOLDNUM_RATIO": 0.579139259359,
+      "HOLD_NUM_CHANGE": "1100",
+      "CHANGE_RATIO": 0.04050223
     },
     {
       "SECUCODE": "603167.SH",
       "SECURITY_CODE": "603167",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "招商银行股份有限公司-易方达价值回报混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "夏博",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2491500,
-      "FREE_HOLDNUM_RATIO": 0.531073045526,
+      "HOLD_NUM": 2384501,
+      "FREE_HOLDNUM_RATIO": 0.508265786927,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603167.SH",
       "SECURITY_CODE": "603167",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "华夏基金-新华人寿保险股份有限公司分红高股息策略组合-华夏基金新华人寿高股息策略单一资产管理计划",
       "HOLDER_TYPE": "信托计划",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 2101700,
       "FREE_HOLDNUM_RATIO": 0.447985639086,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603167.SH",
+      "SECURITY_CODE": "603167",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "孙咏东",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1709300,
+      "FREE_HOLDNUM_RATIO": 0.364344032397,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603167.SH",
+      "SECURITY_CODE": "603167",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "史瑞祥",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1626800,
+      "FREE_HOLDNUM_RATIO": 0.346758832214,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "603167.SH",
       "SECURITY_CODE": "603167",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 223844559,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 218481566,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 245299944,
-      "HOLD_NUM_RATIO": 47.71,
+      "OTHER_UNLIMITED_SHARES": 250662937,
+      "HOLD_NUM_RATIO": 46.57,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 52.29
+      "UNLIMITED_SHARES_RATIO": 53.43
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603167.SH",
       "SECURITY_CODE": "603167",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "辽渔集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "603167.SH",
       "SECURITY_CODE": "603167",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "辽宁交通投资有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -642,56 +642,20 @@
     {
       "SECUCODE": "603167.SH",
       "SECURITY_CODE": "603167",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "山东高速集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 13199360,
       "HOLD_NUM_RATIO": 2.81,
-      "HOLD_NUM_CHANGE": "-3535600",
-      "CHANGE_RATIO": -21.12702988
-    },
-    {
-      "SECUCODE": "603167.SH",
-      "SECURITY_CODE": "603167",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "中国工商银行股份有限公司-广发多因子灵活配置混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4496038,
-      "HOLD_NUM_RATIO": 0.96,
-      "HOLD_NUM_CHANGE": "-5028600",
-      "CHANGE_RATIO": -52.7957073
-    },
-    {
-      "SECUCODE": "603167.SH",
-      "SECURITY_CODE": "603167",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "叶燕桥",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3950000,
-      "HOLD_NUM_RATIO": 0.84,
-      "HOLD_NUM_CHANGE": "-230000",
-      "CHANGE_RATIO": -5.50239234
-    },
-    {
-      "SECUCODE": "603167.SH",
-      "SECURITY_CODE": "603167",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国银行股份有限公司-易方达港股通红利灵活配置混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3247056,
-      "HOLD_NUM_RATIO": 0.69,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603167.SH",
       "SECURITY_CODE": "603167",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "基本养老保险基金一零零三组合",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3157900,
@@ -702,36 +666,72 @@
     {
       "SECUCODE": "603167.SH",
       "SECURITY_CODE": "603167",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "叶燕桥",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3099900,
+      "HOLD_NUM_RATIO": 0.66,
+      "HOLD_NUM_CHANGE": "-850100",
+      "CHANGE_RATIO": -21.52151899
+    },
+    {
+      "SECUCODE": "603167.SH",
+      "SECURITY_CODE": "603167",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "浙商证券股份有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2715900,
+      "HOLD_NUM": 2717000,
       "HOLD_NUM_RATIO": 0.58,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM_CHANGE": "1100",
+      "CHANGE_RATIO": 0.04050223
     },
     {
       "SECUCODE": "603167.SH",
       "SECURITY_CODE": "603167",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "招商银行股份有限公司-易方达价值回报混合型证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "夏博",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2491500,
-      "HOLD_NUM_RATIO": 0.53,
+      "HOLD_NUM": 2384501,
+      "HOLD_NUM_RATIO": 0.51,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603167.SH",
       "SECURITY_CODE": "603167",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "华夏基金-新华人寿保险股份有限公司分红高股息策略组合-华夏基金新华人寿高股息策略单一资产管理计划",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2101700,
       "HOLD_NUM_RATIO": 0.45,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603167.SH",
+      "SECURITY_CODE": "603167",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "孙咏东",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1709300,
+      "HOLD_NUM_RATIO": 0.36,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603167.SH",
+      "SECURITY_CODE": "603167",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "史瑞祥",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1626800,
+      "HOLD_NUM_RATIO": 0.35,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "603167",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 702100,
-      "TOTAL_SHARES_RATIO": 0.14965538,
-      "ALL_SHARES_RATIO": 0.14965538
+      "TOTAL_ORG_NUM": 10,
+      "TOTAL_FREE_SHARES": 210363165,
+      "TOTAL_SHARES_RATIO": 44.83973779,
+      "ALL_SHARES_RATIO": 44.83973779
     },
     {
       "SECUCODE": "603167.SH",
@@ -756,6 +756,36 @@
       "TOTAL_FREE_SHARES": 702100,
       "TOTAL_SHARES_RATIO": 0.14965538,
       "ALL_SHARES_RATIO": 0.14965538
+    },
+    {
+      "SECUCODE": "603167.SH",
+      "SECURITY_CODE": "603167",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "04",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 2717000,
+      "TOTAL_SHARES_RATIO": 0.57913926,
+      "ALL_SHARES_RATIO": 0.57913926
+    },
+    {
+      "SECUCODE": "603167.SH",
+      "SECURITY_CODE": "603167",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "06",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 2101700,
+      "TOTAL_SHARES_RATIO": 0.44798564,
+      "ALL_SHARES_RATIO": 0.44798564
+    },
+    {
+      "SECUCODE": "603167.SH",
+      "SECURITY_CODE": "603167",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 204842365,
+      "TOTAL_SHARES_RATIO": 43.66295751,
+      "ALL_SHARES_RATIO": 43.66295751
     }
   ],
   "jjcg": [

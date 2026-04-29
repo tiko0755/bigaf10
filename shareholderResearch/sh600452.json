@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 11.3,
       "AVG_HOLD_AMT": 362656.822486789,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 54.40042519,
+      "FREEHOLD_RATIO_TOTAL": 54.40042519
     },
     {
       "SECUCODE": "600452.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600452.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600452.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600452.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600452.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600452.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600452.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600452.SH",
       "END_DATE": "2014-04-30 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "600452.SH",
-      "END_DATE": "2014-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600452.SH",
       "SECURITY_CODE": "600452",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "重庆川东电力集团有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -486,86 +486,60 @@
     {
       "SECUCODE": "600452.SH",
       "SECURITY_CODE": "600452",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "全国社保基金一零三组合",
       "HOLDER_TYPE": "全国社保基金",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 70000000,
       "FREE_HOLDNUM_RATIO": 4.555685152939,
-      "HOLD_NUM_CHANGE": "-2000000",
-      "CHANGE_RATIO": -2.77777778
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600452.SH",
       "SECURITY_CODE": "600452",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "刘长羽",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 42786452,
-      "FREE_HOLDNUM_RATIO": 2.784594344619,
-      "HOLD_NUM_CHANGE": "-10766900",
-      "CHANGE_RATIO": -20.10499735
+      "HOLD_NUM": 39371452,
+      "FREE_HOLDNUM_RATIO": 2.562341990372,
+      "HOLD_NUM_CHANGE": "-3415000",
+      "CHANGE_RATIO": -7.98149844
     },
     {
       "SECUCODE": "600452.SH",
       "SECURITY_CODE": "600452",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "罗明光",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 25754705,
-      "FREE_HOLDNUM_RATIO": 1.67614753124,
-      "HOLD_NUM_CHANGE": "1500000",
-      "CHANGE_RATIO": 6.18436712
-    },
-    {
-      "SECUCODE": "600452.SH",
-      "SECURITY_CODE": "600452",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "蒋超",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 25326156,
-      "FREE_HOLDNUM_RATIO": 1.648257041003,
-      "HOLD_NUM_CHANGE": "-1247000",
-      "CHANGE_RATIO": -4.69270568
+      "HOLD_NUM": 24075856,
+      "FREE_HOLDNUM_RATIO": 1.56688599605,
+      "HOLD_NUM_CHANGE": "-1250300",
+      "CHANGE_RATIO": -4.93679341
     },
     {
       "SECUCODE": "600452.SH",
       "SECURITY_CODE": "600452",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 19191102,
-      "FREE_HOLDNUM_RATIO": 1.248980263571,
-      "HOLD_NUM_CHANGE": "-3852030",
-      "CHANGE_RATIO": -16.71660779
+      "HOLD_NUM": 23283218,
+      "FREE_HOLDNUM_RATIO": 1.515300150789,
+      "HOLD_NUM_CHANGE": "4092116",
+      "CHANGE_RATIO": 21.32298604
     },
     {
       "SECUCODE": "600452.SH",
       "SECURITY_CODE": "600452",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中信证券股份有限公司",
-      "HOLDER_TYPE": "证券公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10216903,
-      "FREE_HOLDNUM_RATIO": 0.664928475802,
-      "HOLD_NUM_CHANGE": "-1231569",
-      "CHANGE_RATIO": -10.75749672
-    },
-    {
-      "SECUCODE": "600452.SH",
-      "SECURITY_CODE": "600452",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "冯锦刚",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -577,26 +551,52 @@
     {
       "SECUCODE": "600452.SH",
       "SECURITY_CODE": "600452",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中信证券股份有限公司",
+      "HOLDER_TYPE": "证券公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8459550,
-      "FREE_HOLDNUM_RATIO": 0.550557804793,
-      "HOLD_NUM_CHANGE": "25600",
-      "CHANGE_RATIO": 0.30353512
+      "HOLD_NUM": 8366079,
+      "FREE_HOLDNUM_RATIO": 0.544474598409,
+      "HOLD_NUM_CHANGE": "-1850824",
+      "CHANGE_RATIO": -18.11531342
     },
     {
       "SECUCODE": "600452.SH",
       "SECURITY_CODE": "600452",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "周信义",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "李敏仙",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8420000,
-      "FREE_HOLDNUM_RATIO": 0.547983842682,
+      "HOLD_NUM": 7536000,
+      "FREE_HOLDNUM_RATIO": 0.490452047322,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600452.SH",
+      "SECURITY_CODE": "600452",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "黎少梅",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6751700,
+      "FREE_HOLDNUM_RATIO": 0.439408849244,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600452.SH",
+      "SECURITY_CODE": "600452",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国建设银行股份有限公司-广发中证全指电力公用事业交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6551853,
+      "FREE_HOLDNUM_RATIO": 0.426402563376,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "600452.SH",
       "SECURITY_CODE": "600452",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 860103903,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 835885193,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 676437751,
-      "HOLD_NUM_RATIO": 55.98,
+      "OTHER_UNLIMITED_SHARES": 700656461,
+      "HOLD_NUM_RATIO": 54.4,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 44.02
+      "UNLIMITED_SHARES_RATIO": 45.6
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600452.SH",
       "SECURITY_CODE": "600452",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "重庆川东电力集团有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -630,80 +630,56 @@
     {
       "SECUCODE": "600452.SH",
       "SECURITY_CODE": "600452",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "全国社保基金一零三组合",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 70000000,
       "HOLD_NUM_RATIO": 4.56,
-      "HOLD_NUM_CHANGE": "-2000000",
-      "CHANGE_RATIO": -2.77777778
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600452.SH",
       "SECURITY_CODE": "600452",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "刘长羽",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 42786452,
-      "HOLD_NUM_RATIO": 2.78,
-      "HOLD_NUM_CHANGE": "-10766900",
-      "CHANGE_RATIO": -20.10499735
+      "HOLD_NUM": 39371452,
+      "HOLD_NUM_RATIO": 2.56,
+      "HOLD_NUM_CHANGE": "-3415000",
+      "CHANGE_RATIO": -7.98149844
     },
     {
       "SECUCODE": "600452.SH",
       "SECURITY_CODE": "600452",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "罗明光",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 25754705,
-      "HOLD_NUM_RATIO": 1.68,
-      "HOLD_NUM_CHANGE": "1500000",
-      "CHANGE_RATIO": 6.18436712
-    },
-    {
-      "SECUCODE": "600452.SH",
-      "SECURITY_CODE": "600452",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "蒋超",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 25326156,
-      "HOLD_NUM_RATIO": 1.65,
-      "HOLD_NUM_CHANGE": "-1247000",
-      "CHANGE_RATIO": -4.69270568
+      "HOLD_NUM": 24075856,
+      "HOLD_NUM_RATIO": 1.57,
+      "HOLD_NUM_CHANGE": "-1250300",
+      "CHANGE_RATIO": -4.93679341
     },
     {
       "SECUCODE": "600452.SH",
       "SECURITY_CODE": "600452",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 19191102,
-      "HOLD_NUM_RATIO": 1.25,
-      "HOLD_NUM_CHANGE": "-3852030",
-      "CHANGE_RATIO": -16.71660779
+      "HOLD_NUM": 23283218,
+      "HOLD_NUM_RATIO": 1.52,
+      "HOLD_NUM_CHANGE": "4092116",
+      "CHANGE_RATIO": 21.32298604
     },
     {
       "SECUCODE": "600452.SH",
       "SECURITY_CODE": "600452",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中信证券股份有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10216903,
-      "HOLD_NUM_RATIO": 0.66,
-      "HOLD_NUM_CHANGE": "-1231569",
-      "CHANGE_RATIO": -10.75749672
-    },
-    {
-      "SECUCODE": "600452.SH",
-      "SECURITY_CODE": "600452",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "冯锦刚",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 10006972,
@@ -714,24 +690,48 @@
     {
       "SECUCODE": "600452.SH",
       "SECURITY_CODE": "600452",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中信证券股份有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8459550,
-      "HOLD_NUM_RATIO": 0.55,
-      "HOLD_NUM_CHANGE": "25600",
-      "CHANGE_RATIO": 0.30353512
+      "HOLD_NUM": 8366079,
+      "HOLD_NUM_RATIO": 0.54,
+      "HOLD_NUM_CHANGE": "-1850824",
+      "CHANGE_RATIO": -18.11531342
     },
     {
       "SECUCODE": "600452.SH",
       "SECURITY_CODE": "600452",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "周信义",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "李敏仙",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8420000,
-      "HOLD_NUM_RATIO": 0.55,
+      "HOLD_NUM": 7536000,
+      "HOLD_NUM_RATIO": 0.49,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600452.SH",
+      "SECURITY_CODE": "600452",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "黎少梅",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6751700,
+      "HOLD_NUM_RATIO": 0.44,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600452.SH",
+      "SECURITY_CODE": "600452",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国建设银行股份有限公司-广发中证全指电力公用事业交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6551853,
+      "HOLD_NUM_RATIO": 0.43,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,23 +742,70 @@
       "SECURITY_CODE": "600452",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 8705175,
-      "TOTAL_SHARES_RATIO": 0.56654338,
-      "ALL_SHARES_RATIO": 0.56654338
+      "TOTAL_ORG_NUM": 11,
+      "TOTAL_FREE_SHARES": 756848388,
+      "TOTAL_SHARES_RATIO": 49.25661377,
+      "ALL_SHARES_RATIO": 49.25661377
     },
     {
       "SECUCODE": "600452.SH",
       "SECURITY_CODE": "600452",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 8705175,
-      "TOTAL_SHARES_RATIO": 0.56654338,
-      "ALL_SHARES_RATIO": 0.56654338
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 15257028,
+      "TOTAL_SHARES_RATIO": 0.99294594,
+      "ALL_SHARES_RATIO": 0.99294594
+    },
+    {
+      "SECUCODE": "600452.SH",
+      "SECURITY_CODE": "600452",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 70000000,
+      "TOTAL_SHARES_RATIO": 4.55568515,
+      "ALL_SHARES_RATIO": 4.55568515
+    },
+    {
+      "SECUCODE": "600452.SH",
+      "SECURITY_CODE": "600452",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "04",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 8366079,
+      "TOTAL_SHARES_RATIO": 0.5444746,
+      "ALL_SHARES_RATIO": 0.5444746
+    },
+    {
+      "SECUCODE": "600452.SH",
+      "SECURITY_CODE": "600452",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 663225281,
+      "TOTAL_SHARES_RATIO": 43.16350808,
+      "ALL_SHARES_RATIO": 43.16350808
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600452.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "159611",
+      "HOLDER_NAME": "广发中证全指电力公用事业ETF",
+      "TOTAL_SHARES": 6551853,
+      "HOLD_VALUE": 74035938.9,
+      "TOTALSHARES_RATIO": 0.42640256,
+      "FREESHARES_RATIO": 0.42640256,
+      "FREE_MARKET_CAP": 74035938.9,
+      "FREE_SHARES": 6551853,
+      "SECURITY_CODE": "600452",
+      "FUND_CODE": "159611",
+      "FUND_DERIVECODE": "159611.SZ",
+      "NETVALUE_RATIO": 1.11
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "600452.SH",

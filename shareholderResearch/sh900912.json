@@ -11,8 +11,8 @@
       "HOLD_FOCUS": null,
       "PRICE": 0.678,
       "AVG_HOLD_AMT": 19145.1949255829,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 68.56072125,
+      "FREEHOLD_RATIO_TOTAL": 68.05368101
     },
     {
       "SECUCODE": "900912.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "900912.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "900912.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "900912.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "900912.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "900912.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "900912.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "900912.SH",
       "END_DATE": "2016-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "900912.SH",
-      "END_DATE": "2015-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "900912.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "900912.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "900912.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "900912.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -452,7 +452,7 @@
     {
       "SECUCODE": "900912.SH",
       "SECURITY_CODE": "900912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海外高桥资产管理有限公司",
       "HOLDER_TYPE": "其它",
@@ -465,33 +465,33 @@
     {
       "SECUCODE": "900912.SH",
       "SECURITY_CODE": "900912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "上海基础设施建设发展(集团)有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 90735027,
       "FREE_HOLDNUM_RATIO": 6.779729188265,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "900912.SH",
       "SECURITY_CODE": "900912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中国银河资产管理有限责任公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 63520871,
       "FREE_HOLDNUM_RATIO": 4.746285061255,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "900912.SH",
       "SECURITY_CODE": "900912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "上海浦东创新投资发展(集团)有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -504,20 +504,20 @@
     {
       "SECUCODE": "900912.SH",
       "SECURITY_CODE": "900912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国东方资产管理股份有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 33613370,
       "FREE_HOLDNUM_RATIO": 2.511593959243,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "900912.SH",
       "SECURITY_CODE": "900912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "陈丽钦",
       "HOLDER_TYPE": "个人",
@@ -530,21 +530,8 @@
     {
       "SECUCODE": "900912.SH",
       "SECURITY_CODE": "900912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "刘明星",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 17561954,
-      "FREE_HOLDNUM_RATIO": 1.31223074565,
-      "HOLD_NUM_CHANGE": "2339444",
-      "CHANGE_RATIO": 15.36831968
-    },
-    {
-      "SECUCODE": "900912.SH",
-      "SECURITY_CODE": "900912",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "刘丽云",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -556,7 +543,20 @@
     {
       "SECUCODE": "900912.SH",
       "SECURITY_CODE": "900912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "刘明星",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 15222510,
+      "FREE_HOLDNUM_RATIO": 1.137427284456,
+      "HOLD_NUM_CHANGE": "-2339444",
+      "CHANGE_RATIO": -13.32109172
+    },
+    {
+      "SECUCODE": "900912.SH",
+      "SECURITY_CODE": "900912",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "鑫益(香港)投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -569,7 +569,7 @@
     {
       "SECUCODE": "900912.SH",
       "SECURITY_CODE": "900912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "林燕",
       "HOLDER_TYPE": "个人",
@@ -584,20 +584,20 @@
     {
       "SECUCODE": "900912.SH",
       "SECURITY_CODE": "900912",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 913121042,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 910781598,
       "LIMITED_SHARES": 21584027,
-      "OTHER_UNLIMITED_SHARES": 425207149,
-      "HOLD_NUM_RATIO": 67.15,
+      "OTHER_UNLIMITED_SHARES": 427546593,
+      "HOLD_NUM_RATIO": 66.97,
       "LIMITED_SHARES_RATIO": 1.59,
-      "UNLIMITED_SHARES_RATIO": 31.27
+      "UNLIMITED_SHARES_RATIO": 31.44
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "900912.SH",
       "SECURITY_CODE": "900912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海外高桥资产管理有限公司",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -609,7 +609,7 @@
     {
       "SECUCODE": "900912.SH",
       "SECURITY_CODE": "900912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "上海基础设施建设发展(集团)有限公司",
       "SHARES_TYPE": "流通A股",
@@ -621,7 +621,7 @@
     {
       "SECUCODE": "900912.SH",
       "SECURITY_CODE": "900912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "上海浦东创新投资发展(集团)有限公司",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -633,7 +633,7 @@
     {
       "SECUCODE": "900912.SH",
       "SECURITY_CODE": "900912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "中国银河资产管理有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -645,7 +645,7 @@
     {
       "SECUCODE": "900912.SH",
       "SECURITY_CODE": "900912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国东方资产管理股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -657,7 +657,7 @@
     {
       "SECUCODE": "900912.SH",
       "SECURITY_CODE": "900912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "陈丽钦",
       "SHARES_TYPE": "流通A股",
@@ -669,20 +669,8 @@
     {
       "SECUCODE": "900912.SH",
       "SECURITY_CODE": "900912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "刘明星",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 17561954,
-      "HOLD_NUM_RATIO": 1.29,
-      "HOLD_NUM_CHANGE": "2339444",
-      "CHANGE_RATIO": 15.36831968
-    },
-    {
-      "SECUCODE": "900912.SH",
-      "SECURITY_CODE": "900912",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "刘丽云",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 16545084,
@@ -693,7 +681,19 @@
     {
       "SECUCODE": "900912.SH",
       "SECURITY_CODE": "900912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "刘明星",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 15222510,
+      "HOLD_NUM_RATIO": 1.12,
+      "HOLD_NUM_CHANGE": "-2339444",
+      "CHANGE_RATIO": -13.32109172
+    },
+    {
+      "SECUCODE": "900912.SH",
+      "SECURITY_CODE": "900912",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "鑫益(香港)投资有限公司",
       "SHARES_TYPE": "流通B股",
@@ -705,7 +705,7 @@
     {
       "SECUCODE": "900912.SH",
       "SECURITY_CODE": "900912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "林燕",
       "SHARES_TYPE": "流通A股",
@@ -719,7 +719,7 @@
     {
       "SECUCODE": "900912.SH",
       "SECURITY_CODE": "900912",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
       "TOTAL_ORG_NUM": 1,
       "TOTAL_FREE_SHARES": 13993736,
@@ -729,7 +729,7 @@
     {
       "SECUCODE": "900912.SH",
       "SECURITY_CODE": "900912",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 1,
       "TOTAL_FREE_SHARES": 13993736,

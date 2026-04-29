@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 33.4,
       "AVG_HOLD_AMT": 1755410.08965249,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 58.97245921,
+      "FREEHOLD_RATIO_TOTAL": 59.6466762
     },
     {
       "SECUCODE": "603816.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603816.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603816.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603816.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603816.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603816.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603816.SH",
       "END_DATE": "2026-03-20 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603816.SH",
       "END_DATE": "2018-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "603816.SH",
-      "END_DATE": "2018-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -501,7 +501,7 @@
     {
       "SECUCODE": "603816.SH",
       "SECURITY_CODE": "603816",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "宁波盈峰睿和投资管理有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -514,7 +514,7 @@
     {
       "SECUCODE": "603816.SH",
       "SECURITY_CODE": "603816",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "杭州德烨嘉俊企业管理有限公司",
       "HOLDER_TYPE": "其它",
@@ -527,47 +527,60 @@
     {
       "SECUCODE": "603816.SH",
       "SECURITY_CODE": "603816",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "TB Home Limited",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 41176766,
-      "FREE_HOLDNUM_RATIO": 5.069992376967,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603816.SH",
-      "SECURITY_CODE": "603816",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "芜湖建信鼎信投资管理中心(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 40014900,
-      "FREE_HOLDNUM_RATIO": 4.926934717629,
-      "HOLD_NUM_CHANGE": "-292500",
-      "CHANGE_RATIO": -0.7256732
+      "HOLD_NUM": 37431600,
+      "FREE_HOLDNUM_RATIO": 4.608859439269,
+      "HOLD_NUM_CHANGE": "-2583300",
+      "CHANGE_RATIO": -6.4558452
     },
     {
       "SECUCODE": "603816.SH",
       "SECURITY_CODE": "603816",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "TB Home Limited",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 31668066,
+      "FREE_HOLDNUM_RATIO": 3.899209889705,
+      "HOLD_NUM_CHANGE": "-9508700",
+      "CHANGE_RATIO": -23.09239147
+    },
+    {
+      "SECUCODE": "603816.SH",
+      "SECURITY_CODE": "603816",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 20330213,
-      "FREE_HOLDNUM_RATIO": 2.503208361048,
-      "HOLD_NUM_CHANGE": "4172894",
-      "CHANGE_RATIO": 25.82664859
+      "HOLD_NUM": 17372529,
+      "FREE_HOLDNUM_RATIO": 2.139036115625,
+      "HOLD_NUM_CHANGE": "-2957684",
+      "CHANGE_RATIO": -14.54821944
     },
     {
       "SECUCODE": "603816.SH",
       "SECURITY_CODE": "603816",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "全国社保基金四一三组合",
+      "HOLDER_TYPE": "全国社保基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 16728138,
+      "FREE_HOLDNUM_RATIO": 2.059693860874,
+      "HOLD_NUM_CHANGE": "729300",
+      "CHANGE_RATIO": 4.55845606
+    },
+    {
+      "SECUCODE": "603816.SH",
+      "SECURITY_CODE": "603816",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "李东来",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -579,20 +592,7 @@
     {
       "SECUCODE": "603816.SH",
       "SECURITY_CODE": "603816",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "全国社保基金四一三组合",
-      "HOLDER_TYPE": "全国社保基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 15998838,
-      "FREE_HOLDNUM_RATIO": 1.969896972976,
-      "HOLD_NUM_CHANGE": "5087390",
-      "CHANGE_RATIO": 46.62433437
-    },
-    {
-      "SECUCODE": "603816.SH",
-      "SECURITY_CODE": "603816",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "杭州代明贸易有限公司",
       "HOLDER_TYPE": "其它",
@@ -605,7 +605,7 @@
     {
       "SECUCODE": "603816.SH",
       "SECURITY_CODE": "603816",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "宁波双睿汇银股权投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -618,35 +618,35 @@
     {
       "SECUCODE": "603816.SH",
       "SECURITY_CODE": "603816",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "招商银行股份有限公司-工银瑞信价值精选混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "邹妙琴",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7677988,
-      "FREE_HOLDNUM_RATIO": 0.945371490088,
-      "HOLD_NUM_CHANGE": "271200",
-      "CHANGE_RATIO": 3.66150618
+      "HOLD_NUM": 9508700,
+      "FREE_HOLDNUM_RATIO": 1.170782487262,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "603816.SH",
       "SECURITY_CODE": "603816",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 496919834,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 484430162,
       "LIMITED_SHARES": 9285288,
-      "OTHER_UNLIMITED_SHARES": 315246397,
-      "HOLD_NUM_RATIO": 60.49,
+      "OTHER_UNLIMITED_SHARES": 327736069,
+      "HOLD_NUM_RATIO": 58.97,
       "LIMITED_SHARES_RATIO": 1.13,
-      "UNLIMITED_SHARES_RATIO": 38.38
+      "UNLIMITED_SHARES_RATIO": 39.9
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603816.SH",
       "SECURITY_CODE": "603816",
-      "END_DATE": "2026-03-20 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "宁波盈峰睿和投资管理有限公司",
       "SHARES_TYPE": "流通A股",
@@ -658,13 +658,109 @@
     {
       "SECUCODE": "603816.SH",
       "SECURITY_CODE": "603816",
-      "END_DATE": "2026-03-20 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "杭州德烨嘉俊企业管理有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 88471483,
       "HOLD_NUM_RATIO": 10.77,
       "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603816.SH",
+      "SECURITY_CODE": "603816",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "芜湖建信鼎信投资管理中心(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 37431600,
+      "HOLD_NUM_RATIO": 4.56,
+      "HOLD_NUM_CHANGE": "-2583300",
+      "CHANGE_RATIO": -6.4558452
+    },
+    {
+      "SECUCODE": "603816.SH",
+      "SECURITY_CODE": "603816",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "TB Home Limited",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 31668066,
+      "HOLD_NUM_RATIO": 3.86,
+      "HOLD_NUM_CHANGE": "-9508700",
+      "CHANGE_RATIO": -23.09239147
+    },
+    {
+      "SECUCODE": "603816.SH",
+      "SECURITY_CODE": "603816",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 17372529,
+      "HOLD_NUM_RATIO": 2.11,
+      "HOLD_NUM_CHANGE": "-2957684",
+      "CHANGE_RATIO": -14.54821944
+    },
+    {
+      "SECUCODE": "603816.SH",
+      "SECURITY_CODE": "603816",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "全国社保基金四一三组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 16728138,
+      "HOLD_NUM_RATIO": 2.04,
+      "HOLD_NUM_CHANGE": "729300",
+      "CHANGE_RATIO": 4.55845606
+    },
+    {
+      "SECUCODE": "603816.SH",
+      "SECURITY_CODE": "603816",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "李东来",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 16679431,
+      "HOLD_NUM_RATIO": 2.03,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603816.SH",
+      "SECURITY_CODE": "603816",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "杭州代明贸易有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 14700000,
+      "HOLD_NUM_RATIO": 1.79,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603816.SH",
+      "SECURITY_CODE": "603816",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "宁波双睿汇银股权投资合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 10031520,
+      "HOLD_NUM_RATIO": 1.22,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603816.SH",
+      "SECURITY_CODE": "603816",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "邹妙琴",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 9508700,
+      "HOLD_NUM_RATIO": 1.16,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -674,10 +770,10 @@
       "SECURITY_CODE": "603816",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 35,
-      "TOTAL_FREE_SHARES": 19900165,
-      "TOTAL_SHARES_RATIO": 2.45025763,
-      "ALL_SHARES_RATIO": 2.42256109
+      "TOTAL_ORG_NUM": 43,
+      "TOTAL_FREE_SHARES": 478142196,
+      "TOTAL_SHARES_RATIO": 58.87245465,
+      "ALL_SHARES_RATIO": 58.20698907
     },
     {
       "SECUCODE": "603816.SH",
@@ -688,6 +784,26 @@
       "TOTAL_FREE_SHARES": 19900165,
       "TOTAL_SHARES_RATIO": 2.45025763,
       "ALL_SHARES_RATIO": 2.42256109
+    },
+    {
+      "SECUCODE": "603816.SH",
+      "SECURITY_CODE": "603816",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 16728138,
+      "TOTAL_SHARES_RATIO": 2.05969386,
+      "ALL_SHARES_RATIO": 2.03641208
+    },
+    {
+      "SECUCODE": "603816.SH",
+      "SECURITY_CODE": "603816",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 441513893,
+      "TOTAL_SHARES_RATIO": 54.36250316,
+      "ALL_SHARES_RATIO": 53.7480159
     }
   ],
   "jjcg": [

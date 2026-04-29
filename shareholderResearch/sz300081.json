@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 4.61,
       "AVG_HOLD_AMT": 62042.7550994881,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 16.73961527,
+      "FREEHOLD_RATIO_TOTAL": 16.74277325
     },
     {
       "SECUCODE": "300081.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300081.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300081.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300081.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300081.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300081.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300081.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "300081.SZ",
       "END_DATE": "2020-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "300081.SZ",
-      "END_DATE": "2019-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "300081.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "300081.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "300081.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300081.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "300081.SZ",
       "SECURITY_CODE": "300081",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "孟宪民",
       "HOLDER_TYPE": "个人",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "300081.SZ",
       "SECURITY_CODE": "300081",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "裴军",
       "HOLDER_TYPE": "个人",
@@ -499,21 +499,8 @@
     {
       "SECUCODE": "300081.SZ",
       "SECURITY_CODE": "300081",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "国通信托有限责任公司",
-      "HOLDER_TYPE": "信托投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11399290,
-      "FREE_HOLDNUM_RATIO": 1.885173099983,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300081.SZ",
-      "SECURITY_CODE": "300081",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "宁波梅山保税港区东岦投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -525,21 +512,8 @@
     {
       "SECUCODE": "300081.SZ",
       "SECURITY_CODE": "300081",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "金鹰基金-工商银行-万向信托-万向信托-星辰50号事务管理类单一资金信托",
-      "HOLDER_TYPE": "基金资产管理计划",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6223595,
-      "FREE_HOLDNUM_RATIO": 1.02923549442,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300081.SZ",
-      "SECURITY_CODE": "300081",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "沈阳政利投资有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -551,52 +525,78 @@
     {
       "SECUCODE": "300081.SZ",
       "SECURITY_CODE": "300081",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "汪霞",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "何伟芬",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2381500,
-      "FREE_HOLDNUM_RATIO": 0.393843804097,
-      "HOLD_NUM_CHANGE": "23900",
-      "CHANGE_RATIO": 1.01374279
-    },
-    {
-      "SECUCODE": "300081.SZ",
-      "SECURITY_CODE": "300081",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "余永清",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1911500,
-      "FREE_HOLDNUM_RATIO": 0.316116914353,
+      "HOLD_NUM": 2600000,
+      "FREE_HOLDNUM_RATIO": 0.42997853901,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300081.SZ",
       "SECURITY_CODE": "300081",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "刘冰",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1823300,
-      "FREE_HOLDNUM_RATIO": 0.301530719299,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300081.SZ",
-      "SECURITY_CODE": "300081",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "高盛公司有限责任公司",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1533060,
-      "FREE_HOLDNUM_RATIO": 0.253531884237,
+      "HOLD_NUM": 2425126,
+      "FREE_HOLDNUM_RATIO": 0.401058513229,
+      "HOLD_NUM_CHANGE": "892066",
+      "CHANGE_RATIO": 58.18859014
+    },
+    {
+      "SECUCODE": "300081.SZ",
+      "SECURITY_CODE": "300081",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "北京溪水私募基金管理有限公司-溪水臻启1号私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2160700,
+      "FREE_HOLDNUM_RATIO": 0.357328703554,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300081.SZ",
+      "SECURITY_CODE": "300081",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "张宇",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2025200,
+      "FREE_HOLDNUM_RATIO": 0.334920206617,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300081.SZ",
+      "SECURITY_CODE": "300081",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "汪霞",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2010000,
+      "FREE_HOLDNUM_RATIO": 0.332406485927,
+      "HOLD_NUM_CHANGE": "-371500",
+      "CHANGE_RATIO": -15.59941214
+    },
+    {
+      "SECUCODE": "300081.SZ",
+      "SECURITY_CODE": "300081",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "潘光跃",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1970300,
+      "FREE_HOLDNUM_RATIO": 0.325841044389,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "300081.SZ",
       "SECURITY_CODE": "300081",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 113321345,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 101240426,
       "LIMITED_SHARES": 114075,
-      "OTHER_UNLIMITED_SHARES": 491359997,
-      "HOLD_NUM_RATIO": 18.74,
+      "OTHER_UNLIMITED_SHARES": 503440916,
+      "HOLD_NUM_RATIO": 16.74,
       "LIMITED_SHARES_RATIO": 0.02,
-      "UNLIMITED_SHARES_RATIO": 81.24
+      "UNLIMITED_SHARES_RATIO": 83.24
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300081.SZ",
       "SECURITY_CODE": "300081",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "孟宪民",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "300081.SZ",
       "SECURITY_CODE": "300081",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "裴军",
       "SHARES_TYPE": "流通A股",
@@ -642,20 +642,8 @@
     {
       "SECUCODE": "300081.SZ",
       "SECURITY_CODE": "300081",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "国通信托有限责任公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11399290,
-      "HOLD_NUM_RATIO": 1.88,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300081.SZ",
-      "SECURITY_CODE": "300081",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "宁波梅山保税港区东岦投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 8306000,
@@ -666,20 +654,8 @@
     {
       "SECUCODE": "300081.SZ",
       "SECURITY_CODE": "300081",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "金鹰基金-工商银行-万向信托-万向信托-星辰50号事务管理类单一资金信托",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6223595,
-      "HOLD_NUM_RATIO": 1.03,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300081.SZ",
-      "SECURITY_CODE": "300081",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "沈阳政利投资有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4687469,
@@ -690,48 +666,72 @@
     {
       "SECUCODE": "300081.SZ",
       "SECURITY_CODE": "300081",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "汪霞",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "何伟芬",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2381500,
-      "HOLD_NUM_RATIO": 0.39,
-      "HOLD_NUM_CHANGE": "23900",
-      "CHANGE_RATIO": 1.01374279
-    },
-    {
-      "SECUCODE": "300081.SZ",
-      "SECURITY_CODE": "300081",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "余永清",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1911500,
-      "HOLD_NUM_RATIO": 0.32,
+      "HOLD_NUM": 2600000,
+      "HOLD_NUM_RATIO": 0.43,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300081.SZ",
       "SECURITY_CODE": "300081",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "刘冰",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1823300,
-      "HOLD_NUM_RATIO": 0.3,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300081.SZ",
-      "SECURITY_CODE": "300081",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "高盛公司有限责任公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1533060,
-      "HOLD_NUM_RATIO": 0.25,
+      "HOLD_NUM": 2425126,
+      "HOLD_NUM_RATIO": 0.4,
+      "HOLD_NUM_CHANGE": "892066",
+      "CHANGE_RATIO": 58.18859014
+    },
+    {
+      "SECUCODE": "300081.SZ",
+      "SECURITY_CODE": "300081",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "北京溪水私募基金管理有限公司-溪水臻启1号私募证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2160700,
+      "HOLD_NUM_RATIO": 0.36,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300081.SZ",
+      "SECURITY_CODE": "300081",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "张宇",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2025200,
+      "HOLD_NUM_RATIO": 0.33,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300081.SZ",
+      "SECURITY_CODE": "300081",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "汪霞",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2010000,
+      "HOLD_NUM_RATIO": 0.33,
+      "HOLD_NUM_CHANGE": "-371500",
+      "CHANGE_RATIO": -15.59941214
+    },
+    {
+      "SECUCODE": "300081.SZ",
+      "SECURITY_CODE": "300081",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "潘光跃",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1970300,
+      "HOLD_NUM_RATIO": 0.33,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -740,52 +740,32 @@
     {
       "SECUCODE": "300081.SZ",
       "SECURITY_CODE": "300081",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 22,
-      "TOTAL_FREE_SHARES": 34097914,
-      "TOTAL_SHARES_RATIO": 5.63898893,
-      "ALL_SHARES_RATIO": 5.63792532
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 17579295,
+      "TOTAL_SHARES_RATIO": 2.90719984,
+      "ALL_SHARES_RATIO": 2.9066515
     },
     {
       "SECUCODE": "300081.SZ",
       "SECURITY_CODE": "300081",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 18,
-      "TOTAL_FREE_SHARES": 8172095,
-      "TOTAL_SHARES_RATIO": 1.35147132,
-      "ALL_SHARES_RATIO": 1.35121642
-    },
-    {
-      "SECUCODE": "300081.SZ",
-      "SECURITY_CODE": "300081",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "02",
       "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 1533060,
-      "TOTAL_SHARES_RATIO": 0.25353188,
-      "ALL_SHARES_RATIO": 0.25348406
+      "TOTAL_FREE_SHARES": 2425126,
+      "TOTAL_SHARES_RATIO": 0.40105851,
+      "ALL_SHARES_RATIO": 0.40098287
     },
     {
       "SECUCODE": "300081.SZ",
       "SECURITY_CODE": "300081",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "06",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 11399290,
-      "TOTAL_SHARES_RATIO": 1.8851731,
-      "ALL_SHARES_RATIO": 1.88481752
-    },
-    {
-      "SECUCODE": "300081.SZ",
-      "SECURITY_CODE": "300081",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 12993469,
-      "TOTAL_SHARES_RATIO": 2.14881263,
-      "ALL_SHARES_RATIO": 2.14840732
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 15154169,
+      "TOTAL_SHARES_RATIO": 2.50614133,
+      "ALL_SHARES_RATIO": 2.50566863
     }
   ],
   "jjcg": [

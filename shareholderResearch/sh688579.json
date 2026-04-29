@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 10.13,
       "AVG_HOLD_AMT": 346363.048123771,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 51.55297168,
+      "FREEHOLD_RATIO_TOTAL": 51.55297168
     },
     {
       "SECUCODE": "688579.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "688579.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "688579.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "688579.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "688579.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "688579.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "688579.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "688579.SH",
       "END_DATE": "2020-04-17 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "688579.SH",
-      "END_DATE": "2019-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,33 +473,33 @@
     {
       "SECUCODE": "688579.SH",
       "SECURITY_CODE": "688579",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "山东高速集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 98362459,
       "FREE_HOLDNUM_RATIO": 24.59,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688579.SH",
       "SECURITY_CODE": "688579",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "山东山大资本运营有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 19979941,
       "FREE_HOLDNUM_RATIO": 4.994860378491,
-      "HOLD_NUM_CHANGE": "-98362459",
-      "CHANGE_RATIO": -83.1168364
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688579.SH",
       "SECURITY_CODE": "688579",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "洪晓光",
       "HOLDER_TYPE": "个人",
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "688579.SH",
       "SECURITY_CODE": "688579",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "郑永清",
       "HOLDER_TYPE": "个人",
@@ -525,7 +525,7 @@
     {
       "SECUCODE": "688579.SH",
       "SECURITY_CODE": "688579",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "张世栋",
       "HOLDER_TYPE": "个人",
@@ -538,7 +538,7 @@
     {
       "SECUCODE": "688579.SH",
       "SECURITY_CODE": "688579",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "王新军",
       "HOLDER_TYPE": "个人",
@@ -551,7 +551,7 @@
     {
       "SECUCODE": "688579.SH",
       "SECURITY_CODE": "688579",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "李庆忠",
       "HOLDER_TYPE": "个人",
@@ -564,7 +564,7 @@
     {
       "SECUCODE": "688579.SH",
       "SECURITY_CODE": "688579",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "孙明",
       "HOLDER_TYPE": "个人",
@@ -577,27 +577,27 @@
     {
       "SECUCODE": "688579.SH",
       "SECURITY_CODE": "688579",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
+      "HOLDER_NAME": "浦忠琴",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6124857,
+      "FREE_HOLDNUM_RATIO": 1.531175970601,
+      "HOLD_NUM_CHANGE": "935304",
+      "CHANGE_RATIO": 18.02282393
+    },
+    {
+      "SECUCODE": "688579.SH",
+      "SECURITY_CODE": "688579",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "中国工商银行股份有限公司-金鹰科技创新股票型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 5770033,
       "FREE_HOLDNUM_RATIO": 1.442472188195,
-      "HOLD_NUM_CHANGE": "600000",
-      "CHANGE_RATIO": 11.60534178
-    },
-    {
-      "SECUCODE": "688579.SH",
-      "SECURITY_CODE": "688579",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "浦忠琴",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5189553,
-      "FREE_HOLDNUM_RATIO": 1.297355816105,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "688579.SH",
       "SECURITY_CODE": "688579",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 205281738,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 206217042,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 194728262,
-      "HOLD_NUM_RATIO": 51.32,
+      "OTHER_UNLIMITED_SHARES": 193792958,
+      "HOLD_NUM_RATIO": 51.55,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 48.68
+      "UNLIMITED_SHARES_RATIO": 48.45
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "688579.SH",
       "SECURITY_CODE": "688579",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "山东高速集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,19 +630,19 @@
     {
       "SECUCODE": "688579.SH",
       "SECURITY_CODE": "688579",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "山东山大资本运营有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 19979941,
       "HOLD_NUM_RATIO": 4.99,
-      "HOLD_NUM_CHANGE": "-98362459",
-      "CHANGE_RATIO": -83.1168364
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688579.SH",
       "SECURITY_CODE": "688579",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "洪晓光",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "688579.SH",
       "SECURITY_CODE": "688579",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "郑永清",
       "SHARES_TYPE": "流通A股",
@@ -666,7 +666,7 @@
     {
       "SECUCODE": "688579.SH",
       "SECURITY_CODE": "688579",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "张世栋",
       "SHARES_TYPE": "流通A股",
@@ -678,7 +678,7 @@
     {
       "SECUCODE": "688579.SH",
       "SECURITY_CODE": "688579",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "王新军",
       "SHARES_TYPE": "流通A股",
@@ -690,7 +690,7 @@
     {
       "SECUCODE": "688579.SH",
       "SECURITY_CODE": "688579",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "李庆忠",
       "SHARES_TYPE": "流通A股",
@@ -702,7 +702,7 @@
     {
       "SECUCODE": "688579.SH",
       "SECURITY_CODE": "688579",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "孙明",
       "SHARES_TYPE": "流通A股",
@@ -714,25 +714,25 @@
     {
       "SECUCODE": "688579.SH",
       "SECURITY_CODE": "688579",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国工商银行股份有限公司-金鹰科技创新股票型证券投资基金",
+      "HOLDER_NAME": "浦忠琴",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5770033,
-      "HOLD_NUM_RATIO": 1.44,
-      "HOLD_NUM_CHANGE": "600000",
-      "CHANGE_RATIO": 11.60534178
+      "HOLD_NUM": 6124857,
+      "HOLD_NUM_RATIO": 1.53,
+      "HOLD_NUM_CHANGE": "935304",
+      "CHANGE_RATIO": 18.02282393
     },
     {
       "SECUCODE": "688579.SH",
       "SECURITY_CODE": "688579",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "浦忠琴",
+      "HOLDER_NAME": "中国工商银行股份有限公司-金鹰科技创新股票型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5189553,
-      "HOLD_NUM_RATIO": 1.3,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM": 5770033,
+      "HOLD_NUM_RATIO": 1.44,
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -742,23 +742,50 @@
       "SECURITY_CODE": "688579",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 1710035,
-      "TOTAL_SHARES_RATIO": 0.42749806,
-      "ALL_SHARES_RATIO": 0.42749806
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 125822468,
+      "TOTAL_SHARES_RATIO": 31.45483063,
+      "ALL_SHARES_RATIO": 31.45483063
     },
     {
       "SECUCODE": "688579.SH",
       "SECURITY_CODE": "688579",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 1710035,
-      "TOTAL_SHARES_RATIO": 0.42749806,
-      "ALL_SHARES_RATIO": 0.42749806
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 7480068,
+      "TOTAL_SHARES_RATIO": 1.86997025,
+      "ALL_SHARES_RATIO": 1.86997025
+    },
+    {
+      "SECUCODE": "688579.SH",
+      "SECURITY_CODE": "688579",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 118342400,
+      "TOTAL_SHARES_RATIO": 29.58486038,
+      "ALL_SHARES_RATIO": 29.58486038
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "688579.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "001167",
+      "HOLDER_NAME": "金鹰科技创新股票A",
+      "TOTAL_SHARES": 5770033,
+      "HOLD_VALUE": 58450434.29,
+      "TOTALSHARES_RATIO": 1.44247219,
+      "FREESHARES_RATIO": 1.44247219,
+      "FREE_MARKET_CAP": 58450434.29,
+      "FREE_SHARES": 5770033,
+      "SECURITY_CODE": "688579",
+      "FUND_CODE": "001167",
+      "FUND_DERIVECODE": "001167.OF",
+      "NETVALUE_RATIO": 2.47
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "688579.SH",

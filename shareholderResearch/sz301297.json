@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 32.95,
       "AVG_HOLD_AMT": 379601.926046593,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 67.46721667,
+      "FREEHOLD_RATIO_TOTAL": 60.03952292
     },
     {
       "SECUCODE": "301297.SZ",
@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "301297.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "301297.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "301297.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "301297.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301297.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301297.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "301297.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "301297.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "301297.SZ",
       "END_DATE": "2025-09-30 00:00:00",
@@ -300,19 +310,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-07-25 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "上海申和投资有限公司",
-      "SHARES_TYPE": "限售流通A股",
-      "HOLD_NUM": 391460970,
-      "HOLD_NUM_RATIO": 54.29,
-      "HOLD_CHANGE": "221460970",
-      "CHANGE_RATIO": 130.27115882,
-      "CHANGE_REASON": "增发上市"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "301297.SZ",
@@ -349,140 +347,140 @@
       "SECUCODE": "301297.SZ",
       "SECURITY_CODE": "301297",
       "LIFT_DATE": "2028-07-25 00:00:00",
-      "LIFT_NUM": 230529264,
+      "LIFT_NUM": 167459061,
       "LIFT_TYPE": "定向增发机构配售股份",
-      "TOTAL_SHARES_RATIO": 31.02,
-      "UNLIMITED_A_SHARES_RATIO": 63.51
+      "TOTAL_SHARES_RATIO": 22.53,
+      "UNLIMITED_A_SHARES_RATIO": 46.13
     }
   ],
   "sdltgd": [
     {
       "SECUCODE": "301297.SZ",
       "SECURITY_CODE": "301297",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
+      "HOLDER_NAME": "上海申和投资有限公司",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 170000000,
+      "FREE_HOLDNUM_RATIO": 46.834822652685,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301297.SZ",
+      "SECURITY_CODE": "301297",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "上海祖贞企业管理中心(有限合伙)",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 20000000,
+      "FREE_HOLDNUM_RATIO": 5.50997913561,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301297.SZ",
+      "SECURITY_CODE": "301297",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "上海泽祖企业管理中心(有限合伙)",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 10000000,
+      "FREE_HOLDNUM_RATIO": 2.754989567805,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301297.SZ",
+      "SECURITY_CODE": "301297",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "杭州伯翰资产管理有限公司-安徽耀安伯翰高新科技股权投资基金合伙企业(有限合伙)",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 7481762,
-      "FREE_HOLDNUM_RATIO": 5.314747935692,
+      "FREE_HOLDNUM_RATIO": 2.06121762588,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301297.SZ",
       "SECURITY_CODE": "301297",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 2,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "深圳泽源私募证券基金管理有限公司-泽源菩提心私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4104600,
-      "FREE_HOLDNUM_RATIO": 2.91574556593,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2504600,
+      "FREE_HOLDNUM_RATIO": 0.690014687152,
+      "HOLD_NUM_CHANGE": "-1600000",
+      "CHANGE_RATIO": -38.98065585
     },
     {
       "SECUCODE": "301297.SZ",
       "SECURITY_CODE": "301297",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1535906,
-      "FREE_HOLDNUM_RATIO": 1.091046900839,
-      "HOLD_NUM_CHANGE": "333318",
-      "CHANGE_RATIO": 27.71672426
-    },
-    {
-      "SECUCODE": "301297.SZ",
-      "SECURITY_CODE": "301297",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1320689,
-      "FREE_HOLDNUM_RATIO": 0.938165252576,
-      "HOLD_NUM_CHANGE": "-259200",
-      "CHANGE_RATIO": -16.40621588
-    },
-    {
-      "SECUCODE": "301297.SZ",
-      "SECURITY_CODE": "301297",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "高金华",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1000000,
-      "FREE_HOLDNUM_RATIO": 0.710360465315,
-      "HOLD_NUM_CHANGE": "-118000",
-      "CHANGE_RATIO": -10.55456172
-    },
-    {
-      "SECUCODE": "301297.SZ",
-      "SECURITY_CODE": "301297",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "广州市通灵健康产业有限公司",
-      "HOLDER_TYPE": "其它",
+      "HOLDER_NAME": "湖南轻盐创业投资管理有限公司-轻盐智选37号私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 930099,
-      "FREE_HOLDNUM_RATIO": 0.660705558429,
-      "HOLD_NUM_CHANGE": "20000",
-      "CHANGE_RATIO": 2.19756312
-    },
-    {
-      "SECUCODE": "301297.SZ",
-      "SECURITY_CODE": "301297",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "蔡子元",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 800000,
-      "FREE_HOLDNUM_RATIO": 0.568288372252,
-      "HOLD_NUM_CHANGE": "-100000",
-      "CHANGE_RATIO": -11.11111111
-    },
-    {
-      "SECUCODE": "301297.SZ",
-      "SECURITY_CODE": "301297",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "招商银行股份有限公司-华夏中证1000交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 783799,
-      "FREE_HOLDNUM_RATIO": 0.556779822353,
-      "HOLD_NUM_CHANGE": "-147100",
-      "CHANGE_RATIO": -15.8019291
-    },
-    {
-      "SECUCODE": "301297.SZ",
-      "SECURITY_CODE": "301297",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "张梅芳",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 750000,
-      "FREE_HOLDNUM_RATIO": 0.532770348986,
+      "HOLD_NUM": 2114662,
+      "FREE_HOLDNUM_RATIO": 0.582587174943,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301297.SZ",
       "SECURITY_CODE": "301297",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "王瑞萍",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1984353,
+      "FREE_HOLDNUM_RATIO": 0.546687181384,
+      "HOLD_NUM_CHANGE": "365076",
+      "CHANGE_RATIO": 22.54561758
+    },
+    {
+      "SECUCODE": "301297.SZ",
+      "SECURITY_CODE": "301297",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国银行股份有限公司-嘉实中证半导体产业指数增强型发起式证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1720700,
+      "FREE_HOLDNUM_RATIO": 0.474051054932,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301297.SZ",
+      "SECURITY_CODE": "301297",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "李青",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 684100,
-      "FREE_HOLDNUM_RATIO": 0.485957594322,
+      "HOLD_NUM": 1096000,
+      "FREE_HOLDNUM_RATIO": 0.301946856631,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301297.SZ",
+      "SECURITY_CODE": "301297",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国国际金融股份有限公司",
+      "HOLDER_TYPE": "证券公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1028051,
+      "FREE_HOLDNUM_RATIO": 0.283226978017,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -491,32 +489,32 @@
     {
       "SECUCODE": "301297.SZ",
       "SECURITY_CODE": "301297",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 19390955,
-      "LIMITED_SHARES": 602234398,
-      "OTHER_UNLIMITED_SHARES": 121382645,
-      "HOLD_NUM_RATIO": 2.61,
-      "LIMITED_SHARES_RATIO": 81.05,
-      "UNLIMITED_SHARES_RATIO": 16.34
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 217930128,
+      "LIMITED_SHARES": 380209817,
+      "OTHER_UNLIMITED_SHARES": 145047653,
+      "HOLD_NUM_RATIO": 29.32,
+      "LIMITED_SHARES_RATIO": 51.16,
+      "UNLIMITED_SHARES_RATIO": 19.52
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "301297.SZ",
       "SECURITY_CODE": "301297",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海申和投资有限公司",
-      "SHARES_TYPE": "限售流通A股",
+      "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 391460970,
-      "HOLD_NUM_RATIO": 52.69,
+      "HOLD_NUM_RATIO": 52.67,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301297.SZ",
       "SECURITY_CODE": "301297",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "共青城兴橙东樱半导体产业投资合伙企业(有限合伙)",
       "SHARES_TYPE": "限售流通A股",
@@ -528,10 +526,10 @@
     {
       "SECUCODE": "301297.SZ",
       "SECURITY_CODE": "301297",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "上海祖贞企业管理中心(有限合伙)",
-      "SHARES_TYPE": "限售流通A股",
+      "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 20000000,
       "HOLD_NUM_RATIO": 2.69,
       "HOLD_NUM_CHANGE": "不变",
@@ -540,7 +538,7 @@
     {
       "SECUCODE": "301297.SZ",
       "SECURITY_CODE": "301297",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "上海富乐华科企业管理咨询合伙企业(有限合伙)",
       "SHARES_TYPE": "限售流通A股",
@@ -552,7 +550,7 @@
     {
       "SECUCODE": "301297.SZ",
       "SECURITY_CODE": "301297",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "国投招商投资管理有限公司-先进制造产业投资基金二期(有限合伙)",
       "SHARES_TYPE": "限售流通A股",
@@ -564,7 +562,7 @@
     {
       "SECUCODE": "301297.SZ",
       "SECURITY_CODE": "301297",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "嘉兴云初叁号投资合伙企业(有限合伙)",
       "SHARES_TYPE": "限售流通A股",
@@ -576,10 +574,10 @@
     {
       "SECUCODE": "301297.SZ",
       "SECURITY_CODE": "301297",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "上海泽祖企业管理中心(有限合伙)",
-      "SHARES_TYPE": "限售流通A股",
+      "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 10000000,
       "HOLD_NUM_RATIO": 1.35,
       "HOLD_NUM_CHANGE": "不变",
@@ -588,7 +586,7 @@
     {
       "SECUCODE": "301297.SZ",
       "SECURITY_CODE": "301297",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "杭州伯翰资产管理有限公司-安徽耀安伯翰高新科技股权投资基金合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -600,7 +598,7 @@
     {
       "SECUCODE": "301297.SZ",
       "SECURITY_CODE": "301297",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "矩阵(海南)私募基金管理有限公司-温州矩阵纵横六号股权投资合伙企业(有限合伙)",
       "SHARES_TYPE": "限售流通A股",
@@ -612,7 +610,7 @@
     {
       "SECUCODE": "301297.SZ",
       "SECURITY_CODE": "301297",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "宁波申毅投资管理有限公司-嘉兴诚富股权投资合伙企业(有限合伙)",
       "SHARES_TYPE": "限售流通A股",
@@ -628,10 +626,10 @@
       "SECURITY_CODE": "301297",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 1744900,
-      "TOTAL_SHARES_RATIO": 0.48071813,
-      "ALL_SHARES_RATIO": 0.23478594
+      "TOTAL_ORG_NUM": 11,
+      "TOTAL_FREE_SHARES": 438319298,
+      "TOTAL_SHARES_RATIO": 59.74424314,
+      "ALL_SHARES_RATIO": 29.17948693
     },
     {
       "SECUCODE": "301297.SZ",
@@ -642,6 +640,26 @@
       "TOTAL_FREE_SHARES": 1744900,
       "TOTAL_SHARES_RATIO": 0.48071813,
       "ALL_SHARES_RATIO": 0.23478594
+    },
+    {
+      "SECUCODE": "301297.SZ",
+      "SECURITY_CODE": "301297",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "04",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 1028051,
+      "TOTAL_SHARES_RATIO": 0.28322698,
+      "ALL_SHARES_RATIO": 0.13832995
+    },
+    {
+      "SECUCODE": "301297.SZ",
+      "SECURITY_CODE": "301297",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 435546347,
+      "TOTAL_SHARES_RATIO": 58.98029803,
+      "ALL_SHARES_RATIO": 28.80637104
     }
   ],
   "jjcg": [

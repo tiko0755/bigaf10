@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 4.89,
       "AVG_HOLD_AMT": 81594.0140296181,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 46.32459922,
+      "FREEHOLD_RATIO_TOTAL": 46.32459922
     },
     {
       "SECUCODE": "600543.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600543.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600543.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600543.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600543.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600543.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600543.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600543.SH",
       "END_DATE": "2015-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600543.SH",
-      "END_DATE": "2015-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600543.SH",
       "SECURITY_CODE": "600543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "甘肃省农垦集团有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600543.SH",
       "SECURITY_CODE": "600543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "甘肃黄羊河农工商(集团)有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "600543.SH",
       "SECURITY_CODE": "600543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "甘肃省农垦资产经营有限公司",
       "HOLDER_TYPE": "其它",
@@ -512,21 +512,47 @@
     {
       "SECUCODE": "600543.SH",
       "SECURITY_CODE": "600543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "周宇光",
+      "HOLDER_NAME": "钱戌强",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11330100,
-      "FREE_HOLDNUM_RATIO": 3.528307174888,
-      "HOLD_NUM_CHANGE": "-4021100",
-      "CHANGE_RATIO": -26.19404346
+      "HOLD_NUM": 8153800,
+      "FREE_HOLDNUM_RATIO": 2.539175386148,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600543.SH",
       "SECURITY_CODE": "600543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "周宇光",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7060700,
+      "FREE_HOLDNUM_RATIO": 2.198773044345,
+      "HOLD_NUM_CHANGE": "-4269400",
+      "CHANGE_RATIO": -37.6819269
+    },
+    {
+      "SECUCODE": "600543.SH",
+      "SECURITY_CODE": "600543",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6203126,
+      "FREE_HOLDNUM_RATIO": 1.931715869457,
+      "HOLD_NUM_CHANGE": "3190489",
+      "CHANGE_RATIO": 105.90353235
+    },
+    {
+      "SECUCODE": "600543.SH",
+      "SECURITY_CODE": "600543",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "甘肃莫高实业发展股份有限公司回购专用证券账户",
       "HOLDER_TYPE": "证券账户",
       "SHARES_TYPE": "A股",
@@ -538,8 +564,8 @@
     {
       "SECUCODE": "600543.SH",
       "SECURITY_CODE": "600543",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "甘肃兴陇资本管理有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -551,52 +577,26 @@
     {
       "SECUCODE": "600543.SH",
       "SECURITY_CODE": "600543",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "高盛公司有限责任公司",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3012637,
-      "FREE_HOLDNUM_RATIO": 0.938165483308,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600543.SH",
-      "SECURITY_CODE": "600543",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "林舒月",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2770500,
-      "FREE_HOLDNUM_RATIO": 0.862761584454,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600543.SH",
-      "SECURITY_CODE": "600543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "王民",
+      "HOLDER_NAME": "钱友群",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1800000,
-      "FREE_HOLDNUM_RATIO": 0.560538116592,
+      "HOLD_NUM": 3250710,
+      "FREE_HOLDNUM_RATIO": 1.012303811659,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600543.SH",
       "SECURITY_CODE": "600543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "BARCLAYS BANK PLC",
-      "HOLDER_TYPE": "QFII",
+      "HOLDER_NAME": "顾维",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1492400,
-      "FREE_HOLDNUM_RATIO": 0.464748380668,
+      "HOLD_NUM": 2888800,
+      "FREE_HOLDNUM_RATIO": 0.899601395117,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "600543.SH",
       "SECURITY_CODE": "600543",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 141606054,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 148757553,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 179513946,
-      "HOLD_NUM_RATIO": 44.1,
+      "OTHER_UNLIMITED_SHARES": 172362447,
+      "HOLD_NUM_RATIO": 46.32,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 55.9
+      "UNLIMITED_SHARES_RATIO": 53.68
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600543.SH",
       "SECURITY_CODE": "600543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "甘肃省农垦集团有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600543.SH",
       "SECURITY_CODE": "600543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "甘肃黄羊河农工商(集团)有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "600543.SH",
       "SECURITY_CODE": "600543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "甘肃省农垦资产经营有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,20 +654,44 @@
     {
       "SECUCODE": "600543.SH",
       "SECURITY_CODE": "600543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "周宇光",
+      "HOLDER_NAME": "钱戌强",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11330100,
-      "HOLD_NUM_RATIO": 3.53,
-      "HOLD_NUM_CHANGE": "-4021100",
-      "CHANGE_RATIO": -26.19404346
+      "HOLD_NUM": 8153800,
+      "HOLD_NUM_RATIO": 2.54,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600543.SH",
       "SECURITY_CODE": "600543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "周宇光",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7060700,
+      "HOLD_NUM_RATIO": 2.2,
+      "HOLD_NUM_CHANGE": "-4269400",
+      "CHANGE_RATIO": -37.6819269
+    },
+    {
+      "SECUCODE": "600543.SH",
+      "SECURITY_CODE": "600543",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6203126,
+      "HOLD_NUM_RATIO": 1.93,
+      "HOLD_NUM_CHANGE": "3190489",
+      "CHANGE_RATIO": 105.90353235
+    },
+    {
+      "SECUCODE": "600543.SH",
+      "SECURITY_CODE": "600543",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "甘肃莫高实业发展股份有限公司回购专用证券账户",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3318500,
@@ -678,8 +702,8 @@
     {
       "SECUCODE": "600543.SH",
       "SECURITY_CODE": "600543",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "甘肃兴陇资本管理有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3273400,
@@ -690,48 +714,24 @@
     {
       "SECUCODE": "600543.SH",
       "SECURITY_CODE": "600543",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "高盛公司有限责任公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3012637,
-      "HOLD_NUM_RATIO": 0.94,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600543.SH",
-      "SECURITY_CODE": "600543",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "林舒月",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2770500,
-      "HOLD_NUM_RATIO": 0.86,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600543.SH",
-      "SECURITY_CODE": "600543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "王民",
+      "HOLDER_NAME": "钱友群",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1800000,
-      "HOLD_NUM_RATIO": 0.56,
+      "HOLD_NUM": 3250710,
+      "HOLD_NUM_RATIO": 1.01,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600543.SH",
       "SECURITY_CODE": "600543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "BARCLAYS BANK PLC",
+      "HOLDER_NAME": "顾维",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1492400,
-      "HOLD_NUM_RATIO": 0.46,
+      "HOLD_NUM": 2888800,
+      "HOLD_NUM_RATIO": 0.9,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "600543",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 82300,
-      "TOTAL_SHARES_RATIO": 0.02562905,
-      "ALL_SHARES_RATIO": 0.02562905
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 127485843,
+      "TOTAL_SHARES_RATIO": 39.70037463,
+      "ALL_SHARES_RATIO": 39.70037463
     },
     {
       "SECUCODE": "600543.SH",
@@ -756,6 +756,26 @@
       "TOTAL_FREE_SHARES": 82300,
       "TOTAL_SHARES_RATIO": 0.02562905,
       "ALL_SHARES_RATIO": 0.02562905
+    },
+    {
+      "SECUCODE": "600543.SH",
+      "SECURITY_CODE": "600543",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 6203126,
+      "TOTAL_SHARES_RATIO": 1.93171587,
+      "ALL_SHARES_RATIO": 1.93171587
+    },
+    {
+      "SECUCODE": "600543.SH",
+      "SECURITY_CODE": "600543",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 121200417,
+      "TOTAL_SHARES_RATIO": 37.74302971,
+      "ALL_SHARES_RATIO": 37.74302971
     }
   ],
   "jjcg": [

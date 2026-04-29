@@ -25,8 +25,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 52.5,
       "AVG_HOLD_AMT": 537704.891012334,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 46.95362576,
+      "FREEHOLD_RATIO_TOTAL": 46.95362576
     },
     {
       "SECUCODE": "688399.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "688399.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "688399.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "688399.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "688399.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "688399.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "688399.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -336,6 +341,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "688399.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "688399.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -349,10 +358,6 @@
     {
       "SECUCODE": "688399.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "688399.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -383,7 +388,7 @@
     {
       "SECUCODE": "688399.SH",
       "SECURITY_CODE": "688399",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "绍兴闰康生物医药股权投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -396,7 +401,7 @@
     {
       "SECUCODE": "688399.SH",
       "SECURITY_CODE": "688399",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "王国强",
       "HOLDER_TYPE": "个人",
@@ -409,7 +414,7 @@
     {
       "SECUCODE": "688399.SH",
       "SECURITY_CODE": "688399",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "刘中华",
       "HOLDER_TYPE": "个人",
@@ -422,21 +427,8 @@
     {
       "SECUCODE": "688399.SH",
       "SECURITY_CODE": "688399",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "杨世刚",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1822960,
-      "FREE_HOLDNUM_RATIO": 2.173509710144,
-      "HOLD_NUM_CHANGE": "-2560",
-      "CHANGE_RATIO": -0.14023402
-    },
-    {
-      "SECUCODE": "688399.SH",
-      "SECURITY_CODE": "688399",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "泰州硕康企业管理咨询合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -448,8 +440,8 @@
     {
       "SECUCODE": "688399.SH",
       "SECURITY_CODE": "688399",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "泰州硕源企业管理咨询合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -461,52 +453,65 @@
     {
       "SECUCODE": "688399.SH",
       "SECURITY_CODE": "688399",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "杨世刚",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1425404,
+      "FREE_HOLDNUM_RATIO": 1.699504890331,
+      "HOLD_NUM_CHANGE": "-397556",
+      "CHANGE_RATIO": -21.80826787
+    },
+    {
+      "SECUCODE": "688399.SH",
+      "SECURITY_CODE": "688399",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "由赛",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 765819,
-      "FREE_HOLDNUM_RATIO": 0.91308368407,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 691189,
+      "FREE_HOLDNUM_RATIO": 0.824102560147,
+      "HOLD_NUM_CHANGE": "-74630",
+      "CHANGE_RATIO": -9.74512254
     },
     {
       "SECUCODE": "688399.SH",
       "SECURITY_CODE": "688399",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国银河证券股份有限公司",
-      "HOLDER_TYPE": "证券公司",
+      "HOLDER_NAME": "沈华堂",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 609443,
-      "FREE_HOLDNUM_RATIO": 0.726637050884,
-      "HOLD_NUM_CHANGE": "-170334",
-      "CHANGE_RATIO": -21.84393743
-    },
-    {
-      "SECUCODE": "688399.SH",
-      "SECURITY_CODE": "688399",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "深圳市弘洛私募证券基金管理有限公司-弘洛弘道4号私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 566196,
-      "FREE_HOLDNUM_RATIO": 0.675073783212,
+      "HOLD_NUM": 623941,
+      "FREE_HOLDNUM_RATIO": 0.743922972559,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688399.SH",
       "SECURITY_CODE": "688399",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 448472,
+      "FREE_HOLDNUM_RATIO": 0.534711813056,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688399.SH",
+      "SECURITY_CODE": "688399",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "官莉",
+      "HOLDER_NAME": "董竟南",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 560469,
-      "FREE_HOLDNUM_RATIO": 0.668245498384,
+      "HOLD_NUM": 435600,
+      "FREE_HOLDNUM_RATIO": 0.519364566276,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -515,20 +520,20 @@
     {
       "SECUCODE": "688399.SH",
       "SECURITY_CODE": "688399",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 40081095,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 39380814,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 43790626,
-      "HOLD_NUM_RATIO": 47.79,
+      "OTHER_UNLIMITED_SHARES": 44490907,
+      "HOLD_NUM_RATIO": 46.95,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 52.21
+      "UNLIMITED_SHARES_RATIO": 53.05
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "688399.SH",
       "SECURITY_CODE": "688399",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "绍兴闰康生物医药股权投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -540,7 +545,7 @@
     {
       "SECUCODE": "688399.SH",
       "SECURITY_CODE": "688399",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "王国强",
       "SHARES_TYPE": "流通A股",
@@ -552,7 +557,7 @@
     {
       "SECUCODE": "688399.SH",
       "SECURITY_CODE": "688399",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "刘中华",
       "SHARES_TYPE": "流通A股",
@@ -564,20 +569,8 @@
     {
       "SECUCODE": "688399.SH",
       "SECURITY_CODE": "688399",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "杨世刚",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1822960,
-      "HOLD_NUM_RATIO": 2.17,
-      "HOLD_NUM_CHANGE": "-2560",
-      "CHANGE_RATIO": -0.14023402
-    },
-    {
-      "SECUCODE": "688399.SH",
-      "SECURITY_CODE": "688399",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "泰州硕康企业管理咨询合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1598400,
@@ -588,8 +581,8 @@
     {
       "SECUCODE": "688399.SH",
       "SECURITY_CODE": "688399",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "泰州硕源企业管理咨询合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1598400,
@@ -600,48 +593,60 @@
     {
       "SECUCODE": "688399.SH",
       "SECURITY_CODE": "688399",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "杨世刚",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1425404,
+      "HOLD_NUM_RATIO": 1.7,
+      "HOLD_NUM_CHANGE": "-397556",
+      "CHANGE_RATIO": -21.80826787
+    },
+    {
+      "SECUCODE": "688399.SH",
+      "SECURITY_CODE": "688399",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "由赛",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 765819,
-      "HOLD_NUM_RATIO": 0.91,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 691189,
+      "HOLD_NUM_RATIO": 0.82,
+      "HOLD_NUM_CHANGE": "-74630",
+      "CHANGE_RATIO": -9.74512254
     },
     {
       "SECUCODE": "688399.SH",
       "SECURITY_CODE": "688399",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国银河证券股份有限公司",
+      "HOLDER_NAME": "沈华堂",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 609443,
-      "HOLD_NUM_RATIO": 0.73,
-      "HOLD_NUM_CHANGE": "-170334",
-      "CHANGE_RATIO": -21.84393743
-    },
-    {
-      "SECUCODE": "688399.SH",
-      "SECURITY_CODE": "688399",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "深圳市弘洛私募证券基金管理有限公司-弘洛弘道4号私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 566196,
-      "HOLD_NUM_RATIO": 0.68,
+      "HOLD_NUM": 623941,
+      "HOLD_NUM_RATIO": 0.74,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688399.SH",
       "SECURITY_CODE": "688399",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "官莉",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 560469,
-      "HOLD_NUM_RATIO": 0.67,
+      "HOLD_NUM": 448472,
+      "HOLD_NUM_RATIO": 0.53,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688399.SH",
+      "SECURITY_CODE": "688399",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "董竟南",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 435600,
+      "HOLD_NUM_RATIO": 0.52,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -650,42 +655,22 @@
     {
       "SECUCODE": "688399.SH",
       "SECURITY_CODE": "688399",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 86,
-      "TOTAL_FREE_SHARES": 28214026,
-      "TOTAL_SHARES_RATIO": 33.63949811,
-      "ALL_SHARES_RATIO": 33.63949811
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 26733272,
+      "TOTAL_SHARES_RATIO": 31.87399958,
+      "ALL_SHARES_RATIO": 31.87399958
     },
     {
       "SECUCODE": "688399.SH",
       "SECURITY_CODE": "688399",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 81,
-      "TOTAL_FREE_SHARES": 753587,
-      "TOTAL_SHARES_RATIO": 0.89849951,
-      "ALL_SHARES_RATIO": 0.89849951
-    },
-    {
-      "SECUCODE": "688399.SH",
-      "SECURITY_CODE": "688399",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "04",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 609443,
-      "TOTAL_SHARES_RATIO": 0.72663705,
-      "ALL_SHARES_RATIO": 0.72663705
-    },
-    {
-      "SECUCODE": "688399.SH",
-      "SECURITY_CODE": "688399",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 26850996,
-      "TOTAL_SHARES_RATIO": 32.01436155,
-      "ALL_SHARES_RATIO": 32.01436155
+      "TOTAL_FREE_SHARES": 26733272,
+      "TOTAL_SHARES_RATIO": 31.87399958,
+      "ALL_SHARES_RATIO": 31.87399958
     }
   ],
   "jjcg": [

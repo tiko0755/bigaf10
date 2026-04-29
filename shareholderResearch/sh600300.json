@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 3.52,
       "AVG_HOLD_AMT": 85547.6476345056,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 38.31765547,
+      "FREEHOLD_RATIO_TOTAL": 38.31765547
     },
     {
       "SECUCODE": "600300.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600300.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600300.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600300.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600300.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600300.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600300.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600300.SH",
       "END_DATE": "2018-01-04 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "600300.SH",
-      "END_DATE": "2018-01-03 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600300.SH",
       "SECURITY_CODE": "600300",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "徐州市新盛投资控股集团有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -486,73 +486,112 @@
     {
       "SECUCODE": "600300.SH",
       "SECURITY_CODE": "600300",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 35371745,
-      "FREE_HOLDNUM_RATIO": 2.187299634965,
-      "HOLD_NUM_CHANGE": "23800032",
-      "CHANGE_RATIO": 205.67423337
+      "HOLD_NUM": 30887391,
+      "FREE_HOLDNUM_RATIO": 1.909998476448,
+      "HOLD_NUM_CHANGE": "-4484354",
+      "CHANGE_RATIO": -12.67778562
     },
     {
       "SECUCODE": "600300.SH",
       "SECURITY_CODE": "600300",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "张素芬",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 17970000,
-      "FREE_HOLDNUM_RATIO": 1.111219546571,
-      "HOLD_NUM_CHANGE": "5640000",
-      "CHANGE_RATIO": 45.74209246
+      "HOLD_NUM": 18120000,
+      "FREE_HOLDNUM_RATIO": 1.120495168829,
+      "HOLD_NUM_CHANGE": "150000",
+      "CHANGE_RATIO": 0.83472454
     },
     {
       "SECUCODE": "600300.SH",
       "SECURITY_CODE": "600300",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "大家人寿保险股份有限公司-传统产品",
-      "HOLDER_TYPE": "保险产品",
+      "HOLDER_NAME": "丁培芳",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11476400,
-      "FREE_HOLDNUM_RATIO": 0.709671675251,
-      "HOLD_NUM_CHANGE": "3705400",
-      "CHANGE_RATIO": 47.68240896
+      "HOLD_NUM": 13185500,
+      "FREE_HOLDNUM_RATIO": 0.815358115265,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600300.SH",
       "SECURITY_CODE": "600300",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "郑承忠",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 12616000,
+      "FREE_HOLDNUM_RATIO": 0.780141669423,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600300.SH",
+      "SECURITY_CODE": "600300",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "黄晓昕",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 11250200,
+      "FREE_HOLDNUM_RATIO": 0.695684036885,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600300.SH",
+      "SECURITY_CODE": "600300",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "杨小刚",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11048700,
-      "FREE_HOLDNUM_RATIO": 0.683223784318,
-      "HOLD_NUM_CHANGE": "31200",
-      "CHANGE_RATIO": 0.28318584
+      "HOLD_NUM": 11020300,
+      "FREE_HOLDNUM_RATIO": 0.681467599837,
+      "HOLD_NUM_CHANGE": "-28400",
+      "CHANGE_RATIO": -0.25704382
     },
     {
       "SECUCODE": "600300.SH",
       "SECURITY_CODE": "600300",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "张武",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 8000000,
       "FREE_HOLDNUM_RATIO": 0.494699853788,
-      "HOLD_NUM_CHANGE": "1600000",
-      "CHANGE_RATIO": 25
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600300.SH",
       "SECURITY_CODE": "600300",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "付克吕",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7838087,
+      "FREE_HOLDNUM_RATIO": 0.484687561609,
+      "HOLD_NUM_CHANGE": "1430900",
+      "CHANGE_RATIO": 22.33273354
+    },
+    {
+      "SECUCODE": "600300.SH",
+      "SECURITY_CODE": "600300",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "崔久红",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -560,65 +599,26 @@
       "FREE_HOLDNUM_RATIO": 0.420834425332,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600300.SH",
-      "SECURITY_CODE": "600300",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "付克吕",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6407187,
-      "FREE_HOLDNUM_RATIO": 0.396204309011,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600300.SH",
-      "SECURITY_CODE": "600300",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "大家人寿保险股份有限公司-万能产品",
-      "HOLDER_TYPE": "保险产品",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6150400,
-      "FREE_HOLDNUM_RATIO": 0.380325247592,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600300.SH",
-      "SECURITY_CODE": "600300",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "广发资产管理(香港)有限公司-绝对收益组合-04-R",
-      "HOLDER_TYPE": "其他理财产品",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5779000,
-      "FREE_HOLDNUM_RATIO": 0.35735880688,
-      "HOLD_NUM_CHANGE": "600000",
-      "CHANGE_RATIO": 11.58524812
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600300.SH",
       "SECURITY_CODE": "600300",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 608936923,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 619650969,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 1008205257,
-      "HOLD_NUM_RATIO": 37.66,
+      "OTHER_UNLIMITED_SHARES": 997491211,
+      "HOLD_NUM_RATIO": 38.32,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 62.34
+      "UNLIMITED_SHARES_RATIO": 61.68
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600300.SH",
       "SECURITY_CODE": "600300",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "徐州市新盛投资控股集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,110 +630,110 @@
     {
       "SECUCODE": "600300.SH",
       "SECURITY_CODE": "600300",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 35371745,
-      "HOLD_NUM_RATIO": 2.19,
-      "HOLD_NUM_CHANGE": "23800032",
-      "CHANGE_RATIO": 205.67423337
+      "HOLD_NUM": 30887391,
+      "HOLD_NUM_RATIO": 1.91,
+      "HOLD_NUM_CHANGE": "-4484354",
+      "CHANGE_RATIO": -12.67778562
     },
     {
       "SECUCODE": "600300.SH",
       "SECURITY_CODE": "600300",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "张素芬",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 17970000,
-      "HOLD_NUM_RATIO": 1.11,
-      "HOLD_NUM_CHANGE": "5640000",
-      "CHANGE_RATIO": 45.74209246
+      "HOLD_NUM": 18120000,
+      "HOLD_NUM_RATIO": 1.12,
+      "HOLD_NUM_CHANGE": "150000",
+      "CHANGE_RATIO": 0.83472454
     },
     {
       "SECUCODE": "600300.SH",
       "SECURITY_CODE": "600300",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "大家人寿保险股份有限公司-传统产品",
+      "HOLDER_NAME": "丁培芳",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11476400,
-      "HOLD_NUM_RATIO": 0.71,
-      "HOLD_NUM_CHANGE": "3705400",
-      "CHANGE_RATIO": 47.68240896
-    },
-    {
-      "SECUCODE": "600300.SH",
-      "SECURITY_CODE": "600300",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "杨小刚",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11048700,
-      "HOLD_NUM_RATIO": 0.68,
-      "HOLD_NUM_CHANGE": "31200",
-      "CHANGE_RATIO": 0.28318584
-    },
-    {
-      "SECUCODE": "600300.SH",
-      "SECURITY_CODE": "600300",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "张武",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8000000,
-      "HOLD_NUM_RATIO": 0.49,
-      "HOLD_NUM_CHANGE": "1600000",
-      "CHANGE_RATIO": 25
-    },
-    {
-      "SECUCODE": "600300.SH",
-      "SECURITY_CODE": "600300",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "崔久红",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6805491,
-      "HOLD_NUM_RATIO": 0.42,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600300.SH",
-      "SECURITY_CODE": "600300",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "付克吕",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6407187,
-      "HOLD_NUM_RATIO": 0.4,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600300.SH",
-      "SECURITY_CODE": "600300",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "大家人寿保险股份有限公司-万能产品",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6150400,
-      "HOLD_NUM_RATIO": 0.38,
+      "HOLD_NUM": 13185500,
+      "HOLD_NUM_RATIO": 0.82,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600300.SH",
       "SECURITY_CODE": "600300",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "广发资产管理(香港)有限公司-绝对收益组合-04-R",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "郑承忠",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5779000,
-      "HOLD_NUM_RATIO": 0.36,
-      "HOLD_NUM_CHANGE": "600000",
-      "CHANGE_RATIO": 11.58524812
+      "HOLD_NUM": 12616000,
+      "HOLD_NUM_RATIO": 0.78,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600300.SH",
+      "SECURITY_CODE": "600300",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "黄晓昕",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 11250200,
+      "HOLD_NUM_RATIO": 0.7,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600300.SH",
+      "SECURITY_CODE": "600300",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "杨小刚",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 11020300,
+      "HOLD_NUM_RATIO": 0.68,
+      "HOLD_NUM_CHANGE": "-28400",
+      "CHANGE_RATIO": -0.25704382
+    },
+    {
+      "SECUCODE": "600300.SH",
+      "SECURITY_CODE": "600300",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "张武",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 8000000,
+      "HOLD_NUM_RATIO": 0.49,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600300.SH",
+      "SECURITY_CODE": "600300",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "付克吕",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7838087,
+      "HOLD_NUM_RATIO": 0.48,
+      "HOLD_NUM_CHANGE": "1430900",
+      "CHANGE_RATIO": 22.33273354
+    },
+    {
+      "SECUCODE": "600300.SH",
+      "SECURITY_CODE": "600300",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "崔久红",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6805491,
+      "HOLD_NUM_RATIO": 0.42,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "600300",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 222400,
-      "TOTAL_SHARES_RATIO": 0.01375266,
-      "ALL_SHARES_RATIO": 0.01375266
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 531037791,
+      "TOTAL_SHARES_RATIO": 32.8380397,
+      "ALL_SHARES_RATIO": 32.8380397
     },
     {
       "SECUCODE": "600300.SH",
@@ -756,6 +756,16 @@
       "TOTAL_FREE_SHARES": 222400,
       "TOTAL_SHARES_RATIO": 0.01375266,
       "ALL_SHARES_RATIO": 0.01375266
+    },
+    {
+      "SECUCODE": "600300.SH",
+      "SECURITY_CODE": "600300",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 530815391,
+      "TOTAL_SHARES_RATIO": 32.82428704,
+      "ALL_SHARES_RATIO": 32.82428704
     }
   ],
   "jjcg": [

@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 36.76,
       "AVG_HOLD_AMT": 375665.762078354,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 49.75437184,
+      "FREEHOLD_RATIO_TOTAL": 31.15367185
     },
     {
       "SECUCODE": "300980.SZ",
@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300980.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300980.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300980.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "300980.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300980.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300980.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300980.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300980.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300980.SZ",
       "END_DATE": "2025-09-30 00:00:00",
@@ -370,7 +380,7 @@
       "SECUCODE": "300980.SZ",
       "SECURITY_CODE": "300980",
       "HOLDER_NAME": "魏志祥,魏琼",
-      "HOLD_RATIO": 36.74
+      "HOLD_RATIO": 36.76
     }
   ],
   "jgcc_date": [
@@ -395,30 +405,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-07-10 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "魏志祥",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 30631200,
-      "HOLD_NUM_RATIO": 22.14,
-      "HOLD_CHANGE": "-1333800",
-      "CHANGE_RATIO": -4.17268888,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-07-10 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "魏琼",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 20190090,
-      "HOLD_NUM_RATIO": 14.59,
-      "HOLD_CHANGE": "-889200",
-      "CHANGE_RATIO": -4.2183584,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "300980.SZ",
@@ -446,46 +433,46 @@
     {
       "SECUCODE": "300980.SZ",
       "SECURITY_CODE": "300980",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "魏志祥",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6657450,
-      "FREE_HOLDNUM_RATIO": 6.769729483747,
-      "HOLD_NUM_CHANGE": "-1333800",
-      "CHANGE_RATIO": -16.69075551
+      "HOLD_NUM": 7657800,
+      "FREE_HOLDNUM_RATIO": 7.786950625336,
+      "HOLD_NUM_CHANGE": "1000350",
+      "CHANGE_RATIO": 15.02602348
     },
     {
       "SECUCODE": "300980.SZ",
       "SECURITY_CODE": "300980",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "中国银行股份有限公司-华夏行业景气混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5653157,
-      "FREE_HOLDNUM_RATIO": 5.748498842523,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300980.SZ",
-      "SECURITY_CODE": "300980",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "魏琼",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4360800,
-      "FREE_HOLDNUM_RATIO": 4.434345933161,
-      "HOLD_NUM_CHANGE": "-889200",
-      "CHANGE_RATIO": -16.93714286
+      "HOLD_NUM": 5027700,
+      "FREE_HOLDNUM_RATIO": 5.112493360887,
+      "HOLD_NUM_CHANGE": "666900",
+      "CHANGE_RATIO": 15.29306549
     },
     {
       "SECUCODE": "300980.SZ",
       "SECURITY_CODE": "300980",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "中国银行股份有限公司-华夏行业景气混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4572991,
+      "FREE_HOLDNUM_RATIO": 4.650115585038,
+      "HOLD_NUM_CHANGE": "1725800",
+      "CHANGE_RATIO": 60.6141281
+    },
+    {
+      "SECUCODE": "300980.SZ",
+      "SECURITY_CODE": "300980",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "武汉祥源众鑫新材料投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -498,20 +485,20 @@
     {
       "SECUCODE": "300980.SZ",
       "SECURITY_CODE": "300980",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "湖北量科高投创业投资有限公司",
-      "HOLDER_TYPE": "投资公司",
+      "HOLDER_NAME": "华夏基金管理有限公司-社保基金四二二组合",
+      "HOLDER_TYPE": "全国社保基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2159500,
-      "FREE_HOLDNUM_RATIO": 2.195920483091,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2598729,
+      "FREE_HOLDNUM_RATIO": 2.642557185044,
+      "HOLD_NUM_CHANGE": "1394400",
+      "CHANGE_RATIO": 115.7823153
     },
     {
       "SECUCODE": "300980.SZ",
       "SECURITY_CODE": "300980",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "金盛",
       "HOLDER_TYPE": "个人",
@@ -524,53 +511,53 @@
     {
       "SECUCODE": "300980.SZ",
       "SECURITY_CODE": "300980",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "华夏基金管理有限公司-社保基金四二二组合",
-      "HOLDER_TYPE": "全国社保基金",
+      "HOLDER_NAME": "中信银行股份有限公司-华夏卓越成长混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1720329,
-      "FREE_HOLDNUM_RATIO": 1.749342759322,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300980.SZ",
-      "SECURITY_CODE": "300980",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "上海秉昊私募基金管理有限公司-秉昊昊兴1号私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1588000,
-      "FREE_HOLDNUM_RATIO": 1.614781999142,
+      "HOLD_NUM": 1579700,
+      "FREE_HOLDNUM_RATIO": 1.606342017661,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300980.SZ",
       "SECURITY_CODE": "300980",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "湖北高富信创业投资有限公司",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "湖北量科高投创业投资有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1208200,
-      "FREE_HOLDNUM_RATIO": 1.228576581463,
+      "HOLD_NUM": 1259500,
+      "FREE_HOLDNUM_RATIO": 1.280741768212,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300980.SZ",
       "SECURITY_CODE": "300980",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "湖北省高新产业投资集团有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1065000,
       "FREE_HOLDNUM_RATIO": 1.082961479274,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300980.SZ",
+      "SECURITY_CODE": "300980",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "平安银行股份有限公司-华夏远见成长一年持有期混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 992900,
+      "FREE_HOLDNUM_RATIO": 1.00964549556,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -578,56 +565,56 @@
     {
       "SECUCODE": "300980.SZ",
       "SECURITY_CODE": "300980",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 30295088,
-      "LIMITED_SHARES": 39869595,
-      "OTHER_UNLIMITED_SHARES": 68046360,
-      "HOLD_NUM_RATIO": 21.92,
-      "LIMITED_SHARES_RATIO": 28.85,
-      "UNLIMITED_SHARES_RATIO": 49.23
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 30636972,
+      "LIMITED_SHARES": 39723750,
+      "OTHER_UNLIMITED_SHARES": 67704476,
+      "HOLD_NUM_RATIO": 22.19,
+      "LIMITED_SHARES_RATIO": 28.77,
+      "UNLIMITED_SHARES_RATIO": 49.04
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300980.SZ",
       "SECURITY_CODE": "300980",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "魏志祥",
       "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 30631200,
-      "HOLD_NUM_RATIO": 22.16,
+      "HOLD_NUM_RATIO": 22.19,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300980.SZ",
       "SECURITY_CODE": "300980",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "魏琼",
       "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 20150445,
-      "HOLD_NUM_RATIO": 14.58,
-      "HOLD_NUM_CHANGE": "-39645",
-      "CHANGE_RATIO": -0.19635871
-    },
-    {
-      "SECUCODE": "300980.SZ",
-      "SECURITY_CODE": "300980",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "中国银行股份有限公司-华夏行业景气混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5653157,
-      "HOLD_NUM_RATIO": 4.09,
+      "HOLD_NUM": 20110800,
+      "HOLD_NUM_RATIO": 14.57,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300980.SZ",
       "SECURITY_CODE": "300980",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "中国银行股份有限公司-华夏行业景气混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4572991,
+      "HOLD_NUM_RATIO": 3.31,
+      "HOLD_NUM_CHANGE": "1725800",
+      "CHANGE_RATIO": 60.6141281
+    },
+    {
+      "SECUCODE": "300980.SZ",
+      "SECURITY_CODE": "300980",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "武汉祥源众鑫新材料投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -639,19 +626,19 @@
     {
       "SECUCODE": "300980.SZ",
       "SECURITY_CODE": "300980",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "湖北量科高投创业投资有限公司",
+      "HOLDER_NAME": "华夏基金管理有限公司-社保基金四二二组合",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2159500,
-      "HOLD_NUM_RATIO": 1.56,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2598729,
+      "HOLD_NUM_RATIO": 1.88,
+      "HOLD_NUM_CHANGE": "1394400",
+      "CHANGE_RATIO": 115.7823153
     },
     {
       "SECUCODE": "300980.SZ",
       "SECURITY_CODE": "300980",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "金盛",
       "SHARES_TYPE": "流通A股",
@@ -663,49 +650,49 @@
     {
       "SECUCODE": "300980.SZ",
       "SECURITY_CODE": "300980",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "华夏基金管理有限公司-社保基金四二二组合",
+      "HOLDER_NAME": "中信银行股份有限公司-华夏卓越成长混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1720329,
-      "HOLD_NUM_RATIO": 1.24,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300980.SZ",
-      "SECURITY_CODE": "300980",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "上海秉昊私募基金管理有限公司-秉昊昊兴1号私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1588000,
-      "HOLD_NUM_RATIO": 1.15,
+      "HOLD_NUM": 1579700,
+      "HOLD_NUM_RATIO": 1.14,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300980.SZ",
       "SECURITY_CODE": "300980",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "湖北高富信创业投资有限公司",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "湖北量科高投创业投资有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1208200,
-      "HOLD_NUM_RATIO": 0.87,
+      "HOLD_NUM": 1259500,
+      "HOLD_NUM_RATIO": 0.91,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300980.SZ",
       "SECURITY_CODE": "300980",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "湖北省高新产业投资集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1065000,
       "HOLD_NUM_RATIO": 0.77,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300980.SZ",
+      "SECURITY_CODE": "300980",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "平安银行股份有限公司-华夏远见成长一年持有期混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 992900,
+      "HOLD_NUM_RATIO": 0.72,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -715,23 +702,77 @@
       "SECURITY_CODE": "300980",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 992900,
-      "TOTAL_SHARES_RATIO": 1.0096455,
-      "ALL_SHARES_RATIO": 0.71915299
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 15938820,
+      "TOTAL_SHARES_RATIO": 16.20763202,
+      "ALL_SHARES_RATIO": 11.54441542
     },
     {
       "SECUCODE": "300980.SZ",
       "SECURITY_CODE": "300980",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 7145591,
+      "TOTAL_SHARES_RATIO": 7.26610311,
+      "ALL_SHARES_RATIO": 5.17551932
+    },
+    {
+      "SECUCODE": "300980.SZ",
+      "SECURITY_CODE": "300980",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
       "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 992900,
-      "TOTAL_SHARES_RATIO": 1.0096455,
-      "ALL_SHARES_RATIO": 0.71915299
+      "TOTAL_FREE_SHARES": 2598729,
+      "TOTAL_SHARES_RATIO": 2.64255719,
+      "ALL_SHARES_RATIO": 1.88224769
+    },
+    {
+      "SECUCODE": "300980.SZ",
+      "SECURITY_CODE": "300980",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 6194500,
+      "TOTAL_SHARES_RATIO": 6.29897172,
+      "ALL_SHARES_RATIO": 4.48664841
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300980.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "003567",
+      "HOLDER_NAME": "华夏行业景气混合A",
+      "TOTAL_SHARES": 4572991,
+      "HOLD_VALUE": 168103149.16,
+      "TOTALSHARES_RATIO": 3.31219675,
+      "FREESHARES_RATIO": 4.65011559,
+      "FREE_MARKET_CAP": 168103149.16,
+      "FREE_SHARES": 4572991,
+      "SECURITY_CODE": "300980",
+      "FUND_CODE": "003567",
+      "FUND_DERIVECODE": "003567.OF",
+      "NETVALUE_RATIO": 2.03
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300980.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "024928",
+      "HOLDER_NAME": "华夏卓越成长混合A",
+      "TOTAL_SHARES": 1579700,
+      "HOLD_VALUE": 58069772,
+      "TOTALSHARES_RATIO": 1.14416958,
+      "FREESHARES_RATIO": 1.60634202,
+      "FREE_MARKET_CAP": 58069772,
+      "FREE_SHARES": 1579700,
+      "SECURITY_CODE": "300980",
+      "FUND_CODE": "024928",
+      "FUND_DERIVECODE": "024928.OF",
+      "NETVALUE_RATIO": 6.22
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "300980.SZ",

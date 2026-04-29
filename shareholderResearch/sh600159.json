@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 3.13,
       "AVG_HOLD_AMT": 89768.8360801659,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 55.6136632,
+      "FREEHOLD_RATIO_TOTAL": 55.6136632
     },
     {
       "SECUCODE": "600159.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600159.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600159.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600159.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600159.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600159.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600159.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600159.SH",
       "END_DATE": "2013-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600159.SH",
-      "END_DATE": "2013-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600159.SH",
       "SECURITY_CODE": "600159",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京顺义大龙城乡建设开发有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,34 +486,60 @@
     {
       "SECUCODE": "600159.SH",
       "SECURITY_CODE": "600159",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "宿建扬",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 13243600,
-      "FREE_HOLDNUM_RATIO": 1.595608244571,
-      "HOLD_NUM_CHANGE": "3600",
-      "CHANGE_RATIO": 0.02719033
+      "HOLD_NUM": 13237900,
+      "FREE_HOLDNUM_RATIO": 1.594921500257,
+      "HOLD_NUM_CHANGE": "-5700",
+      "CHANGE_RATIO": -0.04303966
     },
     {
       "SECUCODE": "600159.SH",
       "SECURITY_CODE": "600159",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
+      "HOLDER_NAME": "MORGAN STANLEY&CO.INTERNATIONAL PLC.",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6415212,
-      "FREE_HOLDNUM_RATIO": 0.772914098725,
+      "HOLD_NUM": 10340455,
+      "FREE_HOLDNUM_RATIO": 1.245833100563,
+      "HOLD_NUM_CHANGE": "3925243",
+      "CHANGE_RATIO": 61.18648924
+    },
+    {
+      "SECUCODE": "600159.SH",
+      "SECURITY_CODE": "600159",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "UBS AG",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 9478052,
+      "FREE_HOLDNUM_RATIO": 1.141929529258,
+      "HOLD_NUM_CHANGE": "4779975",
+      "CHANGE_RATIO": 101.74322388
+    },
+    {
+      "SECUCODE": "600159.SH",
+      "SECURITY_CODE": "600159",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 8033312,
+      "FREE_HOLDNUM_RATIO": 0.967865146819,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600159.SH",
       "SECURITY_CODE": "600159",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "王淑霞",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -525,100 +551,74 @@
     {
       "SECUCODE": "600159.SH",
       "SECURITY_CODE": "600159",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4892800,
-      "FREE_HOLDNUM_RATIO": 0.589491680437,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 5075600,
+      "FREE_HOLDNUM_RATIO": 0.611515691062,
+      "HOLD_NUM_CHANGE": "182800",
+      "CHANGE_RATIO": 3.73610203
     },
     {
       "SECUCODE": "600159.SH",
       "SECURITY_CODE": "600159",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "MERRILL LYNCH INTERNATIONAL",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4872229,
-      "FREE_HOLDNUM_RATIO": 0.587013256353,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 4807728,
+      "FREE_HOLDNUM_RATIO": 0.579242081795,
+      "HOLD_NUM_CHANGE": "-64501",
+      "CHANGE_RATIO": -1.32384993
     },
     {
       "SECUCODE": "600159.SH",
       "SECURITY_CODE": "600159",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "BARCLAYS BANK PLC",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4749339,
-      "FREE_HOLDNUM_RATIO": 0.572207289911,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600159.SH",
-      "SECURITY_CODE": "600159",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "UBS AG",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4698077,
-      "FREE_HOLDNUM_RATIO": 0.566031169382,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600159.SH",
-      "SECURITY_CODE": "600159",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国民生银行股份有限公司-金元顺安元启灵活配置混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4800000,
+      "FREE_HOLDNUM_RATIO": 0.578311001083,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600159.SH",
+      "SECURITY_CODE": "600159",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "许冬娥",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4300000,
-      "FREE_HOLDNUM_RATIO": 0.518070271803,
-      "HOLD_NUM_CHANGE": "-322400",
-      "CHANGE_RATIO": -6.97473174
-    },
-    {
-      "SECUCODE": "600159.SH",
-      "SECURITY_CODE": "600159",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "刘艳芳",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4104700,
-      "FREE_HOLDNUM_RATIO": 0.494540242947,
-      "HOLD_NUM_CHANGE": "45100",
-      "CHANGE_RATIO": 1.11094689
+      "HOLD_NUM": 4620000,
+      "FREE_HOLDNUM_RATIO": 0.556624338542,
+      "HOLD_NUM_CHANGE": "320000",
+      "CHANGE_RATIO": 7.44186047
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600159.SH",
       "SECURITY_CODE": "600159",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 448478112,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 461595202,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 381525120,
-      "HOLD_NUM_RATIO": 54.03,
+      "OTHER_UNLIMITED_SHARES": 368408030,
+      "HOLD_NUM_RATIO": 55.61,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 45.97
+      "UNLIMITED_SHARES_RATIO": 44.39
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600159.SH",
       "SECURITY_CODE": "600159",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京顺义大龙城乡建设开发有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,32 +630,56 @@
     {
       "SECUCODE": "600159.SH",
       "SECURITY_CODE": "600159",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "宿建扬",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 13243600,
-      "HOLD_NUM_RATIO": 1.6,
-      "HOLD_NUM_CHANGE": "3600",
-      "CHANGE_RATIO": 0.02719033
+      "HOLD_NUM": 13237900,
+      "HOLD_NUM_RATIO": 1.59,
+      "HOLD_NUM_CHANGE": "-5700",
+      "CHANGE_RATIO": -0.04303966
     },
     {
       "SECUCODE": "600159.SH",
       "SECURITY_CODE": "600159",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
+      "HOLDER_NAME": "MORGAN STANLEY&CO.INTERNATIONAL PLC.",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6415212,
-      "HOLD_NUM_RATIO": 0.77,
+      "HOLD_NUM": 10340455,
+      "HOLD_NUM_RATIO": 1.25,
+      "HOLD_NUM_CHANGE": "3925243",
+      "CHANGE_RATIO": 61.18648924
+    },
+    {
+      "SECUCODE": "600159.SH",
+      "SECURITY_CODE": "600159",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "UBS AG",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 9478052,
+      "HOLD_NUM_RATIO": 1.14,
+      "HOLD_NUM_CHANGE": "4779975",
+      "CHANGE_RATIO": 101.74322388
+    },
+    {
+      "SECUCODE": "600159.SH",
+      "SECURITY_CODE": "600159",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 8033312,
+      "HOLD_NUM_RATIO": 0.97,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600159.SH",
       "SECURITY_CODE": "600159",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "王淑霞",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 5285600,
@@ -666,74 +690,50 @@
     {
       "SECUCODE": "600159.SH",
       "SECURITY_CODE": "600159",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4892800,
-      "HOLD_NUM_RATIO": 0.59,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 5075600,
+      "HOLD_NUM_RATIO": 0.61,
+      "HOLD_NUM_CHANGE": "182800",
+      "CHANGE_RATIO": 3.73610203
     },
     {
       "SECUCODE": "600159.SH",
       "SECURITY_CODE": "600159",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "MERRILL LYNCH INTERNATIONAL",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4872229,
-      "HOLD_NUM_RATIO": 0.59,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 4807728,
+      "HOLD_NUM_RATIO": 0.58,
+      "HOLD_NUM_CHANGE": "-64501",
+      "CHANGE_RATIO": -1.32384993
     },
     {
       "SECUCODE": "600159.SH",
       "SECURITY_CODE": "600159",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "BARCLAYS BANK PLC",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4749339,
-      "HOLD_NUM_RATIO": 0.57,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600159.SH",
-      "SECURITY_CODE": "600159",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "UBS AG",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4698077,
-      "HOLD_NUM_RATIO": 0.57,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600159.SH",
-      "SECURITY_CODE": "600159",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国民生银行股份有限公司-金元顺安元启灵活配置混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4800000,
+      "HOLD_NUM_RATIO": 0.58,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600159.SH",
+      "SECURITY_CODE": "600159",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "许冬娥",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4300000,
-      "HOLD_NUM_RATIO": 0.52,
-      "HOLD_NUM_CHANGE": "-322400",
-      "CHANGE_RATIO": -6.97473174
-    },
-    {
-      "SECUCODE": "600159.SH",
-      "SECURITY_CODE": "600159",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "刘艳芳",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4104700,
-      "HOLD_NUM_RATIO": 0.49,
-      "HOLD_NUM_CHANGE": "45100",
-      "CHANGE_RATIO": 1.11094689
+      "HOLD_NUM": 4620000,
+      "HOLD_NUM_RATIO": 0.56,
+      "HOLD_NUM_CHANGE": "320000",
+      "CHANGE_RATIO": 7.44186047
     }
   ],
   "jgcc": [
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "600159",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 9875600,
-      "TOTAL_SHARES_RATIO": 1.18982669,
-      "ALL_SHARES_RATIO": 1.18982669
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 438451702,
+      "TOTAL_SHARES_RATIO": 52.82530056,
+      "ALL_SHARES_RATIO": 52.82530056
     },
     {
       "SECUCODE": "600159.SH",
@@ -756,6 +756,26 @@
       "TOTAL_FREE_SHARES": 9875600,
       "TOTAL_SHARES_RATIO": 1.18982669,
       "ALL_SHARES_RATIO": 1.18982669
+    },
+    {
+      "SECUCODE": "600159.SH",
+      "SECURITY_CODE": "600159",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 32659547,
+      "TOTAL_SHARES_RATIO": 3.93486986,
+      "ALL_SHARES_RATIO": 3.93486986
+    },
+    {
+      "SECUCODE": "600159.SH",
+      "SECURITY_CODE": "600159",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 395916555,
+      "TOTAL_SHARES_RATIO": 47.70060401,
+      "ALL_SHARES_RATIO": 47.70060401
     }
   ],
   "jjcg": [

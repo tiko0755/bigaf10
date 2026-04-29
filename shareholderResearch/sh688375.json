@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 110.91,
       "AVG_HOLD_AMT": 4193884.82165969,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 82.30917566,
+      "FREEHOLD_RATIO_TOTAL": 82.30917566
     },
     {
       "SECUCODE": "688375.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "688375.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "688375.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "688375.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "688375.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "688375.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "688375.SH",
       "END_DATE": "2026-02-25 00:00:00",
@@ -351,28 +356,6 @@
       "HOLD_CHANGE": "-2161443",
       "CHANGE_RATIO": -2.62779854,
       "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-25 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "中电科国微(天津)集成电路芯片合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 83380086,
-      "HOLD_NUM_RATIO": 13.99,
-      "HOLD_CHANGE": "-6022215",
-      "CHANGE_RATIO": -6.73608501,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-03 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "中电科国微(天津)集成电路芯片合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 89402301,
-      "HOLD_NUM_RATIO": 15,
-      "HOLD_CHANGE": "-2608000",
-      "CHANGE_RATIO": -2.83446524,
-      "CHANGE_REASON": "临时公告"
     }
   ],
   "jjcg_date": [
@@ -402,7 +385,7 @@
     {
       "SECUCODE": "688375.SH",
       "SECURITY_CODE": "688375",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中电国基南方集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -415,7 +398,7 @@
     {
       "SECUCODE": "688375.SH",
       "SECURITY_CODE": "688375",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中国电子科技集团公司第五十五研究所",
       "HOLDER_TYPE": "其它",
@@ -428,20 +411,20 @@
     {
       "SECUCODE": "688375.SH",
       "SECURITY_CODE": "688375",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中电科国微(天津)集成电路芯片合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 82252995,
-      "FREE_HOLDNUM_RATIO": 13.800493074921,
-      "HOLD_NUM_CHANGE": "-9757306",
-      "CHANGE_RATIO": -10.60458002
+      "HOLD_NUM": 80091552,
+      "FREE_HOLDNUM_RATIO": 13.437843919674,
+      "HOLD_NUM_CHANGE": "-2161443",
+      "CHANGE_RATIO": -2.62779854
     },
     {
       "SECUCODE": "688375.SH",
       "SECURITY_CODE": "688375",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "天津丰荷科技合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
@@ -454,21 +437,8 @@
     {
       "SECUCODE": "688375.SH",
       "SECURITY_CODE": "688375",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "南京芯锐股权投资合伙企业(有限合伙)",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 22301129,
-      "FREE_HOLDNUM_RATIO": 3.74170662512,
-      "HOLD_NUM_CHANGE": "-5322958",
-      "CHANGE_RATIO": -19.26926309
-    },
-    {
-      "SECUCODE": "688375.SH",
-      "SECURITY_CODE": "688375",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "中电科投资控股有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -480,53 +450,66 @@
     {
       "SECUCODE": "688375.SH",
       "SECURITY_CODE": "688375",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国工商银行股份有限公司-华夏军工安全灵活配置混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "南京芯锐股权投资合伙企业(有限合伙)",
+      "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9099323,
-      "FREE_HOLDNUM_RATIO": 1.526693879633,
-      "HOLD_NUM_CHANGE": "-1793307",
-      "CHANGE_RATIO": -16.46348953
+      "HOLD_NUM": 18701378,
+      "FREE_HOLDNUM_RATIO": 3.137736657255,
+      "HOLD_NUM_CHANGE": "-3599751",
+      "CHANGE_RATIO": -16.14156395
     },
     {
       "SECUCODE": "688375.SH",
       "SECURITY_CODE": "688375",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "招商银行股份有限公司-华夏上证科创板50成份交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "招商银行股份有限公司-永赢高端装备智选混合型发起式证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6706460,
-      "FREE_HOLDNUM_RATIO": 1.125216836022,
+      "HOLD_NUM": 7747822,
+      "FREE_HOLDNUM_RATIO": 1.299937635787,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688375.SH",
       "SECURITY_CODE": "688375",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国工商银行股份有限公司-易方达上证科创板50成份交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "招商银行股份有限公司-华夏上证科创板50成份交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6671296,
-      "FREE_HOLDNUM_RATIO": 1.119316983518,
-      "HOLD_NUM_CHANGE": "3815228",
-      "CHANGE_RATIO": 133.58323401
+      "HOLD_NUM": 6183026,
+      "FREE_HOLDNUM_RATIO": 1.037394534935,
+      "HOLD_NUM_CHANGE": "-523434",
+      "CHANGE_RATIO": -7.80492242
     },
     {
       "SECUCODE": "688375.SH",
       "SECURITY_CODE": "688375",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国农业银行股份有限公司-长城久嘉创新成长灵活配置混合型证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国工商银行股份有限公司-华夏军工安全灵活配置混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3800000,
-      "FREE_HOLDNUM_RATIO": 0.637567953419,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 5822202,
+      "FREE_HOLDNUM_RATIO": 0.976855108824,
+      "HOLD_NUM_CHANGE": "-3277121",
+      "CHANGE_RATIO": -36.01499804
+    },
+    {
+      "SECUCODE": "688375.SH",
+      "SECURITY_CODE": "688375",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中信建投证券股份有限公司-永赢国证商用卫星通信产业交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4663905,
+      "FREE_HOLDNUM_RATIO": 0.782514833102,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -534,20 +517,20 @@
     {
       "SECUCODE": "688375.SH",
       "SECURITY_CODE": "688375",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 498196269,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 490574951,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 97818631,
-      "HOLD_NUM_RATIO": 83.59,
+      "OTHER_UNLIMITED_SHARES": 105439949,
+      "HOLD_NUM_RATIO": 82.31,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 16.41
+      "UNLIMITED_SHARES_RATIO": 17.69
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "688375.SH",
       "SECURITY_CODE": "688375",
-      "END_DATE": "2026-02-25 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中电国基南方集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -559,7 +542,7 @@
     {
       "SECUCODE": "688375.SH",
       "SECURITY_CODE": "688375",
-      "END_DATE": "2026-02-25 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中国电子科技集团公司第五十五研究所",
       "SHARES_TYPE": "流通A股",
@@ -571,14 +554,98 @@
     {
       "SECUCODE": "688375.SH",
       "SECURITY_CODE": "688375",
-      "END_DATE": "2026-02-25 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中电科国微(天津)集成电路芯片合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 80091552,
       "HOLD_NUM_RATIO": 13.44,
-      "HOLD_NUM_CHANGE": "-2161443",
-      "CHANGE_RATIO": -2.62779854
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688375.SH",
+      "SECURITY_CODE": "688375",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "天津丰荷科技合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 29522129,
+      "HOLD_NUM_RATIO": 4.95,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688375.SH",
+      "SECURITY_CODE": "688375",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中电科投资控股有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 21726640,
+      "HOLD_NUM_RATIO": 3.65,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688375.SH",
+      "SECURITY_CODE": "688375",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "南京芯锐股权投资合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 18701378,
+      "HOLD_NUM_RATIO": 3.14,
+      "HOLD_NUM_CHANGE": "-3599751",
+      "CHANGE_RATIO": -16.14156395
+    },
+    {
+      "SECUCODE": "688375.SH",
+      "SECURITY_CODE": "688375",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "招商银行股份有限公司-永赢高端装备智选混合型发起式证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7747822,
+      "HOLD_NUM_RATIO": 1.3,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688375.SH",
+      "SECURITY_CODE": "688375",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "招商银行股份有限公司-华夏上证科创板50成份交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6183026,
+      "HOLD_NUM_RATIO": 1.04,
+      "HOLD_NUM_CHANGE": "-523434",
+      "CHANGE_RATIO": -7.80492242
+    },
+    {
+      "SECUCODE": "688375.SH",
+      "SECURITY_CODE": "688375",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国工商银行股份有限公司-华夏军工安全灵活配置混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5822202,
+      "HOLD_NUM_RATIO": 0.98,
+      "HOLD_NUM_CHANGE": "-3277121",
+      "CHANGE_RATIO": -36.01499804
+    },
+    {
+      "SECUCODE": "688375.SH",
+      "SECURITY_CODE": "688375",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中信建投证券股份有限公司-永赢国证商用卫星通信产业交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4663905,
+      "HOLD_NUM_RATIO": 0.78,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
@@ -587,20 +654,30 @@
       "SECURITY_CODE": "688375",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 26,
-      "TOTAL_FREE_SHARES": 32947386,
-      "TOTAL_SHARES_RATIO": 5.52794671,
-      "ALL_SHARES_RATIO": 5.52794671
+      "TOTAL_ORG_NUM": 33,
+      "TOTAL_FREE_SHARES": 505288408,
+      "TOTAL_SHARES_RATIO": 84.77781479,
+      "ALL_SHARES_RATIO": 84.77781479
     },
     {
       "SECUCODE": "688375.SH",
       "SECURITY_CODE": "688375",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 26,
-      "TOTAL_FREE_SHARES": 32947386,
-      "TOTAL_SHARES_RATIO": 5.52794671,
-      "ALL_SHARES_RATIO": 5.52794671
+      "TOTAL_ORG_NUM": 27,
+      "TOTAL_FREE_SHARES": 39130412,
+      "TOTAL_SHARES_RATIO": 6.56534124,
+      "ALL_SHARES_RATIO": 6.56534124
+    },
+    {
+      "SECUCODE": "688375.SH",
+      "SECURITY_CODE": "688375",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 466157996,
+      "TOTAL_SHARES_RATIO": 78.21247355,
+      "ALL_SHARES_RATIO": 78.21247355
     }
   ],
   "jjcg": [
@@ -620,6 +697,23 @@
       "FUND_CODE": "015789",
       "FUND_DERIVECODE": "015789.OF",
       "NETVALUE_RATIO": 4.54
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "688375.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "588000",
+      "HOLDER_NAME": "华夏上证科创板50成份ETF",
+      "TOTAL_SHARES": 6183026,
+      "HOLD_VALUE": 685759413.66,
+      "TOTALSHARES_RATIO": 1.03739453,
+      "FREESHARES_RATIO": 1.03739453,
+      "FREE_MARKET_CAP": 685759413.66,
+      "FREE_SHARES": 6183026,
+      "SECURITY_CODE": "688375",
+      "FUND_CODE": "588000",
+      "FUND_DERIVECODE": "588000.SH",
+      "NETVALUE_RATIO": 1
     },
     {
       "ORG_TYPE": "01",

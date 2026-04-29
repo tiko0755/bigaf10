@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 2.33,
       "AVG_HOLD_AMT": 102235.674476818,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 67.30124747,
+      "FREEHOLD_RATIO_TOTAL": 67.31237399
     },
     {
       "SECUCODE": "000709.SZ",
@@ -53,8 +53,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 2.31,
       "AVG_HOLD_AMT": 103085.922078834,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 67.87904602,
+      "FREEHOLD_RATIO_TOTAL": 67.89026807
     },
     {
       "SECUCODE": "000709.SZ",
@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000709.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000709.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000709.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "000709.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000709.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000709.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000709.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000709.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000709.SZ",
       "END_DATE": "2025-09-30 00:00:00",
@@ -403,16 +413,6 @@
       "SECUCODE": "000709.SZ",
       "END_DATE": "2015-09-01 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "000709.SZ",
-      "END_DATE": "2015-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000709.SZ",
-      "END_DATE": "2015-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "000709.SZ",
       "SECURITY_CODE": "000709",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "邯郸钢铁集团有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "000709.SZ",
       "SECURITY_CODE": "000709",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "唐山钢铁集团有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "000709.SZ",
       "SECURITY_CODE": "000709",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "承德钢铁集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -512,21 +512,8 @@
     {
       "SECUCODE": "000709.SZ",
       "SECURITY_CODE": "000709",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 92155331,
-      "FREE_HOLDNUM_RATIO": 0.891646384791,
-      "HOLD_NUM_CHANGE": "8528030",
-      "CHANGE_RATIO": 10.1976626
-    },
-    {
-      "SECUCODE": "000709.SZ",
-      "SECURITY_CODE": "000709",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "河北钢铁集团矿业有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -538,66 +525,79 @@
     {
       "SECUCODE": "000709.SZ",
       "SECURITY_CODE": "000709",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 68735393,
+      "FREE_HOLDNUM_RATIO": 0.665047415169,
+      "HOLD_NUM_CHANGE": "-21891736",
+      "CHANGE_RATIO": -24.15583087
+    },
+    {
+      "SECUCODE": "000709.SZ",
+      "SECURITY_CODE": "000709",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "廖强",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 61482306,
-      "FREE_HOLDNUM_RATIO": 0.594870370261,
-      "HOLD_NUM_CHANGE": "-2400",
-      "CHANGE_RATIO": -0.00390341
-    },
-    {
-      "SECUCODE": "000709.SZ",
-      "SECURITY_CODE": "000709",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 60123800,
-      "FREE_HOLDNUM_RATIO": 0.581726182611,
-      "HOLD_NUM_CHANGE": "-1242700",
-      "CHANGE_RATIO": -2.02504624
-    },
-    {
-      "SECUCODE": "000709.SZ",
-      "SECURITY_CODE": "000709",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "招商银行股份有限公司-国泰中证钢铁交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 41548300,
-      "FREE_HOLDNUM_RATIO": 0.401999440371,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000709.SZ",
-      "SECURITY_CODE": "000709",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "叶元朋",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 39666600,
-      "FREE_HOLDNUM_RATIO": 0.383793103483,
+      "HOLD_NUM": 61482206,
+      "FREE_HOLDNUM_RATIO": 0.594869402714,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000709.SZ",
       "SECURITY_CODE": "000709",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "寿宁投资管理(上海)有限公司-寿宁海韵79号私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "叶元朋",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 30766701,
-      "FREE_HOLDNUM_RATIO": 0.297682374106,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM": 36076400,
+      "FREE_HOLDNUM_RATIO": 0.349056221569,
+      "HOLD_NUM_CHANGE": "-139700",
+      "CHANGE_RATIO": -0.38574004
+    },
+    {
+      "SECUCODE": "000709.SZ",
+      "SECURITY_CODE": "000709",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "招商银行股份有限公司-国泰中证钢铁交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 35097100,
+      "FREE_HOLDNUM_RATIO": 0.339581031201,
+      "HOLD_NUM_CHANGE": "-8059200",
+      "CHANGE_RATIO": -18.67444614
+    },
+    {
+      "SECUCODE": "000709.SZ",
+      "SECURITY_CODE": "000709",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 31104700,
+      "FREE_HOLDNUM_RATIO": 0.300952674187,
+      "HOLD_NUM_CHANGE": "-29637100",
+      "CHANGE_RATIO": -48.7919357
+    },
+    {
+      "SECUCODE": "000709.SZ",
+      "SECURITY_CODE": "000709",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "郭晓全",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 29278600,
+      "FREE_HOLDNUM_RATIO": 0.283284293578,
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "000709.SZ",
       "SECURITY_CODE": "000709",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 7020980086,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 6957011447,
       "LIMITED_SHARES": 1708694,
-      "OTHER_UNLIMITED_SHARES": 3314432312,
-      "HOLD_NUM_RATIO": 67.92,
+      "OTHER_UNLIMITED_SHARES": 3378400951,
+      "HOLD_NUM_RATIO": 67.3,
       "LIMITED_SHARES_RATIO": 0.02,
-      "UNLIMITED_SHARES_RATIO": 32.06
+      "UNLIMITED_SHARES_RATIO": 32.68
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "000709.SZ",
       "SECURITY_CODE": "000709",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "邯郸钢铁集团有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "000709.SZ",
       "SECURITY_CODE": "000709",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "唐山钢铁集团有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "000709.SZ",
       "SECURITY_CODE": "000709",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "承德钢铁集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,20 +654,8 @@
     {
       "SECUCODE": "000709.SZ",
       "SECURITY_CODE": "000709",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 92155331,
-      "HOLD_NUM_RATIO": 0.89,
-      "HOLD_NUM_CHANGE": "8528030",
-      "CHANGE_RATIO": 10.1976626
-    },
-    {
-      "SECUCODE": "000709.SZ",
-      "SECURITY_CODE": "000709",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "河北钢铁集团矿业有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 91970260,
@@ -678,61 +666,73 @@
     {
       "SECUCODE": "000709.SZ",
       "SECURITY_CODE": "000709",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 68735393,
+      "HOLD_NUM_RATIO": 0.66,
+      "HOLD_NUM_CHANGE": "-21891736",
+      "CHANGE_RATIO": -24.15583087
+    },
+    {
+      "SECUCODE": "000709.SZ",
+      "SECURITY_CODE": "000709",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "廖强",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 61482306,
+      "HOLD_NUM": 61482206,
       "HOLD_NUM_RATIO": 0.59,
-      "HOLD_NUM_CHANGE": "-2400",
-      "CHANGE_RATIO": -0.00390341
-    },
-    {
-      "SECUCODE": "000709.SZ",
-      "SECURITY_CODE": "000709",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 60123800,
-      "HOLD_NUM_RATIO": 0.58,
-      "HOLD_NUM_CHANGE": "-1242700",
-      "CHANGE_RATIO": -2.02504624
-    },
-    {
-      "SECUCODE": "000709.SZ",
-      "SECURITY_CODE": "000709",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "招商银行股份有限公司-国泰中证钢铁交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 41548300,
-      "HOLD_NUM_RATIO": 0.4,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000709.SZ",
-      "SECURITY_CODE": "000709",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "叶元朋",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 39666600,
-      "HOLD_NUM_RATIO": 0.38,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000709.SZ",
       "SECURITY_CODE": "000709",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "寿宁投资管理(上海)有限公司-寿宁海韵79号私募证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "叶元朋",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 30766701,
+      "HOLD_NUM": 36076400,
+      "HOLD_NUM_RATIO": 0.35,
+      "HOLD_NUM_CHANGE": "-139700",
+      "CHANGE_RATIO": -0.38574004
+    },
+    {
+      "SECUCODE": "000709.SZ",
+      "SECURITY_CODE": "000709",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "招商银行股份有限公司-国泰中证钢铁交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 35097100,
+      "HOLD_NUM_RATIO": 0.34,
+      "HOLD_NUM_CHANGE": "-8059200",
+      "CHANGE_RATIO": -18.67444614
+    },
+    {
+      "SECUCODE": "000709.SZ",
+      "SECURITY_CODE": "000709",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 31104700,
       "HOLD_NUM_RATIO": 0.3,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "-29637100",
+      "CHANGE_RATIO": -48.7919357
+    },
+    {
+      "SECUCODE": "000709.SZ",
+      "SECURITY_CODE": "000709",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "郭晓全",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 29278600,
+      "HOLD_NUM_RATIO": 0.28,
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -742,23 +742,67 @@
       "SECURITY_CODE": "000709",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 1831100,
-      "TOTAL_SHARES_RATIO": 0.01771676,
-      "ALL_SHARES_RATIO": 0.01771383
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 6832005341,
+      "TOTAL_SHARES_RATIO": 66.10288083,
+      "ALL_SHARES_RATIO": 66.09195424
     },
     {
       "SECUCODE": "000709.SZ",
       "SECURITY_CODE": "000709",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 1831100,
-      "TOTAL_SHARES_RATIO": 0.01771676,
-      "ALL_SHARES_RATIO": 0.01771383
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 68032900,
+      "TOTAL_SHARES_RATIO": 0.65825046,
+      "ALL_SHARES_RATIO": 0.65814166
+    },
+    {
+      "SECUCODE": "000709.SZ",
+      "SECURITY_CODE": "000709",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 6763972441,
+      "TOTAL_SHARES_RATIO": 65.44463037,
+      "ALL_SHARES_RATIO": 65.43381258
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "000709.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "515210",
+      "HOLDER_NAME": "国泰中证钢铁ETF",
+      "TOTAL_SHARES": 35097100,
+      "HOLD_VALUE": 81776243,
+      "TOTALSHARES_RATIO": 0.3395249,
+      "FREESHARES_RATIO": 0.33958103,
+      "FREE_MARKET_CAP": 81776243,
+      "FREE_SHARES": 35097100,
+      "SECURITY_CODE": "000709",
+      "FUND_CODE": "515210",
+      "FUND_DERIVECODE": "515210.SH",
+      "NETVALUE_RATIO": 2.56
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "000709.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "510500",
+      "HOLDER_NAME": "南方中证500ETF",
+      "TOTAL_SHARES": 31104700,
+      "HOLD_VALUE": 72473951,
+      "TOTALSHARES_RATIO": 0.30090293,
+      "FREESHARES_RATIO": 0.30095267,
+      "FREE_MARKET_CAP": 72473951,
+      "FREE_SHARES": 31104700,
+      "SECURITY_CODE": "000709",
+      "FUND_CODE": "510500",
+      "FUND_DERIVECODE": "510500.SH",
+      "NETVALUE_RATIO": 0.1
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "000709.SZ",

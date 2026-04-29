@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 12.11,
       "AVG_HOLD_AMT": 341425.960465116,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 60.71586161,
+      "FREEHOLD_RATIO_TOTAL": 60.71586161
     },
     {
       "SECUCODE": "600191.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600191.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600191.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600191.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600191.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600191.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600191.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600191.SH",
       "END_DATE": "2014-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600191.SH",
-      "END_DATE": "2014-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "600191.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "600191.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "600191.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600191.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600191.SH",
       "SECURITY_CODE": "600191",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "海南盛泰创发实业有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600191.SH",
       "SECURITY_CODE": "600191",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "世通投资(山东)有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "600191.SH",
       "SECURITY_CODE": "600191",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "广东南传私募基金管理有限公司-南传烽火5号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
@@ -512,33 +512,33 @@
     {
       "SECUCODE": "600191.SH",
       "SECURITY_CODE": "600191",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "靖江市飞天投资有限公司-飞天冠耀增值2号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12798829,
-      "FREE_HOLDNUM_RATIO": 2.63930386116,
-      "HOLD_NUM_CHANGE": "-904200",
-      "CHANGE_RATIO": -6.5985411
+      "HOLD_NUM": 12340829,
+      "FREE_HOLDNUM_RATIO": 2.544857629523,
+      "HOLD_NUM_CHANGE": "-458000",
+      "CHANGE_RATIO": -3.57845237
     },
     {
       "SECUCODE": "600191.SH",
       "SECURITY_CODE": "600191",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "连绍琦",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "上海九益私募基金管理有限公司-九益复合策略2号私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5635000,
-      "FREE_HOLDNUM_RATIO": 1.162018592297,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 5420900,
+      "FREE_HOLDNUM_RATIO": 1.117868072225,
+      "HOLD_NUM_CHANGE": "673700",
+      "CHANGE_RATIO": 14.19152342
     },
     {
       "SECUCODE": "600191.SH",
       "SECURITY_CODE": "600191",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "山东裕昇农业投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -551,21 +551,8 @@
     {
       "SECUCODE": "600191.SH",
       "SECURITY_CODE": "600191",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "上海九益私募基金管理有限公司-九益复合策略2号私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4747200,
-      "FREE_HOLDNUM_RATIO": 0.978941377348,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600191.SH",
-      "SECURITY_CODE": "600191",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "曹明清",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -577,26 +564,39 @@
     {
       "SECUCODE": "600191.SH",
       "SECURITY_CODE": "600191",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "王小凤",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 3563200,
       "FREE_HOLDNUM_RATIO": 0.734783433554,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600191.SH",
       "SECURITY_CODE": "600191",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "钱立龙",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 3041300,
       "FREE_HOLDNUM_RATIO": 0.627160096673,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600191.SH",
+      "SECURITY_CODE": "600191",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "陈素兰",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2854700,
+      "FREE_HOLDNUM_RATIO": 0.588680474788,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "600191.SH",
       "SECURITY_CODE": "600191",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 296995242,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 294430642,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 187936758,
-      "HOLD_NUM_RATIO": 61.24,
+      "OTHER_UNLIMITED_SHARES": 190501358,
+      "HOLD_NUM_RATIO": 60.72,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 38.76
+      "UNLIMITED_SHARES_RATIO": 39.28
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600191.SH",
       "SECURITY_CODE": "600191",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "海南盛泰创发实业有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600191.SH",
       "SECURITY_CODE": "600191",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "世通投资(山东)有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "600191.SH",
       "SECURITY_CODE": "600191",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "广东南传私募基金管理有限公司-南传烽火5号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
@@ -654,31 +654,31 @@
     {
       "SECUCODE": "600191.SH",
       "SECURITY_CODE": "600191",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "靖江市飞天投资有限公司-飞天冠耀增值2号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 12798829,
-      "HOLD_NUM_RATIO": 2.64,
-      "HOLD_NUM_CHANGE": "-904200",
-      "CHANGE_RATIO": -6.5985411
+      "HOLD_NUM": 12340829,
+      "HOLD_NUM_RATIO": 2.54,
+      "HOLD_NUM_CHANGE": "-458000",
+      "CHANGE_RATIO": -3.57845237
     },
     {
       "SECUCODE": "600191.SH",
       "SECURITY_CODE": "600191",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "连绍琦",
+      "HOLDER_NAME": "上海九益私募基金管理有限公司-九益复合策略2号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5635000,
-      "HOLD_NUM_RATIO": 1.16,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 5420900,
+      "HOLD_NUM_RATIO": 1.12,
+      "HOLD_NUM_CHANGE": "673700",
+      "CHANGE_RATIO": 14.19152342
     },
     {
       "SECUCODE": "600191.SH",
       "SECURITY_CODE": "600191",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "山东裕昇农业投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -690,20 +690,8 @@
     {
       "SECUCODE": "600191.SH",
       "SECURITY_CODE": "600191",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "上海九益私募基金管理有限公司-九益复合策略2号私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4747200,
-      "HOLD_NUM_RATIO": 0.98,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600191.SH",
-      "SECURITY_CODE": "600191",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "曹明清",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3754100,
@@ -714,24 +702,36 @@
     {
       "SECUCODE": "600191.SH",
       "SECURITY_CODE": "600191",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "王小凤",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3563200,
       "HOLD_NUM_RATIO": 0.73,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600191.SH",
       "SECURITY_CODE": "600191",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "钱立龙",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3041300,
       "HOLD_NUM_RATIO": 0.63,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600191.SH",
+      "SECURITY_CODE": "600191",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "陈素兰",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2854700,
+      "HOLD_NUM_RATIO": 0.59,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -740,32 +740,22 @@
     {
       "SECUCODE": "600191.SH",
       "SECURITY_CODE": "600191",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 22,
-      "TOTAL_FREE_SHARES": 281420742,
-      "TOTAL_SHARES_RATIO": 58.03303186,
-      "ALL_SHARES_RATIO": 58.03303186
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 281217342,
+      "TOTAL_SHARES_RATIO": 57.99108783,
+      "ALL_SHARES_RATIO": 57.99108783
     },
     {
       "SECUCODE": "600191.SH",
       "SECURITY_CODE": "600191",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 16,
-      "TOTAL_FREE_SHARES": 419100,
-      "TOTAL_SHARES_RATIO": 0.08642449,
-      "ALL_SHARES_RATIO": 0.08642449
-    },
-    {
-      "SECUCODE": "600191.SH",
-      "SECURITY_CODE": "600191",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 281001642,
-      "TOTAL_SHARES_RATIO": 57.94660737,
-      "ALL_SHARES_RATIO": 57.94660737
+      "TOTAL_FREE_SHARES": 281217342,
+      "TOTAL_SHARES_RATIO": 57.99108783,
+      "ALL_SHARES_RATIO": 57.99108783
     }
   ],
   "jjcg": [

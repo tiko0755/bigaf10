@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 23.7,
       "AVG_HOLD_AMT": 474090.415020805,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 25.14003841,
+      "FREEHOLD_RATIO_TOTAL": 25.14003841
     },
     {
       "SECUCODE": "688518.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "688518.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "688518.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "688518.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "688518.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "688518.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "688518.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "688518.SH",
       "END_DATE": "2015-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "688518.SH",
-      "END_DATE": "2015-12-18 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "688518.SH",
       "SECURITY_CODE": "688518",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "韩金龙",
       "HOLDER_TYPE": "个人",
@@ -486,47 +486,34 @@
     {
       "SECUCODE": "688518.SH",
       "SECURITY_CODE": "688518",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "牛增强",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 9926646,
       "FREE_HOLDNUM_RATIO": 2.908267263501,
-      "HOLD_NUM_CHANGE": "-3000000",
-      "CHANGE_RATIO": -23.2078762
-    },
-    {
-      "SECUCODE": "688518.SH",
-      "SECURITY_CODE": "688518",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "深圳市汇通金控基金投资有限公司",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9241314,
-      "FREE_HOLDNUM_RATIO": 2.707481558014,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688518.SH",
       "SECURITY_CODE": "688518",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "上海浦东发展银行股份有限公司-景顺长城新能源产业股票型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "深圳市汇通金控基金投资有限公司",
+      "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8254313,
-      "FREE_HOLDNUM_RATIO": 2.418314129525,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 9165415,
+      "FREE_HOLDNUM_RATIO": 2.685244986162,
+      "HOLD_NUM_CHANGE": "-75899",
+      "CHANGE_RATIO": -0.82130095
     },
     {
       "SECUCODE": "688518.SH",
       "SECURITY_CODE": "688518",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "李瑾",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -538,7 +525,20 @@
     {
       "SECUCODE": "688518.SH",
       "SECURITY_CODE": "688518",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "上海浦东发展银行股份有限公司-景顺长城新能源产业股票型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7009057,
+      "FREE_HOLDNUM_RATIO": 2.053484230335,
+      "HOLD_NUM_CHANGE": "-1245256",
+      "CHANGE_RATIO": -15.08612528
+    },
+    {
+      "SECUCODE": "688518.SH",
+      "SECURITY_CODE": "688518",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "国家制造业转型升级基金股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -551,21 +551,34 @@
     {
       "SECUCODE": "688518.SH",
       "SECURITY_CODE": "688518",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
+      "HOLDER_NAME": "全国社保基金四一三组合",
+      "HOLDER_TYPE": "全国社保基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4251295,
-      "FREE_HOLDNUM_RATIO": 1.245526643741,
+      "HOLD_NUM": 5134725,
+      "FREE_HOLDNUM_RATIO": 1.504350273454,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688518.SH",
       "SECURITY_CODE": "688518",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4687886,
+      "FREE_HOLDNUM_RATIO": 1.37343725049,
+      "HOLD_NUM_CHANGE": "436591",
+      "CHANGE_RATIO": 10.2696002
+    },
+    {
+      "SECUCODE": "688518.SH",
+      "SECURITY_CODE": "688518",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "贾松",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -577,48 +590,35 @@
     {
       "SECUCODE": "688518.SH",
       "SECURITY_CODE": "688518",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "赖吉水",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3813357,
-      "FREE_HOLDNUM_RATIO": 1.117221398561,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688518.SH",
-      "SECURITY_CODE": "688518",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "壹点纳锦(泉州)私募基金管理有限公司-壹点纳锦宏亚私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3699160,
-      "FREE_HOLDNUM_RATIO": 1.083764438709,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3907992,
+      "FREE_HOLDNUM_RATIO": 1.1449471654,
+      "HOLD_NUM_CHANGE": "208832",
+      "CHANGE_RATIO": 5.64538976
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "688518.SH",
       "SECURITY_CODE": "688518",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 85163624,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 85809260,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 256161471,
-      "HOLD_NUM_RATIO": 24.95,
+      "OTHER_UNLIMITED_SHARES": 255515835,
+      "HOLD_NUM_RATIO": 25.14,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 75.05
+      "UNLIMITED_SHARES_RATIO": 74.86
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "688518.SH",
       "SECURITY_CODE": "688518",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "韩金龙",
       "SHARES_TYPE": "流通A股",
@@ -630,44 +630,32 @@
     {
       "SECUCODE": "688518.SH",
       "SECURITY_CODE": "688518",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "牛增强",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 9926646,
       "HOLD_NUM_RATIO": 2.91,
-      "HOLD_NUM_CHANGE": "-3000000",
-      "CHANGE_RATIO": -23.2078762
-    },
-    {
-      "SECUCODE": "688518.SH",
-      "SECURITY_CODE": "688518",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "深圳市汇通金控基金投资有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9241314,
-      "HOLD_NUM_RATIO": 2.71,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688518.SH",
       "SECURITY_CODE": "688518",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "上海浦东发展银行股份有限公司-景顺长城新能源产业股票型证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "深圳市汇通金控基金投资有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8254313,
-      "HOLD_NUM_RATIO": 2.42,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 9165415,
+      "HOLD_NUM_RATIO": 2.69,
+      "HOLD_NUM_CHANGE": "-75899",
+      "CHANGE_RATIO": -0.82130095
     },
     {
       "SECUCODE": "688518.SH",
       "SECURITY_CODE": "688518",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "李瑾",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 7824600,
@@ -678,7 +666,19 @@
     {
       "SECUCODE": "688518.SH",
       "SECURITY_CODE": "688518",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "上海浦东发展银行股份有限公司-景顺长城新能源产业股票型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7009057,
+      "HOLD_NUM_RATIO": 2.05,
+      "HOLD_NUM_CHANGE": "-1245256",
+      "CHANGE_RATIO": -15.08612528
+    },
+    {
+      "SECUCODE": "688518.SH",
+      "SECURITY_CODE": "688518",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "国家制造业转型升级基金股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -690,20 +690,32 @@
     {
       "SECUCODE": "688518.SH",
       "SECURITY_CODE": "688518",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_NAME": "全国社保基金四一三组合",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4251295,
-      "HOLD_NUM_RATIO": 1.25,
+      "HOLD_NUM": 5134725,
+      "HOLD_NUM_RATIO": 1.5,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688518.SH",
       "SECURITY_CODE": "688518",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4687886,
+      "HOLD_NUM_RATIO": 1.37,
+      "HOLD_NUM_CHANGE": "436591",
+      "CHANGE_RATIO": 10.2696002
+    },
+    {
+      "SECUCODE": "688518.SH",
+      "SECURITY_CODE": "688518",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "贾松",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3923996,
@@ -714,26 +726,14 @@
     {
       "SECUCODE": "688518.SH",
       "SECURITY_CODE": "688518",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "赖吉水",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3813357,
-      "HOLD_NUM_RATIO": 1.12,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688518.SH",
-      "SECURITY_CODE": "688518",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "壹点纳锦(泉州)私募基金管理有限公司-壹点纳锦宏亚私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3699160,
-      "HOLD_NUM_RATIO": 1.08,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3907992,
+      "HOLD_NUM_RATIO": 1.14,
+      "HOLD_NUM_CHANGE": "208832",
+      "CHANGE_RATIO": 5.64538976
     }
   ],
   "jgcc": [
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "688518",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 15,
-      "TOTAL_FREE_SHARES": 13264893,
-      "TOTAL_SHARES_RATIO": 3.88629293,
-      "ALL_SHARES_RATIO": 3.88629293
+      "TOTAL_ORG_NUM": 20,
+      "TOTAL_FREE_SHARES": 41665498,
+      "TOTAL_SHARES_RATIO": 12.20698351,
+      "ALL_SHARES_RATIO": 12.20698351
     },
     {
       "SECUCODE": "688518.SH",
@@ -756,6 +756,26 @@
       "TOTAL_FREE_SHARES": 13264893,
       "TOTAL_SHARES_RATIO": 3.88629293,
       "ALL_SHARES_RATIO": 3.88629293
+    },
+    {
+      "SECUCODE": "688518.SH",
+      "SECURITY_CODE": "688518",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 5134725,
+      "TOTAL_SHARES_RATIO": 1.50435027,
+      "ALL_SHARES_RATIO": 1.50435027
+    },
+    {
+      "SECUCODE": "688518.SH",
+      "SECURITY_CODE": "688518",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 23265880,
+      "TOTAL_SHARES_RATIO": 6.81634031,
+      "ALL_SHARES_RATIO": 6.81634031
     }
   ],
   "jjcg": [

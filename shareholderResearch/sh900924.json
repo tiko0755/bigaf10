@@ -11,8 +11,8 @@
       "HOLD_FOCUS": null,
       "PRICE": 0.346,
       "AVG_HOLD_AMT": 2625.56236385691,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 20.75203661,
+      "FREEHOLD_RATIO_TOTAL": 20.75203661
     },
     {
       "SECUCODE": "900924.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "900924.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "900924.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "900924.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "900924.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "900924.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "900924.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "900924.SH",
       "END_DATE": "2015-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "900924.SH",
-      "END_DATE": "2015-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "900924.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "900924.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "900924.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "900924.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -452,7 +452,7 @@
     {
       "SECUCODE": "900924.SH",
       "SECURITY_CODE": "900924",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海浦科飞人投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -465,7 +465,7 @@
     {
       "SECUCODE": "900924.SH",
       "SECURITY_CODE": "900924",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "上海市浦东新区国有资产监督管理委员会",
       "HOLDER_TYPE": "其它",
@@ -478,20 +478,20 @@
     {
       "SECUCODE": "900924.SH",
       "SECURITY_CODE": "900924",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中信证券经纪(香港)有限公司",
       "HOLDER_TYPE": "证券公司",
       "SHARES_TYPE": "B股",
-      "HOLD_NUM": 21776797,
-      "FREE_HOLDNUM_RATIO": 3.053536251451,
-      "HOLD_NUM_CHANGE": "6573085",
-      "CHANGE_RATIO": 43.23342221
+      "HOLD_NUM": 24958195,
+      "FREE_HOLDNUM_RATIO": 3.499630969756,
+      "HOLD_NUM_CHANGE": "3181398",
+      "CHANGE_RATIO": 14.60911814
     },
     {
       "SECUCODE": "900924.SH",
       "SECURITY_CODE": "900924",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "谢作纲",
       "HOLDER_TYPE": "个人",
@@ -504,22 +504,22 @@
     {
       "SECUCODE": "900924.SH",
       "SECURITY_CODE": "900924",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "GUOTAIJUNAN SECURITIES(HONGKONG)LIMITED",
+      "HOLDER_NAME": "GUOTAIJUNANSECURITIES(HONG KONG)LIMITED",
       "HOLDER_TYPE": "证券公司",
       "SHARES_TYPE": "B股",
       "HOLD_NUM": 3119315,
       "FREE_HOLDNUM_RATIO": 0.437389457788,
-      "HOLD_NUM_CHANGE": "-249900",
-      "CHANGE_RATIO": -7.417158
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "900924.SH",
       "SECURITY_CODE": "900924",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "KGI ASIA LIMITED",
+      "HOLDER_NAME": "KGIASIALIMITED",
       "HOLDER_TYPE": "证券公司",
       "SHARES_TYPE": "B股",
       "HOLD_NUM": 3007040,
@@ -530,7 +530,7 @@
     {
       "SECUCODE": "900924.SH",
       "SECURITY_CODE": "900924",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "林永塡",
       "HOLDER_TYPE": "个人",
@@ -543,61 +543,61 @@
     {
       "SECUCODE": "900924.SH",
       "SECURITY_CODE": "900924",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
+      "HOLDER_NAME": "徐晖",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2662498,
-      "FREE_HOLDNUM_RATIO": 0.373334708608,
+      "HOLD_NUM": 1750000,
+      "FREE_HOLDNUM_RATIO": 0.245384499844,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "900924.SH",
       "SECURITY_CODE": "900924",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "高盛国际-自有资金",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2345018,
-      "FREE_HOLDNUM_RATIO": 0.328817753745,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "900924.SH",
-      "SECURITY_CODE": "900924",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "BOCI SECURITIES LIMITED",
+      "HOLDER_NAME": "BOCISECURITIESLIMITED",
       "HOLDER_TYPE": "证券公司",
       "SHARES_TYPE": "B股",
       "HOLD_NUM": 1743987,
       "FREE_HOLDNUM_RATIO": 0.244541358702,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "900924.SH",
+      "SECURITY_CODE": "900924",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1656174,
+      "FREE_HOLDNUM_RATIO": 0.232228244939,
+      "HOLD_NUM_CHANGE": "-1006324",
+      "CHANGE_RATIO": -37.79623496
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "900924.SH",
       "SECURITY_CODE": "900924",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 146416513,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 147996569,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 566749967,
-      "HOLD_NUM_RATIO": 20.53,
+      "OTHER_UNLIMITED_SHARES": 565169911,
+      "HOLD_NUM_RATIO": 20.75,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 79.47
+      "UNLIMITED_SHARES_RATIO": 79.25
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "900924.SH",
       "SECURITY_CODE": "900924",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海浦科飞人投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -609,7 +609,7 @@
     {
       "SECUCODE": "900924.SH",
       "SECURITY_CODE": "900924",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "上海市浦东新区国有资产监督管理委员会",
       "SHARES_TYPE": "流通A股",
@@ -621,19 +621,19 @@
     {
       "SECUCODE": "900924.SH",
       "SECURITY_CODE": "900924",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中信证券经纪(香港)有限公司",
       "SHARES_TYPE": "流通B股",
-      "HOLD_NUM": 21776797,
-      "HOLD_NUM_RATIO": 3.05,
-      "HOLD_NUM_CHANGE": "6573085",
-      "CHANGE_RATIO": 43.23342221
+      "HOLD_NUM": 24958195,
+      "HOLD_NUM_RATIO": 3.5,
+      "HOLD_NUM_CHANGE": "3181398",
+      "CHANGE_RATIO": 14.60911814
     },
     {
       "SECUCODE": "900924.SH",
       "SECURITY_CODE": "900924",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "谢作纲",
       "SHARES_TYPE": "流通B股",
@@ -645,19 +645,19 @@
     {
       "SECUCODE": "900924.SH",
       "SECURITY_CODE": "900924",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "GUOTAI JUNAN SECURITIES(HONG KONG)LIMITED",
       "SHARES_TYPE": "流通B股",
       "HOLD_NUM": 3119315,
       "HOLD_NUM_RATIO": 0.44,
-      "HOLD_NUM_CHANGE": "-249900",
-      "CHANGE_RATIO": -7.417158
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "900924.SH",
       "SECURITY_CODE": "900924",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "KGI ASIA LIMITED",
       "SHARES_TYPE": "流通B股",
@@ -669,7 +669,7 @@
     {
       "SECUCODE": "900924.SH",
       "SECURITY_CODE": "900924",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "林永塡",
       "SHARES_TYPE": "流通B股",
@@ -681,60 +681,60 @@
     {
       "SECUCODE": "900924.SH",
       "SECURITY_CODE": "900924",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_NAME": "徐晖",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2662498,
-      "HOLD_NUM_RATIO": 0.37,
+      "HOLD_NUM": 1750000,
+      "HOLD_NUM_RATIO": 0.25,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "900924.SH",
       "SECURITY_CODE": "900924",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "高盛国际-自有资金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2345018,
-      "HOLD_NUM_RATIO": 0.33,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "900924.SH",
-      "SECURITY_CODE": "900924",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "BOCI SECURITIES LIMITED",
       "SHARES_TYPE": "流通B股",
       "HOLD_NUM": 1743987,
       "HOLD_NUM_RATIO": 0.24,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "900924.SH",
+      "SECURITY_CODE": "900924",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1656174,
+      "HOLD_NUM_RATIO": 0.23,
+      "HOLD_NUM_CHANGE": "-1006324",
+      "CHANGE_RATIO": -37.79623496
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "900924.SH",
       "SECURITY_CODE": "900924",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
       "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 29647139,
-      "TOTAL_SHARES_RATIO": 12.15326853,
-      "ALL_SHARES_RATIO": 4.15711336
+      "TOTAL_FREE_SHARES": 32828537,
+      "TOTAL_SHARES_RATIO": 13.45742082,
+      "ALL_SHARES_RATIO": 4.60320808
     },
     {
       "SECUCODE": "900924.SH",
       "SECURITY_CODE": "900924",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "04",
       "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 29647139,
-      "TOTAL_SHARES_RATIO": 12.15326853,
-      "ALL_SHARES_RATIO": 4.15711336
+      "TOTAL_FREE_SHARES": 32828537,
+      "TOTAL_SHARES_RATIO": 13.45742082,
+      "ALL_SHARES_RATIO": 4.60320808
     }
   ]
 }

@@ -11,8 +11,8 @@
       "HOLD_FOCUS": null,
       "PRICE": 0.363,
       "AVG_HOLD_AMT": 4372.61786034876,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 52.53134952,
+      "FREEHOLD_RATIO_TOTAL": 52.53134952
     },
     {
       "SECUCODE": "900927.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "900927.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "900927.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "900927.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "900927.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "900927.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "900927.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "900927.SH",
       "END_DATE": "2013-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "900927.SH",
-      "END_DATE": "2013-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -452,7 +452,7 @@
     {
       "SECUCODE": "900927.SH",
       "SECURITY_CODE": "900927",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "百联集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -465,86 +465,73 @@
     {
       "SECUCODE": "900927.SH",
       "SECURITY_CODE": "900927",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "祁淑莉",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3015400,
-      "FREE_HOLDNUM_RATIO": 0.607976749311,
-      "HOLD_NUM_CHANGE": "100300",
-      "CHANGE_RATIO": 3.44070529
-    },
-    {
-      "SECUCODE": "900927.SH",
-      "SECURITY_CODE": "900927",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "郭丰明",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2551955,
-      "FREE_HOLDNUM_RATIO": 0.514535154635,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 7909328,
+      "FREE_HOLDNUM_RATIO": 1.59470966594,
+      "HOLD_NUM_CHANGE": "5357373",
+      "CHANGE_RATIO": 209.93211087
     },
     {
       "SECUCODE": "900927.SH",
       "SECURITY_CODE": "900927",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "祁淑莉",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2964600,
+      "FREE_HOLDNUM_RATIO": 0.597734254496,
+      "HOLD_NUM_CHANGE": "-50800",
+      "CHANGE_RATIO": -1.68468528
+    },
+    {
+      "SECUCODE": "900927.SH",
+      "SECURITY_CODE": "900927",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "宋伟铭",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "B股",
-      "HOLD_NUM": 2502000,
-      "FREE_HOLDNUM_RATIO": 0.504463032028,
-      "HOLD_NUM_CHANGE": "1000",
-      "CHANGE_RATIO": 0.03998401
+      "HOLD_NUM": 2604000,
+      "FREE_HOLDNUM_RATIO": 0.525028671223,
+      "HOLD_NUM_CHANGE": "102000",
+      "CHANGE_RATIO": 4.07673861
     },
     {
       "SECUCODE": "900927.SH",
       "SECURITY_CODE": "900927",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "吴嘉毅",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "B股",
-      "HOLD_NUM": 2425000,
-      "FREE_HOLDNUM_RATIO": 0.488937990674,
-      "HOLD_NUM_CHANGE": "-5000",
-      "CHANGE_RATIO": -0.20576132
+      "HOLD_NUM": 2410000,
+      "FREE_HOLDNUM_RATIO": 0.485913631969,
+      "HOLD_NUM_CHANGE": "-15000",
+      "CHANGE_RATIO": -0.6185567
     },
     {
       "SECUCODE": "900927.SH",
       "SECURITY_CODE": "900927",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "李春荣",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1707800,
-      "FREE_HOLDNUM_RATIO": 0.344333319783,
-      "HOLD_NUM_CHANGE": "21000",
-      "CHANGE_RATIO": 1.24496087
+      "HOLD_NUM": 1725800,
+      "FREE_HOLDNUM_RATIO": 0.347962550229,
+      "HOLD_NUM_CHANGE": "18000",
+      "CHANGE_RATIO": 1.05398759
     },
     {
       "SECUCODE": "900927.SH",
       "SECURITY_CODE": "900927",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "UBS AG",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1339436,
-      "FREE_HOLDNUM_RATIO": 0.270062328444,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "900927.SH",
-      "SECURITY_CODE": "900927",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "宋憬",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "B股",
@@ -556,8 +543,8 @@
     {
       "SECUCODE": "900927.SH",
       "SECURITY_CODE": "900927",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "上海沪北物流发展有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -569,14 +556,27 @@
     {
       "SECUCODE": "900927.SH",
       "SECURITY_CODE": "900927",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "施华玲",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1052500,
+      "FREE_HOLDNUM_RATIO": 0.212209169148,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "900927.SH",
+      "SECURITY_CODE": "900927",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "石启忠",
+      "HOLDER_NAME": "郭天友",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "B股",
-      "HOLD_NUM": 1026250,
-      "FREE_HOLDNUM_RATIO": 0.206916541414,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 1050000,
+      "FREE_HOLDNUM_RATIO": 0.211705109364,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -584,20 +584,20 @@
     {
       "SECUCODE": "900927.SH",
       "SECURITY_CODE": "900927",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 255392878,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 260541265,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 240580036,
-      "HOLD_NUM_RATIO": 51.49,
+      "OTHER_UNLIMITED_SHARES": 235431649,
+      "HOLD_NUM_RATIO": 52.53,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 48.51
+      "UNLIMITED_SHARES_RATIO": 47.47
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "900927.SH",
       "SECURITY_CODE": "900927",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "百联集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -609,80 +609,68 @@
     {
       "SECUCODE": "900927.SH",
       "SECURITY_CODE": "900927",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "祁淑莉",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3015400,
-      "HOLD_NUM_RATIO": 0.61,
-      "HOLD_NUM_CHANGE": "100300",
-      "CHANGE_RATIO": 3.44070529
-    },
-    {
-      "SECUCODE": "900927.SH",
-      "SECURITY_CODE": "900927",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "郭丰明",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2551955,
-      "HOLD_NUM_RATIO": 0.51,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 7909328,
+      "HOLD_NUM_RATIO": 1.59,
+      "HOLD_NUM_CHANGE": "5357373",
+      "CHANGE_RATIO": 209.93211087
     },
     {
       "SECUCODE": "900927.SH",
       "SECURITY_CODE": "900927",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "祁淑莉",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2964600,
+      "HOLD_NUM_RATIO": 0.6,
+      "HOLD_NUM_CHANGE": "-50800",
+      "CHANGE_RATIO": -1.68468528
+    },
+    {
+      "SECUCODE": "900927.SH",
+      "SECURITY_CODE": "900927",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "宋伟铭",
       "SHARES_TYPE": "流通B股",
-      "HOLD_NUM": 2502000,
-      "HOLD_NUM_RATIO": 0.5,
-      "HOLD_NUM_CHANGE": "1000",
-      "CHANGE_RATIO": 0.03998401
+      "HOLD_NUM": 2604000,
+      "HOLD_NUM_RATIO": 0.53,
+      "HOLD_NUM_CHANGE": "102000",
+      "CHANGE_RATIO": 4.07673861
     },
     {
       "SECUCODE": "900927.SH",
       "SECURITY_CODE": "900927",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "吴嘉毅",
       "SHARES_TYPE": "流通B股",
-      "HOLD_NUM": 2425000,
+      "HOLD_NUM": 2410000,
       "HOLD_NUM_RATIO": 0.49,
-      "HOLD_NUM_CHANGE": "-5000",
-      "CHANGE_RATIO": -0.20576132
+      "HOLD_NUM_CHANGE": "-15000",
+      "CHANGE_RATIO": -0.6185567
     },
     {
       "SECUCODE": "900927.SH",
       "SECURITY_CODE": "900927",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "李春荣",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1707800,
-      "HOLD_NUM_RATIO": 0.34,
-      "HOLD_NUM_CHANGE": "21000",
-      "CHANGE_RATIO": 1.24496087
+      "HOLD_NUM": 1725800,
+      "HOLD_NUM_RATIO": 0.35,
+      "HOLD_NUM_CHANGE": "18000",
+      "CHANGE_RATIO": 1.05398759
     },
     {
       "SECUCODE": "900927.SH",
       "SECURITY_CODE": "900927",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "UBS AG",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1339436,
-      "HOLD_NUM_RATIO": 0.27,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "900927.SH",
-      "SECURITY_CODE": "900927",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "宋憬",
       "SHARES_TYPE": "流通B股",
       "HOLD_NUM": 1151000,
@@ -693,8 +681,8 @@
     {
       "SECUCODE": "900927.SH",
       "SECURITY_CODE": "900927",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "上海沪北物流发展有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1098075,
@@ -705,13 +693,25 @@
     {
       "SECUCODE": "900927.SH",
       "SECURITY_CODE": "900927",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "石启忠",
-      "SHARES_TYPE": "流通B股",
-      "HOLD_NUM": 1026250,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "施华玲",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1052500,
       "HOLD_NUM_RATIO": 0.21,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "900927.SH",
+      "SECURITY_CODE": "900927",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "郭天友",
+      "SHARES_TYPE": "流通B股",
+      "HOLD_NUM": 1050000,
+      "HOLD_NUM_RATIO": 0.21,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],

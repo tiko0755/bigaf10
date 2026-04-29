@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000892.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000892.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000892.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "000892.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000892.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000892.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000892.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "000892.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000892.SZ",
       "END_DATE": "2025-09-30 00:00:00",
@@ -403,16 +413,6 @@
       "SECUCODE": "000892.SZ",
       "END_DATE": "2015-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000892.SZ",
-      "END_DATE": "2015-10-12 00:00:00",
-      "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "000892.SZ",
-      "END_DATE": "2015-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,9 +473,9 @@
     {
       "SECUCODE": "000892.SZ",
       "SECURITY_CODE": "000892",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
-      "HOLDER_NAME": "欢瑞联合(天津)资产管理合伙企业(有限合伙)",
+      "HOLDER_NAME": "欢瑞联合",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 106651376,
@@ -486,9 +486,9 @@
     {
       "SECUCODE": "000892.SZ",
       "SECURITY_CODE": "000892",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "睿嘉(东阳)企业管理合伙企业(有限合伙)",
+      "HOLDER_NAME": "睿嘉东阳",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 24174600,
@@ -499,22 +499,9 @@
     {
       "SECUCODE": "000892.SZ",
       "SECURITY_CODE": "000892",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "北京青宥仟和投资顾问有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 22935921,
-      "FREE_HOLDNUM_RATIO": 3.226610125428,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000892.SZ",
-      "SECURITY_CODE": "000892",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "弘道天华(天津)资产管理合伙企业(有限合伙)",
+      "HOLDER_NAME": "弘道天华",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 22935779,
@@ -525,10 +512,10 @@
     {
       "SECUCODE": "000892.SZ",
       "SECURITY_CODE": "000892",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "深圳弘道天瑞投资有限责任公司",
-      "HOLDER_TYPE": "投资公司",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "深圳弘道",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 20693850,
       "FREE_HOLDNUM_RATIO": 2.911197066998,
@@ -538,65 +525,78 @@
     {
       "SECUCODE": "000892.SZ",
       "SECURITY_CODE": "000892",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "北京青宥瑞禾文化传媒中心(有限合伙)",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "青宥仟和",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 13258474,
-      "FREE_HOLDNUM_RATIO": 1.865193312103,
-      "HOLD_NUM_CHANGE": "-9067500",
-      "CHANGE_RATIO": -40.61412953
+      "HOLD_NUM": 13899921,
+      "FREE_HOLDNUM_RATIO": 1.955431649824,
+      "HOLD_NUM_CHANGE": "-9036000",
+      "CHANGE_RATIO": -39.39671749
     },
     {
       "SECUCODE": "000892.SZ",
       "SECURITY_CODE": "000892",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 13155438,
+      "FREE_HOLDNUM_RATIO": 1.85069827609,
+      "HOLD_NUM_CHANGE": "7826538",
+      "CHANGE_RATIO": 146.86967292
+    },
+    {
+      "SECUCODE": "000892.SZ",
+      "SECURITY_CODE": "000892",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "全国社保基金四一三组合",
-      "HOLDER_TYPE": "全国社保基金",
+      "HOLDER_NAME": "欢瑞世纪联合股份有限公司-2025年员工持股计划",
+      "HOLDER_TYPE": "员工持股计划",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7018500,
-      "FREE_HOLDNUM_RATIO": 0.987357916228,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM": 10116700,
+      "FREE_HOLDNUM_RATIO": 1.423210633483,
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000892.SZ",
       "SECURITY_CODE": "000892",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "MORGAN STANLEY&CO.INTERNATIONAL PLC.",
-      "HOLDER_TYPE": "QFII",
+      "HOLDER_NAME": "南京顺拓",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6361910,
-      "FREE_HOLDNUM_RATIO": 0.89498927133,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM": 5003777,
+      "FREE_HOLDNUM_RATIO": 0.703928023365,
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000892.SZ",
       "SECURITY_CODE": "000892",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "UBS AG",
-      "HOLDER_TYPE": "QFII",
+      "HOLDER_NAME": "宁波丽缘进出口有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5979658,
-      "FREE_HOLDNUM_RATIO": 0.841214313975,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM": 4953900,
+      "FREE_HOLDNUM_RATIO": 0.696911360148,
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000892.SZ",
       "SECURITY_CODE": "000892",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "广发基金管理有限公司-社保基金四二零组合",
-      "HOLDER_TYPE": "全国社保基金",
+      "HOLDER_NAME": "张振",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5894400,
-      "FREE_HOLDNUM_RATIO": 0.829220275189,
+      "HOLD_NUM": 4760200,
+      "FREE_HOLDNUM_RATIO": 0.669661772861,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,22 +605,22 @@
     {
       "SECUCODE": "000892.SZ",
       "SECURITY_CODE": "000892",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 235904468,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 226345541,
       "LIMITED_SHARES": 270144019,
-      "OTHER_UNLIMITED_SHARES": 474931986,
-      "HOLD_NUM_RATIO": 24.05,
+      "OTHER_UNLIMITED_SHARES": 484490913,
+      "HOLD_NUM_RATIO": 23.07,
       "LIMITED_SHARES_RATIO": 27.54,
-      "UNLIMITED_SHARES_RATIO": 48.41
+      "UNLIMITED_SHARES_RATIO": 49.39
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "000892.SZ",
       "SECURITY_CODE": "000892",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
-      "HOLDER_NAME": "欢瑞联合(天津)资产管理合伙企业(有限合伙)",
+      "HOLDER_NAME": "欢瑞联合",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 106651376,
       "HOLD_NUM_RATIO": 10.87,
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "000892.SZ",
       "SECURITY_CODE": "000892",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "钟君艳",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -642,9 +642,9 @@
     {
       "SECUCODE": "000892.SZ",
       "SECURITY_CODE": "000892",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "睿嘉(天津)文化传媒合伙企业(有限合伙)",
+      "HOLDER_NAME": "睿嘉天津",
       "SHARES_TYPE": "限售流通A股",
       "HOLD_NUM": 57938783,
       "HOLD_NUM_RATIO": 5.91,
@@ -654,9 +654,9 @@
     {
       "SECUCODE": "000892.SZ",
       "SECURITY_CODE": "000892",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "浙江欢瑞世纪文化艺术发展有限公司",
+      "HOLDER_NAME": "浙江欢瑞",
       "SHARES_TYPE": "限售流通A股",
       "HOLD_NUM": 49194111,
       "HOLD_NUM_RATIO": 5.01,
@@ -666,9 +666,9 @@
     {
       "SECUCODE": "000892.SZ",
       "SECURITY_CODE": "000892",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "南京顺拓投资管理有限公司",
+      "HOLDER_NAME": "南京顺拓",
       "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 35741267,
       "HOLD_NUM_RATIO": 3.64,
@@ -678,9 +678,9 @@
     {
       "SECUCODE": "000892.SZ",
       "SECURITY_CODE": "000892",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "睿嘉(东阳)企业管理合伙企业(有限合伙)",
+      "HOLDER_NAME": "睿嘉东阳",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 24174600,
       "HOLD_NUM_RATIO": 2.46,
@@ -690,21 +690,9 @@
     {
       "SECUCODE": "000892.SZ",
       "SECURITY_CODE": "000892",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "北京青宥仟和投资顾问有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 22935921,
-      "HOLD_NUM_RATIO": 2.34,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000892.SZ",
-      "SECURITY_CODE": "000892",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "弘道天华(天津)资产管理合伙企业(有限合伙)",
+      "HOLDER_NAME": "弘道天华",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 22935779,
       "HOLD_NUM_RATIO": 2.34,
@@ -714,9 +702,9 @@
     {
       "SECUCODE": "000892.SZ",
       "SECURITY_CODE": "000892",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "包头市龙邦贸易有限责任公司",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "包头龙邦",
       "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 21470583,
       "HOLD_NUM_RATIO": 2.19,
@@ -726,14 +714,26 @@
     {
       "SECUCODE": "000892.SZ",
       "SECURITY_CODE": "000892",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "深圳弘道天瑞投资有限责任公司",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "深圳弘道",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 20693850,
       "HOLD_NUM_RATIO": 2.11,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000892.SZ",
+      "SECURITY_CODE": "000892",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "青宥仟和",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 13899921,
+      "HOLD_NUM_RATIO": 1.42,
+      "HOLD_NUM_CHANGE": "-9036000",
+      "CHANGE_RATIO": -39.39671749
     }
   ],
   "jgcc": [
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "000892",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 4791800,
-      "TOTAL_SHARES_RATIO": 0.67410724,
-      "ALL_SHARES_RATIO": 0.48847047
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 33017838,
+      "TOTAL_SHARES_RATIO": 4.64492751,
+      "ALL_SHARES_RATIO": 3.36579971
     },
     {
       "SECUCODE": "000892.SZ",
@@ -756,6 +756,16 @@
       "TOTAL_FREE_SHARES": 4791800,
       "TOTAL_SHARES_RATIO": 0.67410724,
       "ALL_SHARES_RATIO": 0.48847047
+    },
+    {
+      "SECUCODE": "000892.SZ",
+      "SECURITY_CODE": "000892",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 28226038,
+      "TOTAL_SHARES_RATIO": 3.97082027,
+      "ALL_SHARES_RATIO": 2.87732924
     }
   ],
   "jjcg": [

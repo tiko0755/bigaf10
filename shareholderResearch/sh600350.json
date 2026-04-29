@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 10.7,
       "AVG_HOLD_AMT": 1831990.21948153,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 90.95841191,
+      "FREEHOLD_RATIO_TOTAL": 90.95841191
     },
     {
       "SECUCODE": "600350.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600350.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600350.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600350.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600350.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600350.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600350.SH",
       "END_DATE": "2026-02-03 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600350.SH",
       "END_DATE": "2014-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600350.SH",
-      "END_DATE": "2014-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -485,20 +485,20 @@
     {
       "SECUCODE": "600350.SH",
       "SECURITY_CODE": "600350",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "山东高速集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3411626859,
-      "FREE_HOLDNUM_RATIO": 70.567315745137,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3073206902,
+      "FREE_HOLDNUM_RATIO": 63.56731576065,
+      "HOLD_NUM_CHANGE": "-338419957",
+      "CHANGE_RATIO": -9.91960642
     },
     {
       "SECUCODE": "600350.SH",
       "SECURITY_CODE": "600350",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "招商局公路网络科技控股股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -511,47 +511,73 @@
     {
       "SECUCODE": "600350.SH",
       "SECURITY_CODE": "600350",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "安徽皖通高速公路股份有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 338419957,
+      "FREE_HOLDNUM_RATIO": 6.999999984487,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600350.SH",
+      "SECURITY_CODE": "600350",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "中国建设银行股份有限公司-华泰柏瑞中证红利低波动交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 51636090,
-      "FREE_HOLDNUM_RATIO": 1.068059438347,
-      "HOLD_NUM_CHANGE": "14173876",
-      "CHANGE_RATIO": 37.83512635
+      "HOLD_NUM": 59262653,
+      "FREE_HOLDNUM_RATIO": 1.225810007655,
+      "HOLD_NUM_CHANGE": "7626563",
+      "CHANGE_RATIO": 14.76983056
     },
     {
       "SECUCODE": "600350.SH",
       "SECURITY_CODE": "600350",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "招商银行股份有限公司-上证红利交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 35218000,
-      "FREE_HOLDNUM_RATIO": 0.728461765787,
-      "HOLD_NUM_CHANGE": "-2849055",
-      "CHANGE_RATIO": -7.48430631
-    },
-    {
-      "SECUCODE": "600350.SH",
-      "SECURITY_CODE": "600350",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国农业银行股份有限公司-南方标普中国A股大盘红利低波50交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 27117400,
-      "FREE_HOLDNUM_RATIO": 0.56090604485,
-      "HOLD_NUM_CHANGE": "3587100",
-      "CHANGE_RATIO": 15.24459952
+      "HOLD_NUM": 35505000,
+      "FREE_HOLDNUM_RATIO": 0.734398176905,
+      "HOLD_NUM_CHANGE": "8387600",
+      "CHANGE_RATIO": 30.93069395
     },
     {
       "SECUCODE": "600350.SH",
       "SECURITY_CODE": "600350",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "招商银行股份有限公司-上证红利交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 29133748,
+      "FREE_HOLDNUM_RATIO": 0.602612911354,
+      "HOLD_NUM_CHANGE": "-6084252",
+      "CHANGE_RATIO": -17.27597251
+    },
+    {
+      "SECUCODE": "600350.SH",
+      "SECURITY_CODE": "600350",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国人寿保险(集团)公司-传统-普通保险产品-港股通(创新策略)",
+      "HOLDER_TYPE": "保险产品",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 27767476,
+      "FREE_HOLDNUM_RATIO": 0.574352450406,
+      "HOLD_NUM_CHANGE": "10060876",
+      "CHANGE_RATIO": 56.81992026
+    },
+    {
+      "SECUCODE": "600350.SH",
+      "SECURITY_CODE": "600350",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "中泰证券股份有限公司",
       "HOLDER_TYPE": "证券公司",
       "SHARES_TYPE": "A股",
@@ -563,52 +589,26 @@
     {
       "SECUCODE": "600350.SH",
       "SECURITY_CODE": "600350",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国人寿保险(集团)公司-传统-普通保险产品-港股通(创新策略)",
-      "HOLDER_TYPE": "保险产品",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 17706600,
-      "FREE_HOLDNUM_RATIO": 0.366249676361,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600350.SH",
-      "SECURITY_CODE": "600350",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 15441167,
-      "FREE_HOLDNUM_RATIO": 0.319390646221,
-      "HOLD_NUM_CHANGE": "-1239967",
-      "CHANGE_RATIO": -7.43334956
+      "HOLD_NUM": 17509044,
+      "FREE_HOLDNUM_RATIO": 0.362163357075,
+      "HOLD_NUM_CHANGE": "2067877",
+      "CHANGE_RATIO": 13.39197355
     },
     {
       "SECUCODE": "600350.SH",
       "SECURITY_CODE": "600350",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国太平洋人寿保险股份有限公司-中国太平洋人寿股票红利型产品(寿自营)委托投资(长江养老)",
-      "HOLDER_TYPE": "保险产品",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 13759800,
-      "FREE_HOLDNUM_RATIO": 0.28461264708,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600350.SH",
-      "SECURITY_CODE": "600350",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国银行股份有限公司-易方达中证红利交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "招商银行股份有限公司-易方达中证红利低波动交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12190280,
-      "FREE_HOLDNUM_RATIO": 0.252148131473,
+      "HOLD_NUM": 13855600,
+      "FREE_HOLDNUM_RATIO": 0.286594208701,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -617,32 +617,32 @@
     {
       "SECUCODE": "600350.SH",
       "SECURITY_CODE": "600350",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 4387484661,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 4397448845,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 447086164,
-      "HOLD_NUM_RATIO": 90.75,
+      "OTHER_UNLIMITED_SHARES": 437121980,
+      "HOLD_NUM_RATIO": 90.96,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 9.25
+      "UNLIMITED_SHARES_RATIO": 9.04
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600350.SH",
       "SECURITY_CODE": "600350",
-      "END_DATE": "2026-02-03 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "山东高速集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3073206902,
       "HOLD_NUM_RATIO": 63.57,
-      "HOLD_NUM_CHANGE": "-338419957",
-      "CHANGE_RATIO": -9.91960642
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600350.SH",
       "SECURITY_CODE": "600350",
-      "END_DATE": "2026-02-03 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "招商局公路网络科技控股股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,12 +654,96 @@
     {
       "SECUCODE": "600350.SH",
       "SECURITY_CODE": "600350",
-      "END_DATE": "2026-02-03 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "安徽皖通高速公路股份有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 338419957,
       "HOLD_NUM_RATIO": 7,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600350.SH",
+      "SECURITY_CODE": "600350",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "中国建设银行股份有限公司-华泰柏瑞中证红利低波动交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 59262653,
+      "HOLD_NUM_RATIO": 1.23,
+      "HOLD_NUM_CHANGE": "7626563",
+      "CHANGE_RATIO": 14.76983056
+    },
+    {
+      "SECUCODE": "600350.SH",
+      "SECURITY_CODE": "600350",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中国农业银行股份有限公司-南方标普中国A股大盘红利低波50交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 35505000,
+      "HOLD_NUM_RATIO": 0.73,
+      "HOLD_NUM_CHANGE": "8387600",
+      "CHANGE_RATIO": 30.93069395
+    },
+    {
+      "SECUCODE": "600350.SH",
+      "SECURITY_CODE": "600350",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "招商银行股份有限公司-上证红利交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 29133748,
+      "HOLD_NUM_RATIO": 0.6,
+      "HOLD_NUM_CHANGE": "-6084252",
+      "CHANGE_RATIO": -17.27597251
+    },
+    {
+      "SECUCODE": "600350.SH",
+      "SECURITY_CODE": "600350",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国人寿保险(集团)公司-传统-普通保险产品-港股通(创新策略)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 27767476,
+      "HOLD_NUM_RATIO": 0.57,
+      "HOLD_NUM_CHANGE": "10060876",
+      "CHANGE_RATIO": 56.81992026
+    },
+    {
+      "SECUCODE": "600350.SH",
+      "SECURITY_CODE": "600350",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中泰证券股份有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 19174958,
+      "HOLD_NUM_RATIO": 0.4,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600350.SH",
+      "SECURITY_CODE": "600350",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 17509044,
+      "HOLD_NUM_RATIO": 0.36,
+      "HOLD_NUM_CHANGE": "2067877",
+      "CHANGE_RATIO": 13.39197355
+    },
+    {
+      "SECUCODE": "600350.SH",
+      "SECURITY_CODE": "600350",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "招商银行股份有限公司-易方达中证红利低波动交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 13855600,
+      "HOLD_NUM_RATIO": 0.29,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -670,23 +754,121 @@
       "SECURITY_CODE": "600350",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 21,
-      "TOTAL_FREE_SHARES": 17958048,
-      "TOTAL_SHARES_RATIO": 0.37145069,
-      "ALL_SHARES_RATIO": 0.37145069
+      "TOTAL_ORG_NUM": 31,
+      "TOTAL_FREE_SHARES": 4415406893,
+      "TOTAL_SHARES_RATIO": 91.3298626,
+      "ALL_SHARES_RATIO": 91.3298626
     },
     {
       "SECUCODE": "600350.SH",
       "SECURITY_CODE": "600350",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 21,
-      "TOTAL_FREE_SHARES": 17958048,
-      "TOTAL_SHARES_RATIO": 0.37145069,
-      "ALL_SHARES_RATIO": 0.37145069
+      "TOTAL_ORG_NUM": 25,
+      "TOTAL_FREE_SHARES": 155715049,
+      "TOTAL_SHARES_RATIO": 3.220866,
+      "ALL_SHARES_RATIO": 3.220866
+    },
+    {
+      "SECUCODE": "600350.SH",
+      "SECURITY_CODE": "600350",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "04",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 19174958,
+      "TOTAL_SHARES_RATIO": 0.39662172,
+      "ALL_SHARES_RATIO": 0.39662172
+    },
+    {
+      "SECUCODE": "600350.SH",
+      "SECURITY_CODE": "600350",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "05",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 27767476,
+      "TOTAL_SHARES_RATIO": 0.57435245,
+      "ALL_SHARES_RATIO": 0.57435245
+    },
+    {
+      "SECUCODE": "600350.SH",
+      "SECURITY_CODE": "600350",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 4212749410,
+      "TOTAL_SHARES_RATIO": 87.13802243,
+      "ALL_SHARES_RATIO": 87.13802243
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600350.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "512890",
+      "HOLDER_NAME": "华泰柏瑞中证红利低波动ETF",
+      "TOTAL_SHARES": 59262653,
+      "HOLD_VALUE": 634110387.1,
+      "TOTALSHARES_RATIO": 1.22581001,
+      "FREESHARES_RATIO": 1.22581001,
+      "FREE_MARKET_CAP": 634110387.1,
+      "FREE_SHARES": 59262653,
+      "SECURITY_CODE": "600350",
+      "FUND_CODE": "512890",
+      "FUND_DERIVECODE": "512890.SH",
+      "NETVALUE_RATIO": 2.03
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600350.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "515450",
+      "HOLDER_NAME": "南方标普中国A股大盘红利低波50ETF",
+      "TOTAL_SHARES": 35505000,
+      "HOLD_VALUE": 379903500,
+      "TOTALSHARES_RATIO": 0.73439818,
+      "FREESHARES_RATIO": 0.73439818,
+      "FREE_MARKET_CAP": 379903500,
+      "FREE_SHARES": 35505000,
+      "SECURITY_CODE": "600350",
+      "FUND_CODE": "515450",
+      "FUND_DERIVECODE": "515450.SH",
+      "NETVALUE_RATIO": 2.37
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600350.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "510880",
+      "HOLDER_NAME": "华泰柏瑞上证红利ETF",
+      "TOTAL_SHARES": 29133748,
+      "HOLD_VALUE": 311731103.6,
+      "TOTALSHARES_RATIO": 0.60261291,
+      "FREESHARES_RATIO": 0.60261291,
+      "FREE_MARKET_CAP": 311731103.6,
+      "FREE_SHARES": 29133748,
+      "SECURITY_CODE": "600350",
+      "FUND_CODE": "510880",
+      "FUND_DERIVECODE": "510880.SH",
+      "NETVALUE_RATIO": 1.82
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600350.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "563020",
+      "HOLDER_NAME": "易方达中证红利低波动ETF",
+      "TOTAL_SHARES": 13855600,
+      "HOLD_VALUE": 148254920,
+      "TOTALSHARES_RATIO": 0.28659421,
+      "FREESHARES_RATIO": 0.28659421,
+      "FREE_MARKET_CAP": 148254920,
+      "FREE_SHARES": 13855600,
+      "SECURITY_CODE": "600350",
+      "FUND_CODE": "563020",
+      "FUND_DERIVECODE": "563020.SH",
+      "NETVALUE_RATIO": 1.97
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "600350.SH",

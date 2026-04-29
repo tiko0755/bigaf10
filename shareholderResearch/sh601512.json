@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 8.64,
       "AVG_HOLD_AMT": 637825.531914894,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 90.13280374,
+      "FREEHOLD_RATIO_TOTAL": 90.13280374
     },
     {
       "SECUCODE": "601512.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "601512.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "601512.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "601512.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "601512.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "601512.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "601512.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -363,7 +368,7 @@
     {
       "SECUCODE": "601512.SH",
       "SECURITY_CODE": "601512",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "苏州中方财团控股股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -376,9 +381,9 @@
     {
       "SECUCODE": "601512.SH",
       "SECURITY_CODE": "601512",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "SINGAPORE-SUZHOUTOWNSHIP DEVELOPMENTPTELTD",
+      "HOLDER_NAME": "SINGAPORE-SUZHOU TOWNSHIP DEVELOPMENT PTE LTD",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 377720000,
@@ -389,7 +394,7 @@
     {
       "SECUCODE": "601512.SH",
       "SECURITY_CODE": "601512",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "港华投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -402,9 +407,9 @@
     {
       "SECUCODE": "601512.SH",
       "SECURITY_CODE": "601512",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "CPGCORPORATIONPTELTD",
+      "HOLDER_NAME": "CPG CORPORATION PTE LTD",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 65522803,
@@ -415,7 +420,7 @@
     {
       "SECUCODE": "601512.SH",
       "SECURITY_CODE": "601512",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "苏州新区高新技术产业股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -428,8 +433,21 @@
     {
       "SECUCODE": "601512.SH",
       "SECURITY_CODE": "601512",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6736779,
+      "FREE_HOLDNUM_RATIO": 0.449451193883,
+      "HOLD_NUM_CHANGE": "2545280",
+      "CHANGE_RATIO": 60.72481468
+    },
+    {
+      "SECUCODE": "601512.SH",
+      "SECURITY_CODE": "601512",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "金利臣",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -441,33 +459,20 @@
     {
       "SECUCODE": "601512.SH",
       "SECURITY_CODE": "601512",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4191499,
-      "FREE_HOLDNUM_RATIO": 0.279640200415,
-      "HOLD_NUM_CHANGE": "1462094",
-      "CHANGE_RATIO": 53.5682319
-    },
-    {
-      "SECUCODE": "601512.SH",
-      "SECURITY_CODE": "601512",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "卓作林",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2795700,
-      "FREE_HOLDNUM_RATIO": 0.186518023337,
-      "HOLD_NUM_CHANGE": "331200",
-      "CHANGE_RATIO": 13.43883141
+      "HOLD_NUM": 3270400,
+      "FREE_HOLDNUM_RATIO": 0.21818812588,
+      "HOLD_NUM_CHANGE": "474700",
+      "CHANGE_RATIO": 16.97964732
     },
     {
       "SECUCODE": "601512.SH",
       "SECURITY_CODE": "601512",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "丁萌",
       "HOLDER_TYPE": "个人",
@@ -480,14 +485,14 @@
     {
       "SECUCODE": "601512.SH",
       "SECURITY_CODE": "601512",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "薛启明",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1301700,
       "FREE_HOLDNUM_RATIO": 0.086844264756,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -495,20 +500,20 @@
     {
       "SECUCODE": "601512.SH",
       "SECURITY_CODE": "601512",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 1347971602,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 1350991582,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 150918398,
-      "HOLD_NUM_RATIO": 89.93,
+      "OTHER_UNLIMITED_SHARES": 147898418,
+      "HOLD_NUM_RATIO": 90.13,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 10.07
+      "UNLIMITED_SHARES_RATIO": 9.87
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "601512.SH",
       "SECURITY_CODE": "601512",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "苏州中方财团控股股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -520,9 +525,9 @@
     {
       "SECUCODE": "601512.SH",
       "SECURITY_CODE": "601512",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "SINGAPORE-SUZHOU TOWNSHIP DEVELOPME NTPTELTD",
+      "HOLDER_NAME": "SINGAPORE-SUZHOU TOWNSHIP DEVELOPMENT PTE LTD",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 377720000,
       "HOLD_NUM_RATIO": 25.2,
@@ -532,7 +537,7 @@
     {
       "SECUCODE": "601512.SH",
       "SECURITY_CODE": "601512",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "港华投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -544,9 +549,9 @@
     {
       "SECUCODE": "601512.SH",
       "SECURITY_CODE": "601512",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "CPG CORPORATI ONPTELTD",
+      "HOLDER_NAME": "CPG CORPORATION PTE LTD",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 65522803,
       "HOLD_NUM_RATIO": 4.37,
@@ -556,7 +561,7 @@
     {
       "SECUCODE": "601512.SH",
       "SECURITY_CODE": "601512",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "苏州新区高新技术产业股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -568,8 +573,20 @@
     {
       "SECUCODE": "601512.SH",
       "SECURITY_CODE": "601512",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6736779,
+      "HOLD_NUM_RATIO": 0.45,
+      "HOLD_NUM_CHANGE": "2545280",
+      "CHANGE_RATIO": 60.72481468
+    },
+    {
+      "SECUCODE": "601512.SH",
+      "SECURITY_CODE": "601512",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "金利臣",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4591800,
@@ -580,31 +597,19 @@
     {
       "SECUCODE": "601512.SH",
       "SECURITY_CODE": "601512",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4191499,
-      "HOLD_NUM_RATIO": 0.28,
-      "HOLD_NUM_CHANGE": "1462094",
-      "CHANGE_RATIO": 53.5682319
-    },
-    {
-      "SECUCODE": "601512.SH",
-      "SECURITY_CODE": "601512",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "卓作林",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2795700,
-      "HOLD_NUM_RATIO": 0.19,
-      "HOLD_NUM_CHANGE": "331200",
-      "CHANGE_RATIO": 13.43883141
+      "HOLD_NUM": 3270400,
+      "HOLD_NUM_RATIO": 0.22,
+      "HOLD_NUM_CHANGE": "474700",
+      "CHANGE_RATIO": 16.97964732
     },
     {
       "SECUCODE": "601512.SH",
       "SECURITY_CODE": "601512",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "丁萌",
       "SHARES_TYPE": "流通A股",
@@ -616,13 +621,13 @@
     {
       "SECUCODE": "601512.SH",
       "SECURITY_CODE": "601512",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "薛启明",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1301700,
       "HOLD_NUM_RATIO": 0.09,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -632,10 +637,10 @@
       "SECURITY_CODE": "601512",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 1041600,
-      "TOTAL_SHARES_RATIO": 0.06949142,
-      "ALL_SHARES_RATIO": 0.06949142
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 1341361182,
+      "TOTAL_SHARES_RATIO": 89.49030162,
+      "ALL_SHARES_RATIO": 89.49030162
     },
     {
       "SECUCODE": "601512.SH",
@@ -646,6 +651,16 @@
       "TOTAL_FREE_SHARES": 1041600,
       "TOTAL_SHARES_RATIO": 0.06949142,
       "ALL_SHARES_RATIO": 0.06949142
+    },
+    {
+      "SECUCODE": "601512.SH",
+      "SECURITY_CODE": "601512",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 1340319582,
+      "TOTAL_SHARES_RATIO": 89.4208102,
+      "ALL_SHARES_RATIO": 89.4208102
     }
   ],
   "jjcg": [

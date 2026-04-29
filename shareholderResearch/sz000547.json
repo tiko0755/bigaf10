@@ -25,8 +25,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 28.46,
       "AVG_HOLD_AMT": 74973.8249064949,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 26.76346358,
+      "FREEHOLD_RATIO_TOTAL": 26.56734179
     },
     {
       "SECUCODE": "000547.SZ",
@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000547.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000547.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000547.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,17 +161,14 @@
     {
       "SECUCODE": "000547.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000547.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000547.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000547.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000547.SZ",
       "END_DATE": "2026-01-27 00:00:00",
@@ -173,6 +178,11 @@
       "SECUCODE": "000547.SZ",
       "END_DATE": "2026-01-13 00:00:00",
       "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "000547.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
     },
     {
       "SECUCODE": "000547.SZ",
@@ -403,16 +413,6 @@
       "SECUCODE": "000547.SZ",
       "END_DATE": "2018-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000547.SZ",
-      "END_DATE": "2018-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000547.SZ",
-      "END_DATE": "2017-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -467,17 +467,6 @@
       "HOLD_CHANGE": "-12260933",
       "CHANGE_RATIO": -5.72881576,
       "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-19 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "中国航天系统工程有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 214022121,
-      "HOLD_NUM_RATIO": 13.39,
-      "HOLD_CHANGE": "-8380000",
-      "CHANGE_RATIO": -3.76794968,
-      "CHANGE_REASON": "临时公告"
     }
   ],
   "jjcg_date": [
@@ -507,164 +496,164 @@
     {
       "SECUCODE": "000547.SZ",
       "SECURITY_CODE": "000547",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国航天系统工程有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 222402121,
-      "FREE_HOLDNUM_RATIO": 14.002079110116,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 194453714,
+      "FREE_HOLDNUM_RATIO": 12.236557594628,
+      "HOLD_NUM_CHANGE": "-19568407",
+      "CHANGE_RATIO": -9.1431703
     },
     {
       "SECUCODE": "000547.SZ",
       "SECURITY_CODE": "000547",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中国航天科工防御技术研究院(中国长峰机电技术研究设计院)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 116146578,
-      "FREE_HOLDNUM_RATIO": 7.312401366556,
+      "FREE_HOLDNUM_RATIO": 7.308856497932,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000547.SZ",
       "SECURITY_CODE": "000547",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "包东琴",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 37000000,
+      "FREE_HOLDNUM_RATIO": 2.328331106092,
+      "HOLD_NUM_CHANGE": "6890940",
+      "CHANGE_RATIO": 22.88659958
+    },
+    {
+      "SECUCODE": "000547.SZ",
+      "SECURITY_CODE": "000547",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "包日来",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 21848119,
+      "FREE_HOLDNUM_RATIO": 1.37485554263,
+      "HOLD_NUM_CHANGE": "-5205238",
+      "CHANGE_RATIO": -19.2406362
+    },
+    {
+      "SECUCODE": "000547.SZ",
+      "SECURITY_CODE": "000547",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "南京江北新区产业投资集团有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 27772300,
-      "FREE_HOLDNUM_RATIO": 1.748499249564,
+      "HOLD_NUM": 11787657,
+      "FREE_HOLDNUM_RATIO": 0.741772120569,
+      "HOLD_NUM_CHANGE": "-5300043",
+      "CHANGE_RATIO": -31.01671378
+    },
+    {
+      "SECUCODE": "000547.SZ",
+      "SECURITY_CODE": "000547",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "南京晨光高科创业投资有限公司",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 11312978,
+      "FREE_HOLDNUM_RATIO": 0.711901583241,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000547.SZ",
       "SECURITY_CODE": "000547",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "中信建投证券股份有限公司",
-      "HOLDER_TYPE": "证券公司",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 16379545,
-      "FREE_HOLDNUM_RATIO": 1.031229755573,
+      "HOLD_NUM": 9229739,
+      "FREE_HOLDNUM_RATIO": 0.580807794995,
+      "HOLD_NUM_CHANGE": "-34547596",
+      "CHANGE_RATIO": -78.91662661
+    },
+    {
+      "SECUCODE": "000547.SZ",
+      "SECURITY_CODE": "000547",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国建设银行股份有限公司-国泰中证军工交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7583129,
+      "FREE_HOLDNUM_RATIO": 0.477190138708,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000547.SZ",
       "SECURITY_CODE": "000547",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "钱志荣",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "余健",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 13860000,
-      "FREE_HOLDNUM_RATIO": 0.872603262926,
-      "HOLD_NUM_CHANGE": "468500",
-      "CHANGE_RATIO": 3.49848785
+      "HOLD_NUM": 6754438,
+      "FREE_HOLDNUM_RATIO": 0.425042381069,
+      "HOLD_NUM_CHANGE": "-5098562",
+      "CHANGE_RATIO": -43.0149498
     },
     {
       "SECUCODE": "000547.SZ",
       "SECURITY_CODE": "000547",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国建设银行股份有限公司-国泰中证军工交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12441529,
-      "FREE_HOLDNUM_RATIO": 0.783298614804,
-      "HOLD_NUM_CHANGE": "-2392100",
-      "CHANGE_RATIO": -16.12619542
-    },
-    {
-      "SECUCODE": "000547.SZ",
-      "SECURITY_CODE": "000547",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "南京晨光高科创业投资有限公司",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11312978,
-      "FREE_HOLDNUM_RATIO": 0.712246862641,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000547.SZ",
-      "SECURITY_CODE": "000547",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10321969,
-      "FREE_HOLDNUM_RATIO": 0.649854533133,
-      "HOLD_NUM_CHANGE": "5288",
-      "CHANGE_RATIO": 0.05125679
-    },
-    {
-      "SECUCODE": "000547.SZ",
-      "SECURITY_CODE": "000547",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "航天科工资产管理有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9782247,
-      "FREE_HOLDNUM_RATIO": 0.61587450584,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000547.SZ",
-      "SECURITY_CODE": "000547",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国工商银行股份有限公司-广发中证军工交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "中国农业银行股份有限公司-华夏国证航天航空行业交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6875257,
-      "FREE_HOLDNUM_RATIO": 0.432855100408,
-      "HOLD_NUM_CHANGE": "1481700",
-      "CHANGE_RATIO": 27.47166666
+      "HOLD_NUM": 6070872,
+      "FREE_HOLDNUM_RATIO": 0.382027030235,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "000547.SZ",
       "SECURITY_CODE": "000547",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 447294524,
-      "LIMITED_SHARES": 10117573,
-      "OTHER_UNLIMITED_SHARES": 1141056172,
-      "HOLD_NUM_RATIO": 27.98,
-      "LIMITED_SHARES_RATIO": 0.63,
-      "UNLIMITED_SHARES_RATIO": 71.38
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 422187224,
+      "LIMITED_SHARES": 9347207,
+      "OTHER_UNLIMITED_SHARES": 1166933838,
+      "HOLD_NUM_RATIO": 26.41,
+      "LIMITED_SHARES_RATIO": 0.58,
+      "UNLIMITED_SHARES_RATIO": 73
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "000547.SZ",
       "SECURITY_CODE": "000547",
-      "END_DATE": "2026-01-27 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国航天系统工程有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 195407888,
-      "HOLD_NUM_RATIO": 12.22,
-      "HOLD_NUM_CHANGE": "-6353300",
-      "CHANGE_RATIO": -3.14892079
+      "HOLD_NUM": 194453714,
+      "HOLD_NUM_RATIO": 12.17,
+      "HOLD_NUM_CHANGE": "-954174",
+      "CHANGE_RATIO": -0.48829861
     },
     {
       "SECUCODE": "000547.SZ",
       "SECURITY_CODE": "000547",
-      "END_DATE": "2026-01-27 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中国航天科工防御技术研究院(中国长峰机电技术研究设计院)",
       "SHARES_TYPE": "流通A股",
@@ -672,6 +661,102 @@
       "HOLD_NUM_RATIO": 7.27,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000547.SZ",
+      "SECURITY_CODE": "000547",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "包东琴",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 37000000,
+      "HOLD_NUM_RATIO": 2.31,
+      "HOLD_NUM_CHANGE": "6890940",
+      "CHANGE_RATIO": 22.88659958
+    },
+    {
+      "SECUCODE": "000547.SZ",
+      "SECURITY_CODE": "000547",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "包日来",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 21848119,
+      "HOLD_NUM_RATIO": 1.37,
+      "HOLD_NUM_CHANGE": "-5205238",
+      "CHANGE_RATIO": -19.2406362
+    },
+    {
+      "SECUCODE": "000547.SZ",
+      "SECURITY_CODE": "000547",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "南京江北新区产业投资集团有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 11787657,
+      "HOLD_NUM_RATIO": 0.74,
+      "HOLD_NUM_CHANGE": "-5300043",
+      "CHANGE_RATIO": -31.01671378
+    },
+    {
+      "SECUCODE": "000547.SZ",
+      "SECURITY_CODE": "000547",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "航天科工资产管理有限公司",
+      "SHARES_TYPE": "流通A股,限售流通A股",
+      "HOLD_NUM": 11689121,
+      "HOLD_NUM_RATIO": 0.73,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000547.SZ",
+      "SECURITY_CODE": "000547",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "南京晨光高科创业投资有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 11312978,
+      "HOLD_NUM_RATIO": 0.71,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000547.SZ",
+      "SECURITY_CODE": "000547",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 9229739,
+      "HOLD_NUM_RATIO": 0.58,
+      "HOLD_NUM_CHANGE": "-34547596",
+      "CHANGE_RATIO": -78.91662661
+    },
+    {
+      "SECUCODE": "000547.SZ",
+      "SECURITY_CODE": "000547",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国建设银行股份有限公司-国泰中证军工交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7583129,
+      "HOLD_NUM_RATIO": 0.47,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000547.SZ",
+      "SECURITY_CODE": "000547",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "余健",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6754438,
+      "HOLD_NUM_RATIO": 0.42,
+      "HOLD_NUM_CHANGE": "-5098562",
+      "CHANGE_RATIO": -43.0149498
     }
   ],
   "jgcc": [
@@ -680,10 +765,10 @@
       "SECURITY_CODE": "000547",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 17,
-      "TOTAL_FREE_SHARES": 30929003,
-      "TOTAL_SHARES_RATIO": 1.94629622,
-      "ALL_SHARES_RATIO": 1.93491506
+      "TOTAL_ORG_NUM": 22,
+      "TOTAL_FREE_SHARES": 373859669,
+      "TOTAL_SHARES_RATIO": 23.5261918,
+      "ALL_SHARES_RATIO": 23.38862
     },
     {
       "SECUCODE": "000547.SZ",
@@ -694,6 +779,16 @@
       "TOTAL_FREE_SHARES": 30929003,
       "TOTAL_SHARES_RATIO": 1.94629622,
       "ALL_SHARES_RATIO": 1.93491506
+    },
+    {
+      "SECUCODE": "000547.SZ",
+      "SECURITY_CODE": "000547",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 342930666,
+      "TOTAL_SHARES_RATIO": 21.57989558,
+      "ALL_SHARES_RATIO": 21.45370494
     }
   ],
   "jjcg": [

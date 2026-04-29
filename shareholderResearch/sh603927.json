@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 16.52,
       "AVG_HOLD_AMT": 203522.011385199,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 39.77694612,
+      "FREEHOLD_RATIO_TOTAL": 39.77694612
     },
     {
       "SECUCODE": "603927.SH",
@@ -53,8 +53,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 19.09,
       "AVG_HOLD_AMT": 240901.27704806,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 40.93721506,
+      "FREEHOLD_RATIO_TOTAL": 40.93721506
     },
     {
       "SECUCODE": "603927.SH",
@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603927.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603927.SH",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603927.SH",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "603927.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603927.SH",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603927.SH",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603927.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "603927.SH",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603927.SH",
       "END_DATE": "2025-12-05 00:00:00",
@@ -403,16 +413,6 @@
       "SECUCODE": "603927.SH",
       "END_DATE": "2016-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "603927.SH",
-      "END_DATE": "2015-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "603927.SH",
-      "END_DATE": "2015-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -445,63 +445,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-12-05 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "北京科软创源软件技术有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 169916006,
-      "HOLD_NUM_RATIO": 20.4462,
-      "HOLD_CHANGE": "-4154100",
-      "CHANGE_RATIO": -2.38645227,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-27 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "北京科软创源软件技术有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 174070106,
-      "HOLD_NUM_RATIO": 20.95,
-      "HOLD_CHANGE": "-4156300",
-      "CHANGE_RATIO": -2.33203378,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-07-30 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "北京科软创源软件技术有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 178226406,
-      "HOLD_NUM_RATIO": 21.45,
-      "HOLD_CHANGE": "-3491100",
-      "CHANGE_RATIO": -1.92116878,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-07-23 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "北京科软创源软件技术有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 181717506,
-      "HOLD_NUM_RATIO": 21.87,
-      "HOLD_CHANGE": "-6875000",
-      "CHANGE_RATIO": -3.64542587,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-07-03 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "北京科软创源软件技术有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 188592506,
-      "HOLD_NUM_RATIO": 22.69,
-      "HOLD_CHANGE": "-6254700",
-      "CHANGE_RATIO": -3.21005373,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "603927.SH",
@@ -529,20 +473,20 @@
     {
       "SECUCODE": "603927.SH",
       "SECURITY_CODE": "603927",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京科软创源软件技术有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 178226406,
-      "FREE_HOLDNUM_RATIO": 21.446188631113,
-      "HOLD_NUM_CHANGE": "-16620800",
-      "CHANGE_RATIO": -8.53017107
+      "HOLD_NUM": 169916006,
+      "FREE_HOLDNUM_RATIO": 20.446188631113,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603927.SH",
       "SECURITY_CODE": "603927",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "北京市海淀区国有资本运营有限公司",
       "HOLDER_TYPE": "其它",
@@ -555,7 +499,7 @@
     {
       "SECUCODE": "603927.SH",
       "SECURITY_CODE": "603927",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "北京市海淀区国有资产投资经营有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -568,60 +512,21 @@
     {
       "SECUCODE": "603927.SH",
       "SECURITY_CODE": "603927",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "全国社保基金一一一组合",
       "HOLDER_TYPE": "全国社保基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 16113324,
-      "FREE_HOLDNUM_RATIO": 1.938934828648,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 12683044,
+      "FREE_HOLDNUM_RATIO": 1.526165286869,
+      "HOLD_NUM_CHANGE": "-3430280",
+      "CHANGE_RATIO": -21.2884691
     },
     {
       "SECUCODE": "603927.SH",
       "SECURITY_CODE": "603927",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9623453,
-      "FREE_HOLDNUM_RATIO": 1.158001179245,
-      "HOLD_NUM_CHANGE": "3157560",
-      "CHANGE_RATIO": 48.83408989
-    },
-    {
-      "SECUCODE": "603927.SH",
-      "SECURITY_CODE": "603927",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国建设银行股份有限公司-华宝中证金融科技主题交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9423064,
-      "FREE_HOLDNUM_RATIO": 1.133888140162,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603927.SH",
-      "SECURITY_CODE": "603927",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8440170,
-      "FREE_HOLDNUM_RATIO": 1.015615373508,
-      "HOLD_NUM_CHANGE": "-181660",
-      "CHANGE_RATIO": -2.10697729
-    },
-    {
-      "SECUCODE": "603927.SH",
-      "SECURITY_CODE": "603927",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "程明荣",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -633,8 +538,8 @@
     {
       "SECUCODE": "603927.SH",
       "SECURITY_CODE": "603927",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "左春",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -646,8 +551,21 @@
     {
       "SECUCODE": "603927.SH",
       "SECURITY_CODE": "603927",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国建设银行股份有限公司-华宝中证金融科技主题交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7303921,
+      "FREE_HOLDNUM_RATIO": 0.878889223142,
+      "HOLD_NUM_CHANGE": "-1043700",
+      "CHANGE_RATIO": -12.50296342
+    },
+    {
+      "SECUCODE": "603927.SH",
+      "SECURITY_CODE": "603927",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "孙静",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -655,44 +573,166 @@
       "FREE_HOLDNUM_RATIO": 0.688430881787,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603927.SH",
+      "SECURITY_CODE": "603927",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "张志华",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5223806,
+      "FREE_HOLDNUM_RATIO": 0.628586590296,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603927.SH",
+      "SECURITY_CODE": "603927",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "庞林",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5202500,
+      "FREE_HOLDNUM_RATIO": 0.626022814786,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "603927.SH",
       "SECURITY_CODE": "603927",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 352059473,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 330562333,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 478980527,
-      "HOLD_NUM_RATIO": 42.36,
+      "OTHER_UNLIMITED_SHARES": 500477667,
+      "HOLD_NUM_RATIO": 39.78,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 57.64
+      "UNLIMITED_SHARES_RATIO": 60.22
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603927.SH",
       "SECURITY_CODE": "603927",
-      "END_DATE": "2025-12-05 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京科软创源软件技术有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 169916006,
-      "HOLD_NUM_RATIO": 20.4462,
-      "HOLD_NUM_CHANGE": "-4154100",
-      "CHANGE_RATIO": -2.38645227
+      "HOLD_NUM_RATIO": 20.45,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603927.SH",
       "SECURITY_CODE": "603927",
-      "END_DATE": "2025-12-05 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "北京市海淀区国有资本运营有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 67412601,
       "HOLD_NUM_RATIO": 8.11,
       "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603927.SH",
+      "SECURITY_CODE": "603927",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "北京市海淀区国有资产投资经营有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 40740755,
+      "HOLD_NUM_RATIO": 4.9,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603927.SH",
+      "SECURITY_CODE": "603927",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "全国社保基金一一一组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 12683044,
+      "HOLD_NUM_RATIO": 1.53,
+      "HOLD_NUM_CHANGE": "-3430280",
+      "CHANGE_RATIO": -21.2884691
+    },
+    {
+      "SECUCODE": "603927.SH",
+      "SECURITY_CODE": "603927",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "程明荣",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 8286500,
+      "HOLD_NUM_RATIO": 1,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603927.SH",
+      "SECURITY_CODE": "603927",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "左春",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 8072064,
+      "HOLD_NUM_RATIO": 0.97,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603927.SH",
+      "SECURITY_CODE": "603927",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国建设银行股份有限公司-华宝中证金融科技主题交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7303921,
+      "HOLD_NUM_RATIO": 0.88,
+      "HOLD_NUM_CHANGE": "-1043700",
+      "CHANGE_RATIO": -12.50296342
+    },
+    {
+      "SECUCODE": "603927.SH",
+      "SECURITY_CODE": "603927",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "孙静",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5721136,
+      "HOLD_NUM_RATIO": 0.69,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603927.SH",
+      "SECURITY_CODE": "603927",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "张志华",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5223806,
+      "HOLD_NUM_RATIO": 0.63,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603927.SH",
+      "SECURITY_CODE": "603927",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "庞林",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5202500,
+      "HOLD_NUM_RATIO": 0.63,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -702,23 +742,60 @@
       "SECURITY_CODE": "603927",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 632740,
-      "TOTAL_SHARES_RATIO": 0.07613833,
-      "ALL_SHARES_RATIO": 0.07613833
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 298689067,
+      "TOTAL_SHARES_RATIO": 35.94159932,
+      "ALL_SHARES_RATIO": 35.94159932
     },
     {
       "SECUCODE": "603927.SH",
       "SECURITY_CODE": "603927",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 632740,
-      "TOTAL_SHARES_RATIO": 0.07613833,
-      "ALL_SHARES_RATIO": 0.07613833
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 7936661,
+      "TOTAL_SHARES_RATIO": 0.95502755,
+      "ALL_SHARES_RATIO": 0.95502755
+    },
+    {
+      "SECUCODE": "603927.SH",
+      "SECURITY_CODE": "603927",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 12683044,
+      "TOTAL_SHARES_RATIO": 1.52616529,
+      "ALL_SHARES_RATIO": 1.52616529
+    },
+    {
+      "SECUCODE": "603927.SH",
+      "SECURITY_CODE": "603927",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 278069362,
+      "TOTAL_SHARES_RATIO": 33.46040648,
+      "ALL_SHARES_RATIO": 33.46040648
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603927.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "159851",
+      "HOLDER_NAME": "华宝中证金融科技主题ETF",
+      "TOTAL_SHARES": 7303921,
+      "HOLD_VALUE": 120660774.92,
+      "TOTALSHARES_RATIO": 0.87888922,
+      "FREESHARES_RATIO": 0.87888922,
+      "FREE_MARKET_CAP": 120660774.92,
+      "FREE_SHARES": 7303921,
+      "SECURITY_CODE": "603927",
+      "FUND_CODE": "159851",
+      "FUND_DERIVECODE": "159851.SZ",
+      "NETVALUE_RATIO": 1.65
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "603927.SH",

@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 5.74,
       "AVG_HOLD_AMT": 303240.770494894,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 62.03695114,
+      "FREEHOLD_RATIO_TOTAL": 62.18782698
     },
     {
       "SECUCODE": "002010.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002010.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002010.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002010.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002010.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002010.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002010.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002010.SZ",
       "END_DATE": "2018-07-19 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "002010.SZ",
-      "END_DATE": "2018-07-18 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "002010.SZ",
       "SECURITY_CODE": "002010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "传化集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "002010.SZ",
       "SECURITY_CODE": "002010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "徐冠巨",
       "HOLDER_TYPE": "个人",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "002010.SZ",
       "SECURITY_CODE": "002010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "徐观宝",
       "HOLDER_TYPE": "个人",
@@ -512,21 +512,8 @@
     {
       "SECUCODE": "002010.SZ",
       "SECURITY_CODE": "002010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 28476642,
-      "FREE_HOLDNUM_RATIO": 1.032763346288,
-      "HOLD_NUM_CHANGE": "-933907",
-      "CHANGE_RATIO": -3.17541505
-    },
-    {
-      "SECUCODE": "002010.SZ",
-      "SECURITY_CODE": "002010",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "杭州金投资本管理有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -538,8 +525,8 @@
     {
       "SECUCODE": "002010.SZ",
       "SECURITY_CODE": "002010",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "上海陆家嘴金融发展有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -551,7 +538,20 @@
     {
       "SECUCODE": "002010.SZ",
       "SECURITY_CODE": "002010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 16849132,
+      "FREE_HOLDNUM_RATIO": 0.611068044693,
+      "HOLD_NUM_CHANGE": "-11627510",
+      "CHANGE_RATIO": -40.83174554
+    },
+    {
+      "SECUCODE": "002010.SZ",
+      "SECURITY_CODE": "002010",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "浙江东南控股集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -564,21 +564,8 @@
     {
       "SECUCODE": "002010.SZ",
       "SECURITY_CODE": "002010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12728400,
-      "FREE_HOLDNUM_RATIO": 0.461621316758,
-      "HOLD_NUM_CHANGE": "-20900",
-      "CHANGE_RATIO": -0.16393057
-    },
-    {
-      "SECUCODE": "002010.SZ",
-      "SECURITY_CODE": "002010",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "魏国华",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -590,8 +577,8 @@
     {
       "SECUCODE": "002010.SZ",
       "SECURITY_CODE": "002010",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "建信基金-兴业银行-甘肃省循环经济产业投资基金合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -599,26 +586,39 @@
       "FREE_HOLDNUM_RATIO": 0.441831883202,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002010.SZ",
+      "SECURITY_CODE": "002010",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "王湃旖",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 11000000,
+      "FREE_HOLDNUM_RATIO": 0.398937375031,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "002010.SZ",
       "SECURITY_CODE": "002010",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 1728076414,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 1714720504,
       "LIMITED_SHARES": 6705902,
-      "OTHER_UNLIMITED_SHARES": 1029248592,
-      "HOLD_NUM_RATIO": 62.52,
+      "OTHER_UNLIMITED_SHARES": 1042604502,
+      "HOLD_NUM_RATIO": 62.04,
       "LIMITED_SHARES_RATIO": 0.24,
-      "UNLIMITED_SHARES_RATIO": 37.24
+      "UNLIMITED_SHARES_RATIO": 37.72
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002010.SZ",
       "SECURITY_CODE": "002010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "传化集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "002010.SZ",
       "SECURITY_CODE": "002010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "徐冠巨",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "002010.SZ",
       "SECURITY_CODE": "002010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "徐观宝",
       "SHARES_TYPE": "流通A股",
@@ -654,20 +654,8 @@
     {
       "SECUCODE": "002010.SZ",
       "SECURITY_CODE": "002010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 28476642,
-      "HOLD_NUM_RATIO": 1.03,
-      "HOLD_NUM_CHANGE": "-933907",
-      "CHANGE_RATIO": -3.17541505
-    },
-    {
-      "SECUCODE": "002010.SZ",
-      "SECURITY_CODE": "002010",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "杭州金投资本管理有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 20304568,
@@ -678,8 +666,8 @@
     {
       "SECUCODE": "002010.SZ",
       "SECURITY_CODE": "002010",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "上海陆家嘴金融发展有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 17028210,
@@ -690,7 +678,19 @@
     {
       "SECUCODE": "002010.SZ",
       "SECURITY_CODE": "002010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 16849132,
+      "HOLD_NUM_RATIO": 0.61,
+      "HOLD_NUM_CHANGE": "-11627510",
+      "CHANGE_RATIO": -40.83174554
+    },
+    {
+      "SECUCODE": "002010.SZ",
+      "SECURITY_CODE": "002010",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "浙江东南控股集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -702,20 +702,8 @@
     {
       "SECUCODE": "002010.SZ",
       "SECURITY_CODE": "002010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 12728400,
-      "HOLD_NUM_RATIO": 0.46,
-      "HOLD_NUM_CHANGE": "-20900",
-      "CHANGE_RATIO": -0.16393057
-    },
-    {
-      "SECUCODE": "002010.SZ",
-      "SECURITY_CODE": "002010",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "魏国华",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 12563209,
@@ -726,13 +714,25 @@
     {
       "SECUCODE": "002010.SZ",
       "SECURITY_CODE": "002010",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "建信基金-兴业银行-甘肃省循环经济产业投资基金合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 12182741,
       "HOLD_NUM_RATIO": 0.44,
       "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002010.SZ",
+      "SECURITY_CODE": "002010",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "王湃旖",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 11000000,
+      "HOLD_NUM_RATIO": 0.4,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "002010",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 172900,
-      "TOTAL_SHARES_RATIO": 0.00627057,
-      "ALL_SHARES_RATIO": 0.00625536
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 1591134315,
+      "TOTAL_SHARES_RATIO": 57.70572244,
+      "ALL_SHARES_RATIO": 57.56572079
     },
     {
       "SECUCODE": "002010.SZ",
@@ -756,6 +756,16 @@
       "TOTAL_FREE_SHARES": 172900,
       "TOTAL_SHARES_RATIO": 0.00627057,
       "ALL_SHARES_RATIO": 0.00625536
+    },
+    {
+      "SECUCODE": "002010.SZ",
+      "SECURITY_CODE": "002010",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 1590961415,
+      "TOTAL_SHARES_RATIO": 57.69945187,
+      "ALL_SHARES_RATIO": 57.55946543
     }
   ],
   "jjcg": [

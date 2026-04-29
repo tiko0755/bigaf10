@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 18.3,
       "AVG_HOLD_AMT": 321655.919395466,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 45.48148467,
+      "FREEHOLD_RATIO_TOTAL": 45.48148467
     },
     {
       "SECUCODE": "688681.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "688681.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "688681.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "688681.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "688681.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "688681.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "688681.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -440,30 +445,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-12-04 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "山东科汇投资股份有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 27276615,
-      "HOLD_NUM_RATIO": 26.06,
-      "HOLD_CHANGE": "-2900",
-      "CHANGE_RATIO": -0.01063069,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-07 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "山东科汇投资股份有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 27279515,
-      "HOLD_NUM_RATIO": 26.06,
-      "HOLD_CHANGE": "-1043600",
-      "CHANGE_RATIO": -3.68462297,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "688681.SH",
@@ -491,20 +473,20 @@
     {
       "SECUCODE": "688681.SH",
       "SECURITY_CODE": "688681",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "山东科汇投资股份有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 27276615,
       "FREE_HOLDNUM_RATIO": 26.059630266552,
-      "HOLD_NUM_CHANGE": "-1046500",
-      "CHANGE_RATIO": -3.69486195
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688681.SH",
       "SECURITY_CODE": "688681",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "徐丙垠",
       "HOLDER_TYPE": "个人",
@@ -517,47 +499,34 @@
     {
       "SECUCODE": "688681.SH",
       "SECURITY_CODE": "688681",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "山东省高新技术创业投资有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 2783621,
       "FREE_HOLDNUM_RATIO": 2.659425814465,
-      "HOLD_NUM_CHANGE": "-123794",
-      "CHANGE_RATIO": -4.25787168
-    },
-    {
-      "SECUCODE": "688681.SH",
-      "SECURITY_CODE": "688681",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "淄博市高新技术创业投资有限公司",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2600000,
-      "FREE_HOLDNUM_RATIO": 2.483997324926,
-      "HOLD_NUM_CHANGE": "-50000",
-      "CHANGE_RATIO": -1.88679245
-    },
-    {
-      "SECUCODE": "688681.SH",
-      "SECURITY_CODE": "688681",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "上海喜岳投资管理有限公司-喜岳欣享中证500指数增强1号私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1195700,
-      "FREE_HOLDNUM_RATIO": 1.14235215439,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688681.SH",
       "SECURITY_CODE": "688681",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "淄博市高新技术创业投资有限公司",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2500000,
+      "FREE_HOLDNUM_RATIO": 2.388458966275,
+      "HOLD_NUM_CHANGE": "-100000",
+      "CHANGE_RATIO": -3.84615385
+    },
+    {
+      "SECUCODE": "688681.SH",
+      "SECURITY_CODE": "688681",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "山东领新创业投资中心(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -569,34 +538,21 @@
     {
       "SECUCODE": "688681.SH",
       "SECURITY_CODE": "688681",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "上海喜岳投资管理有限公司-星辰之喜岳2号增强私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1031596,
-      "FREE_HOLDNUM_RATIO": 0.985569886309,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688681.SH",
-      "SECURITY_CODE": "688681",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国银行股份有限公司-招商量化精选股票型发起式证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国工商银行股份有限公司-上证综指交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1026006,
-      "FREE_HOLDNUM_RATIO": 0.980229292061,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1050388,
+      "FREE_HOLDNUM_RATIO": 1.003523454667,
+      "HOLD_NUM_CHANGE": "127610",
+      "CHANGE_RATIO": 13.82889492
     },
     {
       "SECUCODE": "688681.SH",
       "SECURITY_CODE": "688681",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "王华刚",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -608,35 +564,61 @@
     {
       "SECUCODE": "688681.SH",
       "SECURITY_CODE": "688681",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国工商银行股份有限公司-上证综指交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "山东科汇电力自动化股份有限公司回购专用证券账户",
+      "HOLDER_TYPE": "证券账户",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 922778,
-      "FREE_HOLDNUM_RATIO": 0.881606955193,
-      "HOLD_NUM_CHANGE": "84709",
-      "CHANGE_RATIO": 10.1076403
+      "HOLD_NUM": 863000,
+      "FREE_HOLDNUM_RATIO": 0.824496035158,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688681.SH",
+      "SECURITY_CODE": "688681",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "上海喜岳投资管理有限公司-星辰之喜岳2号增强私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 862846,
+      "FREE_HOLDNUM_RATIO": 0.824348906086,
+      "HOLD_NUM_CHANGE": "-168750",
+      "CHANGE_RATIO": -16.35814796
+    },
+    {
+      "SECUCODE": "688681.SH",
+      "SECURITY_CODE": "688681",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "烟台源创现代服务业创业投资合伙企业(有限合伙)",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 854000,
+      "FREE_HOLDNUM_RATIO": 0.81589758288,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "688681.SH",
       "SECURITY_CODE": "688681",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 48251316,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 47605470,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 56418684,
-      "HOLD_NUM_RATIO": 46.1,
+      "OTHER_UNLIMITED_SHARES": 57064530,
+      "HOLD_NUM_RATIO": 45.48,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 53.9
+      "UNLIMITED_SHARES_RATIO": 54.52
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "688681.SH",
       "SECURITY_CODE": "688681",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "山东科汇投资股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -648,7 +630,7 @@
     {
       "SECUCODE": "688681.SH",
       "SECURITY_CODE": "688681",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "徐丙垠",
       "SHARES_TYPE": "流通A股",
@@ -660,44 +642,32 @@
     {
       "SECUCODE": "688681.SH",
       "SECURITY_CODE": "688681",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "山东省高新技术创业投资有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2783621,
       "HOLD_NUM_RATIO": 2.66,
-      "HOLD_NUM_CHANGE": "-123794",
-      "CHANGE_RATIO": -4.25787168
-    },
-    {
-      "SECUCODE": "688681.SH",
-      "SECURITY_CODE": "688681",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "淄博市高新技术创业投资有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2600000,
-      "HOLD_NUM_RATIO": 2.48,
-      "HOLD_NUM_CHANGE": "-50000",
-      "CHANGE_RATIO": -1.88679245
-    },
-    {
-      "SECUCODE": "688681.SH",
-      "SECURITY_CODE": "688681",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "上海喜岳投资管理有限公司-喜岳欣享中证500指数增强1号私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1195700,
-      "HOLD_NUM_RATIO": 1.14,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688681.SH",
       "SECURITY_CODE": "688681",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "淄博市高新技术创业投资有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2500000,
+      "HOLD_NUM_RATIO": 2.39,
+      "HOLD_NUM_CHANGE": "-100000",
+      "CHANGE_RATIO": -3.84615385
+    },
+    {
+      "SECUCODE": "688681.SH",
+      "SECURITY_CODE": "688681",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "山东领新创业投资中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1070000,
@@ -708,32 +678,20 @@
     {
       "SECUCODE": "688681.SH",
       "SECURITY_CODE": "688681",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国工商银行股份有限公司-上证综指交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1050388,
+      "HOLD_NUM_RATIO": 1,
+      "HOLD_NUM_CHANGE": "127610",
+      "CHANGE_RATIO": 13.82889492
+    },
+    {
+      "SECUCODE": "688681.SH",
+      "SECURITY_CODE": "688681",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "上海喜岳投资管理有限公司-星辰之喜岳2号增强私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1031596,
-      "HOLD_NUM_RATIO": 0.99,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688681.SH",
-      "SECURITY_CODE": "688681",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国银行股份有限公司-招商量化精选股票型发起式证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1026006,
-      "HOLD_NUM_RATIO": 0.98,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688681.SH",
-      "SECURITY_CODE": "688681",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "王华刚",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 990000,
@@ -744,14 +702,38 @@
     {
       "SECUCODE": "688681.SH",
       "SECURITY_CODE": "688681",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国工商银行股份有限公司-上证综指交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "山东科汇电力自动化股份有限公司回购专用证券账户",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 922778,
-      "HOLD_NUM_RATIO": 0.88,
-      "HOLD_NUM_CHANGE": "84709",
-      "CHANGE_RATIO": 10.1076403
+      "HOLD_NUM": 863000,
+      "HOLD_NUM_RATIO": 0.82,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688681.SH",
+      "SECURITY_CODE": "688681",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "上海喜岳投资管理有限公司-星辰之喜岳2号增强私募证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 862846,
+      "HOLD_NUM_RATIO": 0.82,
+      "HOLD_NUM_CHANGE": "-168750",
+      "CHANGE_RATIO": -16.35814796
+    },
+    {
+      "SECUCODE": "688681.SH",
+      "SECURITY_CODE": "688681",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "烟台源创现代服务业创业投资合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 854000,
+      "HOLD_NUM_RATIO": 0.82,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
@@ -760,23 +742,50 @@
       "SECURITY_CODE": "688681",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 102963,
-      "TOTAL_SHARES_RATIO": 0.09836915,
-      "ALL_SHARES_RATIO": 0.09836915
+      "TOTAL_ORG_NUM": 11,
+      "TOTAL_FREE_SHARES": 37363433,
+      "TOTAL_SHARES_RATIO": 35.69641062,
+      "ALL_SHARES_RATIO": 35.69641062
     },
     {
       "SECUCODE": "688681.SH",
       "SECURITY_CODE": "688681",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 102963,
-      "TOTAL_SHARES_RATIO": 0.09836915,
-      "ALL_SHARES_RATIO": 0.09836915
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 1153351,
+      "TOTAL_SHARES_RATIO": 1.1018926,
+      "ALL_SHARES_RATIO": 1.1018926
+    },
+    {
+      "SECUCODE": "688681.SH",
+      "SECURITY_CODE": "688681",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 36210082,
+      "TOTAL_SHARES_RATIO": 34.59451802,
+      "ALL_SHARES_RATIO": 34.59451802
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "688681.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "510210",
+      "HOLDER_NAME": "上证综指ETF",
+      "TOTAL_SHARES": 1050388,
+      "HOLD_VALUE": 19222100.4,
+      "TOTALSHARES_RATIO": 1.00352345,
+      "FREESHARES_RATIO": 1.00352345,
+      "FREE_MARKET_CAP": 19222100.4,
+      "FREE_SHARES": 1050388,
+      "SECURITY_CODE": "688681",
+      "FUND_CODE": "510210",
+      "FUND_DERIVECODE": "510210.SH",
+      "NETVALUE_RATIO": 0.22
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "688681.SH",

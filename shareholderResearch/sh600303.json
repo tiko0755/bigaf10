@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 3.32,
       "AVG_HOLD_AMT": 60819.0341789588,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 21.1298027,
+      "FREEHOLD_RATIO_TOTAL": 21.38000602
     },
     {
       "SECUCODE": "600303.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600303.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600303.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600303.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600303.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600303.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600303.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600303.SH",
       "END_DATE": "2015-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600303.SH",
-      "END_DATE": "2015-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -492,7 +492,7 @@
     {
       "SECUCODE": "600303.SH",
       "SECURITY_CODE": "600303",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京维梓西咨询管理中心(有限合伙)",
       "HOLDER_TYPE": "其它",
@@ -505,7 +505,7 @@
     {
       "SECUCODE": "600303.SH",
       "SECURITY_CODE": "600303",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "贾木云",
       "HOLDER_TYPE": "个人",
@@ -518,126 +518,126 @@
     {
       "SECUCODE": "600303.SH",
       "SECURITY_CODE": "600303",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "张晓",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 8669600,
+      "FREE_HOLDNUM_RATIO": 1.283236525001,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600303.SH",
+      "SECURITY_CODE": "600303",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "J.P.MorganSecuritiesPLC-自有资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5629199,
+      "FREE_HOLDNUM_RATIO": 0.833209578677,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600303.SH",
+      "SECURITY_CODE": "600303",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4154600,
-      "FREE_HOLDNUM_RATIO": 0.61494584142,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 4497200,
+      "FREE_HOLDNUM_RATIO": 0.665656004918,
+      "HOLD_NUM_CHANGE": "342600",
+      "CHANGE_RATIO": 8.24628123
     },
     {
       "SECUCODE": "600303.SH",
       "SECURITY_CODE": "600303",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "莫衍峰",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4130000,
-      "FREE_HOLDNUM_RATIO": 0.6113046563,
-      "HOLD_NUM_CHANGE": "-30000",
-      "CHANGE_RATIO": -0.72115385
+      "HOLD_NUM": 4020000,
+      "FREE_HOLDNUM_RATIO": 0.595022934219,
+      "HOLD_NUM_CHANGE": "-110000",
+      "CHANGE_RATIO": -2.66343826
     },
     {
       "SECUCODE": "600303.SH",
       "SECURITY_CODE": "600303",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "毛路平",
-      "HOLDER_TYPE": "个人",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "BARCLAYSBANKPLC",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4020800,
-      "FREE_HOLDNUM_RATIO": 0.595141346743,
+      "HOLD_NUM": 3990392,
+      "FREE_HOLDNUM_RATIO": 0.590640486698,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600303.SH",
       "SECURITY_CODE": "600303",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "郭晓龙",
-      "HOLDER_TYPE": "个人",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "UBSAG",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3117300,
-      "FREE_HOLDNUM_RATIO": 0.461409202199,
-      "HOLD_NUM_CHANGE": "-42700",
-      "CHANGE_RATIO": -1.35126582
+      "HOLD_NUM": 3943829,
+      "FREE_HOLDNUM_RATIO": 0.583748433741,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600303.SH",
       "SECURITY_CODE": "600303",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "周英",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 2979400,
       "FREE_HOLDNUM_RATIO": 0.440997843336,
-      "HOLD_NUM_CHANGE": "141200",
-      "CHANGE_RATIO": 4.97498414
-    },
-    {
-      "SECUCODE": "600303.SH",
-      "SECURITY_CODE": "600303",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "郭巧妹",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2888800,
-      "FREE_HOLDNUM_RATIO": 0.427587624968,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600303.SH",
       "SECURITY_CODE": "600303",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "郭晓峰",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2888800,
-      "FREE_HOLDNUM_RATIO": 0.427587624968,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600303.SH",
-      "SECURITY_CODE": "600303",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "邵峰",
+      "HOLDER_NAME": "毛路平",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2778200,
-      "FREE_HOLDNUM_RATIO": 0.411217093494,
-      "HOLD_NUM_CHANGE": "156400",
-      "CHANGE_RATIO": 5.9653673
+      "HOLD_NUM": 2954800,
+      "FREE_HOLDNUM_RATIO": 0.437356658217,
+      "HOLD_NUM_CHANGE": "-1066000",
+      "CHANGE_RATIO": -26.51213689
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600303.SH",
       "SECURITY_CODE": "600303",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 134717701,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 144444221,
       "LIMITED_SHARES": 8000000,
-      "OTHER_UNLIMITED_SHARES": 540886510,
-      "HOLD_NUM_RATIO": 19.71,
+      "OTHER_UNLIMITED_SHARES": 531159990,
+      "HOLD_NUM_RATIO": 21.13,
       "LIMITED_SHARES_RATIO": 1.17,
-      "UNLIMITED_SHARES_RATIO": 79.12
+      "UNLIMITED_SHARES_RATIO": 77.7
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600303.SH",
       "SECURITY_CODE": "600303",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京维梓西咨询管理中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -649,7 +649,7 @@
     {
       "SECUCODE": "600303.SH",
       "SECURITY_CODE": "600303",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "贾木云",
       "SHARES_TYPE": "流通A股",
@@ -661,98 +661,98 @@
     {
       "SECUCODE": "600303.SH",
       "SECURITY_CODE": "600303",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "张晓",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 8669600,
+      "HOLD_NUM_RATIO": 1.27,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600303.SH",
+      "SECURITY_CODE": "600303",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5629199,
+      "HOLD_NUM_RATIO": 0.82,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600303.SH",
+      "SECURITY_CODE": "600303",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4154600,
-      "HOLD_NUM_RATIO": 0.61,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 4497200,
+      "HOLD_NUM_RATIO": 0.66,
+      "HOLD_NUM_CHANGE": "342600",
+      "CHANGE_RATIO": 8.24628123
     },
     {
       "SECUCODE": "600303.SH",
       "SECURITY_CODE": "600303",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "莫衍峰",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4130000,
-      "HOLD_NUM_RATIO": 0.6,
-      "HOLD_NUM_CHANGE": "-30000",
-      "CHANGE_RATIO": -0.72115385
+      "HOLD_NUM": 4020000,
+      "HOLD_NUM_RATIO": 0.59,
+      "HOLD_NUM_CHANGE": "-110000",
+      "CHANGE_RATIO": -2.66343826
     },
     {
       "SECUCODE": "600303.SH",
       "SECURITY_CODE": "600303",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "毛路平",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "BARCLAYS BANK PLC",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4020800,
-      "HOLD_NUM_RATIO": 0.59,
+      "HOLD_NUM": 3990392,
+      "HOLD_NUM_RATIO": 0.58,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600303.SH",
       "SECURITY_CODE": "600303",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "郭晓龙",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "UBS AG",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3117300,
-      "HOLD_NUM_RATIO": 0.46,
-      "HOLD_NUM_CHANGE": "-42700",
-      "CHANGE_RATIO": -1.35126582
+      "HOLD_NUM": 3943829,
+      "HOLD_NUM_RATIO": 0.58,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600303.SH",
       "SECURITY_CODE": "600303",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "周英",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2979400,
       "HOLD_NUM_RATIO": 0.44,
-      "HOLD_NUM_CHANGE": "141200",
-      "CHANGE_RATIO": 4.97498414
-    },
-    {
-      "SECUCODE": "600303.SH",
-      "SECURITY_CODE": "600303",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "郭巧妹",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2888800,
-      "HOLD_NUM_RATIO": 0.42,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600303.SH",
       "SECURITY_CODE": "600303",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "郭晓峰",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2888800,
-      "HOLD_NUM_RATIO": 0.42,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600303.SH",
-      "SECURITY_CODE": "600303",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "邵峰",
+      "HOLDER_NAME": "毛路平",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2778200,
-      "HOLD_NUM_RATIO": 0.41,
-      "HOLD_NUM_CHANGE": "156400",
-      "CHANGE_RATIO": 5.9653673
+      "HOLD_NUM": 2954800,
+      "HOLD_NUM_RATIO": 0.43,
+      "HOLD_NUM_CHANGE": "-1066000",
+      "CHANGE_RATIO": -26.51213689
     }
   ],
   "jgcc": [
@@ -761,23 +761,60 @@
       "SECURITY_CODE": "600303",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 1483100,
-      "TOTAL_SHARES_RATIO": 0.21952201,
-      "ALL_SHARES_RATIO": 0.21695302
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 117438720,
+      "TOTAL_SHARES_RATIO": 17.38276908,
+      "ALL_SHARES_RATIO": 17.17934415
     },
     {
       "SECUCODE": "600303.SH",
       "SECURITY_CODE": "600303",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 5980300,
+      "TOTAL_SHARES_RATIO": 0.88517801,
+      "ALL_SHARES_RATIO": 0.87481907
+    },
+    {
+      "SECUCODE": "600303.SH",
+      "SECURITY_CODE": "600303",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
       "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 1483100,
-      "TOTAL_SHARES_RATIO": 0.21952201,
-      "ALL_SHARES_RATIO": 0.21695302
+      "TOTAL_FREE_SHARES": 13563420,
+      "TOTAL_SHARES_RATIO": 2.0075985,
+      "ALL_SHARES_RATIO": 1.98410422
+    },
+    {
+      "SECUCODE": "600303.SH",
+      "SECURITY_CODE": "600303",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 97895000,
+      "TOTAL_SHARES_RATIO": 14.48999257,
+      "ALL_SHARES_RATIO": 14.32042086
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600303.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "320016",
+      "HOLDER_NAME": "诺安多策略混合A",
+      "TOTAL_SHARES": 4497200,
+      "HOLD_VALUE": 14930704,
+      "TOTALSHARES_RATIO": 0.65786605,
+      "FREESHARES_RATIO": 0.665656,
+      "FREE_MARKET_CAP": 14930704,
+      "FREE_SHARES": 4497200,
+      "SECURITY_CODE": "600303",
+      "FUND_CODE": "320016",
+      "FUND_DERIVECODE": "320016.OF",
+      "NETVALUE_RATIO": 0.59
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "600303.SH",

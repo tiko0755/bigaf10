@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 2.73,
       "AVG_HOLD_AMT": 127978.206009719,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 42.16918162,
+      "FREEHOLD_RATIO_TOTAL": 42.16918162
     },
     {
       "SECUCODE": "600383.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600383.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600383.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600383.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600383.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600383.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600383.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600383.SH",
       "END_DATE": "2014-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600383.SH",
-      "END_DATE": "2013-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600383.SH",
       "SECURITY_CODE": "600383",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "富德生命人寿保险股份有限公司-万能H",
       "HOLDER_TYPE": "保险产品",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600383.SH",
       "SECURITY_CODE": "600383",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "深圳市福田投资控股有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "600383.SH",
       "SECURITY_CODE": "600383",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "富德生命人寿保险股份有限公司-万能G",
       "HOLDER_TYPE": "保险产品",
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "600383.SH",
       "SECURITY_CODE": "600383",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "富德生命人寿保险股份有限公司-分红",
       "HOLDER_TYPE": "其他理财产品",
@@ -525,73 +525,60 @@
     {
       "SECUCODE": "600383.SH",
       "SECURITY_CODE": "600383",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 61197850,
-      "FREE_HOLDNUM_RATIO": 1.355559134613,
-      "HOLD_NUM_CHANGE": "-14749672",
-      "CHANGE_RATIO": -19.42087327
+      "HOLD_NUM": 61306208,
+      "FREE_HOLDNUM_RATIO": 1.35795931169,
+      "HOLD_NUM_CHANGE": "108358",
+      "CHANGE_RATIO": 0.17706178
     },
     {
       "SECUCODE": "600383.SH",
       "SECURITY_CODE": "600383",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国工商银行股份有限公司-南方中证全指房地产交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 38045486,
+      "FREE_HOLDNUM_RATIO": 0.842724149265,
+      "HOLD_NUM_CHANGE": "11198101",
+      "CHANGE_RATIO": 41.71021126
+    },
+    {
+      "SECUCODE": "600383.SH",
+      "SECURITY_CODE": "600383",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "胡玉兰",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 34883500,
       "FREE_HOLDNUM_RATIO": 0.772684776872,
-      "HOLD_NUM_CHANGE": "11508300",
-      "CHANGE_RATIO": 49.23294774
-    },
-    {
-      "SECUCODE": "600383.SH",
-      "SECURITY_CODE": "600383",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国工商银行股份有限公司-南方中证全指房地产交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 26847385,
-      "FREE_HOLDNUM_RATIO": 0.594681316047,
-      "HOLD_NUM_CHANGE": "-13052590",
-      "CHANGE_RATIO": -32.71327864
-    },
-    {
-      "SECUCODE": "600383.SH",
-      "SECURITY_CODE": "600383",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "陈世辉",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 26292600,
-      "FREE_HOLDNUM_RATIO": 0.582392585732,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600383.SH",
       "SECURITY_CODE": "600383",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "易方达基金管理有限公司-社保基金17042组合",
       "HOLDER_TYPE": "全国社保基金",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 25201000,
       "FREE_HOLDNUM_RATIO": 0.558213168459,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600383.SH",
       "SECURITY_CODE": "600383",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "深圳证金投资管理有限公司-证金私客尊享二期私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
@@ -599,26 +586,39 @@
       "FREE_HOLDNUM_RATIO": 0.544000229663,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600383.SH",
+      "SECURITY_CODE": "600383",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "兴业银行股份有限公司-国寿安保泰裕债券型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 20999970,
+      "FREE_HOLDNUM_RATIO": 0.465158517172,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600383.SH",
       "SECURITY_CODE": "600383",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 1897749117,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 1903762946,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 2616834455,
-      "HOLD_NUM_RATIO": 42.04,
+      "OTHER_UNLIMITED_SHARES": 2610820626,
+      "HOLD_NUM_RATIO": 42.17,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 57.96
+      "UNLIMITED_SHARES_RATIO": 57.83
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600383.SH",
       "SECURITY_CODE": "600383",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "富德生命人寿保险股份有限公司-万能H",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600383.SH",
       "SECURITY_CODE": "600383",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "深圳市福田投资控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "600383.SH",
       "SECURITY_CODE": "600383",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "富德生命人寿保险股份有限公司-万能G",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "600383.SH",
       "SECURITY_CODE": "600383",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "富德生命人寿保险股份有限公司-分红",
       "SHARES_TYPE": "流通A股",
@@ -666,73 +666,73 @@
     {
       "SECUCODE": "600383.SH",
       "SECURITY_CODE": "600383",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 61197850,
+      "HOLD_NUM": 61306208,
       "HOLD_NUM_RATIO": 1.36,
-      "HOLD_NUM_CHANGE": "-14749672",
-      "CHANGE_RATIO": -19.42087327
+      "HOLD_NUM_CHANGE": "108358",
+      "CHANGE_RATIO": 0.17706178
     },
     {
       "SECUCODE": "600383.SH",
       "SECURITY_CODE": "600383",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国工商银行股份有限公司-南方中证全指房地产交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 38045486,
+      "HOLD_NUM_RATIO": 0.84,
+      "HOLD_NUM_CHANGE": "11198101",
+      "CHANGE_RATIO": 41.71021126
+    },
+    {
+      "SECUCODE": "600383.SH",
+      "SECURITY_CODE": "600383",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "胡玉兰",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 34883500,
       "HOLD_NUM_RATIO": 0.77,
-      "HOLD_NUM_CHANGE": "11508300",
-      "CHANGE_RATIO": 49.23294774
-    },
-    {
-      "SECUCODE": "600383.SH",
-      "SECURITY_CODE": "600383",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国工商银行股份有限公司-南方中证全指房地产交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 26847385,
-      "HOLD_NUM_RATIO": 0.59,
-      "HOLD_NUM_CHANGE": "-13052590",
-      "CHANGE_RATIO": -32.71327864
-    },
-    {
-      "SECUCODE": "600383.SH",
-      "SECURITY_CODE": "600383",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "陈世辉",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 26292600,
-      "HOLD_NUM_RATIO": 0.58,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600383.SH",
       "SECURITY_CODE": "600383",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "易方达基金管理有限公司-社保基金17042组合",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 25201000,
       "HOLD_NUM_RATIO": 0.56,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600383.SH",
       "SECURITY_CODE": "600383",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "深圳证金投资管理有限公司-证金私客尊享二期私募证券投资基金",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 24559345,
       "HOLD_NUM_RATIO": 0.54,
       "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600383.SH",
+      "SECURITY_CODE": "600383",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "兴业银行股份有限公司-国寿安保泰裕债券型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 20999970,
+      "HOLD_NUM_RATIO": 0.47,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -742,23 +742,70 @@
       "SECURITY_CODE": "600383",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 10,
-      "TOTAL_FREE_SHARES": 62607665,
-      "TOTAL_SHARES_RATIO": 1.38678716,
-      "ALL_SHARES_RATIO": 1.38678716
+      "TOTAL_ORG_NUM": 18,
+      "TOTAL_FREE_SHARES": 1910487141,
+      "TOTAL_SHARES_RATIO": 42.31812549,
+      "ALL_SHARES_RATIO": 42.31812549
     },
     {
       "SECUCODE": "600383.SH",
       "SECURITY_CODE": "600383",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 10,
-      "TOTAL_FREE_SHARES": 62607665,
-      "TOTAL_SHARES_RATIO": 1.38678716,
-      "ALL_SHARES_RATIO": 1.38678716
+      "TOTAL_ORG_NUM": 11,
+      "TOTAL_FREE_SHARES": 100653151,
+      "TOTAL_SHARES_RATIO": 2.22951131,
+      "ALL_SHARES_RATIO": 2.22951131
+    },
+    {
+      "SECUCODE": "600383.SH",
+      "SECURITY_CODE": "600383",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 25201000,
+      "TOTAL_SHARES_RATIO": 0.55821317,
+      "ALL_SHARES_RATIO": 0.55821317
+    },
+    {
+      "SECUCODE": "600383.SH",
+      "SECURITY_CODE": "600383",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "05",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 1177100435,
+      "TOTAL_SHARES_RATIO": 26.07328929,
+      "ALL_SHARES_RATIO": 26.07328929
+    },
+    {
+      "SECUCODE": "600383.SH",
+      "SECURITY_CODE": "600383",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 607532555,
+      "TOTAL_SHARES_RATIO": 13.45711172,
+      "ALL_SHARES_RATIO": 13.45711172
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600383.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "512200",
+      "HOLDER_NAME": "南方中证房地产ETF",
+      "TOTAL_SHARES": 38045486,
+      "HOLD_VALUE": 103864176.78,
+      "TOTALSHARES_RATIO": 0.84272415,
+      "FREESHARES_RATIO": 0.84272415,
+      "FREE_MARKET_CAP": 103864176.78,
+      "FREE_SHARES": 38045486,
+      "SECURITY_CODE": "600383",
+      "FUND_CODE": "512200",
+      "FUND_DERIVECODE": "512200.SH",
+      "NETVALUE_RATIO": 1.76
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "600383.SH",

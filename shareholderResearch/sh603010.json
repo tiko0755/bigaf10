@@ -25,8 +25,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 10.97,
       "AVG_HOLD_AMT": 286713.235446848,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 55.13798565,
+      "FREEHOLD_RATIO_TOTAL": 55.13798565
     },
     {
       "SECUCODE": "603010.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603010.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603010.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603010.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603010.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603010.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603010.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603010.SH",
       "END_DATE": "2018-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "603010.SH",
-      "END_DATE": "2018-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "603010.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "603010.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "603010.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603010.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "603010.SH",
       "SECURITY_CODE": "603010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海复星高科技(集团)有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,9 +486,9 @@
     {
       "SECUCODE": "603010.SH",
       "SECURITY_CODE": "603010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "临海市洛升企业管理咨询合伙企业(有限合伙)",
+      "HOLDER_NAME": "临海市洛升企业管理咨询有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 68627720,
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "603010.SH",
       "SECURITY_CODE": "603010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "高献国",
       "HOLDER_TYPE": "个人",
@@ -512,20 +512,20 @@
     {
       "SECUCODE": "603010.SH",
       "SECURITY_CODE": "603010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "熊立武",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 18600000,
-      "FREE_HOLDNUM_RATIO": 3.154795683024,
-      "HOLD_NUM_CHANGE": "1309882",
-      "CHANGE_RATIO": 7.57589971
+      "HOLD_NUM": 17500058,
+      "FREE_HOLDNUM_RATIO": 2.968231582316,
+      "HOLD_NUM_CHANGE": "-1099942",
+      "CHANGE_RATIO": -5.91366667
     },
     {
       "SECUCODE": "603010.SH",
       "SECURITY_CODE": "603010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "高峰",
       "HOLDER_TYPE": "个人",
@@ -538,7 +538,7 @@
     {
       "SECUCODE": "603010.SH",
       "SECURITY_CODE": "603010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "赵巧珍",
       "HOLDER_TYPE": "个人",
@@ -551,8 +551,21 @@
     {
       "SECUCODE": "603010.SH",
       "SECURITY_CODE": "603010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "银华基金-中国人寿保险股份有限公司-分红险-银华基金国寿股份价值股票型组合单一资产管理计划(分红险)",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5377500,
+      "FREE_HOLDNUM_RATIO": 0.912092139003,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603010.SH",
+      "SECURITY_CODE": "603010",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "勇新",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -564,8 +577,8 @@
     {
       "SECUCODE": "603010.SH",
       "SECURITY_CODE": "603010",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "金译平",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -577,48 +590,35 @@
     {
       "SECUCODE": "603010.SH",
       "SECURITY_CODE": "603010",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4469627,
-      "FREE_HOLDNUM_RATIO": 0.758105374426,
-      "HOLD_NUM_CHANGE": "-1391213",
-      "CHANGE_RATIO": -23.73743354
-    },
-    {
-      "SECUCODE": "603010.SH",
-      "SECURITY_CODE": "603010",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "郑国富",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4148522,
-      "FREE_HOLDNUM_RATIO": 0.703641897663,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 4153616,
+      "FREE_HOLDNUM_RATIO": 0.70450590461,
+      "HOLD_NUM_CHANGE": "-316011",
+      "CHANGE_RATIO": -7.07018729
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "603010.SH",
       "SECURITY_CODE": "603010",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 325268735,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 325081760,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 264309858,
-      "HOLD_NUM_RATIO": 55.17,
+      "OTHER_UNLIMITED_SHARES": 264496833,
+      "HOLD_NUM_RATIO": 55.14,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 44.83
+      "UNLIMITED_SHARES_RATIO": 44.86
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603010.SH",
       "SECURITY_CODE": "603010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海复星高科技(集团)有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,9 +630,9 @@
     {
       "SECUCODE": "603010.SH",
       "SECURITY_CODE": "603010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "临海市洛升企业管理咨询合伙企业(有限合伙)",
+      "HOLDER_NAME": "临海市洛升企业管理咨询有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 68627720,
       "HOLD_NUM_RATIO": 11.64,
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "603010.SH",
       "SECURITY_CODE": "603010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "高献国",
       "SHARES_TYPE": "流通A股",
@@ -654,19 +654,19 @@
     {
       "SECUCODE": "603010.SH",
       "SECURITY_CODE": "603010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "熊立武",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 18600000,
-      "HOLD_NUM_RATIO": 3.15,
-      "HOLD_NUM_CHANGE": "1309882",
-      "CHANGE_RATIO": 7.57589971
+      "HOLD_NUM": 17500058,
+      "HOLD_NUM_RATIO": 2.97,
+      "HOLD_NUM_CHANGE": "-1099942",
+      "CHANGE_RATIO": -5.91366667
     },
     {
       "SECUCODE": "603010.SH",
       "SECURITY_CODE": "603010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "高峰",
       "SHARES_TYPE": "流通A股",
@@ -678,7 +678,7 @@
     {
       "SECUCODE": "603010.SH",
       "SECURITY_CODE": "603010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "赵巧珍",
       "SHARES_TYPE": "流通A股",
@@ -690,8 +690,20 @@
     {
       "SECUCODE": "603010.SH",
       "SECURITY_CODE": "603010",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "银华基金-中国人寿保险股份有限公司-分红险-银华基金国寿股份价值股票型组合单一资产管理计划(分红险)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5377500,
+      "HOLD_NUM_RATIO": 0.91,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603010.SH",
+      "SECURITY_CODE": "603010",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "勇新",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 5040008,
@@ -702,8 +714,8 @@
     {
       "SECUCODE": "603010.SH",
       "SECURITY_CODE": "603010",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "金译平",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4870961,
@@ -714,58 +726,36 @@
     {
       "SECUCODE": "603010.SH",
       "SECURITY_CODE": "603010",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4469627,
-      "HOLD_NUM_RATIO": 0.76,
-      "HOLD_NUM_CHANGE": "-1391213",
-      "CHANGE_RATIO": -23.73743354
-    },
-    {
-      "SECUCODE": "603010.SH",
-      "SECURITY_CODE": "603010",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "郑国富",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4148522,
+      "HOLD_NUM": 4153616,
       "HOLD_NUM_RATIO": 0.7,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM_CHANGE": "-316011",
+      "CHANGE_RATIO": -7.07018729
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "603010.SH",
       "SECURITY_CODE": "603010",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 24,
-      "TOTAL_FREE_SHARES": 247731366,
-      "TOTAL_SHARES_RATIO": 42.01837871,
-      "ALL_SHARES_RATIO": 42.01837871
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 247087275,
+      "TOTAL_SHARES_RATIO": 41.90913271,
+      "ALL_SHARES_RATIO": 41.90913271
     },
     {
       "SECUCODE": "603010.SH",
       "SECURITY_CODE": "603010",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 21,
-      "TOTAL_FREE_SHARES": 328080,
-      "TOTAL_SHARES_RATIO": 0.05564653,
-      "ALL_SHARES_RATIO": 0.05564653
-    },
-    {
-      "SECUCODE": "603010.SH",
-      "SECURITY_CODE": "603010",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 247403286,
-      "TOTAL_SHARES_RATIO": 41.96273218,
-      "ALL_SHARES_RATIO": 41.96273218
+      "TOTAL_FREE_SHARES": 247087275,
+      "TOTAL_SHARES_RATIO": 41.90913271,
+      "ALL_SHARES_RATIO": 41.90913271
     }
   ],
   "jjcg": [

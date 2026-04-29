@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 43,
       "AVG_HOLD_AMT": 1002923.48811475,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 56.99545371,
+      "FREEHOLD_RATIO_TOTAL": 62.96036025
     },
     {
       "SECUCODE": "688293.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "688293.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "688293.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,10 +161,6 @@
     {
       "SECUCODE": "688293.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "688293.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
@@ -168,6 +168,11 @@
       "SECUCODE": "688293.SH",
       "END_DATE": "2026-04-14 00:00:00",
       "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "688293.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
     },
     {
       "SECUCODE": "688293.SH",
@@ -408,11 +413,6 @@
       "SECUCODE": "688293.SH",
       "END_DATE": "2023-10-18 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "688293.SH",
-      "END_DATE": "2023-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -447,17 +447,6 @@
   ],
   "sdgdcgbd": [
     {
-      "END_DATE": "2026-04-14 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国建设银行股份有限公司-工银瑞信前沿医疗股票型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3300000,
-      "HOLD_NUM_RATIO": 2.37,
-      "HOLD_CHANGE": "-100000",
-      "CHANGE_RATIO": -2.94117647,
-      "CHANGE_REASON": "增发上市"
-    },
-    {
       "END_DATE": "2026-02-05 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "中国工商银行股份有限公司-中欧医疗健康混合型证券投资基金",
@@ -478,17 +467,6 @@
       "HOLD_CHANGE": "-500086",
       "CHANGE_RATIO": -12.8224352,
       "CHANGE_REASON": "增发上市"
-    },
-    {
-      "END_DATE": "2025-10-16 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "肖志华",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 28332343,
-      "HOLD_NUM_RATIO": 24.89,
-      "HOLD_CHANGE": "30400",
-      "CHANGE_RATIO": 0.10741312,
-      "CHANGE_REASON": "临时公告"
     }
   ],
   "jjcg_date": [
@@ -546,20 +524,20 @@
     {
       "SECUCODE": "688293.SH",
       "SECURITY_CODE": "688293",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "肖志华",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 28332343,
       "FREE_HOLDNUM_RATIO": 24.892202307159,
-      "HOLD_NUM_CHANGE": "30400",
-      "CHANGE_RATIO": 0.10741312
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688293.SH",
       "SECURITY_CODE": "688293",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "北京磐茂投资管理有限公司-磐信(上海)投资中心(有限合伙)",
       "HOLDER_TYPE": "私募基金",
@@ -572,7 +550,7 @@
     {
       "SECUCODE": "688293.SH",
       "SECURITY_CODE": "688293",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "常州稳实企业管理咨询合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
@@ -585,7 +563,7 @@
     {
       "SECUCODE": "688293.SH",
       "SECURITY_CODE": "688293",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "国寿成达(上海)健康产业股权投资中心(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -598,7 +576,7 @@
     {
       "SECUCODE": "688293.SH",
       "SECURITY_CODE": "688293",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "宁波梅山保税港区铧杰股权投资管理有限公司-华杰(天津)医疗投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "私募基金",
@@ -611,47 +589,34 @@
     {
       "SECUCODE": "688293.SH",
       "SECURITY_CODE": "688293",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国工商银行股份有限公司-中欧医疗健康混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4396095,
-      "FREE_HOLDNUM_RATIO": 3.86231686174,
-      "HOLD_NUM_CHANGE": "387499",
-      "CHANGE_RATIO": 9.66670126
-    },
-    {
-      "SECUCODE": "688293.SH",
-      "SECURITY_CODE": "688293",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "基本养老保险基金一六零三二组合",
       "HOLDER_TYPE": "基本养老基金",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 4000014,
       "FREE_HOLDNUM_RATIO": 3.514328402683,
-      "HOLD_NUM_CHANGE": "1200014",
-      "CHANGE_RATIO": 42.85764286
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688293.SH",
       "SECURITY_CODE": "688293",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "中国建设银行股份有限公司-工银瑞信前沿医疗股票型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3900086,
-      "FREE_HOLDNUM_RATIO": 3.426533757809,
-      "HOLD_NUM_CHANGE": "600000",
-      "CHANGE_RATIO": 18.18134436
+      "HOLD_NUM": 3300000,
+      "FREE_HOLDNUM_RATIO": 2.899310784626,
+      "HOLD_NUM_CHANGE": "-600086",
+      "CHANGE_RATIO": -15.38648122
     },
     {
       "SECUCODE": "688293.SH",
       "SECURITY_CODE": "688293",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "富诚海富资管-杭州银行-富诚海富通奥浦迈员工参与科创板战略配售集合资产管理计划",
       "HOLDER_TYPE": "基金资产管理计划",
       "SHARES_TYPE": "A股",
@@ -663,28 +628,41 @@
     {
       "SECUCODE": "688293.SH",
       "SECURITY_CODE": "688293",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国工商银行股份有限公司-中欧医疗创新股票型证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国银行股份有限公司-招商医药健康产业股票型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1842198,
-      "FREE_HOLDNUM_RATIO": 1.618516523884,
-      "HOLD_NUM_CHANGE": "-809399",
-      "CHANGE_RATIO": -30.52496288
+      "HOLD_NUM": 1781470,
+      "FREE_HOLDNUM_RATIO": 1.565162176814,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688293.SH",
+      "SECURITY_CODE": "688293",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "莫景献",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1339076,
+      "FREE_HOLDNUM_RATIO": 1.176484087344,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "688293.SH",
       "SECURITY_CODE": "688293",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 75379412,
-      "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 38440742,
-      "HOLD_NUM_RATIO": 66.23,
-      "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 33.77
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 71661579,
+      "LIMITED_SHARES": 16215872,
+      "OTHER_UNLIMITED_SHARES": 42158575,
+      "HOLD_NUM_RATIO": 55.11,
+      "LIMITED_SHARES_RATIO": 12.47,
+      "UNLIMITED_SHARES_RATIO": 32.42
     }
   ],
   "sdgd": [
@@ -769,8 +747,8 @@
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3300000,
       "HOLD_NUM_RATIO": 2.37,
-      "HOLD_NUM_CHANGE": "-100000",
-      "CHANGE_RATIO": -2.94117647
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688293.SH",
@@ -815,23 +793,67 @@
       "SECURITY_CODE": "688293",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 16,
-      "TOTAL_FREE_SHARES": 6340387,
-      "TOTAL_SHARES_RATIO": 5.57053105,
-      "ALL_SHARES_RATIO": 4.87586954
+      "TOTAL_ORG_NUM": 23,
+      "TOTAL_FREE_SHARES": 46549077,
+      "TOTAL_SHARES_RATIO": 40.89704272,
+      "ALL_SHARES_RATIO": 35.7970621
     },
     {
       "SECUCODE": "688293.SH",
       "SECURITY_CODE": "688293",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 16,
-      "TOTAL_FREE_SHARES": 6340387,
-      "TOTAL_SHARES_RATIO": 5.57053105,
-      "ALL_SHARES_RATIO": 4.87586954
+      "TOTAL_ORG_NUM": 18,
+      "TOTAL_FREE_SHARES": 11584263,
+      "TOTAL_SHARES_RATIO": 10.17769051,
+      "ALL_SHARES_RATIO": 8.90850278
+    },
+    {
+      "SECUCODE": "688293.SH",
+      "SECURITY_CODE": "688293",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 34964814,
+      "TOTAL_SHARES_RATIO": 30.71935221,
+      "ALL_SHARES_RATIO": 26.88855932
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "688293.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "001717",
+      "HOLDER_NAME": "工银前沿医疗股票A",
+      "TOTAL_SHARES": 3300000,
+      "HOLD_VALUE": 141900000,
+      "TOTALSHARES_RATIO": 2.53775827,
+      "FREESHARES_RATIO": 2.89931078,
+      "FREE_MARKET_CAP": 141900000,
+      "FREE_SHARES": 3300000,
+      "SECURITY_CODE": "688293",
+      "FUND_CODE": "001717",
+      "FUND_DERIVECODE": "001717.OF",
+      "NETVALUE_RATIO": 1.93
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "688293.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "77882736",
+      "HOLDER_NAME": "富诚海富资管-杭州银行-富诚海富通奥浦迈员工参与科创板战略配售集合资产管理计划",
+      "TOTAL_SHARES": 1943876,
+      "HOLD_VALUE": 83586668,
+      "TOTALSHARES_RATIO": 1.49487497,
+      "FREESHARES_RATIO": 1.70784868,
+      "FREE_MARKET_CAP": 83586668,
+      "FREE_SHARES": 1943876,
+      "SECURITY_CODE": "688293",
+      "FUND_CODE": null,
+      "FUND_DERIVECODE": null,
+      "NETVALUE_RATIO": null
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "688293.SH",

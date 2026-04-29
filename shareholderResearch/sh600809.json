@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 143.06,
       "AVG_HOLD_AMT": 1544222.98353672,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 75.5354246,
+      "FREEHOLD_RATIO_TOTAL": 75.5354246
     },
     {
       "SECUCODE": "600809.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600809.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600809.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600809.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600809.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600809.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600809.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600809.SH",
       "END_DATE": "2015-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600809.SH",
-      "END_DATE": "2015-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -445,30 +445,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-12-01 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "华创鑫睿(香港)有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 111913697,
-      "HOLD_NUM_RATIO": 9.17,
-      "HOLD_CHANGE": "-10082726",
-      "CHANGE_RATIO": -8.26477183,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-31 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "华创鑫睿(香港)有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 121996423,
-      "HOLD_NUM_RATIO": 10,
-      "HOLD_CHANGE": "-6117873",
-      "CHANGE_RATIO": -4.77532422,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "600809.SH",
@@ -496,7 +473,7 @@
     {
       "SECUCODE": "600809.SH",
       "SECURITY_CODE": "600809",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "山西杏花村汾酒集团有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -509,86 +486,73 @@
     {
       "SECUCODE": "600809.SH",
       "SECURITY_CODE": "600809",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "華創鑫睿(香港)有限公司",
+      "HOLDER_NAME": "华创鑫睿(香港)有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 111913697,
       "FREE_HOLDNUM_RATIO": 9.173522877296,
-      "HOLD_NUM_CHANGE": "-16200599",
-      "CHANGE_RATIO": -12.64542639
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600809.SH",
       "SECURITY_CODE": "600809",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中国银行股份有限公司-招商中证白酒指数分级证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 38014704,
-      "FREE_HOLDNUM_RATIO": 3.116050726281,
-      "HOLD_NUM_CHANGE": "-636730",
-      "CHANGE_RATIO": -1.64736449
+      "HOLD_NUM": 40257055,
+      "FREE_HOLDNUM_RATIO": 3.299855378874,
+      "HOLD_NUM_CHANGE": "2242351",
+      "CHANGE_RATIO": 5.89864122
     },
     {
       "SECUCODE": "600809.SH",
       "SECURITY_CODE": "600809",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 24060812,
-      "FREE_HOLDNUM_RATIO": 1.972255543737,
-      "HOLD_NUM_CHANGE": "-3103122",
-      "CHANGE_RATIO": -11.42368407
+      "HOLD_NUM": 18008568,
+      "FREE_HOLDNUM_RATIO": 1.47615542122,
+      "HOLD_NUM_CHANGE": "-6052244",
+      "CHANGE_RATIO": -25.15394742
     },
     {
       "SECUCODE": "600809.SH",
       "SECURITY_CODE": "600809",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国银行股份有限公司-易方达蓝筹精选混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 17300000,
-      "FREE_HOLDNUM_RATIO": 1.41807437366,
-      "HOLD_NUM_CHANGE": "-647200",
-      "CHANGE_RATIO": -3.60613355
+      "HOLD_NUM": 17360045,
+      "FREE_HOLDNUM_RATIO": 1.422996239311,
+      "HOLD_NUM_CHANGE": "60045",
+      "CHANGE_RATIO": 0.34708092
     },
     {
       "SECUCODE": "600809.SH",
       "SECURITY_CODE": "600809",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "中国建设银行股份有限公司-鹏华中证酒交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 13025328,
-      "FREE_HOLDNUM_RATIO": 1.067681147128,
-      "HOLD_NUM_CHANGE": "-76928",
-      "CHANGE_RATIO": -0.58713553
+      "HOLD_NUM": 13255201,
+      "FREE_HOLDNUM_RATIO": 1.086523748891,
+      "HOLD_NUM_CHANGE": "229873",
+      "CHANGE_RATIO": 1.76481544
     },
     {
       "SECUCODE": "600809.SH",
       "SECURITY_CODE": "600809",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国工商银行-上证50交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9056187,
-      "FREE_HOLDNUM_RATIO": 0.74233217964,
-      "HOLD_NUM_CHANGE": "-279648",
-      "CHANGE_RATIO": -2.99542569
-    },
-    {
-      "SECUCODE": "600809.SH",
-      "SECURITY_CODE": "600809",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "山西杏花村国际贸易有限责任公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -600,26 +564,39 @@
     {
       "SECUCODE": "600809.SH",
       "SECURITY_CODE": "600809",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8036408,
-      "FREE_HOLDNUM_RATIO": 0.658741285611,
-      "HOLD_NUM_CHANGE": "-265900",
-      "CHANGE_RATIO": -3.20272387
-    },
-    {
-      "SECUCODE": "600809.SH",
-      "SECURITY_CODE": "600809",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "中国农业银行股份有限公司-易方达消费行业股票型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 7539090,
       "FREE_HOLDNUM_RATIO": 0.617976319637,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600809.SH",
+      "SECURITY_CODE": "600809",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国工商银行股份有限公司-中证主要消费交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7230475,
+      "FREE_HOLDNUM_RATIO": 0.592679266294,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600809.SH",
+      "SECURITY_CODE": "600809",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国工商银行股份有限公司-景顺长城新兴成长混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6600000,
+      "FREE_HOLDNUM_RATIO": 0.540999472032,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -628,20 +605,20 @@
     {
       "SECUCODE": "600809.SH",
       "SECURITY_CODE": "600809",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 928287250,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 921505155,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 291676972,
-      "HOLD_NUM_RATIO": 76.09,
+      "OTHER_UNLIMITED_SHARES": 298459067,
+      "HOLD_NUM_RATIO": 75.54,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 23.91
+      "UNLIMITED_SHARES_RATIO": 24.46
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600809.SH",
       "SECURITY_CODE": "600809",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "山西杏花村汾酒集团有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -653,9 +630,9 @@
     {
       "SECUCODE": "600809.SH",
       "SECURITY_CODE": "600809",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "華創鑫睿(香港)有限公司",
+      "HOLDER_NAME": "华创鑫睿(香港)有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 111913697,
       "HOLD_NUM_RATIO": 9.17,
@@ -665,68 +642,56 @@
     {
       "SECUCODE": "600809.SH",
       "SECURITY_CODE": "600809",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中国银行股份有限公司-招商中证白酒指数分级证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 38014704,
-      "HOLD_NUM_RATIO": 3.12,
-      "HOLD_NUM_CHANGE": "-636730",
-      "CHANGE_RATIO": -1.64736449
+      "HOLD_NUM": 40257055,
+      "HOLD_NUM_RATIO": 3.3,
+      "HOLD_NUM_CHANGE": "2242351",
+      "CHANGE_RATIO": 5.89864122
     },
     {
       "SECUCODE": "600809.SH",
       "SECURITY_CODE": "600809",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 24060812,
-      "HOLD_NUM_RATIO": 1.97,
-      "HOLD_NUM_CHANGE": "-3103122",
-      "CHANGE_RATIO": -11.42368407
+      "HOLD_NUM": 18008568,
+      "HOLD_NUM_RATIO": 1.48,
+      "HOLD_NUM_CHANGE": "-6052244",
+      "CHANGE_RATIO": -25.15394742
     },
     {
       "SECUCODE": "600809.SH",
       "SECURITY_CODE": "600809",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国银行股份有限公司-易方达蓝筹精选混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 17300000,
+      "HOLD_NUM": 17360045,
       "HOLD_NUM_RATIO": 1.42,
-      "HOLD_NUM_CHANGE": "-647200",
-      "CHANGE_RATIO": -3.60613355
+      "HOLD_NUM_CHANGE": "60045",
+      "CHANGE_RATIO": 0.34708092
     },
     {
       "SECUCODE": "600809.SH",
       "SECURITY_CODE": "600809",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "中国建设银行股份有限公司-鹏华中证酒交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 13025328,
-      "HOLD_NUM_RATIO": 1.07,
-      "HOLD_NUM_CHANGE": "-76928",
-      "CHANGE_RATIO": -0.58713553
+      "HOLD_NUM": 13255201,
+      "HOLD_NUM_RATIO": 1.09,
+      "HOLD_NUM_CHANGE": "229873",
+      "CHANGE_RATIO": 1.76481544
     },
     {
       "SECUCODE": "600809.SH",
       "SECURITY_CODE": "600809",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国工商银行-上证50交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9056187,
-      "HOLD_NUM_RATIO": 0.74,
-      "HOLD_NUM_CHANGE": "-279648",
-      "CHANGE_RATIO": -2.99542569
-    },
-    {
-      "SECUCODE": "600809.SH",
-      "SECURITY_CODE": "600809",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "山西杏花村国际贸易有限责任公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 8251558,
@@ -737,24 +702,36 @@
     {
       "SECUCODE": "600809.SH",
       "SECURITY_CODE": "600809",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8036408,
-      "HOLD_NUM_RATIO": 0.66,
-      "HOLD_NUM_CHANGE": "-265900",
-      "CHANGE_RATIO": -3.20272387
-    },
-    {
-      "SECUCODE": "600809.SH",
-      "SECURITY_CODE": "600809",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "中国农业银行股份有限公司-易方达消费行业股票型证券投资基金",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 7539090,
       "HOLD_NUM_RATIO": 0.62,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600809.SH",
+      "SECURITY_CODE": "600809",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国工商银行股份有限公司-中证主要消费交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7230475,
+      "HOLD_NUM_RATIO": 0.59,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600809.SH",
+      "SECURITY_CODE": "600809",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国工商银行股份有限公司-景顺长城新兴成长混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6600000,
+      "HOLD_NUM_RATIO": 0.54,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -765,10 +742,10 @@
       "SECURITY_CODE": "600809",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 123,
-      "TOTAL_FREE_SHARES": 127719066,
-      "TOTAL_SHARES_RATIO": 10.46908295,
-      "ALL_SHARES_RATIO": 10.46908295
+      "TOTAL_ORG_NUM": 127,
+      "TOTAL_FREE_SHARES": 956982355,
+      "TOTAL_SHARES_RATIO": 78.44347712,
+      "ALL_SHARES_RATIO": 78.44347712
     },
     {
       "SECUCODE": "600809.SH",
@@ -779,6 +756,16 @@
       "TOTAL_FREE_SHARES": 127719066,
       "TOTAL_SHARES_RATIO": 10.46908295,
       "ALL_SHARES_RATIO": 10.46908295
+    },
+    {
+      "SECUCODE": "600809.SH",
+      "SECURITY_CODE": "600809",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 829263289,
+      "TOTAL_SHARES_RATIO": 67.97439417,
+      "ALL_SHARES_RATIO": 67.97439417
     }
   ],
   "jjcg": [

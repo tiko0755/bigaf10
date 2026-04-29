@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 11.25,
       "AVG_HOLD_AMT": 128482.052027322,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 68.56266733,
+      "FREEHOLD_RATIO_TOTAL": 68.56266733
     },
     {
       "SECUCODE": "002679.SZ",
@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002679.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002679.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002679.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "002679.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002679.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002679.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002679.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "002679.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002679.SZ",
       "END_DATE": "2025-09-30 00:00:00",
@@ -403,16 +413,6 @@
       "SECUCODE": "002679.SZ",
       "END_DATE": "2015-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002679.SZ",
-      "END_DATE": "2015-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002679.SZ",
-      "END_DATE": "2014-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "002679.SZ",
       "SECURITY_CODE": "002679",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "福建金森集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,21 +486,47 @@
     {
       "SECUCODE": "002679.SZ",
       "SECURITY_CODE": "002679",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "将乐县交通基础设施建设有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4597644,
-      "FREE_HOLDNUM_RATIO": 1.950170515279,
+      "HOLD_NUM": 4107644,
+      "FREE_HOLDNUM_RATIO": 1.742328509137,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002679.SZ",
       "SECURITY_CODE": "002679",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1762850,
+      "FREE_HOLDNUM_RATIO": 0.747743429648,
+      "HOLD_NUM_CHANGE": "132811",
+      "CHANGE_RATIO": 8.14771917
+    },
+    {
+      "SECUCODE": "002679.SZ",
+      "SECURITY_CODE": "002679",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "UBS AG",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1240426,
+      "FREE_HOLDNUM_RATIO": 0.526148221042,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002679.SZ",
+      "SECURITY_CODE": "002679",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "将乐县林业科技推广中心",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -512,91 +538,65 @@
     {
       "SECUCODE": "002679.SZ",
       "SECURITY_CODE": "002679",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 783836,
+      "FREE_HOLDNUM_RATIO": 0.33247764638,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002679.SZ",
+      "SECURITY_CODE": "002679",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1006758,
-      "FREE_HOLDNUM_RATIO": 0.427033882489,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 703378,
+      "FREE_HOLDNUM_RATIO": 0.298349988972,
+      "HOLD_NUM_CHANGE": "144610",
+      "CHANGE_RATIO": 25.88015062
     },
     {
       "SECUCODE": "002679.SZ",
       "SECURITY_CODE": "002679",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "李刚宇",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 934000,
-      "FREE_HOLDNUM_RATIO": 0.396172313748,
-      "HOLD_NUM_CHANGE": "129400",
-      "CHANGE_RATIO": 16.08252548
+      "HOLD_NUM": 700000,
+      "FREE_HOLDNUM_RATIO": 0.296917151631,
+      "HOLD_NUM_CHANGE": "-40000",
+      "CHANGE_RATIO": -5.40540541
     },
     {
       "SECUCODE": "002679.SZ",
       "SECURITY_CODE": "002679",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国工商银行股份有限公司-中信保诚多策略灵活配置混合型证券投资基金(LOF)",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国银行股份有限公司-华泰柏瑞量化阿尔法灵活配置混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 850700,
-      "FREE_HOLDNUM_RATIO": 0.360839172704,
+      "HOLD_NUM": 634200,
+      "FREE_HOLDNUM_RATIO": 0.269006939378,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002679.SZ",
       "SECURITY_CODE": "002679",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "高丽",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 739000,
-      "FREE_HOLDNUM_RATIO": 0.313459678651,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002679.SZ",
-      "SECURITY_CODE": "002679",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "UBS AG",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 603144,
-      "FREE_HOLDNUM_RATIO": 0.255833997862,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002679.SZ",
-      "SECURITY_CODE": "002679",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "高盛公司有限责任公司",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 540654,
-      "FREE_HOLDNUM_RATIO": 0.229327779569,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002679.SZ",
-      "SECURITY_CODE": "002679",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "冯志萍",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 534200,
-      "FREE_HOLDNUM_RATIO": 0.226590203431,
+      "HOLD_NUM": 579100,
+      "FREE_HOLDNUM_RATIO": 0.245635317871,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "002679.SZ",
       "SECURITY_CODE": "002679",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 160935268,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 161640602,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 74820732,
-      "HOLD_NUM_RATIO": 68.26,
+      "OTHER_UNLIMITED_SHARES": 74115398,
+      "HOLD_NUM_RATIO": 68.56,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 31.74
+      "UNLIMITED_SHARES_RATIO": 31.44
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002679.SZ",
       "SECURITY_CODE": "002679",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "福建金森集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,20 +630,44 @@
     {
       "SECUCODE": "002679.SZ",
       "SECURITY_CODE": "002679",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "将乐县交通基础设施建设有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4597644,
-      "HOLD_NUM_RATIO": 1.95,
+      "HOLD_NUM": 4107644,
+      "HOLD_NUM_RATIO": 1.74,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002679.SZ",
       "SECURITY_CODE": "002679",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1762850,
+      "HOLD_NUM_RATIO": 0.75,
+      "HOLD_NUM_CHANGE": "132811",
+      "CHANGE_RATIO": 8.14771917
+    },
+    {
+      "SECUCODE": "002679.SZ",
+      "SECURITY_CODE": "002679",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "UBS AG",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1240426,
+      "HOLD_NUM_RATIO": 0.53,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002679.SZ",
+      "SECURITY_CODE": "002679",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "将乐县林业科技推广中心",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1121294,
@@ -654,84 +678,60 @@
     {
       "SECUCODE": "002679.SZ",
       "SECURITY_CODE": "002679",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 783836,
+      "HOLD_NUM_RATIO": 0.33,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002679.SZ",
+      "SECURITY_CODE": "002679",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1006758,
-      "HOLD_NUM_RATIO": 0.43,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 703378,
+      "HOLD_NUM_RATIO": 0.3,
+      "HOLD_NUM_CHANGE": "144610",
+      "CHANGE_RATIO": 25.88015062
     },
     {
       "SECUCODE": "002679.SZ",
       "SECURITY_CODE": "002679",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "李刚宇",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 934000,
-      "HOLD_NUM_RATIO": 0.4,
-      "HOLD_NUM_CHANGE": "129400",
-      "CHANGE_RATIO": 16.08252548
+      "HOLD_NUM": 700000,
+      "HOLD_NUM_RATIO": 0.3,
+      "HOLD_NUM_CHANGE": "-40000",
+      "CHANGE_RATIO": -5.40540541
     },
     {
       "SECUCODE": "002679.SZ",
       "SECURITY_CODE": "002679",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国工商银行股份有限公司-中信保诚多策略灵活配置混合型证券投资基金(LOF)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 850700,
-      "HOLD_NUM_RATIO": 0.36,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002679.SZ",
-      "SECURITY_CODE": "002679",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "高丽",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 739000,
-      "HOLD_NUM_RATIO": 0.31,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002679.SZ",
-      "SECURITY_CODE": "002679",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "UBS AG",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 603144,
-      "HOLD_NUM_RATIO": 0.26,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002679.SZ",
-      "SECURITY_CODE": "002679",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_NAME": "中国银行股份有限公司-华泰柏瑞量化阿尔法灵活配置混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 540654,
-      "HOLD_NUM_RATIO": 0.23,
+      "HOLD_NUM": 634200,
+      "HOLD_NUM_RATIO": 0.27,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002679.SZ",
       "SECURITY_CODE": "002679",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "冯志萍",
+      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 534200,
-      "HOLD_NUM_RATIO": 0.23,
+      "HOLD_NUM": 579100,
+      "HOLD_NUM_RATIO": 0.25,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,20 +742,40 @@
       "SECURITY_CODE": "002679",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 667100,
-      "TOTAL_SHARES_RATIO": 0.28296205,
-      "ALL_SHARES_RATIO": 0.28296205
+      "TOTAL_ORG_NUM": 10,
+      "TOTAL_FREE_SHARES": 160973502,
+      "TOTAL_SHARES_RATIO": 68.2797053,
+      "ALL_SHARES_RATIO": 68.2797053
     },
     {
       "SECUCODE": "002679.SZ",
       "SECURITY_CODE": "002679",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 667100,
-      "TOTAL_SHARES_RATIO": 0.28296205,
-      "ALL_SHARES_RATIO": 0.28296205
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 1246200,
+      "TOTAL_SHARES_RATIO": 0.52859737,
+      "ALL_SHARES_RATIO": 0.52859737
+    },
+    {
+      "SECUCODE": "002679.SZ",
+      "SECURITY_CODE": "002679",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 4490490,
+      "TOTAL_SHARES_RATIO": 1.90471929,
+      "ALL_SHARES_RATIO": 1.90471929
+    },
+    {
+      "SECUCODE": "002679.SZ",
+      "SECURITY_CODE": "002679",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 155236812,
+      "TOTAL_SHARES_RATIO": 65.84638864,
+      "ALL_SHARES_RATIO": 65.84638864
     }
   ],
   "jjcg": [
@@ -775,6 +795,23 @@
       "FUND_CODE": "005055",
       "FUND_DERIVECODE": "005055.OF",
       "NETVALUE_RATIO": 0.51
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002679.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "320016",
+      "HOLDER_NAME": "诺安多策略混合A",
+      "TOTAL_SHARES": 579100,
+      "HOLD_VALUE": 6514875,
+      "TOTALSHARES_RATIO": 0.24563532,
+      "FREESHARES_RATIO": 0.24563532,
+      "FREE_MARKET_CAP": 6514875,
+      "FREE_SHARES": 579100,
+      "SECURITY_CODE": "002679",
+      "FUND_CODE": "320016",
+      "FUND_DERIVECODE": "320016.OF",
+      "NETVALUE_RATIO": 0.26
     },
     {
       "ORG_TYPE": "01",

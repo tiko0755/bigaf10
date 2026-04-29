@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 9.76,
       "AVG_HOLD_AMT": 275480.638091827,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 62.65918946,
+      "FREEHOLD_RATIO_TOTAL": 62.65918946
     },
     {
       "SECUCODE": "600683.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600683.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600683.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600683.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600683.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600683.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600683.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600683.SH",
       "END_DATE": "2017-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600683.SH",
-      "END_DATE": "2017-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600683.SH",
       "SECURITY_CODE": "600683",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京市基础设施投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600683.SH",
       "SECURITY_CODE": "600683",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "程少良",
       "HOLDER_TYPE": "个人",
@@ -499,47 +499,60 @@
     {
       "SECUCODE": "600683.SH",
       "SECURITY_CODE": "600683",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "毛景彤",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9911071,
-      "FREE_HOLDNUM_RATIO": 1.337928015121,
-      "HOLD_NUM_CHANGE": "942700",
-      "CHANGE_RATIO": 10.51138495
+      "HOLD_NUM": 9785499,
+      "FREE_HOLDNUM_RATIO": 1.320976638552,
+      "HOLD_NUM_CHANGE": "-125572",
+      "CHANGE_RATIO": -1.26698719
     },
     {
       "SECUCODE": "600683.SH",
       "SECURITY_CODE": "600683",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "童晓阳",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9607162,
-      "FREE_HOLDNUM_RATIO": 1.296902341392,
-      "HOLD_NUM_CHANGE": "1029700",
-      "CHANGE_RATIO": 12.00471655
+      "HOLD_NUM": 8620262,
+      "FREE_HOLDNUM_RATIO": 1.163677470122,
+      "HOLD_NUM_CHANGE": "-986900",
+      "CHANGE_RATIO": -10.27254459
     },
     {
       "SECUCODE": "600683.SH",
       "SECURITY_CODE": "600683",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "程开武",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7164500,
-      "FREE_HOLDNUM_RATIO": 0.967159378066,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 7106300,
+      "FREE_HOLDNUM_RATIO": 0.959302768979,
+      "HOLD_NUM_CHANGE": "-58200",
+      "CHANGE_RATIO": -0.81233861
+    },
+    {
+      "SECUCODE": "600683.SH",
+      "SECURITY_CODE": "600683",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "王梦炜",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6328400,
+      "FREE_HOLDNUM_RATIO": 0.854291493915,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600683.SH",
       "SECURITY_CODE": "600683",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "龚万伦",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -551,47 +564,21 @@
     {
       "SECUCODE": "600683.SH",
       "SECURITY_CODE": "600683",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "龚岚",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4862200,
-      "FREE_HOLDNUM_RATIO": 0.656364341969,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 4812200,
+      "FREE_HOLDNUM_RATIO": 0.649614677805,
+      "HOLD_NUM_CHANGE": "-50000",
+      "CHANGE_RATIO": -1.02834108
     },
     {
       "SECUCODE": "600683.SH",
       "SECURITY_CODE": "600683",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "赵德勇",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4700000,
-      "FREE_HOLDNUM_RATIO": 0.63446843142,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600683.SH",
-      "SECURITY_CODE": "600683",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "杨建平",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4300000,
-      "FREE_HOLDNUM_RATIO": 0.580471118108,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600683.SH",
-      "SECURITY_CODE": "600683",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "宁波市银河综合服务管理中心",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -599,26 +586,39 @@
       "FREE_HOLDNUM_RATIO": 0.577784751771,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600683.SH",
+      "SECURITY_CODE": "600683",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "韩松行",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3707300,
+      "FREE_HOLDNUM_RATIO": 0.500460599107,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600683.SH",
       "SECURITY_CODE": "600683",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 464350210,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 464165238,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 276427387,
-      "HOLD_NUM_RATIO": 62.68,
+      "OTHER_UNLIMITED_SHARES": 276612359,
+      "HOLD_NUM_RATIO": 62.66,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 37.32
+      "UNLIMITED_SHARES_RATIO": 37.34
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600683.SH",
       "SECURITY_CODE": "600683",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京市基础设施投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600683.SH",
       "SECURITY_CODE": "600683",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "程少良",
       "SHARES_TYPE": "流通A股",
@@ -642,44 +642,56 @@
     {
       "SECUCODE": "600683.SH",
       "SECURITY_CODE": "600683",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "毛景彤",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9911071,
-      "HOLD_NUM_RATIO": 1.34,
-      "HOLD_NUM_CHANGE": "942700",
-      "CHANGE_RATIO": 10.51138495
+      "HOLD_NUM": 9785499,
+      "HOLD_NUM_RATIO": 1.32,
+      "HOLD_NUM_CHANGE": "-125572",
+      "CHANGE_RATIO": -1.26698719
     },
     {
       "SECUCODE": "600683.SH",
       "SECURITY_CODE": "600683",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "童晓阳",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9607162,
-      "HOLD_NUM_RATIO": 1.3,
-      "HOLD_NUM_CHANGE": "1029700",
-      "CHANGE_RATIO": 12.00471655
+      "HOLD_NUM": 8620262,
+      "HOLD_NUM_RATIO": 1.16,
+      "HOLD_NUM_CHANGE": "-986900",
+      "CHANGE_RATIO": -10.27254459
     },
     {
       "SECUCODE": "600683.SH",
       "SECURITY_CODE": "600683",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "程开武",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7164500,
-      "HOLD_NUM_RATIO": 0.97,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 7106300,
+      "HOLD_NUM_RATIO": 0.96,
+      "HOLD_NUM_CHANGE": "-58200",
+      "CHANGE_RATIO": -0.81233861
+    },
+    {
+      "SECUCODE": "600683.SH",
+      "SECURITY_CODE": "600683",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "王梦炜",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6328400,
+      "HOLD_NUM_RATIO": 0.85,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600683.SH",
       "SECURITY_CODE": "600683",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "龚万伦",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 6302150,
@@ -690,49 +702,37 @@
     {
       "SECUCODE": "600683.SH",
       "SECURITY_CODE": "600683",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "龚岚",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4862200,
-      "HOLD_NUM_RATIO": 0.66,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 4812200,
+      "HOLD_NUM_RATIO": 0.65,
+      "HOLD_NUM_CHANGE": "-50000",
+      "CHANGE_RATIO": -1.02834108
     },
     {
       "SECUCODE": "600683.SH",
       "SECURITY_CODE": "600683",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "赵德勇",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4700000,
-      "HOLD_NUM_RATIO": 0.63,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600683.SH",
-      "SECURITY_CODE": "600683",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "杨建平",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4300000,
-      "HOLD_NUM_RATIO": 0.58,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600683.SH",
-      "SECURITY_CODE": "600683",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "宁波市银河综合服务管理中心",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4280100,
       "HOLD_NUM_RATIO": 0.58,
       "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600683.SH",
+      "SECURITY_CODE": "600683",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "韩松行",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3707300,
+      "HOLD_NUM_RATIO": 0.5,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -742,10 +742,10 @@
       "SECURITY_CODE": "600683",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 41600,
-      "TOTAL_SHARES_RATIO": 0.00561572,
-      "ALL_SHARES_RATIO": 0.00561572
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 300632691,
+      "TOTAL_SHARES_RATIO": 40.58339402,
+      "ALL_SHARES_RATIO": 40.58339402
     },
     {
       "SECUCODE": "600683.SH",
@@ -756,6 +756,16 @@
       "TOTAL_FREE_SHARES": 41600,
       "TOTAL_SHARES_RATIO": 0.00561572,
       "ALL_SHARES_RATIO": 0.00561572
+    },
+    {
+      "SECUCODE": "600683.SH",
+      "SECURITY_CODE": "600683",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 300591091,
+      "TOTAL_SHARES_RATIO": 40.5777783,
+      "ALL_SHARES_RATIO": 40.5777783
     }
   ],
   "jjcg": [

@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 14.89,
       "AVG_HOLD_AMT": 98119.1526080065,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 47.31689453,
+      "FREEHOLD_RATIO_TOTAL": 38.34108042
     },
     {
       "SECUCODE": "002725.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002725.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "002725.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002725.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002725.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002725.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002725.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002725.SZ",
       "END_DATE": "2021-09-24 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "002725.SZ",
-      "END_DATE": "2021-09-16 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "002725.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "002725.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "002725.SZ",
       "REPORT_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "002725.SZ",
-      "REPORT_DATE": "2024-06-30 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "002725.SZ",
       "SECURITY_CODE": "002725",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "深圳杰思金材科技有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,117 +486,117 @@
     {
       "SECUCODE": "002725.SZ",
       "SECURITY_CODE": "002725",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "钟小头",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 5305019,
       "FREE_HOLDNUM_RATIO": 2.502204467257,
-      "HOLD_NUM_CHANGE": "-2465200",
-      "CHANGE_RATIO": -31.72626151
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002725.SZ",
       "SECURITY_CODE": "002725",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "UBS AG",
-      "HOLDER_TYPE": "QFII",
+      "HOLDER_NAME": "全国社保基金五零三组合",
+      "HOLDER_TYPE": "全国社保基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2982062,
-      "FREE_HOLDNUM_RATIO": 1.406541401273,
+      "HOLD_NUM": 5000000,
+      "FREE_HOLDNUM_RATIO": 2.358336951533,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002725.SZ",
       "SECURITY_CODE": "002725",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "林斌",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2280000,
+      "FREE_HOLDNUM_RATIO": 1.075401649899,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002725.SZ",
+      "SECURITY_CODE": "002725",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "高盛国际-自有资金",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2462955,
-      "FREE_HOLDNUM_RATIO": 1.161695557293,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1424240,
+      "FREE_HOLDNUM_RATIO": 0.67176756397,
+      "HOLD_NUM_CHANGE": "-1038715",
+      "CHANGE_RATIO": -42.17352733
     },
     {
       "SECUCODE": "002725.SZ",
       "SECURITY_CODE": "002725",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1619637,
-      "FREE_HOLDNUM_RATIO": 0.763929957034,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002725.SZ",
-      "SECURITY_CODE": "002725",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "BARCLAYS BANK PLC",
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1286967,
-      "FREE_HOLDNUM_RATIO": 0.607020366301,
-      "HOLD_NUM_CHANGE": "729767",
-      "CHANGE_RATIO": 130.97038765
-    },
-    {
-      "SECUCODE": "002725.SZ",
-      "SECURITY_CODE": "002725",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "廖鲁斌",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 990000,
-      "FREE_HOLDNUM_RATIO": 0.466950716404,
+      "HOLD_NUM": 1050571,
+      "FREE_HOLDNUM_RATIO": 0.495520081902,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002725.SZ",
       "SECURITY_CODE": "002725",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "潘贤国",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 864000,
-      "FREE_HOLDNUM_RATIO": 0.407520625225,
-      "HOLD_NUM_CHANGE": "176800",
-      "CHANGE_RATIO": 25.72759022
+      "HOLD_NUM": 899000,
+      "FREE_HOLDNUM_RATIO": 0.424028983886,
+      "HOLD_NUM_CHANGE": "35000",
+      "CHANGE_RATIO": 4.05092593
     },
     {
       "SECUCODE": "002725.SZ",
       "SECURITY_CODE": "002725",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "张永进",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 810800,
-      "FREE_HOLDNUM_RATIO": 0.382427920061,
-      "HOLD_NUM_CHANGE": "-343900",
-      "CHANGE_RATIO": -29.78262752
+      "HOLD_NUM": 853300,
+      "FREE_HOLDNUM_RATIO": 0.402473784149,
+      "HOLD_NUM_CHANGE": "42500",
+      "CHANGE_RATIO": 5.24173656
     },
     {
       "SECUCODE": "002725.SZ",
       "SECURITY_CODE": "002725",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "阿布达比投资局",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "UBS AG",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 791200,
-      "FREE_HOLDNUM_RATIO": 0.373183239211,
+      "HOLD_NUM": 818635,
+      "FREE_HOLDNUM_RATIO": 0.386123434064,
+      "HOLD_NUM_CHANGE": "-2163427",
+      "CHANGE_RATIO": -72.54802214
+    },
+    {
+      "SECUCODE": "002725.SZ",
+      "SECURITY_CODE": "002725",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "龙灼强",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 782600,
+      "FREE_HOLDNUM_RATIO": 0.369126899654,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "002725.SZ",
       "SECURITY_CODE": "002725",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 79987660,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 81288385,
       "LIMITED_SHARES": 43986191,
-      "OTHER_UNLIMITED_SHARES": 132026149,
-      "HOLD_NUM_RATIO": 31.25,
+      "OTHER_UNLIMITED_SHARES": 130725424,
+      "HOLD_NUM_RATIO": 31.75,
       "LIMITED_SHARES_RATIO": 17.18,
-      "UNLIMITED_SHARES_RATIO": 51.57
+      "UNLIMITED_SHARES_RATIO": 51.06
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002725.SZ",
       "SECURITY_CODE": "002725",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "深圳杰思金材科技有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "002725.SZ",
       "SECURITY_CODE": "002725",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "林仙明",
       "SHARES_TYPE": "限售流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "002725.SZ",
       "SECURITY_CODE": "002725",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "林信福",
       "SHARES_TYPE": "限售流通A股",
@@ -654,10 +654,10 @@
     {
       "SECUCODE": "002725.SZ",
       "SECURITY_CODE": "002725",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "林斌",
-      "SHARES_TYPE": "限售流通A股",
+      "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 9120000,
       "HOLD_NUM_RATIO": 3.56,
       "HOLD_NUM_CHANGE": "不变",
@@ -666,72 +666,72 @@
     {
       "SECUCODE": "002725.SZ",
       "SECURITY_CODE": "002725",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "钟小头",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 5305019,
       "HOLD_NUM_RATIO": 2.07,
-      "HOLD_NUM_CHANGE": "-2465200",
-      "CHANGE_RATIO": -31.72626151
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002725.SZ",
       "SECURITY_CODE": "002725",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "UBS AG",
+      "HOLDER_NAME": "全国社保基金五零三组合",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2982062,
-      "HOLD_NUM_RATIO": 1.16,
+      "HOLD_NUM": 5000000,
+      "HOLD_NUM_RATIO": 1.95,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002725.SZ",
       "SECURITY_CODE": "002725",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "高盛国际-自有资金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2462955,
-      "HOLD_NUM_RATIO": 0.96,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1424240,
+      "HOLD_NUM_RATIO": 0.56,
+      "HOLD_NUM_CHANGE": "-1038715",
+      "CHANGE_RATIO": -42.17352733
     },
     {
       "SECUCODE": "002725.SZ",
       "SECURITY_CODE": "002725",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1619637,
-      "HOLD_NUM_RATIO": 0.63,
+      "HOLD_NUM": 1050571,
+      "HOLD_NUM_RATIO": 0.41,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002725.SZ",
       "SECURITY_CODE": "002725",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "BARCLAYS BANK PLC",
+      "HOLDER_NAME": "潘贤国",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1286967,
-      "HOLD_NUM_RATIO": 0.5,
+      "HOLD_NUM": 899000,
+      "HOLD_NUM_RATIO": 0.35,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002725.SZ",
       "SECURITY_CODE": "002725",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "廖鲁斌",
+      "HOLDER_NAME": "张永进",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 990000,
-      "HOLD_NUM_RATIO": 0.39,
+      "HOLD_NUM": 853300,
+      "HOLD_NUM_RATIO": 0.33,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -740,37 +740,37 @@
     {
       "SECUCODE": "002725.SZ",
       "SECURITY_CODE": "002725",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 34,
-      "TOTAL_FREE_SHARES": 72990541,
-      "TOTAL_SHARES_RATIO": 34.42725798,
-      "ALL_SHARES_RATIO": 28.51193011
-    },
-    {
-      "SECUCODE": "002725.SZ",
-      "SECURITY_CODE": "002725",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 28,
-      "TOTAL_FREE_SHARES": 972700,
-      "TOTAL_SHARES_RATIO": 0.45879085,
-      "ALL_SHARES_RATIO": 0.37996097
-    },
-    {
-      "SECUCODE": "002725.SZ",
-      "SECURITY_CODE": "002725",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "02",
       "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 9142821,
-      "TOTAL_SHARES_RATIO": 4.31237053,
-      "ALL_SHARES_RATIO": 3.57141445
+      "TOTAL_FREE_SHARES": 71168466,
+      "TOTAL_SHARES_RATIO": 33.56784462,
+      "ALL_SHARES_RATIO": 27.80018204
     },
     {
       "SECUCODE": "002725.SZ",
       "SECURITY_CODE": "002725",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 3293446,
+      "TOTAL_SHARES_RATIO": 1.55341107,
+      "ALL_SHARES_RATIO": 1.28650235
+    },
+    {
+      "SECUCODE": "002725.SZ",
+      "SECURITY_CODE": "002725",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 5000000,
+      "TOTAL_SHARES_RATIO": 2.35833695,
+      "ALL_SHARES_RATIO": 1.953125
+    },
+    {
+      "SECUCODE": "002725.SZ",
+      "SECURITY_CODE": "002725",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 1,
       "TOTAL_FREE_SHARES": 62875020,

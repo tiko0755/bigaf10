@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 67.05,
       "AVG_HOLD_AMT": 549924.568732944,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 90.84380571,
+      "FREEHOLD_RATIO_TOTAL": 58.25377734
     },
     {
       "SECUCODE": "302132.SZ",
@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "302132.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "302132.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "302132.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "302132.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "302132.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "302132.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "302132.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "302132.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "302132.SZ",
       "END_DATE": "2025-09-30 00:00:00",
@@ -403,16 +413,6 @@
       "SECUCODE": "302132.SZ",
       "END_DATE": "2016-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "302132.SZ",
-      "END_DATE": "2016-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "302132.SZ",
-      "END_DATE": "2015-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -483,7 +483,7 @@
     {
       "SECUCODE": "302132.SZ",
       "SECURITY_CODE": "302132",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "汉中汉航机电有限公司",
       "HOLDER_TYPE": "其它",
@@ -496,7 +496,7 @@
     {
       "SECUCODE": "302132.SZ",
       "SECURITY_CODE": "302132",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "汉中航空工业(集团)有限公司",
       "HOLDER_TYPE": "其它",
@@ -509,7 +509,7 @@
     {
       "SECUCODE": "302132.SZ",
       "SECURITY_CODE": "302132",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中国航空工业集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -522,8 +522,21 @@
     {
       "SECUCODE": "302132.SZ",
       "SECURITY_CODE": "302132",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "方威",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 10965048,
+      "FREE_HOLDNUM_RATIO": 1.870946708319,
+      "HOLD_NUM_CHANGE": "876300",
+      "CHANGE_RATIO": 8.68591425
+    },
+    {
+      "SECUCODE": "302132.SZ",
+      "SECURITY_CODE": "302132",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国航空科技工业股份有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -535,100 +548,87 @@
     {
       "SECUCODE": "302132.SZ",
       "SECURITY_CODE": "302132",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "中国建设银行股份有限公司-富国中证军工龙头交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6631900,
-      "FREE_HOLDNUM_RATIO": 1.13158934415,
-      "HOLD_NUM_CHANGE": "968800",
-      "CHANGE_RATIO": 17.10723809
+      "HOLD_NUM": 4153700,
+      "FREE_HOLDNUM_RATIO": 0.70873846994,
+      "HOLD_NUM_CHANGE": "-92400",
+      "CHANGE_RATIO": -2.17611455
     },
     {
       "SECUCODE": "302132.SZ",
       "SECURITY_CODE": "302132",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "中国工商银行股份有限公司-易方达创业板交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5940566,
-      "FREE_HOLDNUM_RATIO": 1.013628248891,
-      "HOLD_NUM_CHANGE": "-1114755",
-      "CHANGE_RATIO": -15.80020243
+      "HOLD_NUM": 2707970,
+      "FREE_HOLDNUM_RATIO": 0.462056122119,
+      "HOLD_NUM_CHANGE": "-2590632",
+      "CHANGE_RATIO": -48.89274567
     },
     {
       "SECUCODE": "302132.SZ",
       "SECURITY_CODE": "302132",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4971300,
-      "FREE_HOLDNUM_RATIO": 0.848244109015,
-      "HOLD_NUM_CHANGE": "-168400",
-      "CHANGE_RATIO": -3.27645582
+      "HOLD_NUM": 2385300,
+      "FREE_HOLDNUM_RATIO": 0.406999511845,
+      "HOLD_NUM_CHANGE": "-2577400",
+      "CHANGE_RATIO": -51.93543837
     },
     {
       "SECUCODE": "302132.SZ",
       "SECURITY_CODE": "302132",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国建设银行股份有限公司-易方达沪深300交易型开放式指数发起式证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3622064,
-      "FREE_HOLDNUM_RATIO": 0.618026361409,
-      "HOLD_NUM_CHANGE": "-150358",
-      "CHANGE_RATIO": -3.98571528
-    },
-    {
-      "SECUCODE": "302132.SZ",
-      "SECURITY_CODE": "302132",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国建设银行股份有限公司-广发科技先锋混合型证券投资基金",
+      "HOLDER_NAME": "中国建设银行股份有限公司-国泰中证军工交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3132198,
-      "FREE_HOLDNUM_RATIO": 0.534441393955,
+      "HOLD_NUM": 1747599,
+      "FREE_HOLDNUM_RATIO": 0.298189720329,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "302132.SZ",
       "SECURITY_CODE": "302132",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国建设银行股份有限公司-国泰中证军工交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "中国建设银行股份有限公司-易方达沪深300交易型开放式指数发起式证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2879299,
-      "FREE_HOLDNUM_RATIO": 0.491289685765,
-      "HOLD_NUM_CHANGE": "-518500",
-      "CHANGE_RATIO": -15.25987853
+      "HOLD_NUM": 1647002,
+      "FREE_HOLDNUM_RATIO": 0.281025032494,
+      "HOLD_NUM_CHANGE": "-1838362",
+      "CHANGE_RATIO": -52.7451939
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "302132.SZ",
       "SECURITY_CODE": "302132",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 344978329,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 341407621,
       "LIMITED_SHARES": 2086021877,
-      "OTHER_UNLIMITED_SHARES": 241091170,
-      "HOLD_NUM_RATIO": 12.91,
+      "OTHER_UNLIMITED_SHARES": 244661878,
+      "HOLD_NUM_RATIO": 12.78,
       "LIMITED_SHARES_RATIO": 78.07,
-      "UNLIMITED_SHARES_RATIO": 9.02
+      "UNLIMITED_SHARES_RATIO": 9.16
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "302132.SZ",
       "SECURITY_CODE": "302132",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国航空工业集团有限公司",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -640,7 +640,7 @@
     {
       "SECUCODE": "302132.SZ",
       "SECURITY_CODE": "302132",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "汉中汉航机电有限公司",
       "SHARES_TYPE": "流通A股",
@@ -652,7 +652,7 @@
     {
       "SECUCODE": "302132.SZ",
       "SECURITY_CODE": "302132",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "汉中航空工业(集团)有限公司",
       "SHARES_TYPE": "流通A股",
@@ -664,8 +664,20 @@
     {
       "SECUCODE": "302132.SZ",
       "SECURITY_CODE": "302132",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "方威",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 10965048,
+      "HOLD_NUM_RATIO": 0.41,
+      "HOLD_NUM_CHANGE": "876300",
+      "CHANGE_RATIO": 8.68591425
+    },
+    {
+      "SECUCODE": "302132.SZ",
+      "SECURITY_CODE": "302132",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国航空科技工业股份有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 7043584,
@@ -676,74 +688,62 @@
     {
       "SECUCODE": "302132.SZ",
       "SECURITY_CODE": "302132",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "中国建设银行股份有限公司-富国中证军工龙头交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6631900,
-      "HOLD_NUM_RATIO": 0.25,
-      "HOLD_NUM_CHANGE": "968800",
-      "CHANGE_RATIO": 17.10723809
+      "HOLD_NUM": 4153700,
+      "HOLD_NUM_RATIO": 0.16,
+      "HOLD_NUM_CHANGE": "-92400",
+      "CHANGE_RATIO": -2.17611455
     },
     {
       "SECUCODE": "302132.SZ",
       "SECURITY_CODE": "302132",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "中国工商银行股份有限公司-易方达创业板交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5940566,
-      "HOLD_NUM_RATIO": 0.22,
-      "HOLD_NUM_CHANGE": "-1114755",
-      "CHANGE_RATIO": -15.80020243
+      "HOLD_NUM": 2707970,
+      "HOLD_NUM_RATIO": 0.1,
+      "HOLD_NUM_CHANGE": "-2590632",
+      "CHANGE_RATIO": -48.89274567
     },
     {
       "SECUCODE": "302132.SZ",
       "SECURITY_CODE": "302132",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4971300,
-      "HOLD_NUM_RATIO": 0.19,
-      "HOLD_NUM_CHANGE": "-168400",
-      "CHANGE_RATIO": -3.27645582
+      "HOLD_NUM": 2385300,
+      "HOLD_NUM_RATIO": 0.09,
+      "HOLD_NUM_CHANGE": "-2577400",
+      "CHANGE_RATIO": -51.93543837
     },
     {
       "SECUCODE": "302132.SZ",
       "SECURITY_CODE": "302132",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国建设银行股份有限公司-易方达沪深300交易型开放式指数发起式证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3622064,
-      "HOLD_NUM_RATIO": 0.14,
-      "HOLD_NUM_CHANGE": "-150358",
-      "CHANGE_RATIO": -3.98571528
-    },
-    {
-      "SECUCODE": "302132.SZ",
-      "SECURITY_CODE": "302132",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国建设银行股份有限公司-广发科技先锋混合型证券投资基金",
+      "HOLDER_NAME": "中国建设银行股份有限公司-国泰中证军工交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3132198,
-      "HOLD_NUM_RATIO": 0.12,
+      "HOLD_NUM": 1747599,
+      "HOLD_NUM_RATIO": 0.07,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "302132.SZ",
       "SECURITY_CODE": "302132",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国建设银行股份有限公司-国泰中证军工交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "中国建设银行股份有限公司-易方达沪深300交易型开放式指数发起式证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2879299,
-      "HOLD_NUM_RATIO": 0.11,
-      "HOLD_NUM_CHANGE": "-518500",
-      "CHANGE_RATIO": -15.25987853
+      "HOLD_NUM": 1647002,
+      "HOLD_NUM_RATIO": 0.06,
+      "HOLD_NUM_CHANGE": "-1838362",
+      "CHANGE_RATIO": -52.7451939
     }
   ],
   "jgcc": [
@@ -752,23 +752,118 @@
       "SECURITY_CODE": "302132",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 15,
-      "TOTAL_FREE_SHARES": 5394629,
-      "TOTAL_SHARES_RATIO": 0.92047599,
-      "ALL_SHARES_RATIO": 0.20188788
+      "TOTAL_ORG_NUM": 24,
+      "TOTAL_FREE_SHARES": 2421859079,
+      "TOTAL_SHARES_RATIO": 57.30330662,
+      "ALL_SHARES_RATIO": 12.56832775
     },
     {
       "SECUCODE": "302132.SZ",
       "SECURITY_CODE": "302132",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 15,
-      "TOTAL_FREE_SHARES": 5394629,
-      "TOTAL_SHARES_RATIO": 0.92047599,
-      "ALL_SHARES_RATIO": 0.20188788
+      "TOTAL_ORG_NUM": 20,
+      "TOTAL_FREE_SHARES": 18036200,
+      "TOTAL_SHARES_RATIO": 3.07748484,
+      "ALL_SHARES_RATIO": 0.6749844
+    },
+    {
+      "SECUCODE": "302132.SZ",
+      "SECURITY_CODE": "302132",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 2403822879,
+      "TOTAL_SHARES_RATIO": 54.22582178,
+      "ALL_SHARES_RATIO": 11.89334335
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "302132.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "512710",
+      "HOLDER_NAME": "富国中证军工龙头ETF",
+      "TOTAL_SHARES": 4153700,
+      "HOLD_VALUE": 278505585,
+      "TOTALSHARES_RATIO": 0.15544753,
+      "FREESHARES_RATIO": 0.70873847,
+      "FREE_MARKET_CAP": 278505585,
+      "FREE_SHARES": 4153700,
+      "SECURITY_CODE": "302132",
+      "FUND_CODE": "512710",
+      "FUND_DERIVECODE": "512710.SH",
+      "NETVALUE_RATIO": 2.91
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "302132.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "159915",
+      "HOLDER_NAME": "易方达创业板ETF",
+      "TOTAL_SHARES": 2707970,
+      "HOLD_VALUE": 181569388.5,
+      "TOTALSHARES_RATIO": 0.10134272,
+      "FREESHARES_RATIO": 0.46205612,
+      "FREE_MARKET_CAP": 181569388.5,
+      "FREE_SHARES": 2707970,
+      "SECURITY_CODE": "302132",
+      "FUND_CODE": "159915",
+      "FUND_DERIVECODE": "159915.SZ",
+      "NETVALUE_RATIO": 0.36
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "302132.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "510300",
+      "HOLDER_NAME": "华泰柏瑞沪深300ETF",
+      "TOTAL_SHARES": 2385300,
+      "HOLD_VALUE": 159934365,
+      "TOTALSHARES_RATIO": 0.08926716,
+      "FREESHARES_RATIO": 0.40699951,
+      "FREE_MARKET_CAP": 159934365,
+      "FREE_SHARES": 2385300,
+      "SECURITY_CODE": "302132",
+      "FUND_CODE": "510300",
+      "FUND_DERIVECODE": "510300.SH",
+      "NETVALUE_RATIO": 0.08
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "302132.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "512660",
+      "HOLDER_NAME": "国泰中证军工ETF",
+      "TOTAL_SHARES": 1747599,
+      "HOLD_VALUE": 117176512.95,
+      "TOTALSHARES_RATIO": 0.06540192,
+      "FREESHARES_RATIO": 0.29818972,
+      "FREE_MARKET_CAP": 117176512.95,
+      "FREE_SHARES": 1747599,
+      "SECURITY_CODE": "302132",
+      "FUND_CODE": "512660",
+      "FUND_DERIVECODE": "512660.SH",
+      "NETVALUE_RATIO": 1.25
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "302132.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "510310",
+      "HOLDER_NAME": "易方达沪深300ETF",
+      "TOTAL_SHARES": 1647002,
+      "HOLD_VALUE": 110431484.1,
+      "TOTALSHARES_RATIO": 0.06163719,
+      "FREESHARES_RATIO": 0.28102503,
+      "FREE_MARKET_CAP": 110431484.1,
+      "FREE_SHARES": 1647002,
+      "SECURITY_CODE": "302132",
+      "FUND_CODE": "510310",
+      "FUND_DERIVECODE": "510310.SH",
+      "NETVALUE_RATIO": 0.08
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "302132.SZ",

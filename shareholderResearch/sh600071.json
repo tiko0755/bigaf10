@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 18.69,
       "AVG_HOLD_AMT": 193194.419435022,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 52.78739748,
+      "FREEHOLD_RATIO_TOTAL": 52.78739748
     },
     {
       "SECUCODE": "600071.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600071.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600071.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600071.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600071.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600071.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600071.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600071.SH",
       "END_DATE": "2015-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600071.SH",
-      "END_DATE": "2014-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "600071.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "600071.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "600071.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600071.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600071.SH",
       "SECURITY_CODE": "600071",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中电海康集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600071.SH",
       "SECURITY_CODE": "600071",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中电科投资控股有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -499,60 +499,73 @@
     {
       "SECUCODE": "600071.SH",
       "SECURITY_CODE": "600071",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2909694,
-      "FREE_HOLDNUM_RATIO": 1.033367834757,
-      "HOLD_NUM_CHANGE": "929565",
-      "CHANGE_RATIO": 46.94466876
+      "HOLD_NUM": 2024500,
+      "FREE_HOLDNUM_RATIO": 0.718994224638,
+      "HOLD_NUM_CHANGE": "-885194",
+      "CHANGE_RATIO": -30.42223684
     },
     {
       "SECUCODE": "600071.SH",
       "SECURITY_CODE": "600071",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "刘亚军",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1998700,
       "FREE_HOLDNUM_RATIO": 0.709831443213,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600071.SH",
+      "SECURITY_CODE": "600071",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "李琳婕",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1275100,
+      "FREE_HOLDNUM_RATIO": 0.452847387422,
+      "HOLD_NUM_CHANGE": "-150600",
+      "CHANGE_RATIO": -10.5632321
+    },
+    {
+      "SECUCODE": "600071.SH",
+      "SECURITY_CODE": "600071",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "梁黎明",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1129500,
+      "FREE_HOLDNUM_RATIO": 0.401138047285,
+      "HOLD_NUM_CHANGE": "4600",
+      "CHANGE_RATIO": 0.40892524
+    },
+    {
+      "SECUCODE": "600071.SH",
+      "SECURITY_CODE": "600071",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "刘炜华",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 930000,
+      "FREE_HOLDNUM_RATIO": 0.330286307194,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600071.SH",
       "SECURITY_CODE": "600071",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "李琳婕",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1425700,
-      "FREE_HOLDNUM_RATIO": 0.506332460394,
-      "HOLD_NUM_CHANGE": "71300",
-      "CHANGE_RATIO": 5.26432369
-    },
-    {
-      "SECUCODE": "600071.SH",
-      "SECURITY_CODE": "600071",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "梁黎明",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1124900,
-      "FREE_HOLDNUM_RATIO": 0.399504373078,
-      "HOLD_NUM_CHANGE": "104100",
-      "CHANGE_RATIO": 10.19788401
-    },
-    {
-      "SECUCODE": "600071.SH",
-      "SECURITY_CODE": "600071",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "胡素华",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -564,8 +577,8 @@
     {
       "SECUCODE": "600071.SH",
       "SECURITY_CODE": "600071",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "牟其波",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -577,8 +590,8 @@
     {
       "SECUCODE": "600071.SH",
       "SECURITY_CODE": "600071",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "李昌平",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -586,39 +599,26 @@
       "FREE_HOLDNUM_RATIO": 0.276517116969,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600071.SH",
-      "SECURITY_CODE": "600071",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "黄永嘉",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 655100,
-      "FREE_HOLDNUM_RATIO": 0.23265651596,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600071.SH",
       "SECURITY_CODE": "600071",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 149391822,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 148635528,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 132182067,
-      "HOLD_NUM_RATIO": 53.06,
+      "OTHER_UNLIMITED_SHARES": 132938361,
+      "HOLD_NUM_RATIO": 52.79,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 46.94
+      "UNLIMITED_SHARES_RATIO": 47.21
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600071.SH",
       "SECURITY_CODE": "600071",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中电海康集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600071.SH",
       "SECURITY_CODE": "600071",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中电科投资控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,56 +642,68 @@
     {
       "SECUCODE": "600071.SH",
       "SECURITY_CODE": "600071",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2909694,
-      "HOLD_NUM_RATIO": 1.03,
-      "HOLD_NUM_CHANGE": "929565",
-      "CHANGE_RATIO": 46.94466876
+      "HOLD_NUM": 2024500,
+      "HOLD_NUM_RATIO": 0.72,
+      "HOLD_NUM_CHANGE": "-885194",
+      "CHANGE_RATIO": -30.42223684
     },
     {
       "SECUCODE": "600071.SH",
       "SECURITY_CODE": "600071",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "刘亚军",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1998700,
       "HOLD_NUM_RATIO": 0.71,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600071.SH",
+      "SECURITY_CODE": "600071",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "李琳婕",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1275100,
+      "HOLD_NUM_RATIO": 0.45,
+      "HOLD_NUM_CHANGE": "-150600",
+      "CHANGE_RATIO": -10.5632321
+    },
+    {
+      "SECUCODE": "600071.SH",
+      "SECURITY_CODE": "600071",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "梁黎明",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1129500,
+      "HOLD_NUM_RATIO": 0.4,
+      "HOLD_NUM_CHANGE": "4600",
+      "CHANGE_RATIO": 0.40892524
+    },
+    {
+      "SECUCODE": "600071.SH",
+      "SECURITY_CODE": "600071",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "刘炜华",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 930000,
+      "HOLD_NUM_RATIO": 0.33,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600071.SH",
       "SECURITY_CODE": "600071",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "李琳婕",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1425700,
-      "HOLD_NUM_RATIO": 0.51,
-      "HOLD_NUM_CHANGE": "71300",
-      "CHANGE_RATIO": 5.26432369
-    },
-    {
-      "SECUCODE": "600071.SH",
-      "SECURITY_CODE": "600071",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "梁黎明",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1124900,
-      "HOLD_NUM_RATIO": 0.4,
-      "HOLD_NUM_CHANGE": "104100",
-      "CHANGE_RATIO": 10.19788401
-    },
-    {
-      "SECUCODE": "600071.SH",
-      "SECURITY_CODE": "600071",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "胡素华",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 900000,
@@ -702,8 +714,8 @@
     {
       "SECUCODE": "600071.SH",
       "SECURITY_CODE": "600071",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "牟其波",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 796000,
@@ -714,25 +726,13 @@
     {
       "SECUCODE": "600071.SH",
       "SECURITY_CODE": "600071",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "李昌平",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 778600,
       "HOLD_NUM_RATIO": 0.28,
       "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600071.SH",
-      "SECURITY_CODE": "600071",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "黄永嘉",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 655100,
-      "HOLD_NUM_RATIO": 0.23,
-      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -740,32 +740,22 @@
     {
       "SECUCODE": "600071.SH",
       "SECURITY_CODE": "600071",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 36,
-      "TOTAL_FREE_SHARES": 142695050,
-      "TOTAL_SHARES_RATIO": 50.67765713,
-      "ALL_SHARES_RATIO": 50.67765713
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 140827628,
+      "TOTAL_SHARES_RATIO": 50.0144486,
+      "ALL_SHARES_RATIO": 50.0144486
     },
     {
       "SECUCODE": "600071.SH",
       "SECURITY_CODE": "600071",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 33,
-      "TOTAL_FREE_SHARES": 982228,
-      "TOTAL_SHARES_RATIO": 0.34883492,
-      "ALL_SHARES_RATIO": 0.34883492
-    },
-    {
-      "SECUCODE": "600071.SH",
-      "SECURITY_CODE": "600071",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 141712822,
-      "TOTAL_SHARES_RATIO": 50.32882221,
-      "ALL_SHARES_RATIO": 50.32882221
+      "TOTAL_FREE_SHARES": 140827628,
+      "TOTAL_SHARES_RATIO": 50.0144486,
+      "ALL_SHARES_RATIO": 50.0144486
     }
   ],
   "jjcg": [

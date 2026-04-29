@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 14.74,
       "AVG_HOLD_AMT": 187101.036623047,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 55.37444582,
+      "FREEHOLD_RATIO_TOTAL": 54.77838078
     },
     {
       "SECUCODE": "001219.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "001219.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "001219.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "001219.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "001219.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "001219.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "001219.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -378,7 +383,7 @@
     {
       "SECUCODE": "001219.SZ",
       "SECURITY_CODE": "001219",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "青岛华通国有资本投资运营集团有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -391,7 +396,7 @@
     {
       "SECUCODE": "001219.SZ",
       "SECURITY_CODE": "001219",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "深圳市核子基因科技有限公司",
       "HOLDER_TYPE": "其它",
@@ -404,20 +409,20 @@
     {
       "SECUCODE": "001219.SZ",
       "SECURITY_CODE": "001219",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "高盛公司有限责任公司",
-      "HOLDER_TYPE": "QFII",
+      "HOLDER_NAME": "张莉",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1678029,
-      "FREE_HOLDNUM_RATIO": 0.882606102055,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1616100,
+      "FREE_HOLDNUM_RATIO": 0.850032819178,
+      "HOLD_NUM_CHANGE": "216100",
+      "CHANGE_RATIO": 15.43571429
     },
     {
       "SECUCODE": "001219.SZ",
       "SECURITY_CODE": "001219",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "刘英",
       "HOLDER_TYPE": "个人",
@@ -430,34 +435,21 @@
     {
       "SECUCODE": "001219.SZ",
       "SECURITY_CODE": "001219",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "王莉",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1450272,
       "FREE_HOLDNUM_RATIO": 0.762810962647,
-      "HOLD_NUM_CHANGE": "-277400",
-      "CHANGE_RATIO": -16.05628846
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "001219.SZ",
       "SECURITY_CODE": "001219",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "张莉",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1400000,
-      "FREE_HOLDNUM_RATIO": 0.736369003681,
-      "HOLD_NUM_CHANGE": "-769238",
-      "CHANGE_RATIO": -35.46120804
-    },
-    {
-      "SECUCODE": "001219.SZ",
-      "SECURITY_CODE": "001219",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "金飚",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -469,7 +461,20 @@
     {
       "SECUCODE": "001219.SZ",
       "SECURITY_CODE": "001219",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1239543,
+      "FREE_HOLDNUM_RATIO": 0.651972174235,
+      "HOLD_NUM_CHANGE": "-438486",
+      "CHANGE_RATIO": -26.13101442
+    },
+    {
+      "SECUCODE": "001219.SZ",
+      "SECURITY_CODE": "001219",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "金明娟",
       "HOLDER_TYPE": "个人",
@@ -482,48 +487,48 @@
     {
       "SECUCODE": "001219.SZ",
       "SECURITY_CODE": "001219",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 939278,
-      "FREE_HOLDNUM_RATIO": 0.494039432171,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1060078,
+      "FREE_HOLDNUM_RATIO": 0.557577557631,
+      "HOLD_NUM_CHANGE": "120800",
+      "CHANGE_RATIO": 12.86094213
     },
     {
       "SECUCODE": "001219.SZ",
       "SECURITY_CODE": "001219",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "刘竹轩",
+      "HOLDER_NAME": "邵娜娜",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 920000,
-      "FREE_HOLDNUM_RATIO": 0.48389963099,
-      "HOLD_NUM_CHANGE": "-10000",
-      "CHANGE_RATIO": -1.07526882
+      "HOLD_NUM": 1036300,
+      "FREE_HOLDNUM_RATIO": 0.545070856082,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "001219.SZ",
       "SECURITY_CODE": "001219",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 104131078,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 104145792,
       "LIMITED_SHARES": 4861679,
-      "OTHER_UNLIMITED_SHARES": 85990993,
+      "OTHER_UNLIMITED_SHARES": 85976279,
       "HOLD_NUM_RATIO": 53.41,
       "LIMITED_SHARES_RATIO": 2.49,
-      "UNLIMITED_SHARES_RATIO": 44.1
+      "UNLIMITED_SHARES_RATIO": 44.09
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "001219.SZ",
       "SECURITY_CODE": "001219",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "青岛华通国有资本投资运营集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -535,19 +540,19 @@
     {
       "SECUCODE": "001219.SZ",
       "SECURITY_CODE": "001219",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "青岛食品股份有限公司未确权股份托管专用证券账户",
       "SHARES_TYPE": "限售流通A股",
       "HOLD_NUM": 4861679,
       "HOLD_NUM_RATIO": 2.49,
-      "HOLD_NUM_CHANGE": "-97988",
-      "CHANGE_RATIO": -1.97569716
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "001219.SZ",
       "SECURITY_CODE": "001219",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "深圳市核子基因科技有限公司",
       "SHARES_TYPE": "流通A股",
@@ -559,19 +564,19 @@
     {
       "SECUCODE": "001219.SZ",
       "SECURITY_CODE": "001219",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_NAME": "张莉",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1678029,
-      "HOLD_NUM_RATIO": 0.86,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1616100,
+      "HOLD_NUM_RATIO": 0.83,
+      "HOLD_NUM_CHANGE": "216100",
+      "CHANGE_RATIO": 15.43571429
     },
     {
       "SECUCODE": "001219.SZ",
       "SECURITY_CODE": "001219",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "刘英",
       "SHARES_TYPE": "流通A股",
@@ -583,32 +588,20 @@
     {
       "SECUCODE": "001219.SZ",
       "SECURITY_CODE": "001219",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "王莉",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1450272,
       "HOLD_NUM_RATIO": 0.74,
-      "HOLD_NUM_CHANGE": "-277400",
-      "CHANGE_RATIO": -16.05628846
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "001219.SZ",
       "SECURITY_CODE": "001219",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "张莉",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1400000,
-      "HOLD_NUM_RATIO": 0.72,
-      "HOLD_NUM_CHANGE": "-769238",
-      "CHANGE_RATIO": -35.46120804
-    },
-    {
-      "SECUCODE": "001219.SZ",
-      "SECURITY_CODE": "001219",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "金飚",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1244500,
@@ -619,7 +612,19 @@
     {
       "SECUCODE": "001219.SZ",
       "SECURITY_CODE": "001219",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1239543,
+      "HOLD_NUM_RATIO": 0.64,
+      "HOLD_NUM_CHANGE": "-438486",
+      "CHANGE_RATIO": -26.13101442
+    },
+    {
+      "SECUCODE": "001219.SZ",
+      "SECURITY_CODE": "001219",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "金明娟",
       "SHARES_TYPE": "流通A股",
@@ -631,14 +636,14 @@
     {
       "SECUCODE": "001219.SZ",
       "SECURITY_CODE": "001219",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 939278,
-      "HOLD_NUM_RATIO": 0.48,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1060078,
+      "HOLD_NUM_RATIO": 0.54,
+      "HOLD_NUM_CHANGE": "120800",
+      "CHANGE_RATIO": 12.86094213
     }
   ],
   "jgcc": [
@@ -647,23 +652,60 @@
       "SECURITY_CODE": "001219",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 7,
-      "TOTAL_FREE_SHARES": 441500,
-      "TOTAL_SHARES_RATIO": 0.23221923,
-      "ALL_SHARES_RATIO": 0.22642913
+      "TOTAL_ORG_NUM": 11,
+      "TOTAL_FREE_SHARES": 96625882,
+      "TOTAL_SHARES_RATIO": 50.82307461,
+      "ALL_SHARES_RATIO": 49.55586402
     },
     {
       "SECUCODE": "001219.SZ",
       "SECURITY_CODE": "001219",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 7,
-      "TOTAL_FREE_SHARES": 441500,
-      "TOTAL_SHARES_RATIO": 0.23221923,
-      "ALL_SHARES_RATIO": 0.22642913
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 1501578,
+      "TOTAL_SHARES_RATIO": 0.78979679,
+      "ALL_SHARES_RATIO": 0.77010418
+    },
+    {
+      "SECUCODE": "001219.SZ",
+      "SECURITY_CODE": "001219",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 1239543,
+      "TOTAL_SHARES_RATIO": 0.65197217,
+      "ALL_SHARES_RATIO": 0.63571605
+    },
+    {
+      "SECUCODE": "001219.SZ",
+      "SECURITY_CODE": "001219",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 93884761,
+      "TOTAL_SHARES_RATIO": 49.38130565,
+      "ALL_SHARES_RATIO": 48.15004379
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "001219.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "320016",
+      "HOLDER_NAME": "诺安多策略混合A",
+      "TOTAL_SHARES": 1060078,
+      "HOLD_VALUE": 15625549.72,
+      "TOTALSHARES_RATIO": 0.54367505,
+      "FREESHARES_RATIO": 0.55757756,
+      "FREE_MARKET_CAP": 15625549.72,
+      "FREE_SHARES": 1060078,
+      "SECURITY_CODE": "001219",
+      "FUND_CODE": "320016",
+      "FUND_DERIVECODE": "320016.OF",
+      "NETVALUE_RATIO": 0.61
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "001219.SZ",

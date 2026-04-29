@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 21.76,
       "AVG_HOLD_AMT": 293283.002777101,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 56.42217696,
+      "FREEHOLD_RATIO_TOTAL": 56.44922537
     },
     {
       "SECUCODE": "600671.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600671.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600671.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600671.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600671.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600671.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600671.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600671.SH",
       "END_DATE": "2017-03-23 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "600671.SH",
-      "END_DATE": "2017-03-21 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "600671.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "600671.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "600671.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600671.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600671.SH",
       "SECURITY_CODE": "600671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "青岛汇隆华泽投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600671.SH",
       "SECURITY_CODE": "600671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "青岛源嘉医疗科技有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "600671.SH",
       "SECURITY_CODE": "600671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "浙江清风原生文化有限公司",
       "HOLDER_TYPE": "其它",
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "600671.SH",
       "SECURITY_CODE": "600671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "杭州岳殿润投资管理合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -525,23 +525,23 @@
     {
       "SECUCODE": "600671.SH",
       "SECURITY_CODE": "600671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "盖连东",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 2133545,
       "FREE_HOLDNUM_RATIO": 1.752822590746,
-      "HOLD_NUM_CHANGE": "-13900",
-      "CHANGE_RATIO": -0.64728084
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600671.SH",
       "SECURITY_CODE": "600671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "杭州桦茗投资合伙企业(有限合伙)",
-      "HOLDER_TYPE": "投资公司",
+      "HOLDER_NAME": "赵吉",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1000000,
       "FREE_HOLDNUM_RATIO": 0.821554075844,
@@ -551,52 +551,52 @@
     {
       "SECUCODE": "600671.SH",
       "SECURITY_CODE": "600671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中信证券资产管理(香港)有限公司-客户资金",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 872820,
-      "FREE_HOLDNUM_RATIO": 0.717068828478,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600671.SH",
-      "SECURITY_CODE": "600671",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "高盛公司有限责任公司",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 832306,
-      "FREE_HOLDNUM_RATIO": 0.683784386649,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 814105,
+      "FREE_HOLDNUM_RATIO": 0.668831280915,
+      "HOLD_NUM_CHANGE": "-18201",
+      "CHANGE_RATIO": -2.18681591
     },
     {
       "SECUCODE": "600671.SH",
       "SECURITY_CODE": "600671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中信证券资产管理(香港)有限公司-客户资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 764075,
+      "FREE_HOLDNUM_RATIO": 0.6277289305,
+      "HOLD_NUM_CHANGE": "-108745",
+      "CHANGE_RATIO": -12.45904081
+    },
+    {
+      "SECUCODE": "600671.SH",
+      "SECURITY_CODE": "600671",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "姜世派",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 650018,
-      "FREE_HOLDNUM_RATIO": 0.534024937272,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 570000,
+      "FREE_HOLDNUM_RATIO": 0.468285823231,
+      "HOLD_NUM_CHANGE": "-80018",
+      "CHANGE_RATIO": -12.31012064
     },
     {
       "SECUCODE": "600671.SH",
       "SECURITY_CODE": "600671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "姜赛赛",
+      "HOLDER_NAME": "曲加斌",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 550000,
-      "FREE_HOLDNUM_RATIO": 0.451854741714,
+      "HOLD_NUM": 567300,
+      "FREE_HOLDNUM_RATIO": 0.466067627226,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "600671.SH",
       "SECURITY_CODE": "600671",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 68899962,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 68710298,
       "LIMITED_SHARES": 58352,
-      "OTHER_UNLIMITED_SHARES": 52820571,
-      "HOLD_NUM_RATIO": 56.58,
+      "OTHER_UNLIMITED_SHARES": 53010235,
+      "HOLD_NUM_RATIO": 56.42,
       "LIMITED_SHARES_RATIO": 0.05,
-      "UNLIMITED_SHARES_RATIO": 43.37
+      "UNLIMITED_SHARES_RATIO": 43.53
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600671.SH",
       "SECURITY_CODE": "600671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "青岛汇隆华泽投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600671.SH",
       "SECURITY_CODE": "600671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "青岛源嘉医疗科技有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "600671.SH",
       "SECURITY_CODE": "600671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "浙江清风原生文化有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "600671.SH",
       "SECURITY_CODE": "600671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "杭州岳殿润投资管理合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -666,21 +666,21 @@
     {
       "SECUCODE": "600671.SH",
       "SECURITY_CODE": "600671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "盖连东",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2133545,
       "HOLD_NUM_RATIO": 1.75,
-      "HOLD_NUM_CHANGE": "-13900",
-      "CHANGE_RATIO": -0.64728084
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600671.SH",
       "SECURITY_CODE": "600671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "杭州桦茗投资合伙企业(有限合伙)",
+      "HOLDER_NAME": "赵吉",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1000000,
       "HOLD_NUM_RATIO": 0.82,
@@ -690,48 +690,48 @@
     {
       "SECUCODE": "600671.SH",
       "SECURITY_CODE": "600671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中信证券资产管理(香港)有限公司-客户资金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 872820,
-      "HOLD_NUM_RATIO": 0.72,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600671.SH",
-      "SECURITY_CODE": "600671",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "高盛公司有限责任公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 832306,
-      "HOLD_NUM_RATIO": 0.68,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 814105,
+      "HOLD_NUM_RATIO": 0.67,
+      "HOLD_NUM_CHANGE": "-18201",
+      "CHANGE_RATIO": -2.18681591
     },
     {
       "SECUCODE": "600671.SH",
       "SECURITY_CODE": "600671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中信证券资产管理(香港)有限公司-客户资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 764075,
+      "HOLD_NUM_RATIO": 0.63,
+      "HOLD_NUM_CHANGE": "-108745",
+      "CHANGE_RATIO": -12.45904081
+    },
+    {
+      "SECUCODE": "600671.SH",
+      "SECURITY_CODE": "600671",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "姜世派",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 650018,
-      "HOLD_NUM_RATIO": 0.53,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 570000,
+      "HOLD_NUM_RATIO": 0.47,
+      "HOLD_NUM_CHANGE": "-80018",
+      "CHANGE_RATIO": -12.31012064
     },
     {
       "SECUCODE": "600671.SH",
       "SECURITY_CODE": "600671",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "姜赛赛",
+      "HOLDER_NAME": "曲加斌",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 550000,
-      "HOLD_NUM_RATIO": 0.45,
+      "HOLD_NUM": 567300,
+      "HOLD_NUM_RATIO": 0.47,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -740,42 +740,32 @@
     {
       "SECUCODE": "600671.SH",
       "SECURITY_CODE": "600671",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 20,
-      "TOTAL_FREE_SHARES": 66013499,
-      "TOTAL_SHARES_RATIO": 54.23365918,
-      "ALL_SHARES_RATIO": 54.20767237
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 64439453,
+      "TOTAL_SHARES_RATIO": 52.94049526,
+      "ALL_SHARES_RATIO": 52.91512811
     },
     {
       "SECUCODE": "600671.SH",
       "SECURITY_CODE": "600671",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 13,
-      "TOTAL_FREE_SHARES": 447100,
-      "TOTAL_SHARES_RATIO": 0.36731683,
-      "ALL_SHARES_RATIO": 0.36714081
-    },
-    {
-      "SECUCODE": "600671.SH",
-      "SECURITY_CODE": "600671",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "02",
       "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 1705126,
-      "TOTAL_SHARES_RATIO": 1.40085322,
-      "ALL_SHARES_RATIO": 1.40018198
+      "TOTAL_FREE_SHARES": 1578180,
+      "TOTAL_SHARES_RATIO": 1.29656021,
+      "ALL_SHARES_RATIO": 1.29593895
     },
     {
       "SECUCODE": "600671.SH",
       "SECURITY_CODE": "600671",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 63861273,
-      "TOTAL_SHARES_RATIO": 52.46548913,
-      "ALL_SHARES_RATIO": 52.44034958
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 62861273,
+      "TOTAL_SHARES_RATIO": 51.64393505,
+      "ALL_SHARES_RATIO": 51.61918916
     }
   ],
   "jjcg": [

@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 36.24,
       "AVG_HOLD_AMT": 218129.696567127,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 36.26580292,
+      "FREEHOLD_RATIO_TOTAL": 36.26580292
     },
     {
       "SECUCODE": "603859.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603859.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603859.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603859.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603859.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603859.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603859.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603859.SH",
       "END_DATE": "2019-11-08 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "603859.SH",
-      "END_DATE": "2019-11-04 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "603859.SH",
       "SECURITY_CODE": "603859",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "祖军",
       "HOLDER_TYPE": "个人",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "603859.SH",
       "SECURITY_CODE": "603859",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "赵岚",
       "HOLDER_TYPE": "个人",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "603859.SH",
       "SECURITY_CODE": "603859",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "安惊川",
       "HOLDER_TYPE": "个人",
@@ -512,60 +512,34 @@
     {
       "SECUCODE": "603859.SH",
       "SECURITY_CODE": "603859",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "于胜涛",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4259000,
-      "FREE_HOLDNUM_RATIO": 1.740514922124,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3555000,
+      "FREE_HOLDNUM_RATIO": 1.452812995574,
+      "HOLD_NUM_CHANGE": "-704000",
+      "CHANGE_RATIO": -16.52970181
     },
     {
       "SECUCODE": "603859.SH",
       "SECURITY_CODE": "603859",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "林汉",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3654676,
-      "FREE_HOLDNUM_RATIO": 1.493547338232,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603859.SH",
-      "SECURITY_CODE": "603859",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "韩美娟",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3258000,
-      "FREE_HOLDNUM_RATIO": 1.331438745311,
-      "HOLD_NUM_CHANGE": "428000",
-      "CHANGE_RATIO": 15.12367491
+      "HOLD_NUM": 3000000,
+      "FREE_HOLDNUM_RATIO": 1.226002527911,
+      "HOLD_NUM_CHANGE": "-258000",
+      "CHANGE_RATIO": -7.91896869
     },
     {
       "SECUCODE": "603859.SH",
       "SECURITY_CODE": "603859",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2122856,
-      "FREE_HOLDNUM_RATIO": 0.86754227413,
-      "HOLD_NUM_CHANGE": "-2129716",
-      "CHANGE_RATIO": -50.08065707
-    },
-    {
-      "SECUCODE": "603859.SH",
-      "SECURITY_CODE": "603859",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "唐兴元",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -577,26 +551,52 @@
     {
       "SECUCODE": "603859.SH",
       "SECURITY_CODE": "603859",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国建设银行股份有限公司-国寿安保智慧生活股票型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "张东东",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1489704,
-      "FREE_HOLDNUM_RATIO": 0.60879362328,
-      "HOLD_NUM_CHANGE": "-113700",
-      "CHANGE_RATIO": -7.09116355
+      "HOLD_NUM": 1718300,
+      "FREE_HOLDNUM_RATIO": 0.702213381236,
+      "HOLD_NUM_CHANGE": "467000",
+      "CHANGE_RATIO": 37.32118597
     },
     {
       "SECUCODE": "603859.SH",
       "SECURITY_CODE": "603859",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国建设银行股份有限公司-国寿安保智慧生活股票型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1600704,
+      "FREE_HOLDNUM_RATIO": 0.654155716812,
+      "HOLD_NUM_CHANGE": "111000",
+      "CHANGE_RATIO": 7.45114466
+    },
+    {
+      "SECUCODE": "603859.SH",
+      "SECURITY_CODE": "603859",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1500434,
+      "FREE_HOLDNUM_RATIO": 0.613178625655,
+      "HOLD_NUM_CHANGE": "-622422",
+      "CHANGE_RATIO": -29.32002924
+    },
+    {
+      "SECUCODE": "603859.SH",
+      "SECURITY_CODE": "603859",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "张东东",
+      "HOLDER_NAME": "邹秀容",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1251300,
-      "FREE_HOLDNUM_RATIO": 0.511365654392,
+      "HOLD_NUM": 1111320,
+      "FREE_HOLDNUM_RATIO": 0.454160376439,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "603859.SH",
       "SECURITY_CODE": "603859",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 92291364,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 88741586,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 152406337,
-      "HOLD_NUM_RATIO": 37.72,
+      "OTHER_UNLIMITED_SHARES": 155956115,
+      "HOLD_NUM_RATIO": 36.27,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 62.28
+      "UNLIMITED_SHARES_RATIO": 63.73
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603859.SH",
       "SECURITY_CODE": "603859",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "祖军",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "603859.SH",
       "SECURITY_CODE": "603859",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "赵岚",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "603859.SH",
       "SECURITY_CODE": "603859",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "安惊川",
       "SHARES_TYPE": "流通A股",
@@ -654,56 +654,32 @@
     {
       "SECUCODE": "603859.SH",
       "SECURITY_CODE": "603859",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "于胜涛",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4259000,
-      "HOLD_NUM_RATIO": 1.74,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3555000,
+      "HOLD_NUM_RATIO": 1.45,
+      "HOLD_NUM_CHANGE": "-704000",
+      "CHANGE_RATIO": -16.52970181
     },
     {
       "SECUCODE": "603859.SH",
       "SECURITY_CODE": "603859",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "林汉",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3654676,
-      "HOLD_NUM_RATIO": 1.49,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603859.SH",
-      "SECURITY_CODE": "603859",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "韩美娟",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3258000,
-      "HOLD_NUM_RATIO": 1.33,
-      "HOLD_NUM_CHANGE": "428000",
-      "CHANGE_RATIO": 15.12367491
+      "HOLD_NUM": 3000000,
+      "HOLD_NUM_RATIO": 1.23,
+      "HOLD_NUM_CHANGE": "-258000",
+      "CHANGE_RATIO": -7.91896869
     },
     {
       "SECUCODE": "603859.SH",
       "SECURITY_CODE": "603859",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2122856,
-      "HOLD_NUM_RATIO": 0.87,
-      "HOLD_NUM_CHANGE": "-2129716",
-      "CHANGE_RATIO": -50.08065707
-    },
-    {
-      "SECUCODE": "603859.SH",
-      "SECURITY_CODE": "603859",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "唐兴元",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1972380,
@@ -714,24 +690,48 @@
     {
       "SECUCODE": "603859.SH",
       "SECURITY_CODE": "603859",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国建设银行股份有限公司-国寿安保智慧生活股票型证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "张东东",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1489704,
-      "HOLD_NUM_RATIO": 0.61,
-      "HOLD_NUM_CHANGE": "-113700",
-      "CHANGE_RATIO": -7.09116355
+      "HOLD_NUM": 1718300,
+      "HOLD_NUM_RATIO": 0.7,
+      "HOLD_NUM_CHANGE": "467000",
+      "CHANGE_RATIO": 37.32118597
     },
     {
       "SECUCODE": "603859.SH",
       "SECURITY_CODE": "603859",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "张东东",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国建设银行股份有限公司-国寿安保智慧生活股票型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1251300,
-      "HOLD_NUM_RATIO": 0.51,
+      "HOLD_NUM": 1600704,
+      "HOLD_NUM_RATIO": 0.65,
+      "HOLD_NUM_CHANGE": "111000",
+      "CHANGE_RATIO": 7.45114466
+    },
+    {
+      "SECUCODE": "603859.SH",
+      "SECURITY_CODE": "603859",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1500434,
+      "HOLD_NUM_RATIO": 0.61,
+      "HOLD_NUM_CHANGE": "-622422",
+      "CHANGE_RATIO": -29.32002924
+    },
+    {
+      "SECUCODE": "603859.SH",
+      "SECURITY_CODE": "603859",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "邹秀容",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1111320,
+      "HOLD_NUM_RATIO": 0.45,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,23 +742,50 @@
       "SECURITY_CODE": "603859",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 369000,
-      "TOTAL_SHARES_RATIO": 0.15079831,
-      "ALL_SHARES_RATIO": 0.15079831
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 3470138,
+      "TOTAL_SHARES_RATIO": 1.41813266,
+      "ALL_SHARES_RATIO": 1.41813266
     },
     {
       "SECUCODE": "603859.SH",
       "SECURITY_CODE": "603859",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 369000,
-      "TOTAL_SHARES_RATIO": 0.15079831,
-      "ALL_SHARES_RATIO": 0.15079831
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 1969704,
+      "TOTAL_SHARES_RATIO": 0.80495403,
+      "ALL_SHARES_RATIO": 0.80495403
+    },
+    {
+      "SECUCODE": "603859.SH",
+      "SECURITY_CODE": "603859",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 1500434,
+      "TOTAL_SHARES_RATIO": 0.61317863,
+      "ALL_SHARES_RATIO": 0.61317863
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603859.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "001672",
+      "HOLDER_NAME": "国寿安保智慧生活股票A",
+      "TOTAL_SHARES": 1600704,
+      "HOLD_VALUE": 58009512.96,
+      "TOTALSHARES_RATIO": 0.65415572,
+      "FREESHARES_RATIO": 0.65415572,
+      "FREE_MARKET_CAP": 58009512.96,
+      "FREE_SHARES": 1600704,
+      "SECURITY_CODE": "603859",
+      "FUND_CODE": "001672",
+      "FUND_DERIVECODE": "001672.OF",
+      "NETVALUE_RATIO": 2.11
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "603859.SH",

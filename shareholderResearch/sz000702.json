@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 6.7,
       "AVG_HOLD_AMT": 67902.6819415409,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 51.90863498,
+      "FREEHOLD_RATIO_TOTAL": 38.30921276
     },
     {
       "SECUCODE": "000702.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000702.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000702.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "000702.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000702.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000702.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000702.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "000702.SZ",
       "END_DATE": "2014-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000702.SZ",
-      "END_DATE": "2014-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -483,7 +483,7 @@
     {
       "SECUCODE": "000702.SZ",
       "SECURITY_CODE": "000702",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "岳阳观盛农业科技有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -496,7 +496,7 @@
     {
       "SECUCODE": "000702.SZ",
       "SECURITY_CODE": "000702",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "岳阳市屈原农垦有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -509,60 +509,86 @@
     {
       "SECUCODE": "000702.SZ",
       "SECURITY_CODE": "000702",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "付前军",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9000000,
-      "FREE_HOLDNUM_RATIO": 3.375406196382,
-      "HOLD_NUM_CHANGE": "1700000",
-      "CHANGE_RATIO": 23.28767123
+      "HOLD_NUM": 9360000,
+      "FREE_HOLDNUM_RATIO": 3.510422444237,
+      "HOLD_NUM_CHANGE": "360000",
+      "CHANGE_RATIO": 4
     },
     {
       "SECUCODE": "000702.SZ",
       "SECURITY_CODE": "000702",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "安同良",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5920000,
-      "FREE_HOLDNUM_RATIO": 2.220267186953,
-      "HOLD_NUM_CHANGE": "-440000",
-      "CHANGE_RATIO": -6.91823899
+      "HOLD_NUM": 5260000,
+      "FREE_HOLDNUM_RATIO": 1.972737399219,
+      "HOLD_NUM_CHANGE": "-660000",
+      "CHANGE_RATIO": -11.14864865
     },
     {
       "SECUCODE": "000702.SZ",
       "SECURITY_CODE": "000702",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "徐琳",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 5112175,
       "FREE_HOLDNUM_RATIO": 1.917296352443,
-      "HOLD_NUM_CHANGE": "218000",
-      "CHANGE_RATIO": 4.45427472
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000702.SZ",
       "SECURITY_CODE": "000702",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "周宇光",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "高盛国际-自有资金",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3749624,
-      "FREE_HOLDNUM_RATIO": 1.406278231522,
+      "HOLD_NUM": 3671180,
+      "FREE_HOLDNUM_RATIO": 1.376858191115,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000702.SZ",
       "SECURITY_CODE": "000702",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "MORGAN STANLEY&CO.INTERNATIONAL PLC.",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3593811,
+      "FREE_HOLDNUM_RATIO": 1.347841324225,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000702.SZ",
+      "SECURITY_CODE": "000702",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "周宇光",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3385325,
+      "FREE_HOLDNUM_RATIO": 1.269649664641,
+      "HOLD_NUM_CHANGE": "-364299",
+      "CHANGE_RATIO": -9.71561415
+    },
+    {
+      "SECUCODE": "000702.SZ",
+      "SECURITY_CODE": "000702",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "肖毅",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -574,61 +600,35 @@
     {
       "SECUCODE": "000702.SZ",
       "SECURITY_CODE": "000702",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2050000,
-      "FREE_HOLDNUM_RATIO": 0.768842522509,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000702.SZ",
-      "SECURITY_CODE": "000702",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国工商银行股份有限公司-中信保诚多策略灵活配置混合型证券投资基金(LOF)",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1341300,
-      "FREE_HOLDNUM_RATIO": 0.503048036801,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000702.SZ",
-      "SECURITY_CODE": "000702",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "BARCLAYS BANK PLC",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1339497,
-      "FREE_HOLDNUM_RATIO": 0.502371830426,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2207700,
+      "FREE_HOLDNUM_RATIO": 0.827987139972,
+      "HOLD_NUM_CHANGE": "157700",
+      "CHANGE_RATIO": 7.69268293
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "000702.SZ",
       "SECURITY_CODE": "000702",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 98068012,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 102145607,
       "LIMITED_SHARES": 79990372,
-      "OTHER_UNLIMITED_SHARES": 168566564,
-      "HOLD_NUM_RATIO": 28.29,
+      "OTHER_UNLIMITED_SHARES": 164488969,
+      "HOLD_NUM_RATIO": 29.47,
       "LIMITED_SHARES_RATIO": 23.08,
-      "UNLIMITED_SHARES_RATIO": 48.63
+      "UNLIMITED_SHARES_RATIO": 47.45
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "000702.SZ",
       "SECURITY_CODE": "000702",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "岳阳观盛投资发展有限公司",
       "SHARES_TYPE": "限售流通A股",
@@ -640,7 +640,7 @@
     {
       "SECUCODE": "000702.SZ",
       "SECURITY_CODE": "000702",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "岳阳观盛农业科技有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -652,7 +652,7 @@
     {
       "SECUCODE": "000702.SZ",
       "SECURITY_CODE": "000702",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "岳阳市屈原农垦有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -664,85 +664,85 @@
     {
       "SECUCODE": "000702.SZ",
       "SECURITY_CODE": "000702",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "付前军",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9000000,
-      "HOLD_NUM_RATIO": 2.6,
-      "HOLD_NUM_CHANGE": "1700000",
-      "CHANGE_RATIO": 23.28767123
+      "HOLD_NUM": 9360000,
+      "HOLD_NUM_RATIO": 2.7,
+      "HOLD_NUM_CHANGE": "360000",
+      "CHANGE_RATIO": 4
     },
     {
       "SECUCODE": "000702.SZ",
       "SECURITY_CODE": "000702",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "安同良",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5920000,
-      "HOLD_NUM_RATIO": 1.71,
-      "HOLD_NUM_CHANGE": "-440000",
-      "CHANGE_RATIO": -6.91823899
+      "HOLD_NUM": 5260000,
+      "HOLD_NUM_RATIO": 1.52,
+      "HOLD_NUM_CHANGE": "-660000",
+      "CHANGE_RATIO": -11.14864865
     },
     {
       "SECUCODE": "000702.SZ",
       "SECURITY_CODE": "000702",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "徐琳",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 5112175,
       "HOLD_NUM_RATIO": 1.47,
-      "HOLD_NUM_CHANGE": "218000",
-      "CHANGE_RATIO": 4.45427472
-    },
-    {
-      "SECUCODE": "000702.SZ",
-      "SECURITY_CODE": "000702",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "周宇光",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3749624,
-      "HOLD_NUM_RATIO": 1.08,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000702.SZ",
-      "SECURITY_CODE": "000702",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "肖毅",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2537800,
-      "HOLD_NUM_RATIO": 0.73,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000702.SZ",
       "SECURITY_CODE": "000702",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "高盛国际-自有资金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2050000,
-      "HOLD_NUM_RATIO": 0.59,
+      "HOLD_NUM": 3671180,
+      "HOLD_NUM_RATIO": 1.06,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000702.SZ",
       "SECURITY_CODE": "000702",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国工商银行股份有限公司-中信保诚多策略灵活配置混合型证券投资基金(LOF)",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1341300,
-      "HOLD_NUM_RATIO": 0.39,
+      "HOLD_NUM": 3593811,
+      "HOLD_NUM_RATIO": 1.04,
       "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000702.SZ",
+      "SECURITY_CODE": "000702",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "周宇光",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3385325,
+      "HOLD_NUM_RATIO": 0.98,
+      "HOLD_NUM_CHANGE": "-364299",
+      "CHANGE_RATIO": -9.71561415
+    },
+    {
+      "SECUCODE": "000702.SZ",
+      "SECURITY_CODE": "000702",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "肖毅",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2537800,
+      "HOLD_NUM_RATIO": 0.73,
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -752,23 +752,60 @@
       "SECURITY_CODE": "000702",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 702300,
-      "TOTAL_SHARES_RATIO": 0.2633942,
-      "ALL_SHARES_RATIO": 0.20261093
+      "TOTAL_ORG_NUM": 9,
+      "TOTAL_FREE_SHARES": 77192607,
+      "TOTAL_SHARES_RATIO": 28.95071155,
+      "ALL_SHARES_RATIO": 22.26977818
     },
     {
       "SECUCODE": "000702.SZ",
       "SECURITY_CODE": "000702",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 702300,
-      "TOTAL_SHARES_RATIO": 0.2633942,
-      "ALL_SHARES_RATIO": 0.20261093
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 2910000,
+      "TOTAL_SHARES_RATIO": 1.09138134,
+      "ALL_SHARES_RATIO": 0.83952412
+    },
+    {
+      "SECUCODE": "000702.SZ",
+      "SECURITY_CODE": "000702",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 7264991,
+      "TOTAL_SHARES_RATIO": 2.72469951,
+      "ALL_SHARES_RATIO": 2.09592271
+    },
+    {
+      "SECUCODE": "000702.SZ",
+      "SECURITY_CODE": "000702",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 67017616,
+      "TOTAL_SHARES_RATIO": 25.1346307,
+      "ALL_SHARES_RATIO": 19.33433135
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "000702.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "320016",
+      "HOLDER_NAME": "诺安多策略混合A",
+      "TOTAL_SHARES": 2207700,
+      "HOLD_VALUE": 14791590,
+      "TOTALSHARES_RATIO": 0.63691319,
+      "FREESHARES_RATIO": 0.82798714,
+      "FREE_MARKET_CAP": 14791590,
+      "FREE_SHARES": 2207700,
+      "SECURITY_CODE": "000702",
+      "FUND_CODE": "320016",
+      "FUND_DERIVECODE": "320016.OF",
+      "NETVALUE_RATIO": 0.58
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "000702.SZ",

@@ -3,6 +3,20 @@
     {
       "SECUCODE": "688319.SH",
       "SECURITY_CODE": "688319",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_TOTAL_NUM": 9522,
+      "TOTAL_NUM_RATIO": 5.8824,
+      "AVG_FREE_SHARES": 42576,
+      "AVG_FREESHARES_RATIO": -5.555555555556,
+      "HOLD_FOCUS": "非常集中",
+      "PRICE": 29.06,
+      "AVG_HOLD_AMT": 1237260.47658055,
+      "HOLD_RATIO_TOTAL": 45.29818572,
+      "FREEHOLD_RATIO_TOTAL": 45.31123756
+    },
+    {
+      "SECUCODE": "688319.SH",
+      "SECURITY_CODE": "688319",
       "END_DATE": "2026-02-28 00:00:00",
       "HOLDER_TOTAL_NUM": 8993,
       "TOTAL_NUM_RATIO": -3.55,
@@ -125,23 +139,13 @@
       "AVG_HOLD_AMT": 595212.144849081,
       "HOLD_RATIO_TOTAL": 50.0033551,
       "FREEHOLD_RATIO_TOTAL": 50.04467756
-    },
-    {
-      "SECUCODE": "688319.SH",
-      "SECURITY_CODE": "688319",
-      "END_DATE": "2024-03-31 00:00:00",
-      "HOLDER_TOTAL_NUM": 8210,
-      "TOTAL_NUM_RATIO": 10.0389,
-      "AVG_FREE_SHARES": 35106,
-      "AVG_FREESHARES_RATIO": -9.123020706456,
-      "HOLD_FOCUS": "非常集中",
-      "PRICE": 8.6434525996,
-      "AVG_HOLD_AMT": 303442.826809885,
-      "HOLD_RATIO_TOTAL": 47.27714071,
-      "FREEHOLD_RATIO_TOTAL": 30.78379846
     }
   ],
   "sdltgd_date": [
+    {
+      "SECUCODE": "688319.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "688319.SH",
       "END_DATE": "2025-12-31 00:00:00"
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "688319.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "688319.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "688319.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "688319.SH",
       "END_DATE": "2026-01-12 00:00:00",
@@ -451,17 +456,6 @@
       "HOLD_CHANGE": "-27600",
       "CHANGE_RATIO": -0.0902739,
       "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-31 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "上海武山生物技术有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 60216322,
-      "HOLD_NUM_RATIO": 14.83,
-      "HOLD_CHANGE": "-6533672",
-      "CHANGE_RATIO": -9.78827354,
-      "CHANGE_REASON": "临时公告"
     }
   ],
   "jjcg_date": [
@@ -491,20 +485,20 @@
     {
       "SECUCODE": "688319.SH",
       "SECURITY_CODE": "688319",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海武山生物技术有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 60216322,
       "FREE_HOLDNUM_RATIO": 14.853216736765,
-      "HOLD_NUM_CHANGE": "-6533672",
-      "CHANGE_RATIO": -9.78827354
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688319.SH",
       "SECURITY_CODE": "688319",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "樊钒",
       "HOLDER_TYPE": "个人",
@@ -517,7 +511,7 @@
     {
       "SECUCODE": "688319.SH",
       "SECURITY_CODE": "688319",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "泰昌集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -530,7 +524,7 @@
     {
       "SECUCODE": "688319.SH",
       "SECURITY_CODE": "688319",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "樊绍文",
       "HOLDER_TYPE": "个人",
@@ -543,47 +537,60 @@
     {
       "SECUCODE": "688319.SH",
       "SECURITY_CODE": "688319",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "招商银行股份有限公司-兴全合润混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 15440151,
-      "FREE_HOLDNUM_RATIO": 3.808533992683,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 14862511,
+      "FREE_HOLDNUM_RATIO": 3.666050828138,
+      "HOLD_NUM_CHANGE": "-577640",
+      "CHANGE_RATIO": -3.74115512
     },
     {
       "SECUCODE": "688319.SH",
       "SECURITY_CODE": "688319",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "邹龙",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9375000,
-      "FREE_HOLDNUM_RATIO": 2.312477784797,
-      "HOLD_NUM_CHANGE": "-120000",
-      "CHANGE_RATIO": -1.26382306
+      "HOLD_NUM": 9190000,
+      "FREE_HOLDNUM_RATIO": 2.266844889843,
+      "HOLD_NUM_CHANGE": "-185000",
+      "CHANGE_RATIO": -1.97333333
     },
     {
       "SECUCODE": "688319.SH",
       "SECURITY_CODE": "688319",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "招商银行股份有限公司-兴全合宜灵活配置混合型证券投资基金(LOF)",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8921392,
-      "FREE_HOLDNUM_RATIO": 2.200588886343,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 7806589,
+      "FREE_HOLDNUM_RATIO": 1.925606788004,
+      "HOLD_NUM_CHANGE": "-1114803",
+      "CHANGE_RATIO": -12.49584146
     },
     {
       "SECUCODE": "688319.SH",
       "SECURITY_CODE": "688319",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国光大银行股份有限公司-兴全商业模式优选混合型证券投资基金(LOF)",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7032137,
+      "FREE_HOLDNUM_RATIO": 1.734577129829,
+      "HOLD_NUM_CHANGE": "2390929",
+      "CHANGE_RATIO": 51.51523052
+    },
+    {
+      "SECUCODE": "688319.SH",
+      "SECURITY_CODE": "688319",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "胡成",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -595,27 +602,14 @@
     {
       "SECUCODE": "688319.SH",
       "SECURITY_CODE": "688319",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "马恒军",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "关海果",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5708946,
-      "FREE_HOLDNUM_RATIO": 1.408193151958,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688319.SH",
-      "SECURITY_CODE": "688319",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国光大银行股份有限公司-兴全商业模式优选混合型证券投资基金(LOF)",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4641208,
-      "FREE_HOLDNUM_RATIO": 1.14482030876,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 5927232,
+      "FREE_HOLDNUM_RATIO": 1.462036514703,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -623,50 +617,134 @@
     {
       "SECUCODE": "688319.SH",
       "SECURITY_CODE": "688319",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 182964199,
-      "LIMITED_SHARES": 524300,
-      "OTHER_UNLIMITED_SHARES": 222445101,
-      "HOLD_NUM_RATIO": 45.07,
-      "LIMITED_SHARES_RATIO": 0.13,
-      "UNLIMITED_SHARES_RATIO": 54.8
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 183695971,
+      "LIMITED_SHARES": 299600,
+      "OTHER_UNLIMITED_SHARES": 221713329,
+      "HOLD_NUM_RATIO": 45.28,
+      "LIMITED_SHARES_RATIO": 0.07,
+      "UNLIMITED_SHARES_RATIO": 54.65
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "688319.SH",
       "SECURITY_CODE": "688319",
-      "END_DATE": "2026-01-12 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海武山生物技术有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 60216322,
-      "HOLD_NUM_RATIO": 14.83,
+      "HOLD_NUM_RATIO": 14.84,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688319.SH",
       "SECURITY_CODE": "688319",
-      "END_DATE": "2026-01-12 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "樊钒",
       "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 30546020,
-      "HOLD_NUM_RATIO": 7.52,
-      "HOLD_NUM_CHANGE": "-27600",
-      "CHANGE_RATIO": -0.0902739
+      "HOLD_NUM_RATIO": 7.53,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688319.SH",
       "SECURITY_CODE": "688319",
-      "END_DATE": "2026-01-12 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "泰昌集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 25893040,
       "HOLD_NUM_RATIO": 6.38,
       "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688319.SH",
+      "SECURITY_CODE": "688319",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "樊绍文",
+      "SHARES_TYPE": "流通A股,限售流通A股",
+      "HOLD_NUM": 15638795,
+      "HOLD_NUM_RATIO": 3.85,
+      "HOLD_NUM_CHANGE": "-34500",
+      "CHANGE_RATIO": -0.22011964
+    },
+    {
+      "SECUCODE": "688319.SH",
+      "SECURITY_CODE": "688319",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "招商银行股份有限公司-兴全合润混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 14862511,
+      "HOLD_NUM_RATIO": 3.66,
+      "HOLD_NUM_CHANGE": "-577640",
+      "CHANGE_RATIO": -3.74115512
+    },
+    {
+      "SECUCODE": "688319.SH",
+      "SECURITY_CODE": "688319",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "邹龙",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 9190000,
+      "HOLD_NUM_RATIO": 2.27,
+      "HOLD_NUM_CHANGE": "-185000",
+      "CHANGE_RATIO": -1.97333333
+    },
+    {
+      "SECUCODE": "688319.SH",
+      "SECURITY_CODE": "688319",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "招商银行股份有限公司-兴全合宜灵活配置混合型证券投资基金(LOF)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7806589,
+      "HOLD_NUM_RATIO": 1.92,
+      "HOLD_NUM_CHANGE": "-1114803",
+      "CHANGE_RATIO": -12.49584146
+    },
+    {
+      "SECUCODE": "688319.SH",
+      "SECURITY_CODE": "688319",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国光大银行股份有限公司-兴全商业模式优选混合型证券投资基金(LOF)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7032137,
+      "HOLD_NUM_RATIO": 1.73,
+      "HOLD_NUM_CHANGE": "2390929",
+      "CHANGE_RATIO": 51.51523052
+    },
+    {
+      "SECUCODE": "688319.SH",
+      "SECURITY_CODE": "688319",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "胡成",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6666125,
+      "HOLD_NUM_RATIO": 1.64,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688319.SH",
+      "SECURITY_CODE": "688319",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "关海果",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5927232,
+      "HOLD_NUM_RATIO": 1.46,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -676,23 +754,84 @@
       "SECURITY_CODE": "688319",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 9,
-      "TOTAL_FREE_SHARES": 3093940,
-      "TOTAL_SHARES_RATIO": 0.76316454,
-      "ALL_SHARES_RATIO": 0.76260098
+      "TOTAL_ORG_NUM": 14,
+      "TOTAL_FREE_SHARES": 118904539,
+      "TOTAL_SHARES_RATIO": 29.32950454,
+      "ALL_SHARES_RATIO": 29.30784585
     },
     {
       "SECUCODE": "688319.SH",
       "SECURITY_CODE": "688319",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 9,
-      "TOTAL_FREE_SHARES": 3093940,
-      "TOTAL_SHARES_RATIO": 0.76316454,
-      "ALL_SHARES_RATIO": 0.76260098
+      "TOTAL_ORG_NUM": 12,
+      "TOTAL_FREE_SHARES": 32795177,
+      "TOTAL_SHARES_RATIO": 8.08939929,
+      "ALL_SHARES_RATIO": 8.08342558
+    },
+    {
+      "SECUCODE": "688319.SH",
+      "SECURITY_CODE": "688319",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 86109362,
+      "TOTAL_SHARES_RATIO": 21.24010525,
+      "ALL_SHARES_RATIO": 21.22442027
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "688319.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "163406",
+      "HOLDER_NAME": "兴全合润混合A",
+      "TOTAL_SHARES": 14862511,
+      "HOLD_VALUE": 431904569.66,
+      "TOTALSHARES_RATIO": 3.66334359,
+      "FREESHARES_RATIO": 3.66605083,
+      "FREE_MARKET_CAP": 431904569.66,
+      "FREE_SHARES": 14862511,
+      "SECURITY_CODE": "688319",
+      "FUND_CODE": "163406",
+      "FUND_DERIVECODE": "163406.SZ",
+      "NETVALUE_RATIO": 2.24
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "688319.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "163417",
+      "HOLDER_NAME": "兴全合宜混合(LOF)A",
+      "TOTAL_SHARES": 7806589,
+      "HOLD_VALUE": 226859476.34,
+      "TOTALSHARES_RATIO": 1.9241848,
+      "FREESHARES_RATIO": 1.92560679,
+      "FREE_MARKET_CAP": 226859476.34,
+      "FREE_SHARES": 7806589,
+      "SECURITY_CODE": "688319",
+      "FUND_CODE": "163417",
+      "FUND_DERIVECODE": "163417.SZ",
+      "NETVALUE_RATIO": 1.8
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "688319.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "163415",
+      "HOLDER_NAME": "兴全商业模式混合(LOF)A",
+      "TOTAL_SHARES": 7032137,
+      "HOLD_VALUE": 204353901.22,
+      "TOTALSHARES_RATIO": 1.73329621,
+      "FREESHARES_RATIO": 1.73457713,
+      "FREE_MARKET_CAP": 204353901.22,
+      "FREE_SHARES": 7032137,
+      "SECURITY_CODE": "688319",
+      "FUND_CODE": "163415",
+      "FUND_DERIVECODE": "163415.SZ",
+      "NETVALUE_RATIO": 1.46
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "688319.SH",

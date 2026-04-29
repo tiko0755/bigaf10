@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000912.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000912.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,10 +161,6 @@
     {
       "SECUCODE": "000912.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000912.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
@@ -168,6 +168,11 @@
       "SECUCODE": "000912.SZ",
       "END_DATE": "2026-04-24 00:00:00",
       "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "000912.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
     },
     {
       "SECUCODE": "000912.SZ",
@@ -408,11 +413,6 @@
       "SECUCODE": "000912.SZ",
       "END_DATE": "2019-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000912.SZ",
-      "END_DATE": "2019-07-01 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "000912.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "000912.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,25 +443,9 @@
     {
       "SECUCODE": "000912.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000912.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-11-14 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "中国银行股份有限公司泸州分行",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 138562027,
-      "HOLD_NUM_RATIO": 8.84,
-      "HOLD_CHANGE": "-4081000",
-      "CHANGE_RATIO": -2.86098808,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "000912.SZ",
@@ -485,7 +473,7 @@
     {
       "SECUCODE": "000912.SZ",
       "SECURITY_CODE": "000912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "泸天化(集团)有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -498,7 +486,7 @@
     {
       "SECUCODE": "000912.SZ",
       "SECURITY_CODE": "000912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "泸州产业发展投资集团有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -511,20 +499,20 @@
     {
       "SECUCODE": "000912.SZ",
       "SECURITY_CODE": "000912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中国银行股份有限公司泸州分行",
       "HOLDER_TYPE": "金融",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 137838627,
       "FREE_HOLDNUM_RATIO": 8.790728762755,
-      "HOLD_NUM_CHANGE": "-4804400",
-      "CHANGE_RATIO": -3.36812819
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000912.SZ",
       "SECURITY_CODE": "000912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "四川泸天化股份有限公司破产企业财产处置专用账户",
       "HOLDER_TYPE": "证券账户",
@@ -537,7 +525,7 @@
     {
       "SECUCODE": "000912.SZ",
       "SECURITY_CODE": "000912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国农业银行股份有限公司四川省分行",
       "HOLDER_TYPE": "金融",
@@ -550,7 +538,7 @@
     {
       "SECUCODE": "000912.SZ",
       "SECURITY_CODE": "000912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "中国工商银行股份有限公司泸州分行",
       "HOLDER_TYPE": "金融",
@@ -563,67 +551,67 @@
     {
       "SECUCODE": "000912.SZ",
       "SECURITY_CODE": "000912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "中国农业银行股份有限公司宁夏回族自治区分行",
       "HOLDER_TYPE": "金融",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 53859298,
       "FREE_HOLDNUM_RATIO": 3.434904209184,
-      "HOLD_NUM_CHANGE": "-7912100",
-      "CHANGE_RATIO": -12.80867886
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000912.SZ",
       "SECURITY_CODE": "000912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "中国银行股份有限公司成都锦江支行",
       "HOLDER_TYPE": "金融",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 52019100,
       "FREE_HOLDNUM_RATIO": 3.317544642857,
-      "HOLD_NUM_CHANGE": "-1829500",
-      "CHANGE_RATIO": -3.39748851
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000912.SZ",
       "SECURITY_CODE": "000912",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "兴业银行股份有限公司重庆分行",
-      "HOLDER_TYPE": "金融",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 51771777,
-      "FREE_HOLDNUM_RATIO": 3.301771492347,
-      "HOLD_NUM_CHANGE": "-177500",
-      "CHANGE_RATIO": -0.34167944
-    },
-    {
-      "SECUCODE": "000912.SZ",
-      "SECURITY_CODE": "000912",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "中国银行股份有限公司宁夏回族自治区分行",
       "HOLDER_TYPE": "金融",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 44090414,
       "FREE_HOLDNUM_RATIO": 2.811888647959,
-      "HOLD_NUM_CHANGE": "-1545500",
-      "CHANGE_RATIO": -3.38658715
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000912.SZ",
+      "SECURITY_CODE": "000912",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "四川泸天化股份有限公司回购专用证券账户",
+      "HOLDER_TYPE": "证券账户",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 23595637,
+      "FREE_HOLDNUM_RATIO": 1.504823788265,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "000912.SZ",
       "SECURITY_CODE": "000912",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 1035997772,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 1007821632,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 532002228,
-      "HOLD_NUM_RATIO": 66.07,
+      "OTHER_UNLIMITED_SHARES": 560178368,
+      "HOLD_NUM_RATIO": 64.27,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 33.93
+      "UNLIMITED_SHARES_RATIO": 35.73
     }
   ],
   "sdgd": [
@@ -680,32 +668,22 @@
     {
       "SECUCODE": "000912.SZ",
       "SECURITY_CODE": "000912",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 19,
-      "TOTAL_FREE_SHARES": 1037049273,
-      "TOTAL_SHARES_RATIO": 66.13834649,
-      "ALL_SHARES_RATIO": 66.13834649
-    },
-    {
-      "SECUCODE": "000912.SZ",
-      "SECURITY_CODE": "000912",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
       "TOTAL_ORG_NUM": 9,
-      "TOTAL_FREE_SHARES": 1051501,
-      "TOTAL_SHARES_RATIO": 0.06706002,
-      "ALL_SHARES_RATIO": 0.06706002
+      "TOTAL_FREE_SHARES": 984225995,
+      "TOTAL_SHARES_RATIO": 62.76951498,
+      "ALL_SHARES_RATIO": 62.76951498
     },
     {
       "SECUCODE": "000912.SZ",
       "SECURITY_CODE": "000912",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 10,
-      "TOTAL_FREE_SHARES": 1035997772,
-      "TOTAL_SHARES_RATIO": 66.07128647,
-      "ALL_SHARES_RATIO": 66.07128647
+      "TOTAL_ORG_NUM": 9,
+      "TOTAL_FREE_SHARES": 984225995,
+      "TOTAL_SHARES_RATIO": 62.76951498,
+      "ALL_SHARES_RATIO": 62.76951498
     }
   ],
   "jjcg": [

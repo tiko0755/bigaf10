@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 3.52,
       "AVG_HOLD_AMT": 75854.7577877429,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 36.33170889,
+      "FREEHOLD_RATIO_TOTAL": 37.00643485
     },
     {
       "SECUCODE": "600082.SH",
@@ -73,6 +73,20 @@
     {
       "SECUCODE": "600082.SH",
       "SECURITY_CODE": "600082",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_TOTAL_NUM": 30635,
+      "TOTAL_NUM_RATIO": -1.1168,
+      "AVG_FREE_SHARES": 20706,
+      "AVG_FREESHARES_RATIO": 1.129427125836,
+      "HOLD_FOCUS": "较分散",
+      "PRICE": 4.06,
+      "AVG_HOLD_AMT": 84067.3012149502,
+      "HOLD_RATIO_TOTAL": 36.06403521,
+      "FREEHOLD_RATIO_TOTAL": 36.73379014
+    },
+    {
+      "SECUCODE": "600082.SH",
+      "SECURITY_CODE": "600082",
       "END_DATE": "2025-12-19 00:00:00",
       "HOLDER_TOTAL_NUM": 30981,
       "TOTAL_NUM_RATIO": -5.0711,
@@ -125,23 +139,17 @@
       "AVG_HOLD_AMT": 105287.588164715,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
-    },
-    {
-      "SECUCODE": "600082.SH",
-      "SECURITY_CODE": "600082",
-      "END_DATE": "2025-10-20 00:00:00",
-      "HOLDER_TOTAL_NUM": 28373,
-      "TOTAL_NUM_RATIO": -1.3422,
-      "AVG_FREE_SHARES": 22357,
-      "AVG_FREESHARES_RATIO": 1.360448313538,
-      "HOLD_FOCUS": "较分散",
-      "PRICE": 4.34,
-      "AVG_HOLD_AMT": 97029.4183935432,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
     }
   ],
   "sdltgd_date": [
+    {
+      "SECUCODE": "600082.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600082.SH",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
     {
       "SECUCODE": "600082.SH",
       "END_DATE": "2025-09-30 00:00:00"
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "600082.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600082.SH",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600082.SH",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600082.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "600082.SH",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600082.SH",
       "END_DATE": "2025-09-30 00:00:00",
@@ -403,16 +413,6 @@
       "SECUCODE": "600082.SH",
       "END_DATE": "2013-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600082.SH",
-      "END_DATE": "2013-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600082.SH",
-      "END_DATE": "2013-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "600082.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "600082.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "600082.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600082.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600082.SH",
       "SECURITY_CODE": "600082",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "天津海泰控股集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600082.SH",
       "SECURITY_CODE": "600082",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "天津华苑置业有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,104 +499,104 @@
     {
       "SECUCODE": "600082.SH",
       "SECURITY_CODE": "600082",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 10344339,
+      "FREE_HOLDNUM_RATIO": 1.63073648488,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600082.SH",
+      "SECURITY_CODE": "600082",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "张素芬",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8830000,
-      "FREE_HOLDNUM_RATIO": 1.392008050151,
-      "HOLD_NUM_CHANGE": "3010000",
-      "CHANGE_RATIO": 51.71821306
+      "HOLD_NUM": 9430000,
+      "FREE_HOLDNUM_RATIO": 1.486595233627,
+      "HOLD_NUM_CHANGE": "1340000",
+      "CHANGE_RATIO": 16.56365884
     },
     {
       "SECUCODE": "600082.SH",
       "SECURITY_CODE": "600082",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "洪来发",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5802758,
-      "FREE_HOLDNUM_RATIO": 0.914777559352,
-      "HOLD_NUM_CHANGE": "58500",
-      "CHANGE_RATIO": 1.0184083
+      "HOLD_NUM": 5872158,
+      "FREE_HOLDNUM_RATIO": 0.925718143574,
+      "HOLD_NUM_CHANGE": "28900",
+      "CHANGE_RATIO": 0.4945871
     },
     {
       "SECUCODE": "600082.SH",
       "SECURITY_CODE": "600082",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "彭杰",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5757500,
-      "FREE_HOLDNUM_RATIO": 0.907642848103,
-      "HOLD_NUM_CHANGE": "27800",
-      "CHANGE_RATIO": 0.4851912
+      "HOLD_NUM": 5031600,
+      "FREE_HOLDNUM_RATIO": 0.793208120628,
+      "HOLD_NUM_CHANGE": "-540900",
+      "CHANGE_RATIO": -9.70659489
     },
     {
       "SECUCODE": "600082.SH",
       "SECURITY_CODE": "600082",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "天津津融卓创投资管理有限公司-津融卓创7号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4804049,
-      "FREE_HOLDNUM_RATIO": 0.757335773649,
+      "HOLD_NUM": 4304049,
+      "FREE_HOLDNUM_RATIO": 0.678513120753,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600082.SH",
       "SECURITY_CODE": "600082",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "张巧卿",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4046400,
-      "FREE_HOLDNUM_RATIO": 0.63789596536,
-      "HOLD_NUM_CHANGE": "19800",
-      "CHANGE_RATIO": 0.49173
+      "HOLD_NUM": 4059400,
+      "FREE_HOLDNUM_RATIO": 0.639945354336,
+      "HOLD_NUM_CHANGE": "13000",
+      "CHANGE_RATIO": 0.32127323
     },
     {
       "SECUCODE": "600082.SH",
       "SECURITY_CODE": "600082",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "洪建鸿",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2810200,
-      "FREE_HOLDNUM_RATIO": 0.443014838339,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600082.SH",
-      "SECURITY_CODE": "600082",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "刘晓航",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "BARCLAYS BANK PLC",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2471200,
-      "FREE_HOLDNUM_RATIO": 0.389573079675,
+      "HOLD_NUM": 3931495,
+      "FREE_HOLDNUM_RATIO": 0.619781731498,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600082.SH",
       "SECURITY_CODE": "600082",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "胡连忠",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2451700,
-      "FREE_HOLDNUM_RATIO": 0.386498996212,
+      "HOLD_NUM": 3102948,
+      "FREE_HOLDNUM_RATIO": 0.489165186319,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "600082.SH",
       "SECURITY_CODE": "600082",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 225642739,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 234744921,
       "LIMITED_SHARES": 11780414,
-      "OTHER_UNLIMITED_SHARES": 408692673,
-      "HOLD_NUM_RATIO": 34.92,
+      "OTHER_UNLIMITED_SHARES": 399590491,
+      "HOLD_NUM_RATIO": 36.33,
       "LIMITED_SHARES_RATIO": 1.82,
-      "UNLIMITED_SHARES_RATIO": 63.25
+      "UNLIMITED_SHARES_RATIO": 61.85
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600082.SH",
       "SECURITY_CODE": "600082",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "天津海泰控股集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600082.SH",
       "SECURITY_CODE": "600082",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "天津华苑置业有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,96 +642,96 @@
     {
       "SECUCODE": "600082.SH",
       "SECURITY_CODE": "600082",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 10344339,
+      "HOLD_NUM_RATIO": 1.6,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600082.SH",
+      "SECURITY_CODE": "600082",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "张素芬",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8830000,
-      "HOLD_NUM_RATIO": 1.37,
-      "HOLD_NUM_CHANGE": "3010000",
-      "CHANGE_RATIO": 51.71821306
+      "HOLD_NUM": 9430000,
+      "HOLD_NUM_RATIO": 1.46,
+      "HOLD_NUM_CHANGE": "1340000",
+      "CHANGE_RATIO": 16.56365884
     },
     {
       "SECUCODE": "600082.SH",
       "SECURITY_CODE": "600082",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "洪来发",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5802758,
-      "HOLD_NUM_RATIO": 0.9,
-      "HOLD_NUM_CHANGE": "58500",
-      "CHANGE_RATIO": 1.0184083
+      "HOLD_NUM": 5872158,
+      "HOLD_NUM_RATIO": 0.91,
+      "HOLD_NUM_CHANGE": "28900",
+      "CHANGE_RATIO": 0.4945871
     },
     {
       "SECUCODE": "600082.SH",
       "SECURITY_CODE": "600082",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "彭杰",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5757500,
-      "HOLD_NUM_RATIO": 0.89,
-      "HOLD_NUM_CHANGE": "27800",
-      "CHANGE_RATIO": 0.4851912
+      "HOLD_NUM": 5031600,
+      "HOLD_NUM_RATIO": 0.78,
+      "HOLD_NUM_CHANGE": "-540900",
+      "CHANGE_RATIO": -9.70659489
     },
     {
       "SECUCODE": "600082.SH",
       "SECURITY_CODE": "600082",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "天津津融卓创投资管理有限公司-津融卓创7号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4804049,
-      "HOLD_NUM_RATIO": 0.74,
+      "HOLD_NUM": 4304049,
+      "HOLD_NUM_RATIO": 0.67,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600082.SH",
       "SECURITY_CODE": "600082",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "张巧卿",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4046400,
+      "HOLD_NUM": 4059400,
       "HOLD_NUM_RATIO": 0.63,
-      "HOLD_NUM_CHANGE": "19800",
-      "CHANGE_RATIO": 0.49173
+      "HOLD_NUM_CHANGE": "13000",
+      "CHANGE_RATIO": 0.32127323
     },
     {
       "SECUCODE": "600082.SH",
       "SECURITY_CODE": "600082",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "洪建鸿",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2810200,
-      "HOLD_NUM_RATIO": 0.43,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600082.SH",
-      "SECURITY_CODE": "600082",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "刘晓航",
+      "HOLDER_NAME": "BARCLAYS BANK PLC",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2471200,
-      "HOLD_NUM_RATIO": 0.38,
+      "HOLD_NUM": 3931495,
+      "HOLD_NUM_RATIO": 0.61,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600082.SH",
       "SECURITY_CODE": "600082",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "胡连忠",
+      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2451700,
-      "HOLD_NUM_RATIO": 0.38,
+      "HOLD_NUM": 3102948,
+      "HOLD_NUM_RATIO": 0.48,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -740,22 +740,32 @@
     {
       "SECUCODE": "600082.SH",
       "SECURITY_CODE": "600082",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 83,
-      "TOTAL_FREE_SHARES": 12904660,
-      "TOTAL_SHARES_RATIO": 2.03435906,
-      "ALL_SHARES_RATIO": 1.99726732
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 210351763,
+      "TOTAL_SHARES_RATIO": 33.160968,
+      "ALL_SHARES_RATIO": 32.55635515
     },
     {
       "SECUCODE": "600082.SH",
       "SECURITY_CODE": "600082",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 83,
-      "TOTAL_FREE_SHARES": 12904660,
-      "TOTAL_SHARES_RATIO": 2.03435906,
-      "ALL_SHARES_RATIO": 1.99726732
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 17378782,
+      "TOTAL_SHARES_RATIO": 2.7396834,
+      "ALL_SHARES_RATIO": 2.68973167
+    },
+    {
+      "SECUCODE": "600082.SH",
+      "SECURITY_CODE": "600082",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 192972981,
+      "TOTAL_SHARES_RATIO": 30.4212846,
+      "ALL_SHARES_RATIO": 29.86662348
     }
   ],
   "jjcg": [

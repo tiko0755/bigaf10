@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 17.2,
       "AVG_HOLD_AMT": 98468.547733366,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 46.89655582,
+      "FREEHOLD_RATIO_TOTAL": 46.98711184
     },
     {
       "SECUCODE": "600855.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600855.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600855.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600855.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600855.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600855.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600855.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600855.SH",
       "END_DATE": "2015-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600855.SH",
-      "END_DATE": "2015-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "600855.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "600855.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "600855.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600855.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600855.SH",
       "SECURITY_CODE": "600855",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国航天科工防御技术研究院",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600855.SH",
       "SECURITY_CODE": "600855",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "朝阳市电源有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "600855.SH",
       "SECURITY_CODE": "600855",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "北京计算机应用和仿真技术研究所",
       "HOLDER_TYPE": "其它",
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "600855.SH",
       "SECURITY_CODE": "600855",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "中国航天科工集团第二研究院二○六所",
       "HOLDER_TYPE": "其它",
@@ -525,20 +525,20 @@
     {
       "SECUCODE": "600855.SH",
       "SECURITY_CODE": "600855",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "杨保国",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6897623,
-      "FREE_HOLDNUM_RATIO": 1.474986530657,
-      "HOLD_NUM_CHANGE": "698200",
-      "CHANGE_RATIO": 11.26233845
+      "HOLD_NUM": 5445214,
+      "FREE_HOLDNUM_RATIO": 1.16440363681,
+      "HOLD_NUM_CHANGE": "1647527",
+      "CHANGE_RATIO": 43.38237985
     },
     {
       "SECUCODE": "600855.SH",
       "SECURITY_CODE": "600855",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "中国航天科工集团第二研究院七○六所",
       "HOLDER_TYPE": "其它",
@@ -551,21 +551,8 @@
     {
       "SECUCODE": "600855.SH",
       "SECURITY_CODE": "600855",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3797687,
-      "FREE_HOLDNUM_RATIO": 0.812096742987,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600855.SH",
-      "SECURITY_CODE": "600855",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "刘建伟",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -577,26 +564,39 @@
     {
       "SECUCODE": "600855.SH",
       "SECURITY_CODE": "600855",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "中国航天科工集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 2915199,
       "FREE_HOLDNUM_RATIO": 0.62338565897,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600855.SH",
       "SECURITY_CODE": "600855",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "张少明",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2668300,
-      "FREE_HOLDNUM_RATIO": 0.57058881875,
+      "HOLD_NUM": 1911000,
+      "FREE_HOLDNUM_RATIO": 0.408647915388,
+      "HOLD_NUM_CHANGE": "-757300",
+      "CHANGE_RATIO": -28.38136641
+    },
+    {
+      "SECUCODE": "600855.SH",
+      "SECURITY_CODE": "600855",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国汽车工业投资开发有限公司",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1537700,
+      "FREE_HOLDNUM_RATIO": 0.328821506799,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "600855.SH",
       "SECURITY_CODE": "600855",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 224200098,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 219730402,
       "LIMITED_SHARES": 903000,
-      "OTHER_UNLIMITED_SHARES": 243439630,
-      "HOLD_NUM_RATIO": 47.85,
+      "OTHER_UNLIMITED_SHARES": 247909326,
+      "HOLD_NUM_RATIO": 46.9,
       "LIMITED_SHARES_RATIO": 0.19,
-      "UNLIMITED_SHARES_RATIO": 51.96
+      "UNLIMITED_SHARES_RATIO": 52.91
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600855.SH",
       "SECURITY_CODE": "600855",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国航天科工防御技术研究院",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600855.SH",
       "SECURITY_CODE": "600855",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "朝阳市电源有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "600855.SH",
       "SECURITY_CODE": "600855",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "北京计算机应用和仿真技术研究所",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "600855.SH",
       "SECURITY_CODE": "600855",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "中国航天科工集团第二研究院二○六所",
       "SHARES_TYPE": "流通A股",
@@ -666,19 +666,19 @@
     {
       "SECUCODE": "600855.SH",
       "SECURITY_CODE": "600855",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "杨保国",
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6897623,
-      "HOLD_NUM_RATIO": 1.47,
-      "HOLD_NUM_CHANGE": "698200",
-      "CHANGE_RATIO": 11.26233845
+      "HOLD_NUM": 5445214,
+      "HOLD_NUM_RATIO": 1.16,
+      "HOLD_NUM_CHANGE": "1647527",
+      "CHANGE_RATIO": 43.38237985
     },
     {
       "SECUCODE": "600855.SH",
       "SECURITY_CODE": "600855",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "中国航天科工集团第二研究院七○六所",
       "SHARES_TYPE": "流通A股",
@@ -690,20 +690,8 @@
     {
       "SECUCODE": "600855.SH",
       "SECURITY_CODE": "600855",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3797687,
-      "HOLD_NUM_RATIO": 0.81,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600855.SH",
-      "SECURITY_CODE": "600855",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "刘建伟",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3509100,
@@ -714,24 +702,36 @@
     {
       "SECUCODE": "600855.SH",
       "SECURITY_CODE": "600855",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "中国航天科工集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2915199,
       "HOLD_NUM_RATIO": 0.62,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600855.SH",
       "SECURITY_CODE": "600855",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "张少明",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2668300,
-      "HOLD_NUM_RATIO": 0.57,
+      "HOLD_NUM": 1911000,
+      "HOLD_NUM_RATIO": 0.41,
+      "HOLD_NUM_CHANGE": "-757300",
+      "CHANGE_RATIO": -28.38136641
+    },
+    {
+      "SECUCODE": "600855.SH",
+      "SECURITY_CODE": "600855",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国汽车工业投资开发有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1537700,
+      "HOLD_NUM_RATIO": 0.33,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -740,32 +740,22 @@
     {
       "SECUCODE": "600855.SH",
       "SECURITY_CODE": "600855",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 20,
-      "TOTAL_FREE_SHARES": 211702166,
-      "TOTAL_SHARES_RATIO": 45.2703552,
-      "ALL_SHARES_RATIO": 45.18310783
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 214310302,
+      "TOTAL_SHARES_RATIO": 45.82807858,
+      "ALL_SHARES_RATIO": 45.73975631
     },
     {
       "SECUCODE": "600855.SH",
       "SECURITY_CODE": "600855",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 13,
-      "TOTAL_FREE_SHARES": 577091,
-      "TOTAL_SHARES_RATIO": 0.12340503,
-      "ALL_SHARES_RATIO": 0.12316721
-    },
-    {
-      "SECUCODE": "600855.SH",
-      "SECURITY_CODE": "600855",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 7,
-      "TOTAL_FREE_SHARES": 211125075,
-      "TOTAL_SHARES_RATIO": 45.14695017,
-      "ALL_SHARES_RATIO": 45.05994062
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 214310302,
+      "TOTAL_SHARES_RATIO": 45.82807858,
+      "ALL_SHARES_RATIO": 45.73975631
     }
   ],
   "jjcg": [

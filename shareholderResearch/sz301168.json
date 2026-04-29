@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 40.7,
       "AVG_HOLD_AMT": 495371.315949432,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 66.62057,
+      "FREEHOLD_RATIO_TOTAL": 58.65082301
     },
     {
       "SECUCODE": "301168.SZ",
@@ -109,8 +109,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 46.7,
       "AVG_HOLD_AMT": 567167.786850153,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 65.79997083,
+      "FREEHOLD_RATIO_TOTAL": 57.70334594
     },
     {
       "SECUCODE": "301168.SZ",
@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "301168.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "301168.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "301168.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "301168.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301168.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301168.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "301168.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "301168.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "301168.SZ",
       "END_DATE": "2025-09-30 00:00:00",
@@ -403,16 +413,6 @@
       "SECUCODE": "301168.SZ",
       "END_DATE": "2022-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "301168.SZ",
-      "END_DATE": "2022-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "301168.SZ",
-      "END_DATE": "2022-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "301168.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "301168.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "301168.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301168.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "301168.SZ",
       "SECURITY_CODE": "301168",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "江苏尚昆生物设备有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "301168.SZ",
       "SECURITY_CODE": "301168",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "扬中市金融控股集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "301168.SZ",
       "SECURITY_CODE": "301168",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "李前进",
       "HOLDER_TYPE": "个人",
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "301168.SZ",
       "SECURITY_CODE": "301168",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "严华",
       "HOLDER_TYPE": "个人",
@@ -525,7 +525,7 @@
     {
       "SECUCODE": "301168.SZ",
       "SECURITY_CODE": "301168",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "扬中市通泰投资管理合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -538,65 +538,65 @@
     {
       "SECUCODE": "301168.SZ",
       "SECURITY_CODE": "301168",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "瑞众人寿保险有限责任公司-自有资金",
-      "HOLDER_TYPE": "保险产品",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1000000,
-      "FREE_HOLDNUM_RATIO": 1.049171125434,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301168.SZ",
-      "SECURITY_CODE": "301168",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中信证券资产管理(香港)有限公司-客户资金",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 803308,
-      "FREE_HOLDNUM_RATIO": 0.84280755843,
-      "HOLD_NUM_CHANGE": "46267",
-      "CHANGE_RATIO": 6.11155803
-    },
-    {
-      "SECUCODE": "301168.SZ",
-      "SECURITY_CODE": "301168",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "UBS AG",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 786973,
-      "FREE_HOLDNUM_RATIO": 0.825669348096,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301168.SZ",
-      "SECURITY_CODE": "301168",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "西藏博恩资产管理有限公司-博恩添富7号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 715600,
-      "FREE_HOLDNUM_RATIO": 0.750786857361,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM": 1362921,
+      "FREE_HOLDNUM_RATIO": 1.429937359448,
+      "HOLD_NUM_CHANGE": "135000",
+      "CHANGE_RATIO": 10.99419262
+    },
+    {
+      "SECUCODE": "301168.SZ",
+      "SECURITY_CODE": "301168",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "卢玉妹",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1076800,
+      "FREE_HOLDNUM_RATIO": 1.129747467867,
+      "HOLD_NUM_CHANGE": "396800",
+      "CHANGE_RATIO": 58.35294118
+    },
+    {
+      "SECUCODE": "301168.SZ",
+      "SECURITY_CODE": "301168",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "江苏通灵电器股份有限公司回购专用证券账户",
+      "HOLDER_TYPE": "证券账户",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 999936,
+      "FREE_HOLDNUM_RATIO": 1.049103978482,
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301168.SZ",
       "SECURITY_CODE": "301168",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "姜晓丹",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 700000,
-      "FREE_HOLDNUM_RATIO": 0.734419787804,
+      "HOLD_NUM": 923000,
+      "FREE_HOLDNUM_RATIO": 0.968384948776,
+      "HOLD_NUM_CHANGE": "273000",
+      "CHANGE_RATIO": 42
+    },
+    {
+      "SECUCODE": "301168.SZ",
+      "SECURITY_CODE": "301168",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "孔令寿",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 857500,
+      "FREE_HOLDNUM_RATIO": 0.89966424006,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "301168.SZ",
       "SECURITY_CODE": "301168",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 54687780,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 55902056,
       "LIMITED_SHARES": 24686664,
-      "OTHER_UNLIMITED_SHARES": 40625556,
-      "HOLD_NUM_RATIO": 45.57,
+      "OTHER_UNLIMITED_SHARES": 39411280,
+      "HOLD_NUM_RATIO": 46.59,
       "LIMITED_SHARES_RATIO": 20.57,
-      "UNLIMITED_SHARES_RATIO": 33.85
+      "UNLIMITED_SHARES_RATIO": 32.84
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "301168.SZ",
       "SECURITY_CODE": "301168",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "江苏尚昆生物设备有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "301168.SZ",
       "SECURITY_CODE": "301168",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "李前进",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "301168.SZ",
       "SECURITY_CODE": "301168",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "严华",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "301168.SZ",
       "SECURITY_CODE": "301168",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "扬中市金融控股集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -666,7 +666,7 @@
     {
       "SECUCODE": "301168.SZ",
       "SECURITY_CODE": "301168",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "扬中市通泰投资管理合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -678,57 +678,57 @@
     {
       "SECUCODE": "301168.SZ",
       "SECURITY_CODE": "301168",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "瑞众人寿保险有限责任公司-自有资金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1000000,
-      "HOLD_NUM_RATIO": 0.83,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301168.SZ",
-      "SECURITY_CODE": "301168",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中信证券资产管理(香港)有限公司-客户资金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 803308,
-      "HOLD_NUM_RATIO": 0.67,
-      "HOLD_NUM_CHANGE": "46267",
-      "CHANGE_RATIO": 6.11155803
-    },
-    {
-      "SECUCODE": "301168.SZ",
-      "SECURITY_CODE": "301168",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "UBS AG",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 786973,
-      "HOLD_NUM_RATIO": 0.66,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301168.SZ",
-      "SECURITY_CODE": "301168",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "西藏博恩资产管理有限公司-博恩添富7号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 715600,
-      "HOLD_NUM_RATIO": 0.6,
+      "HOLD_NUM": 1362921,
+      "HOLD_NUM_RATIO": 1.14,
+      "HOLD_NUM_CHANGE": "135000",
+      "CHANGE_RATIO": 10.99419262
+    },
+    {
+      "SECUCODE": "301168.SZ",
+      "SECURITY_CODE": "301168",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "卢玉妹",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1076800,
+      "HOLD_NUM_RATIO": 0.9,
+      "HOLD_NUM_CHANGE": "396800",
+      "CHANGE_RATIO": 58.35294118
+    },
+    {
+      "SECUCODE": "301168.SZ",
+      "SECURITY_CODE": "301168",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "姜晓丹",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 923000,
+      "HOLD_NUM_RATIO": 0.77,
+      "HOLD_NUM_CHANGE": "273000",
+      "CHANGE_RATIO": 42
+    },
+    {
+      "SECUCODE": "301168.SZ",
+      "SECURITY_CODE": "301168",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "孔令寿",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 857500,
+      "HOLD_NUM_RATIO": 0.71,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301168.SZ",
       "SECURITY_CODE": "301168",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "姜晓丹",
+      "HOLDER_NAME": "武瑞生",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 700000,
       "HOLD_NUM_RATIO": 0.58,
@@ -740,22 +740,22 @@
     {
       "SECUCODE": "301168.SZ",
       "SECURITY_CODE": "301168",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 45,
-      "TOTAL_FREE_SHARES": 249147,
-      "TOTAL_SHARES_RATIO": 0.26139784,
-      "ALL_SHARES_RATIO": 0.20762249
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 44930568,
+      "TOTAL_SHARES_RATIO": 47.1398546,
+      "ALL_SHARES_RATIO": 37.44214
     },
     {
       "SECUCODE": "301168.SZ",
       "SECURITY_CODE": "301168",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 45,
-      "TOTAL_FREE_SHARES": 249147,
-      "TOTAL_SHARES_RATIO": 0.26139784,
-      "ALL_SHARES_RATIO": 0.20762249
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 44930568,
+      "TOTAL_SHARES_RATIO": 47.1398546,
+      "ALL_SHARES_RATIO": 37.44214
     }
   ],
   "jjcg": [

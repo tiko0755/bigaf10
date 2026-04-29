@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 8.64,
       "AVG_HOLD_AMT": 71617.3366108119,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 43.62594194,
+      "FREEHOLD_RATIO_TOTAL": 43.62594194
     },
     {
       "SECUCODE": "600192.SH",
@@ -22,7 +22,7 @@
       "TOTAL_NUM_RATIO": 0.2247,
       "AVG_FREE_SHARES": 7985,
       "AVG_FREESHARES_RATIO": -0.224166606407,
-      "HOLD_FOCUS": "较分散",
+      "HOLD_FOCUS": "非常分散",
       "PRICE": 10.14,
       "AVG_HOLD_AMT": 80977.0178610167,
       "HOLD_RATIO_TOTAL": 44.03482936,
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600192.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600192.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600192.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600192.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600192.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600192.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600192.SH",
       "END_DATE": "2015-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600192.SH",
-      "END_DATE": "2015-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "600192.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "600192.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "600192.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600192.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600192.SH",
       "SECURITY_CODE": "600192",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "甘肃电气装备集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,117 +486,117 @@
     {
       "SECUCODE": "600192.SH",
       "SECURITY_CODE": "600192",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "高盛公司有限责任公司",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3200696,
-      "FREE_HOLDNUM_RATIO": 0.724552459773,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600192.SH",
-      "SECURITY_CODE": "600192",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "北京宜中圣哲投资有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2687000,
-      "FREE_HOLDNUM_RATIO": 0.608265345853,
-      "HOLD_NUM_CHANGE": "70000",
-      "CHANGE_RATIO": 2.67481849
+      "HOLD_NUM": 2712000,
+      "FREE_HOLDNUM_RATIO": 0.61392468104,
+      "HOLD_NUM_CHANGE": "25000",
+      "CHANGE_RATIO": 0.93040566
     },
     {
       "SECUCODE": "600192.SH",
       "SECURITY_CODE": "600192",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "李文沅",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2429300,
-      "FREE_HOLDNUM_RATIO": 0.54992891875,
-      "HOLD_NUM_CHANGE": "162400",
-      "CHANGE_RATIO": 7.16396842
+      "HOLD_NUM": 2403400,
+      "FREE_HOLDNUM_RATIO": 0.544065847497,
+      "HOLD_NUM_CHANGE": "-25900",
+      "CHANGE_RATIO": -1.06615074
     },
     {
       "SECUCODE": "600192.SH",
       "SECURITY_CODE": "600192",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "王方培",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2277100,
+      "FREE_HOLDNUM_RATIO": 0.515474886134,
+      "HOLD_NUM_CHANGE": "152500",
+      "CHANGE_RATIO": 7.17782171
+    },
+    {
+      "SECUCODE": "600192.SH",
+      "SECURITY_CODE": "600192",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "北京戴德澜文化传媒有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2310000,
-      "FREE_HOLDNUM_RATIO": 0.52292257124,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2228300,
+      "FREE_HOLDNUM_RATIO": 0.50442786385,
+      "HOLD_NUM_CHANGE": "-81700",
+      "CHANGE_RATIO": -3.53679654
     },
     {
       "SECUCODE": "600192.SH",
       "SECURITY_CODE": "600192",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "王方培",
+      "HOLDER_NAME": "丛治琪",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2124600,
-      "FREE_HOLDNUM_RATIO": 0.480952941496,
-      "HOLD_NUM_CHANGE": "255000",
-      "CHANGE_RATIO": 13.63928113
+      "HOLD_NUM": 1812000,
+      "FREE_HOLDNUM_RATIO": 0.410188614323,
+      "HOLD_NUM_CHANGE": "12000",
+      "CHANGE_RATIO": 0.66666667
     },
     {
       "SECUCODE": "600192.SH",
       "SECURITY_CODE": "600192",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
-      "HOLDER_TYPE": "QFII",
+      "HOLDER_NAME": "丛治瑞",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1963298,
-      "FREE_HOLDNUM_RATIO": 0.444438458125,
+      "HOLD_NUM": 1807000,
+      "FREE_HOLDNUM_RATIO": 0.409056747286,
+      "HOLD_NUM_CHANGE": "57000",
+      "CHANGE_RATIO": 3.25714286
+    },
+    {
+      "SECUCODE": "600192.SH",
+      "SECURITY_CODE": "600192",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "彭浩",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1750437,
+      "FREE_HOLDNUM_RATIO": 0.396252388239,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600192.SH",
       "SECURITY_CODE": "600192",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "丛治琪",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1800000,
-      "FREE_HOLDNUM_RATIO": 0.407472133434,
-      "HOLD_NUM_CHANGE": "30000",
-      "CHANGE_RATIO": 1.69491525
-    },
-    {
-      "SECUCODE": "600192.SH",
-      "SECURITY_CODE": "600192",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "丛治瑞",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "六妙星(北京)私募基金管理有限公司-六妙星破阵子私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1750000,
-      "FREE_HOLDNUM_RATIO": 0.39615346306,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 1561400,
+      "FREE_HOLDNUM_RATIO": 0.353459438413,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600192.SH",
       "SECURITY_CODE": "600192",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "陆明富",
+      "HOLDER_NAME": "亓玮",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1650800,
-      "FREE_HOLDNUM_RATIO": 0.37369722104,
+      "HOLD_NUM": 1557805,
+      "FREE_HOLDNUM_RATIO": 0.352645626013,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "600192.SH",
       "SECURITY_CODE": "600192",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 194522978,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 192716726,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 247225022,
-      "HOLD_NUM_RATIO": 44.03,
+      "OTHER_UNLIMITED_SHARES": 249031274,
+      "HOLD_NUM_RATIO": 43.63,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 55.97
+      "UNLIMITED_SHARES_RATIO": 56.37
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600192.SH",
       "SECURITY_CODE": "600192",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "甘肃电气装备集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,108 +630,108 @@
     {
       "SECUCODE": "600192.SH",
       "SECURITY_CODE": "600192",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "高盛公司有限责任公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3200696,
-      "HOLD_NUM_RATIO": 0.72,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600192.SH",
-      "SECURITY_CODE": "600192",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "北京宜中圣哲投资有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2687000,
+      "HOLD_NUM": 2712000,
       "HOLD_NUM_RATIO": 0.61,
-      "HOLD_NUM_CHANGE": "70000",
-      "CHANGE_RATIO": 2.67481849
+      "HOLD_NUM_CHANGE": "25000",
+      "CHANGE_RATIO": 0.93040566
     },
     {
       "SECUCODE": "600192.SH",
       "SECURITY_CODE": "600192",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "李文沅",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2429300,
-      "HOLD_NUM_RATIO": 0.55,
-      "HOLD_NUM_CHANGE": "162400",
-      "CHANGE_RATIO": 7.16396842
+      "HOLD_NUM": 2403400,
+      "HOLD_NUM_RATIO": 0.54,
+      "HOLD_NUM_CHANGE": "-25900",
+      "CHANGE_RATIO": -1.06615074
     },
     {
       "SECUCODE": "600192.SH",
       "SECURITY_CODE": "600192",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "王方培",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2277100,
+      "HOLD_NUM_RATIO": 0.52,
+      "HOLD_NUM_CHANGE": "152500",
+      "CHANGE_RATIO": 7.17782171
+    },
+    {
+      "SECUCODE": "600192.SH",
+      "SECURITY_CODE": "600192",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "北京戴德澜文化传媒有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2310000,
-      "HOLD_NUM_RATIO": 0.52,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2228300,
+      "HOLD_NUM_RATIO": 0.5,
+      "HOLD_NUM_CHANGE": "-81700",
+      "CHANGE_RATIO": -3.53679654
     },
     {
       "SECUCODE": "600192.SH",
       "SECURITY_CODE": "600192",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "王方培",
+      "HOLDER_NAME": "丛治琪",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2124600,
-      "HOLD_NUM_RATIO": 0.48,
-      "HOLD_NUM_CHANGE": "255000",
-      "CHANGE_RATIO": 13.63928113
+      "HOLD_NUM": 1812000,
+      "HOLD_NUM_RATIO": 0.41,
+      "HOLD_NUM_CHANGE": "12000",
+      "CHANGE_RATIO": 0.66666667
     },
     {
       "SECUCODE": "600192.SH",
       "SECURITY_CODE": "600192",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "HOLDER_NAME": "丛治瑞",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1963298,
-      "HOLD_NUM_RATIO": 0.44,
+      "HOLD_NUM": 1807000,
+      "HOLD_NUM_RATIO": 0.41,
+      "HOLD_NUM_CHANGE": "57000",
+      "CHANGE_RATIO": 3.25714286
+    },
+    {
+      "SECUCODE": "600192.SH",
+      "SECURITY_CODE": "600192",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "彭浩",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1750437,
+      "HOLD_NUM_RATIO": 0.4,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600192.SH",
       "SECURITY_CODE": "600192",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "丛治琪",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1800000,
-      "HOLD_NUM_RATIO": 0.41,
-      "HOLD_NUM_CHANGE": "30000",
-      "CHANGE_RATIO": 1.69491525
-    },
-    {
-      "SECUCODE": "600192.SH",
-      "SECURITY_CODE": "600192",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "丛治瑞",
+      "HOLDER_NAME": "六妙星(北京)私募基金管理有限公司-六妙星破阵子私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1750000,
-      "HOLD_NUM_RATIO": 0.4,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 1561400,
+      "HOLD_NUM_RATIO": 0.35,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600192.SH",
       "SECURITY_CODE": "600192",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "陆明富",
+      "HOLDER_NAME": "亓玮",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1650800,
-      "HOLD_NUM_RATIO": 0.37,
+      "HOLD_NUM": 1557805,
+      "HOLD_NUM_RATIO": 0.35,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -740,42 +740,22 @@
     {
       "SECUCODE": "600192.SH",
       "SECURITY_CODE": "600192",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 8,
-      "TOTAL_FREE_SHARES": 184928378,
-      "TOTAL_SHARES_RATIO": 41.86286708,
-      "ALL_SHARES_RATIO": 41.86286708
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 181108984,
+      "TOTAL_SHARES_RATIO": 40.99825783,
+      "ALL_SHARES_RATIO": 40.99825783
     },
     {
       "SECUCODE": "600192.SH",
       "SECURITY_CODE": "600192",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 160100,
-      "TOTAL_SHARES_RATIO": 0.03624239,
-      "ALL_SHARES_RATIO": 0.03624239
-    },
-    {
-      "SECUCODE": "600192.SH",
-      "SECURITY_CODE": "600192",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "02",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 5163994,
-      "TOTAL_SHARES_RATIO": 1.16899092,
-      "ALL_SHARES_RATIO": 1.16899092
-    },
-    {
-      "SECUCODE": "600192.SH",
-      "SECURITY_CODE": "600192",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 179604284,
-      "TOTAL_SHARES_RATIO": 40.65763377,
-      "ALL_SHARES_RATIO": 40.65763377
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 181108984,
+      "TOTAL_SHARES_RATIO": 40.99825783,
+      "ALL_SHARES_RATIO": 40.99825783
     }
   ],
   "jjcg": [

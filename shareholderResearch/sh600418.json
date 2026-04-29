@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 46.2,
       "AVG_HOLD_AMT": 669661.538703833,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 40.65377201,
+      "FREEHOLD_RATIO_TOTAL": 39.85578172
     },
     {
       "SECUCODE": "600418.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600418.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600418.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600418.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600418.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600418.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600418.SH",
       "END_DATE": "2026-02-12 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600418.SH",
       "END_DATE": "2018-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600418.SH",
-      "END_DATE": "2018-03-23 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -528,7 +528,7 @@
     {
       "SECUCODE": "600418.SH",
       "SECURITY_CODE": "600418",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "安徽江淮汽车集团控股有限公司",
       "HOLDER_TYPE": "其它",
@@ -541,33 +541,33 @@
     {
       "SECUCODE": "600418.SH",
       "SECURITY_CODE": "600418",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 58555292,
-      "FREE_HOLDNUM_RATIO": 2.681091094065,
-      "HOLD_NUM_CHANGE": "3070284",
-      "CHANGE_RATIO": 5.533538
+      "HOLD_NUM": 52932230,
+      "FREE_HOLDNUM_RATIO": 2.423626039504,
+      "HOLD_NUM_CHANGE": "-5623062",
+      "CHANGE_RATIO": -9.6029954
     },
     {
       "SECUCODE": "600418.SH",
       "SECURITY_CODE": "600418",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "安徽省国有资本运营控股集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 48405641,
-      "FREE_HOLDNUM_RATIO": 2.216365567566,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 38406269,
+      "FREE_HOLDNUM_RATIO": 1.758520916814,
+      "HOLD_NUM_CHANGE": "-9999372",
+      "CHANGE_RATIO": -20.65745189
     },
     {
       "SECUCODE": "600418.SH",
       "SECURITY_CODE": "600418",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "安徽省财政厅",
       "HOLDER_TYPE": "其它",
@@ -580,21 +580,34 @@
     {
       "SECUCODE": "600418.SH",
       "SECURITY_CODE": "600418",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "王萍",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 24756061,
       "FREE_HOLDNUM_RATIO": 1.133514194946,
-      "HOLD_NUM_CHANGE": "1254323",
-      "CHANGE_RATIO": 5.33714996
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600418.SH",
       "SECURITY_CODE": "600418",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "杭州知春投资管理有限公司-知春精选一期私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 24096216,
+      "FREE_HOLDNUM_RATIO": 1.103301647241,
+      "HOLD_NUM_CHANGE": "4096207",
+      "CHANGE_RATIO": 20.48102578
+    },
+    {
+      "SECUCODE": "600418.SH",
+      "SECURITY_CODE": "600418",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "合肥市国有资产控股有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -606,33 +619,20 @@
     {
       "SECUCODE": "600418.SH",
       "SECURITY_CODE": "600418",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "陈大魁",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 22000000,
-      "FREE_HOLDNUM_RATIO": 1.007321491445,
-      "HOLD_NUM_CHANGE": "-1454187",
-      "CHANGE_RATIO": -6.20011685
+      "HOLD_NUM": 21800500,
+      "FREE_HOLDNUM_RATIO": 0.998186917011,
+      "HOLD_NUM_CHANGE": "-199500",
+      "CHANGE_RATIO": -0.90681818
     },
     {
       "SECUCODE": "600418.SH",
       "SECURITY_CODE": "600418",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "杭州知春投资管理有限公司-知春精选一期私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 20000009,
-      "FREE_HOLDNUM_RATIO": 0.91574722249,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600418.SH",
-      "SECURITY_CODE": "600418",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "葛贵莲",
       "HOLDER_TYPE": "个人",
@@ -645,14 +645,14 @@
     {
       "SECUCODE": "600418.SH",
       "SECURITY_CODE": "600418",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "王雁红",
+      "HOLDER_NAME": "方文艳",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 13514271,
-      "FREE_HOLDNUM_RATIO": 0.618782528159,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 15837079,
+      "FREE_HOLDNUM_RATIO": 0.725137729019,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -660,20 +660,20 @@
     {
       "SECUCODE": "600418.SH",
       "SECURITY_CODE": "600418",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 879857094,
-      "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 1304152697,
-      "HOLD_NUM_RATIO": 40.29,
-      "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 59.71
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 870454175,
+      "LIMITED_SHARES": 70168404,
+      "OTHER_UNLIMITED_SHARES": 1313555616,
+      "HOLD_NUM_RATIO": 38.62,
+      "LIMITED_SHARES_RATIO": 3.11,
+      "UNLIMITED_SHARES_RATIO": 58.27
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600418.SH",
       "SECURITY_CODE": "600418",
-      "END_DATE": "2026-02-12 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "安徽江淮汽车集团控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -685,31 +685,31 @@
     {
       "SECUCODE": "600418.SH",
       "SECURITY_CODE": "600418",
-      "END_DATE": "2026-02-12 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 62884827,
-      "HOLD_NUM_RATIO": 2.79,
-      "HOLD_NUM_CHANGE": "4329535",
-      "CHANGE_RATIO": 7.39392607
+      "HOLD_NUM": 52932230,
+      "HOLD_NUM_RATIO": 2.35,
+      "HOLD_NUM_CHANGE": "-9952597",
+      "CHANGE_RATIO": -15.8267065
     },
     {
       "SECUCODE": "600418.SH",
       "SECURITY_CODE": "600418",
-      "END_DATE": "2026-02-12 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "安徽省国有资本运营控股集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 38406269,
       "HOLD_NUM_RATIO": 1.7,
-      "HOLD_NUM_CHANGE": "-9999372",
-      "CHANGE_RATIO": -20.65745189
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600418.SH",
       "SECURITY_CODE": "600418",
-      "END_DATE": "2026-02-12 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "安徽省财政厅",
       "SHARES_TYPE": "流通A股",
@@ -721,43 +721,43 @@
     {
       "SECUCODE": "600418.SH",
       "SECURITY_CODE": "600418",
-      "END_DATE": "2026-02-12 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "杭州知春投资管理有限公司-知春精选一期私募证券投资基金",
       "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 36125085,
       "HOLD_NUM_RATIO": 1.6,
-      "HOLD_NUM_CHANGE": "16125076",
-      "CHANGE_RATIO": 80.62534372
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600418.SH",
       "SECURITY_CODE": "600418",
-      "END_DATE": "2026-02-12 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "方文艳",
       "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 35885194,
       "HOLD_NUM_RATIO": 1.59,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600418.SH",
       "SECURITY_CODE": "600418",
-      "END_DATE": "2026-02-12 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "葛卫东",
       "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 30493505,
       "HOLD_NUM_RATIO": 1.35,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600418.SH",
       "SECURITY_CODE": "600418",
-      "END_DATE": "2026-02-12 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "王萍",
       "SHARES_TYPE": "流通A股",
@@ -769,7 +769,7 @@
     {
       "SECUCODE": "600418.SH",
       "SECURITY_CODE": "600418",
-      "END_DATE": "2026-02-12 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "合肥市国有资产控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -781,14 +781,14 @@
     {
       "SECUCODE": "600418.SH",
       "SECURITY_CODE": "600418",
-      "END_DATE": "2026-02-12 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "陈大魁",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 21800500,
       "HOLD_NUM_RATIO": 0.97,
-      "HOLD_NUM_CHANGE": "-199500",
-      "CHANGE_RATIO": -0.90681818
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
@@ -797,10 +797,10 @@
       "SECURITY_CODE": "600418",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 82,
-      "TOTAL_FREE_SHARES": 28885170,
-      "TOTAL_SHARES_RATIO": 1.32257512,
-      "ALL_SHARES_RATIO": 1.28140581
+      "TOTAL_ORG_NUM": 88,
+      "TOTAL_FREE_SHARES": 832358374,
+      "TOTAL_SHARES_RATIO": 37.5607064,
+      "ALL_SHARES_RATIO": 36.39151099
     },
     {
       "SECUCODE": "600418.SH",
@@ -811,6 +811,16 @@
       "TOTAL_FREE_SHARES": 28885170,
       "TOTAL_SHARES_RATIO": 1.32257512,
       "ALL_SHARES_RATIO": 1.28140581
+    },
+    {
+      "SECUCODE": "600418.SH",
+      "SECURITY_CODE": "600418",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 803473204,
+      "TOTAL_SHARES_RATIO": 36.23813128,
+      "ALL_SHARES_RATIO": 35.11010518
     }
   ],
   "jjcg": [

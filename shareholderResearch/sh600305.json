@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 7.64,
       "AVG_HOLD_AMT": 105624.522905454,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 50.00204009,
+      "FREEHOLD_RATIO_TOTAL": 50.1599494
     },
     {
       "SECUCODE": "600305.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600305.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600305.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600305.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600305.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600305.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600305.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600305.SH",
       "END_DATE": "2015-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600305.SH",
-      "END_DATE": "2014-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "600305.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "600305.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,25 +443,9 @@
     {
       "SECUCODE": "600305.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600305.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-10-14 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "江苏恒顺集团有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 453907206,
-      "HOLD_NUM_RATIO": 41.02,
-      "HOLD_CHANGE": "4870784",
-      "CHANGE_RATIO": 1.08471914,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "600305.SH",
@@ -495,20 +483,20 @@
     {
       "SECUCODE": "600305.SH",
       "SECURITY_CODE": "600305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "江苏恒顺集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 460107402,
       "FREE_HOLDNUM_RATIO": 41.714624899877,
-      "HOLD_NUM_CHANGE": "11070980",
-      "CHANGE_RATIO": 2.46549711
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600305.SH",
       "SECURITY_CODE": "600305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "镇江百味投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -521,20 +509,20 @@
     {
       "SECUCODE": "600305.SH",
       "SECURITY_CODE": "600305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 16997157,
-      "FREE_HOLDNUM_RATIO": 1.541009828439,
-      "HOLD_NUM_CHANGE": "1075630",
-      "CHANGE_RATIO": 6.75582185
+      "HOLD_NUM": 14537260,
+      "FREE_HOLDNUM_RATIO": 1.317988681199,
+      "HOLD_NUM_CHANGE": "-2459897",
+      "CHANGE_RATIO": -14.47240265
     },
     {
       "SECUCODE": "600305.SH",
       "SECURITY_CODE": "600305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "浙江浙盐控股有限公司",
       "HOLDER_TYPE": "其它",
@@ -547,7 +535,7 @@
     {
       "SECUCODE": "600305.SH",
       "SECURITY_CODE": "600305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "国联信托股份有限公司-国联信托·惠越24008号集合资金信托计划",
       "HOLDER_TYPE": "信托计划",
@@ -560,7 +548,7 @@
     {
       "SECUCODE": "600305.SH",
       "SECURITY_CODE": "600305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "广西农垦股权投资基金有限公司-广西农垦产业投资发展中心(有限合伙)",
       "HOLDER_TYPE": "私募基金",
@@ -573,7 +561,7 @@
     {
       "SECUCODE": "600305.SH",
       "SECURITY_CODE": "600305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "济南瀚祥投资管理合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -586,20 +574,20 @@
     {
       "SECUCODE": "600305.SH",
       "SECURITY_CODE": "600305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "沈惠峰",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6085941,
-      "FREE_HOLDNUM_RATIO": 0.551768445529,
-      "HOLD_NUM_CHANGE": "17000",
-      "CHANGE_RATIO": 0.28011477
+      "HOLD_NUM": 5500000,
+      "FREE_HOLDNUM_RATIO": 0.498645394428,
+      "HOLD_NUM_CHANGE": "700000",
+      "CHANGE_RATIO": 14.58333333
     },
     {
       "SECUCODE": "600305.SH",
       "SECURITY_CODE": "600305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "山东国惠基金管理有限公司-济南国惠鲁银产业投资基金合伙企业(有限合伙)",
       "HOLDER_TYPE": "私募基金",
@@ -612,47 +600,47 @@
     {
       "SECUCODE": "600305.SH",
       "SECURITY_CODE": "600305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "沈惠峰",
+      "HOLDER_NAME": "徐晓明",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4800000,
-      "FREE_HOLDNUM_RATIO": 0.435181435137,
-      "HOLD_NUM_CHANGE": "200000",
-      "CHANGE_RATIO": 4.34782609
+      "HOLD_NUM": 4500000,
+      "FREE_HOLDNUM_RATIO": 0.407982595441,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600305.SH",
       "SECURITY_CODE": "600305",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 556604175,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 553258337,
       "LIMITED_SHARES": 3483300,
-      "OTHER_UNLIMITED_SHARES": 546384053,
-      "HOLD_NUM_RATIO": 50.3,
+      "OTHER_UNLIMITED_SHARES": 549729891,
+      "HOLD_NUM_RATIO": 50,
       "LIMITED_SHARES_RATIO": 0.31,
-      "UNLIMITED_SHARES_RATIO": 49.38
+      "UNLIMITED_SHARES_RATIO": 49.68
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600305.SH",
       "SECURITY_CODE": "600305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "江苏恒顺集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 460107402,
       "HOLD_NUM_RATIO": 41.58,
-      "HOLD_NUM_CHANGE": "6200196",
-      "CHANGE_RATIO": 1.36596113
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600305.SH",
       "SECURITY_CODE": "600305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "镇江百味投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -664,19 +652,19 @@
     {
       "SECUCODE": "600305.SH",
       "SECURITY_CODE": "600305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 16997157,
-      "HOLD_NUM_RATIO": 1.54,
-      "HOLD_NUM_CHANGE": "1075630",
-      "CHANGE_RATIO": 6.75582185
+      "HOLD_NUM": 14537260,
+      "HOLD_NUM_RATIO": 1.31,
+      "HOLD_NUM_CHANGE": "-2459897",
+      "CHANGE_RATIO": -14.47240265
     },
     {
       "SECUCODE": "600305.SH",
       "SECURITY_CODE": "600305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "浙江浙盐控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -688,7 +676,7 @@
     {
       "SECUCODE": "600305.SH",
       "SECURITY_CODE": "600305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "国联信托股份有限公司-国联信托·惠越24008号集合资金信托计划",
       "SHARES_TYPE": "流通A股",
@@ -700,7 +688,7 @@
     {
       "SECUCODE": "600305.SH",
       "SECURITY_CODE": "600305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "广西农垦股权投资基金有限公司-广西农垦产业投资发展中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -712,7 +700,7 @@
     {
       "SECUCODE": "600305.SH",
       "SECURITY_CODE": "600305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "济南瀚祥投资管理合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -724,19 +712,19 @@
     {
       "SECUCODE": "600305.SH",
       "SECURITY_CODE": "600305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "沈惠峰",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6085941,
-      "HOLD_NUM_RATIO": 0.55,
-      "HOLD_NUM_CHANGE": "17000",
-      "CHANGE_RATIO": 0.28011477
+      "HOLD_NUM": 5500000,
+      "HOLD_NUM_RATIO": 0.5,
+      "HOLD_NUM_CHANGE": "700000",
+      "CHANGE_RATIO": 14.58333333
     },
     {
       "SECUCODE": "600305.SH",
       "SECURITY_CODE": "600305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "山东国惠基金管理有限公司-济南国惠鲁银产业投资基金合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -748,41 +736,31 @@
     {
       "SECUCODE": "600305.SH",
       "SECURITY_CODE": "600305",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "沈惠峰",
+      "HOLDER_NAME": "徐晓明",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4800000,
-      "HOLD_NUM_RATIO": 0.43,
-      "HOLD_NUM_CHANGE": "200000",
-      "CHANGE_RATIO": 4.34782609
+      "HOLD_NUM": 4500000,
+      "HOLD_NUM_RATIO": 0.41,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "600305.SH",
       "SECURITY_CODE": "600305",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 80,
-      "TOTAL_FREE_SHARES": 576366253,
-      "TOTAL_SHARES_RATIO": 52.25497775,
-      "ALL_SHARES_RATIO": 52.09047304
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 543258337,
+      "TOTAL_SHARES_RATIO": 49.2533214,
+      "ALL_SHARES_RATIO": 49.09826626
     },
     {
       "SECUCODE": "600305.SH",
       "SECURITY_CODE": "600305",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 72,
-      "TOTAL_FREE_SHARES": 30648019,
-      "TOTAL_SHARES_RATIO": 2.7786352,
-      "ALL_SHARES_RATIO": 2.76988773
-    },
-    {
-      "SECUCODE": "600305.SH",
-      "SECURITY_CODE": "600305",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "06",
       "TOTAL_ORG_NUM": 1,
       "TOTAL_FREE_SHARES": 9432146,
@@ -792,12 +770,12 @@
     {
       "SECUCODE": "600305.SH",
       "SECURITY_CODE": "600305",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 7,
-      "TOTAL_FREE_SHARES": 536286088,
-      "TOTAL_SHARES_RATIO": 48.62119779,
-      "ALL_SHARES_RATIO": 48.46813265
+      "TOTAL_FREE_SHARES": 533826191,
+      "TOTAL_SHARES_RATIO": 48.39817664,
+      "ALL_SHARES_RATIO": 48.2458136
     }
   ],
   "jjcg": [

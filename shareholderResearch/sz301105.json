@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 58.75,
       "AVG_HOLD_AMT": 250246.94188909,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 75.718852,
+      "FREEHOLD_RATIO_TOTAL": 31.20560874
     },
     {
       "SECUCODE": "301105.SZ",
@@ -144,6 +144,14 @@
   "sdltgd_date": [
     {
       "SECUCODE": "301105.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "301105.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "301105.SZ",
       "END_DATE": "2025-09-30 00:00:00"
     },
     {
@@ -153,17 +161,19 @@
     {
       "SECUCODE": "301105.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301105.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301105.SZ",
-      "END_DATE": "2024-09-30 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "301105.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "301105.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "301105.SZ",
       "END_DATE": "2025-09-30 00:00:00",
@@ -291,6 +301,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "301105.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "301105.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -304,10 +318,6 @@
     {
       "SECUCODE": "301105.SZ",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "301105.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -348,130 +358,130 @@
     {
       "SECUCODE": "301105.SZ",
       "SECURITY_CODE": "301105",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "袁晓强",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2278749,
-      "FREE_HOLDNUM_RATIO": 13.863114317222,
+      "HOLD_NUM": 1749999,
+      "FREE_HOLDNUM_RATIO": 10.646383692116,
+      "HOLD_NUM_CHANGE": "-123100",
+      "CHANGE_RATIO": -6.57199646
+    },
+    {
+      "SECUCODE": "301105.SZ",
+      "SECURITY_CODE": "301105",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "李建锋",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1000000,
+      "FREE_HOLDNUM_RATIO": 6.083651300438,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301105.SZ",
+      "SECURITY_CODE": "301105",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 437098,
+      "FREE_HOLDNUM_RATIO": 2.659151816119,
+      "HOLD_NUM_CHANGE": "238866",
+      "CHANGE_RATIO": 120.49820412
+    },
+    {
+      "SECUCODE": "301105.SZ",
+      "SECURITY_CODE": "301105",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "唐灼林",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 380000,
+      "FREE_HOLDNUM_RATIO": 2.311787494167,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301105.SZ",
+      "SECURITY_CODE": "301105",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "涂海川",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 375019,
+      "FREE_HOLDNUM_RATIO": 2.281484827039,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301105.SZ",
+      "SECURITY_CODE": "301105",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 354807,
+      "FREE_HOLDNUM_RATIO": 2.158522066955,
+      "HOLD_NUM_CHANGE": "133620",
+      "CHANGE_RATIO": 60.41042195
+    },
+    {
+      "SECUCODE": "301105.SZ",
+      "SECURITY_CODE": "301105",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "胡鹏",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 221300,
+      "FREE_HOLDNUM_RATIO": 1.346312032787,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301105.SZ",
+      "SECURITY_CODE": "301105",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "谢恺",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 208800,
+      "FREE_HOLDNUM_RATIO": 1.270266391532,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301105.SZ",
+      "SECURITY_CODE": "301105",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "深圳市裕同包装科技股份有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 206298,
+      "FREE_HOLDNUM_RATIO": 1.255045095978,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301105.SZ",
       "SECURITY_CODE": "301105",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "熊得清",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 466300,
-      "FREE_HOLDNUM_RATIO": 2.836806601394,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301105.SZ",
-      "SECURITY_CODE": "301105",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "圣地亚哥科技(深圳)有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 369006,
-      "FREE_HOLDNUM_RATIO": 2.24490383177,
-      "HOLD_NUM_CHANGE": "-237600",
-      "CHANGE_RATIO": -39.16875204
-    },
-    {
-      "SECUCODE": "301105.SZ",
-      "SECURITY_CODE": "301105",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "中信证券资产管理(香港)有限公司-客户资金-人民币资金汇入",
-      "HOLDER_TYPE": "其他理财产品",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 320082,
-      "FREE_HOLDNUM_RATIO": 1.947267275547,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301105.SZ",
-      "SECURITY_CODE": "301105",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "张舜",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 212300,
-      "FREE_HOLDNUM_RATIO": 1.291559171083,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301105.SZ",
-      "SECURITY_CODE": "301105",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "深圳市裕同包装科技股份有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 206298,
-      "FREE_HOLDNUM_RATIO": 1.255045095978,
-      "HOLD_NUM_CHANGE": "-105000",
-      "CHANGE_RATIO": -33.72973806
-    },
-    {
-      "SECUCODE": "301105.SZ",
-      "SECURITY_CODE": "301105",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "刘俊",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 176900,
-      "FREE_HOLDNUM_RATIO": 1.076197915048,
-      "HOLD_NUM_CHANGE": "15600",
-      "CHANGE_RATIO": 9.67141971
-    },
-    {
-      "SECUCODE": "301105.SZ",
-      "SECURITY_CODE": "301105",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "UBS AG",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 169979,
-      "FREE_HOLDNUM_RATIO": 1.034092964397,
-      "HOLD_NUM_CHANGE": "25942",
-      "CHANGE_RATIO": 18.01065004
-    },
-    {
-      "SECUCODE": "301105.SZ",
-      "SECURITY_CODE": "301105",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国工商银行股份有限公司-中信保诚多策略灵活配置混合型证券投资基金(LOF)",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 166400,
-      "FREE_HOLDNUM_RATIO": 1.012319576393,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301105.SZ",
-      "SECURITY_CODE": "301105",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "邹玲",
+      "HOLDER_NAME": "蔡春燕",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 156900,
-      "FREE_HOLDNUM_RATIO": 0.954524889039,
+      "HOLD_NUM": 196100,
+      "FREE_HOLDNUM_RATIO": 1.193004020016,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -480,20 +490,20 @@
     {
       "SECUCODE": "301105.SZ",
       "SECURITY_CODE": "301105",
-      "END_DATE": "2025-09-30 00:00:00",
-      "HOLD_NUM_COUNT": 4522914,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 5129421,
       "LIMITED_SHARES": 33562503,
-      "OTHER_UNLIMITED_SHARES": 11914583,
-      "HOLD_NUM_RATIO": 9.05,
+      "OTHER_UNLIMITED_SHARES": 11308076,
+      "HOLD_NUM_RATIO": 10.26,
       "LIMITED_SHARES_RATIO": 67.13,
-      "UNLIMITED_SHARES_RATIO": 23.83
+      "UNLIMITED_SHARES_RATIO": 22.62
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "301105.SZ",
       "SECURITY_CODE": "301105",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "金健",
       "SHARES_TYPE": "限售流通A股",
@@ -505,7 +515,7 @@
     {
       "SECUCODE": "301105.SZ",
       "SECURITY_CODE": "301105",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "蔡铁辉",
       "SHARES_TYPE": "限售流通A股",
@@ -517,19 +527,19 @@
     {
       "SECUCODE": "301105.SZ",
       "SECURITY_CODE": "301105",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "袁晓强",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2278749,
-      "HOLD_NUM_RATIO": 4.56,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1749999,
+      "HOLD_NUM_RATIO": 3.5,
+      "HOLD_NUM_CHANGE": "-123100",
+      "CHANGE_RATIO": -6.57199646
     },
     {
       "SECUCODE": "301105.SZ",
       "SECURITY_CODE": "301105",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "宁波涵和祺颂股权投资合伙企业(有限合伙)",
       "SHARES_TYPE": "限售流通A股",
@@ -541,7 +551,7 @@
     {
       "SECUCODE": "301105.SZ",
       "SECURITY_CODE": "301105",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "宁波灏德祺颂股权投资合伙企业(有限合伙)",
       "SHARES_TYPE": "限售流通A股",
@@ -553,84 +563,94 @@
     {
       "SECUCODE": "301105.SZ",
       "SECURITY_CODE": "301105",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "熊得清",
+      "HOLDER_NAME": "李建锋",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 466300,
-      "HOLD_NUM_RATIO": 0.93,
+      "HOLD_NUM": 1000000,
+      "HOLD_NUM_RATIO": 2,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301105.SZ",
       "SECURITY_CODE": "301105",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "圣地亚哥科技(深圳)有限公司",
+      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 369006,
-      "HOLD_NUM_RATIO": 0.74,
-      "HOLD_NUM_CHANGE": "-237600",
-      "CHANGE_RATIO": -39.16875204
+      "HOLD_NUM": 437098,
+      "HOLD_NUM_RATIO": 0.87,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301105.SZ",
       "SECURITY_CODE": "301105",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中信证券资产管理(香港)有限公司-客户资金-人民币资金汇入",
+      "HOLDER_NAME": "唐灼林",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 320082,
-      "HOLD_NUM_RATIO": 0.64,
+      "HOLD_NUM": 380000,
+      "HOLD_NUM_RATIO": 0.76,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301105.SZ",
       "SECURITY_CODE": "301105",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "张舜",
+      "HOLDER_NAME": "涂海川",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 212300,
-      "HOLD_NUM_RATIO": 0.42,
+      "HOLD_NUM": 375019,
+      "HOLD_NUM_RATIO": 0.75,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301105.SZ",
       "SECURITY_CODE": "301105",
-      "END_DATE": "2025-09-30 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "深圳市裕同包装科技股份有限公司",
+      "HOLDER_NAME": "高盛公司有限责任公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 206298,
-      "HOLD_NUM_RATIO": 0.41,
-      "HOLD_NUM_CHANGE": "-105000",
-      "CHANGE_RATIO": -33.72973806
+      "HOLD_NUM": 354807,
+      "HOLD_NUM_RATIO": 0.71,
+      "HOLD_NUM_CHANGE": "133620",
+      "CHANGE_RATIO": 60.41042195
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "301105.SZ",
       "SECURITY_CODE": "301105",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 28,
-      "TOTAL_FREE_SHARES": 554171,
-      "TOTAL_SHARES_RATIO": 3.37138312,
-      "ALL_SHARES_RATIO": 1.108342
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 998203,
+      "TOTAL_SHARES_RATIO": 6.07271899,
+      "ALL_SHARES_RATIO": 1.996406
     },
     {
       "SECUCODE": "301105.SZ",
       "SECURITY_CODE": "301105",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 28,
-      "TOTAL_FREE_SHARES": 554171,
-      "TOTAL_SHARES_RATIO": 3.37138312,
-      "ALL_SHARES_RATIO": 1.108342
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 791905,
+      "TOTAL_SHARES_RATIO": 4.81767389,
+      "ALL_SHARES_RATIO": 1.58381
+    },
+    {
+      "SECUCODE": "301105.SZ",
+      "SECURITY_CODE": "301105",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 206298,
+      "TOTAL_SHARES_RATIO": 1.2550451,
+      "ALL_SHARES_RATIO": 0.412596
     }
   ],
   "jjcg": [

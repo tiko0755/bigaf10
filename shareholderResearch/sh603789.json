@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 5.55,
       "AVG_HOLD_AMT": 115513.928914505,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 54.65751848,
+      "FREEHOLD_RATIO_TOTAL": 55.75373808
     },
     {
       "SECUCODE": "603789.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603789.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603789.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603789.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603789.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603789.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603789.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603789.SH",
       "END_DATE": "2017-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "603789.SH",
-      "END_DATE": "2017-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "603789.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "603789.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,58 +443,9 @@
     {
       "SECUCODE": "603789.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603789.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-11-06 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "李伟红",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 13522572,
-      "HOLD_NUM_RATIO": 5,
-      "HOLD_CHANGE": "-433400",
-      "CHANGE_RATIO": -3.10548058,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-04 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "李伟红",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 13955972,
-      "HOLD_NUM_RATIO": 5.16,
-      "HOLD_CHANGE": "-1409028",
-      "CHANGE_RATIO": -9.17037423,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "李伟红",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 15365000,
-      "HOLD_NUM_RATIO": 5.68,
-      "HOLD_CHANGE": "-3000000",
-      "CHANGE_RATIO": -16.33542064,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-10-28 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "李伟红",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 18365000,
-      "HOLD_NUM_RATIO": 6.79,
-      "HOLD_CHANGE": "-1000000",
-      "CHANGE_RATIO": -5.16395559,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "603789.SH",
@@ -518,7 +473,7 @@
     {
       "SECUCODE": "603789.SH",
       "SECURITY_CODE": "603789",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "星光农科控股集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -531,7 +486,7 @@
     {
       "SECUCODE": "603789.SH",
       "SECURITY_CODE": "603789",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "湖州新家园投资管理有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -544,7 +499,7 @@
     {
       "SECUCODE": "603789.SH",
       "SECURITY_CODE": "603789",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "章沈强",
       "HOLDER_TYPE": "个人",
@@ -557,7 +512,7 @@
     {
       "SECUCODE": "603789.SH",
       "SECURITY_CODE": "603789",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "钱菊花",
       "HOLDER_TYPE": "个人",
@@ -570,7 +525,7 @@
     {
       "SECUCODE": "603789.SH",
       "SECURITY_CODE": "603789",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "湖州南浔众兴实业发展有限公司",
       "HOLDER_TYPE": "其它",
@@ -583,20 +538,20 @@
     {
       "SECUCODE": "603789.SH",
       "SECURITY_CODE": "603789",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "李伟红",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 11463172,
       "FREE_HOLDNUM_RATIO": 4.408912307692,
-      "HOLD_NUM_CHANGE": "-7901828",
-      "CHANGE_RATIO": -40.80468887
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603789.SH",
       "SECURITY_CODE": "603789",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "广东臻远私募基金管理有限公司-广东臻远基金-臻远一号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
@@ -609,40 +564,40 @@
     {
       "SECUCODE": "603789.SH",
       "SECURITY_CODE": "603789",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "昆仑会诚集团有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2042000,
-      "FREE_HOLDNUM_RATIO": 0.785384615385,
-      "HOLD_NUM_CHANGE": "-600000",
-      "CHANGE_RATIO": -22.71006813
-    },
-    {
-      "SECUCODE": "603789.SH",
-      "SECURITY_CODE": "603789",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "楼靖",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1894730,
-      "FREE_HOLDNUM_RATIO": 0.728742307692,
-      "HOLD_NUM_CHANGE": "255930",
-      "CHANGE_RATIO": 15.61691482
+      "HOLD_NUM": 1968830,
+      "FREE_HOLDNUM_RATIO": 0.757242307692,
+      "HOLD_NUM_CHANGE": "74100",
+      "CHANGE_RATIO": 3.91084746
     },
     {
       "SECUCODE": "603789.SH",
       "SECURITY_CODE": "603789",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "UBS AG",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1819565,
+      "FREE_HOLDNUM_RATIO": 0.699832692308,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603789.SH",
+      "SECURITY_CODE": "603789",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "沈菊芳",
+      "HOLDER_NAME": "许伟强",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1641220,
-      "FREE_HOLDNUM_RATIO": 0.631238461538,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 1750410,
+      "FREE_HOLDNUM_RATIO": 0.673234615385,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -650,134 +605,134 @@
     {
       "SECUCODE": "603789.SH",
       "SECURITY_CODE": "603789",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 144998864,
-      "LIMITED_SHARES": 10451400,
-      "OTHER_UNLIMITED_SHARES": 115001136,
-      "HOLD_NUM_RATIO": 53.61,
-      "LIMITED_SHARES_RATIO": 3.86,
-      "UNLIMITED_SHARES_RATIO": 42.52
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 144959719,
+      "LIMITED_SHARES": 5214600,
+      "OTHER_UNLIMITED_SHARES": 115040281,
+      "HOLD_NUM_RATIO": 54.66,
+      "LIMITED_SHARES_RATIO": 1.97,
+      "UNLIMITED_SHARES_RATIO": 43.38
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603789.SH",
       "SECURITY_CODE": "603789",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "星光农科控股集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 44149832,
-      "HOLD_NUM_RATIO": 16.32,
+      "HOLD_NUM_RATIO": 16.65,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603789.SH",
       "SECURITY_CODE": "603789",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "湖州新家园投资管理有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 27373250,
-      "HOLD_NUM_RATIO": 10.12,
+      "HOLD_NUM_RATIO": 10.32,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603789.SH",
       "SECURITY_CODE": "603789",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "章沈强",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 23704200,
-      "HOLD_NUM_RATIO": 8.76,
+      "HOLD_NUM_RATIO": 8.94,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603789.SH",
       "SECURITY_CODE": "603789",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "钱菊花",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 16403400,
-      "HOLD_NUM_RATIO": 6.07,
+      "HOLD_NUM_RATIO": 6.18,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603789.SH",
       "SECURITY_CODE": "603789",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "湖州南浔众兴实业发展有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 13249000,
-      "HOLD_NUM_RATIO": 4.9,
+      "HOLD_NUM_RATIO": 4.996,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603789.SH",
       "SECURITY_CODE": "603789",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "李伟红",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 11463172,
-      "HOLD_NUM_RATIO": 4.24,
-      "HOLD_NUM_CHANGE": "-2059400",
-      "CHANGE_RATIO": -15.22935134
-    },
-    {
-      "SECUCODE": "603789.SH",
-      "SECURITY_CODE": "603789",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "广东臻远私募基金管理有限公司-广东臻远基金-臻远一号私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3078060,
-      "HOLD_NUM_RATIO": 1.14,
+      "HOLD_NUM_RATIO": 4.32,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603789.SH",
       "SECURITY_CODE": "603789",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "昆仑会诚集团有限公司",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "广东臻远私募基金管理有限公司-广东臻远基金-臻远一号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2042000,
-      "HOLD_NUM_RATIO": 0.76,
-      "HOLD_NUM_CHANGE": "-600000",
-      "CHANGE_RATIO": -22.71006813
+      "HOLD_NUM": 3078060,
+      "HOLD_NUM_RATIO": 1.16,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603789.SH",
       "SECURITY_CODE": "603789",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "楼靖",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1894730,
-      "HOLD_NUM_RATIO": 0.7,
-      "HOLD_NUM_CHANGE": "255930",
-      "CHANGE_RATIO": 15.61691482
+      "HOLD_NUM": 1968830,
+      "HOLD_NUM_RATIO": 0.74,
+      "HOLD_NUM_CHANGE": "74100",
+      "CHANGE_RATIO": 3.91084746
     },
     {
       "SECUCODE": "603789.SH",
       "SECURITY_CODE": "603789",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "沈菊芳",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "UBS AG",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1641220,
-      "HOLD_NUM_RATIO": 0.61,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 1819565,
+      "HOLD_NUM_RATIO": 0.69,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603789.SH",
+      "SECURITY_CODE": "603789",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "许伟强",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1750410,
+      "HOLD_NUM_RATIO": 0.66,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -785,22 +740,32 @@
     {
       "SECUCODE": "603789.SH",
       "SECURITY_CODE": "603789",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
       "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 89892142,
-      "TOTAL_SHARES_RATIO": 34.57390078,
-      "ALL_SHARES_RATIO": 33.23781722
+      "TOTAL_FREE_SHARES": 89669707,
+      "TOTAL_SHARES_RATIO": 34.48834885,
+      "ALL_SHARES_RATIO": 33.81024536
     },
     {
       "SECUCODE": "603789.SH",
       "SECURITY_CODE": "603789",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 1819565,
+      "TOTAL_SHARES_RATIO": 0.69983269,
+      "ALL_SHARES_RATIO": 0.68607271
+    },
+    {
+      "SECUCODE": "603789.SH",
+      "SECURITY_CODE": "603789",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 89892142,
-      "TOTAL_SHARES_RATIO": 34.57390078,
-      "ALL_SHARES_RATIO": 33.23781722
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 87850142,
+      "TOTAL_SHARES_RATIO": 33.78851616,
+      "ALL_SHARES_RATIO": 33.12417265
     }
   ],
   "jjcg": [

@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 7.14,
       "AVG_HOLD_AMT": 435981.467636332,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 77.27695598,
+      "FREEHOLD_RATIO_TOTAL": 77.27695598
     },
     {
       "SECUCODE": "600098.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600098.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600098.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600098.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600098.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600098.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600098.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600098.SH",
       "END_DATE": "2016-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600098.SH",
-      "END_DATE": "2015-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600098.SH",
       "SECURITY_CODE": "600098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "广州产业投资控股集团有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600098.SH",
       "SECURITY_CODE": "600098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中国长江电力股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "600098.SH",
       "SECURITY_CODE": "600098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "长电宜昌能源投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -512,8 +512,34 @@
     {
       "SECUCODE": "600098.SH",
       "SECURITY_CODE": "600098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 35707521,
+      "FREE_HOLDNUM_RATIO": 1.018508162565,
+      "HOLD_NUM_CHANGE": "17530174",
+      "CHANGE_RATIO": 96.43967296
+    },
+    {
+      "SECUCODE": "600098.SH",
+      "SECURITY_CODE": "600098",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "招商证券股份有限公司",
+      "HOLDER_TYPE": "证券公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 23071000,
+      "FREE_HOLDNUM_RATIO": 0.658068697027,
+      "HOLD_NUM_CHANGE": "2674600",
+      "CHANGE_RATIO": 13.11309839
+    },
+    {
+      "SECUCODE": "600098.SH",
+      "SECURITY_CODE": "600098",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "靳阳",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -525,47 +551,8 @@
     {
       "SECUCODE": "600098.SH",
       "SECURITY_CODE": "600098",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "招商证券股份有限公司",
-      "HOLDER_TYPE": "证券公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 20396400,
-      "FREE_HOLDNUM_RATIO": 0.581779392833,
-      "HOLD_NUM_CHANGE": "3690200",
-      "CHANGE_RATIO": 22.08880535
-    },
-    {
-      "SECUCODE": "600098.SH",
-      "SECURITY_CODE": "600098",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "西藏亿纬控股有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 18660000,
-      "FREE_HOLDNUM_RATIO": 0.532250959496,
-      "HOLD_NUM_CHANGE": "-34991998",
-      "CHANGE_RATIO": -65.22030736
-    },
-    {
-      "SECUCODE": "600098.SH",
-      "SECURITY_CODE": "600098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 18177347,
-      "FREE_HOLDNUM_RATIO": 0.518483943293,
-      "HOLD_NUM_CHANGE": "-7782533",
-      "CHANGE_RATIO": -29.97907926
-    },
-    {
-      "SECUCODE": "600098.SH",
-      "SECURITY_CODE": "600098",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "东莞市新越股权投资有限公司-东莞市能投一号股权投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
@@ -577,26 +564,39 @@
     {
       "SECUCODE": "600098.SH",
       "SECURITY_CODE": "600098",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国建设银行股份有限公司-东方红中证东方红红利低波动指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 15469519,
-      "FREE_HOLDNUM_RATIO": 0.441246855878,
-      "HOLD_NUM_CHANGE": "225900",
-      "CHANGE_RATIO": 1.48193155
+      "HOLD_NUM": 13451300,
+      "FREE_HOLDNUM_RATIO": 0.3836799213,
+      "HOLD_NUM_CHANGE": "-78700",
+      "CHANGE_RATIO": -0.58167036
     },
     {
       "SECUCODE": "600098.SH",
       "SECURITY_CODE": "600098",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国建设银行股份有限公司-东方红中证东方红红利低波动指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国建设银行股份有限公司-银华富裕主题混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 13530000,
-      "FREE_HOLDNUM_RATIO": 0.385924731081,
+      "HOLD_NUM": 11999910,
+      "FREE_HOLDNUM_RATIO": 0.342281008112,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600098.SH",
+      "SECURITY_CODE": "600098",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "广州产发企业发展有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 11515387,
+      "FREE_HOLDNUM_RATIO": 0.328460652718,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "600098.SH",
       "SECURITY_CODE": "600098",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 2699713886,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 2709225738,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 806151095,
-      "HOLD_NUM_RATIO": 77.01,
+      "OTHER_UNLIMITED_SHARES": 796639243,
+      "HOLD_NUM_RATIO": 77.28,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 22.99
+      "UNLIMITED_SHARES_RATIO": 22.72
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600098.SH",
       "SECURITY_CODE": "600098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "广州产业投资控股集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600098.SH",
       "SECURITY_CODE": "600098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中国长江电力股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "600098.SH",
       "SECURITY_CODE": "600098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "长电宜昌能源投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,8 +654,32 @@
     {
       "SECUCODE": "600098.SH",
       "SECURITY_CODE": "600098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 35707521,
+      "HOLD_NUM_RATIO": 1.02,
+      "HOLD_NUM_CHANGE": "17530174",
+      "CHANGE_RATIO": 96.43967296
+    },
+    {
+      "SECUCODE": "600098.SH",
+      "SECURITY_CODE": "600098",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "招商证券股份有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 23071000,
+      "HOLD_NUM_RATIO": 0.66,
+      "HOLD_NUM_CHANGE": "2674600",
+      "CHANGE_RATIO": 13.11309839
+    },
+    {
+      "SECUCODE": "600098.SH",
+      "SECURITY_CODE": "600098",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "靳阳",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 22184100,
@@ -666,44 +690,8 @@
     {
       "SECUCODE": "600098.SH",
       "SECURITY_CODE": "600098",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "招商证券股份有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 20396400,
-      "HOLD_NUM_RATIO": 0.58,
-      "HOLD_NUM_CHANGE": "3690200",
-      "CHANGE_RATIO": 22.08880535
-    },
-    {
-      "SECUCODE": "600098.SH",
-      "SECURITY_CODE": "600098",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "西藏亿纬控股有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 18660000,
-      "HOLD_NUM_RATIO": 0.53,
-      "HOLD_NUM_CHANGE": "-34991998",
-      "CHANGE_RATIO": -65.22030736
-    },
-    {
-      "SECUCODE": "600098.SH",
-      "SECURITY_CODE": "600098",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 18177347,
-      "HOLD_NUM_RATIO": 0.52,
-      "HOLD_NUM_CHANGE": "-7782533",
-      "CHANGE_RATIO": -29.97907926
-    },
-    {
-      "SECUCODE": "600098.SH",
-      "SECURITY_CODE": "600098",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "东莞市新越股权投资有限公司-东莞市能投一号股权投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 15552099,
@@ -714,24 +702,36 @@
     {
       "SECUCODE": "600098.SH",
       "SECURITY_CODE": "600098",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国建设银行股份有限公司-东方红中证东方红红利低波动指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 15469519,
-      "HOLD_NUM_RATIO": 0.44,
-      "HOLD_NUM_CHANGE": "225900",
-      "CHANGE_RATIO": 1.48193155
+      "HOLD_NUM": 13451300,
+      "HOLD_NUM_RATIO": 0.38,
+      "HOLD_NUM_CHANGE": "-78700",
+      "CHANGE_RATIO": -0.58167036
     },
     {
       "SECUCODE": "600098.SH",
       "SECURITY_CODE": "600098",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国建设银行股份有限公司-东方红中证东方红红利低波动指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国建设银行股份有限公司-银华富裕主题混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 13530000,
-      "HOLD_NUM_RATIO": 0.39,
+      "HOLD_NUM": 11999910,
+      "HOLD_NUM_RATIO": 0.34,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600098.SH",
+      "SECURITY_CODE": "600098",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "广州产发企业发展有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 11515387,
+      "HOLD_NUM_RATIO": 0.33,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,23 +742,77 @@
       "SECURITY_CODE": "600098",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 12,
-      "TOTAL_FREE_SHARES": 5445800,
-      "TOTAL_SHARES_RATIO": 0.15533401,
-      "ALL_SHARES_RATIO": 0.15533401
+      "TOTAL_ORG_NUM": 21,
+      "TOTAL_FREE_SHARES": 2692487438,
+      "TOTAL_SHARES_RATIO": 76.79951891,
+      "ALL_SHARES_RATIO": 76.79951891
     },
     {
       "SECUCODE": "600098.SH",
       "SECURITY_CODE": "600098",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 12,
-      "TOTAL_FREE_SHARES": 5445800,
-      "TOTAL_SHARES_RATIO": 0.15533401,
-      "ALL_SHARES_RATIO": 0.15533401
+      "TOTAL_ORG_NUM": 14,
+      "TOTAL_FREE_SHARES": 30897010,
+      "TOTAL_SHARES_RATIO": 0.88129494,
+      "ALL_SHARES_RATIO": 0.88129494
+    },
+    {
+      "SECUCODE": "600098.SH",
+      "SECURITY_CODE": "600098",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "04",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 23071000,
+      "TOTAL_SHARES_RATIO": 0.6580687,
+      "ALL_SHARES_RATIO": 0.6580687
+    },
+    {
+      "SECUCODE": "600098.SH",
+      "SECURITY_CODE": "600098",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 2638519428,
+      "TOTAL_SHARES_RATIO": 75.26015527,
+      "ALL_SHARES_RATIO": 75.26015527
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600098.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "012708",
+      "HOLDER_NAME": "东方红中证东方红红利低波动指数A",
+      "TOTAL_SHARES": 13451300,
+      "HOLD_VALUE": 96042282,
+      "TOTALSHARES_RATIO": 0.38367992,
+      "FREESHARES_RATIO": 0.38367992,
+      "FREE_MARKET_CAP": 96042282,
+      "FREE_SHARES": 13451300,
+      "SECURITY_CODE": "600098",
+      "FUND_CODE": "012708",
+      "FUND_DERIVECODE": "012708.OF",
+      "NETVALUE_RATIO": 2.56
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600098.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "180012",
+      "HOLDER_NAME": "银华富裕主题混合A",
+      "TOTAL_SHARES": 11999910,
+      "HOLD_VALUE": 85679357.4,
+      "TOTALSHARES_RATIO": 0.34228101,
+      "FREESHARES_RATIO": 0.34228101,
+      "FREE_MARKET_CAP": 85679357.4,
+      "FREE_SHARES": 11999910,
+      "SECURITY_CODE": "600098",
+      "FUND_CODE": "180012",
+      "FUND_DERIVECODE": "180012.OF",
+      "NETVALUE_RATIO": 1.12
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "600098.SH",

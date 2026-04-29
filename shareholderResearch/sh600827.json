@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 8.49,
       "AVG_HOLD_AMT": 201916.67861915,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 55.50985244,
+      "FREEHOLD_RATIO_TOTAL": 55.50985244
     },
     {
       "SECUCODE": "600827.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600827.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600827.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600827.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600827.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600827.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600827.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600827.SH",
       "END_DATE": "2015-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600827.SH",
-      "END_DATE": "2015-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600827.SH",
       "SECURITY_CODE": "600827",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "百联集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600827.SH",
       "SECURITY_CODE": "600827",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "上海百联控股有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "600827.SH",
       "SECURITY_CODE": "600827",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "上海豫赢企业管理有限公司",
       "HOLDER_TYPE": "其它",
@@ -512,60 +512,34 @@
     {
       "SECUCODE": "600827.SH",
       "SECURITY_CODE": "600827",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9290348,
-      "FREE_HOLDNUM_RATIO": 0.520710347387,
-      "HOLD_NUM_CHANGE": "-1102930",
-      "CHANGE_RATIO": -10.61195515
-    },
-    {
-      "SECUCODE": "600827.SH",
-      "SECURITY_CODE": "600827",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "陆歆",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8461763,
-      "FREE_HOLDNUM_RATIO": 0.474269376264,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 9182663,
+      "FREE_HOLDNUM_RATIO": 0.514674761448,
+      "HOLD_NUM_CHANGE": "720900",
+      "CHANGE_RATIO": 8.5195012
     },
     {
       "SECUCODE": "600827.SH",
       "SECURITY_CODE": "600827",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7270302,
+      "FREE_HOLDNUM_RATIO": 0.407489738816,
+      "HOLD_NUM_CHANGE": "-2020046",
+      "CHANGE_RATIO": -21.7434912
+    },
+    {
+      "SECUCODE": "600827.SH",
+      "SECURITY_CODE": "600827",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7366328,
-      "FREE_HOLDNUM_RATIO": 0.412871854945,
-      "HOLD_NUM_CHANGE": "29715",
-      "CHANGE_RATIO": 0.40502341
-    },
-    {
-      "SECUCODE": "600827.SH",
-      "SECURITY_CODE": "600827",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国工商银行股份有限公司-中证上海国企交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7182419,
-      "FREE_HOLDNUM_RATIO": 0.402564025865,
-      "HOLD_NUM_CHANGE": "-197440",
-      "CHANGE_RATIO": -2.67538987
-    },
-    {
-      "SECUCODE": "600827.SH",
-      "SECURITY_CODE": "600827",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "刘佳",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -577,21 +551,21 @@
     {
       "SECUCODE": "600827.SH",
       "SECURITY_CODE": "600827",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "刘文科",
-      "HOLDER_TYPE": "个人",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国工商银行股份有限公司-中证上海国企交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6262400,
-      "FREE_HOLDNUM_RATIO": 0.350998313462,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 5845029,
+      "FREE_HOLDNUM_RATIO": 0.327605282502,
+      "HOLD_NUM_CHANGE": "-1337390",
+      "CHANGE_RATIO": -18.62032833
     },
     {
       "SECUCODE": "600827.SH",
       "SECURITY_CODE": "600827",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "SCHRODER INTERNATIONAL SELECTION FUND",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "B股",
@@ -599,26 +573,52 @@
       "FREE_HOLDNUM_RATIO": 0.315900724057,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600827.SH",
+      "SECURITY_CODE": "600827",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "上海南上海商业房地产有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3891148,
+      "FREE_HOLDNUM_RATIO": 0.218093124909,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600827.SH",
+      "SECURITY_CODE": "600827",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "王锦盈",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3468100,
+      "FREE_HOLDNUM_RATIO": 0.194381906445,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600827.SH",
       "SECURITY_CODE": "600827",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 999295105,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 990389089,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 784873012,
-      "HOLD_NUM_RATIO": 56.01,
+      "OTHER_UNLIMITED_SHARES": 793779028,
+      "HOLD_NUM_RATIO": 55.51,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 43.99
+      "UNLIMITED_SHARES_RATIO": 44.49
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600827.SH",
       "SECURITY_CODE": "600827",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "百联集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600827.SH",
       "SECURITY_CODE": "600827",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "上海百联控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "600827.SH",
       "SECURITY_CODE": "600827",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "上海豫赢企业管理有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,56 +654,32 @@
     {
       "SECUCODE": "600827.SH",
       "SECURITY_CODE": "600827",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9290348,
-      "HOLD_NUM_RATIO": 0.52,
-      "HOLD_NUM_CHANGE": "-1102930",
-      "CHANGE_RATIO": -10.61195515
-    },
-    {
-      "SECUCODE": "600827.SH",
-      "SECURITY_CODE": "600827",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "陆歆",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8461763,
-      "HOLD_NUM_RATIO": 0.47,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 9182663,
+      "HOLD_NUM_RATIO": 0.51,
+      "HOLD_NUM_CHANGE": "720900",
+      "CHANGE_RATIO": 8.5195012
     },
     {
       "SECUCODE": "600827.SH",
       "SECURITY_CODE": "600827",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7366328,
+      "HOLD_NUM": 7270302,
       "HOLD_NUM_RATIO": 0.41,
-      "HOLD_NUM_CHANGE": "29715",
-      "CHANGE_RATIO": 0.40502341
+      "HOLD_NUM_CHANGE": "-2020046",
+      "CHANGE_RATIO": -21.7434912
     },
     {
       "SECUCODE": "600827.SH",
       "SECURITY_CODE": "600827",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国工商银行股份有限公司-中证上海国企交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7182419,
-      "HOLD_NUM_RATIO": 0.4,
-      "HOLD_NUM_CHANGE": "-197440",
-      "CHANGE_RATIO": -2.67538987
-    },
-    {
-      "SECUCODE": "600827.SH",
-      "SECURITY_CODE": "600827",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "刘佳",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 6543091,
@@ -714,25 +690,49 @@
     {
       "SECUCODE": "600827.SH",
       "SECURITY_CODE": "600827",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "刘文科",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国工商银行股份有限公司-中证上海国企交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6262400,
-      "HOLD_NUM_RATIO": 0.35,
+      "HOLD_NUM": 5845029,
+      "HOLD_NUM_RATIO": 0.33,
+      "HOLD_NUM_CHANGE": "-1337390",
+      "CHANGE_RATIO": -18.62032833
+    },
+    {
+      "SECUCODE": "600827.SH",
+      "SECURITY_CODE": "600827",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "SCHRODER INTERNATIONAL SELECTION FUND",
+      "SHARES_TYPE": "流通B股",
+      "HOLD_NUM": 5636200,
+      "HOLD_NUM_RATIO": 0.32,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600827.SH",
+      "SECURITY_CODE": "600827",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "上海南上海商业房地产有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3891148,
+      "HOLD_NUM_RATIO": 0.22,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600827.SH",
       "SECURITY_CODE": "600827",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "SCHRODER INTERNATIONAL SELECTION FUND",
-      "SHARES_TYPE": "流通B股",
-      "HOLD_NUM": 5636200,
-      "HOLD_NUM_RATIO": 0.32,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLDER_NAME": "王锦盈",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3468100,
+      "HOLD_NUM_RATIO": 0.19,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -742,23 +742,50 @@
       "SECURITY_CODE": "600827",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 2155400,
-      "TOTAL_SHARES_RATIO": 0.13433888,
-      "ALL_SHARES_RATIO": 0.120807
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 967714435,
+      "TOTAL_SHARES_RATIO": 60.31440577,
+      "ALL_SHARES_RATIO": 54.23897141
     },
     {
       "SECUCODE": "600827.SH",
       "SECURITY_CODE": "600827",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 2155400,
-      "TOTAL_SHARES_RATIO": 0.13433888,
-      "ALL_SHARES_RATIO": 0.120807
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 8000429,
+      "TOTAL_SHARES_RATIO": 0.49864,
+      "ALL_SHARES_RATIO": 0.44841228
+    },
+    {
+      "SECUCODE": "600827.SH",
+      "SECURITY_CODE": "600827",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 959714006,
+      "TOTAL_SHARES_RATIO": 59.81576577,
+      "ALL_SHARES_RATIO": 53.79055913
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600827.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "510810",
+      "HOLDER_NAME": "汇添富中证上海国企ETF",
+      "TOTAL_SHARES": 5845029,
+      "HOLD_VALUE": 49624296.21,
+      "TOTALSHARES_RATIO": 0.32760528,
+      "FREESHARES_RATIO": 0.36430112,
+      "FREE_MARKET_CAP": 49624296.21,
+      "FREE_SHARES": 5845029,
+      "SECURITY_CODE": "600827",
+      "FUND_CODE": "510810",
+      "FUND_DERIVECODE": "510810.SH",
+      "NETVALUE_RATIO": 0.97
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "600827.SH",

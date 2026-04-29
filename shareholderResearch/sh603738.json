@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 25.92,
       "AVG_HOLD_AMT": 242554.10899532,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 36.39446469,
+      "FREEHOLD_RATIO_TOTAL": 36.39446469
     },
     {
       "SECUCODE": "603738.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603738.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603738.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603738.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603738.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603738.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603738.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603738.SH",
       "END_DATE": "2021-12-06 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "603738.SH",
-      "END_DATE": "2021-11-17 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "603738.SH",
       "SECURITY_CODE": "603738",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "喻信东",
       "HOLDER_TYPE": "个人",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "603738.SH",
       "SECURITY_CODE": "603738",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "王丹",
       "HOLDER_TYPE": "个人",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "603738.SH",
       "SECURITY_CODE": "603738",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "喻信辉",
       "HOLDER_TYPE": "个人",
@@ -512,34 +512,47 @@
     {
       "SECUCODE": "603738.SH",
       "SECURITY_CODE": "603738",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 12099843,
+      "FREE_HOLDNUM_RATIO": 3.135588286961,
+      "HOLD_NUM_CHANGE": "9766983",
+      "CHANGE_RATIO": 418.6699159
+    },
+    {
+      "SECUCODE": "603738.SH",
+      "SECURITY_CODE": "603738",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "泰晶科技股份有限公司-2024年员工持股计划",
       "HOLDER_TYPE": "员工持股计划",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7650000,
-      "FREE_HOLDNUM_RATIO": 1.982443110646,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 5666240,
+      "FREE_HOLDNUM_RATIO": 1.468365810623,
+      "HOLD_NUM_CHANGE": "-1983760",
+      "CHANGE_RATIO": -25.93150327
+    },
+    {
+      "SECUCODE": "603738.SH",
+      "SECURITY_CODE": "603738",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "MORGANSTANLEY&CO.INTERNATIONALPLC.",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5282438,
+      "FREE_HOLDNUM_RATIO": 1.368906251048,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603738.SH",
       "SECURITY_CODE": "603738",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "徐进",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6092000,
-      "FREE_HOLDNUM_RATIO": 1.578698487589,
-      "HOLD_NUM_CHANGE": "-1302000",
-      "CHANGE_RATIO": -17.60887206
-    },
-    {
-      "SECUCODE": "603738.SH",
-      "SECURITY_CODE": "603738",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "喻慧玲",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -551,21 +564,34 @@
     {
       "SECUCODE": "603738.SH",
       "SECURITY_CODE": "603738",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "刘浩",
-      "HOLDER_TYPE": "个人",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国银行股份有限公司-摩根士丹利沪港深科技混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2462692,
-      "FREE_HOLDNUM_RATIO": 0.638189122751,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 3498920,
+      "FREE_HOLDNUM_RATIO": 0.90672024166,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603738.SH",
       "SECURITY_CODE": "603738",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "UBSAG",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2934295,
+      "FREE_HOLDNUM_RATIO": 0.760401687236,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603738.SH",
+      "SECURITY_CODE": "603738",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "王金涛",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -573,52 +599,26 @@
       "FREE_HOLDNUM_RATIO": 0.609857807985,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603738.SH",
-      "SECURITY_CODE": "603738",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2332860,
-      "FREE_HOLDNUM_RATIO": 0.60454408302,
-      "HOLD_NUM_CHANGE": "-1744079",
-      "CHANGE_RATIO": -42.77912915
-    },
-    {
-      "SECUCODE": "603738.SH",
-      "SECURITY_CODE": "603738",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "龚雯英",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2259272,
-      "FREE_HOLDNUM_RATIO": 0.58547427601,
-      "HOLD_NUM_CHANGE": "-700",
-      "CHANGE_RATIO": -0.03097384
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "603738.SH",
       "SECURITY_CODE": "603738",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 131756775,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 140441687,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 254130717,
-      "HOLD_NUM_RATIO": 34.14,
+      "OTHER_UNLIMITED_SHARES": 245445805,
+      "HOLD_NUM_RATIO": 36.39,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 65.86
+      "UNLIMITED_SHARES_RATIO": 63.61
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603738.SH",
       "SECURITY_CODE": "603738",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "喻信东",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "603738.SH",
       "SECURITY_CODE": "603738",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "王丹",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "603738.SH",
       "SECURITY_CODE": "603738",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "喻信辉",
       "SHARES_TYPE": "流通A股",
@@ -654,32 +654,44 @@
     {
       "SECUCODE": "603738.SH",
       "SECURITY_CODE": "603738",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 12099843,
+      "HOLD_NUM_RATIO": 3.14,
+      "HOLD_NUM_CHANGE": "9766983",
+      "CHANGE_RATIO": 418.6699159
+    },
+    {
+      "SECUCODE": "603738.SH",
+      "SECURITY_CODE": "603738",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "泰晶科技股份有限公司-2024年员工持股计划",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7650000,
-      "HOLD_NUM_RATIO": 1.98,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 5666240,
+      "HOLD_NUM_RATIO": 1.47,
+      "HOLD_NUM_CHANGE": "-1983760",
+      "CHANGE_RATIO": -25.93150327
+    },
+    {
+      "SECUCODE": "603738.SH",
+      "SECURITY_CODE": "603738",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5282438,
+      "HOLD_NUM_RATIO": 1.37,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603738.SH",
       "SECURITY_CODE": "603738",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "徐进",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6092000,
-      "HOLD_NUM_RATIO": 1.58,
-      "HOLD_NUM_CHANGE": "-1302000",
-      "CHANGE_RATIO": -17.60887206
-    },
-    {
-      "SECUCODE": "603738.SH",
-      "SECURITY_CODE": "603738",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "喻慧玲",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4566800,
@@ -690,50 +702,38 @@
     {
       "SECUCODE": "603738.SH",
       "SECURITY_CODE": "603738",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "刘浩",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国银行股份有限公司-摩根士丹利沪港深科技混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2462692,
-      "HOLD_NUM_RATIO": 0.64,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 3498920,
+      "HOLD_NUM_RATIO": 0.91,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603738.SH",
       "SECURITY_CODE": "603738",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "UBS AG",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2934295,
+      "HOLD_NUM_RATIO": 0.76,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603738.SH",
+      "SECURITY_CODE": "603738",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "王金涛",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2353365,
       "HOLD_NUM_RATIO": 0.61,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603738.SH",
-      "SECURITY_CODE": "603738",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2332860,
-      "HOLD_NUM_RATIO": 0.6,
-      "HOLD_NUM_CHANGE": "-1744079",
-      "CHANGE_RATIO": -42.77912915
-    },
-    {
-      "SECUCODE": "603738.SH",
-      "SECURITY_CODE": "603738",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "龚雯英",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2259272,
-      "HOLD_NUM_RATIO": 0.59,
-      "HOLD_NUM_CHANGE": "-700",
-      "CHANGE_RATIO": -0.03097384
     }
   ],
   "jgcc": [
@@ -742,23 +742,60 @@
       "SECURITY_CODE": "603738",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 2604560,
-      "TOTAL_SHARES_RATIO": 0.6749532,
-      "ALL_SHARES_RATIO": 0.6749532
+      "TOTAL_ORG_NUM": 9,
+      "TOTAL_FREE_SHARES": 32086296,
+      "TOTAL_SHARES_RATIO": 8.31493548,
+      "ALL_SHARES_RATIO": 8.31493548
     },
     {
       "SECUCODE": "603738.SH",
       "SECURITY_CODE": "603738",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 2604560,
-      "TOTAL_SHARES_RATIO": 0.6749532,
-      "ALL_SHARES_RATIO": 0.6749532
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 6103480,
+      "TOTAL_SHARES_RATIO": 1.58167344,
+      "ALL_SHARES_RATIO": 1.58167344
+    },
+    {
+      "SECUCODE": "603738.SH",
+      "SECURITY_CODE": "603738",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 8216733,
+      "TOTAL_SHARES_RATIO": 2.12930794,
+      "ALL_SHARES_RATIO": 2.12930794
+    },
+    {
+      "SECUCODE": "603738.SH",
+      "SECURITY_CODE": "603738",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 17766083,
+      "TOTAL_SHARES_RATIO": 4.6039541,
+      "ALL_SHARES_RATIO": 4.6039541
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603738.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "026448",
+      "HOLDER_NAME": "大摩沪港深科技混合A",
+      "TOTAL_SHARES": 3498920,
+      "HOLD_VALUE": 90692006.4,
+      "TOTALSHARES_RATIO": 0.90672024,
+      "FREESHARES_RATIO": 0.90672024,
+      "FREE_MARKET_CAP": 90692006.4,
+      "FREE_SHARES": 3498920,
+      "SECURITY_CODE": "603738",
+      "FUND_CODE": "026448",
+      "FUND_DERIVECODE": "026448.OF",
+      "NETVALUE_RATIO": 4.1
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "603738.SH",

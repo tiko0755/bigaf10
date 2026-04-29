@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 5.94,
       "AVG_HOLD_AMT": 85293.1463334131,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 67.09220811,
+      "FREEHOLD_RATIO_TOTAL": 47.91723636
     },
     {
       "SECUCODE": "600576.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600576.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600576.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600576.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600576.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600576.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600576.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600576.SH",
       "END_DATE": "2018-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600576.SH",
-      "END_DATE": "2018-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -445,41 +445,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-11-17 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "张杰",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 37964800,
-      "HOLD_NUM_RATIO": 3.6,
-      "HOLD_CHANGE": "6610000",
-      "CHANGE_RATIO": 21.08130175,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-17 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "上海弘尚资产管理中心(有限合伙)-弘尚资产弘利2号私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7200000,
-      "HOLD_NUM_RATIO": 0.68,
-      "HOLD_CHANGE": "1800000",
-      "CHANGE_RATIO": 33.33333333,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-11-17 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "广发证券股份有限公司-朱雀企业优选股票型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4283039,
-      "HOLD_NUM_RATIO": 0.41,
-      "HOLD_CHANGE": "-3632800",
-      "CHANGE_RATIO": -45.89279797,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "600576.SH",
@@ -517,7 +483,7 @@
     {
       "SECUCODE": "600576.SH",
       "SECURITY_CODE": "600576",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "安徽祥源文化发展有限公司",
       "HOLDER_TYPE": "其它",
@@ -530,47 +496,21 @@
     {
       "SECUCODE": "600576.SH",
       "SECURITY_CODE": "600576",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "张杰",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 40224800,
-      "FREE_HOLDNUM_RATIO": 6.091066634022,
-      "HOLD_NUM_CHANGE": "2260000",
-      "CHANGE_RATIO": 5.95288267
+      "HOLD_NUM": 41324800,
+      "FREE_HOLDNUM_RATIO": 6.257634853066,
+      "HOLD_NUM_CHANGE": "1100000",
+      "CHANGE_RATIO": 2.73463137
     },
     {
       "SECUCODE": "600576.SH",
       "SECURITY_CODE": "600576",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "陈世辉",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 13356300,
-      "FREE_HOLDNUM_RATIO": 2.022486458204,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600576.SH",
-      "SECURITY_CODE": "600576",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "上海弘尚资产管理中心(有限合伙)-弘尚资产弘利2号私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11400000,
-      "FREE_HOLDNUM_RATIO": 1.726252451916,
-      "HOLD_NUM_CHANGE": "4200000",
-      "CHANGE_RATIO": 58.33333333
-    },
-    {
-      "SECUCODE": "600576.SH",
-      "SECURITY_CODE": "600576",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "北京天厚地德投资管理中心(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -582,65 +522,91 @@
     {
       "SECUCODE": "600576.SH",
       "SECURITY_CODE": "600576",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "钱旭璋",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9898000,
-      "FREE_HOLDNUM_RATIO": 1.498811120094,
-      "HOLD_NUM_CHANGE": "3638000",
-      "CHANGE_RATIO": 58.11501597
+      "HOLD_NUM": 10000000,
+      "FREE_HOLDNUM_RATIO": 1.514256536769,
+      "HOLD_NUM_CHANGE": "102000",
+      "CHANGE_RATIO": 1.03051121
     },
     {
       "SECUCODE": "600576.SH",
       "SECURITY_CODE": "600576",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "陈世辉",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 9748300,
+      "FREE_HOLDNUM_RATIO": 1.476142699738,
+      "HOLD_NUM_CHANGE": "-3608000",
+      "CHANGE_RATIO": -27.0134693
+    },
+    {
+      "SECUCODE": "600576.SH",
+      "SECURITY_CODE": "600576",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "上海弘尚资产管理中心(有限合伙)-弘尚资产弘利2号私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 9600000,
+      "FREE_HOLDNUM_RATIO": 1.453686275298,
+      "HOLD_NUM_CHANGE": "-1800000",
+      "CHANGE_RATIO": -15.78947368
+    },
+    {
+      "SECUCODE": "600576.SH",
+      "SECURITY_CODE": "600576",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8139299,
-      "FREE_HOLDNUM_RATIO": 1.232498671547,
-      "HOLD_NUM_CHANGE": "3957873",
-      "CHANGE_RATIO": 94.653666
+      "HOLD_NUM": 7943518,
+      "FREE_HOLDNUM_RATIO": 1.202852405644,
+      "HOLD_NUM_CHANGE": "-195781",
+      "CHANGE_RATIO": -2.40537914
     },
     {
       "SECUCODE": "600576.SH",
       "SECURITY_CODE": "600576",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "刘校嘉",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3385000,
-      "FREE_HOLDNUM_RATIO": 0.512575837696,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600576.SH",
-      "SECURITY_CODE": "600576",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "钟国良",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2880200,
-      "FREE_HOLDNUM_RATIO": 0.43613616772,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3922200,
+      "FREE_HOLDNUM_RATIO": 0.593921698851,
+      "HOLD_NUM_CHANGE": "1042000",
+      "CHANGE_RATIO": 36.17804319
     },
     {
       "SECUCODE": "600576.SH",
       "SECURITY_CODE": "600576",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "戴思元",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "刘校嘉",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2832300,
-      "FREE_HOLDNUM_RATIO": 0.428882878909,
+      "HOLD_NUM": 3401000,
+      "FREE_HOLDNUM_RATIO": 0.514998648155,
+      "HOLD_NUM_CHANGE": "16000",
+      "CHANGE_RATIO": 0.47267356
+    },
+    {
+      "SECUCODE": "600576.SH",
+      "SECURITY_CODE": "600576",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "胡长玲",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3079200,
+      "FREE_HOLDNUM_RATIO": 0.466269872802,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -649,20 +615,20 @@
     {
       "SECUCODE": "600576.SH",
       "SECURITY_CODE": "600576",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 319537558,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 316440677,
       "LIMITED_SHARES": 394158357,
-      "OTHER_UNLIMITED_SHARES": 340852525,
-      "HOLD_NUM_RATIO": 30.3,
+      "OTHER_UNLIMITED_SHARES": 343949406,
+      "HOLD_NUM_RATIO": 30.01,
       "LIMITED_SHARES_RATIO": 37.38,
-      "UNLIMITED_SHARES_RATIO": 32.32
+      "UNLIMITED_SHARES_RATIO": 32.62
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600576.SH",
       "SECURITY_CODE": "600576",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "祥源旅游开发有限公司",
       "SHARES_TYPE": "限售流通A股",
@@ -674,7 +640,7 @@
     {
       "SECUCODE": "600576.SH",
       "SECURITY_CODE": "600576",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "安徽祥源文化发展有限公司",
       "SHARES_TYPE": "流通A股",
@@ -686,44 +652,20 @@
     {
       "SECUCODE": "600576.SH",
       "SECURITY_CODE": "600576",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "张杰",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 40224800,
-      "HOLD_NUM_RATIO": 3.81,
-      "HOLD_NUM_CHANGE": "2260000",
-      "CHANGE_RATIO": 5.95288267
+      "HOLD_NUM": 41324800,
+      "HOLD_NUM_RATIO": 3.92,
+      "HOLD_NUM_CHANGE": "1100000",
+      "CHANGE_RATIO": 2.73463137
     },
     {
       "SECUCODE": "600576.SH",
       "SECURITY_CODE": "600576",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "陈世辉",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 13356300,
-      "HOLD_NUM_RATIO": 1.27,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600576.SH",
-      "SECURITY_CODE": "600576",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "上海弘尚资产管理中心(有限合伙)-弘尚资产弘利2号私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11400000,
-      "HOLD_NUM_RATIO": 1.08,
-      "HOLD_NUM_CHANGE": "4200000",
-      "CHANGE_RATIO": 58.33333333
-    },
-    {
-      "SECUCODE": "600576.SH",
-      "SECURITY_CODE": "600576",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "北京天厚地德投资管理中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 10589701,
@@ -734,50 +676,74 @@
     {
       "SECUCODE": "600576.SH",
       "SECURITY_CODE": "600576",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "钱旭璋",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9898000,
-      "HOLD_NUM_RATIO": 0.94,
-      "HOLD_NUM_CHANGE": "3638000",
-      "CHANGE_RATIO": 58.11501597
+      "HOLD_NUM": 10000000,
+      "HOLD_NUM_RATIO": 0.95,
+      "HOLD_NUM_CHANGE": "102000",
+      "CHANGE_RATIO": 1.03051121
     },
     {
       "SECUCODE": "600576.SH",
       "SECURITY_CODE": "600576",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "陈世辉",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 9748300,
+      "HOLD_NUM_RATIO": 0.92,
+      "HOLD_NUM_CHANGE": "-3608000",
+      "CHANGE_RATIO": -27.0134693
+    },
+    {
+      "SECUCODE": "600576.SH",
+      "SECURITY_CODE": "600576",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "上海弘尚资产管理中心(有限合伙)-弘尚资产弘利2号私募证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 9600000,
+      "HOLD_NUM_RATIO": 0.91,
+      "HOLD_NUM_CHANGE": "-1800000",
+      "CHANGE_RATIO": -15.78947368
+    },
+    {
+      "SECUCODE": "600576.SH",
+      "SECURITY_CODE": "600576",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8139299,
-      "HOLD_NUM_RATIO": 0.77,
-      "HOLD_NUM_CHANGE": "3957873",
-      "CHANGE_RATIO": 94.653666
+      "HOLD_NUM": 7943518,
+      "HOLD_NUM_RATIO": 0.75,
+      "HOLD_NUM_CHANGE": "-195781",
+      "CHANGE_RATIO": -2.40537914
     },
     {
       "SECUCODE": "600576.SH",
       "SECURITY_CODE": "600576",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "刘校嘉",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3385000,
-      "HOLD_NUM_RATIO": 0.32,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600576.SH",
-      "SECURITY_CODE": "600576",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "钟国良",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2880200,
-      "HOLD_NUM_RATIO": 0.27,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3922200,
+      "HOLD_NUM_RATIO": 0.37,
+      "HOLD_NUM_CHANGE": "1042000",
+      "CHANGE_RATIO": 36.17804319
+    },
+    {
+      "SECUCODE": "600576.SH",
+      "SECURITY_CODE": "600576",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "刘校嘉",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3401000,
+      "HOLD_NUM_RATIO": 0.32,
+      "HOLD_NUM_CHANGE": "16000",
+      "CHANGE_RATIO": 0.47267356
     }
   ],
   "jgcc": [
@@ -786,10 +752,10 @@
       "SECURITY_CODE": "600576",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 39200,
-      "TOTAL_SHARES_RATIO": 0.00593589,
-      "ALL_SHARES_RATIO": 0.00371723
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 245004377,
+      "TOTAL_SHARES_RATIO": 37.09994796,
+      "ALL_SHARES_RATIO": 23.23310791
     },
     {
       "SECUCODE": "600576.SH",
@@ -800,6 +766,16 @@
       "TOTAL_FREE_SHARES": 39200,
       "TOTAL_SHARES_RATIO": 0.00593589,
       "ALL_SHARES_RATIO": 0.00371723
+    },
+    {
+      "SECUCODE": "600576.SH",
+      "SECURITY_CODE": "600576",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 244965177,
+      "TOTAL_SHARES_RATIO": 37.09401207,
+      "ALL_SHARES_RATIO": 23.22939068
     }
   ],
   "jjcg": [

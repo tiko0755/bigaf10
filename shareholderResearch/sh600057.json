@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 8.08,
       "AVG_HOLD_AMT": 450926.313511668,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 70.57437263,
+      "FREEHOLD_RATIO_TOTAL": 69.54816627
     },
     {
       "SECUCODE": "600057.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600057.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600057.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600057.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600057.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600057.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600057.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600057.SH",
       "END_DATE": "2016-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600057.SH",
-      "END_DATE": "2015-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -528,7 +528,7 @@
     {
       "SECUCODE": "600057.SH",
       "SECURITY_CODE": "600057",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "厦门象屿集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -541,21 +541,8 @@
     {
       "SECUCODE": "600057.SH",
       "SECURITY_CODE": "600057",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 66180402,
-      "FREE_HOLDNUM_RATIO": 3.162727863338,
-      "HOLD_NUM_CHANGE": "30004676",
-      "CHANGE_RATIO": 82.94146191
-    },
-    {
-      "SECUCODE": "600057.SH",
-      "SECURITY_CODE": "600057",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "全国社保基金一一四组合",
       "HOLDER_TYPE": "全国社保基金",
       "SHARES_TYPE": "A股",
@@ -567,8 +554,8 @@
     {
       "SECUCODE": "600057.SH",
       "SECURITY_CODE": "600057",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "厦门海翼集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -580,21 +567,47 @@
     {
       "SECUCODE": "600057.SH",
       "SECURITY_CODE": "600057",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 47560259,
+      "FREE_HOLDNUM_RATIO": 2.272880668311,
+      "HOLD_NUM_CHANGE": "-18620143",
+      "CHANGE_RATIO": -28.13543351
+    },
+    {
+      "SECUCODE": "600057.SH",
+      "SECURITY_CODE": "600057",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中泰证券股份有限公司-华夏国证自由现金流交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 39491900,
+      "FREE_HOLDNUM_RATIO": 1.887297881723,
+      "HOLD_NUM_CHANGE": "24260300",
+      "CHANGE_RATIO": 159.27611019
+    },
+    {
+      "SECUCODE": "600057.SH",
+      "SECURITY_CODE": "600057",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "中国农垦产业发展基金(有限合伙)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 38649050,
       "FREE_HOLDNUM_RATIO": 1.847018507481,
-      "HOLD_NUM_CHANGE": "-3999950",
-      "CHANGE_RATIO": -9.37876621
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600057.SH",
       "SECURITY_CODE": "600057",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "象屿地产集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -606,34 +619,8 @@
     {
       "SECUCODE": "600057.SH",
       "SECURITY_CODE": "600057",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "全国社保基金五零三组合",
-      "HOLDER_TYPE": "全国社保基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 20000000,
-      "FREE_HOLDNUM_RATIO": 0.955789861578,
-      "HOLD_NUM_CHANGE": "-88",
-      "CHANGE_RATIO": -0.00044
-    },
-    {
-      "SECUCODE": "600057.SH",
-      "SECURITY_CODE": "600057",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中泰证券股份有限公司-华夏国证自由现金流交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 15231600,
-      "FREE_HOLDNUM_RATIO": 0.727910442781,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600057.SH",
-      "SECURITY_CODE": "600057",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "中国人民财产保险股份有限公司-自有资金",
       "HOLDER_TYPE": "保险公司",
       "SHARES_TYPE": "A股",
@@ -645,35 +632,48 @@
     {
       "SECUCODE": "600057.SH",
       "SECURITY_CODE": "600057",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "上海浦东发展银行股份有限公司-易方达裕祥回报债券型证券投资基金",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "华夏银行股份有限公司-中欧景气精选混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 13434851,
-      "FREE_HOLDNUM_RATIO": 0.642044718881,
-      "HOLD_NUM_CHANGE": "-4000000",
-      "CHANGE_RATIO": -22.94255339
+      "HOLD_NUM": 12550000,
+      "FREE_HOLDNUM_RATIO": 0.59975813814,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600057.SH",
+      "SECURITY_CODE": "600057",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国银行股份有限公司-易方达中证红利交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 11956569,
+      "FREE_HOLDNUM_RATIO": 0.571398371473,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600057.SH",
       "SECURITY_CODE": "600057",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 1458590573,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 1455302448,
       "LIMITED_SHARES": 748079175,
-      "OTHER_UNLIMITED_SHARES": 633919591,
-      "HOLD_NUM_RATIO": 51.35,
+      "OTHER_UNLIMITED_SHARES": 637207716,
+      "HOLD_NUM_RATIO": 51.23,
       "LIMITED_SHARES_RATIO": 26.34,
-      "UNLIMITED_SHARES_RATIO": 22.32
+      "UNLIMITED_SHARES_RATIO": 22.43
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600057.SH",
       "SECURITY_CODE": "600057",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "厦门象屿集团有限公司",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -685,7 +685,7 @@
     {
       "SECUCODE": "600057.SH",
       "SECURITY_CODE": "600057",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "山东省港口集团有限公司",
       "SHARES_TYPE": "限售流通A股",
@@ -697,7 +697,7 @@
     {
       "SECUCODE": "600057.SH",
       "SECURITY_CODE": "600057",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "招商局集团有限公司",
       "SHARES_TYPE": "限售流通A股",
@@ -709,20 +709,8 @@
     {
       "SECUCODE": "600057.SH",
       "SECURITY_CODE": "600057",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 66180402,
-      "HOLD_NUM_RATIO": 2.33,
-      "HOLD_NUM_CHANGE": "30004676",
-      "CHANGE_RATIO": 82.94146191
-    },
-    {
-      "SECUCODE": "600057.SH",
-      "SECURITY_CODE": "600057",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "全国社保基金一一四组合",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 63895430,
@@ -733,8 +721,8 @@
     {
       "SECUCODE": "600057.SH",
       "SECURITY_CODE": "600057",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "厦门海翼集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 50226994,
@@ -745,20 +733,44 @@
     {
       "SECUCODE": "600057.SH",
       "SECURITY_CODE": "600057",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国农垦产业发展基金(有限合伙)",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 38649050,
-      "HOLD_NUM_RATIO": 1.36,
-      "HOLD_NUM_CHANGE": "-3999950",
-      "CHANGE_RATIO": -9.37876621
+      "HOLD_NUM": 47560259,
+      "HOLD_NUM_RATIO": 1.67,
+      "HOLD_NUM_CHANGE": "-18620143",
+      "CHANGE_RATIO": -28.13543351
     },
     {
       "SECUCODE": "600057.SH",
       "SECURITY_CODE": "600057",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中泰证券股份有限公司-华夏国证自由现金流交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 39491900,
+      "HOLD_NUM_RATIO": 1.39,
+      "HOLD_NUM_CHANGE": "24260300",
+      "CHANGE_RATIO": 159.27611019
+    },
+    {
+      "SECUCODE": "600057.SH",
+      "SECURITY_CODE": "600057",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国农垦产业发展基金(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 38649050,
+      "HOLD_NUM_RATIO": 1.36,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600057.SH",
+      "SECURITY_CODE": "600057",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "象屿地产集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 30388100,
@@ -769,24 +781,12 @@
     {
       "SECUCODE": "600057.SH",
       "SECURITY_CODE": "600057",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "全国社保基金五零三组合",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 20000000,
-      "HOLD_NUM_RATIO": 0.7,
-      "HOLD_NUM_CHANGE": "-88",
-      "CHANGE_RATIO": -0.00044
-    },
-    {
-      "SECUCODE": "600057.SH",
-      "SECURITY_CODE": "600057",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中泰证券股份有限公司-华夏国证自由现金流交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "中国人民财产保险股份有限公司-自有资金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 15231600,
-      "HOLD_NUM_RATIO": 0.54,
+      "HOLD_NUM": 15079354,
+      "HOLD_NUM_RATIO": 0.53,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -797,23 +797,70 @@
       "SECURITY_CODE": "600057",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 50,
-      "TOTAL_FREE_SHARES": 24797788,
-      "TOTAL_SHARES_RATIO": 1.18507367,
-      "ALL_SHARES_RATIO": 0.8729804
+      "TOTAL_ORG_NUM": 59,
+      "TOTAL_FREE_SHARES": 1684976224,
+      "TOTAL_SHARES_RATIO": 70.13348179,
+      "ALL_SHARES_RATIO": 51.66358318
     },
     {
       "SECUCODE": "600057.SH",
       "SECURITY_CODE": "600057",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 50,
-      "TOTAL_FREE_SHARES": 24797788,
-      "TOTAL_SHARES_RATIO": 1.18507367,
-      "ALL_SHARES_RATIO": 0.8729804
+      "TOTAL_ORG_NUM": 52,
+      "TOTAL_FREE_SHARES": 76246257,
+      "TOTAL_SHARES_RATIO": 3.64376992,
+      "ALL_SHARES_RATIO": 2.68417036
+    },
+    {
+      "SECUCODE": "600057.SH",
+      "SECURITY_CODE": "600057",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 63895430,
+      "TOTAL_SHARES_RATIO": 3.05353021,
+      "ALL_SHARES_RATIO": 2.24937231
+    },
+    {
+      "SECUCODE": "600057.SH",
+      "SECURITY_CODE": "600057",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "05",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 15079354,
+      "TOTAL_SHARES_RATIO": 0.72063468,
+      "ALL_SHARES_RATIO": 0.53085301
+    },
+    {
+      "SECUCODE": "600057.SH",
+      "SECURITY_CODE": "600057",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 1529755183,
+      "TOTAL_SHARES_RATIO": 62.71554698,
+      "ALL_SHARES_RATIO": 46.1991875
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600057.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "159201",
+      "HOLDER_NAME": "华夏国证自由现金流ETF",
+      "TOTAL_SHARES": 39491900,
+      "HOLD_VALUE": 319094552,
+      "TOTALSHARES_RATIO": 1.39027136,
+      "FREESHARES_RATIO": 1.88729788,
+      "FREE_MARKET_CAP": 319094552,
+      "FREE_SHARES": 39491900,
+      "SECURITY_CODE": "600057",
+      "FUND_CODE": "159201",
+      "FUND_DERIVECODE": "159201.SZ",
+      "NETVALUE_RATIO": 1.73
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "600057.SH",
@@ -830,6 +877,23 @@
       "FUND_CODE": "020876",
       "FUND_DERIVECODE": "020876.OF",
       "NETVALUE_RATIO": 1.9
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600057.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "515180",
+      "HOLDER_NAME": "易方达中证红利ETF",
+      "TOTAL_SHARES": 11956569,
+      "HOLD_VALUE": 96609077.52,
+      "TOTALSHARES_RATIO": 0.4209186,
+      "FREESHARES_RATIO": 0.57139837,
+      "FREE_MARKET_CAP": 96609077.52,
+      "FREE_SHARES": 11956569,
+      "SECURITY_CODE": "600057",
+      "FUND_CODE": "515180",
+      "FUND_DERIVECODE": "515180.SH",
+      "NETVALUE_RATIO": 0.78
     },
     {
       "ORG_TYPE": "01",
@@ -1629,40 +1693,6 @@
       "FUND_CODE": "020354",
       "FUND_DERIVECODE": "020354.OF",
       "NETVALUE_RATIO": 0.21
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "600057.SH",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "HOLDER_CODE": "019466",
-      "HOLDER_NAME": "信澳鑫裕6个月持有期债券A",
-      "TOTAL_SHARES": 5700,
-      "HOLD_VALUE": 46056,
-      "TOTALSHARES_RATIO": 0.00020066,
-      "FREESHARES_RATIO": 0.0002724,
-      "FREE_MARKET_CAP": 46056,
-      "FREE_SHARES": 5700,
-      "SECURITY_CODE": "600057",
-      "FUND_CODE": "019466",
-      "FUND_DERIVECODE": "019466.OF",
-      "NETVALUE_RATIO": 0.44
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "600057.SH",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "HOLDER_CODE": "010747",
-      "HOLDER_NAME": "宝盈祥和9个月定开混合A",
-      "TOTAL_SHARES": 5600,
-      "HOLD_VALUE": 45248,
-      "TOTALSHARES_RATIO": 0.00019714,
-      "FREESHARES_RATIO": 0.00026762,
-      "FREE_MARKET_CAP": 45248,
-      "FREE_SHARES": 5600,
-      "SECURITY_CODE": "600057",
-      "FUND_CODE": "010747",
-      "FUND_DERIVECODE": "010747.OF",
-      "NETVALUE_RATIO": 0.18
     }
   ]
 }

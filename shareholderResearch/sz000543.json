@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 8.42,
       "AVG_HOLD_AMT": 279216.917260639,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 63.51060076,
+      "FREEHOLD_RATIO_TOTAL": 63.51060076
     },
     {
       "SECUCODE": "000543.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000543.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000543.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "000543.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000543.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000543.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000543.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "000543.SZ",
       "END_DATE": "2014-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000543.SZ",
-      "END_DATE": "2014-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "000543.SZ",
       "SECURITY_CODE": "000543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "安徽省能源集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "000543.SZ",
       "SECURITY_CODE": "000543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中国太平洋人寿保险股份有限公司-传统保险高分红股票管理组合",
       "HOLDER_TYPE": "保险产品",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "000543.SZ",
       "SECURITY_CODE": "000543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "安徽省皖能能源物资有限公司",
       "HOLDER_TYPE": "其它",
@@ -512,21 +512,8 @@
     {
       "SECUCODE": "000543.SZ",
       "SECURITY_CODE": "000543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 22157160,
-      "FREE_HOLDNUM_RATIO": 0.977436958682,
-      "HOLD_NUM_CHANGE": "6694148",
-      "CHANGE_RATIO": 43.29135876
-    },
-    {
-      "SECUCODE": "000543.SZ",
-      "SECURITY_CODE": "000543",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "安徽省皖能资本投资有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -538,47 +525,47 @@
     {
       "SECUCODE": "000543.SZ",
       "SECURITY_CODE": "000543",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国太平洋人寿保险股份有限公司-分红-个人分红",
       "HOLDER_TYPE": "保险产品",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 17599864,
-      "FREE_HOLDNUM_RATIO": 0.776397225158,
-      "HOLD_NUM_CHANGE": "-800028",
-      "CHANGE_RATIO": -4.34800378
+      "HOLD_NUM": 18405664,
+      "FREE_HOLDNUM_RATIO": 0.811944140977,
+      "HOLD_NUM_CHANGE": "805800",
+      "CHANGE_RATIO": 4.57844447
     },
     {
       "SECUCODE": "000543.SZ",
       "SECURITY_CODE": "000543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "陈火林",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 15816052,
+      "FREE_HOLDNUM_RATIO": 0.697706464422,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000543.SZ",
+      "SECURITY_CODE": "000543",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "招商银行股份有限公司-工银瑞信可转债债券型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 16271300,
-      "FREE_HOLDNUM_RATIO": 0.717789192559,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 15701265,
+      "FREE_HOLDNUM_RATIO": 0.692642771414,
+      "HOLD_NUM_CHANGE": "-6455895",
+      "CHANGE_RATIO": -29.13683432
     },
     {
       "SECUCODE": "000543.SZ",
       "SECURITY_CODE": "000543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10362900,
-      "FREE_HOLDNUM_RATIO": 0.457147100943,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000543.SZ",
-      "SECURITY_CODE": "000543",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "中国太平洋财产保险-传统-普通保险产品-013C-CT001深",
       "HOLDER_TYPE": "保险产品",
       "SHARES_TYPE": "A股",
@@ -590,13 +577,26 @@
     {
       "SECUCODE": "000543.SZ",
       "SECURITY_CODE": "000543",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "黄国权",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "施建根",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6818000,
-      "FREE_HOLDNUM_RATIO": 0.300768021908,
+      "HOLD_NUM": 8382407,
+      "FREE_HOLDNUM_RATIO": 0.369779990058,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000543.SZ",
+      "SECURITY_CODE": "000543",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国建设银行股份有限公司-广发中证全指电力公用事业交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 8050105,
+      "FREE_HOLDNUM_RATIO": 0.355120879583,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "000543.SZ",
       "SECURITY_CODE": "000543",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 1446552251,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 1439698520,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 820311080,
-      "HOLD_NUM_RATIO": 63.81,
+      "OTHER_UNLIMITED_SHARES": 827164811,
+      "HOLD_NUM_RATIO": 63.51,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 36.19
+      "UNLIMITED_SHARES_RATIO": 36.49
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "000543.SZ",
       "SECURITY_CODE": "000543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "安徽省能源集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "000543.SZ",
       "SECURITY_CODE": "000543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中国太平洋人寿保险股份有限公司-传统保险高分红股票管理组合",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "000543.SZ",
       "SECURITY_CODE": "000543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "安徽省皖能能源物资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,20 +654,8 @@
     {
       "SECUCODE": "000543.SZ",
       "SECURITY_CODE": "000543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 22157160,
-      "HOLD_NUM_RATIO": 0.98,
-      "HOLD_NUM_CHANGE": "6694148",
-      "CHANGE_RATIO": 43.29135876
-    },
-    {
-      "SECUCODE": "000543.SZ",
-      "SECURITY_CODE": "000543",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "安徽省皖能资本投资有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 20715209,
@@ -678,44 +666,44 @@
     {
       "SECUCODE": "000543.SZ",
       "SECURITY_CODE": "000543",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国太平洋人寿保险股份有限公司-分红-个人分红",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 17599864,
-      "HOLD_NUM_RATIO": 0.78,
-      "HOLD_NUM_CHANGE": "-800028",
-      "CHANGE_RATIO": -4.34800378
+      "HOLD_NUM": 18405664,
+      "HOLD_NUM_RATIO": 0.81,
+      "HOLD_NUM_CHANGE": "805800",
+      "CHANGE_RATIO": 4.57844447
     },
     {
       "SECUCODE": "000543.SZ",
       "SECURITY_CODE": "000543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "陈火林",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 15816052,
+      "HOLD_NUM_RATIO": 0.7,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000543.SZ",
+      "SECURITY_CODE": "000543",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "招商银行股份有限公司-工银瑞信可转债债券型证券投资基金",
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 16271300,
-      "HOLD_NUM_RATIO": 0.72,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 15701265,
+      "HOLD_NUM_RATIO": 0.69,
+      "HOLD_NUM_CHANGE": "-6455895",
+      "CHANGE_RATIO": -29.13683432
     },
     {
       "SECUCODE": "000543.SZ",
       "SECURITY_CODE": "000543",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "招商银行股份有限公司-南方中证1000交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10362900,
-      "HOLD_NUM_RATIO": 0.46,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000543.SZ",
-      "SECURITY_CODE": "000543",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "中国太平洋财产保险-传统-普通保险产品-013C-CT001深",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 9237041,
@@ -726,12 +714,24 @@
     {
       "SECUCODE": "000543.SZ",
       "SECURITY_CODE": "000543",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "黄国权",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "施建根",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6818000,
-      "HOLD_NUM_RATIO": 0.3,
+      "HOLD_NUM": 8382407,
+      "HOLD_NUM_RATIO": 0.37,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000543.SZ",
+      "SECURITY_CODE": "000543",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国建设银行股份有限公司-广发中证全指电力公用事业交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 8050105,
+      "HOLD_NUM_RATIO": 0.36,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,23 +742,60 @@
       "SECURITY_CODE": "000543",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 2956400,
-      "TOTAL_SHARES_RATIO": 0.13041811,
-      "ALL_SHARES_RATIO": 0.13041811
+      "TOTAL_ORG_NUM": 14,
+      "TOTAL_FREE_SHARES": 1418456461,
+      "TOTAL_SHARES_RATIO": 62.57353241,
+      "ALL_SHARES_RATIO": 62.57353241
     },
     {
       "SECUCODE": "000543.SZ",
       "SECURITY_CODE": "000543",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 2956400,
-      "TOTAL_SHARES_RATIO": 0.13041811,
-      "ALL_SHARES_RATIO": 0.13041811
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 11006505,
+      "TOTAL_SHARES_RATIO": 0.48553899,
+      "ALL_SHARES_RATIO": 0.48553899
+    },
+    {
+      "SECUCODE": "000543.SZ",
+      "SECURITY_CODE": "000543",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "05",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 84804140,
+      "TOTAL_SHARES_RATIO": 3.74103453,
+      "ALL_SHARES_RATIO": 3.74103453
+    },
+    {
+      "SECUCODE": "000543.SZ",
+      "SECURITY_CODE": "000543",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 1322645816,
+      "TOTAL_SHARES_RATIO": 58.34695889,
+      "ALL_SHARES_RATIO": 58.34695889
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "000543.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "159611",
+      "HOLDER_NAME": "广发中证全指电力公用事业ETF",
+      "TOTAL_SHARES": 8050105,
+      "HOLD_VALUE": 67781884.1,
+      "TOTALSHARES_RATIO": 0.35512088,
+      "FREESHARES_RATIO": 0.35512088,
+      "FREE_MARKET_CAP": 67781884.1,
+      "FREE_SHARES": 8050105,
+      "SECURITY_CODE": "000543",
+      "FUND_CODE": "159611",
+      "FUND_DERIVECODE": "159611.SZ",
+      "NETVALUE_RATIO": 1.01
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "000543.SZ",

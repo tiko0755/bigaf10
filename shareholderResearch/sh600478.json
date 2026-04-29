@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 7.17,
       "AVG_HOLD_AMT": 130718.599410219,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 39.87009965,
+      "FREEHOLD_RATIO_TOTAL": 39.87009965
     },
     {
       "SECUCODE": "600478.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600478.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "600478.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600478.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600478.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600478.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600478.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600478.SH",
       "END_DATE": "2016-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600478.SH",
-      "END_DATE": "2016-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600478.SH",
       "SECURITY_CODE": "600478",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "湖南科力远高技术集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600478.SH",
       "SECURITY_CODE": "600478",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "吉利科技集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "600478.SH",
       "SECURITY_CODE": "600478",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "钟发平",
       "HOLDER_TYPE": "个人",
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "600478.SH",
       "SECURITY_CODE": "600478",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "高雅萍",
       "HOLDER_TYPE": "个人",
@@ -525,7 +525,7 @@
     {
       "SECUCODE": "600478.SH",
       "SECURITY_CODE": "600478",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "沈祥龙",
       "HOLDER_TYPE": "个人",
@@ -538,21 +538,8 @@
     {
       "SECUCODE": "600478.SH",
       "SECURITY_CODE": "600478",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 32521491,
-      "FREE_HOLDNUM_RATIO": 1.952608350091,
-      "HOLD_NUM_CHANGE": "13764281",
-      "CHANGE_RATIO": 73.38128112
-    },
-    {
-      "SECUCODE": "600478.SH",
-      "SECURITY_CODE": "600478",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "兴宝国际信托有限责任公司-华融·汇盈32号证券投资单一资金信托",
       "HOLDER_TYPE": "信托计划",
       "SHARES_TYPE": "A股",
@@ -564,33 +551,46 @@
     {
       "SECUCODE": "600478.SH",
       "SECURITY_CODE": "600478",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 27477387,
+      "FREE_HOLDNUM_RATIO": 1.649757549397,
+      "HOLD_NUM_CHANGE": "-5044104",
+      "CHANGE_RATIO": -15.51006379
+    },
+    {
+      "SECUCODE": "600478.SH",
+      "SECURITY_CODE": "600478",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "季爱琴",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 25040180,
       "FREE_HOLDNUM_RATIO": 1.503426289889,
-      "HOLD_NUM_CHANGE": "-1100",
-      "CHANGE_RATIO": -0.00439275
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600478.SH",
       "SECURITY_CODE": "600478",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "中国建设银行股份有限公司-嘉实中证稀土产业交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 14635056,
-      "FREE_HOLDNUM_RATIO": 0.878696876156,
-      "HOLD_NUM_CHANGE": "307569",
-      "CHANGE_RATIO": 2.14670584
+      "HOLD_NUM": 15239709,
+      "FREE_HOLDNUM_RATIO": 0.915000577506,
+      "HOLD_NUM_CHANGE": "604653",
+      "CHANGE_RATIO": 4.13153868
     },
     {
       "SECUCODE": "600478.SH",
       "SECURITY_CODE": "600478",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "蒋水良",
       "HOLDER_TYPE": "个人",
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "600478.SH",
       "SECURITY_CODE": "600478",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 668492274,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 664052823,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 997048642,
-      "HOLD_NUM_RATIO": 40.14,
+      "OTHER_UNLIMITED_SHARES": 1001488093,
+      "HOLD_NUM_RATIO": 39.87,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 59.86
+      "UNLIMITED_SHARES_RATIO": 60.13
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600478.SH",
       "SECURITY_CODE": "600478",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "湖南科力远高技术集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600478.SH",
       "SECURITY_CODE": "600478",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "吉利科技集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "600478.SH",
       "SECURITY_CODE": "600478",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "钟发平",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "600478.SH",
       "SECURITY_CODE": "600478",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "高雅萍",
       "SHARES_TYPE": "流通A股",
@@ -666,7 +666,7 @@
     {
       "SECUCODE": "600478.SH",
       "SECURITY_CODE": "600478",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "沈祥龙",
       "SHARES_TYPE": "流通A股",
@@ -678,20 +678,8 @@
     {
       "SECUCODE": "600478.SH",
       "SECURITY_CODE": "600478",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 32521491,
-      "HOLD_NUM_RATIO": 1.95,
-      "HOLD_NUM_CHANGE": "13764281",
-      "CHANGE_RATIO": 73.38128112
-    },
-    {
-      "SECUCODE": "600478.SH",
-      "SECURITY_CODE": "600478",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "兴宝国际信托有限责任公司-华融·汇盈32号证券投资单一资金信托",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 29660000,
@@ -702,31 +690,43 @@
     {
       "SECUCODE": "600478.SH",
       "SECURITY_CODE": "600478",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 27477387,
+      "HOLD_NUM_RATIO": 1.65,
+      "HOLD_NUM_CHANGE": "-5044104",
+      "CHANGE_RATIO": -15.51006379
+    },
+    {
+      "SECUCODE": "600478.SH",
+      "SECURITY_CODE": "600478",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "季爱琴",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 25040180,
       "HOLD_NUM_RATIO": 1.5,
-      "HOLD_NUM_CHANGE": "-1100",
-      "CHANGE_RATIO": -0.00439275
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600478.SH",
       "SECURITY_CODE": "600478",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "中国建设银行股份有限公司-嘉实中证稀土产业交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 14635056,
-      "HOLD_NUM_RATIO": 0.88,
-      "HOLD_NUM_CHANGE": "307569",
-      "CHANGE_RATIO": 2.14670584
+      "HOLD_NUM": 15239709,
+      "HOLD_NUM_RATIO": 0.92,
+      "HOLD_NUM_CHANGE": "604653",
+      "CHANGE_RATIO": 4.13153868
     },
     {
       "SECUCODE": "600478.SH",
       "SECURITY_CODE": "600478",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "蒋水良",
       "SHARES_TYPE": "流通A股",
@@ -742,23 +742,60 @@
       "SECURITY_CODE": "600478",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 1141800,
-      "TOTAL_SHARES_RATIO": 0.0685543,
-      "ALL_SHARES_RATIO": 0.0685543
+      "TOTAL_ORG_NUM": 9,
+      "TOTAL_FREE_SHARES": 451075605,
+      "TOTAL_SHARES_RATIO": 27.0828294,
+      "ALL_SHARES_RATIO": 27.0828294
     },
     {
       "SECUCODE": "600478.SH",
       "SECURITY_CODE": "600478",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 1141800,
-      "TOTAL_SHARES_RATIO": 0.0685543,
-      "ALL_SHARES_RATIO": 0.0685543
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 16381509,
+      "TOTAL_SHARES_RATIO": 0.98355488,
+      "ALL_SHARES_RATIO": 0.98355488
+    },
+    {
+      "SECUCODE": "600478.SH",
+      "SECURITY_CODE": "600478",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "06",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 29660000,
+      "TOTAL_SHARES_RATIO": 1.78080284,
+      "ALL_SHARES_RATIO": 1.78080284
+    },
+    {
+      "SECUCODE": "600478.SH",
+      "SECURITY_CODE": "600478",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 405034096,
+      "TOTAL_SHARES_RATIO": 24.31847168,
+      "ALL_SHARES_RATIO": 24.31847168
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600478.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "516150",
+      "HOLDER_NAME": "嘉实中证稀土产业ETF",
+      "TOTAL_SHARES": 15239709,
+      "HOLD_VALUE": 109268713.53,
+      "TOTALSHARES_RATIO": 0.91500058,
+      "FREESHARES_RATIO": 0.91500058,
+      "FREE_MARKET_CAP": 109268713.53,
+      "FREE_SHARES": 15239709,
+      "SECURITY_CODE": "600478",
+      "FUND_CODE": "516150",
+      "FUND_DERIVECODE": "516150.SH",
+      "NETVALUE_RATIO": 1.33
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "600478.SH",

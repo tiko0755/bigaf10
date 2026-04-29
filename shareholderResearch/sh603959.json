@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 6.16,
       "AVG_HOLD_AMT": 100822.599503271,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 30.87169941,
+      "FREEHOLD_RATIO_TOTAL": 30.87169941
     },
     {
       "SECUCODE": "603959.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603959.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "603959.SH",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603959.SH",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603959.SH",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603959.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603959.SH",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603959.SH",
       "END_DATE": "2018-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "603959.SH",
-      "END_DATE": "2018-09-25 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "603959.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
     {
       "SECUCODE": "603959.SH",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -439,36 +443,9 @@
     {
       "SECUCODE": "603959.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603959.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2025-12-10 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "湖南派勒科技有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 58078800,
-      "HOLD_NUM_RATIO": 11.85,
-      "HOLD_CHANGE": "48078800",
-      "CHANGE_RATIO": 480.788,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2025-12-10 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "西藏新海新创业投资有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 58026350,
-      "HOLD_NUM_RATIO": 11.83,
-      "HOLD_CHANGE": "-48078800",
-      "CHANGE_RATIO": -45.31240944,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "603959.SH",
@@ -496,46 +473,46 @@
     {
       "SECUCODE": "603959.SH",
       "SECURITY_CODE": "603959",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "湖南派勒科技有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 58078800,
       "FREE_HOLDNUM_RATIO": 11.845588293602,
-      "HOLD_NUM_CHANGE": "48078800",
-      "CHANGE_RATIO": 480.788
-    },
-    {
-      "SECUCODE": "603959.SH",
-      "SECURITY_CODE": "603959",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "西藏新海新创业投资有限公司",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 58026350,
-      "FREE_HOLDNUM_RATIO": 11.834890739486,
-      "HOLD_NUM_CHANGE": "-48078800",
-      "CHANGE_RATIO": -45.31240944
-    },
-    {
-      "SECUCODE": "603959.SH",
-      "SECURITY_CODE": "603959",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "张文扬",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10550576,
-      "FREE_HOLDNUM_RATIO": 2.151865733389,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603959.SH",
       "SECURITY_CODE": "603959",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "西藏新海新创业投资有限公司",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 58026350,
+      "FREE_HOLDNUM_RATIO": 11.834890739486,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603959.SH",
+      "SECURITY_CODE": "603959",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "张文扬",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 10450576,
+      "FREE_HOLDNUM_RATIO": 2.131470015341,
+      "HOLD_NUM_CHANGE": "-100000",
+      "CHANGE_RATIO": -0.94781555
+    },
+    {
+      "SECUCODE": "603959.SH",
+      "SECURITY_CODE": "603959",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "张新明",
       "HOLDER_TYPE": "个人",
@@ -548,79 +525,79 @@
     {
       "SECUCODE": "603959.SH",
       "SECURITY_CODE": "603959",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "林永贤",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5500000,
+      "FREE_HOLDNUM_RATIO": 1.121764492634,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603959.SH",
+      "SECURITY_CODE": "603959",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "解红",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 2470000,
       "FREE_HOLDNUM_RATIO": 0.503774235783,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603959.SH",
       "SECURITY_CODE": "603959",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "徐滨龙",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1768700,
-      "FREE_HOLDNUM_RATIO": 0.360739065113,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603959.SH",
-      "SECURITY_CODE": "603959",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "郑小兰",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1710400,
-      "FREE_HOLDNUM_RATIO": 0.348848361491,
+      "HOLD_NUM": 2157700,
+      "FREE_HOLDNUM_RATIO": 0.440078408319,
+      "HOLD_NUM_CHANGE": "447300",
+      "CHANGE_RATIO": 26.15177736
+    },
+    {
+      "SECUCODE": "603959.SH",
+      "SECURITY_CODE": "603959",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国银河证券股份有限公司",
+      "HOLDER_TYPE": "证券公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2141100,
+      "FREE_HOLDNUM_RATIO": 0.436692719124,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603959.SH",
       "SECURITY_CODE": "603959",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "熊慧",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1609000,
-      "FREE_HOLDNUM_RATIO": 0.328167103391,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603959.SH",
-      "SECURITY_CODE": "603959",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "杨筱妹",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "高盛国际-自有资金",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1587900,
-      "FREE_HOLDNUM_RATIO": 0.323863606883,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 2107274,
+      "FREE_HOLDNUM_RATIO": 0.429793663537,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603959.SH",
       "SECURITY_CODE": "603959",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "水兴东",
+      "HOLDER_NAME": "马睿",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1576088,
-      "FREE_HOLDNUM_RATIO": 0.321454464667,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 2004900,
+      "FREE_HOLDNUM_RATIO": 0.408913751142,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -628,20 +605,20 @@
     {
       "SECUCODE": "603959.SH",
       "SECURITY_CODE": "603959",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 145804745,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 151363631,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 344494247,
-      "HOLD_NUM_RATIO": 29.74,
+      "OTHER_UNLIMITED_SHARES": 338935361,
+      "HOLD_NUM_RATIO": 30.87,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 70.26
+      "UNLIMITED_SHARES_RATIO": 69.13
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603959.SH",
       "SECURITY_CODE": "603959",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "湖南派勒科技有限公司",
       "SHARES_TYPE": "流通A股",
@@ -653,7 +630,7 @@
     {
       "SECUCODE": "603959.SH",
       "SECURITY_CODE": "603959",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "西藏新海新创业投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -665,19 +642,19 @@
     {
       "SECUCODE": "603959.SH",
       "SECURITY_CODE": "603959",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "张文扬",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10550576,
-      "HOLD_NUM_RATIO": 2.15,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 10450576,
+      "HOLD_NUM_RATIO": 2.13,
+      "HOLD_NUM_CHANGE": "-100000",
+      "CHANGE_RATIO": -0.94781555
     },
     {
       "SECUCODE": "603959.SH",
       "SECURITY_CODE": "603959",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "张新明",
       "SHARES_TYPE": "流通A股",
@@ -689,73 +666,73 @@
     {
       "SECUCODE": "603959.SH",
       "SECURITY_CODE": "603959",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "林永贤",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5500000,
+      "HOLD_NUM_RATIO": 1.12,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603959.SH",
+      "SECURITY_CODE": "603959",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "解红",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2470000,
       "HOLD_NUM_RATIO": 0.5,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603959.SH",
       "SECURITY_CODE": "603959",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "徐滨龙",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1768700,
-      "HOLD_NUM_RATIO": 0.36,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603959.SH",
-      "SECURITY_CODE": "603959",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "郑小兰",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1710400,
-      "HOLD_NUM_RATIO": 0.35,
+      "HOLD_NUM": 2157700,
+      "HOLD_NUM_RATIO": 0.44,
+      "HOLD_NUM_CHANGE": "447300",
+      "CHANGE_RATIO": 26.15177736
+    },
+    {
+      "SECUCODE": "603959.SH",
+      "SECURITY_CODE": "603959",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国银河证券股份有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2141100,
+      "HOLD_NUM_RATIO": 0.44,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603959.SH",
       "SECURITY_CODE": "603959",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "熊慧",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1609000,
-      "HOLD_NUM_RATIO": 0.33,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603959.SH",
-      "SECURITY_CODE": "603959",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "杨筱妹",
+      "HOLDER_NAME": "高盛国际-自有资金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1587900,
-      "HOLD_NUM_RATIO": 0.32,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 2107274,
+      "HOLD_NUM_RATIO": 0.43,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603959.SH",
       "SECURITY_CODE": "603959",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "水兴东",
+      "HOLDER_NAME": "马睿",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1576088,
-      "HOLD_NUM_RATIO": 0.32,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 2004900,
+      "HOLD_NUM_RATIO": 0.41,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -763,17 +740,37 @@
     {
       "SECUCODE": "603959.SH",
       "SECURITY_CODE": "603959",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 116105150,
-      "TOTAL_SHARES_RATIO": 23.68047903,
-      "ALL_SHARES_RATIO": 23.68047903
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 120353524,
+      "TOTAL_SHARES_RATIO": 24.54696541,
+      "ALL_SHARES_RATIO": 24.54696541
     },
     {
       "SECUCODE": "603959.SH",
       "SECURITY_CODE": "603959",
-      "REPORT_DATE": "2025-12-31 00:00:00",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 2107274,
+      "TOTAL_SHARES_RATIO": 0.42979366,
+      "ALL_SHARES_RATIO": 0.42979366
+    },
+    {
+      "SECUCODE": "603959.SH",
+      "SECURITY_CODE": "603959",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "04",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 2141100,
+      "TOTAL_SHARES_RATIO": 0.43669272,
+      "ALL_SHARES_RATIO": 0.43669272
+    },
+    {
+      "SECUCODE": "603959.SH",
+      "SECURITY_CODE": "603959",
+      "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 2,
       "TOTAL_FREE_SHARES": 116105150,

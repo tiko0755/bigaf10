@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 5.47,
       "AVG_HOLD_AMT": 102476.809542407,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 39.57220875,
+      "FREEHOLD_RATIO_TOTAL": 21.64241765
     },
     {
       "SECUCODE": "000782.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000782.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "000782.SZ",
       "END_DATE": "2025-12-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "000782.SZ",
       "END_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "000782.SZ",
-      "END_DATE": "2024-12-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000782.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000782.SZ",
       "END_DATE": "2025-12-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "000782.SZ",
       "END_DATE": "2018-08-17 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "000782.SZ",
-      "END_DATE": "2018-08-16 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -483,7 +483,7 @@
     {
       "SECUCODE": "000782.SZ",
       "SECURITY_CODE": "000782",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "青岛昌盛日电新能源控股有限公司",
       "HOLDER_TYPE": "其它",
@@ -496,34 +496,73 @@
     {
       "SECUCODE": "000782.SZ",
       "SECURITY_CODE": "000782",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 12799482,
+      "FREE_HOLDNUM_RATIO": 2.423503452987,
+      "HOLD_NUM_CHANGE": "9474415",
+      "CHANGE_RATIO": 284.9390704
+    },
+    {
+      "SECUCODE": "000782.SZ",
+      "SECURITY_CODE": "000782",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "中信证券资产管理(香港)有限公司-客户资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 9121400,
+      "FREE_HOLDNUM_RATIO": 1.72708117376,
+      "HOLD_NUM_CHANGE": "6509895",
+      "CHANGE_RATIO": 249.27752388
+    },
+    {
+      "SECUCODE": "000782.SZ",
+      "SECURITY_CODE": "000782",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "国泰君安金融控股有限公司-客户资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5797300,
+      "FREE_HOLDNUM_RATIO": 1.097683216243,
+      "HOLD_NUM_CHANGE": "2227300",
+      "CHANGE_RATIO": 62.38935574
+    },
+    {
+      "SECUCODE": "000782.SZ",
+      "SECURITY_CODE": "000782",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "广发资产管理(香港)有限公司-绝对收益组合-04-R",
+      "HOLDER_TYPE": "其他理财产品",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5487000,
+      "FREE_HOLDNUM_RATIO": 1.038929813452,
+      "HOLD_NUM_CHANGE": "2354400",
+      "CHANGE_RATIO": 75.15801571
+    },
+    {
+      "SECUCODE": "000782.SZ",
+      "SECURITY_CODE": "000782",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "薛建新",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4108000,
-      "FREE_HOLDNUM_RATIO": 0.777824617033,
-      "HOLD_NUM_CHANGE": "268000",
-      "CHANGE_RATIO": 6.97916667
+      "HOLD_NUM": 4069900,
+      "FREE_HOLDNUM_RATIO": 0.770610615595,
+      "HOLD_NUM_CHANGE": "-38100",
+      "CHANGE_RATIO": -0.92745862
     },
     {
       "SECUCODE": "000782.SZ",
       "SECURITY_CODE": "000782",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "滕顺祥",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4023500,
-      "FREE_HOLDNUM_RATIO": 0.761825060037,
-      "HOLD_NUM_CHANGE": "233900",
-      "CHANGE_RATIO": 6.17215537
-    },
-    {
-      "SECUCODE": "000782.SZ",
-      "SECURITY_CODE": "000782",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "张秀兵",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -535,78 +574,39 @@
     {
       "SECUCODE": "000782.SZ",
       "SECURITY_CODE": "000782",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "国泰君安金融控股有限公司-客户资金",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3570000,
-      "FREE_HOLDNUM_RATIO": 0.675957615095,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000782.SZ",
-      "SECURITY_CODE": "000782",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "张伟君",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3402300,
-      "FREE_HOLDNUM_RATIO": 0.644204648133,
-      "HOLD_NUM_CHANGE": "13000",
-      "CHANGE_RATIO": 0.38356003
-    },
-    {
-      "SECUCODE": "000782.SZ",
-      "SECURITY_CODE": "000782",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "陈照耀",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3344800,
-      "FREE_HOLDNUM_RATIO": 0.633317375621,
-      "HOLD_NUM_CHANGE": "-1521700",
-      "CHANGE_RATIO": -31.26887907
-    },
-    {
-      "SECUCODE": "000782.SZ",
-      "SECURITY_CODE": "000782",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "高盛公司有限责任公司",
-      "HOLDER_TYPE": "QFII",
+      "HOLDER_NAME": "陈裕凯",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3325067,
-      "FREE_HOLDNUM_RATIO": 0.629581053039,
+      "HOLD_NUM": 3432500,
+      "FREE_HOLDNUM_RATIO": 0.649922833001,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000782.SZ",
       "SECURITY_CODE": "000782",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "广发资产管理(香港)有限公司-绝对收益组合-04-R",
+      "HOLDER_NAME": "法国兴业银行",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3346000,
+      "FREE_HOLDNUM_RATIO": 0.633544588265,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000782.SZ",
+      "SECURITY_CODE": "000782",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "承壹投资管理有限公司-柏玉",
       "HOLDER_TYPE": "其他理财产品",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3132600,
-      "FREE_HOLDNUM_RATIO": 0.593138606455,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000782.SZ",
-      "SECURITY_CODE": "000782",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中信证券资产管理(香港)有限公司-客户资金",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2611505,
-      "FREE_HOLDNUM_RATIO": 0.494472462635,
+      "HOLD_NUM": 3018601,
+      "FREE_HOLDNUM_RATIO": 0.571553594645,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -615,20 +615,20 @@
     {
       "SECUCODE": "000782.SZ",
       "SECURITY_CODE": "000782",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLD_NUM_COUNT": 94747772,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 114302183,
       "LIMITED_SHARES": 158441886,
-      "OTHER_UNLIMITED_SHARES": 433391851,
-      "HOLD_NUM_RATIO": 13.8,
+      "OTHER_UNLIMITED_SHARES": 413837440,
+      "HOLD_NUM_RATIO": 16.65,
       "LIMITED_SHARES_RATIO": 23.08,
-      "UNLIMITED_SHARES_RATIO": 63.12
+      "UNLIMITED_SHARES_RATIO": 60.28
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "000782.SZ",
       "SECURITY_CODE": "000782",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "福建力恒投资有限公司",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -640,7 +640,7 @@
     {
       "SECUCODE": "000782.SZ",
       "SECURITY_CODE": "000782",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "青岛昌盛日电新能源控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -652,32 +652,68 @@
     {
       "SECUCODE": "000782.SZ",
       "SECURITY_CODE": "000782",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 12799482,
+      "HOLD_NUM_RATIO": 1.86,
+      "HOLD_NUM_CHANGE": "9474415",
+      "CHANGE_RATIO": 284.9390704
+    },
+    {
+      "SECUCODE": "000782.SZ",
+      "SECURITY_CODE": "000782",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "中信证券资产管理(香港)有限公司-客户资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 9121400,
+      "HOLD_NUM_RATIO": 1.33,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000782.SZ",
+      "SECURITY_CODE": "000782",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "国泰君安金融控股有限公司-客户资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5797300,
+      "HOLD_NUM_RATIO": 0.84,
+      "HOLD_NUM_CHANGE": "2227300",
+      "CHANGE_RATIO": 62.38935574
+    },
+    {
+      "SECUCODE": "000782.SZ",
+      "SECURITY_CODE": "000782",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "广发资产管理(香港)有限公司-绝对收益组合-04-R",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5487000,
+      "HOLD_NUM_RATIO": 0.8,
+      "HOLD_NUM_CHANGE": "2354400",
+      "CHANGE_RATIO": 75.15801571
+    },
+    {
+      "SECUCODE": "000782.SZ",
+      "SECURITY_CODE": "000782",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "薛建新",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4108000,
-      "HOLD_NUM_RATIO": 0.6,
-      "HOLD_NUM_CHANGE": "268000",
-      "CHANGE_RATIO": 6.97916667
-    },
-    {
-      "SECUCODE": "000782.SZ",
-      "SECURITY_CODE": "000782",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "滕顺祥",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4023500,
+      "HOLD_NUM": 4069900,
       "HOLD_NUM_RATIO": 0.59,
-      "HOLD_NUM_CHANGE": "233900",
-      "CHANGE_RATIO": 6.17215537
+      "HOLD_NUM_CHANGE": "-38100",
+      "CHANGE_RATIO": -0.92745862
     },
     {
       "SECUCODE": "000782.SZ",
       "SECURITY_CODE": "000782",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "张秀兵",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3850000,
@@ -688,60 +724,24 @@
     {
       "SECUCODE": "000782.SZ",
       "SECURITY_CODE": "000782",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "国泰君安金融控股有限公司-客户资金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3570000,
-      "HOLD_NUM_RATIO": 0.52,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000782.SZ",
-      "SECURITY_CODE": "000782",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "张伟君",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3402300,
-      "HOLD_NUM_RATIO": 0.5,
-      "HOLD_NUM_CHANGE": "13000",
-      "CHANGE_RATIO": 0.38356003
-    },
-    {
-      "SECUCODE": "000782.SZ",
-      "SECURITY_CODE": "000782",
-      "END_DATE": "2025-12-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "陈照耀",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3344800,
-      "HOLD_NUM_RATIO": 0.49,
-      "HOLD_NUM_CHANGE": "-1521700",
-      "CHANGE_RATIO": -31.26887907
-    },
-    {
-      "SECUCODE": "000782.SZ",
-      "SECURITY_CODE": "000782",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_NAME": "陈裕凯",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3325067,
-      "HOLD_NUM_RATIO": 0.48,
+      "HOLD_NUM": 3432500,
+      "HOLD_NUM_RATIO": 0.5,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000782.SZ",
       "SECURITY_CODE": "000782",
-      "END_DATE": "2025-12-31 00:00:00",
+      "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "广发资产管理(香港)有限公司-绝对收益组合-04-R",
+      "HOLDER_NAME": "法国兴业银行",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3132600,
-      "HOLD_NUM_RATIO": 0.46,
+      "HOLD_NUM": 3346000,
+      "HOLD_NUM_RATIO": 0.49,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -752,10 +752,10 @@
       "SECURITY_CODE": "000782",
       "REPORT_DATE": "2026-03-31 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 131900,
-      "TOTAL_SHARES_RATIO": 0.02497446,
-      "ALL_SHARES_RATIO": 0.01921112
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 103081683,
+      "TOTAL_SHARES_RATIO": 19.51788476,
+      "ALL_SHARES_RATIO": 15.01375753
     },
     {
       "SECUCODE": "000782.SZ",
@@ -766,6 +766,26 @@
       "TOTAL_FREE_SHARES": 131900,
       "TOTAL_SHARES_RATIO": 0.02497446,
       "ALL_SHARES_RATIO": 0.01921112
+    },
+    {
+      "SECUCODE": "000782.SZ",
+      "SECURITY_CODE": "000782",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 31064182,
+      "TOTAL_SHARES_RATIO": 5.88181243,
+      "ALL_SHARES_RATIO": 4.52447111
+    },
+    {
+      "SECUCODE": "000782.SZ",
+      "SECURITY_CODE": "000782",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 71885601,
+      "TOTAL_SHARES_RATIO": 13.61109787,
+      "ALL_SHARES_RATIO": 10.4700753
     }
   ],
   "jjcg": [
