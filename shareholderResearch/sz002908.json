@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "002908.SZ",
+      "END_DATE": "2026-04-29 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "002908.SZ",
       "END_DATE": "2026-03-31 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "002908.SZ",
       "END_DATE": "2020-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002908.SZ",
-      "END_DATE": "2019-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -420,7 +420,7 @@
       "SECUCODE": "002908.SZ",
       "SECURITY_CODE": "002908",
       "HOLDER_NAME": "虢晓彬",
-      "HOLD_RATIO": 32.4
+      "HOLD_RATIO": 32.27
     }
   ],
   "jgcc_date": [
@@ -445,7 +445,19 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-04-29 00:00:00",
+      "HOLDER_RANK": 1,
+      "HOLDER_NAME": "虢晓彬",
+      "SHARES_TYPE": "流通A股,限售流通A股",
+      "HOLD_NUM": 139240000,
+      "HOLD_NUM_RATIO": 32.27,
+      "HOLD_CHANGE": "-564914",
+      "CHANGE_RATIO": -0.40407306,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "002908.SZ",
@@ -618,19 +630,19 @@
     {
       "SECUCODE": "002908.SZ",
       "SECURITY_CODE": "002908",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-04-29 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "虢晓彬",
       "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 139804914,
-      "HOLD_NUM_RATIO": 32.4,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 139240000,
+      "HOLD_NUM_RATIO": 32.27,
+      "HOLD_NUM_CHANGE": "-564914",
+      "CHANGE_RATIO": -0.40407306
     },
     {
       "SECUCODE": "002908.SZ",
       "SECURITY_CODE": "002908",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-04-29 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "孙狂飙",
       "SHARES_TYPE": "流通A股",
@@ -638,102 +650,6 @@
       "HOLD_NUM_RATIO": 8.45,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002908.SZ",
-      "SECURITY_CODE": "002908",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "李竹",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2278444,
-      "HOLD_NUM_RATIO": 0.53,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002908.SZ",
-      "SECURITY_CODE": "002908",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "黄建",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2266300,
-      "HOLD_NUM_RATIO": 0.53,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002908.SZ",
-      "SECURITY_CODE": "002908",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "高盛公司有限责任公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1781266,
-      "HOLD_NUM_RATIO": 0.41,
-      "HOLD_NUM_CHANGE": "588181",
-      "CHANGE_RATIO": 49.2991698
-    },
-    {
-      "SECUCODE": "002908.SZ",
-      "SECURITY_CODE": "002908",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "广东德生科技股份有限公司-2025年员工持股计划",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1745600,
-      "HOLD_NUM_RATIO": 0.4,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002908.SZ",
-      "SECURITY_CODE": "002908",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "赵璇",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1742700,
-      "HOLD_NUM_RATIO": 0.4,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002908.SZ",
-      "SECURITY_CODE": "002908",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1490248,
-      "HOLD_NUM_RATIO": 0.35,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002908.SZ",
-      "SECURITY_CODE": "002908",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "安莹",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1201000,
-      "HOLD_NUM_RATIO": 0.28,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002908.SZ",
-      "SECURITY_CODE": "002908",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "朱会东",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 892913,
-      "HOLD_NUM_RATIO": 0.21,
-      "HOLD_NUM_CHANGE": "-88106",
-      "CHANGE_RATIO": -8.98106968
     }
   ],
   "jgcc": [
@@ -1113,23 +1029,6 @@
       "ORG_TYPE": "01",
       "SECUCODE": "002908.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00",
-      "HOLDER_CODE": "563200",
-      "HOLDER_NAME": "富国中证2000ETF",
-      "TOTAL_SHARES": 3200,
-      "HOLD_VALUE": 33696,
-      "TOTALSHARES_RATIO": 0.00074172,
-      "FREESHARES_RATIO": 0.0009943,
-      "FREE_MARKET_CAP": 33696,
-      "FREE_SHARES": 3200,
-      "SECURITY_CODE": "002908",
-      "FUND_CODE": "563200",
-      "FUND_DERIVECODE": "563200.SH",
-      "NETVALUE_RATIO": 0.13
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "002908.SZ",
-      "REPORT_DATE": "2025-12-31 00:00:00",
       "HOLDER_CODE": "561370",
       "HOLDER_NAME": "国泰中证2000ETF",
       "TOTAL_SHARES": 3200,
@@ -1142,6 +1041,23 @@
       "FUND_CODE": "561370",
       "FUND_DERIVECODE": "561370.SH",
       "NETVALUE_RATIO": 0.11
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002908.SZ",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "HOLDER_CODE": "563200",
+      "HOLDER_NAME": "富国中证2000ETF",
+      "TOTAL_SHARES": 3200,
+      "HOLD_VALUE": 33696,
+      "TOTALSHARES_RATIO": 0.00074172,
+      "FREESHARES_RATIO": 0.0009943,
+      "FREE_MARKET_CAP": 33696,
+      "FREE_SHARES": 3200,
+      "SECURITY_CODE": "002908",
+      "FUND_CODE": "563200",
+      "FUND_DERIVECODE": "563200.SH",
+      "NETVALUE_RATIO": 0.13
     },
     {
       "ORG_TYPE": "01",
