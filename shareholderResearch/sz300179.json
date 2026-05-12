@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "300179.SZ",
+      "END_DATE": "2026-05-08 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300179.SZ",
       "END_DATE": "2026-03-31 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "300179.SZ",
       "END_DATE": "2018-03-02 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300179.SZ",
-      "END_DATE": "2018-03-01 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -420,7 +420,7 @@
       "SECUCODE": "300179.SZ",
       "SECURITY_CODE": "300179",
       "HOLDER_NAME": "方海江,付玉霞",
-      "HOLD_RATIO": 35.78
+      "HOLD_RATIO": 35.5019
     }
   ],
   "jgcc_date": [
@@ -445,7 +445,19 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-05-08 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "付玉霞",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 32830865,
+      "HOLD_NUM_RATIO": 6.76,
+      "HOLD_CHANGE": "-1370500",
+      "CHANGE_RATIO": -4.00715001,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "300179.SZ",
@@ -618,7 +630,7 @@
     {
       "SECUCODE": "300179.SZ",
       "SECURITY_CODE": "300179",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-05-08 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "方海江",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -630,110 +642,14 @@
     {
       "SECUCODE": "300179.SZ",
       "SECURITY_CODE": "300179",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-05-08 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "付玉霞",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 34201365,
-      "HOLD_NUM_RATIO": 7.04,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300179.SZ",
-      "SECURITY_CODE": "300179",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "方春凤",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 5814997,
-      "HOLD_NUM_RATIO": 1.2,
-      "HOLD_NUM_CHANGE": "-448200",
-      "CHANGE_RATIO": -7.15608977
-    },
-    {
-      "SECUCODE": "300179.SZ",
-      "SECURITY_CODE": "300179",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "陈丽珺",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5499028,
-      "HOLD_NUM_RATIO": 1.13,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300179.SZ",
-      "SECURITY_CODE": "300179",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "邹淑英",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5439152,
-      "HOLD_NUM_RATIO": 1.12,
-      "HOLD_NUM_CHANGE": "-350000",
-      "CHANGE_RATIO": -6.04579047
-    },
-    {
-      "SECUCODE": "300179.SZ",
-      "SECURITY_CODE": "300179",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "全国社保基金五零三组合",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4000000,
-      "HOLD_NUM_RATIO": 0.82,
-      "HOLD_NUM_CHANGE": "-1000046",
-      "CHANGE_RATIO": -20.00073599
-    },
-    {
-      "SECUCODE": "300179.SZ",
-      "SECURITY_CODE": "300179",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3953047,
-      "HOLD_NUM_RATIO": 0.81,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300179.SZ",
-      "SECURITY_CODE": "300179",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "伍伯宏",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3415700,
-      "HOLD_NUM_RATIO": 0.7,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300179.SZ",
-      "SECURITY_CODE": "300179",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "杨国栋",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3032017,
-      "HOLD_NUM_RATIO": 0.62,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300179.SZ",
-      "SECURITY_CODE": "300179",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "黄荥军",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2950000,
-      "HOLD_NUM_RATIO": 0.61,
-      "HOLD_NUM_CHANGE": "-400000",
-      "CHANGE_RATIO": -11.94029851
+      "HOLD_NUM": 32830865,
+      "HOLD_NUM_RATIO": 6.76,
+      "HOLD_NUM_CHANGE": "-1370500",
+      "CHANGE_RATIO": -4.00715001
     }
   ],
   "jgcc": [
