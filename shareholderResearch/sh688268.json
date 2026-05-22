@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "688268.SH",
+      "END_DATE": "2026-05-20 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "688268.SH",
       "END_DATE": "2026-05-15 00:00:00",
       "IS_REPORTDATE": "0"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "688268.SH",
       "END_DATE": "2022-05-10 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "688268.SH",
-      "END_DATE": "2022-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -420,7 +420,7 @@
       "SECUCODE": "688268.SH",
       "SECURITY_CODE": "688268",
       "HOLDER_NAME": "石平湘,石思慧",
-      "HOLD_RATIO": 14.11
+      "HOLD_RATIO": 14
     }
   ],
   "jgcc_date": [
@@ -446,6 +446,17 @@
     }
   ],
   "sdgdcgbd": [
+    {
+      "END_DATE": "2026-05-20 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "厦门华弘多福投资合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6820200,
+      "HOLD_NUM_RATIO": 5.53,
+      "HOLD_CHANGE": "-288500",
+      "CHANGE_RATIO": -4.0584073,
+      "CHANGE_REASON": "临时公告"
+    },
     {
       "END_DATE": "2026-05-15 00:00:00",
       "HOLDER_RANK": 3,
@@ -641,38 +652,38 @@
     {
       "SECUCODE": "688268.SH",
       "SECURITY_CODE": "688268",
-      "END_DATE": "2026-05-15 00:00:00",
+      "END_DATE": "2026-05-20 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "广东华特投资有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 26640700,
-      "HOLD_NUM_RATIO": 21.79,
+      "HOLD_NUM_RATIO": 21.61,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688268.SH",
       "SECURITY_CODE": "688268",
-      "END_DATE": "2026-05-15 00:00:00",
+      "END_DATE": "2026-05-20 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "石平湘",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 11855345,
-      "HOLD_NUM_RATIO": 9.69,
+      "HOLD_NUM_RATIO": 9.62,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688268.SH",
       "SECURITY_CODE": "688268",
-      "END_DATE": "2026-05-15 00:00:00",
+      "END_DATE": "2026-05-20 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "厦门华弘多福投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7108700,
-      "HOLD_NUM_RATIO": 5.81,
-      "HOLD_NUM_CHANGE": "-239000",
-      "CHANGE_RATIO": -3.25271854
+      "HOLD_NUM": 6820200,
+      "HOLD_NUM_RATIO": 5.53,
+      "HOLD_NUM_CHANGE": "-288500",
+      "CHANGE_RATIO": -4.0584073
     }
   ],
   "jgcc": [
@@ -1460,23 +1471,6 @@
       "ORG_TYPE": "01",
       "SECUCODE": "688268.SH",
       "REPORT_DATE": "2025-12-31 00:00:00",
-      "HOLDER_CODE": "024345",
-      "HOLDER_NAME": "浙商汇金上证科创板综合指数A",
-      "TOTAL_SHARES": 1200,
-      "HOLD_VALUE": 68868,
-      "TOTALSHARES_RATIO": 0.00099747,
-      "FREESHARES_RATIO": 0.00099814,
-      "FREE_MARKET_CAP": 68868,
-      "FREE_SHARES": 1200,
-      "SECURITY_CODE": "688268",
-      "FUND_CODE": "024345",
-      "FUND_DERIVECODE": "024345.OF",
-      "NETVALUE_RATIO": 0.06
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "688268.SH",
-      "REPORT_DATE": "2025-12-31 00:00:00",
       "HOLDER_CODE": "023895",
       "HOLDER_NAME": "天弘上证科创板综合指数增强A",
       "TOTAL_SHARES": 1200,
@@ -1506,6 +1500,23 @@
       "FUND_CODE": "024359",
       "FUND_DERIVECODE": "024359.OF",
       "NETVALUE_RATIO": 0.03
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "688268.SH",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "HOLDER_CODE": "024345",
+      "HOLDER_NAME": "浙商汇金上证科创板综合指数A",
+      "TOTAL_SHARES": 1200,
+      "HOLD_VALUE": 68868,
+      "TOTALSHARES_RATIO": 0.00099747,
+      "FREESHARES_RATIO": 0.00099814,
+      "FREE_MARKET_CAP": 68868,
+      "FREE_SHARES": 1200,
+      "SECURITY_CODE": "688268",
+      "FUND_CODE": "024345",
+      "FUND_DERIVECODE": "024345.OF",
+      "NETVALUE_RATIO": 0.06
     },
     {
       "ORG_TYPE": "01",

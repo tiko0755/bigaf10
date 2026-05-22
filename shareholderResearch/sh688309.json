@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "688309.SH",
+      "END_DATE": "2026-05-20 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "688309.SH",
       "END_DATE": "2026-05-07 00:00:00",
       "IS_REPORTDATE": "0"
     },
@@ -430,7 +435,19 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-05-20 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "宁波梅山保税港区银晟投资管理合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4801461,
+      "HOLD_NUM_RATIO": 6.05,
+      "HOLD_CHANGE": "-225140",
+      "CHANGE_RATIO": -4.47897098,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "688309.SH",
@@ -603,7 +620,7 @@
     {
       "SECUCODE": "688309.SH",
       "SECURITY_CODE": "688309",
-      "END_DATE": "2026-05-07 00:00:00",
+      "END_DATE": "2026-05-20 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "宁波梅山保税港区筠龙投资管理合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -615,14 +632,14 @@
     {
       "SECUCODE": "688309.SH",
       "SECURITY_CODE": "688309",
-      "END_DATE": "2026-05-07 00:00:00",
+      "END_DATE": "2026-05-20 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "宁波梅山保税港区银晟投资管理合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5026601,
-      "HOLD_NUM_RATIO": 6.33,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 4801461,
+      "HOLD_NUM_RATIO": 6.05,
+      "HOLD_NUM_CHANGE": "-225140",
+      "CHANGE_RATIO": -4.47897098
     }
   ],
   "jgcc": [
@@ -1349,23 +1366,6 @@
       "ORG_TYPE": "01",
       "SECUCODE": "688309.SH",
       "REPORT_DATE": "2025-12-31 00:00:00",
-      "HOLDER_CODE": "589630",
-      "HOLDER_NAME": "国泰上证科创板综合ETF",
-      "TOTAL_SHARES": 3300,
-      "HOLD_VALUE": 79629,
-      "TOTALSHARES_RATIO": 0.0041561,
-      "FREESHARES_RATIO": 0.0041561,
-      "FREE_MARKET_CAP": 79629,
-      "FREE_SHARES": 3300,
-      "SECURITY_CODE": "688309",
-      "FUND_CODE": "589630",
-      "FUND_DERIVECODE": "589630.SH",
-      "NETVALUE_RATIO": 0.02
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "688309.SH",
-      "REPORT_DATE": "2025-12-31 00:00:00",
       "HOLDER_CODE": "023386",
       "HOLDER_NAME": "国泰聚智量化选股混合发起A",
       "TOTAL_SHARES": 3300,
@@ -1378,6 +1378,23 @@
       "FUND_CODE": "023386",
       "FUND_DERIVECODE": "023386.OF",
       "NETVALUE_RATIO": 0.47
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "688309.SH",
+      "REPORT_DATE": "2025-12-31 00:00:00",
+      "HOLDER_CODE": "589630",
+      "HOLDER_NAME": "国泰上证科创板综合ETF",
+      "TOTAL_SHARES": 3300,
+      "HOLD_VALUE": 79629,
+      "TOTALSHARES_RATIO": 0.0041561,
+      "FREESHARES_RATIO": 0.0041561,
+      "FREE_MARKET_CAP": 79629,
+      "FREE_SHARES": 3300,
+      "SECURITY_CODE": "688309",
+      "FUND_CODE": "589630",
+      "FUND_DERIVECODE": "589630.SH",
+      "NETVALUE_RATIO": 0.02
     },
     {
       "ORG_TYPE": "01",

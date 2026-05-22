@@ -166,6 +166,16 @@
   "sdgd_date": [
     {
       "SECUCODE": "603986.SH",
+      "END_DATE": "2026-05-20 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "603986.SH",
+      "END_DATE": "2026-05-19 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "603986.SH",
       "END_DATE": "2026-05-18 00:00:00",
       "IS_REPORTDATE": "0"
     },
@@ -403,16 +413,6 @@
       "SECUCODE": "603986.SH",
       "END_DATE": "2021-05-21 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "603986.SH",
-      "END_DATE": "2021-04-08 00:00:00",
-      "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "603986.SH",
-      "END_DATE": "2021-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -420,7 +420,7 @@
       "SECUCODE": "603986.SH",
       "SECURITY_CODE": "603986",
       "HOLDER_NAME": "朱一明",
-      "HOLD_RATIO": 5.69
+      "HOLD_RATIO": 5.32
     }
   ],
   "jgcc_date": [
@@ -446,6 +446,28 @@
     }
   ],
   "sdgdcgbd": [
+    {
+      "END_DATE": "2026-05-20 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "朱一明",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 37267311,
+      "HOLD_NUM_RATIO": 5.32,
+      "HOLD_CHANGE": "-1500000",
+      "CHANGE_RATIO": -3.86923922,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-05-19 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "朱一明",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 38767311,
+      "HOLD_NUM_RATIO": 5.53,
+      "HOLD_CHANGE": "-1098000",
+      "CHANGE_RATIO": -2.75427426,
+      "CHANGE_REASON": "临时公告"
+    },
     {
       "END_DATE": "2026-05-18 00:00:00",
       "HOLDER_RANK": 2,
@@ -696,7 +718,7 @@
     {
       "SECUCODE": "603986.SH",
       "SECURITY_CODE": "603986",
-      "END_DATE": "2026-05-18 00:00:00",
+      "END_DATE": "2026-05-20 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
@@ -708,14 +730,14 @@
     {
       "SECUCODE": "603986.SH",
       "SECURITY_CODE": "603986",
-      "END_DATE": "2026-05-18 00:00:00",
+      "END_DATE": "2026-05-20 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "朱一明",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 39865311,
-      "HOLD_NUM_RATIO": 5.69,
-      "HOLD_NUM_CHANGE": "-220000",
-      "CHANGE_RATIO": -0.54882947
+      "HOLD_NUM": 37267311,
+      "HOLD_NUM_RATIO": 5.32,
+      "HOLD_NUM_CHANGE": "-1500000",
+      "CHANGE_RATIO": -3.86923922
     }
   ],
   "jgcc": [
@@ -1156,23 +1178,6 @@
       "ORG_TYPE": "01",
       "SECUCODE": "603986.SH",
       "REPORT_DATE": "2026-03-31 00:00:00",
-      "HOLDER_CODE": "014319",
-      "HOLDER_NAME": "德邦半导体产业混合发起式A",
-      "TOTAL_SHARES": 1000000,
-      "HOLD_VALUE": 238100000,
-      "TOTALSHARES_RATIO": 0.14263251,
-      "FREESHARES_RATIO": 0.14973539,
-      "FREE_MARKET_CAP": 238100000,
-      "FREE_SHARES": 1000000,
-      "SECURITY_CODE": "603986",
-      "FUND_CODE": "014319",
-      "FUND_DERIVECODE": "014319.OF",
-      "NETVALUE_RATIO": 5.58
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "603986.SH",
-      "REPORT_DATE": "2026-03-31 00:00:00",
       "HOLDER_CODE": "010595",
       "HOLDER_NAME": "广发成长精选混合A",
       "TOTAL_SHARES": 1000000,
@@ -1185,6 +1190,23 @@
       "FUND_CODE": "010595",
       "FUND_DERIVECODE": "010595.OF",
       "NETVALUE_RATIO": 7.82
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603986.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "014319",
+      "HOLDER_NAME": "德邦半导体产业混合发起式A",
+      "TOTAL_SHARES": 1000000,
+      "HOLD_VALUE": 238100000,
+      "TOTALSHARES_RATIO": 0.14263251,
+      "FREESHARES_RATIO": 0.14973539,
+      "FREE_MARKET_CAP": 238100000,
+      "FREE_SHARES": 1000000,
+      "SECURITY_CODE": "603986",
+      "FUND_CODE": "014319",
+      "FUND_DERIVECODE": "014319.OF",
+      "NETVALUE_RATIO": 5.58
     },
     {
       "ORG_TYPE": "01",
