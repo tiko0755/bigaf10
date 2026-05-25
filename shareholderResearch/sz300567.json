@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "300567.SZ",
+      "END_DATE": "2026-05-20 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300567.SZ",
       "END_DATE": "2026-03-31 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "300567.SZ",
       "END_DATE": "2020-11-03 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300567.SZ",
-      "END_DATE": "2020-10-30 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -420,7 +420,7 @@
       "SECUCODE": "300567.SZ",
       "SECURITY_CODE": "300567",
       "HOLDER_NAME": "彭骞",
-      "HOLD_RATIO": 25.06
+      "HOLD_RATIO": 20.91
     }
   ],
   "jgcc_date": [
@@ -445,7 +445,19 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-05-20 00:00:00",
+      "HOLDER_RANK": 1,
+      "HOLDER_NAME": "彭骞",
+      "SHARES_TYPE": "流通A股,限售流通A股",
+      "HOLD_NUM": 58500000,
+      "HOLD_NUM_RATIO": 20.91,
+      "HOLD_CHANGE": "-11612000",
+      "CHANGE_RATIO": -16.56207211,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "300567.SZ",
@@ -618,19 +630,19 @@
     {
       "SECUCODE": "300567.SZ",
       "SECURITY_CODE": "300567",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-05-20 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "彭骞",
       "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 70112000,
-      "HOLD_NUM_RATIO": 25.06,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 58500000,
+      "HOLD_NUM_RATIO": 20.91,
+      "HOLD_NUM_CHANGE": "-11612000",
+      "CHANGE_RATIO": -16.56207211
     },
     {
       "SECUCODE": "300567.SZ",
       "SECURITY_CODE": "300567",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-05-20 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "陈凯",
       "SHARES_TYPE": "流通A股",
@@ -642,96 +654,12 @@
     {
       "SECUCODE": "300567.SZ",
       "SECURITY_CODE": "300567",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-05-20 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "中国农业银行股份有限公司-东方人工智能主题混合型证券投资基金",
+      "HOLDER_NAME": "武汉文发熠晟私募基金管理有限公司-文发长江2号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7610453,
-      "HOLD_NUM_RATIO": 2.72,
-      "HOLD_NUM_CHANGE": "2719200",
-      "CHANGE_RATIO": 55.59311694
-    },
-    {
-      "SECUCODE": "300567.SZ",
-      "SECURITY_CODE": "300567",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "胡隽",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6901108,
-      "HOLD_NUM_RATIO": 2.47,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300567.SZ",
-      "SECURITY_CODE": "300567",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国建设银行股份有限公司-银华集成电路混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5253014,
-      "HOLD_NUM_RATIO": 1.88,
-      "HOLD_NUM_CHANGE": "-476986",
-      "CHANGE_RATIO": -8.324363
-    },
-    {
-      "SECUCODE": "300567.SZ",
-      "SECURITY_CODE": "300567",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "瑞众人寿保险有限责任公司-自有资金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4664987,
-      "HOLD_NUM_RATIO": 1.67,
-      "HOLD_NUM_CHANGE": "-302900",
-      "CHANGE_RATIO": -6.09715962
-    },
-    {
-      "SECUCODE": "300567.SZ",
-      "SECURITY_CODE": "300567",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4238930,
-      "HOLD_NUM_RATIO": 1.52,
-      "HOLD_NUM_CHANGE": "-191308",
-      "CHANGE_RATIO": -4.31823302
-    },
-    {
-      "SECUCODE": "300567.SZ",
-      "SECURITY_CODE": "300567",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国人民人寿保险股份有限公司-传统-普通保险产品",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3966500,
-      "HOLD_NUM_RATIO": 1.42,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300567.SZ",
-      "SECURITY_CODE": "300567",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国人民人寿保险股份有限公司-分红-个险分红",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2969880,
-      "HOLD_NUM_RATIO": 1.06,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300567.SZ",
-      "SECURITY_CODE": "300567",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "武汉精至投资中心(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2958691,
-      "HOLD_NUM_RATIO": 1.06,
+      "HOLD_NUM": 14044100,
+      "HOLD_NUM_RATIO": 5.02,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
