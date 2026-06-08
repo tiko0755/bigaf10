@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "002064.SZ",
+      "END_DATE": "2026-05-31 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "002064.SZ",
       "END_DATE": "2026-04-08 00:00:00",
       "IS_REPORTDATE": "0"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "002064.SZ",
       "END_DATE": "2015-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002064.SZ",
-      "END_DATE": "2015-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -446,6 +446,50 @@
     }
   ],
   "sdgdcgbd": [
+    {
+      "END_DATE": "2026-05-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 103171897,
+      "HOLD_NUM_RATIO": 2.08,
+      "HOLD_CHANGE": "26817281",
+      "CHANGE_RATIO": 35.12201672,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-05-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "全国社保基金四一八组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 31335916,
+      "HOLD_NUM_RATIO": 0.63,
+      "HOLD_CHANGE": "1912300",
+      "CHANGE_RATIO": 6.49920119,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-05-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "华泰证券股份有限公司-鹏华中证细分化工产业主题交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 25178050,
+      "HOLD_NUM_RATIO": 0.51,
+      "HOLD_CHANGE": "-10489574",
+      "CHANGE_RATIO": -29.40923118,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-05-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国人寿保险股份有限公司-分红-个人分红-005L-FH002沪",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 24691841,
+      "HOLD_NUM_RATIO": 0.5,
+      "HOLD_CHANGE": "3666800",
+      "CHANGE_RATIO": 17.44015624,
+      "CHANGE_REASON": "临时公告"
+    },
     {
       "END_DATE": "2026-04-08 00:00:00",
       "HOLDER_RANK": 4,
@@ -630,7 +674,7 @@
     {
       "SECUCODE": "002064.SZ",
       "SECURITY_CODE": "002064",
-      "END_DATE": "2026-04-08 00:00:00",
+      "END_DATE": "2026-05-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "华峰集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +686,7 @@
     {
       "SECUCODE": "002064.SZ",
       "SECURITY_CODE": "002064",
-      "END_DATE": "2026-04-08 00:00:00",
+      "END_DATE": "2026-05-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "尤小平",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +698,7 @@
     {
       "SECUCODE": "002064.SZ",
       "SECURITY_CODE": "002064",
-      "END_DATE": "2026-04-08 00:00:00",
+      "END_DATE": "2026-05-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "尤小华",
       "SHARES_TYPE": "流通A股",
@@ -666,14 +710,86 @@
     {
       "SECUCODE": "002064.SZ",
       "SECURITY_CODE": "002064",
-      "END_DATE": "2026-04-08 00:00:00",
+      "END_DATE": "2026-05-31 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "尤金焕",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 314563106,
       "HOLD_NUM_RATIO": 6.34,
-      "HOLD_NUM_CHANGE": "-9200000",
-      "CHANGE_RATIO": -2.84158381
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002064.SZ",
+      "SECURITY_CODE": "002064",
+      "END_DATE": "2026-05-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 103171897,
+      "HOLD_NUM_RATIO": 2.08,
+      "HOLD_NUM_CHANGE": "26817281",
+      "CHANGE_RATIO": 35.12201672
+    },
+    {
+      "SECUCODE": "002064.SZ",
+      "SECURITY_CODE": "002064",
+      "END_DATE": "2026-05-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "全国社保基金四一八组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 31335916,
+      "HOLD_NUM_RATIO": 0.63,
+      "HOLD_NUM_CHANGE": "1912300",
+      "CHANGE_RATIO": 6.49920119
+    },
+    {
+      "SECUCODE": "002064.SZ",
+      "SECURITY_CODE": "002064",
+      "END_DATE": "2026-05-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "华泰证券股份有限公司-鹏华中证细分化工产业主题交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 25178050,
+      "HOLD_NUM_RATIO": 0.51,
+      "HOLD_NUM_CHANGE": "-10489574",
+      "CHANGE_RATIO": -29.40923118
+    },
+    {
+      "SECUCODE": "002064.SZ",
+      "SECURITY_CODE": "002064",
+      "END_DATE": "2026-05-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 24738032,
+      "HOLD_NUM_RATIO": 0.5,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002064.SZ",
+      "SECURITY_CODE": "002064",
+      "END_DATE": "2026-05-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国人寿保险股份有限公司-分红-个人分红-005L-FH002沪",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 24691841,
+      "HOLD_NUM_RATIO": 0.5,
+      "HOLD_NUM_CHANGE": "3666800",
+      "CHANGE_RATIO": 17.44015624
+    },
+    {
+      "SECUCODE": "002064.SZ",
+      "SECURITY_CODE": "002064",
+      "END_DATE": "2026-05-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "瑞众人寿保险有限责任公司-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 15193235,
+      "HOLD_NUM_RATIO": 0.31,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [

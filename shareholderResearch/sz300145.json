@@ -1,1 +1,817 @@
-"<!DOCTYPE html>\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head>\r\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\r\n    <title>无F10资料</title>\r\n    <style type=\"text/css\">\r\n        .parent {\r\n            position: fixed;\r\n            top: 50%;\r\n            bottom: 50%;\r\n            left: 50%;\r\n            right: 50%;\r\n            width: 0;\r\n            height: 0;\r\n        }\r\n\r\n        .show {\r\n            border: 0px solid red;\r\n            width: 20rem;\r\n            /* 以下两个属性必须为width,height值的负一半 */\r\n            margin-left: -10rem;\r\n            margin-top: -60px;\r\n            text-align: center;\r\n        }\r\n\r\n        table {\r\n            width: 100%;\r\n            height: 100%;\r\n            text-align: center;\r\n        }\r\n\r\n        td {\r\n            border: 1px solid red;\r\n        }\r\n    </style>\r\n</head>\r\n<body style=\"background-color: #070707;\">\r\n    <div class=\"parent\">\r\n        <div class=\"show\">\r\n            <img id=\"loadImg\" src=\"../Content/img/noData_b.png\" />\r\n        </div>\r\n    </div>\r\n</body>\r\n</html>\r\n<script>\r\n    window.onload = function () {\r\n        var skin = GetQueryString(\"type\");\r\n        var color = GetQueryString(\"color\");\r\n        if (skin && skin == \"web\" || color==\"w\") {\r\n            document.getElementById(\"loadImg\").src = \"../Content/img/noData_w.png\";\r\n            document.getElementsByTagName(\"body\")[0].style.backgroundColor = \"#ffffff\";\r\n        }\r\n    };\r\n\r\n    function GetQueryString(name) {\r\n        var reg = new RegExp(\"(^|&)\" + name + \"=([^&]*)(&|$)\");\r\n        var r = window.location.search.substr(1).match(reg);\r\n        if (r != null) return unescape(r[2]); return null;\r\n    }\r\n</script>\r\n"
+{
+  "gdrs": [
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-05-20 00:00:00",
+      "HOLDER_TOTAL_NUM": 53010,
+      "TOTAL_NUM_RATIO": 1.7447,
+      "AVG_FREE_SHARES": 36046,
+      "AVG_FREESHARES_RATIO": -1.714770797963,
+      "HOLD_FOCUS": "较分散",
+      "PRICE": 5.32,
+      "AVG_HOLD_AMT": 191767.754637993,
+      "HOLD_RATIO_TOTAL": null,
+      "FREEHOLD_RATIO_TOTAL": null
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-05-08 00:00:00",
+      "HOLDER_TOTAL_NUM": 52101,
+      "TOTAL_NUM_RATIO": 1.8971,
+      "AVG_FREE_SHARES": 36675,
+      "AVG_FREESHARES_RATIO": -1.861768488129,
+      "HOLD_FOCUS": "较分散",
+      "PRICE": 5.05,
+      "AVG_HOLD_AMT": 185211.126943821,
+      "HOLD_RATIO_TOTAL": null,
+      "FREEHOLD_RATIO_TOTAL": null
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-04-30 00:00:00",
+      "HOLDER_TOTAL_NUM": 51131,
+      "TOTAL_NUM_RATIO": -12.3403,
+      "AVG_FREE_SHARES": 37371,
+      "AVG_FREESHARES_RATIO": 14.077565469089,
+      "HOLD_FOCUS": "较分散",
+      "PRICE": 4.84,
+      "AVG_HOLD_AMT": 180876.785087716,
+      "HOLD_RATIO_TOTAL": null,
+      "FREEHOLD_RATIO_TOTAL": null
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-04-10 00:00:00",
+      "HOLDER_TOTAL_NUM": 58329,
+      "TOTAL_NUM_RATIO": 11.6195,
+      "AVG_FREE_SHARES": 32759,
+      "AVG_FREESHARES_RATIO": -10.409916165201,
+      "HOLD_FOCUS": "非常分散",
+      "PRICE": 4.93,
+      "AVG_HOLD_AMT": 161504.3199976,
+      "HOLD_RATIO_TOTAL": null,
+      "FREEHOLD_RATIO_TOTAL": null
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_TOTAL_NUM": 52257,
+      "TOTAL_NUM_RATIO": 0.0077,
+      "AVG_FREE_SHARES": 36565,
+      "AVG_FREESHARES_RATIO": -0.007654476912,
+      "HOLD_FOCUS": "较分散",
+      "PRICE": 4.27,
+      "AVG_HOLD_AMT": 156136.757572383,
+      "HOLD_RATIO_TOTAL": 37.30686677,
+      "FREEHOLD_RATIO_TOTAL": 37.49065203
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-03-20 00:00:00",
+      "HOLDER_TOTAL_NUM": 52253,
+      "TOTAL_NUM_RATIO": -6.8292,
+      "AVG_FREE_SHARES": 36568,
+      "AVG_FREESHARES_RATIO": 7.329722695348,
+      "HOLD_FOCUS": "较分散",
+      "PRICE": 4.81,
+      "AVG_HOLD_AMT": 175895.853585057,
+      "HOLD_RATIO_TOTAL": null,
+      "FREEHOLD_RATIO_TOTAL": null
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-03-10 00:00:00",
+      "HOLDER_TOTAL_NUM": 56083,
+      "TOTAL_NUM_RATIO": -0.6607,
+      "AVG_FREE_SHARES": 34071,
+      "AVG_FREESHARES_RATIO": 0.665085676586,
+      "HOLD_FOCUS": "非常分散",
+      "PRICE": 5.33,
+      "AVG_HOLD_AMT": 181600.787410445,
+      "HOLD_RATIO_TOTAL": null,
+      "FREEHOLD_RATIO_TOTAL": null
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-02-27 00:00:00",
+      "HOLDER_TOTAL_NUM": 56456,
+      "TOTAL_NUM_RATIO": 3.7622,
+      "AVG_FREE_SHARES": 33846,
+      "AVG_FREESHARES_RATIO": -3.625832506731,
+      "HOLD_FOCUS": "非常分散",
+      "PRICE": 4.95,
+      "AVG_HOLD_AMT": 167539.359060153,
+      "HOLD_RATIO_TOTAL": null,
+      "FREEHOLD_RATIO_TOTAL": null
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-02-13 00:00:00",
+      "HOLDER_TOTAL_NUM": 54409,
+      "TOTAL_NUM_RATIO": 4.3838,
+      "AVG_FREE_SHARES": 35119,
+      "AVG_FREESHARES_RATIO": -4.199672848242,
+      "HOLD_FOCUS": "较分散",
+      "PRICE": 4.67,
+      "AVG_HOLD_AMT": 164009.079741587,
+      "HOLD_RATIO_TOTAL": null,
+      "FREEHOLD_RATIO_TOTAL": null
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-02-10 00:00:00",
+      "HOLDER_TOTAL_NUM": 52124,
+      "TOTAL_NUM_RATIO": -1.1886,
+      "AVG_FREE_SHARES": 36659,
+      "AVG_FREESHARES_RATIO": 1.202900775075,
+      "HOLD_FOCUS": "较分散",
+      "PRICE": 4.54,
+      "AVG_HOLD_AMT": 166433.164932085,
+      "HOLD_RATIO_TOTAL": null,
+      "FREEHOLD_RATIO_TOTAL": null
+    }
+  ],
+  "sdltgd_date": [
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2025-09-30 00:00:00"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2025-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2025-03-31 00:00:00"
+    }
+  ],
+  "sdgd_date": [
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2025-12-17 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2025-09-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2025-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2025-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2024-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2024-09-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2024-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2024-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2023-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2023-09-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2023-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2023-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2022-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2022-09-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2022-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2022-04-11 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2022-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2021-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2021-09-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2021-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2021-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2021-03-11 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2020-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2020-09-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2020-07-21 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2020-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2020-05-11 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2020-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2020-01-16 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2020-01-15 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2020-01-14 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2020-01-13 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2019-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2019-10-11 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2019-09-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2019-09-25 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2019-08-28 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2019-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2019-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2018-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2018-12-28 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2018-12-24 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2018-10-23 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2018-10-11 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2018-09-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2018-08-07 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2018-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "END_DATE": "2018-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    }
+  ],
+  "sjkzr": [
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "HOLDER_NAME": "无锡市人民政府国有资产监督管理委员会",
+      "HOLD_RATIO": null
+    }
+  ],
+  "jgcc_date": [
+    {
+      "SECUCODE": "300145.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "REPORT_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "REPORT_DATE": "2025-09-30 00:00:00"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "REPORT_DATE": "2025-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "REPORT_DATE": "2025-03-31 00:00:00"
+    }
+  ],
+  "sdgdcgbd": [],
+  "jjcg_date": [
+    {
+      "SECUCODE": "300145.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "REPORT_DATE": "2025-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "REPORT_DATE": "2025-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "REPORT_DATE": "2024-12-31 00:00:00"
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "REPORT_DATE": "2024-09-30 00:00:00"
+    }
+  ],
+  "xsjj": [
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "LIFT_DATE": "2026-09-29 00:00:00",
+      "LIFT_NUM": 8175086,
+      "LIFT_TYPE": "股权激励限售股份",
+      "TOTAL_SHARES_RATIO": 0.43,
+      "UNLIMITED_A_SHARES_RATIO": 0.43
+    }
+  ],
+  "sdltgd": [
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 1,
+      "HOLDER_NAME": "无锡市市政公用产业集团有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 510876493,
+      "FREE_HOLDNUM_RATIO": 26.735860390558,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "沈金浩",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 55131829,
+      "FREE_HOLDNUM_RATIO": 2.885231368867,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "沈洁泳",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 40974912,
+      "FREE_HOLDNUM_RATIO": 2.144352973288,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "上海少薮派投资管理有限公司-少数派万象更新8号私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 28000000,
+      "FREE_HOLDNUM_RATIO": 1.465332817605,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 18559540,
+      "FREE_HOLDNUM_RATIO": 0.971282251487,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "上海三川投资管理有限公司",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 17563960,
+      "FREE_HOLDNUM_RATIO": 0.919180249825,
+      "HOLD_NUM_CHANGE": "-290000",
+      "CHANGE_RATIO": -1.62428951
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "赵祥年",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 15769461,
+      "FREE_HOLDNUM_RATIO": 0.825268168544,
+      "HOLD_NUM_CHANGE": "-100000",
+      "CHANGE_RATIO": -0.63014112
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "叶馨阳",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 10256900,
+      "FREE_HOLDNUM_RATIO": 0.536777577746,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "周鹏",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 10000000,
+      "FREE_HOLDNUM_RATIO": 0.523333149144,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "赵才甫",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 9249043,
+      "FREE_HOLDNUM_RATIO": 0.484033079976,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    }
+  ],
+  "ltgf": [
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 716382138,
+      "LIMITED_SHARES": 9413338,
+      "OTHER_UNLIMITED_SHARES": 1194446560,
+      "HOLD_NUM_RATIO": 37.31,
+      "LIMITED_SHARES_RATIO": 0.49,
+      "UNLIMITED_SHARES_RATIO": 62.2
+    }
+  ],
+  "sdgd": [
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 1,
+      "HOLDER_NAME": "无锡市市政公用产业集团有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 510876493,
+      "HOLD_NUM_RATIO": 26.6,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "沈金浩",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 55131829,
+      "HOLD_NUM_RATIO": 2.87,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "沈洁泳",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 40974912,
+      "HOLD_NUM_RATIO": 2.13,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "上海少薮派投资管理有限公司-少数派万象更新8号私募证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 28000000,
+      "HOLD_NUM_RATIO": 1.46,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 18559540,
+      "HOLD_NUM_RATIO": 0.97,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "上海三川投资管理有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 17563960,
+      "HOLD_NUM_RATIO": 0.91,
+      "HOLD_NUM_CHANGE": "-290000",
+      "CHANGE_RATIO": -1.62428951
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "赵祥年",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 15769461,
+      "HOLD_NUM_RATIO": 0.82,
+      "HOLD_NUM_CHANGE": "-100000",
+      "CHANGE_RATIO": -0.63014112
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "叶馨阳",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 10256900,
+      "HOLD_NUM_RATIO": 0.53,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "周鹏",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 10000000,
+      "HOLD_NUM_RATIO": 0.52,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "赵才甫",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 9249043,
+      "HOLD_NUM_RATIO": 0.48,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    }
+  ],
+  "jgcc": [
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "00",
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 576808493,
+      "TOTAL_SHARES_RATIO": 30.18630051,
+      "ALL_SHARES_RATIO": 30.03832238
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "01",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 1808500,
+      "TOTAL_SHARES_RATIO": 0.0946448,
+      "ALL_SHARES_RATIO": 0.09418084
+    },
+    {
+      "SECUCODE": "300145.SZ",
+      "SECURITY_CODE": "300145",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 574999993,
+      "TOTAL_SHARES_RATIO": 30.09165571,
+      "ALL_SHARES_RATIO": 29.94414154
+    }
+  ],
+  "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300145.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "015880",
+      "HOLDER_NAME": "中欧小盘成长混合A",
+      "TOTAL_SHARES": 1701700,
+      "HOLD_VALUE": 7266259,
+      "TOTALSHARES_RATIO": 0.08861904,
+      "FREESHARES_RATIO": 0.0890556,
+      "FREE_MARKET_CAP": 7266259,
+      "FREE_SHARES": 1701700,
+      "SECURITY_CODE": "300145",
+      "FUND_CODE": "015880",
+      "FUND_DERIVECODE": "015880.OF",
+      "NETVALUE_RATIO": 0.49
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300145.SZ",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "018663",
+      "HOLDER_NAME": "中欧国证2000指数增强A",
+      "TOTAL_SHARES": 106800,
+      "HOLD_VALUE": 456036,
+      "TOTALSHARES_RATIO": 0.0055618,
+      "FREESHARES_RATIO": 0.0055892,
+      "FREE_MARKET_CAP": 456036,
+      "FREE_SHARES": 106800,
+      "SECURITY_CODE": "300145",
+      "FUND_CODE": "018663",
+      "FUND_DERIVECODE": "018663.OF",
+      "NETVALUE_RATIO": 0.46
+    }
+  ]
+}

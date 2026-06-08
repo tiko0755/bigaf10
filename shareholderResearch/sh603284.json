@@ -1,1 +1,753 @@
-"<!DOCTYPE html>\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head>\r\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\r\n    <title>无F10资料</title>\r\n    <style type=\"text/css\">\r\n        .parent {\r\n            position: fixed;\r\n            top: 50%;\r\n            bottom: 50%;\r\n            left: 50%;\r\n            right: 50%;\r\n            width: 0;\r\n            height: 0;\r\n        }\r\n\r\n        .show {\r\n            border: 0px solid red;\r\n            width: 20rem;\r\n            /* 以下两个属性必须为width,height值的负一半 */\r\n            margin-left: -10rem;\r\n            margin-top: -60px;\r\n            text-align: center;\r\n        }\r\n\r\n        table {\r\n            width: 100%;\r\n            height: 100%;\r\n            text-align: center;\r\n        }\r\n\r\n        td {\r\n            border: 1px solid red;\r\n        }\r\n    </style>\r\n</head>\r\n<body style=\"background-color: #070707;\">\r\n    <div class=\"parent\">\r\n        <div class=\"show\">\r\n            <img id=\"loadImg\" src=\"../Content/img/noData_b.png\" />\r\n        </div>\r\n    </div>\r\n</body>\r\n</html>\r\n<script>\r\n    window.onload = function () {\r\n        var skin = GetQueryString(\"type\");\r\n        var color = GetQueryString(\"color\");\r\n        if (skin && skin == \"web\" || color==\"w\") {\r\n            document.getElementById(\"loadImg\").src = \"../Content/img/noData_w.png\";\r\n            document.getElementsByTagName(\"body\")[0].style.backgroundColor = \"#ffffff\";\r\n        }\r\n    };\r\n\r\n    function GetQueryString(name) {\r\n        var reg = new RegExp(\"(^|&)\" + name + \"=([^&]*)(&|$)\");\r\n        var r = window.location.search.substr(1).match(reg);\r\n        if (r != null) return unescape(r[2]); return null;\r\n    }\r\n</script>\r\n"
+{
+  "gdrs": [
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_TOTAL_NUM": 20653,
+      "TOTAL_NUM_RATIO": -44.9268,
+      "AVG_FREE_SHARES": 894,
+      "AVG_FREESHARES_RATIO": 81.576526412628,
+      "HOLD_FOCUS": "较集中",
+      "PRICE": 46.65,
+      "AVG_HOLD_AMT": 41726.8314506367,
+      "HOLD_RATIO_TOTAL": 76.23177413,
+      "FREEHOLD_RATIO_TOTAL": 6.51552938
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2026-02-10 00:00:00",
+      "HOLDER_TOTAL_NUM": 37501,
+      "TOTAL_NUM_RATIO": 1249933.3333,
+      "AVG_FREE_SHARES": 492,
+      "AVG_FREESHARES_RATIO": null,
+      "HOLD_FOCUS": "较分散",
+      "PRICE": 58.93,
+      "AVG_HOLD_AMT": 29029.5629127223,
+      "HOLD_RATIO_TOTAL": 75.21104478,
+      "FREEHOLD_RATIO_TOTAL": null
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2026-01-22 00:00:00",
+      "HOLDER_TOTAL_NUM": 3,
+      "TOTAL_NUM_RATIO": 0,
+      "AVG_FREE_SHARES": null,
+      "AVG_FREESHARES_RATIO": null,
+      "HOLD_FOCUS": "非常集中",
+      "PRICE": null,
+      "AVG_HOLD_AMT": null,
+      "HOLD_RATIO_TOTAL": 100,
+      "FREEHOLD_RATIO_TOTAL": null
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2025-12-31 00:00:00",
+      "HOLDER_TOTAL_NUM": 3,
+      "TOTAL_NUM_RATIO": 0,
+      "AVG_FREE_SHARES": null,
+      "AVG_FREESHARES_RATIO": null,
+      "HOLD_FOCUS": "非常集中",
+      "PRICE": null,
+      "AVG_HOLD_AMT": null,
+      "HOLD_RATIO_TOTAL": 100,
+      "FREEHOLD_RATIO_TOTAL": null
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2025-12-11 00:00:00",
+      "HOLDER_TOTAL_NUM": 3,
+      "TOTAL_NUM_RATIO": 0,
+      "AVG_FREE_SHARES": null,
+      "AVG_FREESHARES_RATIO": null,
+      "HOLD_FOCUS": "非常集中",
+      "PRICE": null,
+      "AVG_HOLD_AMT": null,
+      "HOLD_RATIO_TOTAL": 100,
+      "FREEHOLD_RATIO_TOTAL": null
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2025-12-04 00:00:00",
+      "HOLDER_TOTAL_NUM": 3,
+      "TOTAL_NUM_RATIO": 0,
+      "AVG_FREE_SHARES": null,
+      "AVG_FREESHARES_RATIO": null,
+      "HOLD_FOCUS": "非常集中",
+      "PRICE": null,
+      "AVG_HOLD_AMT": null,
+      "HOLD_RATIO_TOTAL": 100,
+      "FREEHOLD_RATIO_TOTAL": null
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2025-09-29 00:00:00",
+      "HOLDER_TOTAL_NUM": 3,
+      "TOTAL_NUM_RATIO": 0,
+      "AVG_FREE_SHARES": null,
+      "AVG_FREESHARES_RATIO": null,
+      "HOLD_FOCUS": "非常集中",
+      "PRICE": null,
+      "AVG_HOLD_AMT": null,
+      "HOLD_RATIO_TOTAL": 100,
+      "FREEHOLD_RATIO_TOTAL": null
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2025-06-23 00:00:00",
+      "HOLDER_TOTAL_NUM": 3,
+      "TOTAL_NUM_RATIO": null,
+      "AVG_FREE_SHARES": null,
+      "AVG_FREESHARES_RATIO": null,
+      "HOLD_FOCUS": "非常集中",
+      "PRICE": null,
+      "AVG_HOLD_AMT": null,
+      "HOLD_RATIO_TOTAL": null,
+      "FREEHOLD_RATIO_TOTAL": null
+    }
+  ],
+  "sdltgd_date": [
+    {
+      "SECUCODE": "603284.SH",
+      "END_DATE": "2026-03-31 00:00:00"
+    }
+  ],
+  "sdgd_date": [
+    {
+      "SECUCODE": "603284.SH",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "END_DATE": "2026-02-10 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "END_DATE": "2026-01-22 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "END_DATE": "2025-12-11 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "END_DATE": "2025-12-04 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "END_DATE": "2025-09-29 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "END_DATE": "2025-06-23 00:00:00",
+      "IS_REPORTDATE": "0"
+    }
+  ],
+  "sjkzr": [
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "HOLDER_NAME": "李建设",
+      "HOLD_RATIO": 63.65
+    }
+  ],
+  "jgcc_date": [
+    {
+      "SECUCODE": "603284.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    }
+  ],
+  "sdgdcgbd": [],
+  "jjcg_date": [
+    {
+      "SECUCODE": "603284.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    }
+  ],
+  "xsjj": [
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "LIFT_DATE": "2026-08-10 00:00:00",
+      "LIFT_NUM": 380297,
+      "LIFT_TYPE": "首发机构配售股份",
+      "TOTAL_SHARES_RATIO": 0.5,
+      "UNLIMITED_A_SHARES_RATIO": 2.06
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "LIFT_DATE": "2027-02-12 00:00:00",
+      "LIFT_NUM": 6561100,
+      "LIFT_TYPE": "首发原股东限售股份",
+      "TOTAL_SHARES_RATIO": 8.7,
+      "UNLIMITED_A_SHARES_RATIO": 35.52
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "LIFT_DATE": "2029-02-19 00:00:00",
+      "LIFT_NUM": 50000000,
+      "LIFT_TYPE": "首发原股东限售股份",
+      "TOTAL_SHARES_RATIO": 66.3,
+      "UNLIMITED_A_SHARES_RATIO": 270.66
+    }
+  ],
+  "sdltgd": [
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 1,
+      "HOLDER_NAME": "彭声贵",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 183000,
+      "FREE_HOLDNUM_RATIO": 0.990613369935,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "UBS AG",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 159784,
+      "FREE_HOLDNUM_RATIO": 0.864940801649,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "邱玉芝",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 144422,
+      "FREE_HOLDNUM_RATIO": 0.781783410452,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "汪玲莉",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 124100,
+      "FREE_HOLDNUM_RATIO": 0.671776607699,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 109008,
+      "FREE_HOLDNUM_RATIO": 0.590080777213,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 108626,
+      "FREE_HOLDNUM_RATIO": 0.588012939468,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "范延新",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 100000,
+      "FREE_HOLDNUM_RATIO": 0.541318781385,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "胡娜丽",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 93000,
+      "FREE_HOLDNUM_RATIO": 0.503426466688,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "武永斌",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 90900,
+      "FREE_HOLDNUM_RATIO": 0.492058772279,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "林晓玲",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 90800,
+      "FREE_HOLDNUM_RATIO": 0.491517453498,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    }
+  ],
+  "ltgf": [
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLD_NUM_COUNT": 1203640,
+      "LIMITED_SHARES": 56941397,
+      "OTHER_UNLIMITED_SHARES": 17269763,
+      "HOLD_NUM_RATIO": 1.6,
+      "LIMITED_SHARES_RATIO": 75.5,
+      "UNLIMITED_SHARES_RATIO": 22.9
+    }
+  ],
+  "sdgd": [
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 1,
+      "HOLDER_NAME": "李建设",
+      "SHARES_TYPE": "限售流通A股",
+      "HOLD_NUM": 48000000,
+      "HOLD_NUM_RATIO": 63.65,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "萧县民基投资有限责任公司",
+      "SHARES_TYPE": "限售流通A股",
+      "HOLD_NUM": 6561100,
+      "HOLD_NUM_RATIO": 8.7,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "共青城浩腾投资合伙企业(有限合伙)",
+      "SHARES_TYPE": "限售流通A股",
+      "HOLD_NUM": 2000000,
+      "HOLD_NUM_RATIO": 2.65,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "彭声贵",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 183000,
+      "HOLD_NUM_RATIO": 0.24,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "UBS AG",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 159784,
+      "HOLD_NUM_RATIO": 0.21,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "邱玉芝",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 144422,
+      "HOLD_NUM_RATIO": 0.19,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "汪玲莉",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 124100,
+      "HOLD_NUM_RATIO": 0.16,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 109008,
+      "HOLD_NUM_RATIO": 0.14,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 108626,
+      "HOLD_NUM_RATIO": 0.14,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "范延新",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 100000,
+      "HOLD_NUM_RATIO": 0.13,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    }
+  ],
+  "jgcc": [
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "00",
+      "TOTAL_ORG_NUM": 17,
+      "TOTAL_FREE_SHARES": 378046,
+      "TOTAL_SHARES_RATIO": 2.04643403,
+      "ALL_SHARES_RATIO": 0.50128889
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "01",
+      "TOTAL_ORG_NUM": 14,
+      "TOTAL_FREE_SHARES": 628,
+      "TOTAL_SHARES_RATIO": 0.00339951,
+      "ALL_SHARES_RATIO": 0.00083275
+    },
+    {
+      "SECUCODE": "603284.SH",
+      "SECURITY_CODE": "603284",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 377418,
+      "TOTAL_SHARES_RATIO": 2.04303452,
+      "ALL_SHARES_RATIO": 0.50045614
+    }
+  ],
+  "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603284.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "023333",
+      "HOLDER_NAME": "金鹰中证A500指数发起A",
+      "TOTAL_SHARES": 132,
+      "HOLD_VALUE": 6157.8,
+      "TOTALSHARES_RATIO": 0.00017503,
+      "FREESHARES_RATIO": 0.00071454,
+      "FREE_MARKET_CAP": null,
+      "FREE_SHARES": 132,
+      "SECURITY_CODE": "603284",
+      "FUND_CODE": "023333",
+      "FUND_DERIVECODE": "023333.OF",
+      "NETVALUE_RATIO": 0
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603284.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "024906",
+      "HOLDER_NAME": "中加沪深300红利低波动指数A",
+      "TOTAL_SHARES": 98,
+      "HOLD_VALUE": 4571.7,
+      "TOTALSHARES_RATIO": 0.00012995,
+      "FREESHARES_RATIO": 0.00053049,
+      "FREE_MARKET_CAP": null,
+      "FREE_SHARES": 98,
+      "SECURITY_CODE": "603284",
+      "FUND_CODE": "024906",
+      "FUND_DERIVECODE": "024906.OF",
+      "NETVALUE_RATIO": 0
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603284.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "024225",
+      "HOLDER_NAME": "长城沪深300自由现金流指数A",
+      "TOTAL_SHARES": 46,
+      "HOLD_VALUE": 2145.9,
+      "TOTALSHARES_RATIO": 0.000061,
+      "FREESHARES_RATIO": 0.00024901,
+      "FREE_MARKET_CAP": null,
+      "FREE_SHARES": 46,
+      "SECURITY_CODE": "603284",
+      "FUND_CODE": "024225",
+      "FUND_DERIVECODE": "024225.OF",
+      "NETVALUE_RATIO": 0
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603284.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "560090",
+      "HOLDER_NAME": "汇添富中证全指证券公司ETF",
+      "TOTAL_SHARES": 46,
+      "HOLD_VALUE": 2145.9,
+      "TOTALSHARES_RATIO": 0.000061,
+      "FREESHARES_RATIO": 0.00024901,
+      "FREE_MARKET_CAP": null,
+      "FREE_SHARES": 46,
+      "SECURITY_CODE": "603284",
+      "FUND_CODE": "560090",
+      "FUND_DERIVECODE": "560090.SH",
+      "NETVALUE_RATIO": 0
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603284.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "516460",
+      "HOLDER_NAME": "鹏华中证800自由现金流ETF",
+      "TOTAL_SHARES": 46,
+      "HOLD_VALUE": 2145.9,
+      "TOTALSHARES_RATIO": 0.000061,
+      "FREESHARES_RATIO": 0.00024901,
+      "FREE_MARKET_CAP": null,
+      "FREE_SHARES": 46,
+      "SECURITY_CODE": "603284",
+      "FUND_CODE": "516460",
+      "FUND_DERIVECODE": "516460.SH",
+      "NETVALUE_RATIO": 0
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603284.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "160631",
+      "HOLDER_NAME": "鹏华中证银行指数(LOF)A",
+      "TOTAL_SHARES": 46,
+      "HOLD_VALUE": 2145.9,
+      "TOTALSHARES_RATIO": 0.000061,
+      "FREESHARES_RATIO": 0.00024901,
+      "FREE_MARKET_CAP": null,
+      "FREE_SHARES": 46,
+      "SECURITY_CODE": "603284",
+      "FUND_CODE": "160631",
+      "FUND_DERIVECODE": "160631.SZ",
+      "NETVALUE_RATIO": 0
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603284.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "159880",
+      "HOLDER_NAME": "鹏华国证有色金属行业ETF",
+      "TOTAL_SHARES": 46,
+      "HOLD_VALUE": 2145.9,
+      "TOTALSHARES_RATIO": 0.000061,
+      "FREESHARES_RATIO": 0.00024901,
+      "FREE_MARKET_CAP": null,
+      "FREE_SHARES": 46,
+      "SECURITY_CODE": "603284",
+      "FUND_CODE": "159880",
+      "FUND_DERIVECODE": "159880.SZ",
+      "NETVALUE_RATIO": 0
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603284.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "160620",
+      "HOLDER_NAME": "鹏华中证A股资源产业指数(LOF)A",
+      "TOTAL_SHARES": 36,
+      "HOLD_VALUE": 1679.4,
+      "TOTALSHARES_RATIO": 0.00004774,
+      "FREESHARES_RATIO": 0.00019487,
+      "FREE_MARKET_CAP": null,
+      "FREE_SHARES": 36,
+      "SECURITY_CODE": "603284",
+      "FUND_CODE": "160620",
+      "FUND_DERIVECODE": "160620.SZ",
+      "NETVALUE_RATIO": 0
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603284.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "021873",
+      "HOLDER_NAME": "中欧黄金股指数A",
+      "TOTAL_SHARES": 30,
+      "HOLD_VALUE": 1399.5,
+      "TOTALSHARES_RATIO": 0.00003978,
+      "FREESHARES_RATIO": 0.0001624,
+      "FREE_MARKET_CAP": null,
+      "FREE_SHARES": 30,
+      "SECURITY_CODE": "603284",
+      "FUND_CODE": "021873",
+      "FUND_DERIVECODE": "021873.OF",
+      "NETVALUE_RATIO": 0
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603284.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "510030",
+      "HOLDER_NAME": "上证180价值ETF",
+      "TOTAL_SHARES": 30,
+      "HOLD_VALUE": 1399.5,
+      "TOTALSHARES_RATIO": 0.00003978,
+      "FREESHARES_RATIO": 0.0001624,
+      "FREE_MARKET_CAP": null,
+      "FREE_SHARES": 30,
+      "SECURITY_CODE": "603284",
+      "FUND_CODE": "510030",
+      "FUND_DERIVECODE": "510030.SH",
+      "NETVALUE_RATIO": 0
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603284.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "025003",
+      "HOLDER_NAME": "泰信中证全指自由现金流指数A",
+      "TOTAL_SHARES": 24,
+      "HOLD_VALUE": 1119.6,
+      "TOTALSHARES_RATIO": 0.00003182,
+      "FREESHARES_RATIO": 0.00012992,
+      "FREE_MARKET_CAP": null,
+      "FREE_SHARES": 24,
+      "SECURITY_CODE": "603284",
+      "FUND_CODE": "025003",
+      "FUND_DERIVECODE": "025003.OF",
+      "NETVALUE_RATIO": 0
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603284.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "020251",
+      "HOLDER_NAME": "中银中证央企红利50指数A",
+      "TOTAL_SHARES": 18,
+      "HOLD_VALUE": 839.7,
+      "TOTALSHARES_RATIO": 0.00002387,
+      "FREESHARES_RATIO": 0.00009744,
+      "FREE_MARKET_CAP": null,
+      "FREE_SHARES": 18,
+      "SECURITY_CODE": "603284",
+      "FUND_CODE": "020251",
+      "FUND_DERIVECODE": "020251.OF",
+      "NETVALUE_RATIO": 0
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603284.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "159296",
+      "HOLDER_NAME": "华宝中证A500红利低波动ETF",
+      "TOTAL_SHARES": 15,
+      "HOLD_VALUE": 699.75,
+      "TOTALSHARES_RATIO": 0.00001989,
+      "FREESHARES_RATIO": 0.0000812,
+      "FREE_MARKET_CAP": null,
+      "FREE_SHARES": 15,
+      "SECURITY_CODE": "603284",
+      "FUND_CODE": "159296",
+      "FUND_DERIVECODE": "159296.SZ",
+      "NETVALUE_RATIO": 0
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603284.SH",
+      "REPORT_DATE": "2026-03-31 00:00:00",
+      "HOLDER_CODE": "562030",
+      "HOLDER_NAME": "华宝中证信息技术应用创新产业ETF",
+      "TOTAL_SHARES": 15,
+      "HOLD_VALUE": 699.75,
+      "TOTALSHARES_RATIO": 0.00001989,
+      "FREESHARES_RATIO": 0.0000812,
+      "FREE_MARKET_CAP": null,
+      "FREE_SHARES": 15,
+      "SECURITY_CODE": "603284",
+      "FUND_CODE": "562030",
+      "FUND_DERIVECODE": "562030.SH",
+      "NETVALUE_RATIO": 0
+    }
+  ]
+}
