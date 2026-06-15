@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "900915.SH",
+      "END_DATE": "2026-06-12 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "900915.SH",
       "END_DATE": "2026-03-31 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "900915.SH",
       "END_DATE": "2020-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "900915.SH",
-      "END_DATE": "2020-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -445,7 +445,19 @@
       "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-06-12 00:00:00",
+      "HOLDER_RANK": 1,
+      "HOLDER_NAME": "上海中路(集团)有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 22496300,
+      "HOLD_NUM_RATIO": 7,
+      "HOLD_CHANGE": "-162000",
+      "CHANGE_RATIO": -0.71496979,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [],
   "xsjj": [],
   "sdltgd": [
@@ -597,122 +609,14 @@
     {
       "SECUCODE": "900915.SH",
       "SECURITY_CODE": "900915",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-12 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海中路(集团)有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 22658300,
-      "HOLD_NUM_RATIO": 7.05,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "900915.SH",
-      "SECURITY_CODE": "900915",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "郭洪涛",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8347588,
-      "HOLD_NUM_RATIO": 2.6,
-      "HOLD_NUM_CHANGE": "219400",
-      "CHANGE_RATIO": 2.69924859
-    },
-    {
-      "SECUCODE": "900915.SH",
-      "SECURITY_CODE": "900915",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "刘斌",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5032900,
-      "HOLD_NUM_RATIO": 1.57,
-      "HOLD_NUM_CHANGE": "2186300",
-      "CHANGE_RATIO": 76.80390641
-    },
-    {
-      "SECUCODE": "900915.SH",
-      "SECURITY_CODE": "900915",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "李文武",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3343900,
-      "HOLD_NUM_RATIO": 1.04,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "900915.SH",
-      "SECURITY_CODE": "900915",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国银行股份有限公司-大成景恒混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2770000,
-      "HOLD_NUM_RATIO": 0.86,
-      "HOLD_NUM_CHANGE": "323600",
-      "CHANGE_RATIO": 13.22759974
-    },
-    {
-      "SECUCODE": "900915.SH",
-      "SECURITY_CODE": "900915",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "苏耀民",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2159940,
-      "HOLD_NUM_RATIO": 0.67,
-      "HOLD_NUM_CHANGE": "284700",
-      "CHANGE_RATIO": 15.1820567
-    },
-    {
-      "SECUCODE": "900915.SH",
-      "SECURITY_CODE": "900915",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "黄彪",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1888800,
-      "HOLD_NUM_RATIO": 0.59,
-      "HOLD_NUM_CHANGE": "465000",
-      "CHANGE_RATIO": 32.65908133
-    },
-    {
-      "SECUCODE": "900915.SH",
-      "SECURITY_CODE": "900915",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "唐武盛",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1633300,
-      "HOLD_NUM_RATIO": 0.51,
-      "HOLD_NUM_CHANGE": "-189000",
-      "CHANGE_RATIO": -10.37150853
-    },
-    {
-      "SECUCODE": "900915.SH",
-      "SECURITY_CODE": "900915",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1605800,
-      "HOLD_NUM_RATIO": 0.5,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "900915.SH",
-      "SECURITY_CODE": "900915",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "金凤",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1258300,
-      "HOLD_NUM_RATIO": 0.39,
-      "HOLD_NUM_CHANGE": "58400",
-      "CHANGE_RATIO": 4.86707226
+      "HOLD_NUM": 22496300,
+      "HOLD_NUM_RATIO": 7,
+      "HOLD_NUM_CHANGE": "-162000",
+      "CHANGE_RATIO": -0.71496979
     }
   ],
   "jgcc": [

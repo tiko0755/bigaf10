@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "300371.SZ",
+      "END_DATE": "2026-06-11 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300371.SZ",
       "END_DATE": "2026-03-31 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "300371.SZ",
       "END_DATE": "2016-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "300371.SZ",
-      "END_DATE": "2016-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -445,7 +445,41 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-06-11 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "易谋建",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2376100,
+      "HOLD_NUM_RATIO": 1.18,
+      "HOLD_CHANGE": "-1394400",
+      "CHANGE_RATIO": -36.98183265,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-06-11 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "张云华",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2182911,
+      "HOLD_NUM_RATIO": 1.08,
+      "HOLD_CHANGE": "32100",
+      "CHANGE_RATIO": 1.49246029,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-06-11 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "王健",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2068300,
+      "HOLD_NUM_RATIO": 1.03,
+      "HOLD_CHANGE": "20300",
+      "CHANGE_RATIO": 0.99121094,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "300371.SZ",
@@ -618,7 +652,7 @@
     {
       "SECUCODE": "300371.SZ",
       "SECURITY_CODE": "300371",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-11 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "张力新",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -630,7 +664,7 @@
     {
       "SECUCODE": "300371.SZ",
       "SECURITY_CODE": "300371",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-11 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "王永存",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +676,7 @@
     {
       "SECUCODE": "300371.SZ",
       "SECURITY_CODE": "300371",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-11 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "张继川",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -654,7 +688,7 @@
     {
       "SECUCODE": "300371.SZ",
       "SECURITY_CODE": "300371",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-11 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "许文芝",
       "SHARES_TYPE": "流通A股",
@@ -666,19 +700,19 @@
     {
       "SECUCODE": "300371.SZ",
       "SECURITY_CODE": "300371",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-11 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "董建国",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4495501,
       "HOLD_NUM_RATIO": 2.23,
-      "HOLD_NUM_CHANGE": "-1029300",
-      "CHANGE_RATIO": -18.63053529
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300371.SZ",
       "SECURITY_CODE": "300371",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-11 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "刘健胤",
       "SHARES_TYPE": "流通A股",
@@ -690,20 +724,8 @@
     {
       "SECUCODE": "300371.SZ",
       "SECURITY_CODE": "300371",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-11 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "易谋建",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3770500,
-      "HOLD_NUM_RATIO": 1.87,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300371.SZ",
-      "SECURITY_CODE": "300371",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "刘春华",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3000495,
@@ -714,26 +736,38 @@
     {
       "SECUCODE": "300371.SZ",
       "SECURITY_CODE": "300371",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "张云华",
+      "END_DATE": "2026-06-11 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "易谋建",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2150811,
-      "HOLD_NUM_RATIO": 1.07,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2376100,
+      "HOLD_NUM_RATIO": 1.18,
+      "HOLD_NUM_CHANGE": "-1394400",
+      "CHANGE_RATIO": -36.98183265
     },
     {
       "SECUCODE": "300371.SZ",
       "SECURITY_CODE": "300371",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-11 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "张云华",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2182911,
+      "HOLD_NUM_RATIO": 1.08,
+      "HOLD_NUM_CHANGE": "32100",
+      "CHANGE_RATIO": 1.49246029
+    },
+    {
+      "SECUCODE": "300371.SZ",
+      "SECURITY_CODE": "300371",
+      "END_DATE": "2026-06-11 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "王健",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2048000,
-      "HOLD_NUM_RATIO": 1.02,
-      "HOLD_NUM_CHANGE": "-196200",
-      "CHANGE_RATIO": -8.74253632
+      "HOLD_NUM": 2068300,
+      "HOLD_NUM_RATIO": 1.03,
+      "HOLD_NUM_CHANGE": "20300",
+      "CHANGE_RATIO": 0.99121094
     }
   ],
   "jgcc": [
