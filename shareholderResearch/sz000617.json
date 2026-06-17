@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "000617.SZ",
+      "END_DATE": "2026-06-15 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "000617.SZ",
       "END_DATE": "2026-03-31 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "000617.SZ",
       "END_DATE": "2014-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000617.SZ",
-      "END_DATE": "2014-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -420,7 +420,7 @@
       "SECUCODE": "000617.SZ",
       "SECURITY_CODE": "000617",
       "HOLDER_NAME": "中国石油天然气集团有限公司",
-      "HOLD_RATIO": 77.35
+      "HOLD_RATIO": 74.35
     }
   ],
   "jgcc_date": [
@@ -445,7 +445,19 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-06-15 00:00:00",
+      "HOLDER_RANK": 1,
+      "HOLDER_NAME": "中国石油天然气集团有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 9399577280,
+      "HOLD_NUM_RATIO": 74.35,
+      "HOLD_CHANGE": "-379262372",
+      "CHANGE_RATIO": -3.87839852,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "000617.SZ",
@@ -618,122 +630,14 @@
     {
       "SECUCODE": "000617.SZ",
       "SECURITY_CODE": "000617",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-15 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国石油天然气集团有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9778839652,
-      "HOLD_NUM_RATIO": 77.35,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000617.SZ",
-      "SECURITY_CODE": "000617",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "中国石油集团济柴动力有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 241532928,
-      "HOLD_NUM_RATIO": 1.91,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000617.SZ",
-      "SECURITY_CODE": "000617",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "北京市燃气集团有限责任公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 181318455,
-      "HOLD_NUM_RATIO": 1.43,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000617.SZ",
-      "SECURITY_CODE": "000617",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "海峡能源产业基金管理(厦门)有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 96127455,
-      "HOLD_NUM_RATIO": 0.76,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000617.SZ",
-      "SECURITY_CODE": "000617",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 81852018,
-      "HOLD_NUM_RATIO": 0.65,
-      "HOLD_NUM_CHANGE": "-3941064",
-      "CHANGE_RATIO": -4.59368507
-    },
-    {
-      "SECUCODE": "000617.SZ",
-      "SECURITY_CODE": "000617",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "杨宏",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 50424909,
-      "HOLD_NUM_RATIO": 0.4,
-      "HOLD_NUM_CHANGE": "5119034",
-      "CHANGE_RATIO": 11.29883045
-    },
-    {
-      "SECUCODE": "000617.SZ",
-      "SECURITY_CODE": "000617",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 20342707,
-      "HOLD_NUM_RATIO": 0.16,
-      "HOLD_NUM_CHANGE": "-21693100",
-      "CHANGE_RATIO": -51.60624132
-    },
-    {
-      "SECUCODE": "000617.SZ",
-      "SECURITY_CODE": "000617",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国建设银行股份有限公司-易方达沪深300非银行金融交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 17315300,
-      "HOLD_NUM_RATIO": 0.14,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000617.SZ",
-      "SECURITY_CODE": "000617",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "颜尚崇",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 14617693,
-      "HOLD_NUM_RATIO": 0.12,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000617.SZ",
-      "SECURITY_CODE": "000617",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国建设银行股份有限公司-易方达沪深300交易型开放式指数发起式证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 14142380,
-      "HOLD_NUM_RATIO": 0.11,
-      "HOLD_NUM_CHANGE": "-15651500",
-      "CHANGE_RATIO": -52.53260065
+      "HOLD_NUM": 9399577280,
+      "HOLD_NUM_RATIO": 74.35,
+      "HOLD_NUM_CHANGE": "-379262372",
+      "CHANGE_RATIO": -3.87839852
     }
   ],
   "jgcc": [
