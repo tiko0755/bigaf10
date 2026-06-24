@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "601005.SH",
+      "END_DATE": "2026-06-22 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "601005.SH",
       "END_DATE": "2026-03-31 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "601005.SH",
       "END_DATE": "2015-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "601005.SH",
-      "END_DATE": "2015-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -420,7 +420,7 @@
       "SECUCODE": "601005.SH",
       "SECURITY_CODE": "601005",
       "HOLDER_NAME": "中国宝武钢铁集团有限公司",
-      "HOLD_RATIO": 1.47
+      "HOLD_RATIO": 1.35
     }
   ],
   "jgcc_date": [
@@ -445,7 +445,41 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-06-22 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "华宝投资有限公司",
+      "SHARES_TYPE": "流通A股,限售流通A股",
+      "HOLD_NUM": 895035437,
+      "HOLD_NUM_RATIO": 9.31,
+      "HOLD_CHANGE": "757575757",
+      "CHANGE_RATIO": 551.12579703,
+      "CHANGE_REASON": "增发上市"
+    },
+    {
+      "END_DATE": "2026-06-22 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "HKSCC NOMINEES LIMITED",
+      "SHARES_TYPE": "流通H股",
+      "HOLD_NUM": 533680091,
+      "HOLD_NUM_RATIO": 5.55,
+      "HOLD_CHANGE": "-50200",
+      "CHANGE_RATIO": -0.0094055,
+      "CHANGE_REASON": "增发上市"
+    },
+    {
+      "END_DATE": "2026-06-22 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "重庆市城市建设投资(集团)有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 262450859,
+      "HOLD_NUM_RATIO": 2.73,
+      "HOLD_CHANGE": "-15837200",
+      "CHANGE_RATIO": -5.69093768,
+      "CHANGE_REASON": "增发上市"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "601005.SH",
@@ -468,7 +502,17 @@
       "REPORT_DATE": "2024-06-30 00:00:00"
     }
   ],
-  "xsjj": [],
+  "xsjj": [
+    {
+      "SECUCODE": "601005.SH",
+      "SECURITY_CODE": "601005",
+      "LIFT_DATE": "2029-06-22 00:00:00",
+      "LIFT_NUM": 757575757,
+      "LIFT_TYPE": "定向增发机构配售股份",
+      "TOTAL_SHARES_RATIO": 7.88,
+      "UNLIMITED_A_SHARES_RATIO": 9.11
+    }
+  ],
   "sdltgd": [
     {
       "SECUCODE": "601005.SH",
@@ -618,120 +662,120 @@
     {
       "SECUCODE": "601005.SH",
       "SECURITY_CODE": "601005",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-22 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "重庆长寿钢铁有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2096981600,
-      "HOLD_NUM_RATIO": 23.69,
+      "HOLD_NUM_RATIO": 21.82,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601005.SH",
       "SECURITY_CODE": "601005",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-22 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "HKSCC NOMINEES LIMITED",
-      "SHARES_TYPE": "流通H股",
-      "HOLD_NUM": 533730291,
-      "HOLD_NUM_RATIO": 6.03,
-      "HOLD_NUM_CHANGE": "2600",
-      "CHANGE_RATIO": 0.00048714
+      "HOLDER_NAME": "华宝投资有限公司",
+      "SHARES_TYPE": "流通A股,限售流通A股",
+      "HOLD_NUM": 895035437,
+      "HOLD_NUM_RATIO": 9.31,
+      "HOLD_NUM_CHANGE": "757575757",
+      "CHANGE_RATIO": 551.12579703
     },
     {
       "SECUCODE": "601005.SH",
       "SECURITY_CODE": "601005",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-22 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "HKSCC NOMINEES LIMITED",
+      "SHARES_TYPE": "流通H股",
+      "HOLD_NUM": 533680091,
+      "HOLD_NUM_RATIO": 5.55,
+      "HOLD_NUM_CHANGE": "-50200",
+      "CHANGE_RATIO": -0.0094055
+    },
+    {
+      "SECUCODE": "601005.SH",
+      "SECURITY_CODE": "601005",
+      "END_DATE": "2026-06-22 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "重庆农村商业银行股份有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 289268939,
-      "HOLD_NUM_RATIO": 3.27,
+      "HOLD_NUM_RATIO": 3.01,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601005.SH",
       "SECURITY_CODE": "601005",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-06-22 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "重庆市城市建设投资(集团)有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 278288059,
-      "HOLD_NUM_RATIO": 3.14,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 262450859,
+      "HOLD_NUM_RATIO": 2.73,
+      "HOLD_NUM_CHANGE": "-15837200",
+      "CHANGE_RATIO": -5.69093768
     },
     {
       "SECUCODE": "601005.SH",
       "SECURITY_CODE": "601005",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-06-22 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "重庆银行股份有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 226042920,
-      "HOLD_NUM_RATIO": 2.55,
+      "HOLD_NUM_RATIO": 2.35,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601005.SH",
       "SECURITY_CODE": "601005",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-06-22 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "宝武集团中南钢铁有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 224831743,
-      "HOLD_NUM_RATIO": 2.54,
+      "HOLD_NUM_RATIO": 2.34,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601005.SH",
       "SECURITY_CODE": "601005",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-06-22 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "中船工业成套物流有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 211461370,
-      "HOLD_NUM_RATIO": 2.39,
+      "HOLD_NUM_RATIO": 2.2,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601005.SH",
       "SECURITY_CODE": "601005",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-06-22 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "重庆千信外经贸集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 171490070,
-      "HOLD_NUM_RATIO": 1.94,
-      "HOLD_NUM_CHANGE": "-255705690",
-      "CHANGE_RATIO": -59.85679493
-    },
-    {
-      "SECUCODE": "601005.SH",
-      "SECURITY_CODE": "601005",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "华宝投资有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 137459680,
-      "HOLD_NUM_RATIO": 1.55,
+      "HOLD_NUM_RATIO": 1.78,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601005.SH",
       "SECURITY_CODE": "601005",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-22 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "中国宝武钢铁集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 129815901,
-      "HOLD_NUM_RATIO": 1.47,
+      "HOLD_NUM_RATIO": 1.35,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }

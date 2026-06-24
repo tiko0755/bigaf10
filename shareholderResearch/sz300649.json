@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "300649.SZ",
+      "END_DATE": "2026-06-22 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300649.SZ",
       "END_DATE": "2026-03-31 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -408,19 +413,14 @@
       "SECUCODE": "300649.SZ",
       "END_DATE": "2022-11-25 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300649.SZ",
-      "END_DATE": "2022-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
     {
       "SECUCODE": "300649.SZ",
       "SECURITY_CODE": "300649",
-      "HOLDER_NAME": "葛荣,何韦,吕明华,童存志,李永红,高艳",
-      "HOLD_RATIO": 25.47
+      "HOLDER_NAME": null,
+      "HOLD_RATIO": null
     }
   ],
   "jgcc_date": [
@@ -445,7 +445,30 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-06-22 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "俞丽娟",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3782770,
+      "HOLD_NUM_RATIO": 2.86,
+      "HOLD_CHANGE": "-369900",
+      "CHANGE_RATIO": -8.90752215,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-06-22 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "杭州鸿园企业管理有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3333933,
+      "HOLD_NUM_RATIO": 2.52,
+      "HOLD_CHANGE": "-364000",
+      "CHANGE_RATIO": -9.8433368,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "300649.SZ",
@@ -618,7 +641,7 @@
     {
       "SECUCODE": "300649.SZ",
       "SECURITY_CODE": "300649",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-22 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "葛荣",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -630,7 +653,7 @@
     {
       "SECUCODE": "300649.SZ",
       "SECURITY_CODE": "300649",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-22 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "何韦",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -642,7 +665,7 @@
     {
       "SECUCODE": "300649.SZ",
       "SECURITY_CODE": "300649",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-22 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "杭州园展企业管理有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +677,7 @@
     {
       "SECUCODE": "300649.SZ",
       "SECURITY_CODE": "300649",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-22 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "吕明华",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -666,44 +689,32 @@
     {
       "SECUCODE": "300649.SZ",
       "SECURITY_CODE": "300649",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-22 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "俞丽娟",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4152670,
-      "HOLD_NUM_RATIO": 3.14,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3782770,
+      "HOLD_NUM_RATIO": 2.86,
+      "HOLD_NUM_CHANGE": "-369900",
+      "CHANGE_RATIO": -8.90752215
     },
     {
       "SECUCODE": "300649.SZ",
       "SECURITY_CODE": "300649",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-22 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "杭州鸿园企业管理有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3697933,
-      "HOLD_NUM_RATIO": 2.79,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3333933,
+      "HOLD_NUM_RATIO": 2.52,
+      "HOLD_NUM_CHANGE": "-364000",
+      "CHANGE_RATIO": -9.8433368
     },
     {
       "SECUCODE": "300649.SZ",
       "SECURITY_CODE": "300649",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-22 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "蒋尧飞",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3452500,
-      "HOLD_NUM_RATIO": 2.61,
-      "HOLD_NUM_CHANGE": "88000",
-      "CHANGE_RATIO": 2.61554466
-    },
-    {
-      "SECUCODE": "300649.SZ",
-      "SECURITY_CODE": "300649",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "童存志",
       "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 2999195,
@@ -714,25 +725,37 @@
     {
       "SECUCODE": "300649.SZ",
       "SECURITY_CODE": "300649",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "周红",
+      "END_DATE": "2026-06-22 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "高盛公司有限责任公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2704950,
-      "HOLD_NUM_RATIO": 2.04,
+      "HOLD_NUM": 2580518,
+      "HOLD_NUM_RATIO": 1.95,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300649.SZ",
+      "SECURITY_CODE": "300649",
+      "END_DATE": "2026-06-22 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "郑文",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2410000,
+      "HOLD_NUM_RATIO": 1.82,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300649.SZ",
       "SECURITY_CODE": "300649",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-22 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "郑文",
+      "HOLDER_NAME": "邓冶",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2410000,
-      "HOLD_NUM_RATIO": 1.82,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 2371080,
+      "HOLD_NUM_RATIO": 1.79,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
