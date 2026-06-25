@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "000651.SZ",
+      "END_DATE": "2026-06-23 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "000651.SZ",
       "END_DATE": "2026-06-04 00:00:00",
       "IS_REPORTDATE": "0"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "000651.SZ",
       "END_DATE": "2018-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000651.SZ",
-      "END_DATE": "2018-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -446,6 +446,39 @@
     }
   ],
   "sdgdcgbd": [
+    {
+      "END_DATE": "2026-06-23 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 182366577,
+      "HOLD_NUM_RATIO": 3.26,
+      "HOLD_CHANGE": "3100149",
+      "CHANGE_RATIO": 1.7293528,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-06-23 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国证券金融股份有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 77294508,
+      "HOLD_NUM_RATIO": 1.38,
+      "HOLD_CHANGE": "-63492689",
+      "CHANGE_RATIO": -45.09834016,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-06-23 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "瑞众人寿保险有限责任公司-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 40184580,
+      "HOLD_NUM_RATIO": 0.72,
+      "HOLD_CHANGE": "134800",
+      "CHANGE_RATIO": 0.33658112,
+      "CHANGE_REASON": "临时公告"
+    },
     {
       "END_DATE": "2026-06-04 00:00:00",
       "HOLDER_RANK": 1,
@@ -663,25 +696,121 @@
     {
       "SECUCODE": "000651.SZ",
       "SECURITY_CODE": "000651",
-      "END_DATE": "2026-06-04 00:00:00",
+      "END_DATE": "2026-06-23 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "珠海明骏投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 859566532,
-      "HOLD_NUM_RATIO": 15.3456,
-      "HOLD_NUM_CHANGE": "-42793100",
-      "CHANGE_RATIO": -4.74235532
+      "HOLD_NUM_RATIO": 15.35,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000651.SZ",
       "SECURITY_CODE": "000651",
-      "END_DATE": "2026-06-04 00:00:00",
+      "END_DATE": "2026-06-23 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "京海互联网科技发展有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 438825662,
       "HOLD_NUM_RATIO": 7.83,
       "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000651.SZ",
+      "SECURITY_CODE": "000651",
+      "END_DATE": "2026-06-23 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "珠海格力集团有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 193895992,
+      "HOLD_NUM_RATIO": 3.46,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000651.SZ",
+      "SECURITY_CODE": "000651",
+      "END_DATE": "2026-06-23 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 182366577,
+      "HOLD_NUM_RATIO": 3.26,
+      "HOLD_NUM_CHANGE": "3100149",
+      "CHANGE_RATIO": 1.7293528
+    },
+    {
+      "SECUCODE": "000651.SZ",
+      "SECURITY_CODE": "000651",
+      "END_DATE": "2026-06-23 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "董明珠",
+      "SHARES_TYPE": "流通A股,限售流通A股",
+      "HOLD_NUM": 112486665,
+      "HOLD_NUM_RATIO": 2.01,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000651.SZ",
+      "SECURITY_CODE": "000651",
+      "END_DATE": "2026-06-23 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国证券金融股份有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 77294508,
+      "HOLD_NUM_RATIO": 1.38,
+      "HOLD_NUM_CHANGE": "-63492689",
+      "CHANGE_RATIO": -45.09834016
+    },
+    {
+      "SECUCODE": "000651.SZ",
+      "SECURITY_CODE": "000651",
+      "END_DATE": "2026-06-23 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中邮人寿保险股份有限公司-传统保险",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 55948996,
+      "HOLD_NUM_RATIO": 1,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000651.SZ",
+      "SECURITY_CODE": "000651",
+      "END_DATE": "2026-06-23 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "瑞众人寿保险有限责任公司-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 40184580,
+      "HOLD_NUM_RATIO": 0.72,
+      "HOLD_NUM_CHANGE": "134800",
+      "CHANGE_RATIO": 0.33658112
+    },
+    {
+      "SECUCODE": "000651.SZ",
+      "SECURITY_CODE": "000651",
+      "END_DATE": "2026-06-23 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "阳光人寿保险股份有限公司-传统保险产品",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 36637729,
+      "HOLD_NUM_RATIO": 0.65,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000651.SZ",
+      "SECURITY_CODE": "000651",
+      "END_DATE": "2026-06-23 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "珠海格力电器股份有限公司-第三期员工持股计划",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 32619450,
+      "HOLD_NUM_RATIO": 0.58,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
