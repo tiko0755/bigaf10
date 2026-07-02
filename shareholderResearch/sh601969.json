@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "601969.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "601969.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "601969.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "601969.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "601969.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
     {
       "SECUCODE": "601969.SH",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "601969.SH",
       "END_DATE": "2021-08-10 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "601969.SH",
-      "END_DATE": "2021-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "601969.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
     {
       "SECUCODE": "601969.SH",
       "REPORT_DATE": "2026-03-31 00:00:00"
@@ -439,13 +443,53 @@
     {
       "SECUCODE": "601969.SH",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "601969.SH",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [
+    {
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 15295173,
+      "HOLD_NUM_RATIO": 0.77,
+      "HOLD_CHANGE": "4753365",
+      "CHANGE_RATIO": 45.09060495,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "翁伟豪",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5999900,
+      "HOLD_NUM_RATIO": 0.3,
+      "HOLD_CHANGE": "2400000",
+      "CHANGE_RATIO": 66.66851857,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "刘琼林",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3133089,
+      "HOLD_NUM_RATIO": 0.16,
+      "HOLD_CHANGE": "-16300",
+      "CHANGE_RATIO": -0.51756071,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "毛玉宏",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3031000,
+      "HOLD_NUM_RATIO": 0.15,
+      "HOLD_CHANGE": "305000",
+      "CHANGE_RATIO": 11.18855466,
+      "CHANGE_REASON": "临时公告"
+    },
     {
       "END_DATE": "2026-01-28 00:00:00",
       "HOLDER_RANK": 4,
@@ -577,7 +621,7 @@
     {
       "SECUCODE": "601969.SH",
       "SECURITY_CODE": "601969",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海复星高科技(集团)有限公司",
       "HOLDER_TYPE": "其它",
@@ -590,7 +634,7 @@
     {
       "SECUCODE": "601969.SH",
       "SECURITY_CODE": "601969",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "海南海钢集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -603,7 +647,7 @@
     {
       "SECUCODE": "601969.SH",
       "SECURITY_CODE": "601969",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "海南省国有资本运营有限公司",
       "HOLDER_TYPE": "其它",
@@ -616,260 +660,260 @@
     {
       "SECUCODE": "601969.SH",
       "SECURITY_CODE": "601969",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10541808,
-      "FREE_HOLDNUM_RATIO": 0.534445271213,
-      "HOLD_NUM_CHANGE": "-3648414",
-      "CHANGE_RATIO": -25.71076055
+      "HOLD_NUM": 15295173,
+      "FREE_HOLDNUM_RATIO": 0.775429877137,
+      "HOLD_NUM_CHANGE": "4753365",
+      "CHANGE_RATIO": 45.09060495
     },
     {
       "SECUCODE": "601969.SH",
       "SECURITY_CODE": "601969",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "招商银行股份有限公司-国泰中证钢铁交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "高盛国际-自有资金",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5148369,
-      "FREE_HOLDNUM_RATIO": 0.26101039466,
-      "HOLD_NUM_CHANGE": "-1792669",
-      "CHANGE_RATIO": -25.82710252
-    },
-    {
-      "SECUCODE": "601969.SH",
-      "SECURITY_CODE": "601969",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国邮政储蓄银行股份有限公司-国泰中证油气产业交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4180700,
-      "FREE_HOLDNUM_RATIO": 0.211951815605,
+      "HOLD_NUM": 7195420,
+      "FREE_HOLDNUM_RATIO": 0.364791143359,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601969.SH",
       "SECURITY_CODE": "601969",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "翁伟豪",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3599900,
-      "FREE_HOLDNUM_RATIO": 0.182506599612,
-      "HOLD_NUM_CHANGE": "-2000000",
-      "CHANGE_RATIO": -35.71492348
+      "HOLD_NUM": 5999900,
+      "FREE_HOLDNUM_RATIO": 0.304181045865,
+      "HOLD_NUM_CHANGE": "2400000",
+      "CHANGE_RATIO": 66.66851857
     },
     {
       "SECUCODE": "601969.SH",
       "SECURITY_CODE": "601969",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "海南矿业股份有限公司回购专用证券账户",
+      "HOLDER_TYPE": "证券账户",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5544865,
+      "FREE_HOLDNUM_RATIO": 0.281111824344,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "601969.SH",
+      "SECURITY_CODE": "601969",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "黄化",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3680700,
+      "FREE_HOLDNUM_RATIO": 0.186602972636,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "601969.SH",
+      "SECURITY_CODE": "601969",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "刘琼林",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3149389,
-      "FREE_HOLDNUM_RATIO": 0.159666734422,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3133089,
+      "FREE_HOLDNUM_RATIO": 0.158840362141,
+      "HOLD_NUM_CHANGE": "-16300",
+      "CHANGE_RATIO": -0.51756071
     },
     {
       "SECUCODE": "601969.SH",
       "SECURITY_CODE": "601969",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "毛玉宏",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2726000,
-      "FREE_HOLDNUM_RATIO": 0.13820189187,
-      "HOLD_NUM_CHANGE": "-20000",
-      "CHANGE_RATIO": -0.72833212
-    },
-    {
-      "SECUCODE": "601969.SH",
-      "SECURITY_CODE": "601969",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "栾石",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2528000,
-      "FREE_HOLDNUM_RATIO": 0.128163750054,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3031000,
+      "FREE_HOLDNUM_RATIO": 0.153664686081,
+      "HOLD_NUM_CHANGE": "305000",
+      "CHANGE_RATIO": 11.18855466
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "601969.SH",
       "SECURITY_CODE": "601969",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 1563989352,
-      "LIMITED_SHARES": 19455135,
-      "OTHER_UNLIMITED_SHARES": 408487264,
-      "HOLD_NUM_RATIO": 78.52,
-      "LIMITED_SHARES_RATIO": 0.98,
-      "UNLIMITED_SHARES_RATIO": 20.51
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 1575995333,
+      "LIMITED_SHARES": 12032735,
+      "OTHER_UNLIMITED_SHARES": 396481283,
+      "HOLD_NUM_RATIO": 79.41,
+      "LIMITED_SHARES_RATIO": 0.61,
+      "UNLIMITED_SHARES_RATIO": 19.98
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "601969.SH",
       "SECURITY_CODE": "601969",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海复星高科技(集团)有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 949056507,
-      "HOLD_NUM_RATIO": 47.65,
+      "HOLD_NUM_RATIO": 47.82,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601969.SH",
       "SECURITY_CODE": "601969",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "海南海钢集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 482119679,
-      "HOLD_NUM_RATIO": 24.2,
+      "HOLD_NUM_RATIO": 24.29,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601969.SH",
       "SECURITY_CODE": "601969",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "海南省国有资本运营有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 100939000,
-      "HOLD_NUM_RATIO": 5.07,
+      "HOLD_NUM_RATIO": 5.09,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601969.SH",
       "SECURITY_CODE": "601969",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10541808,
-      "HOLD_NUM_RATIO": 0.53,
-      "HOLD_NUM_CHANGE": "-3648414",
-      "CHANGE_RATIO": -25.71076055
+      "HOLD_NUM": 15295173,
+      "HOLD_NUM_RATIO": 0.77,
+      "HOLD_NUM_CHANGE": "4753365",
+      "CHANGE_RATIO": 45.09060495
     },
     {
       "SECUCODE": "601969.SH",
       "SECURITY_CODE": "601969",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "招商银行股份有限公司-国泰中证钢铁交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "高盛国际-自有资金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5148369,
-      "HOLD_NUM_RATIO": 0.26,
-      "HOLD_NUM_CHANGE": "-1792669",
-      "CHANGE_RATIO": -25.82710252
-    },
-    {
-      "SECUCODE": "601969.SH",
-      "SECURITY_CODE": "601969",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国邮政储蓄银行股份有限公司-国泰中证油气产业交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4180700,
-      "HOLD_NUM_RATIO": 0.21,
+      "HOLD_NUM": 7195420,
+      "HOLD_NUM_RATIO": 0.36,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601969.SH",
       "SECURITY_CODE": "601969",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "翁伟豪",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3599900,
-      "HOLD_NUM_RATIO": 0.18,
-      "HOLD_NUM_CHANGE": "-2000000",
-      "CHANGE_RATIO": -35.71492348
+      "HOLD_NUM": 5999900,
+      "HOLD_NUM_RATIO": 0.3,
+      "HOLD_NUM_CHANGE": "2400000",
+      "CHANGE_RATIO": 66.66851857
     },
     {
       "SECUCODE": "601969.SH",
       "SECURITY_CODE": "601969",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "海南矿业股份有限公司回购专用证券账户",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5544865,
+      "HOLD_NUM_RATIO": 0.28,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "601969.SH",
+      "SECURITY_CODE": "601969",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "黄化",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3680700,
+      "HOLD_NUM_RATIO": 0.19,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "601969.SH",
+      "SECURITY_CODE": "601969",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "刘琼林",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3149389,
+      "HOLD_NUM": 3133089,
       "HOLD_NUM_RATIO": 0.16,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM_CHANGE": "-16300",
+      "CHANGE_RATIO": -0.51756071
     },
     {
       "SECUCODE": "601969.SH",
       "SECURITY_CODE": "601969",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "毛玉宏",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2726000,
-      "HOLD_NUM_RATIO": 0.14,
-      "HOLD_NUM_CHANGE": "-20000",
-      "CHANGE_RATIO": -0.72833212
-    },
-    {
-      "SECUCODE": "601969.SH",
-      "SECURITY_CODE": "601969",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "栾石",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2528000,
-      "HOLD_NUM_RATIO": 0.13,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3031000,
+      "HOLD_NUM_RATIO": 0.15,
+      "HOLD_NUM_CHANGE": "305000",
+      "CHANGE_RATIO": 11.18855466
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "601969.SH",
       "SECURITY_CODE": "601969",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
       "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 1551986063,
-      "TOTAL_SHARES_RATIO": 78.682102,
-      "ALL_SHARES_RATIO": 77.91361637
+      "TOTAL_FREE_SHARES": 1560150644,
+      "TOTAL_SHARES_RATIO": 79.09602736,
+      "ALL_SHARES_RATIO": 78.61644206
     },
     {
       "SECUCODE": "601969.SH",
       "SECURITY_CODE": "601969",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 9329069,
-      "TOTAL_SHARES_RATIO": 0.47296221,
-      "ALL_SHARES_RATIO": 0.4683428
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 7195420,
+      "TOTAL_SHARES_RATIO": 0.36479114,
+      "ALL_SHARES_RATIO": 0.36257929
     },
     {
       "SECUCODE": "601969.SH",
       "SECURITY_CODE": "601969",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 1542656994,
-      "TOTAL_SHARES_RATIO": 78.20913979,
-      "ALL_SHARES_RATIO": 77.44527357
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 1552955224,
+      "TOTAL_SHARES_RATIO": 78.73123622,
+      "ALL_SHARES_RATIO": 78.25386277
     }
   ],
   "jjcg": [
