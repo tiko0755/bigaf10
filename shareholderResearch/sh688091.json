@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "688091.SH",
+      "END_DATE": "2026-07-01 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "688091.SH",
       "END_DATE": "2026-03-31 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -350,7 +355,30 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-07-01 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "李峰",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6629930,
+      "HOLD_NUM_RATIO": 3.21,
+      "HOLD_CHANGE": "-207805",
+      "CHANGE_RATIO": -3.03909116,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-07-01 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "李循",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5562636,
+      "HOLD_NUM_RATIO": 2.69,
+      "HOLD_CHANGE": "-474800",
+      "CHANGE_RATIO": -7.86426556,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "688091.SH",
@@ -523,7 +551,7 @@
     {
       "SECUCODE": "688091.SH",
       "SECURITY_CODE": "688091",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-01 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "周劲松",
       "SHARES_TYPE": "流通A股",
@@ -535,7 +563,7 @@
     {
       "SECUCODE": "688091.SH",
       "SECURITY_CODE": "688091",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-01 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "上海凯宝药业股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -547,7 +575,7 @@
     {
       "SECUCODE": "688091.SH",
       "SECURITY_CODE": "688091",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-01 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "上海杉元企业管理合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -559,7 +587,7 @@
     {
       "SECUCODE": "688091.SH",
       "SECURITY_CODE": "688091",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-01 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "李端",
       "SHARES_TYPE": "流通A股",
@@ -571,32 +599,44 @@
     {
       "SECUCODE": "688091.SH",
       "SECURITY_CODE": "688091",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-01 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "李峰",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6837735,
-      "HOLD_NUM_RATIO": 3.31,
-      "HOLD_NUM_CHANGE": "-163545",
-      "CHANGE_RATIO": -2.33593
+      "HOLD_NUM": 6629930,
+      "HOLD_NUM_RATIO": 3.21,
+      "HOLD_NUM_CHANGE": "-207805",
+      "CHANGE_RATIO": -3.03909116
     },
     {
       "SECUCODE": "688091.SH",
       "SECURITY_CODE": "688091",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-01 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "李循",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6037436,
-      "HOLD_NUM_RATIO": 2.92,
-      "HOLD_NUM_CHANGE": "-703550",
-      "CHANGE_RATIO": -10.43690048
+      "HOLD_NUM": 5562636,
+      "HOLD_NUM_RATIO": 2.69,
+      "HOLD_NUM_CHANGE": "-474800",
+      "CHANGE_RATIO": -7.86426556
     },
     {
       "SECUCODE": "688091.SH",
       "SECURITY_CODE": "688091",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-01 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "杨云",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5200000,
+      "HOLD_NUM_RATIO": 2.52,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688091.SH",
+      "SECURITY_CODE": "688091",
+      "END_DATE": "2026-07-01 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "宁波多缔德商贸合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3924526,
@@ -607,36 +647,24 @@
     {
       "SECUCODE": "688091.SH",
       "SECURITY_CODE": "688091",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "张亚萍",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3268888,
-      "HOLD_NUM_RATIO": 1.58,
-      "HOLD_NUM_CHANGE": "-531112",
-      "CHANGE_RATIO": -13.97663158
-    },
-    {
-      "SECUCODE": "688091.SH",
-      "SECURITY_CODE": "688091",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-01 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "上海贤昱投资中心(有限合伙)",
+      "HOLDER_NAME": "上海廷颐投资有限公司-廷颐成长1号私募基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2860000,
-      "HOLD_NUM_RATIO": 1.38,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 3000000,
+      "HOLD_NUM_RATIO": 1.45,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688091.SH",
       "SECURITY_CODE": "688091",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-01 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "上海谊兴企业管理合伙企业(有限合伙)",
+      "HOLDER_NAME": "上海贤昱投资中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2796562,
-      "HOLD_NUM_RATIO": 1.35,
+      "HOLD_NUM": 2860000,
+      "HOLD_NUM_RATIO": 1.38,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
