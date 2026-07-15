@@ -3,6 +3,20 @@
     {
       "SECUCODE": "603289.SH",
       "SECURITY_CODE": "603289",
+      "END_DATE": "2026-07-10 00:00:00",
+      "HOLDER_TOTAL_NUM": 14151,
+      "TOTAL_NUM_RATIO": -0.0353,
+      "AVG_FREE_SHARES": 20733,
+      "AVG_FREESHARES_RATIO": 0.035333192001,
+      "HOLD_FOCUS": "较集中",
+      "PRICE": 8.35,
+      "AVG_HOLD_AMT": 173123.613023815,
+      "HOLD_RATIO_TOTAL": null,
+      "FREEHOLD_RATIO_TOTAL": null
+    },
+    {
+      "SECUCODE": "603289.SH",
+      "SECURITY_CODE": "603289",
       "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_TOTAL_NUM": 14156,
       "TOTAL_NUM_RATIO": -1.3313,
@@ -125,20 +139,6 @@
       "AVG_HOLD_AMT": 241882.593696251,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
-    },
-    {
-      "SECUCODE": "603289.SH",
-      "SECURITY_CODE": "603289",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_TOTAL_NUM": 13724,
-      "TOTAL_NUM_RATIO": -2.0414,
-      "AVG_FREE_SHARES": 21377,
-      "AVG_FREESHARES_RATIO": 2.084408531306,
-      "HOLD_FOCUS": "较集中",
-      "PRICE": 11.033992144,
-      "AVG_HOLD_AMT": 235883.650924156,
-      "HOLD_RATIO_TOTAL": 67.6297114,
-      "FREEHOLD_RATIO_TOTAL": 67.6297114
     }
   ],
   "sdltgd_date": [
@@ -426,6 +426,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "603289.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "603289.SH",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -439,16 +443,16 @@
     {
       "SECUCODE": "603289.SH",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "603289.SH",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "603289.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "603289.SH",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -462,10 +466,6 @@
     {
       "SECUCODE": "603289.SH",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "603289.SH",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "xsjj": [],
@@ -740,57 +740,37 @@
     {
       "SECUCODE": "603289.SH",
       "SECURITY_CODE": "603289",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 160359944,
-      "TOTAL_SHARES_RATIO": 54.65753178,
-      "ALL_SHARES_RATIO": 54.65753178
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 571000,
+      "TOTAL_SHARES_RATIO": 0.19461627,
+      "ALL_SHARES_RATIO": 0.19461627
     },
     {
       "SECUCODE": "603289.SH",
       "SECURITY_CODE": "603289",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "01",
       "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 746600,
-      "TOTAL_SHARES_RATIO": 0.25447323,
-      "ALL_SHARES_RATIO": 0.25447323
-    },
-    {
-      "SECUCODE": "603289.SH",
-      "SECURITY_CODE": "603289",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "ORG_TYPE": "02",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 2465025,
-      "TOTAL_SHARES_RATIO": 0.84018602,
-      "ALL_SHARES_RATIO": 0.84018602
-    },
-    {
-      "SECUCODE": "603289.SH",
-      "SECURITY_CODE": "603289",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 157148319,
-      "TOTAL_SHARES_RATIO": 53.56287253,
-      "ALL_SHARES_RATIO": 53.56287253
+      "TOTAL_FREE_SHARES": 571000,
+      "TOTAL_SHARES_RATIO": 0.19461627,
+      "ALL_SHARES_RATIO": 0.19461627
     }
   ],
   "jjcg": [
     {
       "ORG_TYPE": "01",
       "SECUCODE": "603289.SH",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "HOLDER_CODE": "014995",
       "HOLDER_NAME": "中欧量化先锋混合A",
-      "TOTAL_SHARES": 746600,
-      "HOLD_VALUE": 8361920,
-      "TOTALSHARES_RATIO": 0.25447323,
-      "FREESHARES_RATIO": 0.25447323,
-      "FREE_MARKET_CAP": 8361920,
-      "FREE_SHARES": 746600,
+      "TOTAL_SHARES": 571000,
+      "HOLD_VALUE": 4607970,
+      "TOTALSHARES_RATIO": 0.19461627,
+      "FREESHARES_RATIO": 0.19461627,
+      "FREE_MARKET_CAP": 4607970,
+      "FREE_SHARES": 571000,
       "SECURITY_CODE": "603289",
       "FUND_CODE": "014995",
       "FUND_DERIVECODE": "014995.OF",
