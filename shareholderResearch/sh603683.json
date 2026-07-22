@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "603683.SH",
+      "END_DATE": "2026-07-17 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "603683.SH",
       "END_DATE": "2026-03-31 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "603683.SH",
       "END_DATE": "2019-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "603683.SH",
-      "END_DATE": "2019-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -445,7 +445,41 @@
       "REPORT_DATE": "2025-06-30 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-07-17 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "浙江启厚资产管理有限公司-启厚未来4号证券私募投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 9984001,
+      "HOLD_NUM_RATIO": 3.43,
+      "HOLD_CHANGE": "3760165",
+      "CHANGE_RATIO": 60.41555401,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-07-17 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中国银行股份有限公司-华夏行业景气混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6675500,
+      "HOLD_NUM_RATIO": 2.29,
+      "HOLD_CHANGE": "83900",
+      "CHANGE_RATIO": 1.27283209,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-07-17 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "白秋美",
+      "SHARES_TYPE": "流通A股,限售流通A股",
+      "HOLD_NUM": 5115740,
+      "HOLD_NUM_RATIO": 1.76,
+      "HOLD_CHANGE": "18800",
+      "CHANGE_RATIO": 0.36884876,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "603683.SH",
@@ -655,19 +689,19 @@
     {
       "SECUCODE": "603683.SH",
       "SECURITY_CODE": "603683",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-17 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "周晓南",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 46264240,
-      "HOLD_NUM_RATIO": 15.89,
+      "HOLD_NUM_RATIO": 15.88,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603683.SH",
       "SECURITY_CODE": "603683",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-17 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "周晓东",
       "SHARES_TYPE": "流通A股",
@@ -679,8 +713,20 @@
     {
       "SECUCODE": "603683.SH",
       "SECURITY_CODE": "603683",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-17 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "浙江启厚资产管理有限公司-启厚未来4号证券私募投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 9984001,
+      "HOLD_NUM_RATIO": 3.43,
+      "HOLD_NUM_CHANGE": "3760165",
+      "CHANGE_RATIO": 60.41555401
+    },
+    {
+      "SECUCODE": "603683.SH",
+      "SECURITY_CODE": "603683",
+      "END_DATE": "2026-07-17 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "周锦涵",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 9104000,
@@ -691,86 +737,74 @@
     {
       "SECUCODE": "603683.SH",
       "SECURITY_CODE": "603683",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-07-17 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国银行股份有限公司-华夏行业景气混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6591600,
-      "HOLD_NUM_RATIO": 2.26,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 6675500,
+      "HOLD_NUM_RATIO": 2.29,
+      "HOLD_NUM_CHANGE": "83900",
+      "CHANGE_RATIO": 1.27283209
     },
     {
       "SECUCODE": "603683.SH",
       "SECURITY_CODE": "603683",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "关海果",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6412000,
-      "HOLD_NUM_RATIO": 2.2,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603683.SH",
-      "SECURITY_CODE": "603683",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-17 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "浙江启厚资产管理有限公司-启厚未来4号证券私募投资基金",
+      "HOLDER_NAME": "全国社保基金四一八组合",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6223836,
-      "HOLD_NUM_RATIO": 2.14,
-      "HOLD_NUM_CHANGE": "1305600",
-      "CHANGE_RATIO": 26.54610312
+      "HOLD_NUM": 6247800,
+      "HOLD_NUM_RATIO": 2.15,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603683.SH",
       "SECURITY_CODE": "603683",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-17 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "白秋美",
       "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 5096940,
-      "HOLD_NUM_RATIO": 1.75,
-      "HOLD_NUM_CHANGE": "-4000",
-      "CHANGE_RATIO": -0.07841692
+      "HOLD_NUM": 5115740,
+      "HOLD_NUM_RATIO": 1.76,
+      "HOLD_NUM_CHANGE": "18800",
+      "CHANGE_RATIO": 0.36884876
     },
     {
       "SECUCODE": "603683.SH",
       "SECURITY_CODE": "603683",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-17 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "锦福源(海南)私募基金管理合伙企业(有限合伙)-锦福源五号私募证券投资基金",
+      "HOLDER_NAME": "加峰(上海)私募基金管理有限公司-加峰鑫鑫向荣7号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3529000,
-      "HOLD_NUM_RATIO": 1.21,
+      "HOLD_NUM": 5068900,
+      "HOLD_NUM_RATIO": 1.74,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603683.SH",
       "SECURITY_CODE": "603683",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-17 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "广东展富私募基金管理有限公司-风顺一号私募证券投资基金",
+      "HOLDER_NAME": "吕海霞",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3433502,
-      "HOLD_NUM_RATIO": 1.18,
+      "HOLD_NUM": 4077900,
+      "HOLD_NUM_RATIO": 1.4,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603683.SH",
       "SECURITY_CODE": "603683",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-17 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "上海惠秀私募基金管理有限公司-惠秀盈余八号混合私募证券投资基金",
+      "HOLDER_NAME": "上海惠秀私募基金管理有限公司-惠秀盈余六号混合私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3237280,
-      "HOLD_NUM_RATIO": 1.11,
-      "HOLD_NUM_CHANGE": "52300",
-      "CHANGE_RATIO": 1.64208252
+      "HOLD_NUM": 3690300,
+      "HOLD_NUM_RATIO": 1.27,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
