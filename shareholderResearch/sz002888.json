@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "002888.SZ",
+      "END_DATE": "2026-07-23 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "002888.SZ",
       "END_DATE": "2026-03-31 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "002888.SZ",
       "END_DATE": "2017-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002888.SZ",
-      "END_DATE": "2016-03-18 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -445,7 +445,30 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-07-23 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "UBS AG",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 945750,
+      "HOLD_NUM_RATIO": 0.64,
+      "HOLD_CHANGE": "367440",
+      "CHANGE_RATIO": 63.53685739,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-07-23 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "韩全伟",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 566503,
+      "HOLD_NUM_RATIO": 0.38,
+      "HOLD_CHANGE": "238703",
+      "CHANGE_RATIO": 72.81970714,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "002888.SZ",
@@ -618,7 +641,7 @@
     {
       "SECUCODE": "002888.SZ",
       "SECURITY_CODE": "002888",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-23 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "HONGBO YAO",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -630,7 +653,7 @@
     {
       "SECUCODE": "002888.SZ",
       "SECURITY_CODE": "002888",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-23 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "HUIFANG CHEN",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -642,32 +665,56 @@
     {
       "SECUCODE": "002888.SZ",
       "SECURITY_CODE": "002888",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-23 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "陈莉方",
+      "HOLDER_NAME": "吴守常",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 790040,
-      "HOLD_NUM_RATIO": 0.54,
-      "HOLD_NUM_CHANGE": "-5500",
-      "CHANGE_RATIO": -0.6913543
-    },
-    {
-      "SECUCODE": "002888.SZ",
-      "SECURITY_CODE": "002888",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 737600,
-      "HOLD_NUM_RATIO": 0.5,
+      "HOLD_NUM": 1240200,
+      "HOLD_NUM_RATIO": 0.84,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002888.SZ",
       "SECURITY_CODE": "002888",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-23 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "高盛国际-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 991549,
+      "HOLD_NUM_RATIO": 0.67,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002888.SZ",
+      "SECURITY_CODE": "002888",
+      "END_DATE": "2026-07-23 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "UBS AG",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 945750,
+      "HOLD_NUM_RATIO": 0.64,
+      "HOLD_NUM_CHANGE": "367440",
+      "CHANGE_RATIO": 63.53685739
+    },
+    {
+      "SECUCODE": "002888.SZ",
+      "SECURITY_CODE": "002888",
+      "END_DATE": "2026-07-23 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "陈莉方",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 790040,
+      "HOLD_NUM_RATIO": 0.54,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002888.SZ",
+      "SECURITY_CODE": "002888",
+      "END_DATE": "2026-07-23 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "广东惠威电声科技股份有限公司-2025年员工持股计划",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 598772,
@@ -678,60 +725,36 @@
     {
       "SECUCODE": "002888.SZ",
       "SECURITY_CODE": "002888",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "UBS AG",
+      "END_DATE": "2026-07-23 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "夏永贵",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 578310,
-      "HOLD_NUM_RATIO": 0.39,
-      "HOLD_NUM_CHANGE": "55480",
-      "CHANGE_RATIO": 10.61147983
-    },
-    {
-      "SECUCODE": "002888.SZ",
-      "SECURITY_CODE": "002888",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 502517,
-      "HOLD_NUM_RATIO": 0.34,
+      "HOLD_NUM": 588300,
+      "HOLD_NUM_RATIO": 0.4,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002888.SZ",
       "SECURITY_CODE": "002888",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "李强华",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 395400,
-      "HOLD_NUM_RATIO": 0.27,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002888.SZ",
-      "SECURITY_CODE": "002888",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-23 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "BARCLAYS BANK PLC",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 376994,
-      "HOLD_NUM_RATIO": 0.26,
-      "HOLD_NUM_CHANGE": "-67550",
-      "CHANGE_RATIO": -15.19534624
-    },
-    {
-      "SECUCODE": "002888.SZ",
-      "SECURITY_CODE": "002888",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "韩全伟",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 327800,
-      "HOLD_NUM_RATIO": 0.22,
+      "HOLD_NUM": 566503,
+      "HOLD_NUM_RATIO": 0.38,
+      "HOLD_NUM_CHANGE": "238703",
+      "CHANGE_RATIO": 72.81970714
+    },
+    {
+      "SECUCODE": "002888.SZ",
+      "SECURITY_CODE": "002888",
+      "END_DATE": "2026-07-23 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "刘璐",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 497500,
+      "HOLD_NUM_RATIO": 0.34,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
