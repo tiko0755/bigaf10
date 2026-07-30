@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 10.97,
       "AVG_HOLD_AMT": 189398.347091319,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 24.16108633,
+      "FREEHOLD_RATIO_TOTAL": 24.16108633
     },
     {
       "SECUCODE": "600711.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600711.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "600711.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600711.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "600711.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600711.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600711.SH",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600711.SH",
       "END_DATE": "2018-01-15 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "600711.SH",
-      "END_DATE": "2018-01-05 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600711.SH",
       "SECURITY_CODE": "600711",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "深圳盛屯集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,21 +486,8 @@
     {
       "SECUCODE": "600711.SH",
       "SECURITY_CODE": "600711",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 96375632,
-      "FREE_HOLDNUM_RATIO": 3.11833533298,
-      "HOLD_NUM_CHANGE": "-31224786",
-      "CHANGE_RATIO": -24.47075526
-    },
-    {
-      "SECUCODE": "600711.SH",
-      "SECURITY_CODE": "600711",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "深圳市盛屯实业发展有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -512,21 +499,21 @@
     {
       "SECUCODE": "600711.SH",
       "SECURITY_CODE": "600711",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "UBS AG",
-      "HOLDER_TYPE": "QFII",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 43186935,
-      "FREE_HOLDNUM_RATIO": 1.397358881482,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 45358299,
+      "FREE_HOLDNUM_RATIO": 1.467615656368,
+      "HOLD_NUM_CHANGE": "-51017333",
+      "CHANGE_RATIO": -52.93592575
     },
     {
       "SECUCODE": "600711.SH",
       "SECURITY_CODE": "600711",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "姚雄杰",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -538,87 +525,100 @@
     {
       "SECUCODE": "600711.SH",
       "SECURITY_CODE": "600711",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中信证券股份有限公司",
-      "HOLDER_TYPE": "证券公司",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中国工商银行股份有限公司-南方中证申万有色金属交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 33829240,
-      "FREE_HOLDNUM_RATIO": 1.094580779298,
-      "HOLD_NUM_CHANGE": "-5108340",
-      "CHANGE_RATIO": -13.11930531
-    },
-    {
-      "SECUCODE": "600711.SH",
-      "SECURITY_CODE": "600711",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "罗宾木业有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 29411900,
-      "FREE_HOLDNUM_RATIO": 0.951653079485,
-      "HOLD_NUM_CHANGE": "411900",
-      "CHANGE_RATIO": 1.42034483
-    },
-    {
-      "SECUCODE": "600711.SH",
-      "SECURITY_CODE": "600711",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "李艳丽",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 21582500,
-      "FREE_HOLDNUM_RATIO": 0.698324575698,
-      "HOLD_NUM_CHANGE": "3899600",
-      "CHANGE_RATIO": 22.0529438
-    },
-    {
-      "SECUCODE": "600711.SH",
-      "SECURITY_CODE": "600711",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "徐澍地",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 20826300,
-      "FREE_HOLDNUM_RATIO": 0.673856926253,
+      "HOLD_NUM": 32432498,
+      "FREE_HOLDNUM_RATIO": 1.049387717117,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600711.SH",
       "SECURITY_CODE": "600711",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中信银行股份有限公司-永赢睿信混合型证券投资基金",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "罗宾木业有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 26800000,
+      "FREE_HOLDNUM_RATIO": 0.867142297172,
+      "HOLD_NUM_CHANGE": "-2611900",
+      "CHANGE_RATIO": -8.88041915
+    },
+    {
+      "SECUCODE": "600711.SH",
+      "SECURITY_CODE": "600711",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "全国社保基金一一零组合",
+      "HOLDER_TYPE": "全国社保基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 26236293,
+      "FREE_HOLDNUM_RATIO": 0.848902961989,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600711.SH",
+      "SECURITY_CODE": "600711",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "李艳丽",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 21582500,
+      "FREE_HOLDNUM_RATIO": 0.698324575698,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600711.SH",
+      "SECURITY_CODE": "600711",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国建设银行股份有限公司-万家中证工业有色金属主题交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 18244852,
-      "FREE_HOLDNUM_RATIO": 0.590331450554,
-      "HOLD_NUM_CHANGE": "-7279398",
-      "CHANGE_RATIO": -28.5195373
+      "HOLD_NUM": 20124758,
+      "FREE_HOLDNUM_RATIO": 0.65115779411,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600711.SH",
+      "SECURITY_CODE": "600711",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 19391080,
+      "FREE_HOLDNUM_RATIO": 0.627418867755,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600711.SH",
       "SECURITY_CODE": "600711",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 818257256,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 746725325,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 2272354295,
-      "HOLD_NUM_RATIO": 26.48,
+      "OTHER_UNLIMITED_SHARES": 2343886226,
+      "HOLD_NUM_RATIO": 24.16,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 73.52
+      "UNLIMITED_SHARES_RATIO": 75.84
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600711.SH",
       "SECURITY_CODE": "600711",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "深圳盛屯集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,20 +630,8 @@
     {
       "SECUCODE": "600711.SH",
       "SECURITY_CODE": "600711",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 96375632,
-      "HOLD_NUM_RATIO": 3.12,
-      "HOLD_NUM_CHANGE": "-31224786",
-      "CHANGE_RATIO": -24.47075526
-    },
-    {
-      "SECUCODE": "600711.SH",
-      "SECURITY_CODE": "600711",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "深圳市盛屯实业发展有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 57000000,
@@ -654,20 +642,20 @@
     {
       "SECUCODE": "600711.SH",
       "SECURITY_CODE": "600711",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "UBS AG",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 43186935,
-      "HOLD_NUM_RATIO": 1.4,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 45358299,
+      "HOLD_NUM_RATIO": 1.47,
+      "HOLD_NUM_CHANGE": "-51017333",
+      "CHANGE_RATIO": -52.93592575
     },
     {
       "SECUCODE": "600711.SH",
       "SECURITY_CODE": "600711",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "姚雄杰",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 40305000,
@@ -678,62 +666,74 @@
     {
       "SECUCODE": "600711.SH",
       "SECURITY_CODE": "600711",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中信证券股份有限公司",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中国工商银行股份有限公司-南方中证申万有色金属交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 33829240,
-      "HOLD_NUM_RATIO": 1.09,
-      "HOLD_NUM_CHANGE": "-5108340",
-      "CHANGE_RATIO": -13.11930531
-    },
-    {
-      "SECUCODE": "600711.SH",
-      "SECURITY_CODE": "600711",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "罗宾木业有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 29411900,
-      "HOLD_NUM_RATIO": 0.95,
-      "HOLD_NUM_CHANGE": "411900",
-      "CHANGE_RATIO": 1.42034483
-    },
-    {
-      "SECUCODE": "600711.SH",
-      "SECURITY_CODE": "600711",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "李艳丽",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 21582500,
-      "HOLD_NUM_RATIO": 0.7,
-      "HOLD_NUM_CHANGE": "3899600",
-      "CHANGE_RATIO": 22.0529438
-    },
-    {
-      "SECUCODE": "600711.SH",
-      "SECURITY_CODE": "600711",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "徐澍地",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 20826300,
-      "HOLD_NUM_RATIO": 0.67,
+      "HOLD_NUM": 32432498,
+      "HOLD_NUM_RATIO": 1.05,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600711.SH",
       "SECURITY_CODE": "600711",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中信银行股份有限公司-永赢睿信混合型证券投资基金",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "罗宾木业有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 18244852,
-      "HOLD_NUM_RATIO": 0.59,
-      "HOLD_NUM_CHANGE": "-7279398",
-      "CHANGE_RATIO": -28.5195373
+      "HOLD_NUM": 26800000,
+      "HOLD_NUM_RATIO": 0.87,
+      "HOLD_NUM_CHANGE": "-2611900",
+      "CHANGE_RATIO": -8.88041915
+    },
+    {
+      "SECUCODE": "600711.SH",
+      "SECURITY_CODE": "600711",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "全国社保基金一一零组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 26236293,
+      "HOLD_NUM_RATIO": 0.85,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600711.SH",
+      "SECURITY_CODE": "600711",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "李艳丽",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 21582500,
+      "HOLD_NUM_RATIO": 0.7,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600711.SH",
+      "SECURITY_CODE": "600711",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国建设银行股份有限公司-万家中证工业有色金属主题交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 20124758,
+      "HOLD_NUM_RATIO": 0.65,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600711.SH",
+      "SECURITY_CODE": "600711",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 19391080,
+      "HOLD_NUM_RATIO": 0.63,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
@@ -742,23 +742,87 @@
       "SECURITY_CODE": "600711",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 13,
-      "TOTAL_FREE_SHARES": 29274280,
-      "TOTAL_SHARES_RATIO": 0.94720024,
-      "ALL_SHARES_RATIO": 0.94720024
+      "TOTAL_ORG_NUM": 21,
+      "TOTAL_FREE_SHARES": 714112105,
+      "TOTAL_SHARES_RATIO": 23.10585117,
+      "ALL_SHARES_RATIO": 23.10585117
     },
     {
       "SECUCODE": "600711.SH",
       "SECURITY_CODE": "600711",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 13,
-      "TOTAL_FREE_SHARES": 29274280,
-      "TOTAL_SHARES_RATIO": 0.94720024,
-      "ALL_SHARES_RATIO": 0.94720024
+      "TOTAL_ORG_NUM": 15,
+      "TOTAL_FREE_SHARES": 81831536,
+      "TOTAL_SHARES_RATIO": 2.64774575,
+      "ALL_SHARES_RATIO": 2.64774575
+    },
+    {
+      "SECUCODE": "600711.SH",
+      "SECURITY_CODE": "600711",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 19391080,
+      "TOTAL_SHARES_RATIO": 0.62741887,
+      "ALL_SHARES_RATIO": 0.62741887
+    },
+    {
+      "SECUCODE": "600711.SH",
+      "SECURITY_CODE": "600711",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 26236293,
+      "TOTAL_SHARES_RATIO": 0.84890296,
+      "ALL_SHARES_RATIO": 0.84890296
+    },
+    {
+      "SECUCODE": "600711.SH",
+      "SECURITY_CODE": "600711",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 586653196,
+      "TOTAL_SHARES_RATIO": 18.98178359,
+      "ALL_SHARES_RATIO": 18.98178359
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600711.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "512400",
+      "HOLDER_NAME": "南方中证申万有色金属ETF",
+      "TOTAL_SHARES": 32432498,
+      "HOLD_VALUE": 355784503.06,
+      "TOTALSHARES_RATIO": 1.04938772,
+      "FREESHARES_RATIO": 1.04938772,
+      "FREE_MARKET_CAP": 355784503.06,
+      "FREE_SHARES": 32432498,
+      "SECURITY_CODE": "600711",
+      "FUND_CODE": "512400",
+      "FUND_DERIVECODE": "512400.SH",
+      "NETVALUE_RATIO": 1.58
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600711.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "560860",
+      "HOLDER_NAME": "万家中证工业有色金属主题ETF",
+      "TOTAL_SHARES": 20124758,
+      "HOLD_VALUE": 220768595.26,
+      "TOTALSHARES_RATIO": 0.65115779,
+      "FREESHARES_RATIO": 0.65115779,
+      "FREE_MARKET_CAP": 220768595.26,
+      "FREE_SHARES": 20124758,
+      "SECURITY_CODE": "600711",
+      "FUND_CODE": "560860",
+      "FUND_DERIVECODE": "560860.SH",
+      "NETVALUE_RATIO": 2.42
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "600711.SH",

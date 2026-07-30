@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "002531.SZ",
+      "END_DATE": "2026-07-28 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "002531.SZ",
       "END_DATE": "2026-03-31 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "002531.SZ",
       "END_DATE": "2015-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002531.SZ",
-      "END_DATE": "2015-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -445,7 +445,19 @@
       "REPORT_DATE": "2025-06-30 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-07-28 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "REAL FUN HOLDINGS LIMITED",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 359375730,
+      "HOLD_NUM_RATIO": 20,
+      "HOLD_CHANGE": "-13872270",
+      "CHANGE_RATIO": -3.71663612,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "002531.SZ",
@@ -618,7 +630,7 @@
     {
       "SECUCODE": "002531.SZ",
       "SECURITY_CODE": "002531",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-28 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海天神投资管理有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,110 +642,14 @@
     {
       "SECUCODE": "002531.SZ",
       "SECURITY_CODE": "002531",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-28 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "REAL FUN HOLDINGS LIMITED",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 373248000,
-      "HOLD_NUM_RATIO": 20.77,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002531.SZ",
-      "SECURITY_CODE": "002531",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 35139519,
-      "HOLD_NUM_RATIO": 1.96,
-      "HOLD_NUM_CHANGE": "13164591",
-      "CHANGE_RATIO": 59.90732256
-    },
-    {
-      "SECUCODE": "002531.SZ",
-      "SECURITY_CODE": "002531",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "前海人寿保险股份有限公司-分红保险产品",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 22249860,
-      "HOLD_NUM_RATIO": 1.24,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002531.SZ",
-      "SECURITY_CODE": "002531",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "全国社保基金四一三组合",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 19499889,
-      "HOLD_NUM_RATIO": 1.09,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002531.SZ",
-      "SECURITY_CODE": "002531",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "基本养老保险基金一六零三二组合",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 19298433,
-      "HOLD_NUM_RATIO": 1.07,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002531.SZ",
-      "SECURITY_CODE": "002531",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国建设银行股份有限公司-汇丰晋信中小盘股票型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 13379534,
-      "HOLD_NUM_RATIO": 0.74,
-      "HOLD_NUM_CHANGE": "-22751174",
-      "CHANGE_RATIO": -62.96907882
-    },
-    {
-      "SECUCODE": "002531.SZ",
-      "SECURITY_CODE": "002531",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "严俊旭",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 13346746,
-      "HOLD_NUM_RATIO": 0.74,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002531.SZ",
-      "SECURITY_CODE": "002531",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "余金花",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11028700,
-      "HOLD_NUM_RATIO": 0.61,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002531.SZ",
-      "SECURITY_CODE": "002531",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "招商银行股份有限公司-汇丰晋信港股通双核策略混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9210627,
-      "HOLD_NUM_RATIO": 0.51,
-      "HOLD_NUM_CHANGE": "-10993300",
-      "CHANGE_RATIO": -54.41169927
+      "HOLD_NUM": 359375730,
+      "HOLD_NUM_RATIO": 20,
+      "HOLD_NUM_CHANGE": "-13872270",
+      "CHANGE_RATIO": -3.71663612
     }
   ],
   "jgcc": [

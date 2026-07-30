@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "688003.SH",
+      "END_DATE": "2026-07-27 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "688003.SH",
       "END_DATE": "2026-03-31 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "688003.SH",
       "END_DATE": "2015-12-07 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "688003.SH",
-      "END_DATE": "2015-10-08 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -420,7 +420,7 @@
       "SECUCODE": "688003.SH",
       "SECURITY_CODE": "688003",
       "HOLDER_NAME": "徐一华",
-      "HOLD_RATIO": 8.41
+      "HOLD_RATIO": 8.39
     }
   ],
   "jgcc_date": [
@@ -445,7 +445,19 @@
       "REPORT_DATE": "2025-06-30 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-07-27 00:00:00",
+      "HOLDER_RANK": 1,
+      "HOLDER_NAME": "苏州青一投资有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 40000000,
+      "HOLD_NUM_RATIO": 20.54,
+      "HOLD_CHANGE": "-8000000",
+      "CHANGE_RATIO": -16.66666667,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "688003.SH",
@@ -618,121 +630,49 @@
     {
       "SECUCODE": "688003.SH",
       "SECURITY_CODE": "688003",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-27 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "苏州青一投资有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 48000000,
-      "HOLD_NUM_RATIO": 24.7,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 40000000,
+      "HOLD_NUM_RATIO": 20.54,
+      "HOLD_NUM_CHANGE": "-8000000",
+      "CHANGE_RATIO": -16.66666667
     },
     {
       "SECUCODE": "688003.SH",
       "SECURITY_CODE": "688003",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-27 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "宁波准智创业投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 34910000,
-      "HOLD_NUM_RATIO": 17.97,
+      "HOLD_NUM_RATIO": 17.92,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688003.SH",
       "SECURITY_CODE": "688003",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-27 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "徐一华",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 16340000,
-      "HOLD_NUM_RATIO": 8.41,
+      "HOLD_NUM_RATIO": 8.39,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688003.SH",
       "SECURITY_CODE": "688003",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-27 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "徐伟",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 13050000,
-      "HOLD_NUM_RATIO": 6.72,
+      "HOLD_NUM_RATIO": 6.7,
       "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688003.SH",
-      "SECURITY_CODE": "688003",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "兴业银行股份有限公司-兴全趋势投资混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6134954,
-      "HOLD_NUM_RATIO": 3.16,
-      "HOLD_NUM_CHANGE": "2009333",
-      "CHANGE_RATIO": 48.7037709
-    },
-    {
-      "SECUCODE": "688003.SH",
-      "SECURITY_CODE": "688003",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国建设银行股份有限公司-南方信息创新混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4805701,
-      "HOLD_NUM_RATIO": 2.47,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688003.SH",
-      "SECURITY_CODE": "688003",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "韩军",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3015169,
-      "HOLD_NUM_RATIO": 1.55,
-      "HOLD_NUM_CHANGE": "-804235",
-      "CHANGE_RATIO": -21.05655752
-    },
-    {
-      "SECUCODE": "688003.SH",
-      "SECURITY_CODE": "688003",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国建设银行股份有限公司-兴全多维价值混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2933665,
-      "HOLD_NUM_RATIO": 1.51,
-      "HOLD_NUM_CHANGE": "653562",
-      "CHANGE_RATIO": 28.6637051
-    },
-    {
-      "SECUCODE": "688003.SH",
-      "SECURITY_CODE": "688003",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "兴业银行股份有限公司-华夏中证机器人交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2668218,
-      "HOLD_NUM_RATIO": 1.37,
-      "HOLD_NUM_CHANGE": "-371900",
-      "CHANGE_RATIO": -12.2330778
-    },
-    {
-      "SECUCODE": "688003.SH",
-      "SECURITY_CODE": "688003",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国银行股份有限公司-兴全合丰三年持有期混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1703165,
-      "HOLD_NUM_RATIO": 0.88,
-      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -744,7 +684,7 @@
       "ORG_TYPE": "00",
       "TOTAL_ORG_NUM": 5,
       "TOTAL_FREE_SHARES": 10378780,
-      "TOTAL_SHARES_RATIO": 5.32840199,
+      "TOTAL_SHARES_RATIO": 5.34102913,
       "ALL_SHARES_RATIO": 5.32840199
     },
     {
@@ -754,7 +694,7 @@
       "ORG_TYPE": "01",
       "TOTAL_ORG_NUM": 5,
       "TOTAL_FREE_SHARES": 10378780,
-      "TOTAL_SHARES_RATIO": 5.32840199,
+      "TOTAL_SHARES_RATIO": 5.34102913,
       "ALL_SHARES_RATIO": 5.32840199
     }
   ],
@@ -768,7 +708,7 @@
       "TOTAL_SHARES": 6480233,
       "HOLD_VALUE": 824933660.9,
       "TOTALSHARES_RATIO": 3.32691187,
-      "FREESHARES_RATIO": 3.32691187,
+      "FREESHARES_RATIO": 3.33479592,
       "FREE_MARKET_CAP": 824933660.9,
       "FREE_SHARES": 6480233,
       "SECURITY_CODE": "688003",
@@ -785,7 +725,7 @@
       "TOTAL_SHARES": 3139031,
       "HOLD_VALUE": 399598646.3,
       "TOTALSHARES_RATIO": 1.61155926,
-      "FREESHARES_RATIO": 1.61155926,
+      "FREESHARES_RATIO": 1.6153783,
       "FREE_MARKET_CAP": 399598646.3,
       "FREE_SHARES": 3139031,
       "SECURITY_CODE": "688003",
@@ -802,7 +742,7 @@
       "TOTAL_SHARES": 745516,
       "HOLD_VALUE": 94904186.8,
       "TOTALSHARES_RATIO": 0.38274334,
-      "FREESHARES_RATIO": 0.38274334,
+      "FREESHARES_RATIO": 0.38365036,
       "FREE_MARKET_CAP": 94904186.8,
       "FREE_SHARES": 745516,
       "SECURITY_CODE": "688003",
@@ -819,7 +759,7 @@
       "TOTAL_SHARES": 12000,
       "HOLD_VALUE": 1527600,
       "TOTALSHARES_RATIO": 0.00616073,
-      "FREESHARES_RATIO": 0.00616073,
+      "FREESHARES_RATIO": 0.00617533,
       "FREE_MARKET_CAP": 1527600,
       "FREE_SHARES": 12000,
       "SECURITY_CODE": "688003",
@@ -836,7 +776,7 @@
       "TOTAL_SHARES": 2000,
       "HOLD_VALUE": 254600,
       "TOTALSHARES_RATIO": 0.00102679,
-      "FREESHARES_RATIO": 0.00102679,
+      "FREESHARES_RATIO": 0.00102922,
       "FREE_MARKET_CAP": 254600,
       "FREE_SHARES": 2000,
       "SECURITY_CODE": "688003",

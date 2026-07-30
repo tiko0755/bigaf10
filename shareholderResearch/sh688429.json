@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "688429.SH",
+      "END_DATE": "2026-07-21 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "688429.SH",
       "END_DATE": "2026-03-31 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -290,7 +295,19 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-07-21 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "上海国方时创企业管理合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4883599,
+      "HOLD_NUM_RATIO": 1.22,
+      "HOLD_CHANGE": "-12000",
+      "CHANGE_RATIO": -0.24511812,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "688429.SH",
@@ -463,10 +480,10 @@
     {
       "SECUCODE": "688429.SH",
       "SECURITY_CODE": "688429",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-21 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "南京时创创业投资有限公司",
-      "SHARES_TYPE": "限售流通A股",
+      "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 142941654,
       "HOLD_NUM_RATIO": 35.74,
       "HOLD_NUM_CHANGE": "不变",
@@ -475,10 +492,10 @@
     {
       "SECUCODE": "688429.SH",
       "SECURITY_CODE": "688429",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-21 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "南京思成创业投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "限售流通A股",
+      "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 137231879,
       "HOLD_NUM_RATIO": 34.31,
       "HOLD_NUM_CHANGE": "不变",
@@ -487,7 +504,7 @@
     {
       "SECUCODE": "688429.SH",
       "SECURITY_CODE": "688429",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-21 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "张帆",
       "SHARES_TYPE": "流通A股",
@@ -499,19 +516,19 @@
     {
       "SECUCODE": "688429.SH",
       "SECURITY_CODE": "688429",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-21 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "江苏香樟创业投资管理有限公司-溧阳市香樟储能一号私募基金合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 11103521,
       "HOLD_NUM_RATIO": 2.78,
-      "HOLD_NUM_CHANGE": "-1000000",
-      "CHANGE_RATIO": -8.26205862
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688429.SH",
       "SECURITY_CODE": "688429",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-21 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "边迪斐",
       "SHARES_TYPE": "流通A股",
@@ -523,20 +540,32 @@
     {
       "SECUCODE": "688429.SH",
       "SECURITY_CODE": "688429",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-21 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "上海国方时创企业管理合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4895599,
+      "HOLD_NUM": 4883599,
       "HOLD_NUM_RATIO": 1.22,
-      "HOLD_NUM_CHANGE": "-1248187",
-      "CHANGE_RATIO": -20.31625125
+      "HOLD_NUM_CHANGE": "-12000",
+      "CHANGE_RATIO": -0.24511812
     },
     {
       "SECUCODE": "688429.SH",
       "SECURITY_CODE": "688429",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-21 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "常州时创能源股份有限公司回购专用证券账户",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4570000,
+      "HOLD_NUM_RATIO": 1.14,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "688429.SH",
+      "SECURITY_CODE": "688429",
+      "END_DATE": "2026-07-21 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "李雪林",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2896000,
@@ -547,8 +576,8 @@
     {
       "SECUCODE": "688429.SH",
       "SECURITY_CODE": "688429",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-07-21 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "黄春晨",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2693191,
@@ -559,25 +588,13 @@
     {
       "SECUCODE": "688429.SH",
       "SECURITY_CODE": "688429",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-07-21 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "常州启泰创业投资合伙企业(有限合伙)-常州上市后备企业股权投资基金(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1799921,
       "HOLD_NUM_RATIO": 0.45,
       "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688429.SH",
-      "SECURITY_CODE": "688429",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "张小蓓",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1452888,
-      "HOLD_NUM_RATIO": 0.36,
-      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
