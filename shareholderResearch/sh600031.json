@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "600031.SH",
+      "END_DATE": "2026-07-24 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "600031.SH",
       "END_DATE": "2026-03-31 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "600031.SH",
       "END_DATE": "2016-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600031.SH",
-      "END_DATE": "2016-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -445,7 +445,74 @@
       "REPORT_DATE": "2025-06-30 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-07-24 00:00:00",
+      "HOLDER_RANK": 1,
+      "HOLDER_NAME": "三一集团有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2057460315,
+      "HOLD_NUM_RATIO": 22.38,
+      "HOLD_CHANGE": "-422627942",
+      "CHANGE_RATIO": -17.04084283,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-07-24 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1318536528,
+      "HOLD_NUM_RATIO": 14.34,
+      "HOLD_CHANGE": "140187023",
+      "CHANGE_RATIO": 11.89689667,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-07-24 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "全国社保基金一零三组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 120000000,
+      "HOLD_NUM_RATIO": 1.31,
+      "HOLD_CHANGE": "10000000",
+      "CHANGE_RATIO": 9.09090909,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-07-24 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "全国社保基金一一四组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 100000000,
+      "HOLD_NUM_RATIO": 1.09,
+      "HOLD_CHANGE": "-85464",
+      "CHANGE_RATIO": -0.08539102,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-07-24 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "阿布达比投资局-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 61283909,
+      "HOLD_NUM_RATIO": 0.67,
+      "HOLD_CHANGE": "8585160",
+      "CHANGE_RATIO": 16.2910129,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-07-24 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "瑞众人寿保险有限责任公司-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 54139096,
+      "HOLD_NUM_RATIO": 0.59,
+      "HOLD_CHANGE": "5762636",
+      "CHANGE_RATIO": 11.91206632,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "600031.SH",
@@ -618,32 +685,44 @@
     {
       "SECUCODE": "600031.SH",
       "SECURITY_CODE": "600031",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-24 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "三一集团有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2480088257,
-      "HOLD_NUM_RATIO": 26.97,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 2057460315,
+      "HOLD_NUM_RATIO": 22.38,
+      "HOLD_NUM_CHANGE": "-422627942",
+      "CHANGE_RATIO": -17.04084283
+    },
+    {
+      "SECUCODE": "600031.SH",
+      "SECURITY_CODE": "600031",
+      "END_DATE": "2026-07-24 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1318536528,
+      "HOLD_NUM_RATIO": 14.34,
+      "HOLD_NUM_CHANGE": "140187023",
+      "CHANGE_RATIO": 11.89689667
+    },
+    {
+      "SECUCODE": "600031.SH",
+      "SECURITY_CODE": "600031",
+      "END_DATE": "2026-07-24 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "三一集团有限公司-三一集团有限公司2020年非公开发行可交换公司债券质押专户",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 422627942,
+      "HOLD_NUM_RATIO": 4.6,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600031.SH",
       "SECURITY_CODE": "600031",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1178349505,
-      "HOLD_NUM_RATIO": 12.82,
-      "HOLD_NUM_CHANGE": "125219669",
-      "CHANGE_RATIO": 11.89024038
-    },
-    {
-      "SECUCODE": "600031.SH",
-      "SECURITY_CODE": "600031",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 3,
+      "END_DATE": "2026-07-24 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "梁稳根",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 235840517,
@@ -654,84 +733,72 @@
     {
       "SECUCODE": "600031.SH",
       "SECURITY_CODE": "600031",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "中国证券金融股份有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 222142113,
-      "HOLD_NUM_RATIO": 2.42,
-      "HOLD_NUM_CHANGE": "-11207146",
-      "CHANGE_RATIO": -4.80273477
-    },
-    {
-      "SECUCODE": "600031.SH",
-      "SECURITY_CODE": "600031",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-24 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "全国社保基金一零三组合",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 110000000,
-      "HOLD_NUM_RATIO": 1.2,
-      "HOLD_NUM_CHANGE": "5000000",
-      "CHANGE_RATIO": 4.76190476
+      "HOLD_NUM": 120000000,
+      "HOLD_NUM_RATIO": 1.31,
+      "HOLD_NUM_CHANGE": "10000000",
+      "CHANGE_RATIO": 9.09090909
     },
     {
       "SECUCODE": "600031.SH",
       "SECURITY_CODE": "600031",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-24 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "全国社保基金一一四组合",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 100085464,
+      "HOLD_NUM": 100000000,
       "HOLD_NUM_RATIO": 1.09,
-      "HOLD_NUM_CHANGE": "11301000",
-      "CHANGE_RATIO": 12.72857828
+      "HOLD_NUM_CHANGE": "-85464",
+      "CHANGE_RATIO": -0.08539102
     },
     {
       "SECUCODE": "600031.SH",
       "SECURITY_CODE": "600031",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-24 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中央汇金资产管理有限责任公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 64238946,
-      "HOLD_NUM_RATIO": 0.7,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600031.SH",
-      "SECURITY_CODE": "600031",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "平安资管-招商银行-平安资产开阳5号资产管理产品",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 60893051,
-      "HOLD_NUM_RATIO": 0.66,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600031.SH",
-      "SECURITY_CODE": "600031",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "阿布达比投资局-自有资金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 52698749,
-      "HOLD_NUM_RATIO": 0.57,
+      "HOLD_NUM": 61283909,
+      "HOLD_NUM_RATIO": 0.67,
+      "HOLD_NUM_CHANGE": "8585160",
+      "CHANGE_RATIO": 16.2910129
+    },
+    {
+      "SECUCODE": "600031.SH",
+      "SECURITY_CODE": "600031",
+      "END_DATE": "2026-07-24 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "瑞众人寿保险有限责任公司-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 54139096,
+      "HOLD_NUM_RATIO": 0.59,
+      "HOLD_NUM_CHANGE": "5762636",
+      "CHANGE_RATIO": 11.91206632
+    },
+    {
+      "SECUCODE": "600031.SH",
+      "SECURITY_CODE": "600031",
+      "END_DATE": "2026-07-24 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国银行股份有限公司-易方达供给改革灵活配置混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 42953211,
+      "HOLD_NUM_RATIO": 0.47,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600031.SH",
       "SECURITY_CODE": "600031",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-07-24 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "瑞众人寿保险有限责任公司-自有资金",
+      "HOLDER_NAME": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 48376460,
-      "HOLD_NUM_RATIO": 0.53,
+      "HOLD_NUM": 42719701,
+      "HOLD_NUM_RATIO": 0.46,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
