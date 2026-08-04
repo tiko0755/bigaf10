@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "002871.SZ",
+      "END_DATE": "2026-08-04 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "002871.SZ",
       "END_DATE": "2026-03-31 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "002871.SZ",
       "END_DATE": "2019-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002871.SZ",
-      "END_DATE": "2018-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -420,7 +420,7 @@
       "SECUCODE": "002871.SZ",
       "SECURITY_CODE": "002871",
       "HOLDER_NAME": "范庆伟,范玉隆",
-      "HOLD_RATIO": 51.86
+      "HOLD_RATIO": 51.48
     }
   ],
   "jgcc_date": [
@@ -445,7 +445,19 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-08-04 00:00:00",
+      "HOLDER_RANK": 1,
+      "HOLDER_NAME": "范庆伟",
+      "SHARES_TYPE": "流通A股,限售流通A股",
+      "HOLD_NUM": 121484000,
+      "HOLD_NUM_RATIO": 48.24,
+      "HOLD_CHANGE": "-976000",
+      "CHANGE_RATIO": -0.79699494,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "002871.SZ",
@@ -646,122 +658,14 @@
     {
       "SECUCODE": "002871.SZ",
       "SECURITY_CODE": "002871",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-08-04 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "范庆伟",
       "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 122460000,
-      "HOLD_NUM_RATIO": 48.62,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002871.SZ",
-      "SECURITY_CODE": "002871",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "汇添富基金管理股份有限公司-社保基金17022组合",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9628152,
-      "HOLD_NUM_RATIO": 3.82,
-      "HOLD_NUM_CHANGE": "-656100",
-      "CHANGE_RATIO": -6.37965697
-    },
-    {
-      "SECUCODE": "002871.SZ",
-      "SECURITY_CODE": "002871",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "青岛惠隆企业管理有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8864168,
-      "HOLD_NUM_RATIO": 3.52,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002871.SZ",
-      "SECURITY_CODE": "002871",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "范玉隆",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 8171475,
-      "HOLD_NUM_RATIO": 3.24,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002871.SZ",
-      "SECURITY_CODE": "002871",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "孙慧明",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7033297,
-      "HOLD_NUM_RATIO": 2.79,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002871.SZ",
-      "SECURITY_CODE": "002871",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "杨燕灵",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5355514,
-      "HOLD_NUM_RATIO": 2.13,
-      "HOLD_NUM_CHANGE": "3655530",
-      "CHANGE_RATIO": 215.03320031
-    },
-    {
-      "SECUCODE": "002871.SZ",
-      "SECURITY_CODE": "002871",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "上海循理资产管理有限公司-循理盛源1号私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4375000,
-      "HOLD_NUM_RATIO": 1.74,
-      "HOLD_NUM_CHANGE": "-724900",
-      "CHANGE_RATIO": -14.2140042
-    },
-    {
-      "SECUCODE": "002871.SZ",
-      "SECURITY_CODE": "002871",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "杨学良",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4197319,
-      "HOLD_NUM_RATIO": 1.67,
-      "HOLD_NUM_CHANGE": "30300",
-      "CHANGE_RATIO": 0.72713851
-    },
-    {
-      "SECUCODE": "002871.SZ",
-      "SECURITY_CODE": "002871",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "上海循理资产管理有限公司-循理盛源5号私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2550000,
-      "HOLD_NUM_RATIO": 1.01,
-      "HOLD_NUM_CHANGE": "-750000",
-      "CHANGE_RATIO": -22.72727273
-    },
-    {
-      "SECUCODE": "002871.SZ",
-      "SECURITY_CODE": "002871",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "上海永拓投资管理有限公司-永拓投资久盈1号私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2094700,
-      "HOLD_NUM_RATIO": 0.83,
-      "HOLD_NUM_CHANGE": "-325400",
-      "CHANGE_RATIO": -13.44572538
+      "HOLD_NUM": 121484000,
+      "HOLD_NUM_RATIO": 48.24,
+      "HOLD_NUM_CHANGE": "-976000",
+      "CHANGE_RATIO": -0.79699494
     }
   ],
   "jgcc": [
