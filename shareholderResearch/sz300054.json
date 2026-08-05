@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "300054.SZ",
+      "END_DATE": "2026-08-03 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300054.SZ",
       "END_DATE": "2026-03-31 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "300054.SZ",
       "END_DATE": "2018-04-20 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300054.SZ",
-      "END_DATE": "2018-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -420,7 +420,7 @@
       "SECUCODE": "300054.SZ",
       "SECURITY_CODE": "300054",
       "HOLDER_NAME": "朱双全,朱顺全",
-      "HOLD_RATIO": 29.25
+      "HOLD_RATIO": 29.05
     }
   ],
   "jgcc_date": [
@@ -445,7 +445,41 @@
       "REPORT_DATE": "2025-06-30 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-08-03 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 47537879,
+      "HOLD_NUM_RATIO": 4.98,
+      "HOLD_CHANGE": "10127419",
+      "CHANGE_RATIO": 27.07108921,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-08-03 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "上海理成资产管理有限公司-理成圣远1号A期私募投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 8825926,
+      "HOLD_NUM_RATIO": 0.92,
+      "HOLD_CHANGE": "-1582100",
+      "CHANGE_RATIO": -15.2007691,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-08-03 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国太平洋人寿保险股份有限公司-分红-个人分红",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6891286,
+      "HOLD_NUM_RATIO": 0.72,
+      "HOLD_CHANGE": "-2127300",
+      "CHANGE_RATIO": -23.58795492,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "300054.SZ",
@@ -618,56 +652,44 @@
     {
       "SECUCODE": "300054.SZ",
       "SECURITY_CODE": "300054",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-08-03 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "朱双全",
       "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 139249514,
-      "HOLD_NUM_RATIO": 14.69,
+      "HOLD_NUM_RATIO": 14.59,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300054.SZ",
       "SECURITY_CODE": "300054",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-08-03 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "朱顺全",
       "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 138031414,
-      "HOLD_NUM_RATIO": 14.56,
+      "HOLD_NUM_RATIO": 14.46,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300054.SZ",
       "SECURITY_CODE": "300054",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-08-03 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 37410460,
-      "HOLD_NUM_RATIO": 3.95,
-      "HOLD_NUM_CHANGE": "7357595",
-      "CHANGE_RATIO": 24.48217499
+      "HOLD_NUM": 47537879,
+      "HOLD_NUM_RATIO": 4.98,
+      "HOLD_NUM_CHANGE": "10127419",
+      "CHANGE_RATIO": 27.07108921
     },
     {
       "SECUCODE": "300054.SZ",
       "SECURITY_CODE": "300054",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-08-03 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "上海理成资产管理有限公司-理成圣远1号A期私募投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10408026,
-      "HOLD_NUM_RATIO": 1.1,
-      "HOLD_NUM_CHANGE": "-500000",
-      "CHANGE_RATIO": -4.58378079
-    },
-    {
-      "SECUCODE": "300054.SZ",
-      "SECURITY_CODE": "300054",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "上海理成资产管理有限公司-理成圣远6号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 9614037,
@@ -678,60 +700,72 @@
     {
       "SECUCODE": "300054.SZ",
       "SECURITY_CODE": "300054",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-08-03 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "上海理成资产管理有限公司-理成圣远1号A期私募投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 8825926,
+      "HOLD_NUM_RATIO": 0.92,
+      "HOLD_NUM_CHANGE": "-1582100",
+      "CHANGE_RATIO": -15.2007691
+    },
+    {
+      "SECUCODE": "300054.SZ",
+      "SECURITY_CODE": "300054",
+      "END_DATE": "2026-08-03 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国太平洋人寿保险股份有限公司-分红-个人分红",
+      "HOLDER_NAME": "中国工商银行股份有限公司-易方达创业板交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9018586,
-      "HOLD_NUM_RATIO": 0.95,
-      "HOLD_NUM_CHANGE": "-479700",
-      "CHANGE_RATIO": -5.05038488
+      "HOLD_NUM": 8170975,
+      "HOLD_NUM_RATIO": 0.86,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300054.SZ",
       "SECURITY_CODE": "300054",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-08-03 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国工商银行股份有限公司-汇添富科技创新灵活配置混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8790271,
-      "HOLD_NUM_RATIO": 0.93,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300054.SZ",
-      "SECURITY_CODE": "300054",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "上海睿郡资产管理有限公司-睿郡有孚1号私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8432456,
-      "HOLD_NUM_RATIO": 0.89,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300054.SZ",
-      "SECURITY_CODE": "300054",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "上海睿郡资产管理有限公司-睿郡有孚3号私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7757148,
-      "HOLD_NUM_RATIO": 0.82,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300054.SZ",
-      "SECURITY_CODE": "300054",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "中国太平洋人寿保险股份有限公司-传统-普通保险产品",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 7532703,
       "HOLD_NUM_RATIO": 0.79,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300054.SZ",
+      "SECURITY_CODE": "300054",
+      "END_DATE": "2026-08-03 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7346426,
+      "HOLD_NUM_RATIO": 0.77,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300054.SZ",
+      "SECURITY_CODE": "300054",
+      "END_DATE": "2026-08-03 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国太平洋人寿保险股份有限公司-分红-个人分红",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6891286,
+      "HOLD_NUM_RATIO": 0.72,
+      "HOLD_NUM_CHANGE": "-2127300",
+      "CHANGE_RATIO": -23.58795492
+    },
+    {
+      "SECUCODE": "300054.SZ",
+      "SECURITY_CODE": "300054",
+      "END_DATE": "2026-08-03 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "基本养老保险基金二一零六组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6238834,
+      "HOLD_NUM_RATIO": 0.65,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
