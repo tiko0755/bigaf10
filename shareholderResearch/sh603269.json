@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "603269.SH",
+      "END_DATE": "2026-08-05 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "603269.SH",
       "END_DATE": "2026-03-31 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "603269.SH",
       "END_DATE": "2019-12-24 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "603269.SH",
-      "END_DATE": "2019-12-23 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -420,7 +420,7 @@
       "SECUCODE": "603269.SH",
       "SECURITY_CODE": "603269",
       "HOLDER_NAME": "吴祝平,金敖大",
-      "HOLD_RATIO": 25.64
+      "HOLD_RATIO": 25
     }
   ],
   "jgcc_date": [
@@ -445,7 +445,30 @@
       "REPORT_DATE": "2025-06-30 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-08-05 00:00:00",
+      "HOLDER_RANK": 1,
+      "HOLDER_NAME": "吴祝平",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 56903700,
+      "HOLD_NUM_RATIO": 13.17,
+      "HOLD_CHANGE": "16258200",
+      "CHANGE_RATIO": 40,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-08-05 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "金敖大",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 51082701,
+      "HOLD_NUM_RATIO": 11.8262,
+      "HOLD_CHANGE": "12555843",
+      "CHANGE_RATIO": 32.58984421,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "603269.SH",
@@ -618,122 +641,26 @@
     {
       "SECUCODE": "603269.SH",
       "SECURITY_CODE": "603269",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-08-05 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "吴祝平",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 40645500,
-      "HOLD_NUM_RATIO": 13.16,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 56903700,
+      "HOLD_NUM_RATIO": 13.17,
+      "HOLD_NUM_CHANGE": "16258200",
+      "CHANGE_RATIO": 40
     },
     {
       "SECUCODE": "603269.SH",
       "SECURITY_CODE": "603269",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-08-05 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "金敖大",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 38526858,
-      "HOLD_NUM_RATIO": 12.48,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603269.SH",
-      "SECURITY_CODE": "603269",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "杨华",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 12184332,
-      "HOLD_NUM_RATIO": 3.95,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603269.SH",
-      "SECURITY_CODE": "603269",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "江苏海鸥冷却塔股份有限公司-2025年员工持股计划",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8075000,
-      "HOLD_NUM_RATIO": 2.62,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603269.SH",
-      "SECURITY_CODE": "603269",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "共青城天保兴投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7919907,
-      "HOLD_NUM_RATIO": 2.57,
-      "HOLD_NUM_CHANGE": "-800000",
-      "CHANGE_RATIO": -9.17440977
-    },
-    {
-      "SECUCODE": "603269.SH",
-      "SECURITY_CODE": "603269",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国建设银行股份有限公司-华安汇宏精选混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6869521,
-      "HOLD_NUM_RATIO": 2.22,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603269.SH",
-      "SECURITY_CODE": "603269",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "张中协",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4844354,
-      "HOLD_NUM_RATIO": 1.57,
-      "HOLD_NUM_CHANGE": "-400000",
-      "CHANGE_RATIO": -7.62725018
-    },
-    {
-      "SECUCODE": "603269.SH",
-      "SECURITY_CODE": "603269",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "王国伟",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4689160,
-      "HOLD_NUM_RATIO": 1.52,
-      "HOLD_NUM_CHANGE": "284800",
-      "CHANGE_RATIO": 6.46631974
-    },
-    {
-      "SECUCODE": "603269.SH",
-      "SECURITY_CODE": "603269",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "兴业银行股份有限公司-广发稳鑫保本混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3870200,
-      "HOLD_NUM_RATIO": 1.25,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603269.SH",
-      "SECURITY_CODE": "603269",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "许智钧",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3661696,
-      "HOLD_NUM_RATIO": 1.19,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 51082701,
+      "HOLD_NUM_RATIO": 11.8262,
+      "HOLD_NUM_CHANGE": "12555843",
+      "CHANGE_RATIO": 32.58984421
     }
   ],
   "jgcc": [

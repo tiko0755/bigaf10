@@ -53,8 +53,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 15.58,
       "AVG_HOLD_AMT": 767155.372067264,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 88.68685051,
+      "FREEHOLD_RATIO_TOTAL": 88.68685051
     },
     {
       "SECUCODE": "603132.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603132.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "603132.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603132.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "603132.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603132.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603132.SH",
       "END_DATE": "2026-03-31 00:00:00",
@@ -296,6 +301,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "603132.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "603132.SH",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -309,10 +318,6 @@
     {
       "SECUCODE": "603132.SH",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "603132.SH",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -343,7 +348,7 @@
     {
       "SECUCODE": "603132.SH",
       "SECURITY_CODE": "603132",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "甘肃亚特投资集团有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -356,7 +361,7 @@
     {
       "SECUCODE": "603132.SH",
       "SECURITY_CODE": "603132",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中铭国际控股集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -369,7 +374,7 @@
     {
       "SECUCODE": "603132.SH",
       "SECURITY_CODE": "603132",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "徽县奥亚实业有限公司",
       "HOLDER_TYPE": "其它",
@@ -382,7 +387,7 @@
     {
       "SECUCODE": "603132.SH",
       "SECURITY_CODE": "603132",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "海南嘉恒百利投资中心(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -395,7 +400,7 @@
     {
       "SECUCODE": "603132.SH",
       "SECURITY_CODE": "603132",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "海南盛星投资中心(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -408,20 +413,20 @@
     {
       "SECUCODE": "603132.SH",
       "SECURITY_CODE": "603132",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "甘肃绿色矿产投资发展基金(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 25651600,
       "FREE_HOLDNUM_RATIO": 2.622862985685,
-      "HOLD_NUM_CHANGE": "-15451700",
-      "CHANGE_RATIO": -37.59235876
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603132.SH",
       "SECURITY_CODE": "603132",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "金徽矿业股份有限公司-第一期员工持股计划",
       "HOLDER_TYPE": "员工持股计划",
@@ -434,21 +439,8 @@
     {
       "SECUCODE": "603132.SH",
       "SECURITY_CODE": "603132",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "全国社保基金四一八组合",
-      "HOLDER_TYPE": "全国社保基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5768600,
-      "FREE_HOLDNUM_RATIO": 0.589836400818,
-      "HOLD_NUM_CHANGE": "2682100",
-      "CHANGE_RATIO": 86.89778066
-    },
-    {
-      "SECUCODE": "603132.SH",
-      "SECURITY_CODE": "603132",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "李雄",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -460,35 +452,48 @@
     {
       "SECUCODE": "603132.SH",
       "SECURITY_CODE": "603132",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "全国社保基金四一八组合",
+      "HOLDER_TYPE": "全国社保基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4267900,
+      "FREE_HOLDNUM_RATIO": 0.436390593047,
+      "HOLD_NUM_CHANGE": "-1500700",
+      "CHANGE_RATIO": -26.01497764
+    },
+    {
+      "SECUCODE": "603132.SH",
+      "SECURITY_CODE": "603132",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3956353,
-      "FREE_HOLDNUM_RATIO": 0.404535071575,
-      "HOLD_NUM_CHANGE": "-248085",
-      "CHANGE_RATIO": -5.9005508
+      "HOLD_NUM": 2557736,
+      "FREE_HOLDNUM_RATIO": 0.261527198364,
+      "HOLD_NUM_CHANGE": "-1398617",
+      "CHANGE_RATIO": -35.35116811
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "603132.SH",
       "SECURITY_CODE": "603132",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 870256715,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 867357398,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 107743285,
-      "HOLD_NUM_RATIO": 88.98,
+      "OTHER_UNLIMITED_SHARES": 110642602,
+      "HOLD_NUM_RATIO": 88.69,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 11.02
+      "UNLIMITED_SHARES_RATIO": 11.31
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603132.SH",
       "SECURITY_CODE": "603132",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "甘肃亚特投资集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -500,7 +505,7 @@
     {
       "SECUCODE": "603132.SH",
       "SECURITY_CODE": "603132",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中铭国际控股集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -512,7 +517,7 @@
     {
       "SECUCODE": "603132.SH",
       "SECURITY_CODE": "603132",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "徽县奥亚实业有限公司",
       "SHARES_TYPE": "流通A股",
@@ -524,7 +529,7 @@
     {
       "SECUCODE": "603132.SH",
       "SECURITY_CODE": "603132",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "海南嘉恒百利投资中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -536,7 +541,7 @@
     {
       "SECUCODE": "603132.SH",
       "SECURITY_CODE": "603132",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "海南盛星投资中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -548,19 +553,19 @@
     {
       "SECUCODE": "603132.SH",
       "SECURITY_CODE": "603132",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "甘肃绿色矿产投资发展基金(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 25651600,
       "HOLD_NUM_RATIO": 2.62,
-      "HOLD_NUM_CHANGE": "-15451700",
-      "CHANGE_RATIO": -37.59235876
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603132.SH",
       "SECURITY_CODE": "603132",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "金徽矿业股份有限公司-第一期员工持股计划",
       "SHARES_TYPE": "流通A股",
@@ -572,20 +577,8 @@
     {
       "SECUCODE": "603132.SH",
       "SECURITY_CODE": "603132",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "全国社保基金四一八组合",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5768600,
-      "HOLD_NUM_RATIO": 0.59,
-      "HOLD_NUM_CHANGE": "2682100",
-      "CHANGE_RATIO": 86.89778066
-    },
-    {
-      "SECUCODE": "603132.SH",
-      "SECURITY_CODE": "603132",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "李雄",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 5000000,
@@ -596,46 +589,58 @@
     {
       "SECUCODE": "603132.SH",
       "SECURITY_CODE": "603132",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "全国社保基金四一八组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4267900,
+      "HOLD_NUM_RATIO": 0.44,
+      "HOLD_NUM_CHANGE": "-1500700",
+      "CHANGE_RATIO": -26.01497764
+    },
+    {
+      "SECUCODE": "603132.SH",
+      "SECURITY_CODE": "603132",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3956353,
-      "HOLD_NUM_RATIO": 0.4,
-      "HOLD_NUM_CHANGE": "-248085",
-      "CHANGE_RATIO": -5.9005508
+      "HOLD_NUM": 2557736,
+      "HOLD_NUM_RATIO": 0.26,
+      "HOLD_NUM_CHANGE": "-1398617",
+      "CHANGE_RATIO": -35.35116811
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "603132.SH",
       "SECURITY_CODE": "603132",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
       "TOTAL_ORG_NUM": 9,
-      "TOTAL_FREE_SHARES": 865256715,
-      "TOTAL_SHARES_RATIO": 88.47205674,
-      "ALL_SHARES_RATIO": 88.47205674
+      "TOTAL_FREE_SHARES": 862357398,
+      "TOTAL_SHARES_RATIO": 88.17560306,
+      "ALL_SHARES_RATIO": 88.17560306
     },
     {
       "SECUCODE": "603132.SH",
       "SECURITY_CODE": "603132",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "03",
       "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 5768600,
-      "TOTAL_SHARES_RATIO": 0.5898364,
-      "ALL_SHARES_RATIO": 0.5898364
+      "TOTAL_FREE_SHARES": 4267900,
+      "TOTAL_SHARES_RATIO": 0.43639059,
+      "ALL_SHARES_RATIO": 0.43639059
     },
     {
       "SECUCODE": "603132.SH",
       "SECURITY_CODE": "603132",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 8,
-      "TOTAL_FREE_SHARES": 859488115,
-      "TOTAL_SHARES_RATIO": 87.88222034,
-      "ALL_SHARES_RATIO": 87.88222034
+      "TOTAL_FREE_SHARES": 858089498,
+      "TOTAL_SHARES_RATIO": 87.73921247,
+      "ALL_SHARES_RATIO": 87.73921247
     }
   ],
   "jjcg": [

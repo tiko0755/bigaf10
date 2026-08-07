@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "688038.SH",
+      "END_DATE": "2026-08-05 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "688038.SH",
       "END_DATE": "2026-03-31 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "688038.SH",
       "END_DATE": "2014-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "688038.SH",
-      "END_DATE": "2014-04-25 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -420,7 +420,7 @@
       "SECUCODE": "688038.SH",
       "SECURITY_CODE": "688038",
       "HOLDER_NAME": "王开学,王剑峰",
-      "HOLD_RATIO": 24.66
+      "HOLD_RATIO": 18.49
     }
   ],
   "jgcc_date": [
@@ -445,7 +445,30 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-08-05 00:00:00",
+      "HOLDER_RANK": 1,
+      "HOLDER_NAME": "王开学",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 14782813,
+      "HOLD_NUM_RATIO": 12.7,
+      "HOLD_CHANGE": "-4927604",
+      "CHANGE_RATIO": -24.99999873,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-08-05 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "王剑峰",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6742028,
+      "HOLD_NUM_RATIO": 5.79,
+      "HOLD_CHANGE": "-2247342",
+      "CHANGE_RATIO": -24.99999444,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "688038.SH",
@@ -618,20 +641,32 @@
     {
       "SECUCODE": "688038.SH",
       "SECURITY_CODE": "688038",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-08-05 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "王开学",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 19710417,
-      "HOLD_NUM_RATIO": 16.94,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 14782813,
+      "HOLD_NUM_RATIO": 12.7,
+      "HOLD_NUM_CHANGE": "-4927604",
+      "CHANGE_RATIO": -24.99999873
+    },
+    {
+      "SECUCODE": "688038.SH",
+      "SECURITY_CODE": "688038",
+      "END_DATE": "2026-08-05 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "上海悦驰无疆科技合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 11541180,
+      "HOLD_NUM_RATIO": 9.92,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688038.SH",
       "SECURITY_CODE": "688038",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 2,
+      "END_DATE": "2026-08-05 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "武汉光谷科创投私募股权基金管理有限公司-武汉光谷成长创业投资基金有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 10000000,
@@ -642,98 +677,14 @@
     {
       "SECUCODE": "688038.SH",
       "SECURITY_CODE": "688038",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 3,
+      "END_DATE": "2026-08-05 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "王剑峰",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8989370,
-      "HOLD_NUM_RATIO": 7.72,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688038.SH",
-      "SECURITY_CODE": "688038",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "武汉信联永合高科技投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5000000,
-      "HOLD_NUM_RATIO": 4.3,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688038.SH",
-      "SECURITY_CODE": "688038",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "武汉高科国有控股集团有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3850000,
-      "HOLD_NUM_RATIO": 3.31,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688038.SH",
-      "SECURITY_CODE": "688038",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "武汉泽诚永合科技投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2000000,
-      "HOLD_NUM_RATIO": 1.72,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688038.SH",
-      "SECURITY_CODE": "688038",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "虞玉明",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1147185,
-      "HOLD_NUM_RATIO": 0.99,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688038.SH",
-      "SECURITY_CODE": "688038",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "郑国强",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1068858,
-      "HOLD_NUM_RATIO": 0.92,
-      "HOLD_NUM_CHANGE": "108338",
-      "CHANGE_RATIO": 11.27909882
-    },
-    {
-      "SECUCODE": "688038.SH",
-      "SECURITY_CODE": "688038",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "刘晓敏",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1004605,
-      "HOLD_NUM_RATIO": 0.86,
-      "HOLD_NUM_CHANGE": "-56684",
-      "CHANGE_RATIO": -5.34105225
-    },
-    {
-      "SECUCODE": "688038.SH",
-      "SECURITY_CODE": "688038",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 732100,
-      "HOLD_NUM_RATIO": 0.63,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 6742028,
+      "HOLD_NUM_RATIO": 5.79,
+      "HOLD_NUM_CHANGE": "-2247342",
+      "CHANGE_RATIO": -24.99999444
     }
   ],
   "jgcc": [
