@@ -166,6 +166,16 @@
   "sdgd_date": [
     {
       "SECUCODE": "603816.SH",
+      "END_DATE": "2026-08-07 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "603816.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "603816.SH",
       "END_DATE": "2026-03-31 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -403,16 +413,6 @@
       "SECUCODE": "603816.SH",
       "END_DATE": "2018-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "603816.SH",
-      "END_DATE": "2018-11-23 00:00:00",
-      "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "603816.SH",
-      "END_DATE": "2018-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -445,7 +445,74 @@
       "REPORT_DATE": "2025-06-30 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-08-07 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 17734180,
+      "HOLD_NUM_RATIO": 1.92,
+      "HOLD_CHANGE": "-9145202",
+      "CHANGE_RATIO": -34.0231111,
+      "CHANGE_REASON": "增发上市"
+    },
+    {
+      "END_DATE": "2026-08-07 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "全国社保基金四一三组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 17338138,
+      "HOLD_NUM_RATIO": 1.87,
+      "HOLD_CHANGE": "2086600",
+      "CHANGE_RATIO": 13.68124316,
+      "CHANGE_REASON": "增发上市"
+    },
+    {
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "芜湖建信鼎信投资管理中心(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 37391600,
+      "HOLD_NUM_RATIO": 4.55,
+      "HOLD_CHANGE": "-40000",
+      "CHANGE_RATIO": -0.10686158,
+      "CHANGE_REASON": "发行前"
+    },
+    {
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 26879382,
+      "HOLD_NUM_RATIO": 3.27,
+      "HOLD_CHANGE": "9506853",
+      "CHANGE_RATIO": 54.72348326,
+      "CHANGE_REASON": "发行前"
+    },
+    {
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "TB Home Limited",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 26668066,
+      "HOLD_NUM_RATIO": 3.25,
+      "HOLD_CHANGE": "-5000000",
+      "CHANGE_RATIO": -15.78877599,
+      "CHANGE_REASON": "发行前"
+    },
+    {
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "全国社保基金四一三组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 15251538,
+      "HOLD_NUM_RATIO": 1.86,
+      "HOLD_CHANGE": "-1476600",
+      "CHANGE_RATIO": -8.82704339,
+      "CHANGE_REASON": "发行前"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "603816.SH",
@@ -475,7 +542,7 @@
       "LIFT_DATE": "2027-06-28 00:00:00",
       "LIFT_NUM": 2878586,
       "LIFT_TYPE": "股权激励限售股份",
-      "TOTAL_SHARES_RATIO": 0.35,
+      "TOTAL_SHARES_RATIO": 0.31,
       "UNLIMITED_A_SHARES_RATIO": 0.35
     },
     {
@@ -484,8 +551,17 @@
       "LIFT_DATE": "2028-06-26 00:00:00",
       "LIFT_NUM": 2878587,
       "LIFT_TYPE": "股权激励限售股份",
-      "TOTAL_SHARES_RATIO": 0.35,
+      "TOTAL_SHARES_RATIO": 0.31,
       "UNLIMITED_A_SHARES_RATIO": 0.35
+    },
+    {
+      "SECUCODE": "603816.SH",
+      "SECURITY_CODE": "603816",
+      "LIFT_DATE": "2029-08-07 00:00:00",
+      "LIFT_NUM": 104281493,
+      "LIFT_TYPE": "定向增发机构配售股份",
+      "TOTAL_SHARES_RATIO": 11.26,
+      "UNLIMITED_A_SHARES_RATIO": 12.78
     }
   ],
   "sdltgd": [
@@ -637,121 +713,121 @@
     {
       "SECUCODE": "603816.SH",
       "SECURITY_CODE": "603816",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-08-07 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "宁波盈峰睿和投资管理有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 241838695,
-      "HOLD_NUM_RATIO": 29.44,
+      "HOLD_NUM_RATIO": 26.12,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603816.SH",
       "SECURITY_CODE": "603816",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-08-07 00:00:00",
       "HOLDER_RANK": 2,
+      "HOLDER_NAME": "盈峰集团有限公司",
+      "SHARES_TYPE": "限售流通A股",
+      "HOLD_NUM": 104281493,
+      "HOLD_NUM_RATIO": 11.26,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603816.SH",
+      "SECURITY_CODE": "603816",
+      "END_DATE": "2026-08-07 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "杭州德烨嘉俊企业管理有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 88471483,
-      "HOLD_NUM_RATIO": 10.77,
+      "HOLD_NUM_RATIO": 9.56,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603816.SH",
       "SECURITY_CODE": "603816",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 3,
+      "END_DATE": "2026-08-07 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "芜湖建信鼎信投资管理中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 37431600,
-      "HOLD_NUM_RATIO": 4.56,
-      "HOLD_NUM_CHANGE": "-2583300",
-      "CHANGE_RATIO": -6.4558452
+      "HOLD_NUM": 37391600,
+      "HOLD_NUM_RATIO": 4.04,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603816.SH",
       "SECURITY_CODE": "603816",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-08-07 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "TB Home Limited",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 31668066,
-      "HOLD_NUM_RATIO": 3.86,
-      "HOLD_NUM_CHANGE": "-9508700",
-      "CHANGE_RATIO": -23.09239147
+      "HOLD_NUM": 26668066,
+      "HOLD_NUM_RATIO": 2.88,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603816.SH",
       "SECURITY_CODE": "603816",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-08-07 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 17372529,
-      "HOLD_NUM_RATIO": 2.11,
-      "HOLD_NUM_CHANGE": "-2957684",
-      "CHANGE_RATIO": -14.54821944
+      "HOLD_NUM": 17734180,
+      "HOLD_NUM_RATIO": 1.92,
+      "HOLD_NUM_CHANGE": "-9145202",
+      "CHANGE_RATIO": -34.0231111
     },
     {
       "SECUCODE": "603816.SH",
       "SECURITY_CODE": "603816",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-08-07 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "全国社保基金四一三组合",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 16728138,
-      "HOLD_NUM_RATIO": 2.04,
-      "HOLD_NUM_CHANGE": "729300",
-      "CHANGE_RATIO": 4.55845606
+      "HOLD_NUM": 17338138,
+      "HOLD_NUM_RATIO": 1.87,
+      "HOLD_NUM_CHANGE": "2086600",
+      "CHANGE_RATIO": 13.68124316
     },
     {
       "SECUCODE": "603816.SH",
       "SECURITY_CODE": "603816",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-08-07 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "李东来",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 16679431,
-      "HOLD_NUM_RATIO": 2.03,
+      "HOLD_NUM_RATIO": 1.8,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603816.SH",
       "SECURITY_CODE": "603816",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-08-07 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "杭州代明贸易有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 14700000,
-      "HOLD_NUM_RATIO": 1.79,
+      "HOLD_NUM_RATIO": 1.59,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603816.SH",
       "SECURITY_CODE": "603816",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-08-07 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "宁波双睿汇银股权投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 10031520,
-      "HOLD_NUM_RATIO": 1.22,
+      "HOLD_NUM_RATIO": 1.08,
       "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603816.SH",
-      "SECURITY_CODE": "603816",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "邹妙琴",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9508700,
-      "HOLD_NUM_RATIO": 1.16,
-      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
