@@ -53,8 +53,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 14.15,
       "AVG_HOLD_AMT": 98771.761573755,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 37.94340642,
+      "FREEHOLD_RATIO_TOTAL": 37.10760436
     },
     {
       "SECUCODE": "002576.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002576.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "002576.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002576.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "002576.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002576.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002576.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002576.SZ",
       "END_DATE": "2016-10-14 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "002576.SZ",
-      "END_DATE": "2016-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "002576.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
     {
       "SECUCODE": "002576.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "002576.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "002576.SZ",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "002576.SZ",
       "SECURITY_CODE": "002576",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "南通奕达企业管理咨询有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,60 +486,47 @@
     {
       "SECUCODE": "002576.SZ",
       "SECURITY_CODE": "002576",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "王爱军",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3185900,
-      "FREE_HOLDNUM_RATIO": 1.96627029606,
-      "HOLD_NUM_CHANGE": "-200",
-      "CHANGE_RATIO": -0.00627727
+      "HOLD_NUM": 3184900,
+      "FREE_HOLDNUM_RATIO": 1.965653117148,
+      "HOLD_NUM_CHANGE": "-1000",
+      "CHANGE_RATIO": -0.0313883
     },
     {
       "SECUCODE": "002576.SZ",
       "SECURITY_CODE": "002576",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "刘文华",
+      "HOLDER_NAME": "羌林林",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2359000,
-      "FREE_HOLDNUM_RATIO": 1.455925053644,
+      "HOLD_NUM": 2373200,
+      "FREE_HOLDNUM_RATIO": 1.464688994196,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002576.SZ",
       "SECURITY_CODE": "002576",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "王岳",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2060092,
-      "FREE_HOLDNUM_RATIO": 1.271445339386,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2160092,
+      "FREE_HOLDNUM_RATIO": 1.333163230596,
+      "HOLD_NUM_CHANGE": "100000",
+      "CHANGE_RATIO": 4.85415214
     },
     {
       "SECUCODE": "002576.SZ",
       "SECURITY_CODE": "002576",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "江苏通达动力科技股份有限公司回购专用证券账户",
-      "HOLDER_TYPE": "证券账户",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1660000,
-      "FREE_HOLDNUM_RATIO": 1.024516994086,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002576.SZ",
-      "SECURITY_CODE": "002576",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "秦皇岛宏兴钢铁集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -551,34 +538,21 @@
     {
       "SECUCODE": "002576.SZ",
       "SECURITY_CODE": "002576",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "臧之煊",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1000000,
-      "FREE_HOLDNUM_RATIO": 0.6171789121,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002576.SZ",
-      "SECURITY_CODE": "002576",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "陶婷婷",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 862400,
-      "FREE_HOLDNUM_RATIO": 0.532255093795,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1551900,
+      "FREE_HOLDNUM_RATIO": 0.957799953688,
+      "HOLD_NUM_CHANGE": "689500",
+      "CHANGE_RATIO": 79.9512987
     },
     {
       "SECUCODE": "002576.SZ",
       "SECURITY_CODE": "002576",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "姜客宇",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -590,35 +564,61 @@
     {
       "SECUCODE": "002576.SZ",
       "SECURITY_CODE": "002576",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "刘丽丽",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 830800,
-      "FREE_HOLDNUM_RATIO": 0.512752240173,
-      "HOLD_NUM_CHANGE": "-10600",
-      "CHANGE_RATIO": -1.25980509
+      "HOLD_NUM": 783200,
+      "FREE_HOLDNUM_RATIO": 0.483374523957,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002576.SZ",
+      "SECURITY_CODE": "002576",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "陕西省国际信托股份有限公司-陕国投·天门山2号证券投资集合资金信托计划",
+      "HOLDER_TYPE": "信托计划",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 780000,
+      "FREE_HOLDNUM_RATIO": 0.481399551438,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002576.SZ",
+      "SECURITY_CODE": "002576",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "高盛国际-自有资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 739064,
+      "FREE_HOLDNUM_RATIO": 0.456134715492,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "002576.SZ",
       "SECURITY_CODE": "002576",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 60510386,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 60124550,
       "LIMITED_SHARES": 3072429,
-      "OTHER_UNLIMITED_SHARES": 101517185,
-      "HOLD_NUM_RATIO": 36.65,
+      "OTHER_UNLIMITED_SHARES": 101903021,
+      "HOLD_NUM_RATIO": 36.42,
       "LIMITED_SHARES_RATIO": 1.86,
-      "UNLIMITED_SHARES_RATIO": 61.49
+      "UNLIMITED_SHARES_RATIO": 61.72
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002576.SZ",
       "SECURITY_CODE": "002576",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "南通奕达企业管理咨询有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "002576.SZ",
       "SECURITY_CODE": "002576",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "姜客宇",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -642,56 +642,44 @@
     {
       "SECUCODE": "002576.SZ",
       "SECURITY_CODE": "002576",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "王爱军",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3185900,
+      "HOLD_NUM": 3184900,
       "HOLD_NUM_RATIO": 1.93,
-      "HOLD_NUM_CHANGE": "-200",
-      "CHANGE_RATIO": -0.00627727
+      "HOLD_NUM_CHANGE": "-1000",
+      "CHANGE_RATIO": -0.0313883
     },
     {
       "SECUCODE": "002576.SZ",
       "SECURITY_CODE": "002576",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "刘文华",
+      "HOLDER_NAME": "羌林林",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2359000,
-      "HOLD_NUM_RATIO": 1.43,
+      "HOLD_NUM": 2373200,
+      "HOLD_NUM_RATIO": 1.44,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002576.SZ",
       "SECURITY_CODE": "002576",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "王岳",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2060092,
-      "HOLD_NUM_RATIO": 1.25,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2160092,
+      "HOLD_NUM_RATIO": 1.31,
+      "HOLD_NUM_CHANGE": "100000",
+      "CHANGE_RATIO": 4.85415214
     },
     {
       "SECUCODE": "002576.SZ",
       "SECURITY_CODE": "002576",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "江苏通达动力科技股份有限公司回购专用证券账户",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1660000,
-      "HOLD_NUM_RATIO": 1.01,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002576.SZ",
-      "SECURITY_CODE": "002576",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "秦皇岛宏兴钢铁集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1564700,
@@ -702,70 +690,92 @@
     {
       "SECUCODE": "002576.SZ",
       "SECURITY_CODE": "002576",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "臧之煊",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1000000,
-      "HOLD_NUM_RATIO": 0.61,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002576.SZ",
-      "SECURITY_CODE": "002576",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "陶婷婷",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 862400,
-      "HOLD_NUM_RATIO": 0.52,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 1551900,
+      "HOLD_NUM_RATIO": 0.94,
+      "HOLD_NUM_CHANGE": "689500",
+      "CHANGE_RATIO": 79.9512987
+    },
+    {
+      "SECUCODE": "002576.SZ",
+      "SECURITY_CODE": "002576",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "刘丽丽",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 783200,
+      "HOLD_NUM_RATIO": 0.47,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002576.SZ",
       "SECURITY_CODE": "002576",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "陕西省国际信托股份有限公司-陕国投·天门山2号证券投资集合资金信托计划",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 830800,
-      "HOLD_NUM_RATIO": 0.5,
-      "HOLD_NUM_CHANGE": "-10600",
-      "CHANGE_RATIO": -1.25980509
+      "HOLD_NUM": 780000,
+      "HOLD_NUM_RATIO": 0.47,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002576.SZ",
+      "SECURITY_CODE": "002576",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "言骅",
+      "SHARES_TYPE": "流通A股,限售流通A股",
+      "HOLD_NUM": 746595,
+      "HOLD_NUM_RATIO": 0.45,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "002576.SZ",
       "SECURITY_CODE": "002576",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
       "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 50205500,
-      "TOTAL_SHARES_RATIO": 30.98577586,
-      "ALL_SHARES_RATIO": 30.40914598
+      "TOTAL_FREE_SHARES": 49233764,
+      "TOTAL_SHARES_RATIO": 30.3860409,
+      "ALL_SHARES_RATIO": 29.82057177
     },
     {
       "SECUCODE": "002576.SZ",
       "SECURITY_CODE": "002576",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "ORG_TYPE": "01",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "02",
       "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 830800,
-      "TOTAL_SHARES_RATIO": 0.51275224,
-      "ALL_SHARES_RATIO": 0.50321018
+      "TOTAL_FREE_SHARES": 739064,
+      "TOTAL_SHARES_RATIO": 0.45613472,
+      "ALL_SHARES_RATIO": 0.44764627
     },
     {
       "SECUCODE": "002576.SZ",
       "SECURITY_CODE": "002576",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "06",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 780000,
+      "TOTAL_SHARES_RATIO": 0.48139955,
+      "ALL_SHARES_RATIO": 0.47244094
+    },
+    {
+      "SECUCODE": "002576.SZ",
+      "SECURITY_CODE": "002576",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 49374700,
-      "TOTAL_SHARES_RATIO": 30.47302362,
-      "ALL_SHARES_RATIO": 29.9059358
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 47714700,
+      "TOTAL_SHARES_RATIO": 29.44850663,
+      "ALL_SHARES_RATIO": 28.90048456
     }
   ],
   "jjcg": [
