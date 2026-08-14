@@ -67,8 +67,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 2.85,
       "AVG_HOLD_AMT": 50459.2931792701,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 40.89911868,
+      "FREEHOLD_RATIO_TOTAL": 40.89911868
     },
     {
       "SECUCODE": "600794.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600794.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "600794.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600794.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "600794.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600794.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600794.SH",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600794.SH",
       "END_DATE": "2020-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600794.SH",
-      "END_DATE": "2019-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "600794.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
     {
       "SECUCODE": "600794.SH",
       "REPORT_DATE": "2026-03-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "600794.SH",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "600794.SH",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600794.SH",
       "SECURITY_CODE": "600794",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "张家港保税区金港资产经营集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600794.SH",
       "SECURITY_CODE": "600794",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "张源",
       "HOLDER_TYPE": "个人",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "600794.SH",
       "SECURITY_CODE": "600794",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "深圳市前海益华投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -512,113 +512,113 @@
     {
       "SECUCODE": "600794.SH",
       "SECURITY_CODE": "600794",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "郑秋景",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4691000,
-      "FREE_HOLDNUM_RATIO": 0.390867105695,
-      "HOLD_NUM_CHANGE": "185500",
-      "CHANGE_RATIO": 4.1171901
+      "HOLD_NUM": 5003000,
+      "FREE_HOLDNUM_RATIO": 0.416863809378,
+      "HOLD_NUM_CHANGE": "312000",
+      "CHANGE_RATIO": 6.65103389
     },
     {
       "SECUCODE": "600794.SH",
       "SECURITY_CODE": "600794",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4363741,
-      "FREE_HOLDNUM_RATIO": 0.363598979892,
-      "HOLD_NUM_CHANGE": "2243655",
-      "CHANGE_RATIO": 105.82848998
-    },
-    {
-      "SECUCODE": "600794.SH",
-      "SECURITY_CODE": "600794",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "林易辉",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2377900,
-      "FREE_HOLDNUM_RATIO": 0.198133210538,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600794.SH",
-      "SECURITY_CODE": "600794",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "周学军",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2264400,
-      "FREE_HOLDNUM_RATIO": 0.188676076345,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600794.SH",
-      "SECURITY_CODE": "600794",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "徐光中",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2200000,
-      "FREE_HOLDNUM_RATIO": 0.183310090072,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600794.SH",
-      "SECURITY_CODE": "600794",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "陈波",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2079100,
-      "FREE_HOLDNUM_RATIO": 0.173236367395,
+      "HOLD_NUM": 3457400,
+      "FREE_HOLDNUM_RATIO": 0.288080138825,
+      "HOLD_NUM_CHANGE": "1378300",
+      "CHANGE_RATIO": 66.29310759
+    },
+    {
+      "SECUCODE": "600794.SH",
+      "SECURITY_CODE": "600794",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3012381,
+      "FREE_HOLDNUM_RATIO": 0.250999923837,
+      "HOLD_NUM_CHANGE": "-1351360",
+      "CHANGE_RATIO": -30.96792408
+    },
+    {
+      "SECUCODE": "600794.SH",
+      "SECURITY_CODE": "600794",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "吕源",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2675400,
+      "FREE_HOLDNUM_RATIO": 0.222921734081,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600794.SH",
       "SECURITY_CODE": "600794",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "庞丽霞",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "刘凤岐",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2038500,
-      "FREE_HOLDNUM_RATIO": 0.169853463006,
+      "HOLD_NUM": 2400100,
+      "FREE_HOLDNUM_RATIO": 0.199982975992,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600794.SH",
+      "SECURITY_CODE": "600794",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "林易辉",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2383900,
+      "FREE_HOLDNUM_RATIO": 0.198633147147,
+      "HOLD_NUM_CHANGE": "6000",
+      "CHANGE_RATIO": 0.25232348
+    },
+    {
+      "SECUCODE": "600794.SH",
+      "SECURITY_CODE": "600794",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "徐光中",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2300000,
+      "FREE_HOLDNUM_RATIO": 0.191642366894,
+      "HOLD_NUM_CHANGE": "100000",
+      "CHANGE_RATIO": 4.54545455
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600794.SH",
       "SECURITY_CODE": "600794",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 489634115,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 490851655,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 710518042,
-      "HOLD_NUM_RATIO": 40.8,
+      "OTHER_UNLIMITED_SHARES": 709300502,
+      "HOLD_NUM_RATIO": 40.9,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 59.2
+      "UNLIMITED_SHARES_RATIO": 59.1
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600794.SH",
       "SECURITY_CODE": "600794",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "张家港保税区金港资产经营集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600794.SH",
       "SECURITY_CODE": "600794",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "张源",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "600794.SH",
       "SECURITY_CODE": "600794",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "深圳市前海益华投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,108 +654,108 @@
     {
       "SECUCODE": "600794.SH",
       "SECURITY_CODE": "600794",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "郑秋景",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4691000,
-      "HOLD_NUM_RATIO": 0.39,
-      "HOLD_NUM_CHANGE": "185500",
-      "CHANGE_RATIO": 4.1171901
+      "HOLD_NUM": 5003000,
+      "HOLD_NUM_RATIO": 0.42,
+      "HOLD_NUM_CHANGE": "312000",
+      "CHANGE_RATIO": 6.65103389
     },
     {
       "SECUCODE": "600794.SH",
       "SECURITY_CODE": "600794",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4363741,
-      "HOLD_NUM_RATIO": 0.36,
-      "HOLD_NUM_CHANGE": "2243655",
-      "CHANGE_RATIO": 105.82848998
-    },
-    {
-      "SECUCODE": "600794.SH",
-      "SECURITY_CODE": "600794",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "林易辉",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2377900,
-      "HOLD_NUM_RATIO": 0.2,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600794.SH",
-      "SECURITY_CODE": "600794",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "周学军",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2264400,
-      "HOLD_NUM_RATIO": 0.19,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600794.SH",
-      "SECURITY_CODE": "600794",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "徐光中",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2200000,
-      "HOLD_NUM_RATIO": 0.18,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600794.SH",
-      "SECURITY_CODE": "600794",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "陈波",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2079100,
-      "HOLD_NUM_RATIO": 0.17,
+      "HOLD_NUM": 3457400,
+      "HOLD_NUM_RATIO": 0.29,
+      "HOLD_NUM_CHANGE": "1378300",
+      "CHANGE_RATIO": 66.29310759
+    },
+    {
+      "SECUCODE": "600794.SH",
+      "SECURITY_CODE": "600794",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3012381,
+      "HOLD_NUM_RATIO": 0.25,
+      "HOLD_NUM_CHANGE": "-1351360",
+      "CHANGE_RATIO": -30.96792408
+    },
+    {
+      "SECUCODE": "600794.SH",
+      "SECURITY_CODE": "600794",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "吕源",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2675400,
+      "HOLD_NUM_RATIO": 0.22,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600794.SH",
       "SECURITY_CODE": "600794",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "庞丽霞",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "刘凤岐",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2038500,
-      "HOLD_NUM_RATIO": 0.17,
+      "HOLD_NUM": 2400100,
+      "HOLD_NUM_RATIO": 0.2,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600794.SH",
+      "SECURITY_CODE": "600794",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "林易辉",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2383900,
+      "HOLD_NUM_RATIO": 0.2,
+      "HOLD_NUM_CHANGE": "6000",
+      "CHANGE_RATIO": 0.25232348
+    },
+    {
+      "SECUCODE": "600794.SH",
+      "SECURITY_CODE": "600794",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "徐光中",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2300000,
+      "HOLD_NUM_RATIO": 0.19,
+      "HOLD_NUM_CHANGE": "100000",
+      "CHANGE_RATIO": 4.54545455
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "600794.SH",
       "SECURITY_CODE": "600794",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
       "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 450483215,
-      "TOTAL_SHARES_RATIO": 37.53550851,
-      "ALL_SHARES_RATIO": 37.53550851
+      "TOTAL_FREE_SHARES": 449131855,
+      "TOTAL_SHARES_RATIO": 37.42290945,
+      "ALL_SHARES_RATIO": 37.42290945
     },
     {
       "SECUCODE": "600794.SH",
       "SECURITY_CODE": "600794",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 450483215,
-      "TOTAL_SHARES_RATIO": 37.53550851,
-      "ALL_SHARES_RATIO": 37.53550851
+      "TOTAL_FREE_SHARES": 449131855,
+      "TOTAL_SHARES_RATIO": 37.42290945,
+      "ALL_SHARES_RATIO": 37.42290945
     }
   ],
   "jjcg": [
