@@ -12,7 +12,7 @@
       "PRICE": 16.82,
       "AVG_HOLD_AMT": 93594.0277297864,
       "HOLD_RATIO_TOTAL": 36.53516688,
-      "FREEHOLD_RATIO_TOTAL": null
+      "FREEHOLD_RATIO_TOTAL": 36.53516688
     },
     {
       "SECUCODE": "600745.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600745.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "600745.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600745.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "600745.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600745.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600745.SH",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600745.SH",
       "END_DATE": "2020-03-11 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "600745.SH",
-      "END_DATE": "2019-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -420,10 +420,14 @@
       "SECUCODE": "600745.SH",
       "SECURITY_CODE": "600745",
       "HOLDER_NAME": "张学政",
-      "HOLD_RATIO": 3.01
+      "HOLD_RATIO": 2.94
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "600745.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
     {
       "SECUCODE": "600745.SH",
       "REPORT_DATE": "2026-03-31 00:00:00"
@@ -439,25 +443,9 @@
     {
       "SECUCODE": "600745.SH",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "600745.SH",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2026-01-08 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "无锡国联产业投资有限公司-无锡国联集成电路投资中心(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 62232593,
-      "HOLD_NUM_RATIO": 5,
-      "HOLD_CHANGE": "-4544000",
-      "CHANGE_RATIO": -6.80477963,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "600745.SH",
@@ -485,299 +473,289 @@
     {
       "SECUCODE": "600745.SH",
       "SECURITY_CODE": "600745",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "闻天下科技集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 153946037,
-      "FREE_HOLDNUM_RATIO": 12.368594839024,
+      "FREE_HOLDNUM_RATIO": 12.084916652227,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600745.SH",
       "SECURITY_CODE": "600745",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "天津融泽通远私募基金管理合伙企业(有限合伙)-珠海融林股权投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 77840434,
-      "FREE_HOLDNUM_RATIO": 6.253988793747,
+      "FREE_HOLDNUM_RATIO": 6.110551303527,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600745.SH",
       "SECURITY_CODE": "600745",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "无锡国联产业投资有限公司-无锡国联集成电路投资中心(有限合伙)",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 62232593,
-      "FREE_HOLDNUM_RATIO": 4.999997035317,
-      "HOLD_NUM_CHANGE": "-4544000",
-      "CHANGE_RATIO": -6.80477963
-    },
-    {
-      "SECUCODE": "600745.SH",
-      "SECURITY_CODE": "600745",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "昆明市产业发展股权投资基金合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 56076158,
-      "FREE_HOLDNUM_RATIO": 4.505366243569,
+      "FREE_HOLDNUM_RATIO": 4.402034042663,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600745.SH",
       "SECURITY_CODE": "600745",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "合肥芯屏产业投资基金(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 47601837,
-      "FREE_HOLDNUM_RATIO": 3.824507904976,
+      "FREE_HOLDNUM_RATIO": 3.736791435806,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600745.SH",
       "SECURITY_CODE": "600745",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "无锡国联产业投资私募基金管理有限公司-无锡国联集成电路投资中心(有限合伙)",
+      "HOLDER_TYPE": "私募基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 41376009,
+      "FREE_HOLDNUM_RATIO": 3.24805776044,
+      "HOLD_NUM_CHANGE": "-20856584",
+      "CHANGE_RATIO": -33.51392413
+    },
+    {
+      "SECUCODE": "600745.SH",
+      "SECURITY_CODE": "600745",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "张学政",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 37000000,
-      "FREE_HOLDNUM_RATIO": 2.972717050481,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 37499930,
+      "FREE_HOLDNUM_RATIO": 2.943781713032,
+      "HOLD_NUM_CHANGE": "499930",
+      "CHANGE_RATIO": 1.35116216
     },
     {
       "SECUCODE": "600745.SH",
       "SECURITY_CODE": "600745",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 30653272,
-      "FREE_HOLDNUM_RATIO": 2.462797414255,
-      "HOLD_NUM_CHANGE": "7126775",
-      "CHANGE_RATIO": 30.29254631
-    },
-    {
-      "SECUCODE": "600745.SH",
-      "SECURITY_CODE": "600745",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "珠海格力电器股份有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 19412700,
-      "FREE_HOLDNUM_RATIO": 1.559688223942,
+      "FREE_HOLDNUM_RATIO": 1.523916211592,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600745.SH",
       "SECURITY_CODE": "600745",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "云南省工业投资控股集团有限责任公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 14117627,
-      "FREE_HOLDNUM_RATIO": 1.134262445817,
+      "FREE_HOLDNUM_RATIO": 1.108247727236,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600745.SH",
       "SECURITY_CODE": "600745",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国建设银行股份有限公司-华夏国证半导体芯片交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10862424,
-      "FREE_HOLDNUM_RATIO": 0.872727379307,
-      "HOLD_NUM_CHANGE": "-366800",
-      "CHANGE_RATIO": -3.26647683
+      "HOLD_NUM": 13186524,
+      "FREE_HOLDNUM_RATIO": 1.035155217881,
+      "HOLD_NUM_CHANGE": "-17466748",
+      "CHANGE_RATIO": -56.98167556
+    },
+    {
+      "SECUCODE": "600745.SH",
+      "SECURITY_CODE": "600745",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "刘丽莉",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4353000,
+      "FREE_HOLDNUM_RATIO": 0.341714819116,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600745.SH",
       "SECURITY_CODE": "600745",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 509743082,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 465410256,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 734909516,
-      "HOLD_NUM_RATIO": 40.95,
+      "OTHER_UNLIMITED_SHARES": 808458993,
+      "HOLD_NUM_RATIO": 36.54,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 59.05
+      "UNLIMITED_SHARES_RATIO": 63.46
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600745.SH",
       "SECURITY_CODE": "600745",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "闻天下科技集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 153946037,
-      "HOLD_NUM_RATIO": 12.37,
+      "HOLD_NUM_RATIO": 12.08,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600745.SH",
       "SECURITY_CODE": "600745",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "天津融泽通远私募基金管理合伙企业(有限合伙)-珠海融林股权投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 77840434,
-      "HOLD_NUM_RATIO": 6.25,
+      "HOLD_NUM_RATIO": 6.11,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600745.SH",
       "SECURITY_CODE": "600745",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "无锡国联产业投资有限公司-无锡国联集成电路投资中心(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 62232593,
-      "HOLD_NUM_RATIO": 5,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600745.SH",
-      "SECURITY_CODE": "600745",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "昆明市产业发展股权投资基金合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 56076158,
-      "HOLD_NUM_RATIO": 4.51,
+      "HOLD_NUM_RATIO": 4.4,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600745.SH",
       "SECURITY_CODE": "600745",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "合肥芯屏产业投资基金(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 47601837,
-      "HOLD_NUM_RATIO": 3.82,
+      "HOLD_NUM_RATIO": 3.74,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600745.SH",
       "SECURITY_CODE": "600745",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "无锡国联产业投资私募基金管理有限公司-无锡国联集成电路投资中心(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 41376009,
+      "HOLD_NUM_RATIO": 3.25,
+      "HOLD_NUM_CHANGE": "-20856584",
+      "CHANGE_RATIO": -33.51392413
+    },
+    {
+      "SECUCODE": "600745.SH",
+      "SECURITY_CODE": "600745",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "张学政",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 37000000,
-      "HOLD_NUM_RATIO": 2.97,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 37499930,
+      "HOLD_NUM_RATIO": 2.94,
+      "HOLD_NUM_CHANGE": "499930",
+      "CHANGE_RATIO": 1.35116216
     },
     {
       "SECUCODE": "600745.SH",
       "SECURITY_CODE": "600745",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 30653272,
-      "HOLD_NUM_RATIO": 2.46,
-      "HOLD_NUM_CHANGE": "7126775",
-      "CHANGE_RATIO": 30.29254631
-    },
-    {
-      "SECUCODE": "600745.SH",
-      "SECURITY_CODE": "600745",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "珠海格力电器股份有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 19412700,
-      "HOLD_NUM_RATIO": 1.56,
+      "HOLD_NUM_RATIO": 1.52,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600745.SH",
       "SECURITY_CODE": "600745",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "云南省工业投资控股集团有限责任公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 14117627,
-      "HOLD_NUM_RATIO": 1.13,
+      "HOLD_NUM_RATIO": 1.11,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600745.SH",
       "SECURITY_CODE": "600745",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国建设银行股份有限公司-华夏国证半导体芯片交易型开放式指数证券投资基金",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10862424,
-      "HOLD_NUM_RATIO": 0.87,
-      "HOLD_NUM_CHANGE": "-366800",
-      "CHANGE_RATIO": -3.26647683
+      "HOLD_NUM": 13186524,
+      "HOLD_NUM_RATIO": 1.04,
+      "HOLD_NUM_CHANGE": "-17466748",
+      "CHANGE_RATIO": -56.98167556
+    },
+    {
+      "SECUCODE": "600745.SH",
+      "SECURITY_CODE": "600745",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "刘丽莉",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4353000,
+      "HOLD_NUM_RATIO": 0.34,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "600745.SH",
       "SECURITY_CODE": "600745",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 9,
-      "TOTAL_FREE_SHARES": 472743082,
-      "TOTAL_SHARES_RATIO": 37.98193027,
-      "ALL_SHARES_RATIO": 37.98193027
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 423557326,
+      "TOTAL_SHARES_RATIO": 33.24967035,
+      "ALL_SHARES_RATIO": 33.24967035
     },
     {
       "SECUCODE": "600745.SH",
       "SECURITY_CODE": "600745",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 10862424,
-      "TOTAL_SHARES_RATIO": 0.87272738,
-      "ALL_SHARES_RATIO": 0.87272738
-    },
-    {
-      "SECUCODE": "600745.SH",
-      "SECURITY_CODE": "600745",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 8,
-      "TOTAL_FREE_SHARES": 461880658,
-      "TOTAL_SHARES_RATIO": 37.10920289,
-      "ALL_SHARES_RATIO": 37.10920289
+      "TOTAL_FREE_SHARES": 423557326,
+      "TOTAL_SHARES_RATIO": 33.24967035,
+      "ALL_SHARES_RATIO": 33.24967035
     }
   ],
   "jjcg": [

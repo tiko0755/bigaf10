@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 14.66,
       "AVG_HOLD_AMT": 445742.865084841,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 39.96423507,
+      "FREEHOLD_RATIO_TOTAL": 39.96423507
     },
     {
       "SECUCODE": "603398.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603398.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "603398.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603398.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "603398.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603398.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603398.SH",
       "END_DATE": "2026-05-15 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603398.SH",
       "END_DATE": "2019-04-18 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "603398.SH",
-      "END_DATE": "2019-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "603398.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
     {
       "SECUCODE": "603398.SH",
       "REPORT_DATE": "2026-03-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "603398.SH",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "603398.SH",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [
@@ -455,17 +455,6 @@
       "HOLD_NUM_RATIO": 13.12,
       "HOLD_CHANGE": "-10470610",
       "CHANGE_RATIO": -15.54417352,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2026-02-11 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "江西沐邦新能源控股有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 67360352,
-      "HOLD_NUM_RATIO": 15.53,
-      "HOLD_CHANGE": "-2363264",
-      "CHANGE_RATIO": -3.38947423,
       "CHANGE_REASON": "临时公告"
     }
   ],
@@ -496,20 +485,20 @@
     {
       "SECUCODE": "603398.SH",
       "SECURITY_CODE": "603398",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "江西沐邦新能源控股有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 67360352,
-      "FREE_HOLDNUM_RATIO": 15.53364894087,
-      "HOLD_NUM_CHANGE": "-2363264",
-      "CHANGE_RATIO": -3.38947423
+      "HOLD_NUM": 56889742,
+      "FREE_HOLDNUM_RATIO": 13.119071595182,
+      "HOLD_NUM_CHANGE": "-10470610",
+      "CHANGE_RATIO": -15.54417352
     },
     {
       "SECUCODE": "603398.SH",
       "SECURITY_CODE": "603398",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "邦领国际有限公司",
       "HOLDER_TYPE": "其它",
@@ -522,21 +511,8 @@
     {
       "SECUCODE": "603398.SH",
       "SECURITY_CODE": "603398",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "郑庆祥",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 22000000,
-      "FREE_HOLDNUM_RATIO": 5.073314888544,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603398.SH",
-      "SECURITY_CODE": "603398",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "铜陵高新企航股权投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -548,100 +524,113 @@
     {
       "SECUCODE": "603398.SH",
       "SECURITY_CODE": "603398",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "郑煜东",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 11000000,
+      "FREE_HOLDNUM_RATIO": 2.536657444272,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603398.SH",
+      "SECURITY_CODE": "603398",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "郑煜方",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 11000000,
+      "FREE_HOLDNUM_RATIO": 2.536657444272,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603398.SH",
+      "SECURITY_CODE": "603398",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "文勇",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 10487490,
+      "FREE_HOLDNUM_RATIO": 2.418469961839,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603398.SH",
+      "SECURITY_CODE": "603398",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "李晓辉",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 3387480,
       "FREE_HOLDNUM_RATIO": 0.78117057812,
-      "HOLD_NUM_CHANGE": "47520",
-      "CHANGE_RATIO": 1.42277153
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603398.SH",
       "SECURITY_CODE": "603398",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "南昌金兴企业管理中心(有限合伙)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 2363264,
       "FREE_HOLDNUM_RATIO": 0.544981019853,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603398.SH",
       "SECURITY_CODE": "603398",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "林渝童",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 2357900,
       "FREE_HOLDNUM_RATIO": 0.543744053441,
-      "HOLD_NUM_CHANGE": "31000",
-      "CHANGE_RATIO": 1.33224462
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603398.SH",
       "SECURITY_CODE": "603398",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "周鑫平",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2204300,
-      "FREE_HOLDNUM_RATIO": 0.50832309131,
-      "HOLD_NUM_CHANGE": "-366800",
-      "CHANGE_RATIO": -14.26626736
-    },
-    {
-      "SECUCODE": "603398.SH",
-      "SECURITY_CODE": "603398",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "万柳军",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1962740,
-      "FREE_HOLDNUM_RATIO": 0.452618093834,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603398.SH",
-      "SECURITY_CODE": "603398",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "薛刚",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1910000,
-      "FREE_HOLDNUM_RATIO": 0.440455974414,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2117300,
+      "FREE_HOLDNUM_RATIO": 0.488260436978,
+      "HOLD_NUM_CHANGE": "-87000",
+      "CHANGE_RATIO": -3.94683119
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "603398.SH",
       "SECURITY_CODE": "603398",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 177244378,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 173301518,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 256397146,
-      "HOLD_NUM_RATIO": 40.87,
+      "OTHER_UNLIMITED_SHARES": 260340006,
+      "HOLD_NUM_RATIO": 39.96,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 59.13
+      "UNLIMITED_SHARES_RATIO": 60.04
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603398.SH",
       "SECURITY_CODE": "603398",
-      "END_DATE": "2026-05-15 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "江西沐邦新能源控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -653,7 +642,7 @@
     {
       "SECUCODE": "603398.SH",
       "SECURITY_CODE": "603398",
-      "END_DATE": "2026-05-15 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "邦领国际有限公司",
       "SHARES_TYPE": "流通A股",
@@ -661,28 +650,124 @@
       "HOLD_NUM_RATIO": 12.89,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603398.SH",
+      "SECURITY_CODE": "603398",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "铜陵高新企航股权投资合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 17816994,
+      "HOLD_NUM_RATIO": 4.11,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603398.SH",
+      "SECURITY_CODE": "603398",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "郑煜东",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 11000000,
+      "HOLD_NUM_RATIO": 2.54,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603398.SH",
+      "SECURITY_CODE": "603398",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "郑煜方",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 11000000,
+      "HOLD_NUM_RATIO": 2.54,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603398.SH",
+      "SECURITY_CODE": "603398",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "文勇",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 10487490,
+      "HOLD_NUM_RATIO": 2.42,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603398.SH",
+      "SECURITY_CODE": "603398",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "李晓辉",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3387480,
+      "HOLD_NUM_RATIO": 0.78,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603398.SH",
+      "SECURITY_CODE": "603398",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "南昌金兴企业管理中心(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2363264,
+      "HOLD_NUM_RATIO": 0.54,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603398.SH",
+      "SECURITY_CODE": "603398",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "林渝童",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2357900,
+      "HOLD_NUM_RATIO": 0.54,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603398.SH",
+      "SECURITY_CODE": "603398",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "周鑫平",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2117300,
+      "HOLD_NUM_RATIO": 0.49,
+      "HOLD_NUM_CHANGE": "-87000",
+      "CHANGE_RATIO": -3.94683119
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "603398.SH",
       "SECURITY_CODE": "603398",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
       "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 143421958,
-      "TOTAL_SHARES_RATIO": 33.07385249,
-      "ALL_SHARES_RATIO": 33.07385249
+      "TOTAL_FREE_SHARES": 132951348,
+      "TOTAL_SHARES_RATIO": 30.65927515,
+      "ALL_SHARES_RATIO": 30.65927515
     },
     {
       "SECUCODE": "603398.SH",
       "SECURITY_CODE": "603398",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 143421958,
-      "TOTAL_SHARES_RATIO": 33.07385249,
-      "ALL_SHARES_RATIO": 33.07385249
+      "TOTAL_FREE_SHARES": 132951348,
+      "TOTAL_SHARES_RATIO": 30.65927515,
+      "ALL_SHARES_RATIO": 30.65927515
     }
   ],
   "jjcg": [

@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "600480.SH",
+      "END_DATE": "2026-08-15 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "600480.SH",
       "END_DATE": "2026-04-30 00:00:00",
       "IS_REPORTDATE": "0"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "600480.SH",
       "END_DATE": "2016-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600480.SH",
-      "END_DATE": "2016-12-28 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -446,6 +446,28 @@
     }
   ],
   "sdgdcgbd": [
+    {
+      "END_DATE": "2026-08-15 00:00:00",
+      "HOLDER_RANK": 1,
+      "HOLDER_NAME": "北方凌云工业集团有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 319980342,
+      "HOLD_NUM_RATIO": 26.18,
+      "HOLD_CHANGE": "-20000000",
+      "CHANGE_RATIO": -5.88269306,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-08-15 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "凌云集团-中信建投证券-凌云KEB担保及信托财产专户",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 70000000,
+      "HOLD_NUM_RATIO": 5.73,
+      "HOLD_CHANGE": "20000000",
+      "CHANGE_RATIO": 40,
+      "CHANGE_REASON": "临时公告"
+    },
     {
       "END_DATE": "2026-04-30 00:00:00",
       "HOLDER_RANK": 2,
@@ -544,7 +566,7 @@
       "END_DATE": "2026-03-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "凌云集团-中信建投证券-凌云KEB担保及信托财产专户",
-      "HOLDER_TYPE": "其它",
+      "HOLDER_TYPE": "证券账户",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 50000000,
       "FREE_HOLDNUM_RATIO": 4.122367648946,
@@ -660,26 +682,38 @@
     {
       "SECUCODE": "600480.SH",
       "SECURITY_CODE": "600480",
-      "END_DATE": "2026-04-30 00:00:00",
+      "END_DATE": "2026-08-15 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北方凌云工业集团有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 339980342,
-      "HOLD_NUM_RATIO": 27.82,
+      "HOLD_NUM": 319980342,
+      "HOLD_NUM_RATIO": 26.18,
+      "HOLD_NUM_CHANGE": "-20000000",
+      "CHANGE_RATIO": -5.88269306
+    },
+    {
+      "SECUCODE": "600480.SH",
+      "SECURITY_CODE": "600480",
+      "END_DATE": "2026-08-15 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "中兵投资管理有限责任公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 136785678,
+      "HOLD_NUM_RATIO": 11.19,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600480.SH",
       "SECURITY_CODE": "600480",
-      "END_DATE": "2026-04-30 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "中兵投资管理有限责任公司",
+      "END_DATE": "2026-08-15 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "凌云集团-中信建投证券-凌云KEB担保及信托财产专户",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 136785678,
-      "HOLD_NUM_RATIO": 11.19,
-      "HOLD_NUM_CHANGE": "-11909700",
-      "CHANGE_RATIO": -8.00946214
+      "HOLD_NUM": 70000000,
+      "HOLD_NUM_RATIO": 5.73,
+      "HOLD_NUM_CHANGE": "20000000",
+      "CHANGE_RATIO": 40
     }
   ],
   "jgcc": [
