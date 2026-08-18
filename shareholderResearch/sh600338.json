@@ -25,8 +25,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 15.2158478004,
       "AVG_HOLD_AMT": 105648.968791467,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 22.90844396,
+      "FREEHOLD_RATIO_TOTAL": 22.90844396
     },
     {
       "SECUCODE": "600338.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600338.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "600338.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600338.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "600338.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600338.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600338.SH",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600338.SH",
       "END_DATE": "2020-07-17 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "600338.SH",
-      "END_DATE": "2020-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,8 +473,21 @@
     {
       "SECUCODE": "600338.SH",
       "SECURITY_CODE": "600338",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 46214413,
+      "FREE_HOLDNUM_RATIO": 5.055119120049,
+      "HOLD_NUM_CHANGE": "2378086",
+      "CHANGE_RATIO": 5.42492075
+    },
+    {
+      "SECUCODE": "600338.SH",
+      "SECURITY_CODE": "600338",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 2,
       "HOLDER_NAME": "中国环球新技术进出口有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -486,34 +499,34 @@
     {
       "SECUCODE": "600338.SH",
       "SECURITY_CODE": "600338",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 43836327,
-      "FREE_HOLDNUM_RATIO": 4.794994470024,
-      "HOLD_NUM_CHANGE": "-10579964",
-      "CHANGE_RATIO": -19.44264081
-    },
-    {
-      "SECUCODE": "600338.SH",
-      "SECURITY_CODE": "600338",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "四川信托有限公司-四川信托-锦绣优债1号集合资金信托计划",
-      "HOLDER_TYPE": "信托计划",
+      "HOLDER_NAME": "四川天府信托有限公司-四川信托-锦绣优债1号集合资金信托计划",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 43534884,
       "FREE_HOLDNUM_RATIO": 4.762021417377,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600338.SH",
       "SECURITY_CODE": "600338",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "中国工商银行股份有限公司-泰信发展主题股票型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 27576800,
+      "FREE_HOLDNUM_RATIO": 3.016461746464,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600338.SH",
+      "SECURITY_CODE": "600338",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "新疆塔城国际资源有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -525,72 +538,59 @@
     {
       "SECUCODE": "600338.SH",
       "SECURITY_CODE": "600338",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "刘文科",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5288100,
-      "FREE_HOLDNUM_RATIO": 0.578433732756,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600338.SH",
-      "SECURITY_CODE": "600338",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "薛祥华",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "高盛国际-自有资金",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5178600,
-      "FREE_HOLDNUM_RATIO": 0.566456180566,
+      "HOLD_NUM": 5608053,
+      "FREE_HOLDNUM_RATIO": 0.613431483952,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600338.SH",
       "SECURITY_CODE": "600338",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "李汉江",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5089000,
-      "FREE_HOLDNUM_RATIO": 0.556655370737,
-      "HOLD_NUM_CHANGE": "824600",
-      "CHANGE_RATIO": 19.33683519
+      "HOLD_NUM": 5032026,
+      "FREE_HOLDNUM_RATIO": 0.550423324541,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600338.SH",
       "SECURITY_CODE": "600338",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "雷响",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "中国农业银行股份有限公司-申万菱信新能源汽车主题灵活配置混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4472770,
-      "FREE_HOLDNUM_RATIO": 0.489249644837,
+      "HOLD_NUM": 4743800,
+      "FREE_HOLDNUM_RATIO": 0.518896000728,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600338.SH",
       "SECURITY_CODE": "600338",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "华宇投资有限公司",
-      "HOLDER_TYPE": "投资公司",
+      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3300000,
-      "FREE_HOLDNUM_RATIO": 0.360967326279,
+      "HOLD_NUM": 4065952,
+      "FREE_HOLDNUM_RATIO": 0.444750249157,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600338.SH",
       "SECURITY_CODE": "600338",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "方金洋",
       "HOLDER_TYPE": "个人",
@@ -605,21 +605,33 @@
     {
       "SECUCODE": "600338.SH",
       "SECURITY_CODE": "600338",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 183355077,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 209431324,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 730855091,
-      "HOLD_NUM_RATIO": 20.06,
+      "OTHER_UNLIMITED_SHARES": 704778844,
+      "HOLD_NUM_RATIO": 22.91,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 79.94
+      "UNLIMITED_SHARES_RATIO": 77.09
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600338.SH",
       "SECURITY_CODE": "600338",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 46214413,
+      "HOLD_NUM_RATIO": 5.06,
+      "HOLD_NUM_CHANGE": "2378086",
+      "CHANGE_RATIO": 5.42492075
+    },
+    {
+      "SECUCODE": "600338.SH",
+      "SECURITY_CODE": "600338",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 2,
       "HOLDER_NAME": "中国环球新技术进出口有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 44864380,
@@ -630,21 +642,9 @@
     {
       "SECUCODE": "600338.SH",
       "SECURITY_CODE": "600338",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 43836327,
-      "HOLD_NUM_RATIO": 4.79,
-      "HOLD_NUM_CHANGE": "-10579964",
-      "CHANGE_RATIO": -19.44264081
-    },
-    {
-      "SECUCODE": "600338.SH",
-      "SECURITY_CODE": "600338",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "四川信托有限公司-四川信托-锦绣优债1号集合资金信托计划",
+      "HOLDER_NAME": "四川天府信托有限公司-四川信托-锦绣优债1号集合资金信托计划",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 43534884,
       "HOLD_NUM_RATIO": 4.76,
@@ -654,8 +654,20 @@
     {
       "SECUCODE": "600338.SH",
       "SECURITY_CODE": "600338",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "中国工商银行股份有限公司-泰信发展主题股票型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 27576800,
+      "HOLD_NUM_RATIO": 3.02,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600338.SH",
+      "SECURITY_CODE": "600338",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "新疆塔城国际资源有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 24565116,
@@ -666,67 +678,55 @@
     {
       "SECUCODE": "600338.SH",
       "SECURITY_CODE": "600338",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "刘文科",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5288100,
-      "HOLD_NUM_RATIO": 0.58,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600338.SH",
-      "SECURITY_CODE": "600338",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "薛祥华",
+      "HOLDER_NAME": "高盛国际-自有资金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5178600,
-      "HOLD_NUM_RATIO": 0.57,
+      "HOLD_NUM": 5608053,
+      "HOLD_NUM_RATIO": 0.61,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600338.SH",
       "SECURITY_CODE": "600338",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "李汉江",
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5089000,
-      "HOLD_NUM_RATIO": 0.56,
-      "HOLD_NUM_CHANGE": "824600",
-      "CHANGE_RATIO": 19.33683519
+      "HOLD_NUM": 5032026,
+      "HOLD_NUM_RATIO": 0.55,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600338.SH",
       "SECURITY_CODE": "600338",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "雷响",
+      "HOLDER_NAME": "中国农业银行股份有限公司-申万菱信新能源汽车主题灵活配置混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4472770,
-      "HOLD_NUM_RATIO": 0.49,
+      "HOLD_NUM": 4743800,
+      "HOLD_NUM_RATIO": 0.52,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600338.SH",
       "SECURITY_CODE": "600338",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "华宇投资有限公司",
+      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3300000,
-      "HOLD_NUM_RATIO": 0.36,
+      "HOLD_NUM": 4065952,
+      "HOLD_NUM_RATIO": 0.44,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600338.SH",
       "SECURITY_CODE": "600338",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "方金洋",
       "SHARES_TYPE": "流通A股",
@@ -742,20 +742,40 @@
       "SECURITY_CODE": "600338",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 27576800,
-      "TOTAL_SHARES_RATIO": 3.01646175,
-      "ALL_SHARES_RATIO": 3.01646175
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 162670540,
+      "TOTAL_SHARES_RATIO": 17.79356057,
+      "ALL_SHARES_RATIO": 17.79356057
     },
     {
       "SECUCODE": "600338.SH",
       "SECURITY_CODE": "600338",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 27576800,
-      "TOTAL_SHARES_RATIO": 3.01646175,
-      "ALL_SHARES_RATIO": 3.01646175
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 32320600,
+      "TOTAL_SHARES_RATIO": 3.53535775,
+      "ALL_SHARES_RATIO": 3.53535775
+    },
+    {
+      "SECUCODE": "600338.SH",
+      "SECURITY_CODE": "600338",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 14706031,
+      "TOTAL_SHARES_RATIO": 1.60860505,
+      "ALL_SHARES_RATIO": 1.60860505
+    },
+    {
+      "SECUCODE": "600338.SH",
+      "SECURITY_CODE": "600338",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 115643909,
+      "TOTAL_SHARES_RATIO": 12.64959777,
+      "ALL_SHARES_RATIO": 12.64959777
     }
   ],
   "jjcg": [
@@ -775,6 +795,23 @@
       "FUND_CODE": "290008",
       "FUND_DERIVECODE": "290008.OF",
       "NETVALUE_RATIO": 9.54
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600338.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "001156",
+      "HOLDER_NAME": "申万菱信新能源汽车主题灵活配置混合A",
+      "TOTAL_SHARES": 4743800,
+      "HOLD_VALUE": 72295512,
+      "TOTALSHARES_RATIO": 0.518896,
+      "FREESHARES_RATIO": 0.518896,
+      "FREE_MARKET_CAP": 72295512,
+      "FREE_SHARES": 4743800,
+      "SECURITY_CODE": "600338",
+      "FUND_CODE": "001156",
+      "FUND_DERIVECODE": "001156.OF",
+      "NETVALUE_RATIO": 3.51
     }
   ]
 }

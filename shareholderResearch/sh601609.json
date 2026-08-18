@@ -67,8 +67,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 10.8,
       "AVG_HOLD_AMT": 185819.572851598,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 54.99854862,
+      "FREEHOLD_RATIO_TOTAL": 54.99854862
     },
     {
       "SECUCODE": "601609.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "601609.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "601609.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "601609.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "601609.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "601609.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "601609.SH",
       "END_DATE": "2026-03-31 00:00:00",
@@ -406,6 +411,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "601609.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "601609.SH",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -419,47 +428,9 @@
     {
       "SECUCODE": "601609.SH",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "601609.SH",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2026-03-26 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "宁波金田投资控股有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 424334500,
-      "HOLD_NUM_RATIO": 24.55,
-      "HOLD_CHANGE": "1050000",
-      "CHANGE_RATIO": 0.24806011,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2026-01-29 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 23401818,
-      "HOLD_NUM_RATIO": 1.35,
-      "HOLD_CHANGE": "1791559",
-      "CHANGE_RATIO": 8.29031711,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2026-01-29 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "楼国华",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 13072600,
-      "HOLD_NUM_RATIO": 0.76,
-      "HOLD_CHANGE": "-515000",
-      "CHANGE_RATIO": -3.7902205,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "601609.SH",
@@ -487,20 +458,20 @@
     {
       "SECUCODE": "601609.SH",
       "SECURITY_CODE": "601609",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "宁波金田投资控股有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 424334500,
-      "FREE_HOLDNUM_RATIO": 24.547328742262,
-      "HOLD_NUM_CHANGE": "1050000",
-      "CHANGE_RATIO": 0.24806011
+      "HOLD_NUM": 427482600,
+      "FREE_HOLDNUM_RATIO": 24.729443195867,
+      "HOLD_NUM_CHANGE": "3148100",
+      "CHANGE_RATIO": 0.74189113
     },
     {
       "SECUCODE": "601609.SH",
       "SECURITY_CODE": "601609",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "楼国强",
       "HOLDER_TYPE": "个人",
@@ -513,7 +484,7 @@
     {
       "SECUCODE": "601609.SH",
       "SECURITY_CODE": "601609",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "楼国君",
       "HOLDER_TYPE": "个人",
@@ -526,20 +497,20 @@
     {
       "SECUCODE": "601609.SH",
       "SECURITY_CODE": "601609",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "宁波金田铜业(集团)股份有限公司-2025年员工持股计划",
-      "HOLDER_TYPE": "员工持股计划",
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 30348000,
-      "FREE_HOLDNUM_RATIO": 1.755601613044,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 29924666,
+      "FREE_HOLDNUM_RATIO": 1.731112162231,
+      "HOLD_NUM_CHANGE": "17744860",
+      "CHANGE_RATIO": 145.69082627
     },
     {
       "SECUCODE": "601609.SH",
       "SECURITY_CODE": "601609",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "楼城",
       "HOLDER_TYPE": "个人",
@@ -552,7 +523,7 @@
     {
       "SECUCODE": "601609.SH",
       "SECURITY_CODE": "601609",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "楼静静",
       "HOLDER_TYPE": "个人",
@@ -565,7 +536,7 @@
     {
       "SECUCODE": "601609.SH",
       "SECURITY_CODE": "601609",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "楼云",
       "HOLDER_TYPE": "个人",
@@ -578,73 +549,73 @@
     {
       "SECUCODE": "601609.SH",
       "SECURITY_CODE": "601609",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "楼国华",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "宁波金田铜业(集团)股份有限公司-2025年员工持股计划",
+      "HOLDER_TYPE": "员工持股计划",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 13072600,
-      "FREE_HOLDNUM_RATIO": 0.756236906771,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 17587800,
+      "FREE_HOLDNUM_RATIO": 1.017436735531,
+      "HOLD_NUM_CHANGE": "-12760200",
+      "CHANGE_RATIO": -42.04626335
+    },
+    {
+      "SECUCODE": "601609.SH",
+      "SECURITY_CODE": "601609",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "高盛国际-自有资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 13154658,
+      "FREE_HOLDNUM_RATIO": 0.760983880448,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601609.SH",
       "SECURITY_CODE": "601609",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12179806,
-      "FREE_HOLDNUM_RATIO": 0.704589661927,
-      "HOLD_NUM_CHANGE": "-11222012",
-      "CHANGE_RATIO": -47.95359061
-    },
-    {
-      "SECUCODE": "601609.SH",
-      "SECURITY_CODE": "601609",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国建设银行股份有限公司-嘉实中证稀土产业交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "楼国华",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9883986,
-      "FREE_HOLDNUM_RATIO": 0.571778758564,
-      "HOLD_NUM_CHANGE": "390395",
-      "CHANGE_RATIO": 4.11219527
+      "HOLD_NUM": 13022600,
+      "FREE_HOLDNUM_RATIO": 0.753344456505,
+      "HOLD_NUM_CHANGE": "-50000",
+      "CHANGE_RATIO": -0.38247938
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "601609.SH",
       "SECURITY_CODE": "601609",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 939372485,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 950725917,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 789265708,
-      "HOLD_NUM_RATIO": 54.34,
+      "OTHER_UNLIMITED_SHARES": 777912276,
+      "HOLD_NUM_RATIO": 55,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 45.66
+      "UNLIMITED_SHARES_RATIO": 45
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "601609.SH",
       "SECURITY_CODE": "601609",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "宁波金田投资控股有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 424334500,
-      "HOLD_NUM_RATIO": 24.55,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 427482600,
+      "HOLD_NUM_RATIO": 24.73,
+      "HOLD_NUM_CHANGE": "3148100",
+      "CHANGE_RATIO": 0.74189113
     },
     {
       "SECUCODE": "601609.SH",
       "SECURITY_CODE": "601609",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "楼国强",
       "SHARES_TYPE": "流通A股",
@@ -656,7 +627,7 @@
     {
       "SECUCODE": "601609.SH",
       "SECURITY_CODE": "601609",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "楼国君",
       "SHARES_TYPE": "流通A股",
@@ -668,19 +639,19 @@
     {
       "SECUCODE": "601609.SH",
       "SECURITY_CODE": "601609",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "宁波金田铜业(集团)股份有限公司-2025年员工持股计划",
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 30348000,
-      "HOLD_NUM_RATIO": 1.76,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 29924666,
+      "HOLD_NUM_RATIO": 1.73,
+      "HOLD_NUM_CHANGE": "17744860",
+      "CHANGE_RATIO": 145.69082627
     },
     {
       "SECUCODE": "601609.SH",
       "SECURITY_CODE": "601609",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "楼城",
       "SHARES_TYPE": "流通A股",
@@ -692,7 +663,7 @@
     {
       "SECUCODE": "601609.SH",
       "SECURITY_CODE": "601609",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "楼静静",
       "SHARES_TYPE": "流通A股",
@@ -704,7 +675,7 @@
     {
       "SECUCODE": "601609.SH",
       "SECURITY_CODE": "601609",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "楼云",
       "SHARES_TYPE": "流通A股",
@@ -716,70 +687,70 @@
     {
       "SECUCODE": "601609.SH",
       "SECURITY_CODE": "601609",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "楼国华",
+      "HOLDER_NAME": "宁波金田铜业(集团)股份有限公司-2025年员工持股计划",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 13072600,
+      "HOLD_NUM": 17587800,
+      "HOLD_NUM_RATIO": 1.02,
+      "HOLD_NUM_CHANGE": "-12760200",
+      "CHANGE_RATIO": -42.04626335
+    },
+    {
+      "SECUCODE": "601609.SH",
+      "SECURITY_CODE": "601609",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "高盛国际-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 13154658,
       "HOLD_NUM_RATIO": 0.76,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601609.SH",
       "SECURITY_CODE": "601609",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 12179806,
-      "HOLD_NUM_RATIO": 0.7,
-      "HOLD_NUM_CHANGE": "-11222012",
-      "CHANGE_RATIO": -47.95359061
-    },
-    {
-      "SECUCODE": "601609.SH",
-      "SECURITY_CODE": "601609",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国建设银行股份有限公司-嘉实中证稀土产业交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "楼国华",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9883986,
-      "HOLD_NUM_RATIO": 0.57,
-      "HOLD_NUM_CHANGE": "390395",
-      "CHANGE_RATIO": 4.11219527
+      "HOLD_NUM": 13022600,
+      "HOLD_NUM_RATIO": 0.75,
+      "HOLD_NUM_CHANGE": "-50000",
+      "CHANGE_RATIO": -0.38247938
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "601609.SH",
       "SECURITY_CODE": "601609",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 476752892,
-      "TOTAL_SHARES_RATIO": 27.57968057,
-      "ALL_SHARES_RATIO": 27.57968057
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 488149724,
+      "TOTAL_SHARES_RATIO": 28.23897598,
+      "ALL_SHARES_RATIO": 28.23897598
     },
     {
       "SECUCODE": "601609.SH",
       "SECURITY_CODE": "601609",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 9890586,
-      "TOTAL_SHARES_RATIO": 0.57216056,
-      "ALL_SHARES_RATIO": 0.57216056
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 13154658,
+      "TOTAL_SHARES_RATIO": 0.76098388,
+      "ALL_SHARES_RATIO": 0.76098388
     },
     {
       "SECUCODE": "601609.SH",
       "SECURITY_CODE": "601609",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 466862306,
-      "TOTAL_SHARES_RATIO": 27.00752001,
-      "ALL_SHARES_RATIO": 27.00752001
+      "TOTAL_FREE_SHARES": 474995066,
+      "TOTAL_SHARES_RATIO": 27.4779921,
+      "ALL_SHARES_RATIO": 27.4779921
     }
   ],
   "jjcg": [
