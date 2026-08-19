@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 3.75,
       "AVG_HOLD_AMT": 125382.529919935,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 50.92790476,
+      "FREEHOLD_RATIO_TOTAL": 50.92884568
     },
     {
       "SECUCODE": "000059.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000059.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "000059.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "000059.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "000059.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000059.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000059.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "000059.SZ",
       "END_DATE": "2015-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000059.SZ",
-      "END_DATE": "2015-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "000059.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
     {
       "SECUCODE": "000059.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "000059.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "000059.SZ",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "000059.SZ",
       "SECURITY_CODE": "000059",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北方华锦化学工业集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "000059.SZ",
       "SECURITY_CODE": "000059",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中兵投资管理有限责任公司",
       "HOLDER_TYPE": "投资公司",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "000059.SZ",
       "SECURITY_CODE": "000059",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "振华石油控股有限公司",
       "HOLDER_TYPE": "其它",
@@ -512,91 +512,91 @@
     {
       "SECUCODE": "000059.SZ",
       "SECURITY_CODE": "000059",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
+      "HOLDER_NAME": "杨全玉",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 39202037,
-      "FREE_HOLDNUM_RATIO": 2.451026552781,
-      "HOLD_NUM_CHANGE": "12917852",
-      "CHANGE_RATIO": 49.14686151
+      "HOLD_NUM": 15500000,
+      "FREE_HOLDNUM_RATIO": 0.969105548472,
+      "HOLD_NUM_CHANGE": "4000000",
+      "CHANGE_RATIO": 34.7826087
     },
     {
       "SECUCODE": "000059.SZ",
       "SECURITY_CODE": "000059",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "李强",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11647590,
-      "FREE_HOLDNUM_RATIO": 0.728241554537,
-      "HOLD_NUM_CHANGE": "-1121500",
-      "CHANGE_RATIO": -8.78292815
+      "HOLD_NUM": 12517990,
+      "FREE_HOLDNUM_RATIO": 0.782661520304,
+      "HOLD_NUM_CHANGE": "870400",
+      "CHANGE_RATIO": 7.47279051
     },
     {
       "SECUCODE": "000059.SZ",
       "SECURITY_CODE": "000059",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "杨全玉",
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 11659749,
+      "FREE_HOLDNUM_RATIO": 0.729001770948,
+      "HOLD_NUM_CHANGE": "-27542288",
+      "CHANGE_RATIO": -70.25728791
+    },
+    {
+      "SECUCODE": "000059.SZ",
+      "SECURITY_CODE": "000059",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "董月林",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11500000,
-      "FREE_HOLDNUM_RATIO": 0.719013794028,
+      "HOLD_NUM": 6523800,
+      "FREE_HOLDNUM_RATIO": 0.407887146911,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000059.SZ",
       "SECURITY_CODE": "000059",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国工商银行-广发聚丰混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9083500,
-      "FREE_HOLDNUM_RATIO": 0.567927112874,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000059.SZ",
-      "SECURITY_CODE": "000059",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "交通银行股份有限公司-广发优势成长股票型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "周巍",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8441800,
-      "FREE_HOLDNUM_RATIO": 0.527806143167,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000059.SZ",
-      "SECURITY_CODE": "000059",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "兴业银行股份有限公司-广发资源优选股票型发起式证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6663612,
-      "FREE_HOLDNUM_RATIO": 0.416628604004,
+      "HOLD_NUM": 5870000,
+      "FREE_HOLDNUM_RATIO": 0.367009649647,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000059.SZ",
       "SECURITY_CODE": "000059",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国邮政储蓄银行股份有限公司-国泰中证油气产业交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "鹏华基金管理有限公司-社保基金1804组合",
+      "HOLDER_TYPE": "全国社保基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6628600,
-      "FREE_HOLDNUM_RATIO": 0.414439550878,
+      "HOLD_NUM": 5162058,
+      "FREE_HOLDNUM_RATIO": 0.322747035441,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000059.SZ",
+      "SECURITY_CODE": "000059",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "许晶莹",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5009800,
+      "FREE_HOLDNUM_RATIO": 0.313227417854,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "000059.SZ",
       "SECURITY_CODE": "000059",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 845486314,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 814562572,
       "LIMITED_SHARES": 29550,
-      "OTHER_UNLIMITED_SHARES": 753926673,
-      "HOLD_NUM_RATIO": 52.86,
+      "OTHER_UNLIMITED_SHARES": 784850415,
+      "HOLD_NUM_RATIO": 50.93,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 47.14
+      "UNLIMITED_SHARES_RATIO": 49.07
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "000059.SZ",
       "SECURITY_CODE": "000059",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北方华锦化学工业集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "000059.SZ",
       "SECURITY_CODE": "000059",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中兵投资管理有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "000059.SZ",
       "SECURITY_CODE": "000059",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "振华石油控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,84 +654,84 @@
     {
       "SECUCODE": "000059.SZ",
       "SECURITY_CODE": "000059",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_NAME": "杨全玉",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 39202037,
-      "HOLD_NUM_RATIO": 2.45,
-      "HOLD_NUM_CHANGE": "12917852",
-      "CHANGE_RATIO": 49.14686151
+      "HOLD_NUM": 15500000,
+      "HOLD_NUM_RATIO": 0.97,
+      "HOLD_NUM_CHANGE": "4000000",
+      "CHANGE_RATIO": 34.7826087
     },
     {
       "SECUCODE": "000059.SZ",
       "SECURITY_CODE": "000059",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "李强",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11647590,
-      "HOLD_NUM_RATIO": 0.73,
-      "HOLD_NUM_CHANGE": "-1121500",
-      "CHANGE_RATIO": -8.78292815
+      "HOLD_NUM": 12517990,
+      "HOLD_NUM_RATIO": 0.78,
+      "HOLD_NUM_CHANGE": "870400",
+      "CHANGE_RATIO": 7.47279051
     },
     {
       "SECUCODE": "000059.SZ",
       "SECURITY_CODE": "000059",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "杨全玉",
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11500000,
-      "HOLD_NUM_RATIO": 0.72,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 11659749,
+      "HOLD_NUM_RATIO": 0.73,
+      "HOLD_NUM_CHANGE": "-27542288",
+      "CHANGE_RATIO": -70.25728791
     },
     {
       "SECUCODE": "000059.SZ",
       "SECURITY_CODE": "000059",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国工商银行-广发聚丰混合型证券投资基金",
+      "HOLDER_NAME": "董月林",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9083500,
-      "HOLD_NUM_RATIO": 0.57,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000059.SZ",
-      "SECURITY_CODE": "000059",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "交通银行股份有限公司-广发优势成长股票型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8441800,
-      "HOLD_NUM_RATIO": 0.53,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000059.SZ",
-      "SECURITY_CODE": "000059",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "兴业银行股份有限公司-广发资源优选股票型发起式证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6663612,
-      "HOLD_NUM_RATIO": 0.42,
+      "HOLD_NUM": 6523800,
+      "HOLD_NUM_RATIO": 0.41,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000059.SZ",
       "SECURITY_CODE": "000059",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国邮政储蓄银行股份有限公司-国泰中证油气产业交易型开放式指数证券投资基金",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "周巍",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6628600,
-      "HOLD_NUM_RATIO": 0.41,
+      "HOLD_NUM": 5870000,
+      "HOLD_NUM_RATIO": 0.37,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000059.SZ",
+      "SECURITY_CODE": "000059",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "鹏华基金管理有限公司-社保基金1804组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5162058,
+      "HOLD_NUM_RATIO": 0.32,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000059.SZ",
+      "SECURITY_CODE": "000059",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "许晶莹",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5009800,
+      "HOLD_NUM_RATIO": 0.31,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -740,32 +740,32 @@
     {
       "SECUCODE": "000059.SZ",
       "SECURITY_CODE": "000059",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 11,
-      "TOTAL_FREE_SHARES": 822719024,
-      "TOTAL_SHARES_RATIO": 51.43881102,
-      "ALL_SHARES_RATIO": 51.4378607
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 769140982,
+      "TOTAL_SHARES_RATIO": 48.08895441,
+      "ALL_SHARES_RATIO": 48.08806595
     },
     {
       "SECUCODE": "000059.SZ",
       "SECURITY_CODE": "000059",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 7,
-      "TOTAL_FREE_SHARES": 31197812,
-      "TOTAL_SHARES_RATIO": 1.95057887,
-      "ALL_SHARES_RATIO": 1.95054285
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 5162058,
+      "TOTAL_SHARES_RATIO": 0.32274704,
+      "ALL_SHARES_RATIO": 0.32274107
     },
     {
       "SECUCODE": "000059.SZ",
       "SECURITY_CODE": "000059",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 791521212,
-      "TOTAL_SHARES_RATIO": 49.48823215,
-      "ALL_SHARES_RATIO": 49.48731785
+      "TOTAL_FREE_SHARES": 763978924,
+      "TOTAL_SHARES_RATIO": 47.76620737,
+      "ALL_SHARES_RATIO": 47.76532488
     }
   ],
   "jjcg": [

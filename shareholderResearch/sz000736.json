@@ -67,8 +67,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 3.65,
       "AVG_HOLD_AMT": 103878.296584892,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 60.59775304,
+      "FREEHOLD_RATIO_TOTAL": 60.59775304
     },
     {
       "SECUCODE": "000736.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000736.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "000736.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "000736.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "000736.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000736.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000736.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "000736.SZ",
       "END_DATE": "2018-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000736.SZ",
-      "END_DATE": "2018-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "000736.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
     {
       "SECUCODE": "000736.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "000736.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "000736.SZ",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,33 +473,33 @@
     {
       "SECUCODE": "000736.SZ",
       "SECURITY_CODE": "000736",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中交房地产集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 389679305,
       "FREE_HOLDNUM_RATIO": 52.159033465794,
-      "HOLD_NUM_CHANGE": "25832356",
-      "CHANGE_RATIO": 7.09978634
-    },
-    {
-      "SECUCODE": "000736.SZ",
-      "SECURITY_CODE": "000736",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "重庆渝富资本运营集团有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 28384200,
-      "FREE_HOLDNUM_RATIO": 3.799258566476,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000736.SZ",
       "SECURITY_CODE": "000736",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "重庆渝富资本运营集团有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 26384200,
+      "FREE_HOLDNUM_RATIO": 3.531556213303,
+      "HOLD_NUM_CHANGE": "-2000000",
+      "CHANGE_RATIO": -7.04617358
+    },
+    {
+      "SECUCODE": "000736.SZ",
+      "SECURITY_CODE": "000736",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "湖南华夏投资集团有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "000736.SZ",
       "SECURITY_CODE": "000736",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "常玉璐",
       "HOLDER_TYPE": "个人",
@@ -525,34 +525,21 @@
     {
       "SECUCODE": "000736.SZ",
       "SECURITY_CODE": "000736",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "王哲生",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3823300,
-      "FREE_HOLDNUM_RATIO": 0.511753203444,
-      "HOLD_NUM_CHANGE": "154600",
-      "CHANGE_RATIO": 4.21402677
+      "HOLD_NUM": 4909500,
+      "FREE_HOLDNUM_RATIO": 0.657142351453,
+      "HOLD_NUM_CHANGE": "1086200",
+      "CHANGE_RATIO": 28.41001229
     },
     {
       "SECUCODE": "000736.SZ",
       "SECURITY_CODE": "000736",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "熊耿",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3800000,
-      "FREE_HOLDNUM_RATIO": 0.50863447103,
-      "HOLD_NUM_CHANGE": "-190000",
-      "CHANGE_RATIO": -4.76190476
-    },
-    {
-      "SECUCODE": "000736.SZ",
-      "SECURITY_CODE": "000736",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "王令琦",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -564,20 +551,33 @@
     {
       "SECUCODE": "000736.SZ",
       "SECURITY_CODE": "000736",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "李万鹏",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "孙桂明",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3241200,
-      "FREE_HOLDNUM_RATIO": 0.433838433553,
+      "HOLD_NUM": 3370000,
+      "FREE_HOLDNUM_RATIO": 0.451078465098,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000736.SZ",
       "SECURITY_CODE": "000736",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "李万鹏",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3241200,
+      "FREE_HOLDNUM_RATIO": 0.433838433553,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000736.SZ",
+      "SECURITY_CODE": "000736",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "高海村",
       "HOLDER_TYPE": "个人",
@@ -590,14 +590,14 @@
     {
       "SECUCODE": "000736.SZ",
       "SECURITY_CODE": "000736",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "张晓夏",
+      "HOLDER_NAME": "袁顺红",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3000000,
-      "FREE_HOLDNUM_RATIO": 0.401553529761,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 2990000,
+      "FREE_HOLDNUM_RATIO": 0.400215017995,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "000736.SZ",
       "SECURITY_CODE": "000736",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 454078644,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 452724844,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 293019757,
-      "HOLD_NUM_RATIO": 60.78,
+      "OTHER_UNLIMITED_SHARES": 294373557,
+      "HOLD_NUM_RATIO": 60.6,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 39.22
+      "UNLIMITED_SHARES_RATIO": 39.4
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "000736.SZ",
       "SECURITY_CODE": "000736",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中交房地产集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,19 +630,19 @@
     {
       "SECUCODE": "000736.SZ",
       "SECURITY_CODE": "000736",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "重庆渝富资本运营集团有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 28384200,
-      "HOLD_NUM_RATIO": 3.8,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 26384200,
+      "HOLD_NUM_RATIO": 3.53,
+      "HOLD_NUM_CHANGE": "-2000000",
+      "CHANGE_RATIO": -7.04617358
     },
     {
       "SECUCODE": "000736.SZ",
       "SECURITY_CODE": "000736",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "湖南华夏投资集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "000736.SZ",
       "SECURITY_CODE": "000736",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "常玉璐",
       "SHARES_TYPE": "流通A股",
@@ -666,32 +666,20 @@
     {
       "SECUCODE": "000736.SZ",
       "SECURITY_CODE": "000736",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "王哲生",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3823300,
-      "HOLD_NUM_RATIO": 0.51,
-      "HOLD_NUM_CHANGE": "154600",
-      "CHANGE_RATIO": 4.21402677
+      "HOLD_NUM": 4909500,
+      "HOLD_NUM_RATIO": 0.66,
+      "HOLD_NUM_CHANGE": "1086200",
+      "CHANGE_RATIO": 28.41001229
     },
     {
       "SECUCODE": "000736.SZ",
       "SECURITY_CODE": "000736",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "熊耿",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3800000,
-      "HOLD_NUM_RATIO": 0.51,
-      "HOLD_NUM_CHANGE": "-190000",
-      "CHANGE_RATIO": -4.76190476
-    },
-    {
-      "SECUCODE": "000736.SZ",
-      "SECURITY_CODE": "000736",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "王令琦",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3401378,
@@ -702,19 +690,31 @@
     {
       "SECUCODE": "000736.SZ",
       "SECURITY_CODE": "000736",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "李万鹏",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "孙桂明",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3241200,
-      "HOLD_NUM_RATIO": 0.43,
+      "HOLD_NUM": 3370000,
+      "HOLD_NUM_RATIO": 0.45,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000736.SZ",
       "SECURITY_CODE": "000736",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "李万鹏",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3241200,
+      "HOLD_NUM_RATIO": 0.43,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000736.SZ",
+      "SECURITY_CODE": "000736",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "高海村",
       "SHARES_TYPE": "流通A股",
@@ -726,13 +726,13 @@
     {
       "SECUCODE": "000736.SZ",
       "SECURITY_CODE": "000736",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "张晓夏",
+      "HOLDER_NAME": "袁顺红",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3000000,
+      "HOLD_NUM": 2990000,
       "HOLD_NUM_RATIO": 0.4,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -740,22 +740,22 @@
     {
       "SECUCODE": "000736.SZ",
       "SECURITY_CODE": "000736",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
       "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 427829666,
-      "TOTAL_SHARES_RATIO": 57.26550418,
-      "ALL_SHARES_RATIO": 57.26550418
+      "TOTAL_FREE_SHARES": 425829666,
+      "TOTAL_SHARES_RATIO": 56.99780182,
+      "ALL_SHARES_RATIO": 56.99780182
     },
     {
       "SECUCODE": "000736.SZ",
       "SECURITY_CODE": "000736",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 427829666,
-      "TOTAL_SHARES_RATIO": 57.26550418,
-      "ALL_SHARES_RATIO": 57.26550418
+      "TOTAL_FREE_SHARES": 425829666,
+      "TOTAL_SHARES_RATIO": 56.99780182,
+      "ALL_SHARES_RATIO": 56.99780182
     }
   ],
   "jjcg": [
