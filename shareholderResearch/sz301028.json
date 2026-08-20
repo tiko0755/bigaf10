@@ -67,8 +67,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 15.96,
       "AVG_HOLD_AMT": 243503.08791595,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 74.69688063,
+      "FREEHOLD_RATIO_TOTAL": 60.99403906
     },
     {
       "SECUCODE": "301028.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "301028.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "301028.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "301028.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "301028.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "301028.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "301028.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -316,6 +321,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "301028.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "301028.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -329,10 +338,6 @@
     {
       "SECUCODE": "301028.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "301028.SZ",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -363,7 +368,7 @@
     {
       "SECUCODE": "301028.SZ",
       "SECURITY_CODE": "301028",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "太平洋捷豹控股有限公司",
       "HOLDER_TYPE": "其它",
@@ -376,7 +381,7 @@
     {
       "SECUCODE": "301028.SZ",
       "SECURITY_CODE": "301028",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "韩萤焕",
       "HOLDER_TYPE": "个人",
@@ -389,8 +394,21 @@
     {
       "SECUCODE": "301028.SZ",
       "SECURITY_CODE": "301028",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "基本养老保险基金一二零四组合",
+      "HOLDER_TYPE": "基本养老基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3249864,
+      "FREE_HOLDNUM_RATIO": 1.308717530522,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301028.SZ",
+      "SECURITY_CODE": "301028",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "厦门福瑞高科投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -402,21 +420,47 @@
     {
       "SECUCODE": "301028.SZ",
       "SECURITY_CODE": "301028",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "厦门惠福资本投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2275400,
-      "FREE_HOLDNUM_RATIO": 0.916301687994,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 2247300,
+      "FREE_HOLDNUM_RATIO": 0.904985841359,
+      "HOLD_NUM_CHANGE": "-28100",
+      "CHANGE_RATIO": -1.2349477
+    },
+    {
+      "SECUCODE": "301028.SZ",
+      "SECURITY_CODE": "301028",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "泰康人寿保险有限责任公司-分红-团体分红-019L-FH001深",
+      "HOLDER_TYPE": "保险产品",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1791900,
+      "FREE_HOLDNUM_RATIO": 0.721596640026,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301028.SZ",
       "SECURITY_CODE": "301028",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1744787,
+      "FREE_HOLDNUM_RATIO": 0.702624274101,
+      "HOLD_NUM_CHANGE": "426657",
+      "CHANGE_RATIO": 32.36835517
+    },
+    {
+      "SECUCODE": "301028.SZ",
+      "SECURITY_CODE": "301028",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "厦门发富投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -428,87 +472,48 @@
     {
       "SECUCODE": "301028.SZ",
       "SECURITY_CODE": "301028",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "香港中央结算有限公司",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "泰康资产绝对收益策略混合型养老金产品-中国建设银行股份有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1318130,
-      "FREE_HOLDNUM_RATIO": 0.530809854968,
-      "HOLD_NUM_CHANGE": "69630",
-      "CHANGE_RATIO": 5.57709251
+      "HOLD_NUM": 1614786,
+      "FREE_HOLDNUM_RATIO": 0.650272979497,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301028.SZ",
       "SECURITY_CODE": "301028",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "徐红军",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1289300,
-      "FREE_HOLDNUM_RATIO": 0.519200037941,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301028.SZ",
-      "SECURITY_CODE": "301028",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "卢永锋",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1183000,
-      "FREE_HOLDNUM_RATIO": 0.47639311633,
-      "HOLD_NUM_CHANGE": "-505800",
-      "CHANGE_RATIO": -29.95026054
-    },
-    {
-      "SECUCODE": "301028.SZ",
-      "SECURITY_CODE": "301028",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "阎亚杰",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1100000,
-      "FREE_HOLDNUM_RATIO": 0.442969085345,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301028.SZ",
-      "SECURITY_CODE": "301028",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "庄旭",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 851300,
-      "FREE_HOLDNUM_RATIO": 0.34281780214,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1298500,
+      "FREE_HOLDNUM_RATIO": 0.522904870291,
+      "HOLD_NUM_CHANGE": "9200",
+      "CHANGE_RATIO": 0.7135655
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "301028.SZ",
       "SECURITY_CODE": "301028",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 147533030,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 151463037,
       "LIMITED_SHARES": 135725361,
-      "OTHER_UNLIMITED_SHARES": 100791297,
-      "HOLD_NUM_RATIO": 38.42,
+      "OTHER_UNLIMITED_SHARES": 96861290,
+      "HOLD_NUM_RATIO": 39.44,
       "LIMITED_SHARES_RATIO": 35.34,
-      "UNLIMITED_SHARES_RATIO": 26.24
+      "UNLIMITED_SHARES_RATIO": 25.22
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "301028.SZ",
       "SECURITY_CODE": "301028",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "韩萤焕",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -520,7 +525,7 @@
     {
       "SECUCODE": "301028.SZ",
       "SECURITY_CODE": "301028",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "太平洋捷豹控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -532,8 +537,20 @@
     {
       "SECUCODE": "301028.SZ",
       "SECURITY_CODE": "301028",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "基本养老保险基金一二零四组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3249864,
+      "HOLD_NUM_RATIO": 0.85,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301028.SZ",
+      "SECURITY_CODE": "301028",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "厦门福瑞高科投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2431200,
@@ -544,20 +561,44 @@
     {
       "SECUCODE": "301028.SZ",
       "SECURITY_CODE": "301028",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "厦门惠福资本投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2275400,
+      "HOLD_NUM": 2247300,
       "HOLD_NUM_RATIO": 0.59,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM_CHANGE": "-28100",
+      "CHANGE_RATIO": -1.2349477
+    },
+    {
+      "SECUCODE": "301028.SZ",
+      "SECURITY_CODE": "301028",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "泰康人寿保险有限责任公司-分红-团体分红-019L-FH001深",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1791900,
+      "HOLD_NUM_RATIO": 0.47,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301028.SZ",
       "SECURITY_CODE": "301028",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1744787,
+      "HOLD_NUM_RATIO": 0.45,
+      "HOLD_NUM_CHANGE": "426657",
+      "CHANGE_RATIO": 32.36835517
+    },
+    {
+      "SECUCODE": "301028.SZ",
+      "SECURITY_CODE": "301028",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "厦门发富投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1676000,
@@ -568,94 +609,58 @@
     {
       "SECUCODE": "301028.SZ",
       "SECURITY_CODE": "301028",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "香港中央结算有限公司",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "泰康资产绝对收益策略混合型养老金产品-中国建设银行股份有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1318130,
-      "HOLD_NUM_RATIO": 0.34,
-      "HOLD_NUM_CHANGE": "69630",
-      "CHANGE_RATIO": 5.57709251
+      "HOLD_NUM": 1614786,
+      "HOLD_NUM_RATIO": 0.42,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301028.SZ",
       "SECURITY_CODE": "301028",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "徐红军",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1289300,
+      "HOLD_NUM": 1298500,
       "HOLD_NUM_RATIO": 0.34,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301028.SZ",
-      "SECURITY_CODE": "301028",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "卢永锋",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1183000,
-      "HOLD_NUM_RATIO": 0.31,
-      "HOLD_NUM_CHANGE": "-505800",
-      "CHANGE_RATIO": -29.95026054
-    },
-    {
-      "SECUCODE": "301028.SZ",
-      "SECURITY_CODE": "301028",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "阎亚杰",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1100000,
-      "HOLD_NUM_RATIO": 0.29,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301028.SZ",
-      "SECURITY_CODE": "301028",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "庄旭",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 851300,
-      "HOLD_NUM_RATIO": 0.22,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM_CHANGE": "9200",
+      "CHANGE_RATIO": 0.7135655
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "301028.SZ",
       "SECURITY_CODE": "301028",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 7,
-      "TOTAL_FREE_SHARES": 98002130,
-      "TOTAL_SHARES_RATIO": 39.46537627,
-      "ALL_SHARES_RATIO": 25.51808609
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 105027837,
+      "TOTAL_SHARES_RATIO": 42.29462263,
+      "ALL_SHARES_RATIO": 27.34746057
     },
     {
       "SECUCODE": "301028.SZ",
       "SECURITY_CODE": "301028",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 29400,
-      "TOTAL_SHARES_RATIO": 0.01183936,
-      "ALL_SHARES_RATIO": 0.00765526
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "05",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 1791900,
+      "TOTAL_SHARES_RATIO": 0.72159664,
+      "ALL_SHARES_RATIO": 0.46658025
     },
     {
       "SECUCODE": "301028.SZ",
       "SECURITY_CODE": "301028",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 97972730,
-      "TOTAL_SHARES_RATIO": 39.45353691,
-      "ALL_SHARES_RATIO": 25.51043083
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 103235937,
+      "TOTAL_SHARES_RATIO": 41.57302599,
+      "ALL_SHARES_RATIO": 26.88088032
     }
   ],
   "jjcg": [

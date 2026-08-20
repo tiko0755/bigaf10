@@ -53,8 +53,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 6.8313612334,
       "AVG_HOLD_AMT": 285783.452556374,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 46.04388819,
+      "FREEHOLD_RATIO_TOTAL": 46.04388819
     },
     {
       "SECUCODE": "600064.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600064.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "600064.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600064.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "600064.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600064.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600064.SH",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600064.SH",
       "END_DATE": "2014-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600064.SH",
-      "END_DATE": "2014-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600064.SH",
       "SECURITY_CODE": "600064",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "南京新港开发有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,21 +486,8 @@
     {
       "SECUCODE": "600064.SH",
       "SECURITY_CODE": "600064",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "中央汇金资产管理有限责任公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 46180883,
-      "FREE_HOLDNUM_RATIO": 2.668891229542,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600064.SH",
-      "SECURITY_CODE": "600064",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "南京港(集团)有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -512,8 +499,8 @@
     {
       "SECUCODE": "600064.SH",
       "SECURITY_CODE": "600064",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "刘少鸾",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -525,8 +512,8 @@
     {
       "SECUCODE": "600064.SH",
       "SECURITY_CODE": "600064",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "杨伟",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -538,65 +525,78 @@
     {
       "SECUCODE": "600064.SH",
       "SECURITY_CODE": "600064",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国工商银行股份有限公司-南方中证全指房地产交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 14603182,
-      "FREE_HOLDNUM_RATIO": 0.843948877357,
-      "HOLD_NUM_CHANGE": "4238303",
-      "CHANGE_RATIO": 40.89100317
-    },
-    {
-      "SECUCODE": "600064.SH",
-      "SECURITY_CODE": "600064",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "杨廷栋",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12530000,
-      "FREE_HOLDNUM_RATIO": 0.724135290054,
-      "HOLD_NUM_CHANGE": "-272980",
-      "CHANGE_RATIO": -2.13215986
-    },
-    {
-      "SECUCODE": "600064.SH",
-      "SECURITY_CODE": "600064",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国银行股份有限公司-易方达中证红利交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12434643,
-      "FREE_HOLDNUM_RATIO": 0.718624406666,
-      "HOLD_NUM_CHANGE": "156064",
-      "CHANGE_RATIO": 1.27102656
-    },
-    {
-      "SECUCODE": "600064.SH",
-      "SECURITY_CODE": "600064",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国工商银行股份有限公司-富国中证红利指数增强型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12153119,
-      "FREE_HOLDNUM_RATIO": 0.702354537281,
+      "HOLD_NUM": 18979652,
+      "FREE_HOLDNUM_RATIO": 1.096874366013,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600064.SH",
       "SECURITY_CODE": "600064",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "苏州联胜化学有限公司",
-      "HOLDER_TYPE": "其它",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国银行股份有限公司-易方达中证红利交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10130000,
-      "FREE_HOLDNUM_RATIO": 0.585434196987,
+      "HOLD_NUM": 17744517,
+      "FREE_HOLDNUM_RATIO": 1.025493293269,
+      "HOLD_NUM_CHANGE": "5309874",
+      "CHANGE_RATIO": 42.70226335
+    },
+    {
+      "SECUCODE": "600064.SH",
+      "SECURITY_CODE": "600064",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "上海浦东发展银行股份有限公司-招商中证红利交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 13109004,
+      "FREE_HOLDNUM_RATIO": 0.757597159925,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600064.SH",
+      "SECURITY_CODE": "600064",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "杨廷栋",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 12030000,
+      "FREE_HOLDNUM_RATIO": 0.695239228998,
+      "HOLD_NUM_CHANGE": "-500000",
+      "CHANGE_RATIO": -3.99042298
+    },
+    {
+      "SECUCODE": "600064.SH",
+      "SECURITY_CODE": "600064",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "富国基金-中国人寿保险股份有限公司-传统险-富国基金国寿股份新价值股票型组合单一资产管理计划(传统险)",
+      "HOLDER_TYPE": "基金资产管理计划",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 10848996,
+      "FREE_HOLDNUM_RATIO": 0.626986501617,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600064.SH",
+      "SECURITY_CODE": "600064",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国建设银行股份有限公司-华泰柏瑞新金融地产灵活配置混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 10633350,
+      "FREE_HOLDNUM_RATIO": 0.614523861652,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "600064.SH",
       "SECURITY_CODE": "600064",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 821401959,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 796715651,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 908937685,
-      "HOLD_NUM_RATIO": 47.47,
+      "OTHER_UNLIMITED_SHARES": 933623993,
+      "HOLD_NUM_RATIO": 46.04,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 52.53
+      "UNLIMITED_SHARES_RATIO": 53.96
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600064.SH",
       "SECURITY_CODE": "600064",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "南京新港开发有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,20 +630,8 @@
     {
       "SECUCODE": "600064.SH",
       "SECURITY_CODE": "600064",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "中央汇金资产管理有限责任公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 46180883,
-      "HOLD_NUM_RATIO": 2.67,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600064.SH",
-      "SECURITY_CODE": "600064",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "南京港(集团)有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 43064000,
@@ -654,8 +642,8 @@
     {
       "SECUCODE": "600064.SH",
       "SECURITY_CODE": "600064",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "刘少鸾",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 40603192,
@@ -666,8 +654,8 @@
     {
       "SECUCODE": "600064.SH",
       "SECURITY_CODE": "600064",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "杨伟",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 28619720,
@@ -678,60 +666,72 @@
     {
       "SECUCODE": "600064.SH",
       "SECURITY_CODE": "600064",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国工商银行股份有限公司-南方中证全指房地产交易型开放式指数证券投资基金",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 14603182,
-      "HOLD_NUM_RATIO": 0.84,
-      "HOLD_NUM_CHANGE": "4238303",
-      "CHANGE_RATIO": 40.89100317
-    },
-    {
-      "SECUCODE": "600064.SH",
-      "SECURITY_CODE": "600064",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "杨廷栋",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 12530000,
-      "HOLD_NUM_RATIO": 0.72,
-      "HOLD_NUM_CHANGE": "-272980",
-      "CHANGE_RATIO": -2.13215986
-    },
-    {
-      "SECUCODE": "600064.SH",
-      "SECURITY_CODE": "600064",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国银行股份有限公司-易方达中证红利交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 12434643,
-      "HOLD_NUM_RATIO": 0.72,
-      "HOLD_NUM_CHANGE": "156064",
-      "CHANGE_RATIO": 1.27102656
-    },
-    {
-      "SECUCODE": "600064.SH",
-      "SECURITY_CODE": "600064",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国工商银行股份有限公司-富国中证红利指数增强型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 12153119,
-      "HOLD_NUM_RATIO": 0.7,
+      "HOLD_NUM": 18979652,
+      "HOLD_NUM_RATIO": 1.1,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600064.SH",
       "SECURITY_CODE": "600064",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "苏州联胜化学有限公司",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国银行股份有限公司-易方达中证红利交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10130000,
-      "HOLD_NUM_RATIO": 0.59,
+      "HOLD_NUM": 17744517,
+      "HOLD_NUM_RATIO": 1.03,
+      "HOLD_NUM_CHANGE": "5309874",
+      "CHANGE_RATIO": 42.70226335
+    },
+    {
+      "SECUCODE": "600064.SH",
+      "SECURITY_CODE": "600064",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "上海浦东发展银行股份有限公司-招商中证红利交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 13109004,
+      "HOLD_NUM_RATIO": 0.76,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600064.SH",
+      "SECURITY_CODE": "600064",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "杨廷栋",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 12030000,
+      "HOLD_NUM_RATIO": 0.7,
+      "HOLD_NUM_CHANGE": "-500000",
+      "CHANGE_RATIO": -3.99042298
+    },
+    {
+      "SECUCODE": "600064.SH",
+      "SECURITY_CODE": "600064",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "富国基金-中国人寿保险股份有限公司-传统险-富国基金国寿股份新价值股票型组合单一资产管理计划(传统险)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 10848996,
+      "HOLD_NUM_RATIO": 0.63,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600064.SH",
+      "SECURITY_CODE": "600064",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国建设银行股份有限公司-华泰柏瑞新金融地产灵活配置混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 10633350,
+      "HOLD_NUM_RATIO": 0.61,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,23 +742,101 @@
       "SECURITY_CODE": "600064",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 13247188,
-      "TOTAL_SHARES_RATIO": 0.76558311,
-      "ALL_SHARES_RATIO": 0.76558311
+      "TOTAL_ORG_NUM": 12,
+      "TOTAL_FREE_SHARES": 728709927,
+      "TOTAL_SHARES_RATIO": 42.11369309,
+      "ALL_SHARES_RATIO": 42.11369309
     },
     {
       "SECUCODE": "600064.SH",
       "SECURITY_CODE": "600064",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 13247188,
-      "TOTAL_SHARES_RATIO": 0.76558311,
-      "ALL_SHARES_RATIO": 0.76558311
+      "TOTAL_ORG_NUM": 9,
+      "TOTAL_FREE_SHARES": 65583055,
+      "TOTAL_SHARES_RATIO": 3.79018392,
+      "ALL_SHARES_RATIO": 3.79018392
+    },
+    {
+      "SECUCODE": "600064.SH",
+      "SECURITY_CODE": "600064",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 663126872,
+      "TOTAL_SHARES_RATIO": 38.32350917,
+      "ALL_SHARES_RATIO": 38.32350917
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600064.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "515180",
+      "HOLDER_NAME": "易方达中证红利ETF",
+      "TOTAL_SHARES": 17744517,
+      "HOLD_VALUE": 126518406.21,
+      "TOTALSHARES_RATIO": 1.02549329,
+      "FREESHARES_RATIO": 1.02549329,
+      "FREE_MARKET_CAP": 126518406.21,
+      "FREE_SHARES": 17744517,
+      "SECURITY_CODE": "600064",
+      "FUND_CODE": "515180",
+      "FUND_DERIVECODE": "515180.SH",
+      "NETVALUE_RATIO": 0.81
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600064.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "515080",
+      "HOLDER_NAME": "招商中证红利ETF",
+      "TOTAL_SHARES": 13109004,
+      "HOLD_VALUE": 93467198.52,
+      "TOTALSHARES_RATIO": 0.75759716,
+      "FREESHARES_RATIO": 0.75759716,
+      "FREE_MARKET_CAP": 93467198.52,
+      "FREE_SHARES": 13109004,
+      "SECURITY_CODE": "600064",
+      "FUND_CODE": "515080",
+      "FUND_DERIVECODE": "515080.SH",
+      "NETVALUE_RATIO": 0.81
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600064.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "70432182",
+      "HOLDER_NAME": "富国基金-中国人寿保险股份有限公司-传统险-富国基金国寿股份新价值股票型组合单一资产管理计划(传统险)",
+      "TOTAL_SHARES": 10848996,
+      "HOLD_VALUE": 77353341.48,
+      "TOTALSHARES_RATIO": 0.6269865,
+      "FREESHARES_RATIO": 0.6269865,
+      "FREE_MARKET_CAP": 77353341.48,
+      "FREE_SHARES": 10848996,
+      "SECURITY_CODE": "600064",
+      "FUND_CODE": null,
+      "FUND_DERIVECODE": null,
+      "NETVALUE_RATIO": null
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600064.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "005576",
+      "HOLDER_NAME": "华泰柏瑞新金融地产A",
+      "TOTAL_SHARES": 10633350,
+      "HOLD_VALUE": 75815785.5,
+      "TOTALSHARES_RATIO": 0.61452386,
+      "FREESHARES_RATIO": 0.61452386,
+      "FREE_MARKET_CAP": 75815785.5,
+      "FREE_SHARES": 10633350,
+      "SECURITY_CODE": "600064",
+      "FUND_CODE": "005576",
+      "FUND_DERIVECODE": "005576.OF",
+      "NETVALUE_RATIO": 6.14
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "600064.SH",
