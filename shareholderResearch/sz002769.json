@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 6.53,
       "AVG_HOLD_AMT": 89362.6151777525,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 41.83272047,
+      "FREEHOLD_RATIO_TOTAL": 41.86724262
     },
     {
       "SECUCODE": "002769.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002769.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "002769.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002769.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "002769.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002769.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002769.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002769.SZ",
       "END_DATE": "2019-09-16 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "002769.SZ",
-      "END_DATE": "2019-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "002769.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
     {
       "SECUCODE": "002769.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "002769.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "002769.SZ",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "002769.SZ",
       "SECURITY_CODE": "002769",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "广东省绿色投资运营有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "002769.SZ",
       "SECURITY_CODE": "002769",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "陈书智",
       "HOLDER_TYPE": "个人",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "002769.SZ",
       "SECURITY_CODE": "002769",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "深圳市聚智通信息技术有限公司",
       "HOLDER_TYPE": "其它",
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "002769.SZ",
       "SECURITY_CODE": "002769",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "张云",
       "HOLDER_TYPE": "个人",
@@ -525,7 +525,7 @@
     {
       "SECUCODE": "002769.SZ",
       "SECURITY_CODE": "002769",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "赵野",
       "HOLDER_TYPE": "个人",
@@ -538,47 +538,60 @@
     {
       "SECUCODE": "002769.SZ",
       "SECURITY_CODE": "002769",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "王竹",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7057400,
-      "FREE_HOLDNUM_RATIO": 1.892012452313,
-      "HOLD_NUM_CHANGE": "7400",
-      "CHANGE_RATIO": 0.10496454
+      "HOLD_NUM": 7317900,
+      "FREE_HOLDNUM_RATIO": 1.961849679029,
+      "HOLD_NUM_CHANGE": "260500",
+      "CHANGE_RATIO": 3.69116105
     },
     {
       "SECUCODE": "002769.SZ",
       "SECURITY_CODE": "002769",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "张晓峰",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6237650,
-      "FREE_HOLDNUM_RATIO": 1.672246361715,
-      "HOLD_NUM_CHANGE": "-96300",
-      "CHANGE_RATIO": -1.52037828
+      "HOLD_NUM": 6137650,
+      "FREE_HOLDNUM_RATIO": 1.645437445509,
+      "HOLD_NUM_CHANGE": "-100000",
+      "CHANGE_RATIO": -1.60316786
     },
     {
       "SECUCODE": "002769.SZ",
       "SECURITY_CODE": "002769",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "吴娟",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5090644,
-      "FREE_HOLDNUM_RATIO": 1.364746484299,
-      "HOLD_NUM_CHANGE": "-10000",
-      "CHANGE_RATIO": -0.19605367
+      "HOLD_NUM": 5350644,
+      "FREE_HOLDNUM_RATIO": 1.434449666434,
+      "HOLD_NUM_CHANGE": "260000",
+      "CHANGE_RATIO": 5.10740881
     },
     {
       "SECUCODE": "002769.SZ",
       "SECURITY_CODE": "002769",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
+      "HOLDER_NAME": "杨利军",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4623000,
+      "FREE_HOLDNUM_RATIO": 1.239376196197,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002769.SZ",
+      "SECURITY_CODE": "002769",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "曹廷飞",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -586,39 +599,26 @@
       "FREE_HOLDNUM_RATIO": 1.125608807029,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "002769.SZ",
-      "SECURITY_CODE": "002769",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "何帆",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3000050,
-      "FREE_HOLDNUM_RATIO": 0.804280890634,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "002769.SZ",
       "SECURITY_CODE": "002769",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 154125648,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 156169098,
       "LIMITED_SHARES": 307824,
-      "OTHER_UNLIMITED_SHARES": 218884582,
-      "HOLD_NUM_RATIO": 41.29,
+      "OTHER_UNLIMITED_SHARES": 216841132,
+      "HOLD_NUM_RATIO": 41.83,
       "LIMITED_SHARES_RATIO": 0.08,
-      "UNLIMITED_SHARES_RATIO": 58.63
+      "UNLIMITED_SHARES_RATIO": 58.08
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002769.SZ",
       "SECURITY_CODE": "002769",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "广东省绿色投资运营有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "002769.SZ",
       "SECURITY_CODE": "002769",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "陈书智",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "002769.SZ",
       "SECURITY_CODE": "002769",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "深圳市聚智通信息技术有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "002769.SZ",
       "SECURITY_CODE": "002769",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "张云",
       "SHARES_TYPE": "流通A股",
@@ -666,7 +666,7 @@
     {
       "SECUCODE": "002769.SZ",
       "SECURITY_CODE": "002769",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "赵野",
       "SHARES_TYPE": "流通A股",
@@ -678,61 +678,61 @@
     {
       "SECUCODE": "002769.SZ",
       "SECURITY_CODE": "002769",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "王竹",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7057400,
-      "HOLD_NUM_RATIO": 1.89,
-      "HOLD_NUM_CHANGE": "7400",
-      "CHANGE_RATIO": 0.10496454
+      "HOLD_NUM": 7317900,
+      "HOLD_NUM_RATIO": 1.96,
+      "HOLD_NUM_CHANGE": "260500",
+      "CHANGE_RATIO": 3.69116105
     },
     {
       "SECUCODE": "002769.SZ",
       "SECURITY_CODE": "002769",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "张晓峰",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6237650,
-      "HOLD_NUM_RATIO": 1.67,
-      "HOLD_NUM_CHANGE": "-96300",
-      "CHANGE_RATIO": -1.52037828
+      "HOLD_NUM": 6137650,
+      "HOLD_NUM_RATIO": 1.64,
+      "HOLD_NUM_CHANGE": "-100000",
+      "CHANGE_RATIO": -1.60316786
     },
     {
       "SECUCODE": "002769.SZ",
       "SECURITY_CODE": "002769",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "吴娟",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5090644,
-      "HOLD_NUM_RATIO": 1.36,
-      "HOLD_NUM_CHANGE": "-10000",
-      "CHANGE_RATIO": -0.19605367
+      "HOLD_NUM": 5350644,
+      "HOLD_NUM_RATIO": 1.43,
+      "HOLD_NUM_CHANGE": "260000",
+      "CHANGE_RATIO": 5.10740881
     },
     {
       "SECUCODE": "002769.SZ",
       "SECURITY_CODE": "002769",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "曹廷飞",
+      "HOLDER_NAME": "杨利军",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4198636,
-      "HOLD_NUM_RATIO": 1.12,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 4623000,
+      "HOLD_NUM_RATIO": 1.24,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002769.SZ",
       "SECURITY_CODE": "002769",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "何帆",
+      "HOLDER_NAME": "曹廷飞",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3000050,
-      "HOLD_NUM_RATIO": 0.8,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM": 4198636,
+      "HOLD_NUM_RATIO": 1.12,
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -740,7 +740,7 @@
     {
       "SECUCODE": "002769.SZ",
       "SECURITY_CODE": "002769",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
       "TOTAL_ORG_NUM": 2,
       "TOTAL_FREE_SHARES": 58476441,
@@ -750,7 +750,7 @@
     {
       "SECUCODE": "002769.SZ",
       "SECURITY_CODE": "002769",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 2,
       "TOTAL_FREE_SHARES": 58476441,

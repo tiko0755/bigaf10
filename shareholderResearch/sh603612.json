@@ -53,8 +53,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 18.13,
       "AVG_HOLD_AMT": 203709.229245223,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 37.31859706,
+      "FREEHOLD_RATIO_TOTAL": 37.31859706
     },
     {
       "SECUCODE": "603612.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603612.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "603612.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603612.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "603612.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603612.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603612.SH",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "603612.SH",
       "END_DATE": "2019-09-11 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "603612.SH",
-      "END_DATE": "2019-09-04 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "603612.SH",
       "SECURITY_CODE": "603612",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "郎光辉",
       "HOLDER_TYPE": "个人",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "603612.SH",
       "SECURITY_CODE": "603612",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "王萍",
       "HOLDER_TYPE": "个人",
@@ -499,60 +499,86 @@
     {
       "SECUCODE": "603612.SH",
       "SECURITY_CODE": "603612",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "朱庆",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 10452378,
+      "FREE_HOLDNUM_RATIO": 2.098430923703,
+      "HOLD_NUM_CHANGE": "6161463",
+      "CHANGE_RATIO": 143.59321963
+    },
+    {
+      "SECUCODE": "603612.SH",
+      "SECURITY_CODE": "603612",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "宁波宁聚资产管理中心(有限合伙)-宁聚映山红3号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 14120000,
-      "FREE_HOLDNUM_RATIO": 2.834746757407,
-      "HOLD_NUM_CHANGE": "-8000000",
-      "CHANGE_RATIO": -36.16636528
+      "HOLD_NUM": 10020000,
+      "FREE_HOLDNUM_RATIO": 2.011626240029,
+      "HOLD_NUM_CHANGE": "-4100000",
+      "CHANGE_RATIO": -29.0368272
     },
     {
       "SECUCODE": "603612.SH",
       "SECURITY_CODE": "603612",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7114279,
+      "FREE_HOLDNUM_RATIO": 1.428270490548,
+      "HOLD_NUM_CHANGE": "2367333",
+      "CHANGE_RATIO": 49.87065368
+    },
+    {
+      "SECUCODE": "603612.SH",
+      "SECURITY_CODE": "603612",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "中国工商银行股份有限公司-华商新趋势优选灵活配置混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7500022,
-      "FREE_HOLDNUM_RATIO": 1.505712680239,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 7000000,
+      "FREE_HOLDNUM_RATIO": 1.405327712595,
+      "HOLD_NUM_CHANGE": "-500022",
+      "CHANGE_RATIO": -6.66694044
     },
     {
       "SECUCODE": "603612.SH",
       "SECURITY_CODE": "603612",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "招商银行股份有限公司-中欧周期优选混合型发起式证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "全国社保基金一一零组合",
+      "HOLDER_TYPE": "全国社保基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7013960,
-      "FREE_HOLDNUM_RATIO": 1.408130337576,
+      "HOLD_NUM": 6906539,
+      "FREE_HOLDNUM_RATIO": 1.38656437926,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603612.SH",
       "SECURITY_CODE": "603612",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "全国社保基金一一六组合",
       "HOLDER_TYPE": "全国社保基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6630800,
-      "FREE_HOLDNUM_RATIO": 1.331206713811,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 5967700,
+      "FREE_HOLDNUM_RATIO": 1.198082027208,
+      "HOLD_NUM_CHANGE": "-663100",
+      "CHANGE_RATIO": -10.00030162
     },
     {
       "SECUCODE": "603612.SH",
       "SECURITY_CODE": "603612",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "上海科惠股权投资中心(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -564,61 +590,35 @@
     {
       "SECUCODE": "603612.SH",
       "SECURITY_CODE": "603612",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4746946,
-      "FREE_HOLDNUM_RATIO": 0.953002109142,
-      "HOLD_NUM_CHANGE": "-2218818",
-      "CHANGE_RATIO": -31.8531894
-    },
-    {
-      "SECUCODE": "603612.SH",
-      "SECURITY_CODE": "603612",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "广发银行股份有限公司-国泰聚信价值优势灵活配置混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4600000,
-      "FREE_HOLDNUM_RATIO": 0.923501068277,
-      "HOLD_NUM_CHANGE": "-943800",
-      "CHANGE_RATIO": -17.02442368
-    },
-    {
-      "SECUCODE": "603612.SH",
-      "SECURITY_CODE": "603612",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "朱庆",
+      "HOLDER_NAME": "夏伟德",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4290915,
-      "FREE_HOLDNUM_RATIO": 0.861448823127,
-      "HOLD_NUM_CHANGE": "-4163500",
-      "CHANGE_RATIO": -49.2464588
+      "HOLD_NUM": 4629760,
+      "FREE_HOLDNUM_RATIO": 0.929475718666,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "603612.SH",
       "SECURITY_CODE": "603612",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 182697583,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 185885596,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 315406876,
-      "HOLD_NUM_RATIO": 36.68,
+      "OTHER_UNLIMITED_SHARES": 312218863,
+      "HOLD_NUM_RATIO": 37.32,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 63.32
+      "UNLIMITED_SHARES_RATIO": 62.68
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603612.SH",
       "SECURITY_CODE": "603612",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "郎光辉",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "603612.SH",
       "SECURITY_CODE": "603612",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "王萍",
       "SHARES_TYPE": "流通A股",
@@ -642,56 +642,80 @@
     {
       "SECUCODE": "603612.SH",
       "SECURITY_CODE": "603612",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "朱庆",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 10452378,
+      "HOLD_NUM_RATIO": 2.1,
+      "HOLD_NUM_CHANGE": "6161463",
+      "CHANGE_RATIO": 143.59321963
+    },
+    {
+      "SECUCODE": "603612.SH",
+      "SECURITY_CODE": "603612",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "宁波宁聚资产管理中心(有限合伙)-宁聚映山红3号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 14120000,
-      "HOLD_NUM_RATIO": 2.83,
-      "HOLD_NUM_CHANGE": "-8000000",
-      "CHANGE_RATIO": -36.16636528
+      "HOLD_NUM": 10020000,
+      "HOLD_NUM_RATIO": 2.01,
+      "HOLD_NUM_CHANGE": "-4100000",
+      "CHANGE_RATIO": -29.0368272
     },
     {
       "SECUCODE": "603612.SH",
       "SECURITY_CODE": "603612",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7114279,
+      "HOLD_NUM_RATIO": 1.43,
+      "HOLD_NUM_CHANGE": "2367333",
+      "CHANGE_RATIO": 49.87065368
+    },
+    {
+      "SECUCODE": "603612.SH",
+      "SECURITY_CODE": "603612",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "中国工商银行股份有限公司-华商新趋势优选灵活配置混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7500022,
-      "HOLD_NUM_RATIO": 1.51,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603612.SH",
-      "SECURITY_CODE": "603612",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "招商银行股份有限公司-中欧周期优选混合型发起式证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7013960,
+      "HOLD_NUM": 7000000,
       "HOLD_NUM_RATIO": 1.41,
+      "HOLD_NUM_CHANGE": "-500022",
+      "CHANGE_RATIO": -6.66694044
+    },
+    {
+      "SECUCODE": "603612.SH",
+      "SECURITY_CODE": "603612",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "全国社保基金一一零组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6906539,
+      "HOLD_NUM_RATIO": 1.39,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603612.SH",
       "SECURITY_CODE": "603612",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "全国社保基金一一六组合",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6630800,
-      "HOLD_NUM_RATIO": 1.33,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 5967700,
+      "HOLD_NUM_RATIO": 1.2,
+      "HOLD_NUM_CHANGE": "-663100",
+      "CHANGE_RATIO": -10.00030162
     },
     {
       "SECUCODE": "603612.SH",
       "SECURITY_CODE": "603612",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "上海科惠股权投资中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 5268906,
@@ -702,38 +726,14 @@
     {
       "SECUCODE": "603612.SH",
       "SECURITY_CODE": "603612",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4746946,
-      "HOLD_NUM_RATIO": 0.95,
-      "HOLD_NUM_CHANGE": "-2218818",
-      "CHANGE_RATIO": -31.8531894
-    },
-    {
-      "SECUCODE": "603612.SH",
-      "SECURITY_CODE": "603612",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "广发银行股份有限公司-国泰聚信价值优势灵活配置混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4600000,
-      "HOLD_NUM_RATIO": 0.92,
-      "HOLD_NUM_CHANGE": "-943800",
-      "CHANGE_RATIO": -17.02442368
-    },
-    {
-      "SECUCODE": "603612.SH",
-      "SECURITY_CODE": "603612",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "朱庆",
+      "HOLDER_NAME": "夏伟德",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4290915,
-      "HOLD_NUM_RATIO": 0.86,
-      "HOLD_NUM_CHANGE": "-4163500",
-      "CHANGE_RATIO": -49.2464588
+      "HOLD_NUM": 4629760,
+      "HOLD_NUM_RATIO": 0.93,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
@@ -742,23 +742,60 @@
       "SECURITY_CODE": "603612",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 9,
-      "TOTAL_FREE_SHARES": 9093499,
-      "TOTAL_SHARES_RATIO": 1.82562088,
-      "ALL_SHARES_RATIO": 1.82562088
+      "TOTAL_ORG_NUM": 15,
+      "TOTAL_FREE_SHARES": 51370923,
+      "TOTAL_SHARES_RATIO": 10.3132831,
+      "ALL_SHARES_RATIO": 10.3132831
     },
     {
       "SECUCODE": "603612.SH",
       "SECURITY_CODE": "603612",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 9,
-      "TOTAL_FREE_SHARES": 9093499,
-      "TOTAL_SHARES_RATIO": 1.82562088,
-      "ALL_SHARES_RATIO": 1.82562088
+      "TOTAL_ORG_NUM": 10,
+      "TOTAL_FREE_SHARES": 16093499,
+      "TOTAL_SHARES_RATIO": 3.23094859,
+      "ALL_SHARES_RATIO": 3.23094859
+    },
+    {
+      "SECUCODE": "603612.SH",
+      "SECURITY_CODE": "603612",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 12874239,
+      "TOTAL_SHARES_RATIO": 2.58464641,
+      "ALL_SHARES_RATIO": 2.58464641
+    },
+    {
+      "SECUCODE": "603612.SH",
+      "SECURITY_CODE": "603612",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 22403185,
+      "TOTAL_SHARES_RATIO": 4.4976881,
+      "ALL_SHARES_RATIO": 4.4976881
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603612.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "166301",
+      "HOLDER_NAME": "华商新趋势优选混合",
+      "TOTAL_SHARES": 7000000,
+      "HOLD_VALUE": 126910000,
+      "TOTALSHARES_RATIO": 1.40532771,
+      "FREESHARES_RATIO": 1.40532771,
+      "FREE_MARKET_CAP": 126910000,
+      "FREE_SHARES": 7000000,
+      "SECURITY_CODE": "603612",
+      "FUND_CODE": "166301",
+      "FUND_DERIVECODE": "166301.OF",
+      "NETVALUE_RATIO": 1.99
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "603612.SH",

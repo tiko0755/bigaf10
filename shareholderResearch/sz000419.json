@@ -37,10 +37,10 @@
       "AVG_FREE_SHARES": 25820,
       "AVG_FREESHARES_RATIO": 3.182595477864,
       "HOLD_FOCUS": "较集中",
-      "PRICE": 4.51,
-      "AVG_HOLD_AMT": 116452.48784201,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "PRICE": 4.3936706385,
+      "AVG_HOLD_AMT": 113448.753128984,
+      "HOLD_RATIO_TOTAL": 54.76218423,
+      "FREEHOLD_RATIO_TOTAL": 54.76218423
     },
     {
       "SECUCODE": "000419.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000419.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "000419.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "000419.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "000419.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000419.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000419.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "000419.SZ",
       "END_DATE": "2014-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000419.SZ",
-      "END_DATE": "2013-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "000419.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
     {
       "SECUCODE": "000419.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "000419.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "000419.SZ",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "000419.SZ",
       "SECURITY_CODE": "000419",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "长沙通程实业(集团)有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "000419.SZ",
       "SECURITY_CODE": "000419",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "丁碧霞",
       "HOLDER_TYPE": "个人",
@@ -499,8 +499,21 @@
     {
       "SECUCODE": "000419.SZ",
       "SECURITY_CODE": "000419",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "胡志平",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 7658100,
+      "FREE_HOLDNUM_RATIO": 1.40881978657,
+      "HOLD_NUM_CHANGE": "2348400",
+      "CHANGE_RATIO": 44.22848749
+    },
+    {
+      "SECUCODE": "000419.SZ",
+      "SECURITY_CODE": "000419",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "湖南天辰建设有限责任公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -512,8 +525,21 @@
     {
       "SECUCODE": "000419.SZ",
       "SECURITY_CODE": "000419",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "曲保爱",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6211500,
+      "FREE_HOLDNUM_RATIO": 1.142696504913,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000419.SZ",
+      "SECURITY_CODE": "000419",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "李怡名",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -525,8 +551,8 @@
     {
       "SECUCODE": "000419.SZ",
       "SECURITY_CODE": "000419",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "湖南星电集团有限责任公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -538,46 +564,20 @@
     {
       "SECUCODE": "000419.SZ",
       "SECURITY_CODE": "000419",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "夏重阳",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5740000,
-      "FREE_HOLDNUM_RATIO": 1.055957166257,
-      "HOLD_NUM_CHANGE": "350000",
-      "CHANGE_RATIO": 6.49350649
+      "HOLD_NUM": 4170000,
+      "FREE_HOLDNUM_RATIO": 0.767132645172,
+      "HOLD_NUM_CHANGE": "-1570000",
+      "CHANGE_RATIO": -27.35191638
     },
     {
       "SECUCODE": "000419.SZ",
       "SECURITY_CODE": "000419",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "胡志平",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5309700,
-      "FREE_HOLDNUM_RATIO": 0.97679717172,
-      "HOLD_NUM_CHANGE": "1678100",
-      "CHANGE_RATIO": 46.20828285
-    },
-    {
-      "SECUCODE": "000419.SZ",
-      "SECURITY_CODE": "000419",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国建设银行股份有限公司-广发量化多因子灵活配置混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4015000,
-      "FREE_HOLDNUM_RATIO": 0.73861812239,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000419.SZ",
-      "SECURITY_CODE": "000419",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "长沙水业集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -590,13 +590,13 @@
     {
       "SECUCODE": "000419.SZ",
       "SECURITY_CODE": "000419",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "兴业银行股份有限公司-广发中证500指数量化增强型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "吴炜",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3621800,
-      "FREE_HOLDNUM_RATIO": 0.666283216855,
+      "HOLD_NUM": 3636000,
+      "FREE_HOLDNUM_RATIO": 0.668895515071,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "000419.SZ",
       "SECURITY_CODE": "000419",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 294688635,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 297677735,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 248894020,
-      "HOLD_NUM_RATIO": 54.21,
+      "OTHER_UNLIMITED_SHARES": 245904920,
+      "HOLD_NUM_RATIO": 54.76,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 45.79
+      "UNLIMITED_SHARES_RATIO": 45.24
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "000419.SZ",
       "SECURITY_CODE": "000419",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "长沙通程实业(集团)有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "000419.SZ",
       "SECURITY_CODE": "000419",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "丁碧霞",
       "SHARES_TYPE": "流通A股",
@@ -642,8 +642,20 @@
     {
       "SECUCODE": "000419.SZ",
       "SECURITY_CODE": "000419",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "胡志平",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7658100,
+      "HOLD_NUM_RATIO": 1.41,
+      "HOLD_NUM_CHANGE": "2348400",
+      "CHANGE_RATIO": 44.22848749
+    },
+    {
+      "SECUCODE": "000419.SZ",
+      "SECURITY_CODE": "000419",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "湖南天辰建设有限责任公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 7305090,
@@ -654,8 +666,20 @@
     {
       "SECUCODE": "000419.SZ",
       "SECURITY_CODE": "000419",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "曲保爱",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6211500,
+      "HOLD_NUM_RATIO": 1.14,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000419.SZ",
+      "SECURITY_CODE": "000419",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "李怡名",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 6163103,
@@ -666,8 +690,8 @@
     {
       "SECUCODE": "000419.SZ",
       "SECURITY_CODE": "000419",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "湖南星电集团有限责任公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 5887499,
@@ -678,43 +702,19 @@
     {
       "SECUCODE": "000419.SZ",
       "SECURITY_CODE": "000419",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "夏重阳",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5740000,
-      "HOLD_NUM_RATIO": 1.06,
-      "HOLD_NUM_CHANGE": "350000",
-      "CHANGE_RATIO": 6.49350649
+      "HOLD_NUM": 4170000,
+      "HOLD_NUM_RATIO": 0.77,
+      "HOLD_NUM_CHANGE": "-1570000",
+      "CHANGE_RATIO": -27.35191638
     },
     {
       "SECUCODE": "000419.SZ",
       "SECURITY_CODE": "000419",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "胡志平",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5309700,
-      "HOLD_NUM_RATIO": 0.98,
-      "HOLD_NUM_CHANGE": "1678100",
-      "CHANGE_RATIO": 46.20828285
-    },
-    {
-      "SECUCODE": "000419.SZ",
-      "SECURITY_CODE": "000419",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国建设银行股份有限公司-广发量化多因子灵活配置混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4015000,
-      "HOLD_NUM_RATIO": 0.74,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000419.SZ",
-      "SECURITY_CODE": "000419",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "长沙水业集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -726,11 +726,11 @@
     {
       "SECUCODE": "000419.SZ",
       "SECURITY_CODE": "000419",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "兴业银行股份有限公司-广发中证500指数量化增强型证券投资基金",
+      "HOLDER_NAME": "吴炜",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3621800,
+      "HOLD_NUM": 3636000,
       "HOLD_NUM_RATIO": 0.67,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
@@ -740,37 +740,17 @@
     {
       "SECUCODE": "000419.SZ",
       "SECURITY_CODE": "000419",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 8,
-      "TOTAL_FREE_SHARES": 265656763,
-      "TOTAL_SHARES_RATIO": 48.87145691,
-      "ALL_SHARES_RATIO": 48.87145691
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 257913363,
+      "TOTAL_SHARES_RATIO": 47.44694494,
+      "ALL_SHARES_RATIO": 47.44694494
     },
     {
       "SECUCODE": "000419.SZ",
       "SECURITY_CODE": "000419",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 7636800,
-      "TOTAL_SHARES_RATIO": 1.40490134,
-      "ALL_SHARES_RATIO": 1.40490134
-    },
-    {
-      "SECUCODE": "000419.SZ",
-      "SECURITY_CODE": "000419",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "ORG_TYPE": "04",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 106600,
-      "TOTAL_SHARES_RATIO": 0.01961063,
-      "ALL_SHARES_RATIO": 0.01961063
-    },
-    {
-      "SECUCODE": "000419.SZ",
-      "SECURITY_CODE": "000419",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 4,
       "TOTAL_FREE_SHARES": 257913363,

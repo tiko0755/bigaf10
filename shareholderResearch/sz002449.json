@@ -67,8 +67,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 7.75,
       "AVG_HOLD_AMT": 81082.602719276,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 25.99445947,
+      "FREEHOLD_RATIO_TOTAL": 25.99445947
     },
     {
       "SECUCODE": "002449.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002449.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "002449.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002449.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "002449.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002449.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002449.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002449.SZ",
       "END_DATE": "2015-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002449.SZ",
-      "END_DATE": "2014-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "002449.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
     {
       "SECUCODE": "002449.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "002449.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "002449.SZ",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "002449.SZ",
       "SECURITY_CODE": "002449",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "佛山市西格玛创业投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "002449.SZ",
       "SECURITY_CODE": "002449",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "佛山电器照明股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,21 +499,8 @@
     {
       "SECUCODE": "002449.SZ",
       "SECURITY_CODE": "002449",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6311462,
-      "FREE_HOLDNUM_RATIO": 1.020484233914,
-      "HOLD_NUM_CHANGE": "-441763",
-      "CHANGE_RATIO": -6.54151165
-    },
-    {
-      "SECUCODE": "002449.SZ",
-      "SECURITY_CODE": "002449",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "钟易珍",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -525,8 +512,34 @@
     {
       "SECUCODE": "002449.SZ",
       "SECURITY_CODE": "002449",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5152452,
+      "FREE_HOLDNUM_RATIO": 0.833086855628,
+      "HOLD_NUM_CHANGE": "-1159010",
+      "CHANGE_RATIO": -18.36357408
+    },
+    {
+      "SECUCODE": "002449.SZ",
+      "SECURITY_CODE": "002449",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "刘胜刚",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3967500,
+      "FREE_HOLDNUM_RATIO": 0.641494981361,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002449.SZ",
+      "SECURITY_CODE": "002449",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "郭冰",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -538,59 +551,46 @@
     {
       "SECUCODE": "002449.SZ",
       "SECURITY_CODE": "002449",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "李英",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 2603800,
       "FREE_HOLDNUM_RATIO": 0.421001797724,
-      "HOLD_NUM_CHANGE": "-7700",
-      "CHANGE_RATIO": -0.2948497
-    },
-    {
-      "SECUCODE": "002449.SZ",
-      "SECURITY_CODE": "002449",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "广发证券股份有限公司-西部利得专精特新量化选股混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2163000,
-      "FREE_HOLDNUM_RATIO": 0.349729967154,
-      "HOLD_NUM_CHANGE": "137880",
-      "CHANGE_RATIO": 6.80848542
-    },
-    {
-      "SECUCODE": "002449.SZ",
-      "SECURITY_CODE": "002449",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "闫兴",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2158800,
-      "FREE_HOLDNUM_RATIO": 0.349050879839,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002449.SZ",
       "SECURITY_CODE": "002449",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "周安兵",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "闫兴",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2145700,
-      "FREE_HOLDNUM_RATIO": 0.346932774167,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2168800,
+      "FREE_HOLDNUM_RATIO": 0.350667754399,
+      "HOLD_NUM_CHANGE": "10000",
+      "CHANGE_RATIO": 0.46322031
     },
     {
       "SECUCODE": "002449.SZ",
       "SECURITY_CODE": "002449",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "周安兵",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2136100,
+      "FREE_HOLDNUM_RATIO": 0.34538057459,
+      "HOLD_NUM_CHANGE": "-9600",
+      "CHANGE_RATIO": -0.44740644
+    },
+    {
+      "SECUCODE": "002449.SZ",
+      "SECURITY_CODE": "002449",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "蔡永佳",
       "HOLDER_TYPE": "个人",
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "002449.SZ",
       "SECURITY_CODE": "002449",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 160123907,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 160769797,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 458353262,
-      "HOLD_NUM_RATIO": 25.89,
+      "OTHER_UNLIMITED_SHARES": 457707372,
+      "HOLD_NUM_RATIO": 25.99,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 74.11
+      "UNLIMITED_SHARES_RATIO": 74.01
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002449.SZ",
       "SECURITY_CODE": "002449",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "佛山市西格玛创业投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "002449.SZ",
       "SECURITY_CODE": "002449",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "佛山电器照明股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,20 +642,8 @@
     {
       "SECUCODE": "002449.SZ",
       "SECURITY_CODE": "002449",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6311462,
-      "HOLD_NUM_RATIO": 1.02,
-      "HOLD_NUM_CHANGE": "-441763",
-      "CHANGE_RATIO": -6.54151165
-    },
-    {
-      "SECUCODE": "002449.SZ",
-      "SECURITY_CODE": "002449",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "钟易珍",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 5957250,
@@ -666,8 +654,32 @@
     {
       "SECUCODE": "002449.SZ",
       "SECURITY_CODE": "002449",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5152452,
+      "HOLD_NUM_RATIO": 0.83,
+      "HOLD_NUM_CHANGE": "-1159010",
+      "CHANGE_RATIO": -18.36357408
+    },
+    {
+      "SECUCODE": "002449.SZ",
+      "SECURITY_CODE": "002449",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "刘胜刚",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3967500,
+      "HOLD_NUM_RATIO": 0.64,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002449.SZ",
+      "SECURITY_CODE": "002449",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "郭冰",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3913000,
@@ -678,55 +690,43 @@
     {
       "SECUCODE": "002449.SZ",
       "SECURITY_CODE": "002449",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "李英",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2603800,
       "HOLD_NUM_RATIO": 0.42,
-      "HOLD_NUM_CHANGE": "-7700",
-      "CHANGE_RATIO": -0.2948497
-    },
-    {
-      "SECUCODE": "002449.SZ",
-      "SECURITY_CODE": "002449",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "广发证券股份有限公司-西部利得专精特新量化选股混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2163000,
-      "HOLD_NUM_RATIO": 0.35,
-      "HOLD_NUM_CHANGE": "137880",
-      "CHANGE_RATIO": 6.80848542
-    },
-    {
-      "SECUCODE": "002449.SZ",
-      "SECURITY_CODE": "002449",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "闫兴",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2158800,
-      "HOLD_NUM_RATIO": 0.35,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002449.SZ",
       "SECURITY_CODE": "002449",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "周安兵",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "闫兴",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2145700,
+      "HOLD_NUM": 2168800,
       "HOLD_NUM_RATIO": 0.35,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM_CHANGE": "10000",
+      "CHANGE_RATIO": 0.46322031
     },
     {
       "SECUCODE": "002449.SZ",
       "SECURITY_CODE": "002449",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "周安兵",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2136100,
+      "HOLD_NUM_RATIO": 0.35,
+      "HOLD_NUM_CHANGE": "-9600",
+      "CHANGE_RATIO": -0.44740644
+    },
+    {
+      "SECUCODE": "002449.SZ",
+      "SECURITY_CODE": "002449",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "蔡永佳",
       "SHARES_TYPE": "流通A股",
@@ -740,32 +740,22 @@
     {
       "SECUCODE": "002449.SZ",
       "SECURITY_CODE": "002449",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 141294357,
-      "TOTAL_SHARES_RATIO": 22.84552512,
-      "ALL_SHARES_RATIO": 22.84552512
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 137972347,
+      "TOTAL_SHARES_RATIO": 22.30839778,
+      "ALL_SHARES_RATIO": 22.30839778
     },
     {
       "SECUCODE": "002449.SZ",
       "SECURITY_CODE": "002449",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 2163000,
-      "TOTAL_SHARES_RATIO": 0.34972997,
-      "ALL_SHARES_RATIO": 0.34972997
-    },
-    {
-      "SECUCODE": "002449.SZ",
-      "SECURITY_CODE": "002449",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 139131357,
-      "TOTAL_SHARES_RATIO": 22.49579515,
-      "ALL_SHARES_RATIO": 22.49579515
+      "TOTAL_FREE_SHARES": 137972347,
+      "TOTAL_SHARES_RATIO": 22.30839778,
+      "ALL_SHARES_RATIO": 22.30839778
     }
   ],
   "jjcg": [

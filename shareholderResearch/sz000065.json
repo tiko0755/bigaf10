@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 9.83,
       "AVG_HOLD_AMT": 221137.527193521,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 59.75299671,
+      "FREEHOLD_RATIO_TOTAL": 60.37094893
     },
     {
       "SECUCODE": "000065.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000065.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "000065.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "000065.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "000065.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000065.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000065.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "000065.SZ",
       "END_DATE": "2016-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000065.SZ",
-      "END_DATE": "2016-12-27 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -445,41 +445,7 @@
       "REPORT_DATE": "2025-06-30 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2026-02-02 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "周永成",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11000790,
-      "HOLD_NUM_RATIO": 0.95,
-      "HOLD_CHANGE": "700",
-      "CHANGE_RATIO": 0.00636358,
-      "CHANGE_REASON": "增发上市"
-    },
-    {
-      "END_DATE": "2026-02-02 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7577067,
-      "HOLD_NUM_RATIO": 0.65,
-      "HOLD_CHANGE": "-12934570",
-      "CHANGE_RATIO": -63.05966706,
-      "CHANGE_REASON": "增发上市"
-    },
-    {
-      "END_DATE": "2026-02-02 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "广发证券股份有限公司",
-      "SHARES_TYPE": "限售流通A股",
-      "HOLD_NUM": 7242026,
-      "HOLD_NUM_RATIO": 0.62,
-      "HOLD_CHANGE": "-232965",
-      "CHANGE_RATIO": -3.11659238,
-      "CHANGE_REASON": "增发上市"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "000065.SZ",
@@ -507,7 +473,7 @@
     {
       "SECUCODE": "000065.SZ",
       "SECURITY_CODE": "000065",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国北方工业有限公司",
       "HOLDER_TYPE": "其它",
@@ -520,7 +486,7 @@
     {
       "SECUCODE": "000065.SZ",
       "SECURITY_CODE": "000065",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中兵投资管理有限责任公司",
       "HOLDER_TYPE": "投资公司",
@@ -533,7 +499,7 @@
     {
       "SECUCODE": "000065.SZ",
       "SECURITY_CODE": "000065",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "江苏悦达集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -546,7 +512,7 @@
     {
       "SECUCODE": "000065.SZ",
       "SECURITY_CODE": "000065",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "北方工业科技有限公司",
       "HOLDER_TYPE": "其它",
@@ -559,21 +525,8 @@
     {
       "SECUCODE": "000065.SZ",
       "SECURITY_CODE": "000065",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
-      "HOLDER_TYPE": "保险产品",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12508815,
-      "FREE_HOLDNUM_RATIO": 1.283005009933,
-      "HOLD_NUM_CHANGE": "5141035",
-      "CHANGE_RATIO": 69.77725991
-    },
-    {
-      "SECUCODE": "000065.SZ",
-      "SECURITY_CODE": "000065",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "周永成",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -585,52 +538,65 @@
     {
       "SECUCODE": "000065.SZ",
       "SECURITY_CODE": "000065",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+      "HOLDER_TYPE": "保险产品",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 8126680,
+      "FREE_HOLDNUM_RATIO": 0.833537881416,
+      "HOLD_NUM_CHANGE": "-4382135",
+      "CHANGE_RATIO": -35.03237517
+    },
+    {
+      "SECUCODE": "000065.SZ",
+      "SECURITY_CODE": "000065",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8337875,
-      "FREE_HOLDNUM_RATIO": 0.855199744916,
-      "HOLD_NUM_CHANGE": "-3127584",
-      "CHANGE_RATIO": -27.27831481
+      "HOLD_NUM": 6878919,
+      "FREE_HOLDNUM_RATIO": 0.705557444084,
+      "HOLD_NUM_CHANGE": "-1458956",
+      "CHANGE_RATIO": -17.49793563
     },
     {
       "SECUCODE": "000065.SZ",
       "SECURITY_CODE": "000065",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国建设银行股份有限公司-景顺长城景盈双利债券型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7998950,
-      "FREE_HOLDNUM_RATIO": 0.820436861861,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000065.SZ",
-      "SECURITY_CODE": "000065",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "徐从鹏",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 4652523,
       "FREE_HOLDNUM_RATIO": 0.477200303772,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000065.SZ",
+      "SECURITY_CODE": "000065",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国人寿保险股份有限公司-分红-个人分红-005L-FH002沪",
+      "HOLDER_TYPE": "保险产品",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3876789,
+      "FREE_HOLDNUM_RATIO": 0.39763476472,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000065.SZ",
       "SECURITY_CODE": "000065",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中泰证券股份有限公司-华夏国证自由现金流交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "郑建平",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3645018,
-      "FREE_HOLDNUM_RATIO": 0.373862460617,
+      "HOLD_NUM": 3814300,
+      "FREE_HOLDNUM_RATIO": 0.391225388607,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -639,20 +605,20 @@
     {
       "SECUCODE": "000065.SZ",
       "SECURITY_CODE": "000065",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 598387955,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 588593985,
       "LIMITED_SHARES": 186479871,
-      "OTHER_UNLIMITED_SHARES": 376574333,
-      "HOLD_NUM_RATIO": 51.52,
+      "OTHER_UNLIMITED_SHARES": 386368303,
+      "HOLD_NUM_RATIO": 50.68,
       "LIMITED_SHARES_RATIO": 16.06,
-      "UNLIMITED_SHARES_RATIO": 32.42
+      "UNLIMITED_SHARES_RATIO": 33.27
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "000065.SZ",
       "SECURITY_CODE": "000065",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国北方工业有限公司",
       "SHARES_TYPE": "流通A股",
@@ -664,7 +630,7 @@
     {
       "SECUCODE": "000065.SZ",
       "SECURITY_CODE": "000065",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "北方工业科技有限公司",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -676,7 +642,7 @@
     {
       "SECUCODE": "000065.SZ",
       "SECURITY_CODE": "000065",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中兵投资管理有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -688,7 +654,7 @@
     {
       "SECUCODE": "000065.SZ",
       "SECURITY_CODE": "000065",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "江苏悦达集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -700,68 +666,56 @@
     {
       "SECUCODE": "000065.SZ",
       "SECURITY_CODE": "000065",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 12508815,
-      "HOLD_NUM_RATIO": 1.08,
-      "HOLD_NUM_CHANGE": "2693935",
-      "CHANGE_RATIO": 27.44745733
-    },
-    {
-      "SECUCODE": "000065.SZ",
-      "SECURITY_CODE": "000065",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "周永成",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 11000090,
       "HOLD_NUM_RATIO": 0.95,
-      "HOLD_NUM_CHANGE": "-700",
-      "CHANGE_RATIO": -0.00636318
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000065.SZ",
       "SECURITY_CODE": "000065",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 8126680,
+      "HOLD_NUM_RATIO": 0.7,
+      "HOLD_NUM_CHANGE": "-4382135",
+      "CHANGE_RATIO": -35.03237517
+    },
+    {
+      "SECUCODE": "000065.SZ",
+      "SECURITY_CODE": "000065",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8337875,
-      "HOLD_NUM_RATIO": 0.72,
-      "HOLD_NUM_CHANGE": "760808",
-      "CHANGE_RATIO": 10.04093009
-    },
-    {
-      "SECUCODE": "000065.SZ",
-      "SECURITY_CODE": "000065",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国建设银行股份有限公司-景顺长城景盈双利债券型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7998950,
-      "HOLD_NUM_RATIO": 0.69,
-      "HOLD_NUM_CHANGE": "-452100",
-      "CHANGE_RATIO": -5.34963111
-    },
-    {
-      "SECUCODE": "000065.SZ",
-      "SECURITY_CODE": "000065",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "广发证券股份有限公司",
       "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 7256591,
+      "HOLD_NUM": 7251243,
       "HOLD_NUM_RATIO": 0.62,
-      "HOLD_NUM_CHANGE": "14565",
-      "CHANGE_RATIO": 0.20111775
+      "HOLD_NUM_CHANGE": "-5348",
+      "CHANGE_RATIO": -0.07369852
     },
     {
       "SECUCODE": "000065.SZ",
       "SECURITY_CODE": "000065",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6878919,
+      "HOLD_NUM_RATIO": 0.59,
+      "HOLD_NUM_CHANGE": "-1458956",
+      "CHANGE_RATIO": -17.49793563
+    },
+    {
+      "SECUCODE": "000065.SZ",
+      "SECURITY_CODE": "000065",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "财通基金-青岛城投金融控股集团有限公司-财通基金天禧188号单一资产管理计划",
       "SHARES_TYPE": "限售流通A股",
       "HOLD_NUM": 4690431,
@@ -772,8 +726,8 @@
     {
       "SECUCODE": "000065.SZ",
       "SECURITY_CODE": "000065",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "财通基金-青岛国投投资发展合伙企业(有限合伙)-财通基金玉泉合富1760号单一资产管理计划",
       "SHARES_TYPE": "限售流通A股",
       "HOLD_NUM": 4690431,
@@ -784,8 +738,8 @@
     {
       "SECUCODE": "000065.SZ",
       "SECURITY_CODE": "000065",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "中汇人寿保险股份有限公司-分红产品",
       "SHARES_TYPE": "限售流通A股",
       "HOLD_NUM": 4690431,
@@ -800,10 +754,10 @@
       "SECURITY_CODE": "000065",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 28234,
-      "TOTAL_SHARES_RATIO": 0.00289591,
-      "ALL_SHARES_RATIO": 0.00243094
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 665578892,
+      "TOTAL_SHARES_RATIO": 58.37716114,
+      "ALL_SHARES_RATIO": 49.00418859
     },
     {
       "SECUCODE": "000065.SZ",
@@ -814,6 +768,26 @@
       "TOTAL_FREE_SHARES": 28234,
       "TOTAL_SHARES_RATIO": 0.00289591,
       "ALL_SHARES_RATIO": 0.00243094
+    },
+    {
+      "SECUCODE": "000065.SZ",
+      "SECURITY_CODE": "000065",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "05",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 12003469,
+      "TOTAL_SHARES_RATIO": 1.23117264,
+      "ALL_SHARES_RATIO": 1.03349693
+    },
+    {
+      "SECUCODE": "000065.SZ",
+      "SECURITY_CODE": "000065",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 653547189,
+      "TOTAL_SHARES_RATIO": 57.14309259,
+      "ALL_SHARES_RATIO": 47.96826072
     }
   ],
   "jjcg": [

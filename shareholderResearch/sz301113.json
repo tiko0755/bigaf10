@@ -67,8 +67,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 14.91,
       "AVG_HOLD_AMT": 194381.187194834,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 75.03175063,
+      "FREEHOLD_RATIO_TOTAL": 59.46966053
     },
     {
       "SECUCODE": "301113.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "301113.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "301113.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "301113.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "301113.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "301113.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "301113.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "301113.SZ",
       "END_DATE": "2016-03-16 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "301113.SZ",
-      "END_DATE": "2015-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -426,6 +426,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "301113.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "301113.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -439,16 +443,16 @@
     {
       "SECUCODE": "301113.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "301113.SZ",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "301113.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "301113.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -462,10 +466,6 @@
     {
       "SECUCODE": "301113.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "301113.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "xsjj": [],
@@ -473,130 +473,130 @@
     {
       "SECUCODE": "301113.SZ",
       "SECURITY_CODE": "301113",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "金飞春",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 17062500,
-      "FREE_HOLDNUM_RATIO": 30.974328476559,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 22181250,
+      "FREE_HOLDNUM_RATIO": 30.95164195696,
+      "HOLD_NUM_CHANGE": "5118750",
+      "CHANGE_RATIO": 30
     },
     {
       "SECUCODE": "301113.SZ",
       "SECURITY_CODE": "301113",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "叶跃庭",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11831820,
-      "FREE_HOLDNUM_RATIO": 21.478838338785,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 15381366,
+      "FREE_HOLDNUM_RATIO": 21.463106598634,
+      "HOLD_NUM_CHANGE": "3549546",
+      "CHANGE_RATIO": 30
     },
     {
       "SECUCODE": "301113.SZ",
       "SECURITY_CODE": "301113",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 566230,
-      "FREE_HOLDNUM_RATIO": 1.027902945833,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301113.SZ",
-      "SECURITY_CODE": "301113",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "陈峰",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 533000,
-      "FREE_HOLDNUM_RATIO": 0.967579022887,
-      "HOLD_NUM_CHANGE": "-15000",
-      "CHANGE_RATIO": -2.73722628
+      "HOLD_NUM": 777130,
+      "FREE_HOLDNUM_RATIO": 1.08440459911,
+      "HOLD_NUM_CHANGE": "244130",
+      "CHANGE_RATIO": 45.80300188
     },
     {
       "SECUCODE": "301113.SZ",
       "SECURITY_CODE": "301113",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "中信证券资产管理(香港)有限公司-客户资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 735950,
+      "FREE_HOLDNUM_RATIO": 1.026942165037,
+      "HOLD_NUM_CHANGE": "311977",
+      "CHANGE_RATIO": 73.58416692
+    },
+    {
+      "SECUCODE": "301113.SZ",
+      "SECURITY_CODE": "301113",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "武义勤艺投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 513100,
-      "FREE_HOLDNUM_RATIO": 0.931453652239,
-      "HOLD_NUM_CHANGE": "-158700",
-      "CHANGE_RATIO": -23.62310211
+      "HOLD_NUM": 667030,
+      "FREE_HOLDNUM_RATIO": 0.930771427875,
+      "HOLD_NUM_CHANGE": "153930",
+      "CHANGE_RATIO": 30
     },
     {
       "SECUCODE": "301113.SZ",
       "SECURITY_CODE": "301113",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "高盛公司有限责任公司",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 425674,
-      "FREE_HOLDNUM_RATIO": 0.772745277652,
-      "HOLD_NUM_CHANGE": "-1837654",
-      "CHANGE_RATIO": -81.19256246
-    },
-    {
-      "SECUCODE": "301113.SZ",
-      "SECURITY_CODE": "301113",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中信证券资产管理(香港)有限公司-客户资金",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 423973,
-      "FREE_HOLDNUM_RATIO": 0.769657375367,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301113.SZ",
-      "SECURITY_CODE": "301113",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国工商银行股份有限公司-中信保诚多策略灵活配置混合型证券投资基金(LOF)",
+      "HOLDER_NAME": "中国农业银行股份有限公司-华夏中证500指数增强型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 331917,
-      "FREE_HOLDNUM_RATIO": 0.602543952232,
+      "HOLD_NUM": 643060,
+      "FREE_HOLDNUM_RATIO": 0.897323770159,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301113.SZ",
       "SECURITY_CODE": "301113",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
-      "HOLDER_TYPE": "QFII",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "金新军",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 299757,
-      "FREE_HOLDNUM_RATIO": 0.544162448712,
-      "HOLD_NUM_CHANGE": "72016",
-      "CHANGE_RATIO": 31.62188627
+      "HOLD_NUM": 628940,
+      "FREE_HOLDNUM_RATIO": 0.877620769452,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301113.SZ",
       "SECURITY_CODE": "301113",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "李秀英",
-      "HOLDER_TYPE": "个人",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 298230,
-      "FREE_HOLDNUM_RATIO": 0.541390416502,
+      "HOLD_NUM": 626429,
+      "FREE_HOLDNUM_RATIO": 0.874116928462,
+      "HOLD_NUM_CHANGE": "60199",
+      "CHANGE_RATIO": 10.63154549
+    },
+    {
+      "SECUCODE": "301113.SZ",
+      "SECURITY_CODE": "301113",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国民生银行股份有限公司-建信灵活配置混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 499399,
+      "FREE_HOLDNUM_RATIO": 0.696859691932,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301113.SZ",
+      "SECURITY_CODE": "301113",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国光大银行股份有限公司-汇安多策略灵活配置混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 477909,
+      "FREE_HOLDNUM_RATIO": 0.66687261791,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,133 +605,133 @@
     {
       "SECUCODE": "301113.SZ",
       "SECURITY_CODE": "301113",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 32286201,
-      "LIMITED_SHARES": 35914060,
-      "OTHER_UNLIMITED_SHARES": 22799739,
-      "HOLD_NUM_RATIO": 35.48,
-      "LIMITED_SHARES_RATIO": 39.47,
-      "UNLIMITED_SHARES_RATIO": 25.05
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 42618463,
+      "LIMITED_SHARES": 46635789,
+      "OTHER_UNLIMITED_SHARES": 29045748,
+      "HOLD_NUM_RATIO": 36.03,
+      "LIMITED_SHARES_RATIO": 39.42,
+      "UNLIMITED_SHARES_RATIO": 24.55
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "301113.SZ",
       "SECURITY_CODE": "301113",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "叶跃庭",
       "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 47327280,
+      "HOLD_NUM": 61525464,
       "HOLD_NUM_RATIO": 52.01,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM_CHANGE": "14198184",
+      "CHANGE_RATIO": 30
     },
     {
       "SECUCODE": "301113.SZ",
       "SECURITY_CODE": "301113",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "金飞春",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 17062500,
+      "HOLD_NUM": 22181250,
       "HOLD_NUM_RATIO": 18.75,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM_CHANGE": "5118750",
+      "CHANGE_RATIO": 30
     },
     {
       "SECUCODE": "301113.SZ",
       "SECURITY_CODE": "301113",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 566230,
-      "HOLD_NUM_RATIO": 0.62,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301113.SZ",
-      "SECURITY_CODE": "301113",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "陈峰",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 533000,
-      "HOLD_NUM_RATIO": 0.59,
-      "HOLD_NUM_CHANGE": "-15000",
-      "CHANGE_RATIO": -2.73722628
+      "HOLD_NUM": 777130,
+      "HOLD_NUM_RATIO": 0.66,
+      "HOLD_NUM_CHANGE": "244130",
+      "CHANGE_RATIO": 45.80300188
     },
     {
       "SECUCODE": "301113.SZ",
       "SECURITY_CODE": "301113",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "中信证券资产管理(香港)有限公司-客户资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 735950,
+      "HOLD_NUM_RATIO": 0.62,
+      "HOLD_NUM_CHANGE": "311977",
+      "CHANGE_RATIO": 73.58416692
+    },
+    {
+      "SECUCODE": "301113.SZ",
+      "SECURITY_CODE": "301113",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "武义勤艺投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 513100,
+      "HOLD_NUM": 667030,
       "HOLD_NUM_RATIO": 0.56,
-      "HOLD_NUM_CHANGE": "-158700",
-      "CHANGE_RATIO": -23.62310211
+      "HOLD_NUM_CHANGE": "153930",
+      "CHANGE_RATIO": 30
     },
     {
       "SECUCODE": "301113.SZ",
       "SECURITY_CODE": "301113",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_NAME": "中国农业银行股份有限公司-华夏中证500指数增强型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 425674,
-      "HOLD_NUM_RATIO": 0.47,
-      "HOLD_NUM_CHANGE": "-1837654",
-      "CHANGE_RATIO": -81.19256246
+      "HOLD_NUM": 643060,
+      "HOLD_NUM_RATIO": 0.54,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301113.SZ",
       "SECURITY_CODE": "301113",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中信证券资产管理(香港)有限公司-客户资金",
+      "HOLDER_NAME": "金新军",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 423973,
-      "HOLD_NUM_RATIO": 0.47,
+      "HOLD_NUM": 628940,
+      "HOLD_NUM_RATIO": 0.53,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301113.SZ",
       "SECURITY_CODE": "301113",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国工商银行股份有限公司-中信保诚多策略灵活配置混合型证券投资基金(LOF)",
+      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 331917,
-      "HOLD_NUM_RATIO": 0.36,
+      "HOLD_NUM": 626429,
+      "HOLD_NUM_RATIO": 0.53,
+      "HOLD_NUM_CHANGE": "60199",
+      "CHANGE_RATIO": 10.63154549
+    },
+    {
+      "SECUCODE": "301113.SZ",
+      "SECURITY_CODE": "301113",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国民生银行股份有限公司-建信灵活配置混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 499399,
+      "HOLD_NUM_RATIO": 0.42,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301113.SZ",
       "SECURITY_CODE": "301113",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 299757,
-      "HOLD_NUM_RATIO": 0.33,
-      "HOLD_NUM_CHANGE": "72016",
-      "CHANGE_RATIO": 31.62188627
-    },
-    {
-      "SECUCODE": "301113.SZ",
-      "SECURITY_CODE": "301113",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "李秀英",
+      "HOLDER_NAME": "中国光大银行股份有限公司-汇安多策略灵活配置混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 298230,
-      "HOLD_NUM_RATIO": 0.33,
+      "HOLD_NUM": 477909,
+      "HOLD_NUM_RATIO": 0.4,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -740,41 +740,41 @@
     {
       "SECUCODE": "301113.SZ",
       "SECURITY_CODE": "301113",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
       "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 2560651,
-      "TOTAL_SHARES_RATIO": 4.64846566,
-      "ALL_SHARES_RATIO": 2.81390221
+      "TOTAL_FREE_SHARES": 3649777,
+      "TOTAL_SHARES_RATIO": 5.09288661,
+      "ALL_SHARES_RATIO": 3.08518766
     },
     {
       "SECUCODE": "301113.SZ",
       "SECURITY_CODE": "301113",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 898147,
-      "TOTAL_SHARES_RATIO": 1.6304469,
-      "ALL_SHARES_RATIO": 0.98697473
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 2246797,
+      "TOTAL_SHARES_RATIO": 3.13517301,
+      "ALL_SHARES_RATIO": 1.89923669
     },
     {
       "SECUCODE": "301113.SZ",
       "SECURITY_CODE": "301113",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "02",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 1149404,
-      "TOTAL_SHARES_RATIO": 2.08656511,
-      "ALL_SHARES_RATIO": 1.26308133
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 735950,
+      "TOTAL_SHARES_RATIO": 1.02694217,
+      "ALL_SHARES_RATIO": 0.62210482
     },
     {
       "SECUCODE": "301113.SZ",
       "SECURITY_CODE": "301113",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 513100,
-      "TOTAL_SHARES_RATIO": 0.93145365,
+      "TOTAL_FREE_SHARES": 667030,
+      "TOTAL_SHARES_RATIO": 0.93077143,
       "ALL_SHARES_RATIO": 0.56384615
     }
   ],
@@ -782,36 +782,70 @@
     {
       "ORG_TYPE": "01",
       "SECUCODE": "301113.SZ",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "HOLDER_CODE": "320016",
-      "HOLDER_NAME": "诺安多策略混合A",
-      "TOTAL_SHARES": 566230,
-      "HOLD_VALUE": 14268996,
-      "TOTALSHARES_RATIO": 0.62223077,
-      "FREESHARES_RATIO": 1.02790295,
-      "FREE_MARKET_CAP": 14268996,
-      "FREE_SHARES": 566230,
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "007994",
+      "HOLDER_NAME": "华夏中证500指数增强A",
+      "TOTAL_SHARES": 643060,
+      "HOLD_VALUE": 9588024.6,
+      "TOTALSHARES_RATIO": 0.54358411,
+      "FREESHARES_RATIO": 0.89732377,
+      "FREE_MARKET_CAP": 9588024.6,
+      "FREE_SHARES": 643060,
       "SECURITY_CODE": "301113",
-      "FUND_CODE": "320016",
-      "FUND_DERIVECODE": "320016.OF",
-      "NETVALUE_RATIO": 0.56
+      "FUND_CODE": "007994",
+      "FUND_DERIVECODE": "007994.OF",
+      "NETVALUE_RATIO": 0.25
     },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "301113.SZ",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "HOLDER_CODE": "165531",
-      "HOLDER_NAME": "中信保诚多策略混合(LOF)A",
-      "TOTAL_SHARES": 331917,
-      "HOLD_VALUE": 8364308.4,
-      "TOTALSHARES_RATIO": 0.36474396,
-      "FREESHARES_RATIO": 0.60254395,
-      "FREE_MARKET_CAP": 8364308.4,
-      "FREE_SHARES": 331917,
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "320016",
+      "HOLDER_NAME": "诺安多策略混合A",
+      "TOTAL_SHARES": 626429,
+      "HOLD_VALUE": 9340056.39,
+      "TOTALSHARES_RATIO": 0.52952578,
+      "FREESHARES_RATIO": 0.87411693,
+      "FREE_MARKET_CAP": 9340056.39,
+      "FREE_SHARES": 626429,
       "SECURITY_CODE": "301113",
-      "FUND_CODE": "165531",
-      "FUND_DERIVECODE": "165531.SZ",
-      "NETVALUE_RATIO": 0.77
+      "FUND_CODE": "320016",
+      "FUND_DERIVECODE": "320016.OF",
+      "NETVALUE_RATIO": 0.67
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "301113.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "000270",
+      "HOLDER_NAME": "建信灵活配置混合A",
+      "TOTAL_SHARES": 499399,
+      "HOLD_VALUE": 7446039.09,
+      "TOTALSHARES_RATIO": 0.42214624,
+      "FREESHARES_RATIO": 0.69685969,
+      "FREE_MARKET_CAP": 7446039.09,
+      "FREE_SHARES": 499399,
+      "SECURITY_CODE": "301113",
+      "FUND_CODE": "000270",
+      "FUND_DERIVECODE": "000270.OF",
+      "NETVALUE_RATIO": 3.84
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "301113.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "005109",
+      "HOLDER_NAME": "汇安多策略混合A",
+      "TOTAL_SHARES": 477909,
+      "HOLD_VALUE": 7125623.19,
+      "TOTALSHARES_RATIO": 0.40398056,
+      "FREESHARES_RATIO": 0.66687262,
+      "FREE_MARKET_CAP": 7125623.19,
+      "FREE_SHARES": 477909,
+      "SECURITY_CODE": "301113",
+      "FUND_CODE": "005109",
+      "FUND_DERIVECODE": "005109.OF",
+      "NETVALUE_RATIO": 4.08
     }
   ]
 }

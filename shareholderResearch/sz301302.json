@@ -67,8 +67,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 26.92,
       "AVG_HOLD_AMT": 175169.04494382,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 52.4883938,
+      "FREEHOLD_RATIO_TOTAL": 46.71993309
     },
     {
       "SECUCODE": "301302.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "301302.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "301302.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "301302.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "301302.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "301302.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "301302.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -411,6 +416,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "301302.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "301302.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -424,10 +433,6 @@
     {
       "SECUCODE": "301302.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "301302.SZ",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -458,7 +463,7 @@
     {
       "SECUCODE": "301302.SZ",
       "SECURITY_CODE": "301302",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "李杰",
       "HOLDER_TYPE": "个人",
@@ -471,7 +476,7 @@
     {
       "SECUCODE": "301302.SZ",
       "SECURITY_CODE": "301302",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "南京华如志远创业投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
@@ -484,21 +489,8 @@
     {
       "SECUCODE": "301302.SZ",
       "SECURITY_CODE": "301302",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "刘旭凌",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6146735,
-      "FREE_HOLDNUM_RATIO": 4.422429671199,
-      "HOLD_NUM_CHANGE": "-545000",
-      "CHANGE_RATIO": -8.14437511
-    },
-    {
-      "SECUCODE": "301302.SZ",
-      "SECURITY_CODE": "301302",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "韩超",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -510,7 +502,20 @@
     {
       "SECUCODE": "301302.SZ",
       "SECURITY_CODE": "301302",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "刘旭凌",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5599335,
+      "FREE_HOLDNUM_RATIO": 4.028588387654,
+      "HOLD_NUM_CHANGE": "-547400",
+      "CHANGE_RATIO": -8.90554091
+    },
+    {
+      "SECUCODE": "301302.SZ",
+      "SECURITY_CODE": "301302",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "北京华如筑梦管理咨询中心(有限合伙)",
       "HOLDER_TYPE": "其它",
@@ -523,7 +528,7 @@
     {
       "SECUCODE": "301302.SZ",
       "SECURITY_CODE": "301302",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "北京华如扬帆管理咨询中心(有限合伙)",
       "HOLDER_TYPE": "其它",
@@ -536,20 +541,20 @@
     {
       "SECUCODE": "301302.SZ",
       "SECURITY_CODE": "301302",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "周玉华",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2067500,
-      "FREE_HOLDNUM_RATIO": 1.48751708756,
-      "HOLD_NUM_CHANGE": "-181000",
-      "CHANGE_RATIO": -8.04981099
+      "HOLD_NUM": 2050000,
+      "FREE_HOLDNUM_RATIO": 1.474926253687,
+      "HOLD_NUM_CHANGE": "-17500",
+      "CHANGE_RATIO": -0.84643289
     },
     {
       "SECUCODE": "301302.SZ",
       "SECURITY_CODE": "301302",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "唐兴天下投资管理(西安)有限责任公司-西安唐兴科创投资基金合伙企业(有限合伙)",
       "HOLDER_TYPE": "私募基金",
@@ -562,26 +567,26 @@
     {
       "SECUCODE": "301302.SZ",
       "SECURITY_CODE": "301302",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "高盛公司有限责任公司",
-      "HOLDER_TYPE": "QFII",
+      "HOLDER_NAME": "北京华如科技股份有限公司-2025年员工持股计划",
+      "HOLDER_TYPE": "员工持股计划",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 806933,
-      "FREE_HOLDNUM_RATIO": 0.580569105691,
+      "HOLD_NUM": 750000,
+      "FREE_HOLDNUM_RATIO": 0.539607165983,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301302.SZ",
       "SECURITY_CODE": "301302",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "薛黎曦",
+      "HOLDER_NAME": "李静",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 750000,
-      "FREE_HOLDNUM_RATIO": 0.539607165983,
+      "HOLD_NUM": 661700,
+      "FREE_HOLDNUM_RATIO": 0.476077415641,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -590,20 +595,20 @@
     {
       "SECUCODE": "301302.SZ",
       "SECURITY_CODE": "301302",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 65646168,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 64936035,
       "LIMITED_SHARES": 16875000,
-      "OTHER_UNLIMITED_SHARES": 73343832,
-      "HOLD_NUM_RATIO": 42.12,
+      "OTHER_UNLIMITED_SHARES": 74053965,
+      "HOLD_NUM_RATIO": 41.66,
       "LIMITED_SHARES_RATIO": 10.83,
-      "UNLIMITED_SHARES_RATIO": 47.06
+      "UNLIMITED_SHARES_RATIO": 47.51
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "301302.SZ",
       "SECURITY_CODE": "301302",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "李杰",
       "SHARES_TYPE": "流通A股",
@@ -615,7 +620,7 @@
     {
       "SECUCODE": "301302.SZ",
       "SECURITY_CODE": "301302",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "韩超",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -627,7 +632,7 @@
     {
       "SECUCODE": "301302.SZ",
       "SECURITY_CODE": "301302",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "南京华如志远创业投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -639,19 +644,19 @@
     {
       "SECUCODE": "301302.SZ",
       "SECURITY_CODE": "301302",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "刘旭凌",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6146735,
-      "HOLD_NUM_RATIO": 3.94,
-      "HOLD_NUM_CHANGE": "-545000",
-      "CHANGE_RATIO": -8.14437511
+      "HOLD_NUM": 5599335,
+      "HOLD_NUM_RATIO": 3.59,
+      "HOLD_NUM_CHANGE": "-547400",
+      "CHANGE_RATIO": -8.90554091
     },
     {
       "SECUCODE": "301302.SZ",
       "SECURITY_CODE": "301302",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "北京华如筑梦管理咨询中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -663,7 +668,7 @@
     {
       "SECUCODE": "301302.SZ",
       "SECURITY_CODE": "301302",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "北京华如扬帆管理咨询中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -675,19 +680,19 @@
     {
       "SECUCODE": "301302.SZ",
       "SECURITY_CODE": "301302",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "周玉华",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2067500,
-      "HOLD_NUM_RATIO": 1.33,
-      "HOLD_NUM_CHANGE": "-181000",
-      "CHANGE_RATIO": -8.04981099
+      "HOLD_NUM": 2050000,
+      "HOLD_NUM_RATIO": 1.32,
+      "HOLD_NUM_CHANGE": "-17500",
+      "CHANGE_RATIO": -0.84643289
     },
     {
       "SECUCODE": "301302.SZ",
       "SECURITY_CODE": "301302",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "唐兴天下投资管理(西安)有限责任公司-西安唐兴科创投资基金合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -699,24 +704,24 @@
     {
       "SECUCODE": "301302.SZ",
       "SECURITY_CODE": "301302",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_NAME": "北京华如科技股份有限公司-2025年员工持股计划",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 806933,
-      "HOLD_NUM_RATIO": 0.52,
+      "HOLD_NUM": 750000,
+      "HOLD_NUM_RATIO": 0.48,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301302.SZ",
       "SECURITY_CODE": "301302",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "薛黎曦",
+      "HOLDER_NAME": "李静",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 750000,
-      "HOLD_NUM_RATIO": 0.48,
+      "HOLD_NUM": 661700,
+      "HOLD_NUM_RATIO": 0.42,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -725,32 +730,22 @@
     {
       "SECUCODE": "301302.SZ",
       "SECURITY_CODE": "301302",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
       "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 27806933,
-      "TOTAL_SHARES_RATIO": 20.00642709,
-      "ALL_SHARES_RATIO": 17.84039585
+      "TOTAL_FREE_SHARES": 27750000,
+      "TOTAL_SHARES_RATIO": 19.96546515,
+      "ALL_SHARES_RATIO": 17.80386873
     },
     {
       "SECUCODE": "301302.SZ",
       "SECURITY_CODE": "301302",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "ORG_TYPE": "02",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 806933,
-      "TOTAL_SHARES_RATIO": 0.58056911,
-      "ALL_SHARES_RATIO": 0.51771276
-    },
-    {
-      "SECUCODE": "301302.SZ",
-      "SECURITY_CODE": "301302",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 27000000,
-      "TOTAL_SHARES_RATIO": 19.42585798,
-      "ALL_SHARES_RATIO": 17.32268309
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 27750000,
+      "TOTAL_SHARES_RATIO": 19.96546515,
+      "ALL_SHARES_RATIO": 17.80386873
     }
   ],
   "jjcg": [

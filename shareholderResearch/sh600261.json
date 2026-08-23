@@ -67,8 +67,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 3.08,
       "AVG_HOLD_AMT": 105122.280787402,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 51.06565517,
+      "FREEHOLD_RATIO_TOTAL": 51.06565517
     },
     {
       "SECUCODE": "600261.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600261.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "600261.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600261.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "600261.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600261.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600261.SH",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600261.SH",
       "END_DATE": "2016-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600261.SH",
-      "END_DATE": "2015-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "600261.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
     {
       "SECUCODE": "600261.SH",
       "REPORT_DATE": "2026-03-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "600261.SH",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "600261.SH",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600261.SH",
       "SECURITY_CODE": "600261",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "世纪阳光控股集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600261.SH",
       "SECURITY_CODE": "600261",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "陈森洁",
       "HOLDER_TYPE": "个人",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "600261.SH",
       "SECURITY_CODE": "600261",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "浙江桢利信息科技有限公司",
       "HOLDER_TYPE": "其它",
@@ -512,21 +512,8 @@
     {
       "SECUCODE": "600261.SH",
       "SECURITY_CODE": "600261",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "中央汇金资产管理有限责任公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 30235600,
-      "FREE_HOLDNUM_RATIO": 2.264749097602,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600261.SH",
-      "SECURITY_CODE": "600261",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "绍兴市滨海新区沥海街道集体资产经营有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -538,20 +525,33 @@
     {
       "SECUCODE": "600261.SH",
       "SECURITY_CODE": "600261",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "张素芬",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7800000,
-      "FREE_HOLDNUM_RATIO": 0.584246482997,
-      "HOLD_NUM_CHANGE": "-3230000",
-      "CHANGE_RATIO": -29.28377153
+      "HOLD_NUM": 9720000,
+      "FREE_HOLDNUM_RATIO": 0.728061001888,
+      "HOLD_NUM_CHANGE": "1920000",
+      "CHANGE_RATIO": 24.61538462
     },
     {
       "SECUCODE": "600261.SH",
       "SECURITY_CODE": "600261",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "苑志刚",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6684600,
+      "FREE_HOLDNUM_RATIO": 0.500699235928,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600261.SH",
+      "SECURITY_CODE": "600261",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "吴国明",
       "HOLDER_TYPE": "个人",
@@ -564,61 +564,61 @@
     {
       "SECUCODE": "600261.SH",
       "SECURITY_CODE": "600261",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "曾磊",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5264200,
-      "FREE_HOLDNUM_RATIO": 0.394306453307,
+      "HOLD_NUM": 5479400,
+      "FREE_HOLDNUM_RATIO": 0.410425663966,
+      "HOLD_NUM_CHANGE": "215200",
+      "CHANGE_RATIO": 4.08799058
+    },
+    {
+      "SECUCODE": "600261.SH",
+      "SECURITY_CODE": "600261",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "秦国民",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4818000,
+      "FREE_HOLDNUM_RATIO": 0.360884558343,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600261.SH",
       "SECURITY_CODE": "600261",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "范荣强",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4740300,
-      "FREE_HOLDNUM_RATIO": 0.355064564532,
-      "HOLD_NUM_CHANGE": "164800",
-      "CHANGE_RATIO": 3.60179215
-    },
-    {
-      "SECUCODE": "600261.SH",
-      "SECURITY_CODE": "600261",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "储丹玲",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4600000,
-      "FREE_HOLDNUM_RATIO": 0.344555618178,
-      "HOLD_NUM_CHANGE": "130000",
-      "CHANGE_RATIO": 2.9082774
+      "HOLD_NUM": 4810300,
+      "FREE_HOLDNUM_RATIO": 0.3603078022,
+      "HOLD_NUM_CHANGE": "70000",
+      "CHANGE_RATIO": 1.47669979
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600261.SH",
       "SECURITY_CODE": "600261",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 702881344,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 681753544,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 632171622,
-      "HOLD_NUM_RATIO": 52.65,
+      "OTHER_UNLIMITED_SHARES": 653299422,
+      "HOLD_NUM_RATIO": 51.07,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 47.35
+      "UNLIMITED_SHARES_RATIO": 48.93
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600261.SH",
       "SECURITY_CODE": "600261",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "世纪阳光控股集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600261.SH",
       "SECURITY_CODE": "600261",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "陈森洁",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "600261.SH",
       "SECURITY_CODE": "600261",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "浙江桢利信息科技有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,20 +654,8 @@
     {
       "SECUCODE": "600261.SH",
       "SECURITY_CODE": "600261",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "中央汇金资产管理有限责任公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 30235600,
-      "HOLD_NUM_RATIO": 2.26,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600261.SH",
-      "SECURITY_CODE": "600261",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "绍兴市滨海新区沥海街道集体资产经营有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 21825055,
@@ -678,19 +666,31 @@
     {
       "SECUCODE": "600261.SH",
       "SECURITY_CODE": "600261",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "张素芬",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7800000,
-      "HOLD_NUM_RATIO": 0.58,
-      "HOLD_NUM_CHANGE": "-3230000",
-      "CHANGE_RATIO": -29.28377153
+      "HOLD_NUM": 9720000,
+      "HOLD_NUM_RATIO": 0.73,
+      "HOLD_NUM_CHANGE": "1920000",
+      "CHANGE_RATIO": 24.61538462
     },
     {
       "SECUCODE": "600261.SH",
       "SECURITY_CODE": "600261",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "苑志刚",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6684600,
+      "HOLD_NUM_RATIO": 0.5,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600261.SH",
+      "SECURITY_CODE": "600261",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "吴国明",
       "SHARES_TYPE": "流通A股",
@@ -702,60 +702,60 @@
     {
       "SECUCODE": "600261.SH",
       "SECURITY_CODE": "600261",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "曾磊",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5264200,
-      "HOLD_NUM_RATIO": 0.39,
+      "HOLD_NUM": 5479400,
+      "HOLD_NUM_RATIO": 0.41,
+      "HOLD_NUM_CHANGE": "215200",
+      "CHANGE_RATIO": 4.08799058
+    },
+    {
+      "SECUCODE": "600261.SH",
+      "SECURITY_CODE": "600261",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "秦国民",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4818000,
+      "HOLD_NUM_RATIO": 0.36,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600261.SH",
       "SECURITY_CODE": "600261",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "范荣强",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4740300,
+      "HOLD_NUM": 4810300,
       "HOLD_NUM_RATIO": 0.36,
-      "HOLD_NUM_CHANGE": "164800",
-      "CHANGE_RATIO": 3.60179215
-    },
-    {
-      "SECUCODE": "600261.SH",
-      "SECURITY_CODE": "600261",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "储丹玲",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4600000,
-      "HOLD_NUM_RATIO": 0.34,
-      "HOLD_NUM_CHANGE": "130000",
-      "CHANGE_RATIO": 2.9082774
+      "HOLD_NUM_CHANGE": "70000",
+      "CHANGE_RATIO": 1.47669979
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "600261.SH",
       "SECURITY_CODE": "600261",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 559504709,
-      "TOTAL_SHARES_RATIO": 41.90880236,
-      "ALL_SHARES_RATIO": 41.90880236
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 529269109,
+      "TOTAL_SHARES_RATIO": 39.64405326,
+      "ALL_SHARES_RATIO": 39.64405326
     },
     {
       "SECUCODE": "600261.SH",
       "SECURITY_CODE": "600261",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 559504709,
-      "TOTAL_SHARES_RATIO": 41.90880236,
-      "ALL_SHARES_RATIO": 41.90880236
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 529269109,
+      "TOTAL_SHARES_RATIO": 39.64405326,
+      "ALL_SHARES_RATIO": 39.64405326
     }
   ],
   "jjcg": [

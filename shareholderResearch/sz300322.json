@@ -67,8 +67,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 25.2,
       "AVG_HOLD_AMT": 198402.874950394,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 27.54020469,
+      "FREEHOLD_RATIO_TOTAL": 24.55457681
     },
     {
       "SECUCODE": "300322.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300322.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "300322.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300322.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "300322.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300322.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300322.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "300322.SZ",
       "END_DATE": "2017-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "300322.SZ",
-      "END_DATE": "2017-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "300322.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
     {
       "SECUCODE": "300322.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
@@ -439,14 +443,14 @@
     {
       "SECUCODE": "300322.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "300322.SZ",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
   "jjcg_date": [
+    {
+      "SECUCODE": "300322.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
     {
       "SECUCODE": "300322.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
@@ -462,10 +466,6 @@
     {
       "SECUCODE": "300322.SZ",
       "REPORT_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "300322.SZ",
-      "REPORT_DATE": "2024-06-30 00:00:00"
     }
   ],
   "xsjj": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "300322.SZ",
       "SECURITY_CODE": "300322",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "西藏硕贝德控股有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,34 +486,47 @@
     {
       "SECUCODE": "300322.SZ",
       "SECURITY_CODE": "300322",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3936430,
-      "FREE_HOLDNUM_RATIO": 0.893768176679,
-      "HOLD_NUM_CHANGE": "-385373",
-      "CHANGE_RATIO": -8.91694971
-    },
-    {
-      "SECUCODE": "300322.SZ",
-      "SECURITY_CODE": "300322",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "中国银行股份有限公司-摩根士丹利沪港深科技混合型证券投资基金",
+      "HOLDER_NAME": "中国工商银行股份有限公司-国泰中证全指通信设备交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3343900,
-      "FREE_HOLDNUM_RATIO": 0.759233977487,
+      "HOLD_NUM": 6952500,
+      "FREE_HOLDNUM_RATIO": 1.578568207326,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300322.SZ",
       "SECURITY_CODE": "300322",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4950590,
+      "FREE_HOLDNUM_RATIO": 1.124033654298,
+      "HOLD_NUM_CHANGE": "1014160",
+      "CHANGE_RATIO": 25.76344556
+    },
+    {
+      "SECUCODE": "300322.SZ",
+      "SECURITY_CODE": "300322",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "罗耀武",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3559900,
+      "FREE_HOLDNUM_RATIO": 0.808276873248,
+      "HOLD_NUM_CHANGE": "1436986",
+      "CHANGE_RATIO": 67.68931761
+    },
+    {
+      "SECUCODE": "300322.SZ",
+      "SECURITY_CODE": "300322",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "朱坤华",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -525,8 +538,8 @@
     {
       "SECUCODE": "300322.SZ",
       "SECURITY_CODE": "300322",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "温巧夫",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -538,87 +551,74 @@
     {
       "SECUCODE": "300322.SZ",
       "SECURITY_CODE": "300322",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "赵新苗",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2386400,
-      "FREE_HOLDNUM_RATIO": 0.541833177988,
-      "HOLD_NUM_CHANGE": "198400",
-      "CHANGE_RATIO": 9.06764168
+      "HOLD_NUM": 2523700,
+      "FREE_HOLDNUM_RATIO": 0.573007203859,
+      "HOLD_NUM_CHANGE": "137300",
+      "CHANGE_RATIO": 5.75343614
     },
     {
       "SECUCODE": "300322.SZ",
       "SECURITY_CODE": "300322",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "罗耀武",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "广发证券股份有限公司-博道成长智航股票型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1935569,
+      "FREE_HOLDNUM_RATIO": 0.439471799566,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300322.SZ",
+      "SECURITY_CODE": "300322",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "林文耀",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2122914,
-      "FREE_HOLDNUM_RATIO": 0.482008564874,
-      "HOLD_NUM_CHANGE": "-93886",
-      "CHANGE_RATIO": -4.2352039
+      "HOLD_NUM": 1900000,
+      "FREE_HOLDNUM_RATIO": 0.431395842347,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300322.SZ",
       "SECURITY_CODE": "300322",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "雷殿斌",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1686800,
-      "FREE_HOLDNUM_RATIO": 0.382988687827,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300322.SZ",
-      "SECURITY_CODE": "300322",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "宁波乾弘久盛资产管理合伙企业(有限合伙)-乾弘悦享多策略二期私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1500000,
-      "FREE_HOLDNUM_RATIO": 0.340575665011,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300322.SZ",
-      "SECURITY_CODE": "300322",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "深圳市汉清达科技有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1459700,
-      "FREE_HOLDNUM_RATIO": 0.331425532144,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1517800,
+      "FREE_HOLDNUM_RATIO": 0.344617162902,
+      "HOLD_NUM_CHANGE": "-169000",
+      "CHANGE_RATIO": -10.01897083
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "300322.SZ",
       "SECURITY_CODE": "300322",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 101241995,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 108145910,
       "LIMITED_SHARES": 19607390,
-      "OTHER_UNLIMITED_SHARES": 339188768,
-      "HOLD_NUM_RATIO": 22.01,
+      "OTHER_UNLIMITED_SHARES": 332284853,
+      "HOLD_NUM_RATIO": 23.51,
       "LIMITED_SHARES_RATIO": 4.26,
-      "UNLIMITED_SHARES_RATIO": 73.73
+      "UNLIMITED_SHARES_RATIO": 72.23
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300322.SZ",
       "SECURITY_CODE": "300322",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "西藏硕贝德控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "300322.SZ",
       "SECURITY_CODE": "300322",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "朱坤华",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "300322.SZ",
       "SECURITY_CODE": "300322",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "温巧夫",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -654,44 +654,56 @@
     {
       "SECUCODE": "300322.SZ",
       "SECURITY_CODE": "300322",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_NAME": "中国工商银行股份有限公司-国泰中证全指通信设备交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3936430,
-      "HOLD_NUM_RATIO": 0.86,
-      "HOLD_NUM_CHANGE": "-385373",
-      "CHANGE_RATIO": -8.91694971
-    },
-    {
-      "SECUCODE": "300322.SZ",
-      "SECURITY_CODE": "300322",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国银行股份有限公司-摩根士丹利沪港深科技混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3343900,
-      "HOLD_NUM_RATIO": 0.73,
+      "HOLD_NUM": 6952500,
+      "HOLD_NUM_RATIO": 1.51,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300322.SZ",
       "SECURITY_CODE": "300322",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "赵新苗",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2386400,
-      "HOLD_NUM_RATIO": 0.52,
-      "HOLD_NUM_CHANGE": "198400",
-      "CHANGE_RATIO": 9.06764168
+      "HOLD_NUM": 4950590,
+      "HOLD_NUM_RATIO": 1.08,
+      "HOLD_NUM_CHANGE": "1014160",
+      "CHANGE_RATIO": 25.76344556
     },
     {
       "SECUCODE": "300322.SZ",
       "SECURITY_CODE": "300322",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "罗耀武",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3559900,
+      "HOLD_NUM_RATIO": 0.77,
+      "HOLD_NUM_CHANGE": "1436986",
+      "CHANGE_RATIO": 67.68931761
+    },
+    {
+      "SECUCODE": "300322.SZ",
+      "SECURITY_CODE": "300322",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
+      "HOLDER_NAME": "赵新苗",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2523700,
+      "HOLD_NUM_RATIO": 0.55,
+      "HOLD_NUM_CHANGE": "137300",
+      "CHANGE_RATIO": 5.75343614
+    },
+    {
+      "SECUCODE": "300322.SZ",
+      "SECURITY_CODE": "300322",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "朱旭东",
       "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 2125096,
@@ -702,36 +714,24 @@
     {
       "SECUCODE": "300322.SZ",
       "SECURITY_CODE": "300322",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "罗耀武",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2122914,
-      "HOLD_NUM_RATIO": 0.46,
-      "HOLD_NUM_CHANGE": "-93886",
-      "CHANGE_RATIO": -4.2352039
-    },
-    {
-      "SECUCODE": "300322.SZ",
-      "SECURITY_CODE": "300322",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "雷殿斌",
+      "HOLDER_NAME": "广发证券股份有限公司-博道成长智航股票型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1686800,
-      "HOLD_NUM_RATIO": 0.37,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 1935569,
+      "HOLD_NUM_RATIO": 0.42,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300322.SZ",
       "SECURITY_CODE": "300322",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "宁波乾弘久盛资产管理合伙企业(有限合伙)-乾弘悦享多策略二期私募证券投资基金",
+      "HOLDER_NAME": "林文耀",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1500000,
-      "HOLD_NUM_RATIO": 0.33,
+      "HOLD_NUM": 1900000,
+      "HOLD_NUM_RATIO": 0.41,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -740,51 +740,68 @@
     {
       "SECUCODE": "300322.SZ",
       "SECURITY_CODE": "300322",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 89065134,
-      "TOTAL_SHARES_RATIO": 20.22227817,
-      "ALL_SHARES_RATIO": 19.36037987
-    },
-    {
-      "SECUCODE": "300322.SZ",
-      "SECURITY_CODE": "300322",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 3343900,
-      "TOTAL_SHARES_RATIO": 0.75923398,
-      "ALL_SHARES_RATIO": 0.72687449
-    },
-    {
-      "SECUCODE": "300322.SZ",
-      "SECURITY_CODE": "300322",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 85721234,
-      "TOTAL_SHARES_RATIO": 19.46304419,
-      "ALL_SHARES_RATIO": 18.63350538
+      "TOTAL_FREE_SHARES": 92663763,
+      "TOTAL_SHARES_RATIO": 21.03934847,
+      "ALL_SHARES_RATIO": 20.14262565
+    },
+    {
+      "SECUCODE": "300322.SZ",
+      "SECURITY_CODE": "300322",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "01",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 8888069,
+      "TOTAL_SHARES_RATIO": 2.01804001,
+      "ALL_SHARES_RATIO": 1.93202867
+    },
+    {
+      "SECUCODE": "300322.SZ",
+      "SECURITY_CODE": "300322",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 83775694,
+      "TOTAL_SHARES_RATIO": 19.02130846,
+      "ALL_SHARES_RATIO": 18.21059698
     }
   ],
   "jjcg": [
     {
       "ORG_TYPE": "01",
       "SECUCODE": "300322.SZ",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "HOLDER_CODE": "026448",
-      "HOLDER_NAME": "大摩沪港深科技混合A",
-      "TOTAL_SHARES": 3343900,
-      "HOLD_VALUE": 79451064,
-      "TOTALSHARES_RATIO": 0.72687449,
-      "FREESHARES_RATIO": 0.75923398,
-      "FREE_MARKET_CAP": 79451064,
-      "FREE_SHARES": 3343900,
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "515880",
+      "HOLDER_NAME": "国泰中证全指通信设备ETF",
+      "TOTAL_SHARES": 6952500,
+      "HOLD_VALUE": 175203000,
+      "TOTALSHARES_RATIO": 1.5112877,
+      "FREESHARES_RATIO": 1.57856821,
+      "FREE_MARKET_CAP": 175203000,
+      "FREE_SHARES": 6952500,
       "SECURITY_CODE": "300322",
-      "FUND_CODE": "026448",
-      "FUND_DERIVECODE": "026448.OF",
-      "NETVALUE_RATIO": 3.59
+      "FUND_CODE": "515880",
+      "FUND_DERIVECODE": "515880.SH",
+      "NETVALUE_RATIO": 0.3
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300322.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "013641",
+      "HOLDER_NAME": "博道成长智航股票A",
+      "TOTAL_SHARES": 1935569,
+      "HOLD_VALUE": 48776338.8,
+      "TOTALSHARES_RATIO": 0.42074097,
+      "FREESHARES_RATIO": 0.4394718,
+      "FREE_MARKET_CAP": 48776338.8,
+      "FREE_SHARES": 1935569,
+      "SECURITY_CODE": "300322",
+      "FUND_CODE": "013641",
+      "FUND_DERIVECODE": "013641.OF",
+      "NETVALUE_RATIO": 0.77
     }
   ]
 }
