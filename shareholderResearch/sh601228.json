@@ -17,6 +17,20 @@
     {
       "SECUCODE": "601228.SH",
       "SECURITY_CODE": "601228",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_TOTAL_NUM": 60863,
+      "TOTAL_NUM_RATIO": -1.19,
+      "AVG_FREE_SHARES": 123959,
+      "AVG_FREESHARES_RATIO": 1.204344182837,
+      "HOLD_FOCUS": "非常分散",
+      "PRICE": 2.7921710556,
+      "AVG_HOLD_AMT": 346115.407822962,
+      "HOLD_RATIO_TOTAL": 86.24908184,
+      "FREEHOLD_RATIO_TOTAL": 86.24908184
+    },
+    {
+      "SECUCODE": "601228.SH",
+      "SECURITY_CODE": "601228",
       "END_DATE": "2026-05-20 00:00:00",
       "HOLDER_TOTAL_NUM": 61596,
       "TOTAL_NUM_RATIO": 1.8099,
@@ -125,23 +139,13 @@
       "AVG_HOLD_AMT": 399487.22491365,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
-    },
-    {
-      "SECUCODE": "601228.SH",
-      "SECURITY_CODE": "601228",
-      "END_DATE": "2025-11-28 00:00:00",
-      "HOLDER_TOTAL_NUM": 61437,
-      "TOTAL_NUM_RATIO": -1.4106,
-      "AVG_FREE_SHARES": 122801,
-      "AVG_FREESHARES_RATIO": 1.430733922555,
-      "HOLD_FOCUS": "非常分散",
-      "PRICE": 3.29,
-      "AVG_HOLD_AMT": 404015.6281197,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
     }
   ],
   "sdltgd_date": [
+    {
+      "SECUCODE": "601228.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
     {
       "SECUCODE": "601228.SH",
       "END_DATE": "2026-03-31 00:00:00"
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "601228.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "601228.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "601228.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "601228.SH",
       "END_DATE": "2026-03-31 00:00:00",
@@ -386,6 +391,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "601228.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "601228.SH",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -399,10 +408,6 @@
     {
       "SECUCODE": "601228.SH",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "601228.SH",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -433,7 +438,7 @@
     {
       "SECUCODE": "601228.SH",
       "SECURITY_CODE": "601228",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "广州港集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -446,7 +451,7 @@
     {
       "SECUCODE": "601228.SH",
       "SECURITY_CODE": "601228",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "上海中海码头发展有限公司",
       "HOLDER_TYPE": "其它",
@@ -459,7 +464,7 @@
     {
       "SECUCODE": "601228.SH",
       "SECURITY_CODE": "601228",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中远海运控股股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -472,7 +477,7 @@
     {
       "SECUCODE": "601228.SH",
       "SECURITY_CODE": "601228",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "国投交通控股有限公司",
       "HOLDER_TYPE": "其它",
@@ -485,7 +490,7 @@
     {
       "SECUCODE": "601228.SH",
       "SECURITY_CODE": "601228",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "广州发展集团股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -498,34 +503,47 @@
     {
       "SECUCODE": "601228.SH",
       "SECURITY_CODE": "601228",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 50105239,
-      "FREE_HOLDNUM_RATIO": 0.664126592745,
-      "HOLD_NUM_CHANGE": "18662740",
-      "CHANGE_RATIO": 59.35514222
+      "HOLD_NUM": 27372361,
+      "FREE_HOLDNUM_RATIO": 0.362810620389,
+      "HOLD_NUM_CHANGE": "-22732878",
+      "CHANGE_RATIO": -45.37026158
     },
     {
       "SECUCODE": "601228.SH",
       "SECURITY_CODE": "601228",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "许星",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10715575,
-      "FREE_HOLDNUM_RATIO": 0.142031022226,
-      "HOLD_NUM_CHANGE": "-11607000",
-      "CHANGE_RATIO": -51.99668945
+      "HOLD_NUM": 11235100,
+      "FREE_HOLDNUM_RATIO": 0.148917135834,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601228.SH",
       "SECURITY_CODE": "601228",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "乐晏廷",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 9297200,
+      "FREE_HOLDNUM_RATIO": 0.123230981057,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "601228.SH",
+      "SECURITY_CODE": "601228",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "李园举弟",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -537,48 +555,35 @@
     {
       "SECUCODE": "601228.SH",
       "SECURITY_CODE": "601228",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "任庆荣",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7818816,
-      "FREE_HOLDNUM_RATIO": 0.10363554257,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "601228.SH",
-      "SECURITY_CODE": "601228",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "郭俊锋",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7411600,
-      "FREE_HOLDNUM_RATIO": 0.098238043626,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 8249400,
+      "FREE_HOLDNUM_RATIO": 0.109342775796,
+      "HOLD_NUM_CHANGE": "837800",
+      "CHANGE_RATIO": 11.30390199
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "601228.SH",
       "SECURITY_CODE": "601228",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 6526986188,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 6507089019,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 1017545163,
-      "HOLD_NUM_RATIO": 86.51,
+      "OTHER_UNLIMITED_SHARES": 1037442332,
+      "HOLD_NUM_RATIO": 86.25,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 13.49
+      "UNLIMITED_SHARES_RATIO": 13.75
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "601228.SH",
       "SECURITY_CODE": "601228",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "广州港集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -590,7 +595,7 @@
     {
       "SECUCODE": "601228.SH",
       "SECURITY_CODE": "601228",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "上海中海码头发展有限公司",
       "SHARES_TYPE": "流通A股",
@@ -602,7 +607,7 @@
     {
       "SECUCODE": "601228.SH",
       "SECURITY_CODE": "601228",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中远海运控股股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -614,7 +619,7 @@
     {
       "SECUCODE": "601228.SH",
       "SECURITY_CODE": "601228",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "国投交通控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -626,7 +631,7 @@
     {
       "SECUCODE": "601228.SH",
       "SECURITY_CODE": "601228",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "广州发展集团股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -638,32 +643,44 @@
     {
       "SECUCODE": "601228.SH",
       "SECURITY_CODE": "601228",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 50105239,
-      "HOLD_NUM_RATIO": 0.66,
-      "HOLD_NUM_CHANGE": "18662740",
-      "CHANGE_RATIO": 59.35514222
+      "HOLD_NUM": 27372361,
+      "HOLD_NUM_RATIO": 0.36,
+      "HOLD_NUM_CHANGE": "-22732878",
+      "CHANGE_RATIO": -45.37026158
     },
     {
       "SECUCODE": "601228.SH",
       "SECURITY_CODE": "601228",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国农业银行股份有限公司-中证500交易型开放式指数证券投资基金",
+      "HOLDER_NAME": "许星",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10715575,
-      "HOLD_NUM_RATIO": 0.14,
-      "HOLD_NUM_CHANGE": "-11607000",
-      "CHANGE_RATIO": -51.99668945
+      "HOLD_NUM": 11235100,
+      "HOLD_NUM_RATIO": 0.15,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601228.SH",
       "SECURITY_CODE": "601228",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "乐晏廷",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 9297200,
+      "HOLD_NUM_RATIO": 0.12,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "601228.SH",
+      "SECURITY_CODE": "601228",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "李园举弟",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 9041700,
@@ -674,58 +691,36 @@
     {
       "SECUCODE": "601228.SH",
       "SECURITY_CODE": "601228",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "任庆荣",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7818816,
-      "HOLD_NUM_RATIO": 0.1,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "601228.SH",
-      "SECURITY_CODE": "601228",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "郭俊锋",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7411600,
-      "HOLD_NUM_RATIO": 0.1,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 8249400,
+      "HOLD_NUM_RATIO": 0.11,
+      "HOLD_NUM_CHANGE": "837800",
+      "CHANGE_RATIO": 11.30390199
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "601228.SH",
       "SECURITY_CODE": "601228",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 8,
-      "TOTAL_FREE_SHARES": 6502907472,
-      "TOTAL_SHARES_RATIO": 86.19365697,
-      "ALL_SHARES_RATIO": 86.19365697
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 6469265619,
+      "TOTAL_SHARES_RATIO": 85.74774653,
+      "ALL_SHARES_RATIO": 85.74774653
     },
     {
       "SECUCODE": "601228.SH",
       "SECURITY_CODE": "601228",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 10908975,
-      "TOTAL_SHARES_RATIO": 0.14459447,
-      "ALL_SHARES_RATIO": 0.14459447
-    },
-    {
-      "SECUCODE": "601228.SH",
-      "SECURITY_CODE": "601228",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 6491998497,
-      "TOTAL_SHARES_RATIO": 86.0490625,
-      "ALL_SHARES_RATIO": 86.0490625
+      "TOTAL_FREE_SHARES": 6469265619,
+      "TOTAL_SHARES_RATIO": 85.74774653,
+      "ALL_SHARES_RATIO": 85.74774653
     }
   ],
   "jjcg": [

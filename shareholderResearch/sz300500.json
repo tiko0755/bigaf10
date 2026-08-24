@@ -53,8 +53,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 8.83,
       "AVG_HOLD_AMT": 115688.707211538,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 56.89694297,
+      "FREEHOLD_RATIO_TOTAL": 56.93870608
     },
     {
       "SECUCODE": "300500.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300500.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "300500.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300500.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "300500.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300500.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300500.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -453,7 +458,7 @@
     {
       "SECUCODE": "300500.SZ",
       "SECURITY_CODE": "300500",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "苏州赛德投资管理股份有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -466,7 +471,7 @@
     {
       "SECUCODE": "300500.SZ",
       "SECURITY_CODE": "300500",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "戴雅萍",
       "HOLDER_TYPE": "个人",
@@ -479,21 +484,34 @@
     {
       "SECUCODE": "300500.SZ",
       "SECURITY_CODE": "300500",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "HOLDER_NAME": "高盛国际-自有资金",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2180786,
-      "FREE_HOLDNUM_RATIO": 1.301200841025,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2914575,
+      "FREE_HOLDNUM_RATIO": 1.73902778229,
+      "HOLD_NUM_CHANGE": "1447397",
+      "CHANGE_RATIO": 98.6517655
     },
     {
       "SECUCODE": "300500.SZ",
       "SECURITY_CODE": "300500",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2299405,
+      "FREE_HOLDNUM_RATIO": 1.371976764275,
+      "HOLD_NUM_CHANGE": "118619",
+      "CHANGE_RATIO": 5.4392774
+    },
+    {
+      "SECUCODE": "300500.SZ",
+      "SECURITY_CODE": "300500",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "唐韶华",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -505,78 +523,65 @@
     {
       "SECUCODE": "300500.SZ",
       "SECURITY_CODE": "300500",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1835304,
-      "FREE_HOLDNUM_RATIO": 1.095063480936,
-      "HOLD_NUM_CHANGE": "638210",
-      "CHANGE_RATIO": 53.31327364
+      "HOLD_NUM": 1705244,
+      "FREE_HOLDNUM_RATIO": 1.017461102076,
+      "HOLD_NUM_CHANGE": "-130060",
+      "CHANGE_RATIO": -7.08656441
     },
     {
       "SECUCODE": "300500.SZ",
       "SECURITY_CODE": "300500",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "BARCLAYS BANK PLC",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1774400,
-      "FREE_HOLDNUM_RATIO": 1.058724135387,
+      "HOLD_NUM": 1514843,
+      "FREE_HOLDNUM_RATIO": 0.903855300621,
+      "HOLD_NUM_CHANGE": "-259557",
+      "CHANGE_RATIO": -14.62787421
+    },
+    {
+      "SECUCODE": "300500.SZ",
+      "SECURITY_CODE": "300500",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "陈阳",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1120000,
+      "FREE_HOLDNUM_RATIO": 0.668265910524,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300500.SZ",
       "SECURITY_CODE": "300500",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "高盛国际-自有资金",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1467178,
-      "FREE_HOLDNUM_RATIO": 0.875415216134,
-      "HOLD_NUM_CHANGE": "28940",
-      "CHANGE_RATIO": 2.01218435
-    },
-    {
-      "SECUCODE": "300500.SZ",
-      "SECURITY_CODE": "300500",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "UBS AG",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1288459,
-      "FREE_HOLDNUM_RATIO": 0.768779666792,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1003916,
+      "FREE_HOLDNUM_RATIO": 0.599002535562,
+      "HOLD_NUM_CHANGE": "-284543",
+      "CHANGE_RATIO": -22.08397784
     },
     {
       "SECUCODE": "300500.SZ",
       "SECURITY_CODE": "300500",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1214200,
-      "FREE_HOLDNUM_RATIO": 0.724471846927,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300500.SZ",
-      "SECURITY_CODE": "300500",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "MERRILL LYNCH INTERNATIONAL",
+      "HOLDER_NAME": "中信证券资产管理(香港)有限公司-客户资金",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1128132,
-      "FREE_HOLDNUM_RATIO": 0.673117998367,
+      "HOLD_NUM": 957724,
+      "FREE_HOLDNUM_RATIO": 0.571441340081,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -585,20 +590,20 @@
     {
       "SECUCODE": "300500.SZ",
       "SECURITY_CODE": "300500",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 94800859,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 95428107,
       "LIMITED_SHARES": 6376914,
-      "OTHER_UNLIMITED_SHARES": 72797096,
-      "HOLD_NUM_RATIO": 54.49,
+      "OTHER_UNLIMITED_SHARES": 72169848,
+      "HOLD_NUM_RATIO": 54.85,
       "LIMITED_SHARES_RATIO": 3.67,
-      "UNLIMITED_SHARES_RATIO": 41.84
+      "UNLIMITED_SHARES_RATIO": 41.48
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300500.SZ",
       "SECURITY_CODE": "300500",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "苏州赛德投资管理股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -610,7 +615,7 @@
     {
       "SECUCODE": "300500.SZ",
       "SECURITY_CODE": "300500",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "戴雅萍",
       "SHARES_TYPE": "流通A股",
@@ -622,7 +627,7 @@
     {
       "SECUCODE": "300500.SZ",
       "SECURITY_CODE": "300500",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "查金荣",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -634,20 +639,32 @@
     {
       "SECUCODE": "300500.SZ",
       "SECURITY_CODE": "300500",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "HOLDER_NAME": "高盛国际-自有资金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2180786,
-      "HOLD_NUM_RATIO": 1.25,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2914575,
+      "HOLD_NUM_RATIO": 1.68,
+      "HOLD_NUM_CHANGE": "1447397",
+      "CHANGE_RATIO": 98.6517655
     },
     {
       "SECUCODE": "300500.SZ",
       "SECURITY_CODE": "300500",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "J.P.Morgan Securities PLC-自有资金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2299405,
+      "HOLD_NUM_RATIO": 1.32,
+      "HOLD_NUM_CHANGE": "118619",
+      "CHANGE_RATIO": 5.4392774
+    },
+    {
+      "SECUCODE": "300500.SZ",
+      "SECURITY_CODE": "300500",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "唐韶华",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2173600,
@@ -658,8 +675,8 @@
     {
       "SECUCODE": "300500.SZ",
       "SECURITY_CODE": "300500",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "李海建",
       "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 1963115,
@@ -670,48 +687,36 @@
     {
       "SECUCODE": "300500.SZ",
       "SECURITY_CODE": "300500",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "MORGAN STANLEY&CO.INTERNA TIONAL PLC.",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1835304,
-      "HOLD_NUM_RATIO": 1.05,
-      "HOLD_NUM_CHANGE": "638210",
-      "CHANGE_RATIO": 53.31327364
+      "HOLD_NUM": 1705244,
+      "HOLD_NUM_RATIO": 0.98,
+      "HOLD_NUM_CHANGE": "-130060",
+      "CHANGE_RATIO": -7.08656441
     },
     {
       "SECUCODE": "300500.SZ",
       "SECURITY_CODE": "300500",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "BARCLAYS BANK PLC",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1774400,
-      "HOLD_NUM_RATIO": 1.02,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1514843,
+      "HOLD_NUM_RATIO": 0.87,
+      "HOLD_NUM_CHANGE": "-259557",
+      "CHANGE_RATIO": -14.62787421
     },
     {
       "SECUCODE": "300500.SZ",
       "SECURITY_CODE": "300500",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "高盛国际-自有资金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1467178,
-      "HOLD_NUM_RATIO": 0.84,
-      "HOLD_NUM_CHANGE": "28940",
-      "CHANGE_RATIO": 2.01218435
-    },
-    {
-      "SECUCODE": "300500.SZ",
-      "SECURITY_CODE": "300500",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "UBS AG",
+      "HOLDER_NAME": "陈阳",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1288459,
-      "HOLD_NUM_RATIO": 0.74,
+      "HOLD_NUM": 1120000,
+      "HOLD_NUM_RATIO": 0.64,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -722,10 +727,10 @@
       "SECURITY_CODE": "300500",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 356700,
-      "TOTAL_SHARES_RATIO": 0.21283076,
-      "ALL_SHARES_RATIO": 0.20502961
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 88232407,
+      "TOTAL_SHARES_RATIO": 52.6452766,
+      "ALL_SHARES_RATIO": 50.71560479
     },
     {
       "SECUCODE": "300500.SZ",
@@ -736,6 +741,26 @@
       "TOTAL_FREE_SHARES": 356700,
       "TOTAL_SHARES_RATIO": 0.21283076,
       "ALL_SHARES_RATIO": 0.20502961
+    },
+    {
+      "SECUCODE": "300500.SZ",
+      "SECURITY_CODE": "300500",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 10395707,
+      "TOTAL_SHARES_RATIO": 6.20276482,
+      "ALL_SHARES_RATIO": 5.97540729
+    },
+    {
+      "SECUCODE": "300500.SZ",
+      "SECURITY_CODE": "300500",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 77480000,
+      "TOTAL_SHARES_RATIO": 46.22968102,
+      "ALL_SHARES_RATIO": 44.53516789
     }
   ],
   "jjcg": [
