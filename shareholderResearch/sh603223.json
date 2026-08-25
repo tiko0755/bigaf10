@@ -25,8 +25,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 13.05,
       "AVG_HOLD_AMT": 505847.636808721,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 63.30227293,
+      "FREEHOLD_RATIO_TOTAL": 63.30227293
     },
     {
       "SECUCODE": "603223.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603223.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "603223.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,10 +161,6 @@
     {
       "SECUCODE": "603223.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "603223.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
@@ -178,6 +178,11 @@
       "SECUCODE": "603223.SH",
       "END_DATE": "2026-07-17 00:00:00",
       "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "603223.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
     },
     {
       "SECUCODE": "603223.SH",
@@ -408,11 +413,6 @@
       "SECUCODE": "603223.SH",
       "END_DATE": "2020-11-18 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "603223.SH",
-      "END_DATE": "2020-10-22 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -522,39 +522,6 @@
       "HOLD_CHANGE": "-7008000",
       "CHANGE_RATIO": -7.51516996,
       "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2026-03-24 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "刘振东",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 93251384,
-      "HOLD_NUM_RATIO": 13.21,
-      "HOLD_CHANGE": "-10000",
-      "CHANGE_RATIO": -0.01072255,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2026-01-29 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5413631,
-      "HOLD_NUM_RATIO": 0.76,
-      "HOLD_CHANGE": "1814754",
-      "CHANGE_RATIO": 50.42556331,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2026-01-20 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3598877,
-      "HOLD_NUM_RATIO": 0.5,
-      "HOLD_CHANGE": "-273695",
-      "CHANGE_RATIO": -7.06752515,
-      "CHANGE_REASON": "临时公告"
     }
   ],
   "jjcg_date": [
@@ -584,7 +551,7 @@
     {
       "SECUCODE": "603223.SH",
       "SECURITY_CODE": "603223",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "南山集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -597,20 +564,20 @@
     {
       "SECUCODE": "603223.SH",
       "SECURITY_CODE": "603223",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "刘振东",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 93251384,
-      "FREE_HOLDNUM_RATIO": 13.211738724685,
-      "HOLD_NUM_CHANGE": "-10000",
-      "CHANGE_RATIO": -0.01072255
+      "HOLD_NUM": 72086741,
+      "FREE_HOLDNUM_RATIO": 10.213158740958,
+      "HOLD_NUM_CHANGE": "-21164643",
+      "CHANGE_RATIO": -22.69633124
     },
     {
       "SECUCODE": "603223.SH",
       "SECURITY_CODE": "603223",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "SONG JIANBO",
       "HOLDER_TYPE": "个人",
@@ -623,7 +590,7 @@
     {
       "SECUCODE": "603223.SH",
       "SECURITY_CODE": "603223",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "陕西省国际信托股份有限公司-陕国投·金玉61号证券投资集合资金信托计划",
       "HOLDER_TYPE": "信托计划",
@@ -636,8 +603,21 @@
     {
       "SECUCODE": "603223.SH",
       "SECURITY_CODE": "603223",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 8084597,
+      "FREE_HOLDNUM_RATIO": 1.145415528185,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603223.SH",
+      "SECURITY_CODE": "603223",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "陕西省国际信托股份有限公司-陕国投·恒通股份控股股东及其关联企业第一期员工持股单一资金信托",
       "HOLDER_TYPE": "信托计划",
       "SHARES_TYPE": "A股",
@@ -649,8 +629,8 @@
     {
       "SECUCODE": "603223.SH",
       "SECURITY_CODE": "603223",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "韩佳颖",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -662,52 +642,39 @@
     {
       "SECUCODE": "603223.SH",
       "SECURITY_CODE": "603223",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "夏朝嘉",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3501820,
-      "FREE_HOLDNUM_RATIO": 0.496133450426,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603223.SH",
-      "SECURITY_CODE": "603223",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "上海杉玺投资管理有限公司",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3398800,
-      "FREE_HOLDNUM_RATIO": 0.48153770648,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603223.SH",
-      "SECURITY_CODE": "603223",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "李健",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 3351060,
       "FREE_HOLDNUM_RATIO": 0.474773963363,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603223.SH",
       "SECURITY_CODE": "603223",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "龙口南山投资有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 2792608,
       "FREE_HOLDNUM_RATIO": 0.395653186836,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603223.SH",
+      "SECURITY_CODE": "603223",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "任纪学",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2770000,
+      "FREE_HOLDNUM_RATIO": 0.392450113849,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -716,13 +683,13 @@
     {
       "SECUCODE": "603223.SH",
       "SECURITY_CODE": "603223",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 464012157,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 446801491,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 241810036,
-      "HOLD_NUM_RATIO": 65.74,
+      "OTHER_UNLIMITED_SHARES": 259020702,
+      "HOLD_NUM_RATIO": 63.3,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 34.26
+      "UNLIMITED_SHARES_RATIO": 36.7
     }
   ],
   "sdgd": [
@@ -769,10 +736,10 @@
       "SECURITY_CODE": "603223",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 1024800,
-      "TOTAL_SHARES_RATIO": 0.14519238,
-      "ALL_SHARES_RATIO": 0.14519238
+      "TOTAL_ORG_NUM": 9,
+      "TOTAL_FREE_SHARES": 333438101,
+      "TOTAL_SHARES_RATIO": 47.24109052,
+      "ALL_SHARES_RATIO": 47.24109052
     },
     {
       "SECUCODE": "603223.SH",
@@ -783,6 +750,26 @@
       "TOTAL_FREE_SHARES": 1024800,
       "TOTAL_SHARES_RATIO": 0.14519238,
       "ALL_SHARES_RATIO": 0.14519238
+    },
+    {
+      "SECUCODE": "603223.SH",
+      "SECURITY_CODE": "603223",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "06",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 26591688,
+      "TOTAL_SHARES_RATIO": 3.76747689,
+      "ALL_SHARES_RATIO": 3.76747689
+    },
+    {
+      "SECUCODE": "603223.SH",
+      "SECURITY_CODE": "603223",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 305821613,
+      "TOTAL_SHARES_RATIO": 43.32842125,
+      "ALL_SHARES_RATIO": 43.32842125
     }
   ],
   "jjcg": [

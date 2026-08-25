@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 9.3,
       "AVG_HOLD_AMT": 116757.647760612,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 44.17945774,
+      "FREEHOLD_RATIO_TOTAL": 37.8078617
     },
     {
       "SECUCODE": "600479.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600479.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "600479.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600479.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "600479.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600479.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600479.SH",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600479.SH",
       "END_DATE": "2015-08-24 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "600479.SH",
-      "END_DATE": "2015-07-31 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -492,7 +492,7 @@
     {
       "SECUCODE": "600479.SH",
       "SECURITY_CODE": "600479",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "株洲市国有资产投资控股集团有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -505,34 +505,21 @@
     {
       "SECUCODE": "600479.SH",
       "SECURITY_CODE": "600479",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "全国社保基金四一三组合",
       "HOLDER_TYPE": "全国社保基金",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 8880060,
       "FREE_HOLDNUM_RATIO": 2.121842052211,
-      "HOLD_NUM_CHANGE": "1080000",
-      "CHANGE_RATIO": 13.84604734
-    },
-    {
-      "SECUCODE": "600479.SH",
-      "SECURITY_CODE": "600479",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "中国银行股份有限公司-招商量化精选股票型发起式证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7409720,
-      "FREE_HOLDNUM_RATIO": 1.770512304095,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600479.SH",
       "SECURITY_CODE": "600479",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "湖南省烟草公司株洲市公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -544,73 +531,73 @@
     {
       "SECUCODE": "600479.SH",
       "SECURITY_CODE": "600479",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "工银瑞信基金-中国人寿保险股份有限公司-分红险-工银瑞信基金国寿股份价值股票型组合单一资产管理计划(分红险)",
+      "HOLDER_TYPE": "基金资产管理计划",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5400020,
+      "FREE_HOLDNUM_RATIO": 1.290305416718,
+      "HOLD_NUM_CHANGE": "750000",
+      "CHANGE_RATIO": 16.12896289
+    },
+    {
+      "SECUCODE": "600479.SH",
+      "SECURITY_CODE": "600479",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "基本养老保险基金一零零二组合",
       "HOLDER_TYPE": "基本养老基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5460000,
-      "FREE_HOLDNUM_RATIO": 1.30463731158,
-      "HOLD_NUM_CHANGE": "810000",
-      "CHANGE_RATIO": 17.41935484
+      "HOLD_NUM": 4980000,
+      "FREE_HOLDNUM_RATIO": 1.189943921551,
+      "HOLD_NUM_CHANGE": "-480000",
+      "CHANGE_RATIO": -8.79120879
     },
     {
       "SECUCODE": "600479.SH",
       "SECURITY_CODE": "600479",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "工银瑞信基金-中国人寿保险股份有限公司-分红险-工银瑞信基金国寿股份价值股票型组合单一资产管理计划(分红险)",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4650020,
-      "FREE_HOLDNUM_RATIO": 1.111096994797,
-      "HOLD_NUM_CHANGE": "2370020",
-      "CHANGE_RATIO": 103.94824561
-    },
-    {
-      "SECUCODE": "600479.SH",
-      "SECURITY_CODE": "600479",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "韩劲松",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2803605,
-      "FREE_HOLDNUM_RATIO": 0.669906170317,
-      "HOLD_NUM_CHANGE": "700",
-      "CHANGE_RATIO": 0.02497409
+      "HOLD_NUM": 2805005,
+      "FREE_HOLDNUM_RATIO": 0.670240692705,
+      "HOLD_NUM_CHANGE": "1400",
+      "CHANGE_RATIO": 0.04993571
     },
     {
       "SECUCODE": "600479.SH",
       "SECURITY_CODE": "600479",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "于维利",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2700000,
-      "FREE_HOLDNUM_RATIO": 0.645150318913,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 2800000,
+      "FREE_HOLDNUM_RATIO": 0.669044775169,
+      "HOLD_NUM_CHANGE": "100000",
+      "CHANGE_RATIO": 3.7037037
     },
     {
       "SECUCODE": "600479.SH",
       "SECURITY_CODE": "600479",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "中国光大银行股份有限公司-招商成长量化选股股票型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2692200,
-      "FREE_HOLDNUM_RATIO": 0.643286551325,
-      "HOLD_NUM_CHANGE": "320400",
-      "CHANGE_RATIO": 13.50872755
+      "HOLD_NUM": 2713300,
+      "FREE_HOLDNUM_RATIO": 0.648328281595,
+      "HOLD_NUM_CHANGE": "21100",
+      "CHANGE_RATIO": 0.78374564
     },
     {
       "SECUCODE": "600479.SH",
       "SECURITY_CODE": "600479",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "刘兰芝",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -618,26 +605,39 @@
       "FREE_HOLDNUM_RATIO": 0.564616443548,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "600479.SH",
+      "SECURITY_CODE": "600479",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "叶继文",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1990000,
+      "FREE_HOLDNUM_RATIO": 0.475499679495,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600479.SH",
       "SECURITY_CODE": "600479",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 163255812,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 158228592,
       "LIMITED_SHARES": 73702899,
-      "OTHER_UNLIMITED_SHARES": 255251305,
-      "HOLD_NUM_RATIO": 33.17,
+      "OTHER_UNLIMITED_SHARES": 260278525,
+      "HOLD_NUM_RATIO": 32.15,
       "LIMITED_SHARES_RATIO": 14.97,
-      "UNLIMITED_SHARES_RATIO": 51.86
+      "UNLIMITED_SHARES_RATIO": 52.88
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600479.SH",
       "SECURITY_CODE": "600479",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "株洲市国有资产投资控股集团有限公司",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -649,19 +649,19 @@
     {
       "SECUCODE": "600479.SH",
       "SECURITY_CODE": "600479",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "全国社保基金四一三组合",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 8880060,
       "HOLD_NUM_RATIO": 1.8,
-      "HOLD_NUM_CHANGE": "1080000",
-      "CHANGE_RATIO": 13.84604734
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600479.SH",
       "SECURITY_CODE": "600479",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "黄阳",
       "SHARES_TYPE": "限售流通A股",
@@ -673,20 +673,8 @@
     {
       "SECUCODE": "600479.SH",
       "SECURITY_CODE": "600479",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "中国银行股份有限公司-招商量化精选股票型发起式证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7409720,
-      "HOLD_NUM_RATIO": 1.51,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600479.SH",
-      "SECURITY_CODE": "600479",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "湖南省烟草公司株洲市公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 6916111,
@@ -697,32 +685,32 @@
     {
       "SECUCODE": "600479.SH",
       "SECURITY_CODE": "600479",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "工银瑞信基金-中国人寿保险股份有限公司-分红险-工银瑞信基金国寿股份价值股票型组合单一资产管理计划(分红险)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5400020,
+      "HOLD_NUM_RATIO": 1.1,
+      "HOLD_NUM_CHANGE": "750000",
+      "CHANGE_RATIO": 16.12896289
+    },
+    {
+      "SECUCODE": "600479.SH",
+      "SECURITY_CODE": "600479",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "基本养老保险基金一零零二组合",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5460000,
-      "HOLD_NUM_RATIO": 1.11,
-      "HOLD_NUM_CHANGE": "810000",
-      "CHANGE_RATIO": 17.41935484
+      "HOLD_NUM": 4980000,
+      "HOLD_NUM_RATIO": 1.01,
+      "HOLD_NUM_CHANGE": "-480000",
+      "CHANGE_RATIO": -8.79120879
     },
     {
       "SECUCODE": "600479.SH",
       "SECURITY_CODE": "600479",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "工银瑞信基金-中国人寿保险股份有限公司-分红险-工银瑞信基金国寿股份价值股票型组合单一资产管理计划(分红险)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4650020,
-      "HOLD_NUM_RATIO": 0.94,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600479.SH",
-      "SECURITY_CODE": "600479",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "汤振军",
       "SHARES_TYPE": "限售流通A股",
       "HOLD_NUM": 4598216,
@@ -733,23 +721,35 @@
     {
       "SECUCODE": "600479.SH",
       "SECURITY_CODE": "600479",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "韩劲松",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2803605,
+      "HOLD_NUM": 2805005,
       "HOLD_NUM_RATIO": 0.57,
-      "HOLD_NUM_CHANGE": "700",
-      "CHANGE_RATIO": 0.02497409
+      "HOLD_NUM_CHANGE": "1400",
+      "CHANGE_RATIO": 0.04993571
     },
     {
       "SECUCODE": "600479.SH",
       "SECURITY_CODE": "600479",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "于维利",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2700000,
+      "HOLD_NUM": 2800000,
+      "HOLD_NUM_RATIO": 0.57,
+      "HOLD_NUM_CHANGE": "100000",
+      "CHANGE_RATIO": 3.7037037
+    },
+    {
+      "SECUCODE": "600479.SH",
+      "SECURITY_CODE": "600479",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国光大银行股份有限公司-招商成长量化选股股票型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2713300,
       "HOLD_NUM_RATIO": 0.55,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
@@ -761,23 +761,77 @@
       "SECURITY_CODE": "600479",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 8600,
-      "TOTAL_SHARES_RATIO": 0.00205492,
-      "ALL_SHARES_RATIO": 0.00174722
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 199724113,
+      "TOTAL_SHARES_RATIO": 35.43051503,
+      "ALL_SHARES_RATIO": 30.12519497
     },
     {
       "SECUCODE": "600479.SH",
       "SECURITY_CODE": "600479",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "01",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 8121920,
+      "TOTAL_SHARES_RATIO": 1.94068862,
+      "ALL_SHARES_RATIO": 1.65009238
+    },
+    {
+      "SECUCODE": "600479.SH",
+      "SECURITY_CODE": "600479",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "03",
       "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 8600,
-      "TOTAL_SHARES_RATIO": 0.00205492,
-      "ALL_SHARES_RATIO": 0.00174722
+      "TOTAL_FREE_SHARES": 8880060,
+      "TOTAL_SHARES_RATIO": 2.12184205,
+      "ALL_SHARES_RATIO": 1.80412013
+    },
+    {
+      "SECUCODE": "600479.SH",
+      "SECURITY_CODE": "600479",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 182722133,
+      "TOTAL_SHARES_RATIO": 31.36798436,
+      "ALL_SHARES_RATIO": 26.67098246
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600479.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "70432185",
+      "HOLDER_NAME": "工银瑞信基金-中国人寿保险股份有限公司-分红险-工银瑞信基金国寿股份价值股票型组合单一资产管理计划(分红险)",
+      "TOTAL_SHARES": 5400020,
+      "HOLD_VALUE": 50220186,
+      "TOTALSHARES_RATIO": 1.09709673,
+      "FREESHARES_RATIO": 1.29030542,
+      "FREE_MARKET_CAP": 50220186,
+      "FREE_SHARES": 5400020,
+      "SECURITY_CODE": "600479",
+      "FUND_CODE": null,
+      "FUND_DERIVECODE": null,
+      "NETVALUE_RATIO": null
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600479.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "020901",
+      "HOLDER_NAME": "招商成长量化选股股票A",
+      "TOTAL_SHARES": 2713300,
+      "HOLD_VALUE": 25233690,
+      "TOTALSHARES_RATIO": 0.55124843,
+      "FREESHARES_RATIO": 0.64832828,
+      "FREE_MARKET_CAP": 25233690,
+      "FREE_SHARES": 2713300,
+      "SECURITY_CODE": "600479",
+      "FUND_CODE": "020901",
+      "FUND_DERIVECODE": "020901.OF",
+      "NETVALUE_RATIO": 2.39
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "600479.SH",

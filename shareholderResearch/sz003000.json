@@ -81,8 +81,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 9.86,
       "AVG_HOLD_AMT": 122666.767979162,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 57.68273725,
+      "FREEHOLD_RATIO_TOTAL": 38.78307135
     },
     {
       "SECUCODE": "003000.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "003000.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "003000.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "003000.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "003000.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "003000.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "003000.SZ",
       "END_DATE": "2026-06-15 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "003000.SZ",
       "END_DATE": "2022-04-20 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "003000.SZ",
-      "END_DATE": "2022-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -551,7 +551,7 @@
     {
       "SECUCODE": "003000.SZ",
       "SECURITY_CODE": "003000",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "周劲松",
       "HOLDER_TYPE": "个人",
@@ -564,7 +564,7 @@
     {
       "SECUCODE": "003000.SZ",
       "SECURITY_CODE": "003000",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "李冰玉",
       "HOLDER_TYPE": "个人",
@@ -577,34 +577,47 @@
     {
       "SECUCODE": "003000.SZ",
       "SECURITY_CODE": "003000",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "蔡元华",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 18907900,
-      "FREE_HOLDNUM_RATIO": 6.137727031651,
-      "HOLD_NUM_CHANGE": "349400",
-      "CHANGE_RATIO": 1.88269526
-    },
-    {
-      "SECUCODE": "003000.SZ",
-      "SECURITY_CODE": "003000",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "程金华",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5070000,
-      "FREE_HOLDNUM_RATIO": 1.64578171296,
+      "HOLD_NUM": 19497900,
+      "FREE_HOLDNUM_RATIO": 6.329247980497,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "003000.SZ",
       "SECURITY_CODE": "003000",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "程金华",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5170000,
+      "FREE_HOLDNUM_RATIO": 1.67824289073,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "003000.SZ",
+      "SECURITY_CODE": "003000",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "劲仔食品集团股份有限公司-2026年员工持股计划",
+      "HOLDER_TYPE": "员工持股计划",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4798000,
+      "FREE_HOLDNUM_RATIO": 1.557487309424,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "003000.SZ",
+      "SECURITY_CODE": "003000",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "杨忠明",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -616,46 +629,33 @@
     {
       "SECUCODE": "003000.SZ",
       "SECURITY_CODE": "003000",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "刘特元",
-      "HOLDER_TYPE": "个人",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国农业银行股份有限公司-交银施罗德内需增长一年持有期混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2560295,
-      "FREE_HOLDNUM_RATIO": 0.831101911397,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM": 2212573,
+      "FREE_HOLDNUM_RATIO": 0.71822725483,
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "003000.SZ",
       "SECURITY_CODE": "003000",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国农业银行股份有限公司-交银施罗德内需增长一年持有期混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2400473,
-      "FREE_HOLDNUM_RATIO": 0.779221807861,
-      "HOLD_NUM_CHANGE": "-226600",
-      "CHANGE_RATIO": -8.62556922
-    },
-    {
-      "SECUCODE": "003000.SZ",
-      "SECURITY_CODE": "003000",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "中信银行股份有限公司-交银施罗德品质增长一年持有期混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2122292,
-      "FREE_HOLDNUM_RATIO": 0.688920978927,
-      "HOLD_NUM_CHANGE": "-332200",
-      "CHANGE_RATIO": -13.53436882
+      "HOLD_NUM": 2054892,
+      "FREE_HOLDNUM_RATIO": 0.66704214511,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "003000.SZ",
       "SECURITY_CODE": "003000",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "刘文华",
       "HOLDER_TYPE": "个人",
@@ -668,13 +668,13 @@
     {
       "SECUCODE": "003000.SZ",
       "SECURITY_CODE": "003000",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
+      "HOLDER_NAME": "中国农业银行股份有限公司-宏利中证主要消费红利指数型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1715964,
-      "FREE_HOLDNUM_RATIO": 0.557022124516,
+      "HOLD_NUM": 1743600,
+      "FREE_HOLDNUM_RATIO": 0.565993095605,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -683,20 +683,20 @@
     {
       "SECUCODE": "003000.SZ",
       "SECURITY_CODE": "003000",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 116775203,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 119475244,
       "LIMITED_SHARES": 142833864,
-      "OTHER_UNLIMITED_SHARES": 191285092,
-      "HOLD_NUM_RATIO": 25.9,
+      "OTHER_UNLIMITED_SHARES": 188585051,
+      "HOLD_NUM_RATIO": 26.5,
       "LIMITED_SHARES_RATIO": 31.68,
-      "UNLIMITED_SHARES_RATIO": 42.42
+      "UNLIMITED_SHARES_RATIO": 41.82
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "003000.SZ",
       "SECURITY_CODE": "003000",
-      "END_DATE": "2026-06-15 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "周劲松",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -708,7 +708,7 @@
     {
       "SECUCODE": "003000.SZ",
       "SECURITY_CODE": "003000",
-      "END_DATE": "2026-06-15 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "李冰玉",
       "SHARES_TYPE": "流通A股",
@@ -720,56 +720,44 @@
     {
       "SECUCODE": "003000.SZ",
       "SECURITY_CODE": "003000",
-      "END_DATE": "2026-06-15 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "蔡元华",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 19497900,
       "HOLD_NUM_RATIO": 4.32,
-      "HOLD_NUM_CHANGE": "590000",
-      "CHANGE_RATIO": 3.12038883
-    },
-    {
-      "SECUCODE": "003000.SZ",
-      "SECURITY_CODE": "003000",
-      "END_DATE": "2026-06-15 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "刘特元",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 13112304,
-      "HOLD_NUM_RATIO": 2.91,
-      "HOLD_NUM_CHANGE": "-1375270",
-      "CHANGE_RATIO": -9.49275565
-    },
-    {
-      "SECUCODE": "003000.SZ",
-      "SECURITY_CODE": "003000",
-      "END_DATE": "2026-06-15 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "劲仔食品集团股份有限公司回购专用证券账户",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6575500,
-      "HOLD_NUM_RATIO": 1.46,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "003000.SZ",
       "SECURITY_CODE": "003000",
-      "END_DATE": "2026-06-15 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "程金华",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5170000,
-      "HOLD_NUM_RATIO": 1.15,
-      "HOLD_NUM_CHANGE": "100000",
-      "CHANGE_RATIO": 1.97238659
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "刘特元",
+      "SHARES_TYPE": "流通A股,限售流通A股",
+      "HOLD_NUM": 13112304,
+      "HOLD_NUM_RATIO": 2.91,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "003000.SZ",
       "SECURITY_CODE": "003000",
-      "END_DATE": "2026-06-15 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "程金华",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5170000,
+      "HOLD_NUM_RATIO": 1.15,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "003000.SZ",
+      "SECURITY_CODE": "003000",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "劲仔食品集团股份有限公司-2026年员工持股计划",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4798000,
@@ -780,8 +768,8 @@
     {
       "SECUCODE": "003000.SZ",
       "SECURITY_CODE": "003000",
-      "END_DATE": "2026-06-15 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "杨忠明",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2835657,
@@ -792,24 +780,36 @@
     {
       "SECUCODE": "003000.SZ",
       "SECURITY_CODE": "003000",
-      "END_DATE": "2026-06-15 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2213576,
-      "HOLD_NUM_RATIO": 0.49,
-      "HOLD_NUM_CHANGE": "-283156",
-      "CHANGE_RATIO": -11.34106504
-    },
-    {
-      "SECUCODE": "003000.SZ",
-      "SECURITY_CODE": "003000",
-      "END_DATE": "2026-06-15 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "中国农业银行股份有限公司-交银施罗德内需增长一年持有期混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2212573,
       "HOLD_NUM_RATIO": 0.49,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "003000.SZ",
+      "SECURITY_CODE": "003000",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中信银行股份有限公司-交银施罗德品质增长一年持有期混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2054892,
+      "HOLD_NUM_RATIO": 0.46,
+      "HOLD_NUM_CHANGE": "-67400",
+      "CHANGE_RATIO": -3.17581181
+    },
+    {
+      "SECUCODE": "003000.SZ",
+      "SECURITY_CODE": "003000",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "刘文华",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1871000,
+      "HOLD_NUM_RATIO": 0.41,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
@@ -820,23 +820,84 @@
       "SECURITY_CODE": "003000",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 458100,
-      "TOTAL_SHARES_RATIO": 0.14870466,
-      "ALL_SHARES_RATIO": 0.10159812
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 11267165,
+      "TOTAL_SHARES_RATIO": 3.65745447,
+      "ALL_SHARES_RATIO": 2.49884918
     },
     {
       "SECUCODE": "003000.SZ",
       "SECURITY_CODE": "003000",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 458100,
-      "TOTAL_SHARES_RATIO": 0.14870466,
-      "ALL_SHARES_RATIO": 0.10159812
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 6469165,
+      "TOTAL_SHARES_RATIO": 2.09996716,
+      "ALL_SHARES_RATIO": 1.43474136
+    },
+    {
+      "SECUCODE": "003000.SZ",
+      "SECURITY_CODE": "003000",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 4798000,
+      "TOTAL_SHARES_RATIO": 1.55748731,
+      "ALL_SHARES_RATIO": 1.06410782
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "003000.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "010454",
+      "HOLDER_NAME": "交银内需增长一年混合",
+      "TOTAL_SHARES": 2212573,
+      "HOLD_VALUE": 21815969.78,
+      "TOTALSHARES_RATIO": 0.49070784,
+      "FREESHARES_RATIO": 0.71822725,
+      "FREE_MARKET_CAP": 21815969.78,
+      "FREE_SHARES": 2212573,
+      "SECURITY_CODE": "003000",
+      "FUND_CODE": "010454",
+      "FUND_DERIVECODE": "010454.OF",
+      "NETVALUE_RATIO": 2.69
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "003000.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "012582",
+      "HOLDER_NAME": "交银品质增长一年混合A",
+      "TOTAL_SHARES": 2054892,
+      "HOLD_VALUE": 20261235.12,
+      "TOTALSHARES_RATIO": 0.45573711,
+      "FREESHARES_RATIO": 0.66704215,
+      "FREE_MARKET_CAP": 20261235.12,
+      "FREE_SHARES": 2054892,
+      "SECURITY_CODE": "003000",
+      "FUND_CODE": "012582",
+      "FUND_DERIVECODE": "012582.OF",
+      "NETVALUE_RATIO": 2.81
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "003000.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "008928",
+      "HOLDER_NAME": "宏利消费红利指数A",
+      "TOTAL_SHARES": 1743600,
+      "HOLD_VALUE": 17191896,
+      "TOTALSHARES_RATIO": 0.38669829,
+      "FREESHARES_RATIO": 0.5659931,
+      "FREE_MARKET_CAP": 17191896,
+      "FREE_SHARES": 1743600,
+      "SECURITY_CODE": "003000",
+      "FUND_CODE": "008928",
+      "FUND_DERIVECODE": "008928.OF",
+      "NETVALUE_RATIO": 3.1
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "003000.SZ",

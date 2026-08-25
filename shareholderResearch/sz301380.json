@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 27.59,
       "AVG_HOLD_AMT": 179744.882810458,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 59.38205665,
+      "FREEHOLD_RATIO_TOTAL": 51.42002873
     },
     {
       "SECUCODE": "301380.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "301380.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "301380.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,10 +161,6 @@
     {
       "SECUCODE": "301380.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "301380.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
@@ -168,6 +168,11 @@
       "SECUCODE": "301380.SZ",
       "END_DATE": "2026-08-05 00:00:00",
       "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "301380.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
     },
     {
       "SECUCODE": "301380.SZ",
@@ -425,74 +430,7 @@
       "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2026-08-05 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "陈坤",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 15429624,
-      "HOLD_NUM_RATIO": 15.22,
-      "HOLD_CHANGE": "-341900",
-      "CHANGE_RATIO": -2.16783109,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2026-03-23 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "陈坤",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 15771524,
-      "HOLD_NUM_RATIO": 15.55,
-      "HOLD_CHANGE": "-5070000",
-      "CHANGE_RATIO": -24.32643601,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2026-03-13 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "李征",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 23910226,
-      "HOLD_NUM_RATIO": 23.58,
-      "HOLD_CHANGE": "-430800",
-      "CHANGE_RATIO": -1.76985144,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2026-03-12 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "李征",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 24341026,
-      "HOLD_NUM_RATIO": 24.01,
-      "HOLD_CHANGE": "-469174",
-      "CHANGE_RATIO": -1.89105287,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2026-03-11 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "李征",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 24810200,
-      "HOLD_NUM_RATIO": 24.47,
-      "HOLD_CHANGE": "-83400",
-      "CHANGE_RATIO": -0.33502587,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2026-01-12 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "李征",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 24893600,
-      "HOLD_NUM_RATIO": 24.55,
-      "HOLD_CHANGE": "-30526",
-      "CHANGE_RATIO": -0.12247571,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "301380.SZ",
@@ -520,20 +458,20 @@
     {
       "SECUCODE": "301380.SZ",
       "SECURITY_CODE": "301380",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "陈坤",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 15771524,
       "FREE_HOLDNUM_RATIO": 19.53405367516,
-      "HOLD_NUM_CHANGE": "-5070000",
-      "CHANGE_RATIO": -24.32643601
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301380.SZ",
       "SECURITY_CODE": "301380",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "北京永奥企业管理中心(有限合伙)",
       "HOLDER_TYPE": "其它",
@@ -546,33 +484,33 @@
     {
       "SECUCODE": "301380.SZ",
       "SECURITY_CODE": "301380",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "李征",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 5217132,
       "FREE_HOLDNUM_RATIO": 6.461755789637,
-      "HOLD_NUM_CHANGE": "506987",
-      "CHANGE_RATIO": 10.76372383
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301380.SZ",
       "SECURITY_CODE": "301380",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "北京开盛企业管理发展中心(有限合伙)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 5070000,
       "FREE_HOLDNUM_RATIO": 6.279523280887,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301380.SZ",
       "SECURITY_CODE": "301380",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "星光资产管理有限公司-闪亮星基金分隔投资组合2-Q",
       "HOLDER_TYPE": "其他理财产品",
@@ -585,80 +523,80 @@
     {
       "SECUCODE": "301380.SZ",
       "SECURITY_CODE": "301380",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "秦博",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1578091,
       "FREE_HOLDNUM_RATIO": 1.95456788439,
-      "HOLD_NUM_CHANGE": "-51",
-      "CHANGE_RATIO": -0.00323165
-    },
-    {
-      "SECUCODE": "301380.SZ",
-      "SECURITY_CODE": "301380",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "张常国",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 810155,
-      "FREE_HOLDNUM_RATIO": 1.003429424778,
-      "HOLD_NUM_CHANGE": "-100",
-      "CHANGE_RATIO": -0.01234179
-    },
-    {
-      "SECUCODE": "301380.SZ",
-      "SECURITY_CODE": "301380",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "华熙昕宇投资有限公司",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 691672,
-      "FREE_HOLDNUM_RATIO": 0.856680557542,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301380.SZ",
-      "SECURITY_CODE": "301380",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "张鲁明",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 487259,
-      "FREE_HOLDNUM_RATIO": 0.603501821365,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301380.SZ",
       "SECURITY_CODE": "301380",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "张常国",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 810155,
+      "FREE_HOLDNUM_RATIO": 1.003429424778,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "301380.SZ",
+      "SECURITY_CODE": "301380",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "华熙昕宇投资有限公司",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 739372,
+      "FREE_HOLDNUM_RATIO": 0.915760096102,
+      "HOLD_NUM_CHANGE": "47700",
+      "CHANGE_RATIO": 6.89633237
+    },
+    {
+      "SECUCODE": "301380.SZ",
+      "SECURITY_CODE": "301380",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "张鲁明",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 501259,
+      "FREE_HOLDNUM_RATIO": 0.620841727861,
+      "HOLD_NUM_CHANGE": "14000",
+      "CHANGE_RATIO": 2.87321527
+    },
+    {
+      "SECUCODE": "301380.SZ",
+      "SECURITY_CODE": "301380",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "王春智",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 466700,
-      "FREE_HOLDNUM_RATIO": 0.578038168676,
-      "HOLD_NUM_CHANGE": "30700",
-      "CHANGE_RATIO": 7.0412844
+      "HOLD_NUM": 469000,
+      "FREE_HOLDNUM_RATIO": 0.580886867601,
+      "HOLD_NUM_CHANGE": "2300",
+      "CHANGE_RATIO": 0.49282194
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "301380.SZ",
       "SECURITY_CODE": "301380",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 41451818,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 41515818,
       "LIMITED_SHARES": 20653820,
-      "OTHER_UNLIMITED_SHARES": 39286795,
-      "HOLD_NUM_RATIO": 40.88,
+      "OTHER_UNLIMITED_SHARES": 39222795,
+      "HOLD_NUM_RATIO": 40.95,
       "LIMITED_SHARES_RATIO": 20.37,
-      "UNLIMITED_SHARES_RATIO": 38.75
+      "UNLIMITED_SHARES_RATIO": 38.68
     }
   ],
   "sdgd": [
@@ -666,49 +604,13 @@
       "SECUCODE": "301380.SZ",
       "SECURITY_CODE": "301380",
       "END_DATE": "2026-08-05 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "李征",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 23910226,
-      "HOLD_NUM_RATIO": 23.58,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301380.SZ",
-      "SECURITY_CODE": "301380",
-      "END_DATE": "2026-08-05 00:00:00",
-      "HOLDER_RANK": 2,
+      "HOLDER_RANK": null,
       "HOLDER_NAME": "陈坤",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 15429624,
       "HOLD_NUM_RATIO": 15.22,
       "HOLD_NUM_CHANGE": "-341900",
       "CHANGE_RATIO": -2.16783109
-    },
-    {
-      "SECUCODE": "301380.SZ",
-      "SECURITY_CODE": "301380",
-      "END_DATE": "2026-08-05 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "北京永奥企业管理中心(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9331437,
-      "HOLD_NUM_RATIO": 9.2,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "301380.SZ",
-      "SECURITY_CODE": "301380",
-      "END_DATE": "2026-08-05 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "北京开盛企业管理发展中心(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5070000,
-      "HOLD_NUM_RATIO": 5,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [

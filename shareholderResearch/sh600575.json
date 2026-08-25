@@ -95,8 +95,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 3.19,
       "AVG_HOLD_AMT": 229471.037433596,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 83.33942409,
+      "FREEHOLD_RATIO_TOTAL": 69.27563975
     },
     {
       "SECUCODE": "600575.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600575.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "600575.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600575.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "600575.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600575.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600575.SH",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600575.SH",
       "END_DATE": "2016-04-20 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "600575.SH",
-      "END_DATE": "2016-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -483,7 +483,7 @@
     {
       "SECUCODE": "600575.SH",
       "SECURITY_CODE": "600575",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "淮南矿业(集团)有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -496,7 +496,7 @@
     {
       "SECUCODE": "600575.SH",
       "SECURITY_CODE": "600575",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "上海淮矿资产管理有限公司",
       "HOLDER_TYPE": "其它",
@@ -509,104 +509,104 @@
     {
       "SECUCODE": "600575.SH",
       "SECURITY_CODE": "600575",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "冯春保",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 61665345,
-      "FREE_HOLDNUM_RATIO": 1.586752510153,
-      "HOLD_NUM_CHANGE": "-1700000",
-      "CHANGE_RATIO": -2.68285448
+      "HOLD_NUM": 64063445,
+      "FREE_HOLDNUM_RATIO": 1.648459635843,
+      "HOLD_NUM_CHANGE": "2398100",
+      "CHANGE_RATIO": 3.88889416
     },
     {
       "SECUCODE": "600575.SH",
       "SECURITY_CODE": "600575",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
+      "HOLDER_NAME": "王景青",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 44962313,
-      "FREE_HOLDNUM_RATIO": 1.156955547967,
-      "HOLD_NUM_CHANGE": "19472393",
-      "CHANGE_RATIO": 76.39252301
+      "HOLD_NUM": 62815100,
+      "FREE_HOLDNUM_RATIO": 1.616337630164,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600575.SH",
       "SECURITY_CODE": "600575",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "全国社保基金一一二组合",
-      "HOLDER_TYPE": "全国社保基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 15000000,
-      "FREE_HOLDNUM_RATIO": 0.385975099179,
-      "HOLD_NUM_CHANGE": "5000000",
-      "CHANGE_RATIO": 50
-    },
-    {
-      "SECUCODE": "600575.SH",
-      "SECURITY_CODE": "600575",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
       "HOLDER_TYPE": "保险产品",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 13127750,
-      "FREE_HOLDNUM_RATIO": 0.337798973883,
+      "HOLD_NUM": 36761609,
+      "FREE_HOLDNUM_RATIO": 0.945937711984,
+      "HOLD_NUM_CHANGE": "23633859",
+      "CHANGE_RATIO": 180.02977662
+    },
+    {
+      "SECUCODE": "600575.SH",
+      "SECURITY_CODE": "600575",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 19376710,
+      "FREE_HOLDNUM_RATIO": 0.498595170935,
+      "HOLD_NUM_CHANGE": "-25585603",
+      "CHANGE_RATIO": -56.90455249
+    },
+    {
+      "SECUCODE": "600575.SH",
+      "SECURITY_CODE": "600575",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国建设银行股份有限公司-广发中证全指电力公用事业交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 13667500,
+      "FREE_HOLDNUM_RATIO": 0.351687644536,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600575.SH",
       "SECURITY_CODE": "600575",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "于秀平",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12245340,
-      "FREE_HOLDNUM_RATIO": 0.315093088066,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 12861140,
+      "FREE_HOLDNUM_RATIO": 0.330938652471,
+      "HOLD_NUM_CHANGE": "615800",
+      "CHANGE_RATIO": 5.02885179
     },
     {
       "SECUCODE": "600575.SH",
       "SECURITY_CODE": "600575",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "国元证券-淮北皖淮投资有限公司-国元证券皖淮3号单一资产管理计划",
-      "HOLDER_TYPE": "集合理财计划",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11326500,
-      "FREE_HOLDNUM_RATIO": 0.29144979739,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600575.SH",
-      "SECURITY_CODE": "600575",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "UBS AG",
-      "HOLDER_TYPE": "QFII",
+      "HOLDER_NAME": "中国人寿保险股份有限公司-分红-个人分红-005L-FH002沪",
+      "HOLDER_TYPE": "保险产品",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10077496,
-      "FREE_HOLDNUM_RATIO": 0.259310834539,
+      "HOLD_NUM": 12149457,
+      "FREE_HOLDNUM_RATIO": 0.312625858037,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600575.SH",
       "SECURITY_CODE": "600575",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国国际金融香港资产管理有限公司-CICCFT3(R)",
-      "HOLDER_TYPE": "其他理财产品",
+      "HOLDER_NAME": "中国建设银行-华夏红利混合型开放式证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8827809,
-      "FREE_HOLDNUM_RATIO": 0.227154296954,
+      "HOLD_NUM": 11568100,
+      "FREE_HOLDNUM_RATIO": 0.297666569654,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -615,20 +615,20 @@
     {
       "SECUCODE": "600575.SH",
       "SECURITY_CODE": "600575",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 2636201707,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 2692232215,
       "LIMITED_SHARES": 3280531105,
-      "OTHER_UNLIMITED_SHARES": 1250059358,
-      "HOLD_NUM_RATIO": 36.78,
+      "OTHER_UNLIMITED_SHARES": 1194028850,
+      "HOLD_NUM_RATIO": 37.57,
       "LIMITED_SHARES_RATIO": 45.77,
-      "UNLIMITED_SHARES_RATIO": 17.44
+      "UNLIMITED_SHARES_RATIO": 16.66
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600575.SH",
       "SECURITY_CODE": "600575",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "淮南矿业(集团)有限责任公司",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -640,7 +640,7 @@
     {
       "SECUCODE": "600575.SH",
       "SECURITY_CODE": "600575",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "上海淮矿资产管理有限公司",
       "SHARES_TYPE": "流通A股",
@@ -652,96 +652,96 @@
     {
       "SECUCODE": "600575.SH",
       "SECURITY_CODE": "600575",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "冯春保",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 61665345,
-      "HOLD_NUM_RATIO": 0.86,
-      "HOLD_NUM_CHANGE": "-1700000",
-      "CHANGE_RATIO": -2.68285448
+      "HOLD_NUM": 64063445,
+      "HOLD_NUM_RATIO": 0.89,
+      "HOLD_NUM_CHANGE": "2398100",
+      "CHANGE_RATIO": 3.88889416
     },
     {
       "SECUCODE": "600575.SH",
       "SECURITY_CODE": "600575",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_NAME": "王景青",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 44962313,
-      "HOLD_NUM_RATIO": 0.63,
-      "HOLD_NUM_CHANGE": "19472393",
-      "CHANGE_RATIO": 76.39252301
+      "HOLD_NUM": 62815100,
+      "HOLD_NUM_RATIO": 0.88,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600575.SH",
       "SECURITY_CODE": "600575",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "全国社保基金一一二组合",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 15000000,
-      "HOLD_NUM_RATIO": 0.21,
-      "HOLD_NUM_CHANGE": "5000000",
-      "CHANGE_RATIO": 50
-    },
-    {
-      "SECUCODE": "600575.SH",
-      "SECURITY_CODE": "600575",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 13127750,
-      "HOLD_NUM_RATIO": 0.18,
+      "HOLD_NUM": 36761609,
+      "HOLD_NUM_RATIO": 0.51,
+      "HOLD_NUM_CHANGE": "23633859",
+      "CHANGE_RATIO": 180.02977662
+    },
+    {
+      "SECUCODE": "600575.SH",
+      "SECURITY_CODE": "600575",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 19376710,
+      "HOLD_NUM_RATIO": 0.27,
+      "HOLD_NUM_CHANGE": "-25585603",
+      "CHANGE_RATIO": -56.90455249
+    },
+    {
+      "SECUCODE": "600575.SH",
+      "SECURITY_CODE": "600575",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国建设银行股份有限公司-广发中证全指电力公用事业交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 13667500,
+      "HOLD_NUM_RATIO": 0.19,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600575.SH",
       "SECURITY_CODE": "600575",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "于秀平",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 12245340,
-      "HOLD_NUM_RATIO": 0.17,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 12861140,
+      "HOLD_NUM_RATIO": 0.18,
+      "HOLD_NUM_CHANGE": "615800",
+      "CHANGE_RATIO": 5.02885179
     },
     {
       "SECUCODE": "600575.SH",
       "SECURITY_CODE": "600575",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "国元证券-淮北皖淮投资有限公司-国元证券皖淮3号单一资产管理计划",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11326500,
-      "HOLD_NUM_RATIO": 0.16,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600575.SH",
-      "SECURITY_CODE": "600575",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "UBS AG",
+      "HOLDER_NAME": "中国人寿保险股份有限公司-分红-个人分红-005L-FH002沪",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10077496,
-      "HOLD_NUM_RATIO": 0.14,
+      "HOLD_NUM": 12149457,
+      "HOLD_NUM_RATIO": 0.17,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600575.SH",
       "SECURITY_CODE": "600575",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国国际金融香港资产管理有限公司-CICCFT3(R)",
+      "HOLDER_NAME": "中国建设银行-华夏红利混合型开放式证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8827809,
-      "HOLD_NUM_RATIO": 0.12,
+      "HOLD_NUM": 11568100,
+      "HOLD_NUM_RATIO": 0.16,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }

@@ -81,8 +81,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 2.27,
       "AVG_HOLD_AMT": 197006.323156709,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 72.65670037,
+      "FREEHOLD_RATIO_TOTAL": 72.65673711
     },
     {
       "SECUCODE": "000927.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000927.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "000927.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "000927.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "000927.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000927.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000927.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "000927.SZ",
       "END_DATE": "2017-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000927.SZ",
-      "END_DATE": "2017-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "000927.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
     {
       "SECUCODE": "000927.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "000927.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "000927.SZ",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "000927.SZ",
       "SECURITY_CODE": "000927",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国物流集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,20 +486,20 @@
     {
       "SECUCODE": "000927.SZ",
       "SECURITY_CODE": "000927",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "芜湖长茂投资中心(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1069391932,
       "FREE_HOLDNUM_RATIO": 17.674875491649,
-      "HOLD_NUM_CHANGE": "-25000000",
-      "CHANGE_RATIO": -2.28437357
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000927.SZ",
       "SECURITY_CODE": "000927",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中国国有企业结构调整基金股份有限公司",
       "HOLDER_TYPE": "基金管理公司",
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "000927.SZ",
       "SECURITY_CODE": "000927",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "天津百利机械装备集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -525,47 +525,73 @@
     {
       "SECUCODE": "000927.SZ",
       "SECURITY_CODE": "000927",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "农银金融资产投资有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 91282722,
       "FREE_HOLDNUM_RATIO": 1.508717896227,
-      "HOLD_NUM_CHANGE": "-91282600",
-      "CHANGE_RATIO": -49.99996659
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000927.SZ",
       "SECURITY_CODE": "000927",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
+      "HOLDER_NAME": "罗苑生",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 57132837,
-      "FREE_HOLDNUM_RATIO": 0.944289694211,
-      "HOLD_NUM_CHANGE": "12137558",
-      "CHANGE_RATIO": 26.97518111
+      "HOLD_NUM": 68070686,
+      "FREE_HOLDNUM_RATIO": 1.125070111041,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000927.SZ",
       "SECURITY_CODE": "000927",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "刘元龙",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 28450000,
       "FREE_HOLDNUM_RATIO": 0.470220685878,
-      "HOLD_NUM_CHANGE": "44200",
-      "CHANGE_RATIO": 0.15560202
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000927.SZ",
       "SECURITY_CODE": "000927",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 26985131,
+      "FREE_HOLDNUM_RATIO": 0.446009378113,
+      "HOLD_NUM_CHANGE": "-30147706",
+      "CHANGE_RATIO": -52.76773845
+    },
+    {
+      "SECUCODE": "000927.SZ",
+      "SECURITY_CODE": "000927",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "陈菊苘",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 26936614,
+      "FREE_HOLDNUM_RATIO": 0.445207490696,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000927.SZ",
+      "SECURITY_CODE": "000927",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "中国物流集团资本管理有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -573,52 +599,26 @@
       "FREE_HOLDNUM_RATIO": 0.409207692489,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000927.SZ",
-      "SECURITY_CODE": "000927",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "占小龙",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 23397577,
-      "FREE_HOLDNUM_RATIO": 0.386714400873,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000927.SZ",
-      "SECURITY_CODE": "000927",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "李建民",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 22343700,
-      "FREE_HOLDNUM_RATIO": 0.369295955678,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "000927.SZ",
       "SECURITY_CODE": "000927",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 4376868999,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 4395987316,
       "LIMITED_SHARES": 3060,
-      "OTHER_UNLIMITED_SHARES": 1673481582,
-      "HOLD_NUM_RATIO": 72.34,
+      "OTHER_UNLIMITED_SHARES": 1654363265,
+      "HOLD_NUM_RATIO": 72.66,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 27.66
+      "UNLIMITED_SHARES_RATIO": 27.34
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "000927.SZ",
       "SECURITY_CODE": "000927",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国物流集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,19 +630,19 @@
     {
       "SECUCODE": "000927.SZ",
       "SECURITY_CODE": "000927",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "芜湖长茂投资中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1069391932,
       "HOLD_NUM_RATIO": 17.67,
-      "HOLD_NUM_CHANGE": "-25000000",
-      "CHANGE_RATIO": -2.28437357
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000927.SZ",
       "SECURITY_CODE": "000927",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中国国有企业结构调整基金股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "000927.SZ",
       "SECURITY_CODE": "000927",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "天津百利机械装备集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -666,73 +666,73 @@
     {
       "SECUCODE": "000927.SZ",
       "SECURITY_CODE": "000927",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "农银金融资产投资有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 91282722,
       "HOLD_NUM_RATIO": 1.51,
-      "HOLD_NUM_CHANGE": "-91282600",
-      "CHANGE_RATIO": -49.99996659
-    },
-    {
-      "SECUCODE": "000927.SZ",
-      "SECURITY_CODE": "000927",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 57132837,
-      "HOLD_NUM_RATIO": 0.94,
-      "HOLD_NUM_CHANGE": "12137558",
-      "CHANGE_RATIO": 26.97518111
-    },
-    {
-      "SECUCODE": "000927.SZ",
-      "SECURITY_CODE": "000927",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "刘元龙",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 28450000,
-      "HOLD_NUM_RATIO": 0.47,
-      "HOLD_NUM_CHANGE": "44200",
-      "CHANGE_RATIO": 0.15560202
-    },
-    {
-      "SECUCODE": "000927.SZ",
-      "SECURITY_CODE": "000927",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国物流集团资本管理有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 24758500,
-      "HOLD_NUM_RATIO": 0.41,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000927.SZ",
       "SECURITY_CODE": "000927",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "占小龙",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "罗苑生",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 23397577,
-      "HOLD_NUM_RATIO": 0.39,
+      "HOLD_NUM": 68070686,
+      "HOLD_NUM_RATIO": 1.13,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000927.SZ",
       "SECURITY_CODE": "000927",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "李建民",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "刘元龙",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 22343700,
-      "HOLD_NUM_RATIO": 0.37,
+      "HOLD_NUM": 28450000,
+      "HOLD_NUM_RATIO": 0.47,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000927.SZ",
+      "SECURITY_CODE": "000927",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 26985131,
+      "HOLD_NUM_RATIO": 0.45,
+      "HOLD_NUM_CHANGE": "-30147706",
+      "CHANGE_RATIO": -52.76773845
+    },
+    {
+      "SECUCODE": "000927.SZ",
+      "SECURITY_CODE": "000927",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "陈菊苘",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 26936614,
+      "HOLD_NUM_RATIO": 0.45,
       "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000927.SZ",
+      "SECURITY_CODE": "000927",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国物流集团资本管理有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 24758500,
+      "HOLD_NUM_RATIO": 0.41,
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -740,22 +740,22 @@
     {
       "SECUCODE": "000927.SZ",
       "SECURITY_CODE": "000927",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
       "TOTAL_ORG_NUM": 7,
-      "TOTAL_FREE_SHARES": 4302677722,
-      "TOTAL_SHARES_RATIO": 71.11451913,
-      "ALL_SHARES_RATIO": 71.11448318
+      "TOTAL_FREE_SHARES": 4272530016,
+      "TOTAL_SHARES_RATIO": 70.61623882,
+      "ALL_SHARES_RATIO": 70.61620311
     },
     {
       "SECUCODE": "000927.SZ",
       "SECURITY_CODE": "000927",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 7,
-      "TOTAL_FREE_SHARES": 4302677722,
-      "TOTAL_SHARES_RATIO": 71.11451913,
-      "ALL_SHARES_RATIO": 71.11448318
+      "TOTAL_FREE_SHARES": 4272530016,
+      "TOTAL_SHARES_RATIO": 70.61623882,
+      "ALL_SHARES_RATIO": 70.61620311
     }
   ],
   "jjcg": [
