@@ -67,8 +67,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 21.3395955045,
       "AVG_HOLD_AMT": 369893.709785634,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 36.05160381,
+      "FREEHOLD_RATIO_TOTAL": 36.06244252
     },
     {
       "SECUCODE": "300486.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300486.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "300486.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300486.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "300486.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300486.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300486.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "300486.SZ",
       "END_DATE": "2020-11-05 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300486.SZ",
-      "END_DATE": "2020-11-04 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -445,19 +445,7 @@
       "REPORT_DATE": "2025-06-30 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2026-01-15 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "天德永润(山东)控股有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 134465583,
-      "HOLD_NUM_RATIO": 28.18,
-      "HOLD_CHANGE": "14805643",
-      "CHANGE_RATIO": 12.37309913,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "300486.SZ",
@@ -485,20 +473,20 @@
     {
       "SECUCODE": "300486.SZ",
       "SECURITY_CODE": "300486",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "天德永润(山东)控股有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 134465583,
       "FREE_HOLDNUM_RATIO": 28.189523053472,
-      "HOLD_NUM_CHANGE": "14805643",
-      "CHANGE_RATIO": 12.37309913
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300486.SZ",
       "SECURITY_CODE": "300486",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "王志",
       "HOLDER_TYPE": "个人",
@@ -511,33 +499,33 @@
     {
       "SECUCODE": "300486.SZ",
       "SECURITY_CODE": "300486",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "孙慧明",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 7414892,
       "FREE_HOLDNUM_RATIO": 1.554466684408,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300486.SZ",
       "SECURITY_CODE": "300486",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "李克刚",
+      "HOLDER_NAME": "郑益烽",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3997992,
-      "FREE_HOLDNUM_RATIO": 0.838143747546,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3603700,
+      "FREE_HOLDNUM_RATIO": 0.75548390868,
+      "HOLD_NUM_CHANGE": "49300",
+      "CHANGE_RATIO": 1.38701328
     },
     {
       "SECUCODE": "300486.SZ",
       "SECURITY_CODE": "300486",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "长安国际信托股份有限公司-长安信托-长安投资1153号(菁阳)证券投资单一资金信托",
       "HOLDER_TYPE": "信托计划",
@@ -550,87 +538,87 @@
     {
       "SECUCODE": "300486.SZ",
       "SECURITY_CODE": "300486",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "梁燕生",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3559320,
-      "FREE_HOLDNUM_RATIO": 0.746180033256,
-      "HOLD_NUM_CHANGE": "-4600600",
-      "CHANGE_RATIO": -56.38045471
-    },
-    {
-      "SECUCODE": "300486.SZ",
-      "SECURITY_CODE": "300486",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "郑益烽",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3554400,
-      "FREE_HOLDNUM_RATIO": 0.745148598666,
-      "HOLD_NUM_CHANGE": "850000",
-      "CHANGE_RATIO": 31.4302618
-    },
-    {
-      "SECUCODE": "300486.SZ",
-      "SECURITY_CODE": "300486",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "谢怡",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3479469,
-      "FREE_HOLDNUM_RATIO": 0.72943997565,
-      "HOLD_NUM_CHANGE": "402700",
-      "CHANGE_RATIO": 13.0884054
-    },
-    {
-      "SECUCODE": "300486.SZ",
-      "SECURITY_CODE": "300486",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "王丽君",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3386500,
-      "FREE_HOLDNUM_RATIO": 0.709949845088,
-      "HOLD_NUM_CHANGE": "825100",
-      "CHANGE_RATIO": 32.21285235
-    },
-    {
-      "SECUCODE": "300486.SZ",
-      "SECURITY_CODE": "300486",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "孙翔",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3035422,
-      "FREE_HOLDNUM_RATIO": 0.636349440035,
+      "HOLD_NUM": 3035622,
+      "FREE_HOLDNUM_RATIO": 0.63639136827,
+      "HOLD_NUM_CHANGE": "200",
+      "CHANGE_RATIO": 0.00658887
+    },
+    {
+      "SECUCODE": "300486.SZ",
+      "SECURITY_CODE": "300486",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "李满起",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2980000,
+      "FREE_HOLDNUM_RATIO": 0.624730706737,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300486.SZ",
+      "SECURITY_CODE": "300486",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "梁燕生",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2640000,
+      "FREE_HOLDNUM_RATIO": 0.553452706639,
+      "HOLD_NUM_CHANGE": "-919320",
+      "CHANGE_RATIO": -25.82852904
+    },
+    {
+      "SECUCODE": "300486.SZ",
+      "SECURITY_CODE": "300486",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "杨燕灵",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2585100,
+      "FREE_HOLDNUM_RATIO": 0.541943406035,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300486.SZ",
+      "SECURITY_CODE": "300486",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "王丽君",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2540000,
+      "FREE_HOLDNUM_RATIO": 0.532488588963,
+      "HOLD_NUM_CHANGE": "-846500",
+      "CHANGE_RATIO": -24.99630887
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "300486.SZ",
       "SECURITY_CODE": "300486",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 175648525,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 172019844,
       "LIMITED_SHARES": 143409,
-      "OTHER_UNLIMITED_SHARES": 301357002,
-      "HOLD_NUM_RATIO": 36.81,
+      "OTHER_UNLIMITED_SHARES": 304985683,
+      "HOLD_NUM_RATIO": 36.05,
       "LIMITED_SHARES_RATIO": 0.03,
-      "UNLIMITED_SHARES_RATIO": 63.16
+      "UNLIMITED_SHARES_RATIO": 63.92
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300486.SZ",
       "SECURITY_CODE": "300486",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "天德永润(山东)控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +630,7 @@
     {
       "SECUCODE": "300486.SZ",
       "SECURITY_CODE": "300486",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "王志",
       "SHARES_TYPE": "流通A股",
@@ -654,31 +642,31 @@
     {
       "SECUCODE": "300486.SZ",
       "SECURITY_CODE": "300486",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "孙慧明",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 7414892,
       "HOLD_NUM_RATIO": 1.55,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300486.SZ",
       "SECURITY_CODE": "300486",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "李克刚",
+      "HOLDER_NAME": "郑益烽",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3997992,
-      "HOLD_NUM_RATIO": 0.84,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3603700,
+      "HOLD_NUM_RATIO": 0.76,
+      "HOLD_NUM_CHANGE": "49300",
+      "CHANGE_RATIO": 1.38701328
     },
     {
       "SECUCODE": "300486.SZ",
       "SECURITY_CODE": "300486",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "长安国际信托股份有限公司-长安信托-长安投资1153号(菁阳)证券投资单一资金信托",
       "SHARES_TYPE": "流通A股",
@@ -690,62 +678,62 @@
     {
       "SECUCODE": "300486.SZ",
       "SECURITY_CODE": "300486",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "梁燕生",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3559320,
-      "HOLD_NUM_RATIO": 0.75,
-      "HOLD_NUM_CHANGE": "-4600600",
-      "CHANGE_RATIO": -56.38045471
-    },
-    {
-      "SECUCODE": "300486.SZ",
-      "SECURITY_CODE": "300486",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "郑益烽",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3554400,
-      "HOLD_NUM_RATIO": 0.74,
-      "HOLD_NUM_CHANGE": "850000",
-      "CHANGE_RATIO": 31.4302618
-    },
-    {
-      "SECUCODE": "300486.SZ",
-      "SECURITY_CODE": "300486",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "谢怡",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3479469,
-      "HOLD_NUM_RATIO": 0.73,
-      "HOLD_NUM_CHANGE": "402700",
-      "CHANGE_RATIO": 13.0884054
-    },
-    {
-      "SECUCODE": "300486.SZ",
-      "SECURITY_CODE": "300486",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "王丽君",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3386500,
-      "HOLD_NUM_RATIO": 0.71,
-      "HOLD_NUM_CHANGE": "825100",
-      "CHANGE_RATIO": 32.21285235
-    },
-    {
-      "SECUCODE": "300486.SZ",
-      "SECURITY_CODE": "300486",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "孙翔",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3035422,
+      "HOLD_NUM": 3035622,
       "HOLD_NUM_RATIO": 0.64,
+      "HOLD_NUM_CHANGE": "200",
+      "CHANGE_RATIO": 0.00658887
+    },
+    {
+      "SECUCODE": "300486.SZ",
+      "SECURITY_CODE": "300486",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "李满起",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2980000,
+      "HOLD_NUM_RATIO": 0.62,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300486.SZ",
+      "SECURITY_CODE": "300486",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "梁燕生",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2640000,
+      "HOLD_NUM_RATIO": 0.55,
+      "HOLD_NUM_CHANGE": "-919320",
+      "CHANGE_RATIO": -25.82852904
+    },
+    {
+      "SECUCODE": "300486.SZ",
+      "SECURITY_CODE": "300486",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "杨燕灵",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2585100,
+      "HOLD_NUM_RATIO": 0.54,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300486.SZ",
+      "SECURITY_CODE": "300486",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "王丽君",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2540000,
+      "HOLD_NUM_RATIO": 0.53,
+      "HOLD_NUM_CHANGE": "-846500",
+      "CHANGE_RATIO": -24.99630887
     }
   ],
   "jgcc": [
@@ -754,10 +742,10 @@
       "SECURITY_CODE": "300486",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 1477728,
-      "TOTAL_SHARES_RATIO": 0.30979264,
-      "ALL_SHARES_RATIO": 0.30969953
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 139523938,
+      "TOTAL_SHARES_RATIO": 29.24996255,
+      "ALL_SHARES_RATIO": 29.24117136
     },
     {
       "SECUCODE": "300486.SZ",
@@ -768,6 +756,26 @@
       "TOTAL_FREE_SHARES": 1477728,
       "TOTAL_SHARES_RATIO": 0.30979264,
       "ALL_SHARES_RATIO": 0.30969953
+    },
+    {
+      "SECUCODE": "300486.SZ",
+      "SECURITY_CODE": "300486",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "06",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 3580627,
+      "TOTAL_SHARES_RATIO": 0.75064686,
+      "ALL_SHARES_RATIO": 0.75042125
+    },
+    {
+      "SECUCODE": "300486.SZ",
+      "SECURITY_CODE": "300486",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 134465583,
+      "TOTAL_SHARES_RATIO": 28.18952305,
+      "ALL_SHARES_RATIO": 28.18105058
     }
   ],
   "jjcg": [

@@ -81,8 +81,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 10.72,
       "AVG_HOLD_AMT": 206114.612423644,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 55.2036809,
+      "FREEHOLD_RATIO_TOTAL": 55.2036809
     },
     {
       "SECUCODE": "300918.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300918.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "300918.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300918.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "300918.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300918.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300918.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -326,6 +331,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "300918.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "300918.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -339,16 +348,16 @@
     {
       "SECUCODE": "300918.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "300918.SZ",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "300918.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "300918.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -362,10 +371,6 @@
     {
       "SECUCODE": "300918.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "300918.SZ",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "xsjj": [],
@@ -373,7 +378,7 @@
     {
       "SECUCODE": "300918.SZ",
       "SECURITY_CODE": "300918",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "南山集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -386,7 +391,7 @@
     {
       "SECUCODE": "300918.SZ",
       "SECURITY_CODE": "300918",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "烟台盛坤投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -399,7 +404,7 @@
     {
       "SECUCODE": "300918.SZ",
       "SECURITY_CODE": "300918",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "烟台南晟投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -412,34 +417,60 @@
     {
       "SECUCODE": "300918.SZ",
       "SECURITY_CODE": "300918",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "北京林亿资本管理有限公司-林亿小红花股票型私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4510500,
+      "FREE_HOLDNUM_RATIO": 0.891166409433,
+      "HOLD_NUM_CHANGE": "2852472",
+      "CHANGE_RATIO": 172.04003792
+    },
+    {
+      "SECUCODE": "300918.SZ",
+      "SECURITY_CODE": "300918",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "山东南山智尚科技股份有限公司-2025年员工持股计划",
       "HOLDER_TYPE": "员工持股计划",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 4299100,
       "FREE_HOLDNUM_RATIO": 0.849398849527,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300918.SZ",
       "SECURITY_CODE": "300918",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "利安人寿保险股份有限公司-利安金满堂两全保险",
-      "HOLDER_TYPE": "保险产品",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2184795,
-      "FREE_HOLDNUM_RATIO": 0.431662989801,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300918.SZ",
-      "SECURITY_CODE": "300918",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3587647,
+      "FREE_HOLDNUM_RATIO": 0.708832833456,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300918.SZ",
+      "SECURITY_CODE": "300918",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "汪宝友",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2914600,
+      "FREE_HOLDNUM_RATIO": 0.575854920061,
+      "HOLD_NUM_CHANGE": "835200",
+      "CHANGE_RATIO": 40.16543234
+    },
+    {
+      "SECUCODE": "300918.SZ",
+      "SECURITY_CODE": "300918",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "江西中文传媒蓝海国际投资有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -451,52 +482,26 @@
     {
       "SECUCODE": "300918.SZ",
       "SECURITY_CODE": "300918",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "汪宝友",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2079400,
-      "FREE_HOLDNUM_RATIO": 0.410839470519,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300918.SZ",
-      "SECURITY_CODE": "300918",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "财通基金-南昌产投投资基金管理有限公司-财通基金玉泉合富1278号单一资产管理计划",
       "HOLDER_TYPE": "基金资产管理计划",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 2000000,
       "FREE_HOLDNUM_RATIO": 0.395151938558,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300918.SZ",
       "SECURITY_CODE": "300918",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "北京林亿资本管理有限公司-林亿小红花股票型私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1658028,
-      "FREE_HOLDNUM_RATIO": 0.327586489192,
-      "HOLD_NUM_CHANGE": "-1366972",
-      "CHANGE_RATIO": -45.18915702
-    },
-    {
-      "SECUCODE": "300918.SZ",
-      "SECURITY_CODE": "300918",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "董易",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "高盛国际-自有资金",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1617885,
-      "FREE_HOLDNUM_RATIO": 0.319655197057,
+      "HOLD_NUM": 1762548,
+      "FREE_HOLDNUM_RATIO": 0.348237129501,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -505,20 +510,20 @@
     {
       "SECUCODE": "300918.SZ",
       "SECURITY_CODE": "300918",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 274169647,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 279404834,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 231964780,
-      "HOLD_NUM_RATIO": 54.17,
+      "OTHER_UNLIMITED_SHARES": 226729593,
+      "HOLD_NUM_RATIO": 55.2,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 45.83
+      "UNLIMITED_SHARES_RATIO": 44.8
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300918.SZ",
       "SECURITY_CODE": "300918",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "南山集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -530,7 +535,7 @@
     {
       "SECUCODE": "300918.SZ",
       "SECURITY_CODE": "300918",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "烟台盛坤投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -542,7 +547,7 @@
     {
       "SECUCODE": "300918.SZ",
       "SECURITY_CODE": "300918",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "烟台南晟投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -554,32 +559,56 @@
     {
       "SECUCODE": "300918.SZ",
       "SECURITY_CODE": "300918",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "北京林亿资本管理有限公司-林亿小红花股票型私募证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4510500,
+      "HOLD_NUM_RATIO": 0.89,
+      "HOLD_NUM_CHANGE": "2852472",
+      "CHANGE_RATIO": 172.04003792
+    },
+    {
+      "SECUCODE": "300918.SZ",
+      "SECURITY_CODE": "300918",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "山东南山智尚科技股份有限公司-2025年员工持股计划",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4299100,
       "HOLD_NUM_RATIO": 0.85,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300918.SZ",
       "SECURITY_CODE": "300918",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "利安人寿保险股份有限公司-利安金满堂两全保险",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2184795,
-      "HOLD_NUM_RATIO": 0.43,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300918.SZ",
-      "SECURITY_CODE": "300918",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3587647,
+      "HOLD_NUM_RATIO": 0.71,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300918.SZ",
+      "SECURITY_CODE": "300918",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "汪宝友",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2914600,
+      "HOLD_NUM_RATIO": 0.58,
+      "HOLD_NUM_CHANGE": "835200",
+      "CHANGE_RATIO": 40.16543234
+    },
+    {
+      "SECUCODE": "300918.SZ",
+      "SECURITY_CODE": "300918",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "江西中文传媒蓝海国际投资有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2142857,
@@ -590,48 +619,24 @@
     {
       "SECUCODE": "300918.SZ",
       "SECURITY_CODE": "300918",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "汪宝友",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2079400,
-      "HOLD_NUM_RATIO": 0.41,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300918.SZ",
-      "SECURITY_CODE": "300918",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "财通基金-南昌产投投资基金管理有限公司-财通基金玉泉合富1278号单一资产管理计划",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2000000,
       "HOLD_NUM_RATIO": 0.4,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300918.SZ",
       "SECURITY_CODE": "300918",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "北京林亿资本管理有限公司-林亿小红花股票型私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1658028,
-      "HOLD_NUM_RATIO": 0.33,
-      "HOLD_NUM_CHANGE": "-1366972",
-      "CHANGE_RATIO": -45.18915702
-    },
-    {
-      "SECUCODE": "300918.SZ",
-      "SECURITY_CODE": "300918",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "董易",
+      "HOLDER_NAME": "高盛国际-自有资金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1617885,
-      "HOLD_NUM_RATIO": 0.32,
+      "HOLD_NUM": 1762548,
+      "HOLD_NUM_RATIO": 0.35,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -640,17 +645,17 @@
     {
       "SECUCODE": "300918.SZ",
       "SECURITY_CODE": "300918",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 8,
-      "TOTAL_FREE_SHARES": 270472362,
-      "TOTAL_SHARES_RATIO": 53.43883909,
-      "ALL_SHARES_RATIO": 53.43883909
+      "TOTAL_ORG_NUM": 9,
+      "TOTAL_FREE_SHARES": 276490234,
+      "TOTAL_SHARES_RATIO": 54.62782598,
+      "ALL_SHARES_RATIO": 54.62782598
     },
     {
       "SECUCODE": "300918.SZ",
       "SECURITY_CODE": "300918",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "01",
       "TOTAL_ORG_NUM": 1,
       "TOTAL_FREE_SHARES": 2000000,
@@ -660,36 +665,36 @@
     {
       "SECUCODE": "300918.SZ",
       "SECURITY_CODE": "300918",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "ORG_TYPE": "05",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "02",
       "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 2184795,
-      "TOTAL_SHARES_RATIO": 0.43166299,
-      "ALL_SHARES_RATIO": 0.43166299
+      "TOTAL_FREE_SHARES": 1762548,
+      "TOTAL_SHARES_RATIO": 0.34823713,
+      "ALL_SHARES_RATIO": 0.34823713
     },
     {
       "SECUCODE": "300918.SZ",
       "SECURITY_CODE": "300918",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 266287567,
-      "TOTAL_SHARES_RATIO": 52.61202416,
-      "ALL_SHARES_RATIO": 52.61202416
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 272727686,
+      "TOTAL_SHARES_RATIO": 53.88443691,
+      "ALL_SHARES_RATIO": 53.88443691
     }
   ],
   "jjcg": [
     {
       "ORG_TYPE": "01",
       "SECUCODE": "300918.SZ",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "HOLDER_CODE": "70430422",
       "HOLDER_NAME": "财通基金-南昌产投投资基金管理有限公司-财通基金玉泉合富1278号单一资产管理计划",
       "TOTAL_SHARES": 2000000,
-      "HOLD_VALUE": 27080000,
+      "HOLD_VALUE": 21440000,
       "TOTALSHARES_RATIO": 0.39515194,
       "FREESHARES_RATIO": 0.39515194,
-      "FREE_MARKET_CAP": 27080000,
+      "FREE_MARKET_CAP": 21440000,
       "FREE_SHARES": 2000000,
       "SECURITY_CODE": "300918",
       "FUND_CODE": null,

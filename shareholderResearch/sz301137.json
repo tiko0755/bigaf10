@@ -81,8 +81,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 34.36,
       "AVG_HOLD_AMT": 248938.371149631,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 66.99882462,
+      "FREEHOLD_RATIO_TOTAL": 66.99882462
     },
     {
       "SECUCODE": "301137.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "301137.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "301137.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "301137.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "301137.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "301137.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "301137.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -351,6 +356,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "301137.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "301137.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -364,47 +373,9 @@
     {
       "SECUCODE": "301137.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "301137.SZ",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2026-02-26 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "常州恒通投资发展有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 41613764,
-      "HOLD_NUM_RATIO": 22.89,
-      "HOLD_CHANGE": "-1644602",
-      "CHANGE_RATIO": -3.80181258,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2026-02-24 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "常州恒通投资发展有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 43258366,
-      "HOLD_NUM_RATIO": 23.79,
-      "HOLD_CHANGE": "-2195000",
-      "CHANGE_RATIO": -4.82912531,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2026-02-09 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "常州恒通投资发展有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 45453366,
-      "HOLD_NUM_RATIO": 25,
-      "HOLD_CHANGE": "-1614800",
-      "CHANGE_RATIO": -3.4307689,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "301137.SZ",
@@ -432,20 +403,20 @@
     {
       "SECUCODE": "301137.SZ",
       "SECURITY_CODE": "301137",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "常州恒通投资发展有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 41613764,
       "FREE_HOLDNUM_RATIO": 22.888172158928,
-      "HOLD_NUM_CHANGE": "-5454402",
-      "CHANGE_RATIO": -11.58830365
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301137.SZ",
       "SECURITY_CODE": "301137",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中国机械总院集团哈尔滨焊接研究所有限公司",
       "HOLDER_TYPE": "其它",
@@ -458,7 +429,7 @@
     {
       "SECUCODE": "301137.SZ",
       "SECURITY_CODE": "301137",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中国机械科学研究总院集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -471,7 +442,7 @@
     {
       "SECUCODE": "301137.SZ",
       "SECURITY_CODE": "301137",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "常州协和股权投资中心(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -484,78 +455,78 @@
     {
       "SECUCODE": "301137.SZ",
       "SECURITY_CODE": "301137",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "周全法",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1654000,
       "FREE_HOLDNUM_RATIO": 0.909723925739,
-      "HOLD_NUM_CHANGE": "-10000",
-      "CHANGE_RATIO": -0.60096154
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301137.SZ",
       "SECURITY_CODE": "301137",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "李华斌",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "BARCLAYS BANK PLC",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1086500,
-      "FREE_HOLDNUM_RATIO": 0.597590716636,
+      "HOLD_NUM": 365193,
+      "FREE_HOLDNUM_RATIO": 0.200861432656,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301137.SZ",
       "SECURITY_CODE": "301137",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 340136,
-      "FREE_HOLDNUM_RATIO": 0.187079720197,
-      "HOLD_NUM_CHANGE": "-873368",
-      "CHANGE_RATIO": -71.97075576
-    },
-    {
-      "SECUCODE": "301137.SZ",
-      "SECURITY_CODE": "301137",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "中信证券资产管理(香港)有限公司-客户资金",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 291062,
-      "FREE_HOLDNUM_RATIO": 0.160088310323,
+      "HOLD_NUM": 348694,
+      "FREE_HOLDNUM_RATIO": 0.191786743991,
+      "HOLD_NUM_CHANGE": "57632",
+      "CHANGE_RATIO": 19.80059231
+    },
+    {
+      "SECUCODE": "301137.SZ",
+      "SECURITY_CODE": "301137",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "李军林",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 265000,
+      "FREE_HOLDNUM_RATIO": 0.145753833326,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301137.SZ",
       "SECURITY_CODE": "301137",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "吴卫平",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 253600,
-      "FREE_HOLDNUM_RATIO": 0.13948366842,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 264116,
+      "FREE_HOLDNUM_RATIO": 0.145267620538,
+      "HOLD_NUM_CHANGE": "-76020",
+      "CHANGE_RATIO": -22.34988358
     },
     {
       "SECUCODE": "301137.SZ",
       "SECURITY_CODE": "301137",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "秦志明",
+      "HOLDER_NAME": "卢少华",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 241000,
-      "FREE_HOLDNUM_RATIO": 0.132553486157,
+      "HOLD_NUM": 256508,
+      "FREE_HOLDNUM_RATIO": 0.141083110486,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -564,20 +535,20 @@
     {
       "SECUCODE": "301137.SZ",
       "SECURITY_CODE": "301137",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 122525628,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 121812841,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 59287772,
-      "HOLD_NUM_RATIO": 67.39,
+      "OTHER_UNLIMITED_SHARES": 60000559,
+      "HOLD_NUM_RATIO": 67,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 32.61
+      "UNLIMITED_SHARES_RATIO": 33
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "301137.SZ",
       "SECURITY_CODE": "301137",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "常州恒通投资发展有限公司",
       "SHARES_TYPE": "流通A股",
@@ -589,7 +560,7 @@
     {
       "SECUCODE": "301137.SZ",
       "SECURITY_CODE": "301137",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "中国机械总院集团哈尔滨焊接研究所有限公司",
       "SHARES_TYPE": "流通A股",
@@ -601,7 +572,7 @@
     {
       "SECUCODE": "301137.SZ",
       "SECURITY_CODE": "301137",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "中国机械科学研究总院集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -613,7 +584,7 @@
     {
       "SECUCODE": "301137.SZ",
       "SECURITY_CODE": "301137",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "常州协和股权投资中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -625,72 +596,72 @@
     {
       "SECUCODE": "301137.SZ",
       "SECURITY_CODE": "301137",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "周全法",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1654000,
       "HOLD_NUM_RATIO": 0.91,
-      "HOLD_NUM_CHANGE": "-10000",
-      "CHANGE_RATIO": -0.60096154
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301137.SZ",
       "SECURITY_CODE": "301137",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "李华斌",
+      "HOLDER_NAME": "BARCLAYS BANK PLC",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1086500,
-      "HOLD_NUM_RATIO": 0.6,
+      "HOLD_NUM": 365193,
+      "HOLD_NUM_RATIO": 0.2,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301137.SZ",
       "SECURITY_CODE": "301137",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 340136,
-      "HOLD_NUM_RATIO": 0.19,
-      "HOLD_NUM_CHANGE": "-873368",
-      "CHANGE_RATIO": -71.97075576
-    },
-    {
-      "SECUCODE": "301137.SZ",
-      "SECURITY_CODE": "301137",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "中信证券资产管理(香港)有限公司-客户资金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 291062,
-      "HOLD_NUM_RATIO": 0.16,
+      "HOLD_NUM": 348694,
+      "HOLD_NUM_RATIO": 0.19,
+      "HOLD_NUM_CHANGE": "57632",
+      "CHANGE_RATIO": 19.80059231
+    },
+    {
+      "SECUCODE": "301137.SZ",
+      "SECURITY_CODE": "301137",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "李军林",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 265000,
+      "HOLD_NUM_RATIO": 0.15,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "301137.SZ",
       "SECURITY_CODE": "301137",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "吴卫平",
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 253600,
-      "HOLD_NUM_RATIO": 0.14,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 264116,
+      "HOLD_NUM_RATIO": 0.15,
+      "HOLD_NUM_CHANGE": "-76020",
+      "CHANGE_RATIO": -22.34988358
     },
     {
       "SECUCODE": "301137.SZ",
       "SECURITY_CODE": "301137",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "秦志明",
+      "HOLDER_NAME": "卢少华",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 241000,
-      "HOLD_NUM_RATIO": 0.13,
+      "HOLD_NUM": 256508,
+      "HOLD_NUM_RATIO": 0.14,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -699,32 +670,32 @@
     {
       "SECUCODE": "301137.SZ",
       "SECURITY_CODE": "301137",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 119290528,
-      "TOTAL_SHARES_RATIO": 65.61151599,
-      "ALL_SHARES_RATIO": 65.61151599
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 119637333,
+      "TOTAL_SHARES_RATIO": 65.80226375,
+      "ALL_SHARES_RATIO": 65.80226375
     },
     {
       "SECUCODE": "301137.SZ",
       "SECURITY_CODE": "301137",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "02",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 291062,
-      "TOTAL_SHARES_RATIO": 0.16008831,
-      "ALL_SHARES_RATIO": 0.16008831
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 713887,
+      "TOTAL_SHARES_RATIO": 0.39264817,
+      "ALL_SHARES_RATIO": 0.39264817
     },
     {
       "SECUCODE": "301137.SZ",
       "SECURITY_CODE": "301137",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 118999466,
-      "TOTAL_SHARES_RATIO": 65.45142768,
-      "ALL_SHARES_RATIO": 65.45142768
+      "TOTAL_FREE_SHARES": 118923446,
+      "TOTAL_SHARES_RATIO": 65.40961558,
+      "ALL_SHARES_RATIO": 65.40961558
     }
   ],
   "jjcg": [

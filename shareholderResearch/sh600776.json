@@ -25,8 +25,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 13.086715329,
       "AVG_HOLD_AMT": 127312.347826019,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 45.99887154,
+      "FREEHOLD_RATIO_TOTAL": 45.99887154
     },
     {
       "SECUCODE": "600776.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600776.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "600776.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600776.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "600776.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600776.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600776.SH",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600776.SH",
       "END_DATE": "2014-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600776.SH",
-      "END_DATE": "2014-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -426,6 +426,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "600776.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "600776.SH",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -439,16 +443,16 @@
     {
       "SECUCODE": "600776.SH",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "600776.SH",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "600776.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "600776.SH",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -462,10 +466,6 @@
     {
       "SECUCODE": "600776.SH",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "600776.SH",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "xsjj": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600776.SH",
       "SECURITY_CODE": "600776",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中电科东方通信集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,21 +486,34 @@
     {
       "SECUCODE": "600776.SH",
       "SECURITY_CODE": "600776",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
+      "HOLDER_NAME": "中国工商银行股份有限公司-国泰中证全指通信设备交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10741143,
-      "FREE_HOLDNUM_RATIO": 0.85518650101,
-      "HOLD_NUM_CHANGE": "3475360",
-      "CHANGE_RATIO": 47.83187166
+      "HOLD_NUM": 9007417,
+      "FREE_HOLDNUM_RATIO": 0.717150998489,
+      "HOLD_NUM_CHANGE": "5472300",
+      "CHANGE_RATIO": 154.79827117
     },
     {
       "SECUCODE": "600776.SH",
       "SECURITY_CODE": "600776",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6193046,
+      "FREE_HOLDNUM_RATIO": 0.493076885703,
+      "HOLD_NUM_CHANGE": "-4548097",
+      "CHANGE_RATIO": -42.34276557
+    },
+    {
+      "SECUCODE": "600776.SH",
+      "SECURITY_CODE": "600776",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "NOMURA SINGAPORE LIMITED",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "B股",
@@ -512,91 +525,78 @@
     {
       "SECUCODE": "600776.SH",
       "SECURITY_CODE": "600776",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "高远雄",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4154676,
-      "FREE_HOLDNUM_RATIO": 0.330786288877,
-      "HOLD_NUM_CHANGE": "-1002600",
-      "CHANGE_RATIO": -19.44049533
+      "HOLD_NUM": 4060676,
+      "FREE_HOLDNUM_RATIO": 0.323302212825,
+      "HOLD_NUM_CHANGE": "-94000",
+      "CHANGE_RATIO": -2.26251096
     },
     {
       "SECUCODE": "600776.SH",
       "SECURITY_CODE": "600776",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国工商银行股份有限公司-国泰中证全指通信设备交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3535117,
-      "FREE_HOLDNUM_RATIO": 0.281458345531,
-      "HOLD_NUM_CHANGE": "83552",
-      "CHANGE_RATIO": 2.42069902
-    },
-    {
-      "SECUCODE": "600776.SH",
-      "SECURITY_CODE": "600776",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
-      "HOLDER_TYPE": "基金管理公司",
-      "SHARES_TYPE": "B股",
-      "HOLD_NUM": 2431059,
-      "FREE_HOLDNUM_RATIO": 0.193555643004,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600776.SH",
-      "SECURITY_CODE": "600776",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "周晓萍",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "B股",
-      "HOLD_NUM": 2248500,
-      "FREE_HOLDNUM_RATIO": 0.179020691515,
-      "HOLD_NUM_CHANGE": "-133800",
-      "CHANGE_RATIO": -5.61642111
+      "HOLD_NUM": 2240400,
+      "FREE_HOLDNUM_RATIO": 0.178375787089,
+      "HOLD_NUM_CHANGE": "-8100",
+      "CHANGE_RATIO": -0.36024016
     },
     {
       "SECUCODE": "600776.SH",
       "SECURITY_CODE": "600776",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "VANGUARDTOTALINTERNATIONAL STOCKINDEXFUND",
+      "HOLDER_TYPE": "基金管理公司",
+      "SHARES_TYPE": "B股",
+      "HOLD_NUM": 1929859,
+      "FREE_HOLDNUM_RATIO": 0.153651186438,
+      "HOLD_NUM_CHANGE": "-501200",
+      "CHANGE_RATIO": -20.61652967
+    },
+    {
+      "SECUCODE": "600776.SH",
+      "SECURITY_CODE": "600776",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "UBS AG",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1965464,
-      "FREE_HOLDNUM_RATIO": 0.156485979287,
+      "HOLDER_NAME": "朱南璋",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "B股",
+      "HOLD_NUM": 1570000,
+      "FREE_HOLDNUM_RATIO": 0.124999993631,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600776.SH",
       "SECURITY_CODE": "600776",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "招商银行股份有限公司-鹏华中证1000指数增强型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1933700,
-      "FREE_HOLDNUM_RATIO": 0.153956998524,
+      "HOLDER_NAME": "张大明",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "B股",
+      "HOLD_NUM": 1536700,
+      "FREE_HOLDNUM_RATIO": 0.12234871988,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600776.SH",
       "SECURITY_CODE": "600776",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1610921,
-      "FREE_HOLDNUM_RATIO": 0.128258034866,
+      "HOLDER_NAME": "张如冰",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "B股",
+      "HOLD_NUM": 1330000,
+      "FREE_HOLDNUM_RATIO": 0.105891714349,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,133 +605,133 @@
     {
       "SECUCODE": "600776.SH",
       "SECURITY_CODE": "600776",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 578498338,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 577745856,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 677501726,
-      "HOLD_NUM_RATIO": 46.06,
+      "OTHER_UNLIMITED_SHARES": 678254208,
+      "HOLD_NUM_RATIO": 46,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 53.94
+      "UNLIMITED_SHARES_RATIO": 54
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600776.SH",
       "SECURITY_CODE": "600776",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中电科东方通信集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 545615552,
-      "HOLD_NUM_RATIO": 43.44,
+      "HOLD_NUM_RATIO": 43.441,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600776.SH",
       "SECURITY_CODE": "600776",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_NAME": "中国工商银行股份有限公司-国泰中证全指通信设备交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10741143,
-      "HOLD_NUM_RATIO": 0.86,
-      "HOLD_NUM_CHANGE": "3475360",
-      "CHANGE_RATIO": 47.83187166
+      "HOLD_NUM": 9007417,
+      "HOLD_NUM_RATIO": 0.717,
+      "HOLD_NUM_CHANGE": "5472300",
+      "CHANGE_RATIO": 154.79827117
     },
     {
       "SECUCODE": "600776.SH",
       "SECURITY_CODE": "600776",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6193046,
+      "HOLD_NUM_RATIO": 0.493,
+      "HOLD_NUM_CHANGE": "-4548097",
+      "CHANGE_RATIO": -42.34276557
+    },
+    {
+      "SECUCODE": "600776.SH",
+      "SECURITY_CODE": "600776",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "NOMURA SINGAPORE LIMITED",
       "SHARES_TYPE": "流通B股",
       "HOLD_NUM": 4262206,
-      "HOLD_NUM_RATIO": 0.34,
+      "HOLD_NUM_RATIO": 0.339,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600776.SH",
       "SECURITY_CODE": "600776",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "高远雄",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4154676,
-      "HOLD_NUM_RATIO": 0.33,
-      "HOLD_NUM_CHANGE": "-1002600",
-      "CHANGE_RATIO": -19.44049533
+      "HOLD_NUM": 4060676,
+      "HOLD_NUM_RATIO": 0.323,
+      "HOLD_NUM_CHANGE": "-94000",
+      "CHANGE_RATIO": -2.26251096
     },
     {
       "SECUCODE": "600776.SH",
       "SECURITY_CODE": "600776",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国工商银行股份有限公司-国泰中证全指通信设备交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3535117,
-      "HOLD_NUM_RATIO": 0.28,
-      "HOLD_NUM_CHANGE": "83552",
-      "CHANGE_RATIO": 2.42069902
-    },
-    {
-      "SECUCODE": "600776.SH",
-      "SECURITY_CODE": "600776",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
-      "SHARES_TYPE": "流通B股",
-      "HOLD_NUM": 2431059,
-      "HOLD_NUM_RATIO": 0.19,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600776.SH",
-      "SECURITY_CODE": "600776",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "周晓萍",
       "SHARES_TYPE": "流通B股",
-      "HOLD_NUM": 2248500,
-      "HOLD_NUM_RATIO": 0.18,
-      "HOLD_NUM_CHANGE": "-133800",
-      "CHANGE_RATIO": -5.61642111
+      "HOLD_NUM": 2240400,
+      "HOLD_NUM_RATIO": 0.178,
+      "HOLD_NUM_CHANGE": "-8100",
+      "CHANGE_RATIO": -0.36024016
     },
     {
       "SECUCODE": "600776.SH",
       "SECURITY_CODE": "600776",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+      "SHARES_TYPE": "流通B股",
+      "HOLD_NUM": 1929859,
+      "HOLD_NUM_RATIO": 0.154,
+      "HOLD_NUM_CHANGE": "-501200",
+      "CHANGE_RATIO": -20.61652967
+    },
+    {
+      "SECUCODE": "600776.SH",
+      "SECURITY_CODE": "600776",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "UBS AG",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1965464,
-      "HOLD_NUM_RATIO": 0.16,
+      "HOLDER_NAME": "朱南璋",
+      "SHARES_TYPE": "流通B股",
+      "HOLD_NUM": 1570000,
+      "HOLD_NUM_RATIO": 0.125,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600776.SH",
       "SECURITY_CODE": "600776",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "招商银行股份有限公司-鹏华中证1000指数增强型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1933700,
-      "HOLD_NUM_RATIO": 0.15,
+      "HOLDER_NAME": "张大明",
+      "SHARES_TYPE": "流通B股",
+      "HOLD_NUM": 1536700,
+      "HOLD_NUM_RATIO": 0.122,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600776.SH",
       "SECURITY_CODE": "600776",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1610921,
-      "HOLD_NUM_RATIO": 0.13,
+      "HOLDER_NAME": "张如冰",
+      "SHARES_TYPE": "流通B股",
+      "HOLD_NUM": 1330000,
+      "HOLD_NUM_RATIO": 0.106,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -740,146 +740,51 @@
     {
       "SECUCODE": "600776.SH",
       "SECURITY_CODE": "600776",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 10,
-      "TOTAL_FREE_SHARES": 565591397,
-      "TOTAL_SHARES_RATIO": 59.16227606,
-      "ALL_SHARES_RATIO": 45.03115989
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 560816015,
+      "TOTAL_SHARES_RATIO": 58.66275915,
+      "ALL_SHARES_RATIO": 44.65095434
     },
     {
       "SECUCODE": "600776.SH",
       "SECURITY_CODE": "600776",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 5658317,
-      "TOTAL_SHARES_RATIO": 0.59187413,
-      "ALL_SHARES_RATIO": 0.45050293
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 9007417,
+      "TOTAL_SHARES_RATIO": 0.94219837,
+      "ALL_SHARES_RATIO": 0.717151
     },
     {
       "SECUCODE": "600776.SH",
       "SECURITY_CODE": "600776",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "ORG_TYPE": "02",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 3576385,
-      "TOTAL_SHARES_RATIO": 0.37409882,
-      "ALL_SHARES_RATIO": 0.28474401
-    },
-    {
-      "SECUCODE": "600776.SH",
-      "SECURITY_CODE": "600776",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 556356695,
-      "TOTAL_SHARES_RATIO": 58.19630311,
-      "ALL_SHARES_RATIO": 44.29591295
+      "TOTAL_FREE_SHARES": 551808598,
+      "TOTAL_SHARES_RATIO": 57.72056078,
+      "ALL_SHARES_RATIO": 43.93380334
     }
   ],
   "jjcg": [
     {
       "ORG_TYPE": "01",
       "SECUCODE": "600776.SH",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "HOLDER_CODE": "515880",
       "HOLDER_NAME": "国泰中证全指通信设备ETF",
-      "TOTAL_SHARES": 3535117,
-      "HOLD_VALUE": 53486320.21,
-      "TOTALSHARES_RATIO": 0.28145835,
-      "FREESHARES_RATIO": 0.36978209,
-      "FREE_MARKET_CAP": 53486320.21,
-      "FREE_SHARES": 3535117,
+      "TOTAL_SHARES": 9007417,
+      "HOLD_VALUE": 118357459.38,
+      "TOTALSHARES_RATIO": 0.717151,
+      "FREESHARES_RATIO": 0.94219837,
+      "FREE_MARKET_CAP": 118357459.38,
+      "FREE_SHARES": 9007417,
       "SECURITY_CODE": "600776",
       "FUND_CODE": "515880",
       "FUND_DERIVECODE": "515880.SH",
-      "NETVALUE_RATIO": 0.37
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "600776.SH",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "HOLDER_CODE": "016785",
-      "HOLDER_NAME": "鹏华中证1000指数增强A",
-      "TOTAL_SHARES": 1933700,
-      "HOLD_VALUE": 29256881,
-      "TOTALSHARES_RATIO": 0.153957,
-      "FREESHARES_RATIO": 0.20226986,
-      "FREE_MARKET_CAP": 29256881,
-      "FREE_SHARES": 1933700,
-      "SECURITY_CODE": "600776",
-      "FUND_CODE": "016785",
-      "FUND_DERIVECODE": "016785.OF",
-      "NETVALUE_RATIO": 0.8
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "600776.SH",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "HOLDER_CODE": "003760",
-      "HOLDER_NAME": "国泰中证500指数增强A",
-      "TOTAL_SHARES": 63500,
-      "HOLD_VALUE": 960755,
-      "TOTALSHARES_RATIO": 0.00505573,
-      "FREESHARES_RATIO": 0.00664226,
-      "FREE_MARKET_CAP": 960755,
-      "FREE_SHARES": 63500,
-      "SECURITY_CODE": "600776",
-      "FUND_CODE": "003760",
-      "FUND_DERIVECODE": "003760.OF",
-      "NETVALUE_RATIO": 0.91
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "600776.SH",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "HOLDER_CODE": "007903",
-      "HOLDER_NAME": "长城量化小盘股票A",
-      "TOTAL_SHARES": 52300,
-      "HOLD_VALUE": 791299,
-      "TOTALSHARES_RATIO": 0.00416401,
-      "FREESHARES_RATIO": 0.00547071,
-      "FREE_MARKET_CAP": 791299,
-      "FREE_SHARES": 52300,
-      "SECURITY_CODE": "600776",
-      "FUND_CODE": "007903",
-      "FUND_DERIVECODE": "007903.OF",
-      "NETVALUE_RATIO": 1.06
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "600776.SH",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "HOLDER_CODE": "000512",
-      "HOLDER_NAME": "国泰沪深300指数增强A",
-      "TOTAL_SHARES": 46900,
-      "HOLD_VALUE": 709597,
-      "TOTALSHARES_RATIO": 0.00373408,
-      "FREESHARES_RATIO": 0.00490586,
-      "FREE_MARKET_CAP": 709597,
-      "FREE_SHARES": 46900,
-      "SECURITY_CODE": "600776",
-      "FUND_CODE": "000512",
-      "FUND_DERIVECODE": "000512.OF",
-      "NETVALUE_RATIO": 0.91
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "600776.SH",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "HOLDER_CODE": "159677",
-      "HOLDER_NAME": "银华中证1000增强策略ETF",
-      "TOTAL_SHARES": 26800,
-      "HOLD_VALUE": 405484,
-      "TOTALSHARES_RATIO": 0.00213376,
-      "FREESHARES_RATIO": 0.00280335,
-      "FREE_MARKET_CAP": 405484,
-      "FREE_SHARES": 26800,
-      "SECURITY_CODE": "600776",
-      "FUND_CODE": "159677",
-      "FUND_DERIVECODE": "159677.SZ",
-      "NETVALUE_RATIO": 1.05
+      "NETVALUE_RATIO": 0.2
     }
   ]
 }

@@ -53,8 +53,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 9.12,
       "AVG_HOLD_AMT": 115659.671100213,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 57.47019666,
+      "FREEHOLD_RATIO_TOTAL": 32.17288045
     },
     {
       "SECUCODE": "300787.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300787.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "300787.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300787.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "300787.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300787.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300787.SZ",
       "END_DATE": "2026-06-10 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "300787.SZ",
       "END_DATE": "2020-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "300787.SZ",
-      "END_DATE": "2020-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "300787.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
     {
       "SECUCODE": "300787.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "300787.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "300787.SZ",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [
@@ -507,20 +507,20 @@
     {
       "SECUCODE": "300787.SZ",
       "SECURITY_CODE": "300787",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "周洪亮",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 38966784,
       "FREE_HOLDNUM_RATIO": 19.827128280918,
-      "HOLD_NUM_CHANGE": "5573807",
-      "CHANGE_RATIO": 16.69155463
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300787.SZ",
       "SECURITY_CODE": "300787",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "周洪军",
       "HOLDER_TYPE": "个人",
@@ -533,21 +533,47 @@
     {
       "SECUCODE": "300787.SZ",
       "SECURITY_CODE": "300787",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "代学荣",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2558000,
+      "FREE_HOLDNUM_RATIO": 1.301564792788,
+      "HOLD_NUM_CHANGE": "-230000",
+      "CHANGE_RATIO": -8.24964132
+    },
+    {
+      "SECUCODE": "300787.SZ",
+      "SECURITY_CODE": "300787",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "东台和盛投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 2257568,
       "FREE_HOLDNUM_RATIO": 1.148698602864,
-      "HOLD_NUM_CHANGE": "-1087600",
-      "CHANGE_RATIO": -32.51256738
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300787.SZ",
       "SECURITY_CODE": "300787",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "梁润权",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2230740,
+      "FREE_HOLDNUM_RATIO": 1.135047945999,
+      "HOLD_NUM_CHANGE": "-91300",
+      "CHANGE_RATIO": -3.93188748
+    },
+    {
+      "SECUCODE": "300787.SZ",
+      "SECURITY_CODE": "300787",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "建信信托有限责任公司-建信信托-安享财富家族信托102号",
       "HOLDER_TYPE": "信托计划",
       "SHARES_TYPE": "A股",
@@ -559,8 +585,8 @@
     {
       "SECUCODE": "300787.SZ",
       "SECURITY_CODE": "300787",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "建信信托有限责任公司-建信信托-安享财富家族信托103号",
       "HOLDER_TYPE": "信托计划",
       "SHARES_TYPE": "A股",
@@ -572,87 +598,61 @@
     {
       "SECUCODE": "300787.SZ",
       "SECURITY_CODE": "300787",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "代学荣",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1663800,
-      "FREE_HOLDNUM_RATIO": 0.846576818703,
-      "HOLD_NUM_CHANGE": "76100",
-      "CHANGE_RATIO": 4.79309693
-    },
-    {
-      "SECUCODE": "300787.SZ",
-      "SECURITY_CODE": "300787",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国工商银行股份有限公司-大成中证360互联网+大数据100指数型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1484400,
-      "FREE_HOLDNUM_RATIO": 0.755294283978,
-      "HOLD_NUM_CHANGE": "98100",
-      "CHANGE_RATIO": 7.07639039
-    },
-    {
-      "SECUCODE": "300787.SZ",
-      "SECURITY_CODE": "300787",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "高盛公司有限责任公司",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1364399,
-      "FREE_HOLDNUM_RATIO": 0.694235223501,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM": 1293828,
+      "FREE_HOLDNUM_RATIO": 0.658327198094,
+      "HOLD_NUM_CHANGE": "-70571",
+      "CHANGE_RATIO": -5.17231396
+    },
+    {
+      "SECUCODE": "300787.SZ",
+      "SECURITY_CODE": "300787",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "张鸾",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1284000,
+      "FREE_HOLDNUM_RATIO": 0.653326502713,
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300787.SZ",
       "SECURITY_CODE": "300787",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "钱凯",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1230000,
-      "FREE_HOLDNUM_RATIO": 0.625850154468,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300787.SZ",
-      "SECURITY_CODE": "300787",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "BARCLAYS BANK PLC",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1130465,
-      "FREE_HOLDNUM_RATIO": 0.575204629976,
-      "HOLD_NUM_CHANGE": "-377604",
-      "CHANGE_RATIO": -25.03890737
+      "HOLD_NUM": 1274700,
+      "FREE_HOLDNUM_RATIO": 0.64859446496,
+      "HOLD_NUM_CHANGE": "14700",
+      "CHANGE_RATIO": 1.16666667
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "300787.SZ",
       "SECURITY_CODE": "300787",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 61462016,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 63230220,
       "LIMITED_SHARES": 116900353,
-      "OTHER_UNLIMITED_SHARES": 135070651,
-      "HOLD_NUM_RATIO": 19.61,
+      "OTHER_UNLIMITED_SHARES": 133302447,
+      "HOLD_NUM_RATIO": 20.17,
       "LIMITED_SHARES_RATIO": 37.3,
-      "UNLIMITED_SHARES_RATIO": 43.09
+      "UNLIMITED_SHARES_RATIO": 42.53
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300787.SZ",
       "SECURITY_CODE": "300787",
-      "END_DATE": "2026-06-10 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "周洪亮",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -664,7 +664,7 @@
     {
       "SECUCODE": "300787.SZ",
       "SECURITY_CODE": "300787",
-      "END_DATE": "2026-06-10 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "周洪军",
       "SHARES_TYPE": "流通A股",
@@ -676,32 +676,20 @@
     {
       "SECUCODE": "300787.SZ",
       "SECURITY_CODE": "300787",
-      "END_DATE": "2026-06-10 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "代学荣",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2788000,
-      "HOLD_NUM_RATIO": 0.89,
-      "HOLD_NUM_CHANGE": "1124200",
-      "CHANGE_RATIO": 67.56821733
+      "HOLD_NUM": 2558000,
+      "HOLD_NUM_RATIO": 0.82,
+      "HOLD_NUM_CHANGE": "-230000",
+      "CHANGE_RATIO": -8.24964132
     },
     {
       "SECUCODE": "300787.SZ",
       "SECURITY_CODE": "300787",
-      "END_DATE": "2026-06-10 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "梁润权",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2322040,
-      "HOLD_NUM_RATIO": 0.74,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300787.SZ",
-      "SECURITY_CODE": "300787",
-      "END_DATE": "2026-06-10 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "东台和盛投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2257568,
@@ -712,7 +700,19 @@
     {
       "SECUCODE": "300787.SZ",
       "SECURITY_CODE": "300787",
-      "END_DATE": "2026-06-10 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "梁润权",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2230740,
+      "HOLD_NUM_RATIO": 0.71,
+      "HOLD_NUM_CHANGE": "-91300",
+      "CHANGE_RATIO": -3.93188748
+    },
+    {
+      "SECUCODE": "300787.SZ",
+      "SECURITY_CODE": "300787",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "建信信托有限责任公司-建信信托-安享财富家族信托102号",
       "SHARES_TYPE": "流通A股",
@@ -724,7 +724,7 @@
     {
       "SECUCODE": "300787.SZ",
       "SECURITY_CODE": "300787",
-      "END_DATE": "2026-06-10 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "建信信托有限责任公司-建信信托-安享财富家族信托103号",
       "SHARES_TYPE": "流通A股",
@@ -736,75 +736,65 @@
     {
       "SECUCODE": "300787.SZ",
       "SECURITY_CODE": "300787",
-      "END_DATE": "2026-06-10 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国工商银行股份有限公司-大成中证360互联网+大数据100指数型证券投资基金",
+      "HOLDER_NAME": "高盛公司有限责任公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1330300,
-      "HOLD_NUM_RATIO": 0.42,
-      "HOLD_NUM_CHANGE": "-154100",
-      "CHANGE_RATIO": -10.38129884
+      "HOLD_NUM": 1293828,
+      "HOLD_NUM_RATIO": 0.41,
+      "HOLD_NUM_CHANGE": "-70571",
+      "CHANGE_RATIO": -5.17231396
     },
     {
       "SECUCODE": "300787.SZ",
       "SECURITY_CODE": "300787",
-      "END_DATE": "2026-06-10 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "张鸾",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1284000,
       "HOLD_NUM_RATIO": 0.41,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300787.SZ",
       "SECURITY_CODE": "300787",
-      "END_DATE": "2026-06-10 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "钱凯",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1260000,
-      "HOLD_NUM_RATIO": 0.4,
-      "HOLD_NUM_CHANGE": "30000",
-      "CHANGE_RATIO": 2.43902439
+      "HOLD_NUM": 1274700,
+      "HOLD_NUM_RATIO": 0.41,
+      "HOLD_NUM_CHANGE": "14700",
+      "CHANGE_RATIO": 1.16666667
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "300787.SZ",
       "SECURITY_CODE": "300787",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 9980832,
-      "TOTAL_SHARES_RATIO": 5.07845955,
-      "ALL_SHARES_RATIO": 3.18435881
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 7295396,
+      "TOTAL_SHARES_RATIO": 3.71205262,
+      "ALL_SHARES_RATIO": 2.32757735
     },
     {
       "SECUCODE": "300787.SZ",
       "SECURITY_CODE": "300787",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 1484400,
-      "TOTAL_SHARES_RATIO": 0.75529428,
-      "ALL_SHARES_RATIO": 0.47359401
-    },
-    {
-      "SECUCODE": "300787.SZ",
-      "SECURITY_CODE": "300787",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "02",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 2494864,
-      "TOTAL_SHARES_RATIO": 1.26943985,
-      "ALL_SHARES_RATIO": 0.79597995
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 1293828,
+      "TOTAL_SHARES_RATIO": 0.6583272,
+      "ALL_SHARES_RATIO": 0.4127925
     },
     {
       "SECUCODE": "300787.SZ",
       "SECURITY_CODE": "300787",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "06",
       "TOTAL_ORG_NUM": 2,
       "TOTAL_FREE_SHARES": 3744000,
@@ -814,7 +804,7 @@
     {
       "SECUCODE": "300787.SZ",
       "SECURITY_CODE": "300787",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 1,
       "TOTAL_FREE_SHARES": 2257568,

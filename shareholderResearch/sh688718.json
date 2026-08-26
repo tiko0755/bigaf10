@@ -39,8 +39,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 15.97,
       "AVG_HOLD_AMT": 414096.044221758,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 73.91371334,
+      "FREEHOLD_RATIO_TOTAL": 73.91371334
     },
     {
       "SECUCODE": "688718.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "688718.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "688718.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "688718.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "688718.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "688718.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "688718.SH",
       "END_DATE": "2026-03-31 00:00:00",
@@ -355,41 +360,7 @@
       "REPORT_DATE": "2025-06-30 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2026-02-26 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "唯赛勃环保材料控股有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 100430070,
-      "HOLD_NUM_RATIO": 57.8,
-      "HOLD_CHANGE": "-161707",
-      "CHANGE_RATIO": -0.16075568,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2026-02-10 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "唯赛勃环保材料控股有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 100591777,
-      "HOLD_NUM_RATIO": 57.89,
-      "HOLD_CHANGE": "-2467173",
-      "CHANGE_RATIO": -2.39394347,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2026-01-27 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "唯赛勃环保材料控股有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 103058950,
-      "HOLD_NUM_RATIO": 59.31,
-      "HOLD_CHANGE": "-137000",
-      "CHANGE_RATIO": -0.13275715,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "688718.SH",
@@ -417,20 +388,20 @@
     {
       "SECUCODE": "688718.SH",
       "SECURITY_CODE": "688718",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "唯赛勃环保材料控股有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 100430070,
       "FREE_HOLDNUM_RATIO": 57.800019083259,
-      "HOLD_NUM_CHANGE": "-2765880",
-      "CHANGE_RATIO": -2.68022146
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688718.SH",
       "SECURITY_CODE": "688718",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "上海华加企业管理合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
@@ -443,20 +414,20 @@
     {
       "SECUCODE": "688718.SH",
       "SECURITY_CODE": "688718",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "吴海燕",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5504715,
-      "FREE_HOLDNUM_RATIO": 3.168101267358,
-      "HOLD_NUM_CHANGE": "326984",
-      "CHANGE_RATIO": 6.31519868
+      "HOLD_NUM": 5164405,
+      "FREE_HOLDNUM_RATIO": 2.972244344285,
+      "HOLD_NUM_CHANGE": "-340310",
+      "CHANGE_RATIO": -6.18215475
     },
     {
       "SECUCODE": "688718.SH",
       "SECURITY_CODE": "688718",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "杨永康",
       "HOLDER_TYPE": "个人",
@@ -469,7 +440,7 @@
     {
       "SECUCODE": "688718.SH",
       "SECURITY_CODE": "688718",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "姜蕾",
       "HOLDER_TYPE": "个人",
@@ -482,21 +453,34 @@
     {
       "SECUCODE": "688718.SH",
       "SECURITY_CODE": "688718",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "陈海燕",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1742710,
-      "FREE_HOLDNUM_RATIO": 1.002973225614,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 2390169,
+      "FREE_HOLDNUM_RATIO": 1.37560208623,
+      "HOLD_NUM_CHANGE": "647459",
+      "CHANGE_RATIO": 37.15242352
+    },
+    {
+      "SECUCODE": "688718.SH",
+      "SECURITY_CODE": "688718",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1809534,
+      "FREE_HOLDNUM_RATIO": 1.041432110242,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688718.SH",
       "SECURITY_CODE": "688718",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "上海卓银私募基金管理合伙企业(有限合伙)-古骓卓银一号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
@@ -508,40 +492,27 @@
     {
       "SECUCODE": "688718.SH",
       "SECURITY_CODE": "688718",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "基本养老保险基金八零五组合",
-      "HOLDER_TYPE": "基本养老基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1014237,
-      "FREE_HOLDNUM_RATIO": 0.583718780192,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688718.SH",
-      "SECURITY_CODE": "688718",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "上海静日企业管理合伙企业(有限合伙)",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 800000,
-      "FREE_HOLDNUM_RATIO": 0.460420024268,
-      "HOLD_NUM_CHANGE": "-191217",
-      "CHANGE_RATIO": -19.29113403
-    },
-    {
-      "SECUCODE": "688718.SH",
-      "SECURITY_CODE": "688718",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "尹贵军",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 720770,
-      "FREE_HOLDNUM_RATIO": 0.414821176114,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 857546,
+      "FREE_HOLDNUM_RATIO": 0.493539187663,
+      "HOLD_NUM_CHANGE": "136776",
+      "CHANGE_RATIO": 18.97637249
+    },
+    {
+      "SECUCODE": "688718.SH",
+      "SECURITY_CODE": "688718",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "UBS AG",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 758134,
+      "FREE_HOLDNUM_RATIO": 0.436325093348,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -549,20 +520,20 @@
     {
       "SECUCODE": "688718.SH",
       "SECURITY_CODE": "688718",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 127230965,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 128428321,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 46523424,
-      "HOLD_NUM_RATIO": 73.22,
+      "OTHER_UNLIMITED_SHARES": 45326068,
+      "HOLD_NUM_RATIO": 73.91,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 26.78
+      "UNLIMITED_SHARES_RATIO": 26.09
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "688718.SH",
       "SECURITY_CODE": "688718",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "唯赛勃环保材料控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -574,7 +545,7 @@
     {
       "SECUCODE": "688718.SH",
       "SECURITY_CODE": "688718",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "上海华加企业管理合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -586,19 +557,19 @@
     {
       "SECUCODE": "688718.SH",
       "SECURITY_CODE": "688718",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "吴海燕",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5504715,
-      "HOLD_NUM_RATIO": 3.17,
-      "HOLD_NUM_CHANGE": "326984",
-      "CHANGE_RATIO": 6.31519868
+      "HOLD_NUM": 5164405,
+      "HOLD_NUM_RATIO": 2.97,
+      "HOLD_NUM_CHANGE": "-340310",
+      "CHANGE_RATIO": -6.18215475
     },
     {
       "SECUCODE": "688718.SH",
       "SECURITY_CODE": "688718",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "杨永康",
       "SHARES_TYPE": "流通A股",
@@ -610,7 +581,7 @@
     {
       "SECUCODE": "688718.SH",
       "SECURITY_CODE": "688718",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "姜蕾",
       "SHARES_TYPE": "流通A股",
@@ -622,20 +593,32 @@
     {
       "SECUCODE": "688718.SH",
       "SECURITY_CODE": "688718",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "陈海燕",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1742710,
-      "HOLD_NUM_RATIO": 1,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 2390169,
+      "HOLD_NUM_RATIO": 1.38,
+      "HOLD_NUM_CHANGE": "647459",
+      "CHANGE_RATIO": 37.15242352
+    },
+    {
+      "SECUCODE": "688718.SH",
+      "SECURITY_CODE": "688718",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1809534,
+      "HOLD_NUM_RATIO": 1.04,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "688718.SH",
       "SECURITY_CODE": "688718",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "上海卓银私募基金管理合伙企业(有限合伙)-古骓卓银一号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1212000,
@@ -646,37 +629,25 @@
     {
       "SECUCODE": "688718.SH",
       "SECURITY_CODE": "688718",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "基本养老保险基金八零五组合",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1014237,
-      "HOLD_NUM_RATIO": 0.58,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688718.SH",
-      "SECURITY_CODE": "688718",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "上海静日企业管理合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 800000,
-      "HOLD_NUM_RATIO": 0.46,
-      "HOLD_NUM_CHANGE": "-191217",
-      "CHANGE_RATIO": -19.29113403
-    },
-    {
-      "SECUCODE": "688718.SH",
-      "SECURITY_CODE": "688718",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "尹贵军",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 720770,
-      "HOLD_NUM_RATIO": 0.41,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 857546,
+      "HOLD_NUM_RATIO": 0.49,
+      "HOLD_NUM_CHANGE": "136776",
+      "CHANGE_RATIO": 18.97637249
+    },
+    {
+      "SECUCODE": "688718.SH",
+      "SECURITY_CODE": "688718",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "UBS AG",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 758134,
+      "HOLD_NUM_RATIO": 0.44,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -686,10 +657,10 @@
       "SECURITY_CODE": "688718",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 3500,
-      "TOTAL_SHARES_RATIO": 0.00201434,
-      "ALL_SHARES_RATIO": 0.00201434
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 113979698,
+      "TOTAL_SHARES_RATIO": 65.59816915,
+      "ALL_SHARES_RATIO": 65.59816915
     },
     {
       "SECUCODE": "688718.SH",
@@ -700,6 +671,26 @@
       "TOTAL_FREE_SHARES": 3500,
       "TOTAL_SHARES_RATIO": 0.00201434,
       "ALL_SHARES_RATIO": 0.00201434
+    },
+    {
+      "SECUCODE": "688718.SH",
+      "SECURITY_CODE": "688718",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 2567668,
+      "TOTAL_SHARES_RATIO": 1.4777572,
+      "ALL_SHARES_RATIO": 1.4777572
+    },
+    {
+      "SECUCODE": "688718.SH",
+      "SECURITY_CODE": "688718",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 111408530,
+      "TOTAL_SHARES_RATIO": 64.11839761,
+      "ALL_SHARES_RATIO": 64.11839761
     }
   ],
   "jjcg": [

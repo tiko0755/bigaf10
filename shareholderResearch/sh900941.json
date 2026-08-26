@@ -25,8 +25,8 @@
       "HOLD_FOCUS": null,
       "PRICE": 0.46986382816,
       "AVG_HOLD_AMT": 4571.0069805684,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 45.99887154,
+      "FREEHOLD_RATIO_TOTAL": 45.99887154
     },
     {
       "SECUCODE": "900941.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "900941.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "900941.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "900941.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "900941.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "900941.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "900941.SH",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "900941.SH",
       "END_DATE": "2014-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "900941.SH",
-      "END_DATE": "2014-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "900941.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
     {
       "SECUCODE": "900941.SH",
       "REPORT_DATE": "2026-03-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "900941.SH",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "900941.SH",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -452,7 +452,7 @@
     {
       "SECUCODE": "900941.SH",
       "SECURITY_CODE": "900941",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中电科东方通信集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -465,21 +465,34 @@
     {
       "SECUCODE": "900941.SH",
       "SECURITY_CODE": "900941",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
+      "HOLDER_NAME": "中国工商银行股份有限公司-国泰中证全指通信设备交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10741143,
-      "FREE_HOLDNUM_RATIO": 0.85518650101,
-      "HOLD_NUM_CHANGE": "3475360",
-      "CHANGE_RATIO": 47.83187166
+      "HOLD_NUM": 9007417,
+      "FREE_HOLDNUM_RATIO": 0.717150998489,
+      "HOLD_NUM_CHANGE": "5472300",
+      "CHANGE_RATIO": 154.79827117
     },
     {
       "SECUCODE": "900941.SH",
       "SECURITY_CODE": "900941",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6193046,
+      "FREE_HOLDNUM_RATIO": 0.493076885703,
+      "HOLD_NUM_CHANGE": "-4548097",
+      "CHANGE_RATIO": -42.34276557
+    },
+    {
+      "SECUCODE": "900941.SH",
+      "SECURITY_CODE": "900941",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "NOMURA SINGAPORE LIMITED",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "B股",
@@ -491,91 +504,78 @@
     {
       "SECUCODE": "900941.SH",
       "SECURITY_CODE": "900941",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "高远雄",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4154676,
-      "FREE_HOLDNUM_RATIO": 0.330786288877,
-      "HOLD_NUM_CHANGE": "-1002600",
-      "CHANGE_RATIO": -19.44049533
+      "HOLD_NUM": 4060676,
+      "FREE_HOLDNUM_RATIO": 0.323302212825,
+      "HOLD_NUM_CHANGE": "-94000",
+      "CHANGE_RATIO": -2.26251096
     },
     {
       "SECUCODE": "900941.SH",
       "SECURITY_CODE": "900941",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国工商银行股份有限公司-国泰中证全指通信设备交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3535117,
-      "FREE_HOLDNUM_RATIO": 0.281458345531,
-      "HOLD_NUM_CHANGE": "83552",
-      "CHANGE_RATIO": 2.42069902
-    },
-    {
-      "SECUCODE": "900941.SH",
-      "SECURITY_CODE": "900941",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
-      "HOLDER_TYPE": "基金管理公司",
-      "SHARES_TYPE": "B股",
-      "HOLD_NUM": 2431059,
-      "FREE_HOLDNUM_RATIO": 0.193555643004,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "900941.SH",
-      "SECURITY_CODE": "900941",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "周晓萍",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "B股",
-      "HOLD_NUM": 2248500,
-      "FREE_HOLDNUM_RATIO": 0.179020691515,
-      "HOLD_NUM_CHANGE": "-133800",
-      "CHANGE_RATIO": -5.61642111
+      "HOLD_NUM": 2240400,
+      "FREE_HOLDNUM_RATIO": 0.178375787089,
+      "HOLD_NUM_CHANGE": "-8100",
+      "CHANGE_RATIO": -0.36024016
     },
     {
       "SECUCODE": "900941.SH",
       "SECURITY_CODE": "900941",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "VANGUARDTOTALINTERNATIONAL STOCKINDEXFUND",
+      "HOLDER_TYPE": "基金管理公司",
+      "SHARES_TYPE": "B股",
+      "HOLD_NUM": 1929859,
+      "FREE_HOLDNUM_RATIO": 0.153651186438,
+      "HOLD_NUM_CHANGE": "-501200",
+      "CHANGE_RATIO": -20.61652967
+    },
+    {
+      "SECUCODE": "900941.SH",
+      "SECURITY_CODE": "900941",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "UBS AG",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1965464,
-      "FREE_HOLDNUM_RATIO": 0.156485979287,
+      "HOLDER_NAME": "朱南璋",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "B股",
+      "HOLD_NUM": 1570000,
+      "FREE_HOLDNUM_RATIO": 0.124999993631,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "900941.SH",
       "SECURITY_CODE": "900941",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "招商银行股份有限公司-鹏华中证1000指数增强型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1933700,
-      "FREE_HOLDNUM_RATIO": 0.153956998524,
+      "HOLDER_NAME": "张大明",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "B股",
+      "HOLD_NUM": 1536700,
+      "FREE_HOLDNUM_RATIO": 0.12234871988,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "900941.SH",
       "SECURITY_CODE": "900941",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1610921,
-      "FREE_HOLDNUM_RATIO": 0.128258034866,
+      "HOLDER_NAME": "张如冰",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "B股",
+      "HOLD_NUM": 1330000,
+      "FREE_HOLDNUM_RATIO": 0.105891714349,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -584,133 +584,133 @@
     {
       "SECUCODE": "900941.SH",
       "SECURITY_CODE": "900941",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 578498338,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 577745856,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 677501726,
-      "HOLD_NUM_RATIO": 46.06,
+      "OTHER_UNLIMITED_SHARES": 678254208,
+      "HOLD_NUM_RATIO": 46,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 53.94
+      "UNLIMITED_SHARES_RATIO": 54
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "900941.SH",
       "SECURITY_CODE": "900941",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中电科东方通信集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 545615552,
-      "HOLD_NUM_RATIO": 43.44,
+      "HOLD_NUM_RATIO": 43.441,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "900941.SH",
       "SECURITY_CODE": "900941",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_NAME": "中国工商银行股份有限公司-国泰中证全指通信设备交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10741143,
-      "HOLD_NUM_RATIO": 0.86,
-      "HOLD_NUM_CHANGE": "3475360",
-      "CHANGE_RATIO": 47.83187166
+      "HOLD_NUM": 9007417,
+      "HOLD_NUM_RATIO": 0.717,
+      "HOLD_NUM_CHANGE": "5472300",
+      "CHANGE_RATIO": 154.79827117
     },
     {
       "SECUCODE": "900941.SH",
       "SECURITY_CODE": "900941",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6193046,
+      "HOLD_NUM_RATIO": 0.493,
+      "HOLD_NUM_CHANGE": "-4548097",
+      "CHANGE_RATIO": -42.34276557
+    },
+    {
+      "SECUCODE": "900941.SH",
+      "SECURITY_CODE": "900941",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "NOMURA SINGAPORE LIMITED",
       "SHARES_TYPE": "流通B股",
       "HOLD_NUM": 4262206,
-      "HOLD_NUM_RATIO": 0.34,
+      "HOLD_NUM_RATIO": 0.339,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "900941.SH",
       "SECURITY_CODE": "900941",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "高远雄",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4154676,
-      "HOLD_NUM_RATIO": 0.33,
-      "HOLD_NUM_CHANGE": "-1002600",
-      "CHANGE_RATIO": -19.44049533
+      "HOLD_NUM": 4060676,
+      "HOLD_NUM_RATIO": 0.323,
+      "HOLD_NUM_CHANGE": "-94000",
+      "CHANGE_RATIO": -2.26251096
     },
     {
       "SECUCODE": "900941.SH",
       "SECURITY_CODE": "900941",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国工商银行股份有限公司-国泰中证全指通信设备交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3535117,
-      "HOLD_NUM_RATIO": 0.28,
-      "HOLD_NUM_CHANGE": "83552",
-      "CHANGE_RATIO": 2.42069902
-    },
-    {
-      "SECUCODE": "900941.SH",
-      "SECURITY_CODE": "900941",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
-      "SHARES_TYPE": "流通B股",
-      "HOLD_NUM": 2431059,
-      "HOLD_NUM_RATIO": 0.19,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "900941.SH",
-      "SECURITY_CODE": "900941",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "周晓萍",
       "SHARES_TYPE": "流通B股",
-      "HOLD_NUM": 2248500,
-      "HOLD_NUM_RATIO": 0.18,
-      "HOLD_NUM_CHANGE": "-133800",
-      "CHANGE_RATIO": -5.61642111
+      "HOLD_NUM": 2240400,
+      "HOLD_NUM_RATIO": 0.178,
+      "HOLD_NUM_CHANGE": "-8100",
+      "CHANGE_RATIO": -0.36024016
     },
     {
       "SECUCODE": "900941.SH",
       "SECURITY_CODE": "900941",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+      "SHARES_TYPE": "流通B股",
+      "HOLD_NUM": 1929859,
+      "HOLD_NUM_RATIO": 0.154,
+      "HOLD_NUM_CHANGE": "-501200",
+      "CHANGE_RATIO": -20.61652967
+    },
+    {
+      "SECUCODE": "900941.SH",
+      "SECURITY_CODE": "900941",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "UBS AG",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1965464,
-      "HOLD_NUM_RATIO": 0.16,
+      "HOLDER_NAME": "朱南璋",
+      "SHARES_TYPE": "流通B股",
+      "HOLD_NUM": 1570000,
+      "HOLD_NUM_RATIO": 0.125,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "900941.SH",
       "SECURITY_CODE": "900941",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "招商银行股份有限公司-鹏华中证1000指数增强型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1933700,
-      "HOLD_NUM_RATIO": 0.15,
+      "HOLDER_NAME": "张大明",
+      "SHARES_TYPE": "流通B股",
+      "HOLD_NUM": 1536700,
+      "HOLD_NUM_RATIO": 0.122,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "900941.SH",
       "SECURITY_CODE": "900941",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1610921,
-      "HOLD_NUM_RATIO": 0.13,
+      "HOLDER_NAME": "张如冰",
+      "SHARES_TYPE": "流通B股",
+      "HOLD_NUM": 1330000,
+      "HOLD_NUM_RATIO": 0.106,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -719,17 +719,17 @@
     {
       "SECUCODE": "900941.SH",
       "SECURITY_CODE": "900941",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
       "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 6693265,
-      "TOTAL_SHARES_RATIO": 2.23108833,
-      "ALL_SHARES_RATIO": 0.53290323
+      "TOTAL_FREE_SHARES": 6192065,
+      "TOTAL_SHARES_RATIO": 2.06402166,
+      "ALL_SHARES_RATIO": 0.49299878
     },
     {
       "SECUCODE": "900941.SH",
       "SECURITY_CODE": "900941",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "02",
       "TOTAL_ORG_NUM": 1,
       "TOTAL_FREE_SHARES": 4262206,
@@ -739,12 +739,12 @@
     {
       "SECUCODE": "900941.SH",
       "SECURITY_CODE": "900941",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 2431059,
-      "TOTAL_SHARES_RATIO": 0.810353,
-      "ALL_SHARES_RATIO": 0.19355564
+      "TOTAL_FREE_SHARES": 1929859,
+      "TOTAL_SHARES_RATIO": 0.64328633,
+      "ALL_SHARES_RATIO": 0.15365119
     }
   ]
 }

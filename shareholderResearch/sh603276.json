@@ -53,8 +53,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 15.31,
       "AVG_HOLD_AMT": 89434.2452451927,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 69.45721183,
+      "FREEHOLD_RATIO_TOTAL": 24.12837823
     },
     {
       "SECUCODE": "603276.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603276.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "603276.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603276.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "603276.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603276.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603276.SH",
       "END_DATE": "2026-03-31 00:00:00",
@@ -296,6 +301,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "603276.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "603276.SH",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -309,10 +318,6 @@
     {
       "SECUCODE": "603276.SH",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "603276.SH",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -398,7 +403,7 @@
     {
       "SECUCODE": "603276.SH",
       "SECURITY_CODE": "603276",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海金浦创新股权投资管理有限公司-上海金浦创拓启元私募基金合伙企业(有限合伙)",
       "HOLDER_TYPE": "私募基金",
@@ -411,21 +416,8 @@
     {
       "SECUCODE": "603276.SH",
       "SECURITY_CODE": "603276",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "江苏兆信私募基金管理有限公司-兆信瞭望13号私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4107100,
-      "FREE_HOLDNUM_RATIO": 5.429631938351,
-      "HOLD_NUM_CHANGE": "-239600",
-      "CHANGE_RATIO": -5.51222767
-    },
-    {
-      "SECUCODE": "603276.SH",
-      "SECURITY_CODE": "603276",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "上海三川投资管理有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -437,60 +429,34 @@
     {
       "SECUCODE": "603276.SH",
       "SECURITY_CODE": "603276",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "江苏兆信私募基金管理有限公司-兆信瞭望13号私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2387800,
+      "FREE_HOLDNUM_RATIO": 3.15669819152,
+      "HOLD_NUM_CHANGE": "-1719300",
+      "CHANGE_RATIO": -41.86165421
+    },
+    {
+      "SECUCODE": "603276.SH",
+      "SECURITY_CODE": "603276",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "徐国新",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3510336,
-      "FREE_HOLDNUM_RATIO": 4.640703284542,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603276.SH",
-      "SECURITY_CODE": "603276",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "陈海华",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1996300,
-      "FREE_HOLDNUM_RATIO": 2.639130831616,
-      "HOLD_NUM_CHANGE": "366600",
-      "CHANGE_RATIO": 22.49493772
-    },
-    {
-      "SECUCODE": "603276.SH",
-      "SECURITY_CODE": "603276",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
       "HOLDER_NAME": "江苏兆信私募基金管理有限公司-兆信集合1号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1321850,
-      "FREE_HOLDNUM_RATIO": 1.747500420664,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1263850,
+      "FREE_HOLDNUM_RATIO": 1.670823774752,
+      "HOLD_NUM_CHANGE": "-58000",
+      "CHANGE_RATIO": -4.38778984
     },
     {
       "SECUCODE": "603276.SH",
       "SECURITY_CODE": "603276",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "单孟川",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 900958,
-      "FREE_HOLDNUM_RATIO": 1.191076509438,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603276.SH",
-      "SECURITY_CODE": "603276",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "国泰海通证券资管-招商银行-国泰君安君享恒兴科技1号战略配售集合资产管理计划",
       "HOLDER_TYPE": "集合理财计划",
       "SHARES_TYPE": "A股",
@@ -502,26 +468,65 @@
     {
       "SECUCODE": "603276.SH",
       "SECURITY_CODE": "603276",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "封珂",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 706600,
+      "FREE_HOLDNUM_RATIO": 0.934133068988,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603276.SH",
+      "SECURITY_CODE": "603276",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "江苏兆信私募基金管理有限公司-兆信复合多策略1号私募证券投资基金",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 775450,
-      "FREE_HOLDNUM_RATIO": 1.025153535729,
+      "HOLD_NUM": 641000,
+      "FREE_HOLDNUM_RATIO": 0.847409138439,
+      "HOLD_NUM_CHANGE": "-134450",
+      "CHANGE_RATIO": -17.33831969
+    },
+    {
+      "SECUCODE": "603276.SH",
+      "SECURITY_CODE": "603276",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "江苏兆信私募基金管理有限公司-兆信飞翔5号私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 638000,
+      "FREE_HOLDNUM_RATIO": 0.84344310503,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603276.SH",
       "SECURITY_CODE": "603276",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "封珂",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "沃九华",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 706600,
-      "FREE_HOLDNUM_RATIO": 0.934133068988,
+      "HOLD_NUM": 602860,
+      "FREE_HOLDNUM_RATIO": 0.796987633696,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603276.SH",
+      "SECURITY_CODE": "603276",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "高盛公司有限责任公司",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 578213,
+      "FREE_HOLDNUM_RATIO": 0.764404025217,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -530,20 +535,20 @@
     {
       "SECUCODE": "603276.SH",
       "SECURITY_CODE": "603276",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 24751538,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 18251267,
       "LIMITED_SHARES": 132007169,
-      "OTHER_UNLIMITED_SHARES": 50890790,
-      "HOLD_NUM_RATIO": 11.92,
+      "OTHER_UNLIMITED_SHARES": 57391061,
+      "HOLD_NUM_RATIO": 8.79,
       "LIMITED_SHARES_RATIO": 63.57,
-      "UNLIMITED_SHARES_RATIO": 24.51
+      "UNLIMITED_SHARES_RATIO": 27.64
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603276.SH",
       "SECURITY_CODE": "603276",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "宜兴市中港投资有限公司",
       "SHARES_TYPE": "限售流通A股",
@@ -555,7 +560,7 @@
     {
       "SECUCODE": "603276.SH",
       "SECURITY_CODE": "603276",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "宜兴港兴企业管理有限公司",
       "SHARES_TYPE": "限售流通A股",
@@ -567,7 +572,7 @@
     {
       "SECUCODE": "603276.SH",
       "SECURITY_CODE": "603276",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "张千",
       "SHARES_TYPE": "限售流通A股",
@@ -579,7 +584,7 @@
     {
       "SECUCODE": "603276.SH",
       "SECURITY_CODE": "603276",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "宜兴市千叶企业管理有限公司",
       "SHARES_TYPE": "限售流通A股",
@@ -591,7 +596,7 @@
     {
       "SECUCODE": "603276.SH",
       "SECURITY_CODE": "603276",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "上海金浦创新股权投资管理有限公司-上海金浦创拓启元私募基金合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -603,20 +608,8 @@
     {
       "SECUCODE": "603276.SH",
       "SECURITY_CODE": "603276",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "江苏兆信私募基金管理有限公司-兆信瞭望13号私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4107100,
-      "HOLD_NUM_RATIO": 1.98,
-      "HOLD_NUM_CHANGE": "-239600",
-      "CHANGE_RATIO": -5.51222767
-    },
-    {
-      "SECUCODE": "603276.SH",
-      "SECURITY_CODE": "603276",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "上海三川投资管理有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4086001,
@@ -627,8 +620,8 @@
     {
       "SECUCODE": "603276.SH",
       "SECURITY_CODE": "603276",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "王恒秀",
       "SHARES_TYPE": "限售流通A股",
       "HOLD_NUM": 3900000,
@@ -639,24 +632,36 @@
     {
       "SECUCODE": "603276.SH",
       "SECURITY_CODE": "603276",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "徐国新",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3510336,
-      "HOLD_NUM_RATIO": 1.69,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "张翼",
+      "SHARES_TYPE": "限售流通A股",
+      "HOLD_NUM": 2470000,
+      "HOLD_NUM_RATIO": 1.19,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603276.SH",
       "SECURITY_CODE": "603276",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "江苏兆信私募基金管理有限公司-兆信瞭望13号私募证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2387800,
+      "HOLD_NUM_RATIO": 1.15,
+      "HOLD_NUM_CHANGE": "-1719300",
+      "CHANGE_RATIO": -41.86165421
+    },
+    {
+      "SECUCODE": "603276.SH",
+      "SECURITY_CODE": "603276",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "张翼",
-      "SHARES_TYPE": "限售流通A股",
-      "HOLD_NUM": 2470000,
-      "HOLD_NUM_RATIO": 1.19,
+      "HOLDER_NAME": "江苏兆信私募基金管理有限公司-兆信集合1号私募证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1263850,
+      "HOLD_NUM_RATIO": 0.61,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -665,27 +670,27 @@
     {
       "SECUCODE": "603276.SH",
       "SECURITY_CODE": "603276",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 7,
-      "TOTAL_FREE_SHARES": 17662444,
-      "TOTAL_SHARES_RATIO": 23.34994767,
-      "ALL_SHARES_RATIO": 8.50589299
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 16941807,
+      "TOTAL_SHARES_RATIO": 22.39725753,
+      "ALL_SHARES_RATIO": 8.15884809
     },
     {
       "SECUCODE": "603276.SH",
       "SECURITY_CODE": "603276",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "ORG_TYPE": "01",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "02",
       "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 25100,
-      "TOTAL_SHARES_RATIO": 0.03318248,
-      "ALL_SHARES_RATIO": 0.01208768
+      "TOTAL_FREE_SHARES": 578213,
+      "TOTAL_SHARES_RATIO": 0.76440403,
+      "ALL_SHARES_RATIO": 0.27845625
     },
     {
       "SECUCODE": "603276.SH",
       "SECURITY_CODE": "603276",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "04",
       "TOTAL_ORG_NUM": 1,
       "TOTAL_FREE_SHARES": 857043,
@@ -695,12 +700,12 @@
     {
       "SECUCODE": "603276.SH",
       "SECURITY_CODE": "603276",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 16780301,
-      "TOTAL_SHARES_RATIO": 22.1837448,
-      "ALL_SHARES_RATIO": 8.0810699
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 15506551,
+      "TOTAL_SHARES_RATIO": 20.49983311,
+      "ALL_SHARES_RATIO": 7.46765643
     }
   ],
   "jjcg": [

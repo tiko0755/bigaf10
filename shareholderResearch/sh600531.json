@@ -53,8 +53,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 14.5235697444,
       "AVG_HOLD_AMT": 117064.335977553,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 36.13046592,
+      "FREEHOLD_RATIO_TOTAL": 36.13046592
     },
     {
       "SECUCODE": "600531.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600531.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "600531.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600531.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "600531.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600531.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600531.SH",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600531.SH",
       "END_DATE": "2015-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600531.SH",
-      "END_DATE": "2014-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600531.SH",
       "SECURITY_CODE": "600531",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "河南豫光集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600531.SH",
       "SECURITY_CODE": "600531",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "河南愚公集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,47 +499,73 @@
     {
       "SECUCODE": "600531.SH",
       "SECURITY_CODE": "600531",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 39094696,
-      "FREE_HOLDNUM_RATIO": 3.232936570743,
-      "HOLD_NUM_CHANGE": "17456812",
-      "CHANGE_RATIO": 80.67707545
+      "HOLD_NUM": 14740880,
+      "FREE_HOLDNUM_RATIO": 1.218997329892,
+      "HOLD_NUM_CHANGE": "-24353816",
+      "CHANGE_RATIO": -62.2944248
     },
     {
       "SECUCODE": "600531.SH",
       "SECURITY_CODE": "600531",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "济源投资集团有限公司",
-      "HOLDER_TYPE": "投资公司",
+      "HOLDER_NAME": "中信证券股份有限公司-前海开源金银珠宝主题精选灵活配置混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12135001,
-      "FREE_HOLDNUM_RATIO": 1.003504120326,
-      "HOLD_NUM_CHANGE": "-8504999",
-      "CHANGE_RATIO": -41.2063905
+      "HOLD_NUM": 10069906,
+      "FREE_HOLDNUM_RATIO": 0.832731053116,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600531.SH",
       "SECURITY_CODE": "600531",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国农业银行股份有限公司-永赢中证沪深港黄金产业股票交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10149547,
-      "FREE_HOLDNUM_RATIO": 0.839316967007,
-      "HOLD_NUM_CHANGE": "-878700",
-      "CHANGE_RATIO": -7.96772143
+      "HOLD_NUM": 7782888,
+      "FREE_HOLDNUM_RATIO": 0.643606059533,
+      "HOLD_NUM_CHANGE": "-2366659",
+      "CHANGE_RATIO": -23.31787813
     },
     {
       "SECUCODE": "600531.SH",
       "SECURITY_CODE": "600531",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "蒋跃",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6151800,
+      "FREE_HOLDNUM_RATIO": 0.508723208793,
+      "HOLD_NUM_CHANGE": "1428300",
+      "CHANGE_RATIO": 30.23817085
+    },
+    {
+      "SECUCODE": "600531.SH",
+      "SECURITY_CODE": "600531",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "济源投资集团有限公司",
+      "HOLDER_TYPE": "投资公司",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5951000,
+      "FREE_HOLDNUM_RATIO": 0.492118049274,
+      "HOLD_NUM_CHANGE": "-6184001",
+      "CHANGE_RATIO": -50.960037
+    },
+    {
+      "SECUCODE": "600531.SH",
+      "SECURITY_CODE": "600531",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "李荣国",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -551,52 +577,26 @@
     {
       "SECUCODE": "600531.SH",
       "SECURITY_CODE": "600531",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "刘文涛",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5072400,
-      "FREE_HOLDNUM_RATIO": 0.419462206879,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 5080800,
+      "FREE_HOLDNUM_RATIO": 0.420156845027,
+      "HOLD_NUM_CHANGE": "8400",
+      "CHANGE_RATIO": 0.16560208
     },
     {
       "SECUCODE": "600531.SH",
       "SECURITY_CODE": "600531",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国工商银行股份有限公司-华夏中证沪深港黄金产业股票交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4981000,
-      "FREE_HOLDNUM_RATIO": 0.411903882278,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600531.SH",
-      "SECURITY_CODE": "600531",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "蒋跃",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4723500,
-      "FREE_HOLDNUM_RATIO": 0.390609915266,
-      "HOLD_NUM_CHANGE": "1005781",
-      "CHANGE_RATIO": 27.05371224
-    },
-    {
-      "SECUCODE": "600531.SH",
-      "SECURITY_CODE": "600531",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "UBS AG",
+      "HOLDER_NAME": "高盛国际-自有资金",
       "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3811119,
-      "FREE_HOLDNUM_RATIO": 0.315160552484,
+      "HOLD_NUM": 4123017,
+      "FREE_HOLDNUM_RATIO": 0.340952963059,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "600531.SH",
       "SECURITY_CODE": "600531",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 462979219,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 436912247,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 746283479,
-      "HOLD_NUM_RATIO": 38.29,
+      "OTHER_UNLIMITED_SHARES": 772350451,
+      "HOLD_NUM_RATIO": 36.13,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 61.71
+      "UNLIMITED_SHARES_RATIO": 63.87
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600531.SH",
       "SECURITY_CODE": "600531",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "河南豫光集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600531.SH",
       "SECURITY_CODE": "600531",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "河南愚公集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,44 +642,68 @@
     {
       "SECUCODE": "600531.SH",
       "SECURITY_CODE": "600531",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 39094696,
-      "HOLD_NUM_RATIO": 3.23,
-      "HOLD_NUM_CHANGE": "17456812",
-      "CHANGE_RATIO": 80.67707545
+      "HOLD_NUM": 14740880,
+      "HOLD_NUM_RATIO": 1.22,
+      "HOLD_NUM_CHANGE": "-24353816",
+      "CHANGE_RATIO": -62.2944248
     },
     {
       "SECUCODE": "600531.SH",
       "SECURITY_CODE": "600531",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "济源投资集团有限公司",
+      "HOLDER_NAME": "中信证券股份有限公司-前海开源金银珠宝主题精选灵活配置混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 12135001,
-      "HOLD_NUM_RATIO": 1,
-      "HOLD_NUM_CHANGE": "-8504999",
-      "CHANGE_RATIO": -41.2063905
+      "HOLD_NUM": 10069906,
+      "HOLD_NUM_RATIO": 0.83,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600531.SH",
       "SECURITY_CODE": "600531",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国农业银行股份有限公司-永赢中证沪深港黄金产业股票交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10149547,
-      "HOLD_NUM_RATIO": 0.84,
-      "HOLD_NUM_CHANGE": "-878700",
-      "CHANGE_RATIO": -7.96772143
+      "HOLD_NUM": 7782888,
+      "HOLD_NUM_RATIO": 0.64,
+      "HOLD_NUM_CHANGE": "-2366659",
+      "CHANGE_RATIO": -23.31787813
     },
     {
       "SECUCODE": "600531.SH",
       "SECURITY_CODE": "600531",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
+      "HOLDER_NAME": "蒋跃",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6151800,
+      "HOLD_NUM_RATIO": 0.51,
+      "HOLD_NUM_CHANGE": "1428300",
+      "CHANGE_RATIO": 30.23817085
+    },
+    {
+      "SECUCODE": "600531.SH",
+      "SECURITY_CODE": "600531",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "济源投资集团有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5951000,
+      "HOLD_NUM_RATIO": 0.49,
+      "HOLD_NUM_CHANGE": "-6184001",
+      "CHANGE_RATIO": -50.960037
+    },
+    {
+      "SECUCODE": "600531.SH",
+      "SECURITY_CODE": "600531",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "李荣国",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 5700087,
@@ -690,48 +714,24 @@
     {
       "SECUCODE": "600531.SH",
       "SECURITY_CODE": "600531",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "刘文涛",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5072400,
+      "HOLD_NUM": 5080800,
       "HOLD_NUM_RATIO": 0.42,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM_CHANGE": "8400",
+      "CHANGE_RATIO": 0.16560208
     },
     {
       "SECUCODE": "600531.SH",
       "SECURITY_CODE": "600531",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国工商银行股份有限公司-华夏中证沪深港黄金产业股票交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4981000,
-      "HOLD_NUM_RATIO": 0.41,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600531.SH",
-      "SECURITY_CODE": "600531",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "蒋跃",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4723500,
-      "HOLD_NUM_RATIO": 0.39,
-      "HOLD_NUM_CHANGE": "1005781",
-      "CHANGE_RATIO": 27.05371224
-    },
-    {
-      "SECUCODE": "600531.SH",
-      "SECURITY_CODE": "600531",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "UBS AG",
+      "HOLDER_NAME": "高盛国际-自有资金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3811119,
-      "HOLD_NUM_RATIO": 0.32,
+      "HOLD_NUM": 4123017,
+      "HOLD_NUM_RATIO": 0.34,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,23 +742,77 @@
       "SECURITY_CODE": "600531",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 857800,
-      "TOTAL_SHARES_RATIO": 0.07093579,
-      "ALL_SHARES_RATIO": 0.07093579
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 420837360,
+      "TOTAL_SHARES_RATIO": 34.80115286,
+      "ALL_SHARES_RATIO": 34.80115286
     },
     {
       "SECUCODE": "600531.SH",
       "SECURITY_CODE": "600531",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "01",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 18710594,
+      "TOTAL_SHARES_RATIO": 1.5472729,
+      "ALL_SHARES_RATIO": 1.5472729
+    },
+    {
+      "SECUCODE": "600531.SH",
+      "SECURITY_CODE": "600531",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "02",
       "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 857800,
-      "TOTAL_SHARES_RATIO": 0.07093579,
-      "ALL_SHARES_RATIO": 0.07093579
+      "TOTAL_FREE_SHARES": 4123017,
+      "TOTAL_SHARES_RATIO": 0.34095296,
+      "ALL_SHARES_RATIO": 0.34095296
+    },
+    {
+      "SECUCODE": "600531.SH",
+      "SECURITY_CODE": "600531",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 398003749,
+      "TOTAL_SHARES_RATIO": 32.912927,
+      "ALL_SHARES_RATIO": 32.912927
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600531.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "001302",
+      "HOLDER_NAME": "前海开源金银珠宝混合A",
+      "TOTAL_SHARES": 10069906,
+      "HOLD_VALUE": 148631812.56,
+      "TOTALSHARES_RATIO": 0.83273105,
+      "FREESHARES_RATIO": 0.83273105,
+      "FREE_MARKET_CAP": 148631812.56,
+      "FREE_SHARES": 10069906,
+      "SECURITY_CODE": "600531",
+      "FUND_CODE": "001302",
+      "FUND_DERIVECODE": "001302.OF",
+      "NETVALUE_RATIO": 11.4
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600531.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "517520",
+      "HOLDER_NAME": "永赢中证沪深港黄金产业股票ETF",
+      "TOTAL_SHARES": 7782888,
+      "HOLD_VALUE": 114875426.88,
+      "TOTALSHARES_RATIO": 0.64360606,
+      "FREESHARES_RATIO": 0.64360606,
+      "FREE_MARKET_CAP": 114875426.88,
+      "FREE_SHARES": 7782888,
+      "SECURITY_CODE": "600531",
+      "FUND_CODE": "517520",
+      "FUND_DERIVECODE": "517520.SH",
+      "NETVALUE_RATIO": 1.53
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "600531.SH",

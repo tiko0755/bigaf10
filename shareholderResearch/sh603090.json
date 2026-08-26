@@ -53,8 +53,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 51.06,
       "AVG_HOLD_AMT": 272698.141422773,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 57.818091,
+      "FREEHOLD_RATIO_TOTAL": 57.818091
     },
     {
       "SECUCODE": "603090.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603090.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "603090.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603090.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "603090.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603090.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603090.SH",
       "END_DATE": "2026-03-31 00:00:00",
@@ -401,6 +406,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "603090.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "603090.SH",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -414,10 +423,6 @@
     {
       "SECUCODE": "603090.SH",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "603090.SH",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -448,7 +453,7 @@
     {
       "SECUCODE": "603090.SH",
       "SECURITY_CODE": "603090",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "钮玉霞",
       "HOLDER_TYPE": "个人",
@@ -461,21 +466,8 @@
     {
       "SECUCODE": "603090.SH",
       "SECURITY_CODE": "603090",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "平安养老保险股份有限公司-传统-普通保险产品",
-      "HOLDER_TYPE": "保险产品",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2834308,
-      "FREE_HOLDNUM_RATIO": 2.834308,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603090.SH",
-      "SECURITY_CODE": "603090",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "钮法清",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -487,113 +479,126 @@
     {
       "SECUCODE": "603090.SH",
       "SECURITY_CODE": "603090",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "中科招商投资管理集团股份有限公司-常州市中科江南股权投资中心(有限合伙)",
-      "HOLDER_TYPE": "私募基金",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "平安养老保险股份有限公司-传统-普通保险产品",
+      "HOLDER_TYPE": "保险产品",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1859400,
-      "FREE_HOLDNUM_RATIO": 1.8594,
+      "HOLD_NUM": 2581108,
+      "FREE_HOLDNUM_RATIO": 2.581108,
+      "HOLD_NUM_CHANGE": "-253200",
+      "CHANGE_RATIO": -8.9333975
+    },
+    {
+      "SECUCODE": "603090.SH",
+      "SECURITY_CODE": "603090",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "倪海霞",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1000000,
+      "FREE_HOLDNUM_RATIO": 1,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603090.SH",
       "SECURITY_CODE": "603090",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "上海姚泾河私募基金管理有限公司-姚泾河瑞恒私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1316700,
-      "FREE_HOLDNUM_RATIO": 1.3167,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603090.SH",
-      "SECURITY_CODE": "603090",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "平安基金-中国平安人寿保险股份有限公司-寿险传统-低-平安基金-平安人寿混合配置4号MOM单一资产管理计划",
-      "HOLDER_TYPE": "其他理财产品",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1260700,
-      "FREE_HOLDNUM_RATIO": 1.2607,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603090.SH",
-      "SECURITY_CODE": "603090",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "上海姚泾河私募基金管理有限公司-姚泾河中市桥私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1127900,
-      "FREE_HOLDNUM_RATIO": 1.1279,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603090.SH",
-      "SECURITY_CODE": "603090",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "倪海霞",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1000000,
-      "FREE_HOLDNUM_RATIO": 1,
-      "HOLD_NUM_CHANGE": "-1000000",
-      "CHANGE_RATIO": -50
-    },
-    {
-      "SECUCODE": "603090.SH",
-      "SECURITY_CODE": "603090",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "CITIGROUP GLOBAL MARKETS LIMITED",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 847623,
-      "FREE_HOLDNUM_RATIO": 0.847623,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603090.SH",
-      "SECURITY_CODE": "603090",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "吕鹏",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 810500,
-      "FREE_HOLDNUM_RATIO": 0.8105,
+      "HOLD_NUM": 952700,
+      "FREE_HOLDNUM_RATIO": 0.9527,
+      "HOLD_NUM_CHANGE": "142200",
+      "CHANGE_RATIO": 17.54472548
+    },
+    {
+      "SECUCODE": "603090.SH",
+      "SECURITY_CODE": "603090",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "CITIGROUP GLOBALMARKETS LIMITED",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 872383,
+      "FREE_HOLDNUM_RATIO": 0.872383,
+      "HOLD_NUM_CHANGE": "24760",
+      "CHANGE_RATIO": 2.92110997
+    },
+    {
+      "SECUCODE": "603090.SH",
+      "SECURITY_CODE": "603090",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "平安养老保险股份有限公司-万能保险二零二三",
+      "HOLDER_TYPE": "保险产品",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 641600,
+      "FREE_HOLDNUM_RATIO": 0.6416,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603090.SH",
+      "SECURITY_CODE": "603090",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "平安养老保险股份有限公司-分红-团险分红",
+      "HOLDER_TYPE": "保险产品",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 602000,
+      "FREE_HOLDNUM_RATIO": 0.602,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603090.SH",
+      "SECURITY_CODE": "603090",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "胡景",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 426100,
+      "FREE_HOLDNUM_RATIO": 0.4261,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603090.SH",
+      "SECURITY_CODE": "603090",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "上海姚泾河私募基金管理有限公司-姚泾河中市桥私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 423500,
+      "FREE_HOLDNUM_RATIO": 0.4235,
+      "HOLD_NUM_CHANGE": "-704400",
+      "CHANGE_RATIO": -62.45234507
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "603090.SH",
       "SECURITY_CODE": "603090",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 61375831,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 57818091,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 38624169,
-      "HOLD_NUM_RATIO": 61.38,
+      "OTHER_UNLIMITED_SHARES": 42181909,
+      "HOLD_NUM_RATIO": 57.82,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 38.62
+      "UNLIMITED_SHARES_RATIO": 42.18
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603090.SH",
       "SECURITY_CODE": "603090",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "钮玉霞",
       "SHARES_TYPE": "流通A股",
@@ -605,20 +610,8 @@
     {
       "SECUCODE": "603090.SH",
       "SECURITY_CODE": "603090",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "平安养老保险股份有限公司-传统-普通保险产品",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2834308,
-      "HOLD_NUM_RATIO": 2.83,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603090.SH",
-      "SECURITY_CODE": "603090",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "钮法清",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2643700,
@@ -629,128 +622,140 @@
     {
       "SECUCODE": "603090.SH",
       "SECURITY_CODE": "603090",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "中科招商投资管理集团股份有限公司-常州市中科江南股权投资中心(有限合伙)",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "平安养老保险股份有限公司-传统-普通保险产品",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1859400,
-      "HOLD_NUM_RATIO": 1.86,
+      "HOLD_NUM": 2581108,
+      "HOLD_NUM_RATIO": 2.58,
+      "HOLD_NUM_CHANGE": "-253200",
+      "CHANGE_RATIO": -8.9333975
+    },
+    {
+      "SECUCODE": "603090.SH",
+      "SECURITY_CODE": "603090",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "倪海霞",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1000000,
+      "HOLD_NUM_RATIO": 1,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603090.SH",
       "SECURITY_CODE": "603090",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
-      "HOLDER_NAME": "上海姚泾河私募基金管理有限公司-姚泾河瑞恒私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1316700,
-      "HOLD_NUM_RATIO": 1.32,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603090.SH",
-      "SECURITY_CODE": "603090",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "平安基金-中国平安人寿保险股份有限公司-寿险传统-低-平安基金-平安人寿混合配置4号MOM单一资产管理计划",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1260700,
-      "HOLD_NUM_RATIO": 1.26,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603090.SH",
-      "SECURITY_CODE": "603090",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "上海姚泾河私募基金管理有限公司-姚泾河中市桥私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1127900,
-      "HOLD_NUM_RATIO": 1.13,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603090.SH",
-      "SECURITY_CODE": "603090",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "倪海霞",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1000000,
-      "HOLD_NUM_RATIO": 1,
-      "HOLD_NUM_CHANGE": "-1000000",
-      "CHANGE_RATIO": -50
-    },
-    {
-      "SECUCODE": "603090.SH",
-      "SECURITY_CODE": "603090",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "CITIGROUP GLOBAL MARKETS LIMITED",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 847623,
-      "HOLD_NUM_RATIO": 0.85,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603090.SH",
-      "SECURITY_CODE": "603090",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "吕鹏",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 810500,
-      "HOLD_NUM_RATIO": 0.81,
+      "HOLD_NUM": 952700,
+      "HOLD_NUM_RATIO": 0.95,
+      "HOLD_NUM_CHANGE": "142200",
+      "CHANGE_RATIO": 17.54472548
+    },
+    {
+      "SECUCODE": "603090.SH",
+      "SECURITY_CODE": "603090",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "CITIGRO UP GLOBAL MARKET S LIMITED",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 872383,
+      "HOLD_NUM_RATIO": 0.87,
+      "HOLD_NUM_CHANGE": "24760",
+      "CHANGE_RATIO": 2.92110997
+    },
+    {
+      "SECUCODE": "603090.SH",
+      "SECURITY_CODE": "603090",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "平安养老保险股份有限公司-万能保险二零二三",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 641600,
+      "HOLD_NUM_RATIO": 0.64,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603090.SH",
+      "SECURITY_CODE": "603090",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "平安养老保险股份有限公司-分红-团险分红",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 602000,
+      "HOLD_NUM_RATIO": 0.6,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603090.SH",
+      "SECURITY_CODE": "603090",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "胡景",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 426100,
+      "HOLD_NUM_RATIO": 0.43,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603090.SH",
+      "SECURITY_CODE": "603090",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "上海姚泾河私募基金管理有限公司-姚泾河中市桥私募证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 423500,
+      "HOLD_NUM_RATIO": 0.42,
+      "HOLD_NUM_CHANGE": "-704400",
+      "CHANGE_RATIO": -62.45234507
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "603090.SH",
       "SECURITY_CODE": "603090",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 9246631,
-      "TOTAL_SHARES_RATIO": 9.246631,
-      "ALL_SHARES_RATIO": 9.246631
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 5120591,
+      "TOTAL_SHARES_RATIO": 5.120591,
+      "ALL_SHARES_RATIO": 5.120591
     },
     {
       "SECUCODE": "603090.SH",
       "SECURITY_CODE": "603090",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "02",
       "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 847623,
-      "TOTAL_SHARES_RATIO": 0.847623,
-      "ALL_SHARES_RATIO": 0.847623
+      "TOTAL_FREE_SHARES": 872383,
+      "TOTAL_SHARES_RATIO": 0.872383,
+      "ALL_SHARES_RATIO": 0.872383
     },
     {
       "SECUCODE": "603090.SH",
       "SECURITY_CODE": "603090",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "05",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 2834308,
-      "TOTAL_SHARES_RATIO": 2.834308,
-      "ALL_SHARES_RATIO": 2.834308
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 3824708,
+      "TOTAL_SHARES_RATIO": 3.824708,
+      "ALL_SHARES_RATIO": 3.824708
     },
     {
       "SECUCODE": "603090.SH",
       "SECURITY_CODE": "603090",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 5564700,
-      "TOTAL_SHARES_RATIO": 5.5647,
-      "ALL_SHARES_RATIO": 5.5647
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 423500,
+      "TOTAL_SHARES_RATIO": 0.4235,
+      "ALL_SHARES_RATIO": 0.4235
     }
   ],
   "jjcg": [

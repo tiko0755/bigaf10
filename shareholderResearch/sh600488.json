@@ -67,8 +67,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 4.7902141791,
       "AVG_HOLD_AMT": 62070.5044384552,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 59.5715647,
+      "FREEHOLD_RATIO_TOTAL": 59.5715647
     },
     {
       "SECUCODE": "600488.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600488.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "600488.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600488.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "600488.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600488.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600488.SH",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600488.SH",
       "END_DATE": "2014-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600488.SH",
-      "END_DATE": "2014-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "600488.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
     {
       "SECUCODE": "600488.SH",
       "REPORT_DATE": "2026-03-31 00:00:00"
@@ -439,10 +443,6 @@
     {
       "SECUCODE": "600488.SH",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "600488.SH",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600488.SH",
       "SECURITY_CODE": "600488",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "天津药业集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "600488.SH",
       "SECURITY_CODE": "600488",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "津沪深生物医药科技有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,60 +499,34 @@
     {
       "SECUCODE": "600488.SH",
       "SECURITY_CODE": "600488",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "袁建良",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6010000,
-      "FREE_HOLDNUM_RATIO": 0.550423419397,
-      "HOLD_NUM_CHANGE": "2590000",
-      "CHANGE_RATIO": 75.73099415
-    },
-    {
-      "SECUCODE": "600488.SH",
-      "SECURITY_CODE": "600488",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "钟东明",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4228700,
-      "FREE_HOLDNUM_RATIO": 0.387283779302,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600488.SH",
-      "SECURITY_CODE": "600488",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3919832,
-      "FREE_HOLDNUM_RATIO": 0.358996228436,
-      "HOLD_NUM_CHANGE": "-6688037",
-      "CHANGE_RATIO": -63.04788455
+      "HOLD_NUM": 14056667,
+      "FREE_HOLDNUM_RATIO": 1.287374162308,
+      "HOLD_NUM_CHANGE": "10136835",
+      "CHANGE_RATIO": 258.60381261
     },
     {
       "SECUCODE": "600488.SH",
       "SECURITY_CODE": "600488",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "纪翔",
-      "HOLDER_TYPE": "个人",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "BARCLAYS BANK PLC",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3814900,
-      "FREE_HOLDNUM_RATIO": 0.349386073654,
+      "HOLD_NUM": 4021950,
+      "FREE_HOLDNUM_RATIO": 0.368348664167,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600488.SH",
       "SECURITY_CODE": "600488",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "天津宜药印务有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -564,39 +538,65 @@
     {
       "SECUCODE": "600488.SH",
       "SECURITY_CODE": "600488",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "上海喜岳投资管理有限公司-星辰之喜岳2号增强私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "袁建良",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3417003,
-      "FREE_HOLDNUM_RATIO": 0.312944837829,
+      "HOLD_NUM": 3740000,
+      "FREE_HOLDNUM_RATIO": 0.342526387445,
+      "HOLD_NUM_CHANGE": "-2270000",
+      "CHANGE_RATIO": -37.7703827
+    },
+    {
+      "SECUCODE": "600488.SH",
+      "SECURITY_CODE": "600488",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "钟东明",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3740000,
+      "FREE_HOLDNUM_RATIO": 0.342526387445,
+      "HOLD_NUM_CHANGE": "-488700",
+      "CHANGE_RATIO": -11.55674321
+    },
+    {
+      "SECUCODE": "600488.SH",
+      "SECURITY_CODE": "600488",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "李莲子",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3062329,
+      "FREE_HOLDNUM_RATIO": 0.280462162978,
+      "HOLD_NUM_CHANGE": "57200",
+      "CHANGE_RATIO": 1.90341247
+    },
+    {
+      "SECUCODE": "600488.SH",
+      "SECURITY_CODE": "600488",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "邱志辉",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2722900,
+      "FREE_HOLDNUM_RATIO": 0.249375695287,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600488.SH",
       "SECURITY_CODE": "600488",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "李莲子",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3005129,
-      "FREE_HOLDNUM_RATIO": 0.275223524111,
-      "HOLD_NUM_CHANGE": "-1090000",
-      "CHANGE_RATIO": -26.61698813
-    },
-    {
-      "SECUCODE": "600488.SH",
-      "SECURITY_CODE": "600488",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "常州市泰银私募基金管理合伙企业(有限合伙)-泰银睿锦八号私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
+      "HOLDER_NAME": "高盛国际-自有资金",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2235700,
-      "FREE_HOLDNUM_RATIO": 0.204755680324,
+      "HOLD_NUM": 2560883,
+      "FREE_HOLDNUM_RATIO": 0.234537433866,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "600488.SH",
       "SECURITY_CODE": "600488",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 643180515,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 650453980,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 448706165,
-      "HOLD_NUM_RATIO": 58.91,
+      "OTHER_UNLIMITED_SHARES": 441432700,
+      "HOLD_NUM_RATIO": 59.57,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 41.09
+      "UNLIMITED_SHARES_RATIO": 40.43
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600488.SH",
       "SECURITY_CODE": "600488",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "天津药业集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "600488.SH",
       "SECURITY_CODE": "600488",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "津沪深生物医药科技有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,56 +642,32 @@
     {
       "SECUCODE": "600488.SH",
       "SECURITY_CODE": "600488",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "袁建良",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6010000,
-      "HOLD_NUM_RATIO": 0.55,
-      "HOLD_NUM_CHANGE": "2590000",
-      "CHANGE_RATIO": 75.73099415
-    },
-    {
-      "SECUCODE": "600488.SH",
-      "SECURITY_CODE": "600488",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "钟东明",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4228700,
-      "HOLD_NUM_RATIO": 0.39,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600488.SH",
-      "SECURITY_CODE": "600488",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3919832,
-      "HOLD_NUM_RATIO": 0.36,
-      "HOLD_NUM_CHANGE": "-6688037",
-      "CHANGE_RATIO": -63.04788455
+      "HOLD_NUM": 14056667,
+      "HOLD_NUM_RATIO": 1.29,
+      "HOLD_NUM_CHANGE": "10136835",
+      "CHANGE_RATIO": 258.60381261
     },
     {
       "SECUCODE": "600488.SH",
       "SECURITY_CODE": "600488",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "纪翔",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "BARCLAYS BANK PLC",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3814900,
-      "HOLD_NUM_RATIO": 0.35,
+      "HOLD_NUM": 4021950,
+      "HOLD_NUM_RATIO": 0.37,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600488.SH",
       "SECURITY_CODE": "600488",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "天津宜药印务有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 3812802,
@@ -702,36 +678,60 @@
     {
       "SECUCODE": "600488.SH",
       "SECURITY_CODE": "600488",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "上海喜岳投资管理有限公司-星辰之喜岳2号增强私募证券投资基金",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "袁建良",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3417003,
-      "HOLD_NUM_RATIO": 0.31,
+      "HOLD_NUM": 3740000,
+      "HOLD_NUM_RATIO": 0.34,
+      "HOLD_NUM_CHANGE": "-2270000",
+      "CHANGE_RATIO": -37.7703827
+    },
+    {
+      "SECUCODE": "600488.SH",
+      "SECURITY_CODE": "600488",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "钟东明",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3740000,
+      "HOLD_NUM_RATIO": 0.34,
+      "HOLD_NUM_CHANGE": "-488700",
+      "CHANGE_RATIO": -11.55674321
+    },
+    {
+      "SECUCODE": "600488.SH",
+      "SECURITY_CODE": "600488",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "李莲子",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3062329,
+      "HOLD_NUM_RATIO": 0.28,
+      "HOLD_NUM_CHANGE": "57200",
+      "CHANGE_RATIO": 1.90341247
+    },
+    {
+      "SECUCODE": "600488.SH",
+      "SECURITY_CODE": "600488",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "邱志辉",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2722900,
+      "HOLD_NUM_RATIO": 0.25,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "600488.SH",
       "SECURITY_CODE": "600488",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "李莲子",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3005129,
-      "HOLD_NUM_RATIO": 0.28,
-      "HOLD_NUM_CHANGE": "-1090000",
-      "CHANGE_RATIO": -26.61698813
-    },
-    {
-      "SECUCODE": "600488.SH",
-      "SECURITY_CODE": "600488",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "常州市泰银私募基金管理合伙企业(有限合伙)-泰银睿锦八号私募证券投资基金",
+      "HOLDER_NAME": "高盛国际-自有资金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2235700,
-      "HOLD_NUM_RATIO": 0.2,
+      "HOLD_NUM": 2560883,
+      "HOLD_NUM_RATIO": 0.23,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -740,22 +740,32 @@
     {
       "SECUCODE": "600488.SH",
       "SECURITY_CODE": "600488",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
       "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 626121786,
-      "TOTAL_SHARES_RATIO": 57.34311056,
-      "ALL_SHARES_RATIO": 57.34311056
+      "TOTAL_FREE_SHARES": 637188751,
+      "TOTAL_SHARES_RATIO": 58.35667406,
+      "ALL_SHARES_RATIO": 58.35667406
     },
     {
       "SECUCODE": "600488.SH",
       "SECURITY_CODE": "600488",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 6582833,
+      "TOTAL_SHARES_RATIO": 0.60288609,
+      "ALL_SHARES_RATIO": 0.60288609
+    },
+    {
+      "SECUCODE": "600488.SH",
+      "SECURITY_CODE": "600488",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 6,
-      "TOTAL_FREE_SHARES": 626121786,
-      "TOTAL_SHARES_RATIO": 57.34311056,
-      "ALL_SHARES_RATIO": 57.34311056
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 630605918,
+      "TOTAL_SHARES_RATIO": 57.75378797,
+      "ALL_SHARES_RATIO": 57.75378797
     }
   ],
   "jjcg": [

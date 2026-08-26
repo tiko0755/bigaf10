@@ -25,8 +25,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 37.04,
       "AVG_HOLD_AMT": 391207.455481405,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 56.28780784,
+      "FREEHOLD_RATIO_TOTAL": 53.89253912
     },
     {
       "SECUCODE": "300461.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300461.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "300461.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300461.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "300461.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300461.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300461.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "300461.SZ",
       "END_DATE": "2018-09-26 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300461.SZ",
-      "END_DATE": "2018-09-25 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -492,7 +492,7 @@
     {
       "SECUCODE": "300461.SZ",
       "SECURITY_CODE": "300461",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海翡垚投资管理有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -505,7 +505,7 @@
     {
       "SECUCODE": "300461.SZ",
       "SECURITY_CODE": "300461",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "竹田享司",
       "HOLDER_TYPE": "个人",
@@ -518,7 +518,7 @@
     {
       "SECUCODE": "300461.SZ",
       "SECURITY_CODE": "300461",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "竹田周司",
       "HOLDER_TYPE": "个人",
@@ -531,34 +531,21 @@
     {
       "SECUCODE": "300461.SZ",
       "SECURITY_CODE": "300461",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "藤野康成",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 5603069,
       "FREE_HOLDNUM_RATIO": 3.899054981057,
-      "HOLD_NUM_CHANGE": "-1570540",
-      "CHANGE_RATIO": -21.89330364
-    },
-    {
-      "SECUCODE": "300461.SZ",
-      "SECURITY_CODE": "300461",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "上海滦海啸阳私募基金管理有限公司-滦海啸阳月异34号私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3920000,
-      "FREE_HOLDNUM_RATIO": 2.727843531062,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300461.SZ",
       "SECURITY_CODE": "300461",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "钱承林",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -570,52 +557,65 @@
     {
       "SECUCODE": "300461.SZ",
       "SECURITY_CODE": "300461",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "上海悦溪私募基金管理合伙企业(有限合伙)-悦溪向日葵私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3163400,
-      "FREE_HOLDNUM_RATIO": 2.201341894429,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300461.SZ",
-      "SECURITY_CODE": "300461",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "上海悦溪私募基金管理合伙企业(有限合伙)-悦溪兴汇私募证券投资基金",
-      "HOLDER_TYPE": "私募基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2169800,
-      "FREE_HOLDNUM_RATIO": 1.509917064719,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300461.SZ",
-      "SECURITY_CODE": "300461",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "李焕云",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1613600,
-      "FREE_HOLDNUM_RATIO": 1.122869469827,
+      "HOLD_NUM": 2746400,
+      "FREE_HOLDNUM_RATIO": 1.911160580028,
+      "HOLD_NUM_CHANGE": "1132800",
+      "CHANGE_RATIO": 70.20327219
+    },
+    {
+      "SECUCODE": "300461.SZ",
+      "SECURITY_CODE": "300461",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国建设银行股份有限公司-华富科技动能混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2500000,
+      "FREE_HOLDNUM_RATIO": 1.739696129504,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300461.SZ",
       "SECURITY_CODE": "300461",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国工商银行股份有限公司-财通资管先进制造混合型发起式证券投资基金",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "招商银行股份有限公司-兴全合远两年持有期混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1367000,
-      "FREE_HOLDNUM_RATIO": 0.951265843613,
+      "HOLD_NUM": 1411700,
+      "FREE_HOLDNUM_RATIO": 0.982371610408,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300461.SZ",
+      "SECURITY_CODE": "300461",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "北京晨乐资产管理有限公司-晨乐佳享11号私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1280000,
+      "FREE_HOLDNUM_RATIO": 0.890724418306,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300461.SZ",
+      "SECURITY_CODE": "300461",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "王倩",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1170400,
+      "FREE_HOLDNUM_RATIO": 0.814456139989,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -624,20 +624,20 @@
     {
       "SECUCODE": "300461.SZ",
       "SECURITY_CODE": "300461",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 80570634,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 77445334,
       "LIMITED_SHARES": 13353435,
-      "OTHER_UNLIMITED_SHARES": 63132623,
-      "HOLD_NUM_RATIO": 51.3,
+      "OTHER_UNLIMITED_SHARES": 66257923,
+      "HOLD_NUM_RATIO": 49.31,
       "LIMITED_SHARES_RATIO": 8.5,
-      "UNLIMITED_SHARES_RATIO": 40.2
+      "UNLIMITED_SHARES_RATIO": 42.19
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300461.SZ",
       "SECURITY_CODE": "300461",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海翡垚投资管理有限公司",
       "SHARES_TYPE": "流通A股",
@@ -649,7 +649,7 @@
     {
       "SECUCODE": "300461.SZ",
       "SECURITY_CODE": "300461",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "钱承林",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -661,7 +661,7 @@
     {
       "SECUCODE": "300461.SZ",
       "SECURITY_CODE": "300461",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "竹田享司",
       "SHARES_TYPE": "流通A股",
@@ -673,7 +673,7 @@
     {
       "SECUCODE": "300461.SZ",
       "SECURITY_CODE": "300461",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "竹田周司",
       "SHARES_TYPE": "流通A股",
@@ -685,72 +685,72 @@
     {
       "SECUCODE": "300461.SZ",
       "SECURITY_CODE": "300461",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "藤野康成",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 5603069,
       "HOLD_NUM_RATIO": 3.57,
-      "HOLD_NUM_CHANGE": "-1570540",
-      "CHANGE_RATIO": -21.89330364
-    },
-    {
-      "SECUCODE": "300461.SZ",
-      "SECURITY_CODE": "300461",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "上海滦海啸阳私募基金管理有限公司-滦海啸阳月异34号私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3920000,
-      "HOLD_NUM_RATIO": 2.5,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300461.SZ",
       "SECURITY_CODE": "300461",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "上海悦溪私募基金管理合伙企业(有限合伙)-悦溪向日葵私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3163400,
-      "HOLD_NUM_RATIO": 2.01,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300461.SZ",
-      "SECURITY_CODE": "300461",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "上海悦溪私募基金管理合伙企业(有限合伙)-悦溪兴汇私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2169800,
-      "HOLD_NUM_RATIO": 1.38,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300461.SZ",
-      "SECURITY_CODE": "300461",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "李焕云",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1613600,
-      "HOLD_NUM_RATIO": 1.03,
+      "HOLD_NUM": 2746400,
+      "HOLD_NUM_RATIO": 1.75,
+      "HOLD_NUM_CHANGE": "1132800",
+      "CHANGE_RATIO": 70.20327219
+    },
+    {
+      "SECUCODE": "300461.SZ",
+      "SECURITY_CODE": "300461",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国建设银行股份有限公司-华富科技动能混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2500000,
+      "HOLD_NUM_RATIO": 1.59,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300461.SZ",
       "SECURITY_CODE": "300461",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国工商银行股份有限公司-财通资管先进制造混合型发起式证券投资基金",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "招商银行股份有限公司-兴全合远两年持有期混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1367000,
-      "HOLD_NUM_RATIO": 0.87,
+      "HOLD_NUM": 1411700,
+      "HOLD_NUM_RATIO": 0.9,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300461.SZ",
+      "SECURITY_CODE": "300461",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "北京晨乐资产管理有限公司-晨乐佳享11号私募证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1280000,
+      "HOLD_NUM_RATIO": 0.81,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300461.SZ",
+      "SECURITY_CODE": "300461",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "王倩",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1170400,
+      "HOLD_NUM_RATIO": 0.75,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -761,10 +761,10 @@
       "SECURITY_CODE": "300461",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 4259200,
-      "TOTAL_SHARES_RATIO": 2.9638855,
-      "ALL_SHARES_RATIO": 2.71188698
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 45449135,
+      "TOTAL_SHARES_RATIO": 31.6270737,
+      "ALL_SHARES_RATIO": 28.93804422
     },
     {
       "SECUCODE": "300461.SZ",
@@ -775,6 +775,16 @@
       "TOTAL_FREE_SHARES": 4259200,
       "TOTAL_SHARES_RATIO": 2.9638855,
       "ALL_SHARES_RATIO": 2.71188698
+    },
+    {
+      "SECUCODE": "300461.SZ",
+      "SECURITY_CODE": "300461",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 41189935,
+      "TOTAL_SHARES_RATIO": 28.6631882,
+      "ALL_SHARES_RATIO": 26.22615724
     }
   ],
   "jjcg": [
