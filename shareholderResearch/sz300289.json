@@ -81,8 +81,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 5.55,
       "AVG_HOLD_AMT": 120619.338302257,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 50.87465221,
+      "FREEHOLD_RATIO_TOTAL": 50.95473563
     },
     {
       "SECUCODE": "300289.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300289.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "300289.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300289.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "300289.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300289.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300289.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "300289.SZ",
       "END_DATE": "2019-08-22 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300289.SZ",
-      "END_DATE": "2019-08-21 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -426,6 +426,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "300289.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "300289.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -439,16 +443,16 @@
     {
       "SECUCODE": "300289.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "300289.SZ",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "300289.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "300289.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -462,10 +466,6 @@
     {
       "SECUCODE": "300289.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "300289.SZ",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "xsjj": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "300289.SZ",
       "SECURITY_CODE": "300289",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "广州高新区科技控股集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,60 +486,86 @@
     {
       "SECUCODE": "300289.SZ",
       "SECURITY_CODE": "300289",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "张斌",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4113000,
-      "FREE_HOLDNUM_RATIO": 0.757240334681,
-      "HOLD_NUM_CHANGE": "-4600",
-      "CHANGE_RATIO": -0.11171556
-    },
-    {
-      "SECUCODE": "300289.SZ",
-      "SECURITY_CODE": "300289",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "陈楚哲",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3824500,
-      "FREE_HOLDNUM_RATIO": 0.704124886941,
-      "HOLD_NUM_CHANGE": "24800",
-      "CHANGE_RATIO": 0.65268311
+      "HOLD_NUM": 5311300,
+      "FREE_HOLDNUM_RATIO": 0.977858154532,
+      "HOLD_NUM_CHANGE": "1486800",
+      "CHANGE_RATIO": 38.87567002
     },
     {
       "SECUCODE": "300289.SZ",
       "SECURITY_CODE": "300289",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "招商银行股份有限公司-永赢中证全指医疗器械交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2546500,
-      "FREE_HOLDNUM_RATIO": 0.468833579447,
-      "HOLD_NUM_CHANGE": "873800",
-      "CHANGE_RATIO": 52.2388952
-    },
-    {
-      "SECUCODE": "300289.SZ",
-      "SECURITY_CODE": "300289",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "张宇红",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1624800,
-      "FREE_HOLDNUM_RATIO": 0.299140310185,
+      "HOLD_NUM": 5029600,
+      "FREE_HOLDNUM_RATIO": 0.925994648021,
+      "HOLD_NUM_CHANGE": "3404800",
+      "CHANGE_RATIO": 209.55194485
+    },
+    {
+      "SECUCODE": "300289.SZ",
+      "SECURITY_CODE": "300289",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "张斌",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 4135900,
+      "FREE_HOLDNUM_RATIO": 0.761456430879,
+      "HOLD_NUM_CHANGE": "22900",
+      "CHANGE_RATIO": 0.55677121
+    },
+    {
+      "SECUCODE": "300289.SZ",
+      "SECURITY_CODE": "300289",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "招商银行股份有限公司-永赢中证全指医疗器械交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2008700,
+      "FREE_HOLDNUM_RATIO": 0.369819756935,
+      "HOLD_NUM_CHANGE": "-537800",
+      "CHANGE_RATIO": -21.11918319
+    },
+    {
+      "SECUCODE": "300289.SZ",
+      "SECURITY_CODE": "300289",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "沈松",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1946600,
+      "FREE_HOLDNUM_RATIO": 0.358386587768,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300289.SZ",
       "SECURITY_CODE": "300289",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "王海峰",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1600000,
+      "FREE_HOLDNUM_RATIO": 0.294574406878,
+      "HOLD_NUM_CHANGE": "62000",
+      "CHANGE_RATIO": 4.03120936
+    },
+    {
+      "SECUCODE": "300289.SZ",
+      "SECURITY_CODE": "300289",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "黄成仁",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -551,53 +577,27 @@
     {
       "SECUCODE": "300289.SZ",
       "SECURITY_CODE": "300289",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "王海峰",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "朱杰",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1538000,
-      "FREE_HOLDNUM_RATIO": 0.283159648612,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1535000,
+      "FREE_HOLDNUM_RATIO": 0.282607321599,
+      "HOLD_NUM_CHANGE": "83700",
+      "CHANGE_RATIO": 5.76724316
     },
     {
       "SECUCODE": "300289.SZ",
       "SECURITY_CODE": "300289",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "肖素月",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1473700,
       "FREE_HOLDNUM_RATIO": 0.271321439635,
-      "HOLD_NUM_CHANGE": "138800",
-      "CHANGE_RATIO": 10.39778261
-    },
-    {
-      "SECUCODE": "300289.SZ",
-      "SECURITY_CODE": "300289",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "朱杰",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1451300,
-      "FREE_HOLDNUM_RATIO": 0.267197397939,
-      "HOLD_NUM_CHANGE": "-10000",
-      "CHANGE_RATIO": -0.68432218
-    },
-    {
-      "SECUCODE": "300289.SZ",
-      "SECURITY_CODE": "300289",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "黄孝梯",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1149200,
-      "FREE_HOLDNUM_RATIO": 0.21157806774,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "300289.SZ",
       "SECURITY_CODE": "300289",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 271444152,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 276763952,
       "LIMITED_SHARES": 855000,
-      "OTHER_UNLIMITED_SHARES": 271712335,
-      "HOLD_NUM_RATIO": 49.9,
+      "OTHER_UNLIMITED_SHARES": 266392535,
+      "HOLD_NUM_RATIO": 50.87,
       "LIMITED_SHARES_RATIO": 0.16,
-      "UNLIMITED_SHARES_RATIO": 49.95
+      "UNLIMITED_SHARES_RATIO": 48.97
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300289.SZ",
       "SECURITY_CODE": "300289",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "广州高新区科技控股集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,56 +630,80 @@
     {
       "SECUCODE": "300289.SZ",
       "SECURITY_CODE": "300289",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "张斌",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4113000,
-      "HOLD_NUM_RATIO": 0.76,
-      "HOLD_NUM_CHANGE": "-4600",
-      "CHANGE_RATIO": -0.11171556
-    },
-    {
-      "SECUCODE": "300289.SZ",
-      "SECURITY_CODE": "300289",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "陈楚哲",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3824500,
-      "HOLD_NUM_RATIO": 0.7,
-      "HOLD_NUM_CHANGE": "24800",
-      "CHANGE_RATIO": 0.65268311
+      "HOLD_NUM": 5311300,
+      "HOLD_NUM_RATIO": 0.98,
+      "HOLD_NUM_CHANGE": "1486800",
+      "CHANGE_RATIO": 38.87567002
     },
     {
       "SECUCODE": "300289.SZ",
       "SECURITY_CODE": "300289",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "招商银行股份有限公司-永赢中证全指医疗器械交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2546500,
-      "HOLD_NUM_RATIO": 0.47,
-      "HOLD_NUM_CHANGE": "873800",
-      "CHANGE_RATIO": 52.2388952
-    },
-    {
-      "SECUCODE": "300289.SZ",
-      "SECURITY_CODE": "300289",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 3,
       "HOLDER_NAME": "张宇红",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1624800,
-      "HOLD_NUM_RATIO": 0.3,
+      "HOLD_NUM": 5029600,
+      "HOLD_NUM_RATIO": 0.92,
+      "HOLD_NUM_CHANGE": "3404800",
+      "CHANGE_RATIO": 209.55194485
+    },
+    {
+      "SECUCODE": "300289.SZ",
+      "SECURITY_CODE": "300289",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "张斌",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 4135900,
+      "HOLD_NUM_RATIO": 0.76,
+      "HOLD_NUM_CHANGE": "22900",
+      "CHANGE_RATIO": 0.55677121
+    },
+    {
+      "SECUCODE": "300289.SZ",
+      "SECURITY_CODE": "300289",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "招商银行股份有限公司-永赢中证全指医疗器械交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2008700,
+      "HOLD_NUM_RATIO": 0.37,
+      "HOLD_NUM_CHANGE": "-537800",
+      "CHANGE_RATIO": -21.11918319
+    },
+    {
+      "SECUCODE": "300289.SZ",
+      "SECURITY_CODE": "300289",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "沈松",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1946600,
+      "HOLD_NUM_RATIO": 0.36,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300289.SZ",
       "SECURITY_CODE": "300289",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "王海峰",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1600000,
+      "HOLD_NUM_RATIO": 0.29,
+      "HOLD_NUM_CHANGE": "62000",
+      "CHANGE_RATIO": 4.03120936
+    },
+    {
+      "SECUCODE": "300289.SZ",
+      "SECURITY_CODE": "300289",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "黄成仁",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1590000,
@@ -690,49 +714,25 @@
     {
       "SECUCODE": "300289.SZ",
       "SECURITY_CODE": "300289",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "王海峰",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "朱杰",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1538000,
+      "HOLD_NUM": 1535000,
       "HOLD_NUM_RATIO": 0.28,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM_CHANGE": "83700",
+      "CHANGE_RATIO": 5.76724316
     },
     {
       "SECUCODE": "300289.SZ",
       "SECURITY_CODE": "300289",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "肖素月",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1473700,
       "HOLD_NUM_RATIO": 0.27,
-      "HOLD_NUM_CHANGE": "138800",
-      "CHANGE_RATIO": 10.39778261
-    },
-    {
-      "SECUCODE": "300289.SZ",
-      "SECURITY_CODE": "300289",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "朱杰",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1451300,
-      "HOLD_NUM_RATIO": 0.27,
-      "HOLD_NUM_CHANGE": "-10000",
-      "CHANGE_RATIO": -0.68432218
-    },
-    {
-      "SECUCODE": "300289.SZ",
-      "SECURITY_CODE": "300289",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "黄孝梯",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1149200,
-      "HOLD_NUM_RATIO": 0.21,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -740,27 +740,27 @@
     {
       "SECUCODE": "300289.SZ",
       "SECURITY_CODE": "300289",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
       "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 254679652,
-      "TOTAL_SHARES_RATIO": 46.88881715,
-      "ALL_SHARES_RATIO": 46.81512396
+      "TOTAL_FREE_SHARES": 254141852,
+      "TOTAL_SHARES_RATIO": 46.78980333,
+      "ALL_SHARES_RATIO": 46.71626576
     },
     {
       "SECUCODE": "300289.SZ",
       "SECURITY_CODE": "300289",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "01",
       "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 2546500,
-      "TOTAL_SHARES_RATIO": 0.46883358,
-      "ALL_SHARES_RATIO": 0.46809673
+      "TOTAL_FREE_SHARES": 2008700,
+      "TOTAL_SHARES_RATIO": 0.36981976,
+      "ALL_SHARES_RATIO": 0.36923853
     },
     {
       "SECUCODE": "300289.SZ",
       "SECURITY_CODE": "300289",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 1,
       "TOTAL_FREE_SHARES": 252133152,
@@ -772,19 +772,19 @@
     {
       "ORG_TYPE": "01",
       "SECUCODE": "300289.SZ",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "HOLDER_CODE": "159883",
       "HOLDER_NAME": "永赢中证全指医疗器械ETF",
-      "TOTAL_SHARES": 2546500,
-      "HOLD_VALUE": 17112480,
-      "TOTALSHARES_RATIO": 0.46809673,
-      "FREESHARES_RATIO": 0.46883358,
-      "FREE_MARKET_CAP": 17112480,
-      "FREE_SHARES": 2546500,
+      "TOTAL_SHARES": 2008700,
+      "HOLD_VALUE": 11148285,
+      "TOTALSHARES_RATIO": 0.36923853,
+      "FREESHARES_RATIO": 0.36981976,
+      "FREE_MARKET_CAP": 11148285,
+      "FREE_SHARES": 2008700,
       "SECURITY_CODE": "300289",
       "FUND_CODE": "159883",
       "FUND_DERIVECODE": "159883.SZ",
-      "NETVALUE_RATIO": 0.31
+      "NETVALUE_RATIO": 0.29
     }
   ]
 }

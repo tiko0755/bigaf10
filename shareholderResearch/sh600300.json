@@ -449,6 +449,10 @@
   "jjcg_date": [
     {
       "SECUCODE": "600300.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "600300.SH",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -462,10 +466,6 @@
     {
       "SECUCODE": "600300.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600300.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "xsjj": [],
@@ -742,10 +742,20 @@
       "SECURITY_CODE": "600300",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 517734011,
+      "TOTAL_SHARES_RATIO": 32.01536744,
+      "ALL_SHARES_RATIO": 32.01536744
+    },
+    {
+      "SECUCODE": "600300.SH",
+      "SECURITY_CODE": "600300",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "01",
       "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 515861311,
-      "TOTAL_SHARES_RATIO": 31.89956439,
-      "ALL_SHARES_RATIO": 31.89956439
+      "TOTAL_FREE_SHARES": 1872700,
+      "TOTAL_SHARES_RATIO": 0.11580305,
+      "ALL_SHARES_RATIO": 0.11580305
     },
     {
       "SECUCODE": "600300.SH",
@@ -762,19 +772,36 @@
     {
       "ORG_TYPE": "01",
       "SECUCODE": "600300.SH",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "HOLDER_CODE": "018661",
-      "HOLDER_NAME": "大成中证1000指数增强发起式A",
-      "TOTAL_SHARES": 222400,
-      "HOLD_VALUE": 782848,
-      "TOTALSHARES_RATIO": 0.01375266,
-      "FREESHARES_RATIO": 0.01375266,
-      "FREE_MARKET_CAP": 782848,
-      "FREE_SHARES": 222400,
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "159235",
+      "HOLDER_NAME": "大成中证全指自由现金流ETF",
+      "TOTAL_SHARES": 1860600,
+      "HOLD_VALUE": 5246892,
+      "TOTALSHARES_RATIO": 0.11505482,
+      "FREESHARES_RATIO": 0.11505482,
+      "FREE_MARKET_CAP": 5246892,
+      "FREE_SHARES": 1860600,
       "SECURITY_CODE": "600300",
-      "FUND_CODE": "018661",
-      "FUND_DERIVECODE": "018661.OF",
-      "NETVALUE_RATIO": 0.59
+      "FUND_CODE": "159235",
+      "FUND_DERIVECODE": "159235.SZ",
+      "NETVALUE_RATIO": 0.22
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600300.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "024904",
+      "HOLDER_NAME": "招商资管中证全指自由现金流指数发起A",
+      "TOTAL_SHARES": 12100,
+      "HOLD_VALUE": 34122,
+      "TOTALSHARES_RATIO": 0.00074823,
+      "FREESHARES_RATIO": 0.00074823,
+      "FREE_MARKET_CAP": 34122,
+      "FREE_SHARES": 12100,
+      "SECURITY_CODE": "600300",
+      "FUND_CODE": "024904",
+      "FUND_DERIVECODE": "024904.OF",
+      "NETVALUE_RATIO": 0.21
     }
   ]
 }

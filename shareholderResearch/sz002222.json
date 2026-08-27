@@ -53,8 +53,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 92.1596244312,
       "AVG_HOLD_AMT": 259061.895131934,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 28.44234173,
+      "FREEHOLD_RATIO_TOTAL": 28.35228774
     },
     {
       "SECUCODE": "002222.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002222.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "002222.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002222.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "002222.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002222.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002222.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002222.SZ",
       "END_DATE": "2018-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002222.SZ",
-      "END_DATE": "2018-03-19 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -445,30 +445,7 @@
       "REPORT_DATE": "2025-06-30 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2026-01-30 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "中国科学院福建物质结构研究所",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 87395000,
-      "HOLD_NUM_RATIO": 18.58,
-      "HOLD_CHANGE": "-1852600",
-      "CHANGE_RATIO": -2.07579812,
-      "CHANGE_REASON": "临时公告"
-    },
-    {
-      "END_DATE": "2026-01-07 00:00:00",
-      "HOLDER_RANK": 1,
-      "HOLDER_NAME": "中国科学院福建物质结构研究所",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 89247600,
-      "HOLD_NUM_RATIO": 18.98,
-      "HOLD_CHANGE": "-2849900",
-      "CHANGE_RATIO": -3.09443796,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "002222.SZ",
@@ -496,130 +473,130 @@
     {
       "SECUCODE": "002222.SZ",
       "SECURITY_CODE": "002222",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国科学院福建物质结构研究所",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 87395000,
       "FREE_HOLDNUM_RATIO": 18.668093565925,
-      "HOLD_NUM_CHANGE": "-4702500",
-      "CHANGE_RATIO": -5.10600179
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002222.SZ",
       "SECURITY_CODE": "002222",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 26943238,
-      "FREE_HOLDNUM_RATIO": 5.755236431752,
-      "HOLD_NUM_CHANGE": "-9572868",
-      "CHANGE_RATIO": -26.21546777
+      "HOLD_NUM": 22228994,
+      "FREE_HOLDNUM_RATIO": 4.748245779145,
+      "HOLD_NUM_CHANGE": "-4714244",
+      "CHANGE_RATIO": -17.49694673
     },
     {
       "SECUCODE": "002222.SZ",
       "SECURITY_CODE": "002222",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "国泰基金-工商银行-国泰基金格物1号资产管理计划",
-      "HOLDER_TYPE": "基金资产管理计划",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 12481537,
-      "FREE_HOLDNUM_RATIO": 2.666130791951,
-      "HOLD_NUM_CHANGE": "-216600",
-      "CHANGE_RATIO": -1.70576203
-    },
-    {
-      "SECUCODE": "002222.SZ",
-      "SECURITY_CODE": "002222",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "交通银行股份有限公司-永赢半导体产业智选混合型发起式证券投资基金",
+      "HOLDER_NAME": "中国建设银行股份有限公司-前海开源沪港深乐享生活灵活配置混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6800000,
-      "FREE_HOLDNUM_RATIO": 1.452520581821,
-      "HOLD_NUM_CHANGE": "-1200000",
-      "CHANGE_RATIO": -15
-    },
-    {
-      "SECUCODE": "002222.SZ",
-      "SECURITY_CODE": "002222",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "赵伟",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5258000,
-      "FREE_HOLDNUM_RATIO": 1.123140179297,
-      "HOLD_NUM_CHANGE": "-10000",
-      "CHANGE_RATIO": -0.18982536
-    },
-    {
-      "SECUCODE": "002222.SZ",
-      "SECURITY_CODE": "002222",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "国泰基金-上海银行-国泰基金格物2号集合资产管理计划",
-      "HOLDER_TYPE": "基金资产管理计划",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3346730,
-      "FREE_HOLDNUM_RATIO": 0.714881501,
-      "HOLD_NUM_CHANGE": "-96200",
-      "CHANGE_RATIO": -2.79413174
-    },
-    {
-      "SECUCODE": "002222.SZ",
-      "SECURITY_CODE": "002222",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "国泰基金管理有限公司-社保基金2103组合",
-      "HOLDER_TYPE": "全国社保基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2733915,
-      "FREE_HOLDNUM_RATIO": 0.583980559772,
-      "HOLD_NUM_CHANGE": "-220600",
-      "CHANGE_RATIO": -7.4665385
-    },
-    {
-      "SECUCODE": "002222.SZ",
-      "SECURITY_CODE": "002222",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "UBS AG",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2674536,
-      "FREE_HOLDNUM_RATIO": 0.571296851003,
+      "HOLD_NUM": 4650287,
+      "FREE_HOLDNUM_RATIO": 0.993329055717,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002222.SZ",
       "SECURITY_CODE": "002222",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "国泰基金-北京银行-国泰基金瑞吉1号集合资产管理计划",
-      "HOLDER_TYPE": "基金资产管理计划",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "招商银行股份有限公司-兴全合润混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2598400,
-      "FREE_HOLDNUM_RATIO": 0.55503374703,
-      "HOLD_NUM_CHANGE": "-103992",
-      "CHANGE_RATIO": -3.84814638
+      "HOLD_NUM": 3785586,
+      "FREE_HOLDNUM_RATIO": 0.808623761655,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002222.SZ",
       "SECURITY_CODE": "002222",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "吴守常",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中国光大银行股份有限公司-兴全商业模式优选混合型证券投资基金(LOF)",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 3688611,
+      "FREE_HOLDNUM_RATIO": 0.787909322917,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002222.SZ",
+      "SECURITY_CODE": "002222",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国建设银行股份有限公司-华商均衡成长混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2794432,
+      "FREE_HOLDNUM_RATIO": 0.596907352132,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002222.SZ",
+      "SECURITY_CODE": "002222",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "罗彬",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2124250,
-      "FREE_HOLDNUM_RATIO": 0.453752477343,
+      "HOLD_NUM": 2483629,
+      "FREE_HOLDNUM_RATIO": 0.530517976487,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002222.SZ",
+      "SECURITY_CODE": "002222",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "中国建设银行股份有限公司-华商优势行业灵活配置混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2131369,
+      "FREE_HOLDNUM_RATIO": 0.455273138229,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002222.SZ",
+      "SECURITY_CODE": "002222",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "UBS AG",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1980586,
+      "FREE_HOLDNUM_RATIO": 0.423064989569,
+      "HOLD_NUM_CHANGE": "-693950",
+      "CHANGE_RATIO": -25.94655671
+    },
+    {
+      "SECUCODE": "002222.SZ",
+      "SECURITY_CODE": "002222",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国建设银行股份有限公司-华商致远回报混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1593227,
+      "FREE_HOLDNUM_RATIO": 0.340322795443,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -628,20 +605,20 @@
     {
       "SECUCODE": "002222.SZ",
       "SECURITY_CODE": "002222",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 152355606,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 132731721,
       "LIMITED_SHARES": 2098286,
-      "OTHER_UNLIMITED_SHARES": 315796108,
-      "HOLD_NUM_RATIO": 32.4,
+      "OTHER_UNLIMITED_SHARES": 335419993,
+      "HOLD_NUM_RATIO": 28.23,
       "LIMITED_SHARES_RATIO": 0.45,
-      "UNLIMITED_SHARES_RATIO": 67.15
+      "UNLIMITED_SHARES_RATIO": 71.33
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002222.SZ",
       "SECURITY_CODE": "002222",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国科学院福建物质结构研究所",
       "SHARES_TYPE": "流通A股",
@@ -653,92 +630,68 @@
     {
       "SECUCODE": "002222.SZ",
       "SECURITY_CODE": "002222",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 26943238,
-      "HOLD_NUM_RATIO": 5.73,
-      "HOLD_NUM_CHANGE": "-9572868",
-      "CHANGE_RATIO": -26.21546777
+      "HOLD_NUM": 22228994,
+      "HOLD_NUM_RATIO": 4.73,
+      "HOLD_NUM_CHANGE": "-4714244",
+      "CHANGE_RATIO": -17.49694673
     },
     {
       "SECUCODE": "002222.SZ",
       "SECURITY_CODE": "002222",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "国泰基金-工商银行-国泰基金格物1号资产管理计划",
+      "HOLDER_NAME": "中国建设银行股份有限公司-前海开源沪港深乐享生活灵活配置混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 12481537,
-      "HOLD_NUM_RATIO": 2.65,
-      "HOLD_NUM_CHANGE": "-216600",
-      "CHANGE_RATIO": -1.70576203
-    },
-    {
-      "SECUCODE": "002222.SZ",
-      "SECURITY_CODE": "002222",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "交通银行股份有限公司-永赢半导体产业智选混合型发起式证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6800000,
-      "HOLD_NUM_RATIO": 1.45,
-      "HOLD_NUM_CHANGE": "-1200000",
-      "CHANGE_RATIO": -15
-    },
-    {
-      "SECUCODE": "002222.SZ",
-      "SECURITY_CODE": "002222",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "赵伟",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5258000,
-      "HOLD_NUM_RATIO": 1.12,
-      "HOLD_NUM_CHANGE": "-10000",
-      "CHANGE_RATIO": -0.18982536
-    },
-    {
-      "SECUCODE": "002222.SZ",
-      "SECURITY_CODE": "002222",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "国泰基金-上海银行-国泰基金格物2号集合资产管理计划",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3346730,
-      "HOLD_NUM_RATIO": 0.71,
-      "HOLD_NUM_CHANGE": "-96200",
-      "CHANGE_RATIO": -2.79413174
-    },
-    {
-      "SECUCODE": "002222.SZ",
-      "SECURITY_CODE": "002222",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "国泰基金管理有限公司-社保基金2103组合",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2733915,
-      "HOLD_NUM_RATIO": 0.58,
-      "HOLD_NUM_CHANGE": "-220600",
-      "CHANGE_RATIO": -7.4665385
-    },
-    {
-      "SECUCODE": "002222.SZ",
-      "SECURITY_CODE": "002222",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "UBS AG",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2674536,
-      "HOLD_NUM_RATIO": 0.57,
+      "HOLD_NUM": 4650287,
+      "HOLD_NUM_RATIO": 0.99,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002222.SZ",
       "SECURITY_CODE": "002222",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "招商银行股份有限公司-兴全合润混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3785586,
+      "HOLD_NUM_RATIO": 0.81,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002222.SZ",
+      "SECURITY_CODE": "002222",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "中国光大银行股份有限公司-兴全商业模式优选混合型证券投资基金(LOF)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3688611,
+      "HOLD_NUM_RATIO": 0.78,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002222.SZ",
+      "SECURITY_CODE": "002222",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "中国建设银行股份有限公司-华商均衡成长混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2794432,
+      "HOLD_NUM_RATIO": 0.59,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002222.SZ",
+      "SECURITY_CODE": "002222",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "陈辉",
       "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 2611618,
@@ -749,14 +702,38 @@
     {
       "SECUCODE": "002222.SZ",
       "SECURITY_CODE": "002222",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "国泰基金-北京银行-国泰基金瑞吉1号集合资产管理计划",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "罗彬",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2598400,
-      "HOLD_NUM_RATIO": 0.55,
-      "HOLD_NUM_CHANGE": "-103992",
-      "CHANGE_RATIO": -3.84814638
+      "HOLD_NUM": 2483629,
+      "HOLD_NUM_RATIO": 0.53,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002222.SZ",
+      "SECURITY_CODE": "002222",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国建设银行股份有限公司-华商优势行业灵活配置混合型证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2131369,
+      "HOLD_NUM_RATIO": 0.45,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002222.SZ",
+      "SECURITY_CODE": "002222",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "UBS AG",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1980586,
+      "HOLD_NUM_RATIO": 0.42,
+      "HOLD_NUM_CHANGE": "-693950",
+      "CHANGE_RATIO": -25.94655671
     }
   ],
   "jgcc": [
@@ -765,20 +742,40 @@
       "SECURITY_CODE": "002222",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 27,
-      "TOTAL_FREE_SHARES": 9184879,
-      "TOTAL_SHARES_RATIO": 1.96194498,
-      "ALL_SHARES_RATIO": 1.95319064
+      "TOTAL_ORG_NUM": 42,
+      "TOTAL_FREE_SHARES": 135262784,
+      "TOTAL_SHARES_RATIO": 28.89293792,
+      "ALL_SHARES_RATIO": 28.76401572
     },
     {
       "SECUCODE": "002222.SZ",
       "SECURITY_CODE": "002222",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 27,
-      "TOTAL_FREE_SHARES": 9184879,
-      "TOTAL_SHARES_RATIO": 1.96194498,
-      "ALL_SHARES_RATIO": 1.95319064
+      "TOTAL_ORG_NUM": 39,
+      "TOTAL_FREE_SHARES": 23658204,
+      "TOTAL_SHARES_RATIO": 5.05353358,
+      "ALL_SHARES_RATIO": 5.03098435
+    },
+    {
+      "SECUCODE": "002222.SZ",
+      "SECURITY_CODE": "002222",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "02",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 1980586,
+      "TOTAL_SHARES_RATIO": 0.42306499,
+      "ALL_SHARES_RATIO": 0.42117725
+    },
+    {
+      "SECUCODE": "002222.SZ",
+      "SECURITY_CODE": "002222",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 109623994,
+      "TOTAL_SHARES_RATIO": 23.41633935,
+      "ALL_SHARES_RATIO": 23.31185412
     }
   ],
   "jjcg": [
@@ -798,6 +795,91 @@
       "FUND_CODE": "004320",
       "FUND_DERIVECODE": "004320.OF",
       "NETVALUE_RATIO": 5.21
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002222.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "163406",
+      "HOLDER_NAME": "兴全合润混合A",
+      "TOTAL_SHARES": 3785586,
+      "HOLD_VALUE": 349333876.08,
+      "TOTALSHARES_RATIO": 0.80501563,
+      "FREESHARES_RATIO": 0.80862376,
+      "FREE_MARKET_CAP": 349333876.08,
+      "FREE_SHARES": 3785586,
+      "SECURITY_CODE": "002222",
+      "FUND_CODE": "163406",
+      "FUND_DERIVECODE": "163406.SZ",
+      "NETVALUE_RATIO": 1.45
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002222.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "163415",
+      "HOLDER_NAME": "兴全商业模式混合(LOF)A",
+      "TOTAL_SHARES": 3688611,
+      "HOLD_VALUE": 340385023.08,
+      "TOTALSHARES_RATIO": 0.78439362,
+      "FREESHARES_RATIO": 0.78790932,
+      "FREE_MARKET_CAP": 340385023.08,
+      "FREE_SHARES": 3688611,
+      "SECURITY_CODE": "002222",
+      "FUND_CODE": "163415",
+      "FUND_DERIVECODE": "163415.SZ",
+      "NETVALUE_RATIO": 2.05
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002222.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "011369",
+      "HOLDER_NAME": "华商均衡成长混合A",
+      "TOTAL_SHARES": 2794432,
+      "HOLD_VALUE": 257870184.96,
+      "TOTALSHARES_RATIO": 0.59424391,
+      "FREESHARES_RATIO": 0.59690735,
+      "FREE_MARKET_CAP": 257870184.96,
+      "FREE_SHARES": 2794432,
+      "SECURITY_CODE": "002222",
+      "FUND_CODE": "011369",
+      "FUND_DERIVECODE": "011369.OF",
+      "NETVALUE_RATIO": 2.86
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002222.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "000390",
+      "HOLDER_NAME": "华商优势行业混合A",
+      "TOTAL_SHARES": 2131369,
+      "HOLD_VALUE": 196682731.32,
+      "TOTALSHARES_RATIO": 0.45324168,
+      "FREESHARES_RATIO": 0.45527314,
+      "FREE_MARKET_CAP": 196682731.32,
+      "FREE_SHARES": 2131369,
+      "SECURITY_CODE": "002222",
+      "FUND_CODE": "000390",
+      "FUND_DERIVECODE": "000390.OF",
+      "NETVALUE_RATIO": 1.22
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002222.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "024459",
+      "HOLDER_NAME": "华商致远回报混合A",
+      "TOTAL_SHARES": 1593227,
+      "HOLD_VALUE": 147022987.56,
+      "TOTALSHARES_RATIO": 0.33880425,
+      "FREESHARES_RATIO": 0.3403228,
+      "FREE_MARKET_CAP": 147022987.56,
+      "FREE_SHARES": 1593227,
+      "SECURITY_CODE": "002222",
+      "FUND_CODE": "024459",
+      "FUND_DERIVECODE": "024459.OF",
+      "NETVALUE_RATIO": 2.53
     },
     {
       "ORG_TYPE": "01",
@@ -871,6 +953,23 @@
       "ORG_TYPE": "01",
       "SECUCODE": "002222.SZ",
       "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "519644",
+      "HOLDER_NAME": "银河智联混合A",
+      "TOTAL_SHARES": 200000,
+      "HOLD_VALUE": 18456000,
+      "TOTALSHARES_RATIO": 0.04253057,
+      "FREESHARES_RATIO": 0.04272119,
+      "FREE_MARKET_CAP": 18456000,
+      "FREE_SHARES": 200000,
+      "SECURITY_CODE": "002222",
+      "FUND_CODE": "519644",
+      "FUND_DERIVECODE": "519644.OF",
+      "NETVALUE_RATIO": 1.65
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002222.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "HOLDER_CODE": "026538",
       "HOLDER_NAME": "融通科技臻选混合发起式A",
       "TOTAL_SHARES": 190000,
@@ -939,6 +1038,23 @@
       "ORG_TYPE": "01",
       "SECUCODE": "002222.SZ",
       "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "006128",
+      "HOLDER_NAME": "银河和美生活混合A",
+      "TOTAL_SHARES": 150000,
+      "HOLD_VALUE": 13842000,
+      "TOTALSHARES_RATIO": 0.03189793,
+      "FREESHARES_RATIO": 0.0320409,
+      "FREE_MARKET_CAP": 13842000,
+      "FREE_SHARES": 150000,
+      "SECURITY_CODE": "002222",
+      "FUND_CODE": "006128",
+      "FUND_DERIVECODE": "006128.OF",
+      "NETVALUE_RATIO": 1.68
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002222.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "HOLDER_CODE": "008635",
       "HOLDER_NAME": "华安科技创新混合A",
       "TOTAL_SHARES": 128400,
@@ -968,6 +1084,23 @@
       "FUND_CODE": "026658",
       "FUND_DERIVECODE": "026658.OF",
       "NETVALUE_RATIO": 7.23
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002222.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "012696",
+      "HOLDER_NAME": "同泰数字经济股票A",
+      "TOTAL_SHARES": 82000,
+      "HOLD_VALUE": 7566960,
+      "TOTALSHARES_RATIO": 0.01743753,
+      "FREESHARES_RATIO": 0.01751569,
+      "FREE_MARKET_CAP": 7566960,
+      "FREE_SHARES": 82000,
+      "SECURITY_CODE": "002222",
+      "FUND_CODE": "012696",
+      "FUND_DERIVECODE": "012696.OF",
+      "NETVALUE_RATIO": 0.95
     },
     {
       "ORG_TYPE": "01",
@@ -1041,6 +1174,23 @@
       "ORG_TYPE": "01",
       "SECUCODE": "002222.SZ",
       "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "012496",
+      "HOLDER_NAME": "同泰行业优选股票A",
+      "TOTAL_SHARES": 29400,
+      "HOLD_VALUE": 2713032,
+      "TOTALSHARES_RATIO": 0.00625199,
+      "FREESHARES_RATIO": 0.00628002,
+      "FREE_MARKET_CAP": 2713032,
+      "FREE_SHARES": 29400,
+      "SECURITY_CODE": "002222",
+      "FUND_CODE": "012496",
+      "FUND_DERIVECODE": "012496.OF",
+      "NETVALUE_RATIO": 3.88
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002222.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "HOLDER_CODE": "005457",
       "HOLDER_NAME": "景顺长城量化小盘股票A",
       "TOTAL_SHARES": 25300,
@@ -1053,6 +1203,23 @@
       "FUND_CODE": "005457",
       "FUND_DERIVECODE": "005457.OF",
       "NETVALUE_RATIO": 0.39
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002222.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "151002",
+      "HOLDER_NAME": "银河收益混合A",
+      "TOTAL_SHARES": 15000,
+      "HOLD_VALUE": 1384200,
+      "TOTALSHARES_RATIO": 0.00318979,
+      "FREESHARES_RATIO": 0.00320409,
+      "FREE_MARKET_CAP": 1384200,
+      "FREE_SHARES": 15000,
+      "SECURITY_CODE": "002222",
+      "FUND_CODE": "151002",
+      "FUND_DERIVECODE": "151002.OF",
+      "NETVALUE_RATIO": 0.68
     },
     {
       "ORG_TYPE": "01",
@@ -1177,6 +1344,23 @@
       "ORG_TYPE": "01",
       "SECUCODE": "002222.SZ",
       "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "011759",
+      "HOLDER_NAME": "平安鑫盛混合发起式A",
+      "TOTAL_SHARES": 3500,
+      "HOLD_VALUE": 322980,
+      "TOTALSHARES_RATIO": 0.00074428,
+      "FREESHARES_RATIO": 0.00074762,
+      "FREE_MARKET_CAP": 322980,
+      "FREE_SHARES": 3500,
+      "SECURITY_CODE": "002222",
+      "FUND_CODE": "011759",
+      "FUND_DERIVECODE": "011759.OF",
+      "NETVALUE_RATIO": 1.26
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002222.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "HOLDER_CODE": "017038",
       "HOLDER_NAME": "富国中证1000优选股票A",
       "TOTAL_SHARES": 3500,
@@ -1223,6 +1407,23 @@
       "FUND_CODE": "004900",
       "FUND_DERIVECODE": "004900.OF",
       "NETVALUE_RATIO": 1.13
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002222.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "011629",
+      "HOLDER_NAME": "银河核心优势混合A",
+      "TOTAL_SHARES": 200,
+      "HOLD_VALUE": 18456,
+      "TOTALSHARES_RATIO": 0.00004253,
+      "FREESHARES_RATIO": 0.00004272,
+      "FREE_MARKET_CAP": 18456,
+      "FREE_SHARES": 200,
+      "SECURITY_CODE": "002222",
+      "FUND_CODE": "011629",
+      "FUND_DERIVECODE": "011629.OF",
+      "NETVALUE_RATIO": 0.01
     },
     {
       "ORG_TYPE": "01",

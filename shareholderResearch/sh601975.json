@@ -25,8 +25,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 3.73,
       "AVG_HOLD_AMT": 135761.333599863,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 41.49098153,
+      "FREEHOLD_RATIO_TOTAL": 41.49098153
     },
     {
       "SECUCODE": "601975.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "601975.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "601975.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "601975.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "601975.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "601975.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "601975.SH",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "601975.SH",
       "END_DATE": "2019-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "601975.SH",
-      "END_DATE": "2019-01-08 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "601975.SH",
       "SECURITY_CODE": "601975",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国长江航运集团有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,21 +486,8 @@
     {
       "SECUCODE": "601975.SH",
       "SECURITY_CODE": "601975",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 167700803,
-      "FREE_HOLDNUM_RATIO": 3.583086600187,
-      "HOLD_NUM_CHANGE": "74716414",
-      "CHANGE_RATIO": 80.3537183
-    },
-    {
-      "SECUCODE": "601975.SH",
-      "SECURITY_CODE": "601975",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "中国工商银行股份有限公司南京下关支行",
       "HOLDER_TYPE": "金融",
       "SHARES_TYPE": "A股",
@@ -512,91 +499,104 @@
     {
       "SECUCODE": "601975.SH",
       "SECURITY_CODE": "601975",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "招商银行股份有限公司-中欧红利优享灵活配置混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 76189100,
-      "FREE_HOLDNUM_RATIO": 1.627852332289,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 132409620,
+      "FREE_HOLDNUM_RATIO": 2.829057026983,
+      "HOLD_NUM_CHANGE": "-35291183",
+      "CHANGE_RATIO": -21.04413477
     },
     {
       "SECUCODE": "601975.SH",
       "SECURITY_CODE": "601975",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "中国太平洋人寿保险股份有限公司-传统-普通保险产品",
       "HOLDER_TYPE": "保险产品",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 62987403,
-      "FREE_HOLDNUM_RATIO": 1.345785563531,
-      "HOLD_NUM_CHANGE": "-29864500",
-      "CHANGE_RATIO": -32.1635842
+      "HOLD_NUM": 55085003,
+      "FREE_HOLDNUM_RATIO": 1.176943297765,
+      "HOLD_NUM_CHANGE": "-7902400",
+      "CHANGE_RATIO": -12.54600067
     },
     {
       "SECUCODE": "601975.SH",
       "SECURITY_CODE": "601975",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
       "HOLDER_TYPE": "保险产品",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 44544100,
-      "FREE_HOLDNUM_RATIO": 0.951726914673,
-      "HOLD_NUM_CHANGE": "9124100",
-      "CHANGE_RATIO": 25.75974026
+      "HOLD_NUM": 47544100,
+      "FREE_HOLDNUM_RATIO": 1.015824758024,
+      "HOLD_NUM_CHANGE": "3000000",
+      "CHANGE_RATIO": 6.73489867
     },
     {
       "SECUCODE": "601975.SH",
       "SECURITY_CODE": "601975",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "平安银行股份有限公司-易方达核心智造混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 32355400,
+      "FREE_HOLDNUM_RATIO": 0.691303786922,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "601975.SH",
+      "SECURITY_CODE": "601975",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国建设银行股份有限公司江苏省分行",
-      "HOLDER_TYPE": "金融",
+      "HOLDER_NAME": "中国工商银行股份有限公司-路博迈资源精选股票型发起式证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 37546743,
-      "FREE_HOLDNUM_RATIO": 0.802221750387,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 28288770,
+      "FREE_HOLDNUM_RATIO": 0.604416382686,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601975.SH",
       "SECURITY_CODE": "601975",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "东北证券股份有限公司",
-      "HOLDER_TYPE": "证券公司",
+      "HOLDER_NAME": "陈跃东",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 28471031,
-      "FREE_HOLDNUM_RATIO": 0.608310561695,
+      "HOLD_NUM": 26000000,
+      "FREE_HOLDNUM_RATIO": 0.555514642377,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601975.SH",
       "SECURITY_CODE": "601975",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "兴业银行股份有限公司-万家双引擎灵活配置混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "中国人寿保险股份有限公司-分红-个人分红-005L-FH002沪",
+      "HOLDER_TYPE": "保险产品",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 27899100,
-      "FREE_HOLDNUM_RATIO": 0.596090713813,
+      "HOLD_NUM": 21622400,
+      "FREE_HOLDNUM_RATIO": 0.461983069359,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601975.SH",
       "SECURITY_CODE": "601975",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国邮政储蓄银行股份有限公司-国泰中证油气产业交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "基本养老保险基金一五零五二组合",
+      "HOLDER_TYPE": "基本养老基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 26983289,
-      "FREE_HOLDNUM_RATIO": 0.576523543807,
+      "HOLD_NUM": 20750100,
+      "FREE_HOLDNUM_RATIO": 0.443345553107,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "601975.SH",
       "SECURITY_CODE": "601975",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 2050187122,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 1941920946,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 2630157556,
-      "HOLD_NUM_RATIO": 43.8,
+      "OTHER_UNLIMITED_SHARES": 2738423732,
+      "HOLD_NUM_RATIO": 41.49,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 56.2
+      "UNLIMITED_SHARES_RATIO": 58.51
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "601975.SH",
       "SECURITY_CODE": "601975",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国长江航运集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,20 +630,8 @@
     {
       "SECUCODE": "601975.SH",
       "SECURITY_CODE": "601975",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 167700803,
-      "HOLD_NUM_RATIO": 3.58,
-      "HOLD_NUM_CHANGE": "74716414",
-      "CHANGE_RATIO": 80.3537183
-    },
-    {
-      "SECUCODE": "601975.SH",
-      "SECURITY_CODE": "601975",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "中国工商银行股份有限公司南京下关支行",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 137847870,
@@ -654,71 +642,59 @@
     {
       "SECUCODE": "601975.SH",
       "SECURITY_CODE": "601975",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "招商银行股份有限公司-中欧红利优享灵活配置混合型证券投资基金",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 76189100,
-      "HOLD_NUM_RATIO": 1.63,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 132409620,
+      "HOLD_NUM_RATIO": 2.83,
+      "HOLD_NUM_CHANGE": "-35291183",
+      "CHANGE_RATIO": -21.04413477
     },
     {
       "SECUCODE": "601975.SH",
       "SECURITY_CODE": "601975",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "中国太平洋人寿保险股份有限公司-传统-普通保险产品",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 62987403,
-      "HOLD_NUM_RATIO": 1.35,
-      "HOLD_NUM_CHANGE": "-29864500",
-      "CHANGE_RATIO": -32.1635842
+      "HOLD_NUM": 55085003,
+      "HOLD_NUM_RATIO": 1.18,
+      "HOLD_NUM_CHANGE": "-7902400",
+      "CHANGE_RATIO": -12.54600067
     },
     {
       "SECUCODE": "601975.SH",
       "SECURITY_CODE": "601975",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 44544100,
-      "HOLD_NUM_RATIO": 0.95,
-      "HOLD_NUM_CHANGE": "9124100",
-      "CHANGE_RATIO": 25.75974026
+      "HOLD_NUM": 47544100,
+      "HOLD_NUM_RATIO": 1.02,
+      "HOLD_NUM_CHANGE": "3000000",
+      "CHANGE_RATIO": 6.73489867
     },
     {
       "SECUCODE": "601975.SH",
       "SECURITY_CODE": "601975",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国建设银行股份有限公司江苏省分行",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "平安银行股份有限公司-易方达核心智造混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 37546743,
-      "HOLD_NUM_RATIO": 0.8,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "601975.SH",
-      "SECURITY_CODE": "601975",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "东北证券股份有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 28471031,
-      "HOLD_NUM_RATIO": 0.61,
+      "HOLD_NUM": 32355400,
+      "HOLD_NUM_RATIO": 0.69,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "601975.SH",
       "SECURITY_CODE": "601975",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "兴业银行股份有限公司-万家双引擎灵活配置混合型证券投资基金",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国工商银行股份有限公司-路博迈资源精选股票型发起式证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 27899100,
+      "HOLD_NUM": 28288770,
       "HOLD_NUM_RATIO": 0.6,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
@@ -726,12 +702,36 @@
     {
       "SECUCODE": "601975.SH",
       "SECURITY_CODE": "601975",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国邮政储蓄银行股份有限公司-国泰中证油气产业交易型开放式指数证券投资基金",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "陈跃东",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 26983289,
-      "HOLD_NUM_RATIO": 0.58,
+      "HOLD_NUM": 26000000,
+      "HOLD_NUM_RATIO": 0.56,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "601975.SH",
+      "SECURITY_CODE": "601975",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "中国人寿保险股份有限公司-分红-个人分红-005L-FH002沪",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 21622400,
+      "HOLD_NUM_RATIO": 0.46,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "601975.SH",
+      "SECURITY_CODE": "601975",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "基本养老保险基金一五零五二组合",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 20750100,
+      "HOLD_NUM_RATIO": 0.44,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -742,20 +742,40 @@
       "SECURITY_CODE": "601975",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 26,
-      "TOTAL_FREE_SHARES": 124835339,
-      "TOTAL_SHARES_RATIO": 2.66722532,
-      "ALL_SHARES_RATIO": 2.66722532
+      "TOTAL_ORG_NUM": 34,
+      "TOTAL_FREE_SHARES": 1980214815,
+      "TOTAL_SHARES_RATIO": 42.30916632,
+      "ALL_SHARES_RATIO": 42.30916632
     },
     {
       "SECUCODE": "601975.SH",
       "SECURITY_CODE": "601975",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 26,
-      "TOTAL_FREE_SHARES": 124835339,
-      "TOTAL_SHARES_RATIO": 2.66722532,
-      "ALL_SHARES_RATIO": 2.66722532
+      "TOTAL_ORG_NUM": 27,
+      "TOTAL_FREE_SHARES": 124938039,
+      "TOTAL_SHARES_RATIO": 2.6694196,
+      "ALL_SHARES_RATIO": 2.6694196
+    },
+    {
+      "SECUCODE": "601975.SH",
+      "SECURITY_CODE": "601975",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "05",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 124251503,
+      "TOTAL_SHARES_RATIO": 2.65475113,
+      "ALL_SHARES_RATIO": 2.65475113
+    },
+    {
+      "SECUCODE": "601975.SH",
+      "SECURITY_CODE": "601975",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 1731025273,
+      "TOTAL_SHARES_RATIO": 36.98499559,
+      "ALL_SHARES_RATIO": 36.98499559
     }
   ],
   "jjcg": [
@@ -1166,6 +1186,23 @@
       "FUND_CODE": "003650",
       "FUND_DERIVECODE": "003650.OF",
       "NETVALUE_RATIO": 0.22
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "601975.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "167503",
+      "HOLDER_NAME": "安信一带一路指数A",
+      "TOTAL_SHARES": 102700,
+      "HOLD_VALUE": 383071,
+      "TOTALSHARES_RATIO": 0.00219428,
+      "FREESHARES_RATIO": 0.00219428,
+      "FREE_MARKET_CAP": 383071,
+      "FREE_SHARES": 102700,
+      "SECURITY_CODE": "601975",
+      "FUND_CODE": "167503",
+      "FUND_DERIVECODE": "167503.OF",
+      "NETVALUE_RATIO": 0.25
     },
     {
       "ORG_TYPE": "01",

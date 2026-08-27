@@ -329,6 +329,10 @@
   "jjcg_date": [
     {
       "SECUCODE": "001234.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "001234.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -342,10 +346,6 @@
     {
       "SECUCODE": "001234.SZ",
       "REPORT_DATE": "2024-12-31 00:00:00"
-    },
-    {
-      "SECUCODE": "001234.SZ",
-      "REPORT_DATE": "2024-09-30 00:00:00"
     }
   ],
   "xsjj": [
@@ -641,10 +641,20 @@
       "SECURITY_CODE": "001234",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 7,
-      "TOTAL_FREE_SHARES": 57818648,
-      "TOTAL_SHARES_RATIO": 63.1611324,
-      "ALL_SHARES_RATIO": 53.24510634
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 57819148,
+      "TOTAL_SHARES_RATIO": 63.1616786,
+      "ALL_SHARES_RATIO": 53.24556679
+    },
+    {
+      "SECUCODE": "001234.SZ",
+      "SECURITY_CODE": "001234",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "01",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 500,
+      "TOTAL_SHARES_RATIO": 0.0005462,
+      "ALL_SHARES_RATIO": 0.00046045
     },
     {
       "SECUCODE": "001234.SZ",
@@ -671,19 +681,19 @@
     {
       "ORG_TYPE": "01",
       "SECUCODE": "001234.SZ",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "HOLDER_CODE": "320016",
-      "HOLDER_NAME": "诺安多策略混合A",
-      "TOTAL_SHARES": 538700,
-      "HOLD_VALUE": 13612949,
-      "TOTALSHARES_RATIO": 0.49235151,
-      "FREESHARES_RATIO": 0.58883648,
-      "FREE_MARKET_CAP": 13612949,
-      "FREE_SHARES": 538700,
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "519613",
+      "HOLDER_NAME": "银河君尚混合A",
+      "TOTAL_SHARES": 500,
+      "HOLD_VALUE": 9820,
+      "TOTALSHARES_RATIO": 0.00046045,
+      "FREESHARES_RATIO": 0.0005462,
+      "FREE_MARKET_CAP": 9820,
+      "FREE_SHARES": 500,
       "SECURITY_CODE": "001234",
-      "FUND_CODE": "320016",
-      "FUND_DERIVECODE": "320016.OF",
-      "NETVALUE_RATIO": 0.54
+      "FUND_CODE": "519613",
+      "FUND_DERIVECODE": "519613.OF",
+      "NETVALUE_RATIO": 0.1
     }
   ]
 }

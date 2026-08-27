@@ -67,8 +67,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 3.2631124006,
       "AVG_HOLD_AMT": 146526.468642887,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 58.18190429,
+      "FREEHOLD_RATIO_TOTAL": 58.21102743
     },
     {
       "SECUCODE": "002375.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002375.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "002375.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002375.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "002375.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002375.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002375.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002375.SZ",
       "END_DATE": "2014-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002375.SZ",
-      "END_DATE": "2014-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -426,6 +426,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "002375.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "002375.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -439,16 +443,16 @@
     {
       "SECUCODE": "002375.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "002375.SZ",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "002375.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "002375.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -462,10 +466,6 @@
     {
       "SECUCODE": "002375.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "002375.SZ",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "xsjj": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "002375.SZ",
       "SECURITY_CODE": "002375",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "亚厦控股有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "002375.SZ",
       "SECURITY_CODE": "002375",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "张杏娟",
       "HOLDER_TYPE": "个人",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "002375.SZ",
       "SECURITY_CODE": "002375",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "丁欣欣",
       "HOLDER_TYPE": "个人",
@@ -512,21 +512,8 @@
     {
       "SECUCODE": "002375.SZ",
       "SECURITY_CODE": "002375",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 20774910,
-      "FREE_HOLDNUM_RATIO": 1.560853887199,
-      "HOLD_NUM_CHANGE": "1671305",
-      "CHANGE_RATIO": 8.74863671
-    },
-    {
-      "SECUCODE": "002375.SZ",
-      "SECURITY_CODE": "002375",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "浙江亚厦装饰股份有限公司-第四期员工持股计划",
       "HOLDER_TYPE": "员工持股计划",
       "SHARES_TYPE": "A股",
@@ -538,7 +525,20 @@
     {
       "SECUCODE": "002375.SZ",
       "SECURITY_CODE": "002375",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 14654538,
+      "FREE_HOLDNUM_RATIO": 1.101020057483,
+      "HOLD_NUM_CHANGE": "-6120372",
+      "CHANGE_RATIO": -29.46040199
+    },
+    {
+      "SECUCODE": "002375.SZ",
+      "SECURITY_CODE": "002375",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "王文广",
       "HOLDER_TYPE": "个人",
@@ -551,7 +551,7 @@
     {
       "SECUCODE": "002375.SZ",
       "SECURITY_CODE": "002375",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "丁海富",
       "HOLDER_TYPE": "个人",
@@ -564,7 +564,7 @@
     {
       "SECUCODE": "002375.SZ",
       "SECURITY_CODE": "002375",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "金曙光",
       "HOLDER_TYPE": "个人",
@@ -577,48 +577,48 @@
     {
       "SECUCODE": "002375.SZ",
       "SECURITY_CODE": "002375",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国银行股份有限公司-易方达稳健收益债券型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "HOLDER_NAME": "周自吉",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8168185,
-      "FREE_HOLDNUM_RATIO": 0.613689460441,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 7526000,
+      "FREE_HOLDNUM_RATIO": 0.565441022611,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002375.SZ",
       "SECURITY_CODE": "002375",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "谭承平",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "中国银行股份有限公司-易方达稳健收益债券型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6894072,
-      "FREE_HOLDNUM_RATIO": 0.517963210422,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 7151285,
+      "FREE_HOLDNUM_RATIO": 0.537288055193,
+      "HOLD_NUM_CHANGE": "-1016900",
+      "CHANGE_RATIO": -12.44952214
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "002375.SZ",
       "SECURITY_CODE": "002375",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 781292059,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 774786715,
       "LIMITED_SHARES": 9000037,
-      "OTHER_UNLIMITED_SHARES": 549704402,
-      "HOLD_NUM_RATIO": 58.31,
+      "OTHER_UNLIMITED_SHARES": 556209746,
+      "HOLD_NUM_RATIO": 57.82,
       "LIMITED_SHARES_RATIO": 0.67,
-      "UNLIMITED_SHARES_RATIO": 41.02
+      "UNLIMITED_SHARES_RATIO": 41.51
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002375.SZ",
       "SECURITY_CODE": "002375",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "亚厦控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "002375.SZ",
       "SECURITY_CODE": "002375",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "张杏娟",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "002375.SZ",
       "SECURITY_CODE": "002375",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "丁欣欣",
       "SHARES_TYPE": "流通A股",
@@ -654,20 +654,8 @@
     {
       "SECUCODE": "002375.SZ",
       "SECURITY_CODE": "002375",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 20774910,
-      "HOLD_NUM_RATIO": 1.55,
-      "HOLD_NUM_CHANGE": "1671305",
-      "CHANGE_RATIO": 8.74863671
-    },
-    {
-      "SECUCODE": "002375.SZ",
-      "SECURITY_CODE": "002375",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
       "HOLDER_NAME": "浙江亚厦装饰股份有限公司-第四期员工持股计划",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 16920000,
@@ -678,7 +666,19 @@
     {
       "SECUCODE": "002375.SZ",
       "SECURITY_CODE": "002375",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 14654538,
+      "HOLD_NUM_RATIO": 1.09,
+      "HOLD_NUM_CHANGE": "-6120372",
+      "CHANGE_RATIO": -29.46040199
+    },
+    {
+      "SECUCODE": "002375.SZ",
+      "SECURITY_CODE": "002375",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "丁泽成",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -690,7 +690,7 @@
     {
       "SECUCODE": "002375.SZ",
       "SECURITY_CODE": "002375",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "王文广",
       "SHARES_TYPE": "流通A股",
@@ -702,7 +702,7 @@
     {
       "SECUCODE": "002375.SZ",
       "SECURITY_CODE": "002375",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "丁海富",
       "SHARES_TYPE": "流通A股",
@@ -714,7 +714,7 @@
     {
       "SECUCODE": "002375.SZ",
       "SECURITY_CODE": "002375",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "金曙光",
       "SHARES_TYPE": "流通A股",
@@ -726,13 +726,13 @@
     {
       "SECUCODE": "002375.SZ",
       "SECURITY_CODE": "002375",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国银行股份有限公司-易方达稳健收益债券型证券投资基金",
+      "HOLDER_NAME": "周自吉",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8168185,
-      "HOLD_NUM_RATIO": 0.61,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 7526000,
+      "HOLD_NUM_RATIO": 0.56,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -740,51 +740,68 @@
     {
       "SECUCODE": "002375.SZ",
       "SECURITY_CODE": "002375",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 484953127,
-      "TOTAL_SHARES_RATIO": 36.43534308,
-      "ALL_SHARES_RATIO": 36.19062645
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 477819155,
+      "TOTAL_SHARES_RATIO": 35.89935578,
+      "ALL_SHARES_RATIO": 35.65823909
     },
     {
       "SECUCODE": "002375.SZ",
       "SECURITY_CODE": "002375",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 8168185,
-      "TOTAL_SHARES_RATIO": 0.61368946,
-      "ALL_SHARES_RATIO": 0.60956764
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 7154585,
+      "TOTAL_SHARES_RATIO": 0.53753599,
+      "ALL_SHARES_RATIO": 0.53392565
     },
     {
       "SECUCODE": "002375.SZ",
       "SECURITY_CODE": "002375",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 476784942,
-      "TOTAL_SHARES_RATIO": 35.82165362,
-      "ALL_SHARES_RATIO": 35.58105881
+      "TOTAL_FREE_SHARES": 470664570,
+      "TOTAL_SHARES_RATIO": 35.36181979,
+      "ALL_SHARES_RATIO": 35.12431344
     }
   ],
   "jjcg": [
     {
       "ORG_TYPE": "01",
       "SECUCODE": "002375.SZ",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "HOLDER_CODE": "110007",
       "HOLDER_NAME": "易方达稳健收益债券A",
-      "TOTAL_SHARES": 8168185,
-      "HOLD_VALUE": 32019285.2,
-      "TOTALSHARES_RATIO": 0.60956764,
-      "FREESHARES_RATIO": 0.61368946,
-      "FREE_MARKET_CAP": 32019285.2,
-      "FREE_SHARES": 8168185,
+      "TOTAL_SHARES": 7151285,
+      "HOLD_VALUE": 24171343.3,
+      "TOTALSHARES_RATIO": 0.53367938,
+      "FREESHARES_RATIO": 0.53728806,
+      "FREE_MARKET_CAP": 24171343.3,
+      "FREE_SHARES": 7151285,
       "SECURITY_CODE": "002375",
       "FUND_CODE": "110007",
       "FUND_DERIVECODE": "110007.OF",
-      "NETVALUE_RATIO": 0.25
+      "NETVALUE_RATIO": 0.21
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002375.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "021692",
+      "HOLDER_NAME": "招商资管智达量化选股混合发起A",
+      "TOTAL_SHARES": 3300,
+      "HOLD_VALUE": 11154,
+      "TOTALSHARES_RATIO": 0.00024627,
+      "FREESHARES_RATIO": 0.00024793,
+      "FREE_MARKET_CAP": 11154,
+      "FREE_SHARES": 3300,
+      "SECURITY_CODE": "002375",
+      "FUND_CODE": "021692",
+      "FUND_DERIVECODE": "021692.OF",
+      "NETVALUE_RATIO": 0.03
     }
   ]
 }

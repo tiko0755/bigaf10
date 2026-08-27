@@ -449,6 +449,10 @@
   "jjcg_date": [
     {
       "SECUCODE": "600333.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "600333.SH",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -462,10 +466,6 @@
     {
       "SECUCODE": "600333.SH",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "600333.SH",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "xsjj": [],
@@ -528,12 +528,12 @@
       "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "高盛有限责任公司",
-      "HOLDER_TYPE": "其它",
+      "HOLDER_TYPE": "QFII",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 1622932,
       "FREE_HOLDNUM_RATIO": 0.266477870924,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM_CHANGE": "-1345372",
+      "CHANGE_RATIO": -45.32460287
     },
     {
       "SECUCODE": "600333.SH",
@@ -742,49 +742,76 @@
       "SECURITY_CODE": "600333",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 362482532,
-      "TOTAL_SHARES_RATIO": 59.51794245,
-      "ALL_SHARES_RATIO": 59.51794245
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 362503932,
+      "TOTAL_SHARES_RATIO": 59.52145623,
+      "ALL_SHARES_RATIO": 59.52145623
+    },
+    {
+      "SECUCODE": "600333.SH",
+      "SECURITY_CODE": "600333",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "01",
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 21400,
+      "TOTAL_SHARES_RATIO": 0.00351378,
+      "ALL_SHARES_RATIO": 0.00351378
     },
     {
       "SECUCODE": "600333.SH",
       "SECURITY_CODE": "600333",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "02",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 1360524,
-      "TOTAL_SHARES_RATIO": 0.2233917,
-      "ALL_SHARES_RATIO": 0.2233917
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 2983456,
+      "TOTAL_SHARES_RATIO": 0.48986957,
+      "ALL_SHARES_RATIO": 0.48986957
     },
     {
       "SECUCODE": "600333.SH",
       "SECURITY_CODE": "600333",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 361122008,
-      "TOTAL_SHARES_RATIO": 59.29455075,
-      "ALL_SHARES_RATIO": 59.29455075
+      "TOTAL_ORG_NUM": 2,
+      "TOTAL_FREE_SHARES": 359499076,
+      "TOTAL_SHARES_RATIO": 59.02807288,
+      "ALL_SHARES_RATIO": 59.02807288
     }
   ],
   "jjcg": [
     {
       "ORG_TYPE": "01",
       "SECUCODE": "600333.SH",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "HOLDER_CODE": "320016",
-      "HOLDER_NAME": "诺安多策略混合A",
-      "TOTAL_SHARES": 2833900,
-      "HOLD_VALUE": 15813162,
-      "TOTALSHARES_RATIO": 0.46531317,
-      "FREESHARES_RATIO": 0.46531317,
-      "FREE_MARKET_CAP": 15813162,
-      "FREE_SHARES": 2833900,
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "002304",
+      "HOLDER_NAME": "平安安心灵活配置混合A",
+      "TOTAL_SHARES": 14300,
+      "HOLD_VALUE": 71786,
+      "TOTALSHARES_RATIO": 0.00234799,
+      "FREESHARES_RATIO": 0.00234799,
+      "FREE_MARKET_CAP": 71786,
+      "FREE_SHARES": 14300,
       "SECURITY_CODE": "600333",
-      "FUND_CODE": "320016",
-      "FUND_DERIVECODE": "320016.OF",
-      "NETVALUE_RATIO": 0.62
+      "FUND_CODE": "002304",
+      "FUND_DERIVECODE": "002304.OF",
+      "NETVALUE_RATIO": 0.17
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600333.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "026628",
+      "HOLDER_NAME": "明亚多元配置三个月持有期混合(FOF)A",
+      "TOTAL_SHARES": 7100,
+      "HOLD_VALUE": 35642,
+      "TOTALSHARES_RATIO": 0.00116579,
+      "FREESHARES_RATIO": 0.00116579,
+      "FREE_MARKET_CAP": 35642,
+      "FREE_SHARES": 7100,
+      "SECURITY_CODE": "600333",
+      "FUND_CODE": "026628",
+      "FUND_DERIVECODE": "026628.OF",
+      "NETVALUE_RATIO": 0.03
     }
   ]
 }

@@ -81,8 +81,8 @@
       "HOLD_FOCUS": "非常集中",
       "PRICE": 58.48,
       "AVG_HOLD_AMT": 605847.489001009,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 70.54428651,
+      "FREEHOLD_RATIO_TOTAL": 70.54428651
     },
     {
       "SECUCODE": "688291.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "688291.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "688291.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "688291.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "688291.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "688291.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "688291.SH",
       "END_DATE": "2026-03-31 00:00:00",
@@ -353,7 +358,7 @@
     {
       "SECUCODE": "688291.SH",
       "SECURITY_CODE": "688291",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "马会文",
       "HOLDER_TYPE": "个人",
@@ -366,7 +371,7 @@
     {
       "SECUCODE": "688291.SH",
       "SECURITY_CODE": "688291",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "程鹏",
       "HOLDER_TYPE": "个人",
@@ -379,7 +384,7 @@
     {
       "SECUCODE": "688291.SH",
       "SECURITY_CODE": "688291",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "吕文杰",
       "HOLDER_TYPE": "个人",
@@ -392,7 +397,7 @@
     {
       "SECUCODE": "688291.SH",
       "SECURITY_CODE": "688291",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "南京可瑞资创业投资合伙企业(有限合伙)",
       "HOLDER_TYPE": "投资公司",
@@ -405,7 +410,7 @@
     {
       "SECUCODE": "688291.SH",
       "SECURITY_CODE": "688291",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "邱勇",
       "HOLDER_TYPE": "个人",
@@ -418,9 +423,9 @@
     {
       "SECUCODE": "688291.SH",
       "SECURITY_CODE": "688291",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "苏州精诚至技术服务中心(有限合伙)",
+      "HOLDER_NAME": "东台金诚至技术服务中心(有限合伙)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 6900000,
@@ -431,21 +436,8 @@
     {
       "SECUCODE": "688291.SH",
       "SECURITY_CODE": "688291",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "全国社保基金五零三组合",
-      "HOLDER_TYPE": "全国社保基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4000000,
-      "FREE_HOLDNUM_RATIO": 3.896102631136,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688291.SH",
-      "SECURITY_CODE": "688291",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "北京金橙子科技股份有限公司-2025年员工持股计划",
       "HOLDER_TYPE": "员工持股计划",
       "SHARES_TYPE": "A股",
@@ -457,27 +449,40 @@
     {
       "SECUCODE": "688291.SH",
       "SECURITY_CODE": "688291",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "黄郁宏",
-      "HOLDER_TYPE": "个人",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "全国社保基金五零三组合",
+      "HOLDER_TYPE": "全国社保基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 889600,
-      "FREE_HOLDNUM_RATIO": 0.866493225165,
-      "HOLD_NUM_CHANGE": "9600",
-      "CHANGE_RATIO": 1.09090909
+      "HOLD_NUM": 800000,
+      "FREE_HOLDNUM_RATIO": 0.779220526227,
+      "HOLD_NUM_CHANGE": "-3200000",
+      "CHANGE_RATIO": -80
     },
     {
       "SECUCODE": "688291.SH",
       "SECURITY_CODE": "688291",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "黄郁宏",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 552000,
+      "FREE_HOLDNUM_RATIO": 0.537662163097,
+      "HOLD_NUM_CHANGE": "-337600",
+      "CHANGE_RATIO": -37.94964029
+    },
+    {
+      "SECUCODE": "688291.SH",
+      "SECURITY_CODE": "688291",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "王继红",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 501583,
       "FREE_HOLDNUM_RATIO": 0.488554711508,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -485,20 +490,20 @@
     {
       "SECUCODE": "688291.SH",
       "SECURITY_CODE": "688291",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 75963091,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 72425491,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 26703609,
-      "HOLD_NUM_RATIO": 73.99,
+      "OTHER_UNLIMITED_SHARES": 30241209,
+      "HOLD_NUM_RATIO": 70.54,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 26.01
+      "UNLIMITED_SHARES_RATIO": 29.46
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "688291.SH",
       "SECURITY_CODE": "688291",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "马会文",
       "SHARES_TYPE": "流通A股",
@@ -510,7 +515,7 @@
     {
       "SECUCODE": "688291.SH",
       "SECURITY_CODE": "688291",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "程鹏",
       "SHARES_TYPE": "流通A股",
@@ -522,7 +527,7 @@
     {
       "SECUCODE": "688291.SH",
       "SECURITY_CODE": "688291",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "吕文杰",
       "SHARES_TYPE": "流通A股",
@@ -534,7 +539,7 @@
     {
       "SECUCODE": "688291.SH",
       "SECURITY_CODE": "688291",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "南京可瑞资创业投资合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -546,7 +551,7 @@
     {
       "SECUCODE": "688291.SH",
       "SECURITY_CODE": "688291",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "邱勇",
       "SHARES_TYPE": "流通A股",
@@ -558,9 +563,9 @@
     {
       "SECUCODE": "688291.SH",
       "SECURITY_CODE": "688291",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "苏州精诚至技术服务中心(有限合伙)",
+      "HOLDER_NAME": "东台金诚至技术服务中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 6900000,
       "HOLD_NUM_RATIO": 6.72,
@@ -570,20 +575,8 @@
     {
       "SECUCODE": "688291.SH",
       "SECURITY_CODE": "688291",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
-      "HOLDER_NAME": "全国社保基金五零三组合",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4000000,
-      "HOLD_NUM_RATIO": 3.9,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "688291.SH",
-      "SECURITY_CODE": "688291",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
       "HOLDER_NAME": "北京金橙子科技股份有限公司-2025年员工持股计划",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1571908,
@@ -594,25 +587,37 @@
     {
       "SECUCODE": "688291.SH",
       "SECURITY_CODE": "688291",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "黄郁宏",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "全国社保基金五零三组合",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 889600,
-      "HOLD_NUM_RATIO": 0.87,
-      "HOLD_NUM_CHANGE": "9600",
-      "CHANGE_RATIO": 1.09090909
+      "HOLD_NUM": 800000,
+      "HOLD_NUM_RATIO": 0.78,
+      "HOLD_NUM_CHANGE": "-3200000",
+      "CHANGE_RATIO": -80
     },
     {
       "SECUCODE": "688291.SH",
       "SECURITY_CODE": "688291",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "黄郁宏",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 552000,
+      "HOLD_NUM_RATIO": 0.54,
+      "HOLD_NUM_CHANGE": "-337600",
+      "CHANGE_RATIO": -37.94964029
+    },
+    {
+      "SECUCODE": "688291.SH",
+      "SECURITY_CODE": "688291",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "王继红",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 501583,
       "HOLD_NUM_RATIO": 0.49,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
   ],
@@ -622,10 +627,10 @@
       "SECURITY_CODE": "688291",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 139951,
-      "TOTAL_SHARES_RATIO": 0.13631587,
-      "ALL_SHARES_RATIO": 0.13631587
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 19937809,
+      "TOTAL_SHARES_RATIO": 19.41993753,
+      "ALL_SHARES_RATIO": 19.41993753
     },
     {
       "SECUCODE": "688291.SH",
@@ -636,6 +641,26 @@
       "TOTAL_FREE_SHARES": 139951,
       "TOTAL_SHARES_RATIO": 0.13631587,
       "ALL_SHARES_RATIO": 0.13631587
+    },
+    {
+      "SECUCODE": "688291.SH",
+      "SECURITY_CODE": "688291",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "03",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 800000,
+      "TOTAL_SHARES_RATIO": 0.77922053,
+      "ALL_SHARES_RATIO": 0.77922053
+    },
+    {
+      "SECUCODE": "688291.SH",
+      "SECURITY_CODE": "688291",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 18997858,
+      "TOTAL_SHARES_RATIO": 18.50440113,
+      "ALL_SHARES_RATIO": 18.50440113
     }
   ],
   "jjcg": [

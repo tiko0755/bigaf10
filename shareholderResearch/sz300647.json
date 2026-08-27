@@ -449,6 +449,10 @@
   "jjcg_date": [
     {
       "SECUCODE": "300647.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "300647.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -462,10 +466,6 @@
     {
       "SECUCODE": "300647.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "300647.SZ",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "xsjj": [],
@@ -742,10 +742,20 @@
       "SECURITY_CODE": "300647",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 12631829,
+      "TOTAL_SHARES_RATIO": 2.76624249,
+      "ALL_SHARES_RATIO": 2.76213608
+    },
+    {
+      "SECUCODE": "300647.SZ",
+      "SECURITY_CODE": "300647",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "01",
       "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 12622129,
-      "TOTAL_SHARES_RATIO": 2.76411829,
-      "ALL_SHARES_RATIO": 2.76001503
+      "TOTAL_FREE_SHARES": 9700,
+      "TOTAL_SHARES_RATIO": 0.0021242,
+      "ALL_SHARES_RATIO": 0.00212105
     },
     {
       "SECUCODE": "300647.SZ",
@@ -772,19 +782,36 @@
     {
       "ORG_TYPE": "01",
       "SECUCODE": "300647.SZ",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "HOLDER_CODE": "320016",
-      "HOLDER_NAME": "诺安多策略混合A",
-      "TOTAL_SHARES": 2177200,
-      "HOLD_VALUE": 13041428,
-      "TOTALSHARES_RATIO": 0.47607695,
-      "FREESHARES_RATIO": 0.47678473,
-      "FREE_MARKET_CAP": 13041428,
-      "FREE_SHARES": 2177200,
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "026628",
+      "HOLDER_NAME": "明亚多元配置三个月持有期混合(FOF)A",
+      "TOTAL_SHARES": 6100,
+      "HOLD_VALUE": 36295,
+      "TOTALSHARES_RATIO": 0.00133386,
+      "FREESHARES_RATIO": 0.00133584,
+      "FREE_MARKET_CAP": 36295,
+      "FREE_SHARES": 6100,
       "SECURITY_CODE": "300647",
-      "FUND_CODE": "320016",
-      "FUND_DERIVECODE": "320016.OF",
-      "NETVALUE_RATIO": 0.51
+      "FUND_CODE": "026628",
+      "FUND_DERIVECODE": "026628.OF",
+      "NETVALUE_RATIO": 0.03
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300647.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "159556",
+      "HOLDER_NAME": "平安中证2000增强策略ETF",
+      "TOTAL_SHARES": 3600,
+      "HOLD_VALUE": 21420,
+      "TOTALSHARES_RATIO": 0.00078719,
+      "FREESHARES_RATIO": 0.00078836,
+      "FREE_MARKET_CAP": 21420,
+      "FREE_SHARES": 3600,
+      "SECURITY_CODE": "300647",
+      "FUND_CODE": "159556",
+      "FUND_DERIVECODE": "159556.SZ",
+      "NETVALUE_RATIO": 0.13
     }
   ]
 }

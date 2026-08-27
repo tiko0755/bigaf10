@@ -449,6 +449,10 @@
   "jjcg_date": [
     {
       "SECUCODE": "600255.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "600255.SH",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -462,10 +466,6 @@
     {
       "SECUCODE": "600255.SH",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "600255.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "xsjj": [],
@@ -742,10 +742,20 @@
       "SECURITY_CODE": "600255",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 223056665,
+      "TOTAL_SHARES_RATIO": 12.34986248,
+      "ALL_SHARES_RATIO": 12.34986248
+    },
+    {
+      "SECUCODE": "600255.SH",
+      "SECURITY_CODE": "600255",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "01",
       "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 222924565,
-      "TOTAL_SHARES_RATIO": 12.34254857,
-      "ALL_SHARES_RATIO": 12.34254857
+      "TOTAL_FREE_SHARES": 132100,
+      "TOTAL_SHARES_RATIO": 0.00731391,
+      "ALL_SHARES_RATIO": 0.00731391
     },
     {
       "SECUCODE": "600255.SH",
@@ -772,19 +782,53 @@
     {
       "ORG_TYPE": "01",
       "SECUCODE": "600255.SH",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "026600",
+      "HOLDER_NAME": "明亚远臻智选混合A",
+      "TOTAL_SHARES": 123800,
+      "HOLD_VALUE": 430824,
+      "TOTALSHARES_RATIO": 0.00685437,
+      "FREESHARES_RATIO": 0.00685437,
+      "FREE_MARKET_CAP": 430824,
+      "FREE_SHARES": 123800,
+      "SECURITY_CODE": "600255",
+      "FUND_CODE": "026600",
+      "FUND_DERIVECODE": "026600.OF",
+      "NETVALUE_RATIO": 0.26
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600255.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "009128",
+      "HOLDER_NAME": "明亚价值长青A",
+      "TOTAL_SHARES": 7700,
+      "HOLD_VALUE": 26796,
+      "TOTALSHARES_RATIO": 0.00042632,
+      "FREESHARES_RATIO": 0.00042632,
+      "FREE_MARKET_CAP": 26796,
+      "FREE_SHARES": 7700,
+      "SECURITY_CODE": "600255",
+      "FUND_CODE": "009128",
+      "FUND_DERIVECODE": "009128.OF",
+      "NETVALUE_RATIO": 0.26
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600255.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "HOLDER_CODE": "159556",
       "HOLDER_NAME": "平安中证2000增强策略ETF",
-      "TOTAL_SHARES": 47100,
-      "HOLD_VALUE": 157785,
-      "TOTALSHARES_RATIO": 0.00260776,
-      "FREESHARES_RATIO": 0.00260776,
-      "FREE_MARKET_CAP": 157785,
-      "FREE_SHARES": 47100,
+      "TOTAL_SHARES": 600,
+      "HOLD_VALUE": 2088,
+      "TOTALSHARES_RATIO": 0.00003322,
+      "FREESHARES_RATIO": 0.00003322,
+      "FREE_MARKET_CAP": 2088,
+      "FREE_SHARES": 600,
       "SECURITY_CODE": "600255",
       "FUND_CODE": "159556",
       "FUND_DERIVECODE": "159556.SZ",
-      "NETVALUE_RATIO": 0.81
+      "NETVALUE_RATIO": 0.01
     }
   ]
 }

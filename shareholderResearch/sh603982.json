@@ -67,8 +67,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 5.59,
       "AVG_HOLD_AMT": 73501.5618540892,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 49.53005608,
+      "FREEHOLD_RATIO_TOTAL": 46.11102724
     },
     {
       "SECUCODE": "603982.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603982.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "603982.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "603982.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "603982.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "603982.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "603982.SH",
       "END_DATE": "2026-03-31 00:00:00",
@@ -381,6 +386,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "603982.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "603982.SH",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -394,14 +403,14 @@
     {
       "SECUCODE": "603982.SH",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "603982.SH",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
   "jjcg_date": [
+    {
+      "SECUCODE": "603982.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
     {
       "SECUCODE": "603982.SH",
       "REPORT_DATE": "2026-03-31 00:00:00"
@@ -417,10 +426,6 @@
     {
       "SECUCODE": "603982.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "603982.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "xsjj": [
@@ -438,7 +443,7 @@
     {
       "SECUCODE": "603982.SH",
       "SECURITY_CODE": "603982",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "泉峰精密技術控股有限公司",
       "HOLDER_TYPE": "其它",
@@ -451,7 +456,7 @@
     {
       "SECUCODE": "603982.SH",
       "SECURITY_CODE": "603982",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "泉峰(中国)投资有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -464,21 +469,34 @@
     {
       "SECUCODE": "603982.SH",
       "SECURITY_CODE": "603982",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "王治星",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5632648,
-      "FREE_HOLDNUM_RATIO": 1.658839388714,
-      "HOLD_NUM_CHANGE": "627700",
-      "CHANGE_RATIO": 12.54158884
+      "HOLD_NUM": 7281948,
+      "FREE_HOLDNUM_RATIO": 2.144565428013,
+      "HOLD_NUM_CHANGE": "1649300",
+      "CHANGE_RATIO": 29.28107704
     },
     {
       "SECUCODE": "603982.SH",
       "SECURITY_CODE": "603982",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
+      "HOLDER_NAME": "陈云高",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2774400,
+      "FREE_HOLDNUM_RATIO": 0.81707289361,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603982.SH",
+      "SECURITY_CODE": "603982",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
       "HOLDER_NAME": "南京江宁经开私募基金管理有限公司-金宁经开产业强链股权投资(湖北)合伙企业(有限合伙)",
       "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
@@ -490,60 +508,34 @@
     {
       "SECUCODE": "603982.SH",
       "SECURITY_CODE": "603982",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国建设银行股份有限公司-广发量化多因子灵活配置混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "卢文星",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1853200,
-      "FREE_HOLDNUM_RATIO": 0.545775478099,
-      "HOLD_NUM_CHANGE": "-238000",
-      "CHANGE_RATIO": -11.38102525
+      "HOLD_NUM": 1731900,
+      "FREE_HOLDNUM_RATIO": 0.510052099353,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603982.SH",
       "SECURITY_CODE": "603982",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
       "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1799906,
-      "FREE_HOLDNUM_RATIO": 0.530080162791,
-      "HOLD_NUM_CHANGE": "142100",
-      "CHANGE_RATIO": 8.57156989
+      "HOLD_NUM": 1611006,
+      "FREE_HOLDNUM_RATIO": 0.474448289376,
+      "HOLD_NUM_CHANGE": "-188900",
+      "CHANGE_RATIO": -10.49499252
     },
     {
       "SECUCODE": "603982.SH",
       "SECURITY_CODE": "603982",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1688853,
-      "FREE_HOLDNUM_RATIO": 0.497374570211,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603982.SH",
-      "SECURITY_CODE": "603982",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "高盛公司有限责任公司",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1541612,
-      "FREE_HOLDNUM_RATIO": 0.454011453887,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603982.SH",
-      "SECURITY_CODE": "603982",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "张艳",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
@@ -555,13 +547,26 @@
     {
       "SECUCODE": "603982.SH",
       "SECURITY_CODE": "603982",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中信银行股份有限公司-招商中证2000指数增强型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "唐亮",
+      "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1393800,
-      "FREE_HOLDNUM_RATIO": 0.410480175575,
+      "HOLD_NUM": 1408900,
+      "FREE_HOLDNUM_RATIO": 0.414927191395,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603982.SH",
+      "SECURITY_CODE": "603982",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "余其欣",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1298480,
+      "FREE_HOLDNUM_RATIO": 0.382408020075,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
@@ -570,20 +575,20 @@
     {
       "SECUCODE": "603982.SH",
       "SECURITY_CODE": "603982",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 154375014,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 156571629,
       "LIMITED_SHARES": 25575447,
-      "OTHER_UNLIMITED_SHARES": 185178534,
-      "HOLD_NUM_RATIO": 42.28,
+      "OTHER_UNLIMITED_SHARES": 182981919,
+      "HOLD_NUM_RATIO": 42.88,
       "LIMITED_SHARES_RATIO": 7,
-      "UNLIMITED_SHARES_RATIO": 50.72
+      "UNLIMITED_SHARES_RATIO": 50.11
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "603982.SH",
       "SECURITY_CODE": "603982",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "泉峰精密技術控股有限公司",
       "SHARES_TYPE": "流通A股",
@@ -595,7 +600,7 @@
     {
       "SECUCODE": "603982.SH",
       "SECURITY_CODE": "603982",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "泉峰(中国)投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -607,7 +612,7 @@
     {
       "SECUCODE": "603982.SH",
       "SECURITY_CODE": "603982",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "德潤控股有限公司",
       "SHARES_TYPE": "限售流通A股",
@@ -619,20 +624,32 @@
     {
       "SECUCODE": "603982.SH",
       "SECURITY_CODE": "603982",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "王治星",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5632648,
-      "HOLD_NUM_RATIO": 1.54,
-      "HOLD_NUM_CHANGE": "627700",
-      "CHANGE_RATIO": 12.54158884
+      "HOLD_NUM": 7281948,
+      "HOLD_NUM_RATIO": 1.99,
+      "HOLD_NUM_CHANGE": "1649300",
+      "CHANGE_RATIO": 29.28107704
     },
     {
       "SECUCODE": "603982.SH",
       "SECURITY_CODE": "603982",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "陈云高",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2774400,
+      "HOLD_NUM_RATIO": 0.76,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603982.SH",
+      "SECURITY_CODE": "603982",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "南京江宁经开私募基金管理有限公司-金宁经开产业强链股权投资(湖北)合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2277327,
@@ -643,61 +660,49 @@
     {
       "SECUCODE": "603982.SH",
       "SECURITY_CODE": "603982",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国建设银行股份有限公司-广发量化多因子灵活配置混合型证券投资基金",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "卢文星",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1853200,
-      "HOLD_NUM_RATIO": 0.51,
-      "HOLD_NUM_CHANGE": "-238000",
-      "CHANGE_RATIO": -11.38102525
+      "HOLD_NUM": 1731900,
+      "HOLD_NUM_RATIO": 0.47,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603982.SH",
       "SECURITY_CODE": "603982",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1799906,
-      "HOLD_NUM_RATIO": 0.49,
-      "HOLD_NUM_CHANGE": "142100",
-      "CHANGE_RATIO": 8.57156989
+      "HOLD_NUM": 1611006,
+      "HOLD_NUM_RATIO": 0.44,
+      "HOLD_NUM_CHANGE": "-188900",
+      "CHANGE_RATIO": -10.49499252
     },
     {
       "SECUCODE": "603982.SH",
       "SECURITY_CODE": "603982",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "MORGAN STANLEY & CO.INTERNATIONAL PLC.",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1688853,
-      "HOLD_NUM_RATIO": 0.46,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603982.SH",
-      "SECURITY_CODE": "603982",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
-      "HOLDER_NAME": "高盛公司有限责任公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1541612,
-      "HOLD_NUM_RATIO": 0.42,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603982.SH",
-      "SECURITY_CODE": "603982",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "张艳",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1516600,
       "HOLD_NUM_RATIO": 0.42,
       "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603982.SH",
+      "SECURITY_CODE": "603982",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "唐亮",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1408900,
+      "HOLD_NUM_RATIO": 0.39,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -705,37 +710,27 @@
     {
       "SECUCODE": "603982.SH",
       "SECURITY_CODE": "603982",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 8,
-      "TOTAL_FREE_SHARES": 147225766,
-      "TOTAL_SHARES_RATIO": 43.35862985,
-      "ALL_SHARES_RATIO": 40.32157622
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 140559401,
+      "TOTAL_SHARES_RATIO": 41.3953563,
+      "ALL_SHARES_RATIO": 38.49582009
     },
     {
       "SECUCODE": "603982.SH",
       "SECURITY_CODE": "603982",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 3,
-      "TOTAL_FREE_SHARES": 5046906,
-      "TOTAL_SHARES_RATIO": 1.48633582,
-      "ALL_SHARES_RATIO": 1.38222548
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 1611006,
+      "TOTAL_SHARES_RATIO": 0.47444829,
+      "ALL_SHARES_RATIO": 0.44121558
     },
     {
       "SECUCODE": "603982.SH",
       "SECURITY_CODE": "603982",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "ORG_TYPE": "02",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 3230465,
-      "TOTAL_SHARES_RATIO": 0.95138602,
-      "ALL_SHARES_RATIO": 0.88474623
-    },
-    {
-      "SECUCODE": "603982.SH",
-      "SECURITY_CODE": "603982",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 3,
       "TOTAL_FREE_SHARES": 138948395,
@@ -747,53 +742,19 @@
     {
       "ORG_TYPE": "01",
       "SECUCODE": "603982.SH",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "HOLDER_CODE": "005225",
-      "HOLDER_NAME": "广发量化多因子混合A",
-      "TOTAL_SHARES": 1853200,
-      "HOLD_VALUE": 14343768,
-      "TOTALSHARES_RATIO": 0.50754665,
-      "FREESHARES_RATIO": 0.54577548,
-      "FREE_MARKET_CAP": 14343768,
-      "FREE_SHARES": 1853200,
-      "SECURITY_CODE": "603982",
-      "FUND_CODE": "005225",
-      "FUND_DERIVECODE": "005225.OF",
-      "NETVALUE_RATIO": 0.28
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "603982.SH",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "HOLDER_CODE": "320016",
       "HOLDER_NAME": "诺安多策略混合A",
-      "TOTAL_SHARES": 1799906,
-      "HOLD_VALUE": 13931272.44,
-      "TOTALSHARES_RATIO": 0.49295072,
-      "FREESHARES_RATIO": 0.53008016,
-      "FREE_MARKET_CAP": 13931272.44,
-      "FREE_SHARES": 1799906,
+      "TOTAL_SHARES": 1611006,
+      "HOLD_VALUE": 9005523.54,
+      "TOTALSHARES_RATIO": 0.44121558,
+      "FREESHARES_RATIO": 0.47444829,
+      "FREE_MARKET_CAP": 9005523.54,
+      "FREE_SHARES": 1611006,
       "SECURITY_CODE": "603982",
       "FUND_CODE": "320016",
       "FUND_DERIVECODE": "320016.OF",
-      "NETVALUE_RATIO": 0.55
-    },
-    {
-      "ORG_TYPE": "01",
-      "SECUCODE": "603982.SH",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "HOLDER_CODE": "019918",
-      "HOLDER_NAME": "招商中证2000指数增强A",
-      "TOTAL_SHARES": 1393800,
-      "HOLD_VALUE": 10788012,
-      "TOTALSHARES_RATIO": 0.38172811,
-      "FREESHARES_RATIO": 0.41048018,
-      "FREE_MARKET_CAP": 10788012,
-      "FREE_SHARES": 1393800,
-      "SECURITY_CODE": "603982",
-      "FUND_CODE": "019918",
-      "FUND_DERIVECODE": "019918.OF",
-      "NETVALUE_RATIO": 0.56
+      "NETVALUE_RATIO": 0.65
     }
   ]
 }
