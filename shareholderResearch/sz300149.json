@@ -53,8 +53,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 9.54,
       "AVG_HOLD_AMT": 108221.434580963,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 35.04715739,
+      "FREEHOLD_RATIO_TOTAL": 31.85123506
     },
     {
       "SECUCODE": "300149.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300149.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "300149.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300149.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "300149.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300149.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300149.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "300149.SZ",
       "END_DATE": "2020-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "300149.SZ",
-      "END_DATE": "2019-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,21 +473,8 @@
     {
       "SECUCODE": "300149.SZ",
       "SECURITY_CODE": "300149",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 27844304,
-      "FREE_HOLDNUM_RATIO": 5.867350906439,
-      "HOLD_NUM_CHANGE": "1709521",
-      "CHANGE_RATIO": 6.54117159
-    },
-    {
-      "SECUCODE": "300149.SZ",
-      "SECURITY_CODE": "300149",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 2,
       "HOLDER_NAME": "江门睿联医药投资有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
@@ -499,33 +486,46 @@
     {
       "SECUCODE": "300149.SZ",
       "SECURITY_CODE": "300149",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 26124935,
+      "FREE_HOLDNUM_RATIO": 5.505045522162,
+      "HOLD_NUM_CHANGE": "-1719369",
+      "CHANGE_RATIO": -6.17493977
+    },
+    {
+      "SECUCODE": "300149.SZ",
+      "SECURITY_CODE": "300149",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "梁玉凤",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 24898160,
       "FREE_HOLDNUM_RATIO": 5.246539530838,
-      "HOLD_NUM_CHANGE": "-1287500",
-      "CHANGE_RATIO": -4.91681325
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300149.SZ",
       "SECURITY_CODE": "300149",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "于显文",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 24898100,
       "FREE_HOLDNUM_RATIO": 5.24652688764,
-      "HOLD_NUM_CHANGE": "-101900",
-      "CHANGE_RATIO": -0.4076
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300149.SZ",
       "SECURITY_CODE": "300149",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "MEGA STAR CENTRE LIMITED",
       "HOLDER_TYPE": "其它",
@@ -538,7 +538,7 @@
     {
       "SECUCODE": "300149.SZ",
       "SECURITY_CODE": "300149",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "上海睿昀企业管理中心(有限合伙)",
       "HOLDER_TYPE": "其它",
@@ -551,7 +551,7 @@
     {
       "SECUCODE": "300149.SZ",
       "SECURITY_CODE": "300149",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "WOO SWEE LIAN",
       "HOLDER_TYPE": "个人",
@@ -564,61 +564,61 @@
     {
       "SECUCODE": "300149.SZ",
       "SECURITY_CODE": "300149",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "北海八本创业投资有限公司",
-      "HOLDER_TYPE": "投资公司",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 4198928,
-      "FREE_HOLDNUM_RATIO": 0.884797982628,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300149.SZ",
-      "SECURITY_CODE": "300149",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "湖南嘉泉商务有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 3419322,
-      "FREE_HOLDNUM_RATIO": 0.720519429615,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3090122,
+      "FREE_HOLDNUM_RATIO": 0.651150415457,
+      "HOLD_NUM_CHANGE": "-329200",
+      "CHANGE_RATIO": -9.62763963
     },
     {
       "SECUCODE": "300149.SZ",
       "SECURITY_CODE": "300149",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "上海睿钊企业管理中心(有限合伙)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2953400,
-      "FREE_HOLDNUM_RATIO": 0.622340359704,
-      "HOLD_NUM_CHANGE": "-1016600",
-      "CHANGE_RATIO": -25.6070529
+      "HOLD_NUM": 2426900,
+      "FREE_HOLDNUM_RATIO": 0.511396295445,
+      "HOLD_NUM_CHANGE": "-526500",
+      "CHANGE_RATIO": -17.82691136
+    },
+    {
+      "SECUCODE": "300149.SZ",
+      "SECURITY_CODE": "300149",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "王衡",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2050067,
+      "FREE_HOLDNUM_RATIO": 0.431990056951,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "300149.SZ",
       "SECURITY_CODE": "300149",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 155878256,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 151154326,
       "LIMITED_SHARES": 23400523,
-      "OTHER_UNLIMITED_SHARES": 318685213,
-      "HOLD_NUM_RATIO": 31.3,
+      "OTHER_UNLIMITED_SHARES": 323409143,
+      "HOLD_NUM_RATIO": 30.35,
       "LIMITED_SHARES_RATIO": 4.7,
-      "UNLIMITED_SHARES_RATIO": 64
+      "UNLIMITED_SHARES_RATIO": 64.95
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300149.SZ",
       "SECURITY_CODE": "300149",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "WOO SWEE LIAN",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -630,20 +630,8 @@
     {
       "SECUCODE": "300149.SZ",
       "SECURITY_CODE": "300149",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 27844304,
-      "HOLD_NUM_RATIO": 5.59,
-      "HOLD_NUM_CHANGE": "1709521",
-      "CHANGE_RATIO": 6.54117159
-    },
-    {
-      "SECUCODE": "300149.SZ",
-      "SECURITY_CODE": "300149",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 3,
       "HOLDER_NAME": "江门睿联医药投资有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 26641074,
@@ -654,31 +642,43 @@
     {
       "SECUCODE": "300149.SZ",
       "SECURITY_CODE": "300149",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 26124935,
+      "HOLD_NUM_RATIO": 5.25,
+      "HOLD_NUM_CHANGE": "-1719369",
+      "CHANGE_RATIO": -6.17493977
+    },
+    {
+      "SECUCODE": "300149.SZ",
+      "SECURITY_CODE": "300149",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "梁玉凤",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 24898160,
       "HOLD_NUM_RATIO": 5,
-      "HOLD_NUM_CHANGE": "-1287500",
-      "CHANGE_RATIO": -4.91681325
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300149.SZ",
       "SECURITY_CODE": "300149",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "于显文",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 24898100,
       "HOLD_NUM_RATIO": 5,
-      "HOLD_NUM_CHANGE": "-101900",
-      "CHANGE_RATIO": -0.4076
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "300149.SZ",
       "SECURITY_CODE": "300149",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "MEGA STAR CENTRE LIMITED",
       "SHARES_TYPE": "流通A股",
@@ -690,7 +690,7 @@
     {
       "SECUCODE": "300149.SZ",
       "SECURITY_CODE": "300149",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "上海睿昀企业管理中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -702,38 +702,38 @@
     {
       "SECUCODE": "300149.SZ",
       "SECURITY_CODE": "300149",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "北海八本创业投资有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4198928,
-      "HOLD_NUM_RATIO": 0.84,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300149.SZ",
-      "SECURITY_CODE": "300149",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
       "HOLDER_NAME": "湖南嘉泉商务有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3419322,
-      "HOLD_NUM_RATIO": 0.69,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 3090122,
+      "HOLD_NUM_RATIO": 0.62,
+      "HOLD_NUM_CHANGE": "-329200",
+      "CHANGE_RATIO": -9.62763963
     },
     {
       "SECUCODE": "300149.SZ",
       "SECURITY_CODE": "300149",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "上海睿钊企业管理中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2953400,
-      "HOLD_NUM_RATIO": 0.59,
-      "HOLD_NUM_CHANGE": "-1016600",
-      "CHANGE_RATIO": -25.6070529
+      "HOLD_NUM": 2426900,
+      "HOLD_NUM_RATIO": 0.49,
+      "HOLD_NUM_CHANGE": "-526500",
+      "CHANGE_RATIO": -17.82691136
+    },
+    {
+      "SECUCODE": "300149.SZ",
+      "SECURITY_CODE": "300149",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "王衡",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2050067,
+      "HOLD_NUM_RATIO": 0.41,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
@@ -742,20 +742,30 @@
       "SECURITY_CODE": "300149",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 2328738,
-      "TOTAL_SHARES_RATIO": 0.4907116,
-      "ALL_SHARES_RATIO": 0.46765188
+      "TOTAL_ORG_NUM": 12,
+      "TOTAL_FREE_SHARES": 94238537,
+      "TOTAL_SHARES_RATIO": 19.85794171,
+      "ALL_SHARES_RATIO": 18.92476937
     },
     {
       "SECUCODE": "300149.SZ",
       "SECURITY_CODE": "300149",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 2328738,
-      "TOTAL_SHARES_RATIO": 0.4907116,
-      "ALL_SHARES_RATIO": 0.46765188
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 2719838,
+      "TOTAL_SHARES_RATIO": 0.57312418,
+      "ALL_SHARES_RATIO": 0.5461917
+    },
+    {
+      "SECUCODE": "300149.SZ",
+      "SECURITY_CODE": "300149",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 91518699,
+      "TOTAL_SHARES_RATIO": 19.28481753,
+      "ALL_SHARES_RATIO": 18.37857767
     }
   ],
   "jjcg": [
@@ -797,6 +807,23 @@
       "ORG_TYPE": "01",
       "SECUCODE": "300149.SZ",
       "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "000006",
+      "HOLDER_NAME": "西部利得量化成长混合A",
+      "TOTAL_SHARES": 390200,
+      "HOLD_VALUE": 3722508,
+      "TOTALSHARES_RATIO": 0.07835908,
+      "FREESHARES_RATIO": 0.08222293,
+      "FREE_MARKET_CAP": 3722508,
+      "FREE_SHARES": 390200,
+      "SECURITY_CODE": "300149",
+      "FUND_CODE": "000006",
+      "FUND_DERIVECODE": "000006.OF",
+      "NETVALUE_RATIO": 0.2
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300149.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "HOLDER_CODE": "011383",
       "HOLDER_NAME": "富安达医药创新混合A",
       "TOTAL_SHARES": 379600,
@@ -826,6 +853,23 @@
       "FUND_CODE": "001861",
       "FUND_DERIVECODE": "001861.OF",
       "NETVALUE_RATIO": 3.45
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300149.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "159289",
+      "HOLDER_NAME": "鹏华创业板综合ETF",
+      "TOTAL_SHARES": 900,
+      "HOLD_VALUE": 8586,
+      "TOTALSHARES_RATIO": 0.00018074,
+      "FREESHARES_RATIO": 0.00018965,
+      "FREE_MARKET_CAP": 8586,
+      "FREE_SHARES": 900,
+      "SECURITY_CODE": "300149",
+      "FUND_CODE": "159289",
+      "FUND_DERIVECODE": "159289.SZ",
+      "NETVALUE_RATIO": 0.02
     }
   ]
 }

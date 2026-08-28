@@ -53,8 +53,8 @@
       "HOLD_FOCUS": "非常分散",
       "PRICE": 2.22,
       "AVG_HOLD_AMT": 83852.7493757723,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 38.5410611,
+      "FREEHOLD_RATIO_TOTAL": 38.5410611
     },
     {
       "SECUCODE": "002721.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002721.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "002721.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002721.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "002721.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002721.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002721.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002721.SZ",
       "END_DATE": "2020-05-20 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "002721.SZ",
-      "END_DATE": "2020-05-19 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -424,6 +424,10 @@
     }
   ],
   "jgcc_date": [
+    {
+      "SECUCODE": "002721.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
     {
       "SECUCODE": "002721.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
@@ -439,14 +443,14 @@
     {
       "SECUCODE": "002721.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "002721.SZ",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
   "jjcg_date": [
+    {
+      "SECUCODE": "002721.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
     {
       "SECUCODE": "002721.SZ",
       "REPORT_DATE": "2025-12-31 00:00:00"
@@ -462,10 +466,6 @@
     {
       "SECUCODE": "002721.SZ",
       "REPORT_DATE": "2022-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "002721.SZ",
-      "REPORT_DATE": "2021-12-31 00:00:00"
     }
   ],
   "xsjj": [],
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "002721.SZ",
       "SECURITY_CODE": "002721",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京海鑫资产管理有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "002721.SZ",
       "SECURITY_CODE": "002721",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "北京海淀科技金融资本控股集团股份有限公司",
       "HOLDER_TYPE": "投资公司",
@@ -499,20 +499,20 @@
     {
       "SECUCODE": "002721.SZ",
       "SECURITY_CODE": "002721",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "安阳产业投资集团有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 42422615,
       "FREE_HOLDNUM_RATIO": 1.595207796314,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002721.SZ",
       "SECURITY_CODE": "002721",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "陈宝康",
       "HOLDER_TYPE": "个人",
@@ -525,7 +525,7 @@
     {
       "SECUCODE": "002721.SZ",
       "SECURITY_CODE": "002721",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "山东华盛私募基金管理有限公司-华盛鼎创私募股权投资基金",
       "HOLDER_TYPE": "私募基金",
@@ -538,7 +538,7 @@
     {
       "SECUCODE": "002721.SZ",
       "SECURITY_CODE": "002721",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "成都欣山企业管理合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
@@ -551,20 +551,20 @@
     {
       "SECUCODE": "002721.SZ",
       "SECURITY_CODE": "002721",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "成都福满仙山企业管理合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 25376585,
-      "FREE_HOLDNUM_RATIO": 0.954229866213,
-      "HOLD_NUM_CHANGE": "-1407200",
-      "CHANGE_RATIO": -5.25392509
+      "HOLD_NUM": 23896585,
+      "FREE_HOLDNUM_RATIO": 0.89857776795,
+      "HOLD_NUM_CHANGE": "-1480000",
+      "CHANGE_RATIO": -5.83214802
     },
     {
       "SECUCODE": "002721.SZ",
       "SECURITY_CODE": "002721",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "安阳金合阳珠宝有限公司",
       "HOLDER_TYPE": "其它",
@@ -577,7 +577,7 @@
     {
       "SECUCODE": "002721.SZ",
       "SECURITY_CODE": "002721",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "北京金一文化发展股份有限公司破产企业财产处置专用账户",
       "HOLDER_TYPE": "证券账户",
@@ -590,14 +590,14 @@
     {
       "SECUCODE": "002721.SZ",
       "SECURITY_CODE": "002721",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "邢小英",
-      "HOLDER_TYPE": "个人",
+      "HOLDER_NAME": "烟台招金私募投资基金管理有限公司-招金卓越3号私募证券投资基金",
+      "HOLDER_TYPE": "私募基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 15850700,
-      "FREE_HOLDNUM_RATIO": 0.596030212118,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 17300000,
+      "FREE_HOLDNUM_RATIO": 0.650527905369,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -605,10 +605,10 @@
     {
       "SECUCODE": "002721.SZ",
       "SECURITY_CODE": "002721",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 1024983437,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 1024952737,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 1634395178,
+      "OTHER_UNLIMITED_SHARES": 1634425878,
       "HOLD_NUM_RATIO": 38.54,
       "LIMITED_SHARES_RATIO": null,
       "UNLIMITED_SHARES_RATIO": 61.46
@@ -618,7 +618,7 @@
     {
       "SECUCODE": "002721.SZ",
       "SECURITY_CODE": "002721",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京海鑫资产管理有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "002721.SZ",
       "SECURITY_CODE": "002721",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "北京海淀科技金融资本控股集团股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,19 +642,19 @@
     {
       "SECUCODE": "002721.SZ",
       "SECURITY_CODE": "002721",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "安阳产业投资集团有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 42422615,
       "HOLD_NUM_RATIO": 1.6,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002721.SZ",
       "SECURITY_CODE": "002721",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "陈宝康",
       "SHARES_TYPE": "流通A股",
@@ -666,7 +666,7 @@
     {
       "SECUCODE": "002721.SZ",
       "SECURITY_CODE": "002721",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "山东华盛私募基金管理有限公司-华盛鼎创私募股权投资基金",
       "SHARES_TYPE": "流通A股",
@@ -678,7 +678,7 @@
     {
       "SECUCODE": "002721.SZ",
       "SECURITY_CODE": "002721",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "成都欣山企业管理合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -690,19 +690,19 @@
     {
       "SECUCODE": "002721.SZ",
       "SECURITY_CODE": "002721",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "成都福满仙山企业管理合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 25376585,
-      "HOLD_NUM_RATIO": 0.95,
-      "HOLD_NUM_CHANGE": "-1407200",
-      "CHANGE_RATIO": -5.25392509
+      "HOLD_NUM": 23896585,
+      "HOLD_NUM_RATIO": 0.9,
+      "HOLD_NUM_CHANGE": "-1480000",
+      "CHANGE_RATIO": -5.83214802
     },
     {
       "SECUCODE": "002721.SZ",
       "SECURITY_CODE": "002721",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "安阳金合阳珠宝有限公司",
       "SHARES_TYPE": "流通A股",
@@ -714,7 +714,7 @@
     {
       "SECUCODE": "002721.SZ",
       "SECURITY_CODE": "002721",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "北京金一文化发展股份有限公司破产企业财产处置专用账户",
       "SHARES_TYPE": "流通A股",
@@ -726,13 +726,13 @@
     {
       "SECUCODE": "002721.SZ",
       "SECURITY_CODE": "002721",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
-      "HOLDER_NAME": "邢小英",
+      "HOLDER_NAME": "烟台招金私募投资基金管理有限公司-招金卓越3号私募证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 15850700,
-      "HOLD_NUM_RATIO": 0.6,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM": 17300000,
+      "HOLD_NUM_RATIO": 0.65,
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
@@ -740,41 +740,153 @@
     {
       "SECUCODE": "002721.SZ",
       "SECURITY_CODE": "002721",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 8,
-      "TOTAL_FREE_SHARES": 975562737,
-      "TOTAL_SHARES_RATIO": 36.68386034,
-      "ALL_SHARES_RATIO": 36.68386034
+      "TOTAL_ORG_NUM": 16,
+      "TOTAL_FREE_SHARES": 991476837,
+      "TOTAL_SHARES_RATIO": 37.28227456,
+      "ALL_SHARES_RATIO": 37.28227456
     },
     {
       "SECUCODE": "002721.SZ",
       "SECURITY_CODE": "002721",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "01",
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 94100,
+      "TOTAL_SHARES_RATIO": 0.00353841,
+      "ALL_SHARES_RATIO": 0.00353841
+    },
+    {
+      "SECUCODE": "002721.SZ",
+      "SECURITY_CODE": "002721",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
-      "TOTAL_ORG_NUM": 8,
-      "TOTAL_FREE_SHARES": 975562737,
-      "TOTAL_SHARES_RATIO": 36.68386034,
-      "ALL_SHARES_RATIO": 36.68386034
+      "TOTAL_ORG_NUM": 9,
+      "TOTAL_FREE_SHARES": 991382737,
+      "TOTAL_SHARES_RATIO": 37.27873615,
+      "ALL_SHARES_RATIO": 37.27873615
     }
   ],
   "jjcg": [
     {
       "ORG_TYPE": "01",
       "SECUCODE": "002721.SZ",
-      "REPORT_DATE": "2025-12-31 00:00:00",
-      "HOLDER_CODE": "017912",
-      "HOLDER_NAME": "华夏稳进增益一年持有混合A",
-      "TOTAL_SHARES": 2200,
-      "HOLD_VALUE": 6930,
-      "TOTALSHARES_RATIO": 0.00008273,
-      "FREESHARES_RATIO": 0.00008273,
-      "FREE_MARKET_CAP": 6930,
-      "FREE_SHARES": 2200,
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "010579",
+      "HOLDER_NAME": "中金恒嘉稳健3个月持有债券发起A",
+      "TOTAL_SHARES": 48000,
+      "HOLD_VALUE": 106560,
+      "TOTALSHARES_RATIO": 0.00180493,
+      "FREESHARES_RATIO": 0.00180493,
+      "FREE_MARKET_CAP": 106560,
+      "FREE_SHARES": 48000,
       "SECURITY_CODE": "002721",
-      "FUND_CODE": "017912",
-      "FUND_DERIVECODE": "017912.OF",
+      "FUND_CODE": "010579",
+      "FUND_DERIVECODE": "010579.OF",
+      "NETVALUE_RATIO": 0.02
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002721.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "025688",
+      "HOLDER_NAME": "中金阿尔法优选混合A",
+      "TOTAL_SHARES": 13800,
+      "HOLD_VALUE": 30636,
+      "TOTALSHARES_RATIO": 0.00051892,
+      "FREESHARES_RATIO": 0.00051892,
+      "FREE_MARKET_CAP": 30636,
+      "FREE_SHARES": 13800,
+      "SECURITY_CODE": "002721",
+      "FUND_CODE": "025688",
+      "FUND_DERIVECODE": "025688.OF",
       "NETVALUE_RATIO": 0.03
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002721.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "025287",
+      "HOLDER_NAME": "恒生前海匠心精选混合A",
+      "TOTAL_SHARES": 12500,
+      "HOLD_VALUE": 27750,
+      "TOTALSHARES_RATIO": 0.00047003,
+      "FREESHARES_RATIO": 0.00047003,
+      "FREE_MARKET_CAP": 27750,
+      "FREE_SHARES": 12500,
+      "SECURITY_CODE": "002721",
+      "FUND_CODE": "025287",
+      "FUND_DERIVECODE": "025287.OF",
+      "NETVALUE_RATIO": 0.3
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002721.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "015371",
+      "HOLDER_NAME": "中加聚享增盈债券A",
+      "TOTAL_SHARES": 12000,
+      "HOLD_VALUE": 26640,
+      "TOTALSHARES_RATIO": 0.00045123,
+      "FREESHARES_RATIO": 0.00045123,
+      "FREE_MARKET_CAP": 26640,
+      "FREE_SHARES": 12000,
+      "SECURITY_CODE": "002721",
+      "FUND_CODE": "015371",
+      "FUND_DERIVECODE": "015371.OF",
+      "NETVALUE_RATIO": 0.01
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002721.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "008356",
+      "HOLDER_NAME": "中加科丰价值精选混合",
+      "TOTAL_SHARES": 3600,
+      "HOLD_VALUE": 7992,
+      "TOTALSHARES_RATIO": 0.00013537,
+      "FREESHARES_RATIO": 0.00013537,
+      "FREE_MARKET_CAP": 7992,
+      "FREE_SHARES": 3600,
+      "SECURITY_CODE": "002721",
+      "FUND_CODE": "008356",
+      "FUND_DERIVECODE": "008356.OF",
+      "NETVALUE_RATIO": 0
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002721.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "010153",
+      "HOLDER_NAME": "中加中证500指数增强A",
+      "TOTAL_SHARES": 3000,
+      "HOLD_VALUE": 6660,
+      "TOTALSHARES_RATIO": 0.00011281,
+      "FREESHARES_RATIO": 0.00011281,
+      "FREE_MARKET_CAP": 6660,
+      "FREE_SHARES": 3000,
+      "SECURITY_CODE": "002721",
+      "FUND_CODE": "010153",
+      "FUND_DERIVECODE": "010153.OF",
+      "NETVALUE_RATIO": 0.01
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002721.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "002027",
+      "HOLDER_NAME": "中加心享混合A",
+      "TOTAL_SHARES": 1200,
+      "HOLD_VALUE": 2664,
+      "TOTALSHARES_RATIO": 0.00004512,
+      "FREESHARES_RATIO": 0.00004512,
+      "FREE_MARKET_CAP": 2664,
+      "FREE_SHARES": 1200,
+      "SECURITY_CODE": "002721",
+      "FUND_CODE": "002027",
+      "FUND_DERIVECODE": "002027.OF",
+      "NETVALUE_RATIO": 0
     }
   ]
 }

@@ -10,7 +10,7 @@
       "AVG_FREESHARES_RATIO": 0.10532998586,
       "HOLD_FOCUS": "非常分散",
       "PRICE": 4.55,
-      "AVG_HOLD_AMT": 64195.2471416616,
+      "AVG_HOLD_AMT": 64195.8544123164,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
     },
@@ -24,7 +24,7 @@
       "AVG_FREESHARES_RATIO": 0.709148301359,
       "HOLD_FOCUS": "非常分散",
       "PRICE": 4.6,
-      "AVG_HOLD_AMT": 64832.4014586546,
+      "AVG_HOLD_AMT": 64833.0147566266,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
     },
@@ -38,7 +38,7 @@
       "AVG_FREESHARES_RATIO": 1.192197048847,
       "HOLD_FOCUS": "非常分散",
       "PRICE": 4.59,
-      "AVG_HOLD_AMT": 64235.9334247399,
+      "AVG_HOLD_AMT": 64236.5410802765,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
     },
@@ -48,11 +48,11 @@
       "END_DATE": "2026-07-20 00:00:00",
       "HOLDER_TOTAL_NUM": 70704,
       "TOTAL_NUM_RATIO": 2.2414,
-      "AVG_FREE_SHARES": 13829,
+      "AVG_FREE_SHARES": 13830,
       "AVG_FREESHARES_RATIO": -2.19223806291,
       "HOLD_FOCUS": "非常分散",
       "PRICE": 4.45,
-      "AVG_HOLD_AMT": 61542.9541977823,
+      "AVG_HOLD_AMT": 61543.5363784227,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
     },
@@ -63,12 +63,12 @@
       "HOLDER_TOTAL_NUM": 69154,
       "TOTAL_NUM_RATIO": -1.8494,
       "AVG_FREE_SHARES": 14139,
-      "AVG_FREESHARES_RATIO": 1.884200480088,
+      "AVG_FREESHARES_RATIO": 1.885164278623,
       "HOLD_FOCUS": "非常分散",
       "PRICE": 4.08,
-      "AVG_HOLD_AMT": 57690.6152043266,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "AVG_HOLD_AMT": 57691.1609428233,
+      "HOLD_RATIO_TOTAL": 35.42340374,
+      "FREEHOLD_RATIO_TOTAL": 35.79757276
     },
     {
       "SECUCODE": "000886.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "000886.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "000886.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "000886.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "000886.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "000886.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "000886.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "000886.SZ",
       "END_DATE": "2014-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "000886.SZ",
-      "END_DATE": "2014-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -426,6 +426,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "000886.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "000886.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -439,16 +443,16 @@
     {
       "SECUCODE": "000886.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "000886.SZ",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "000886.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "000886.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -462,10 +466,6 @@
     {
       "SECUCODE": "000886.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "000886.SZ",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "xsjj": [],
@@ -473,189 +473,177 @@
     {
       "SECUCODE": "000886.SZ",
       "SECURITY_CODE": "000886",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "海南省交通投资集团有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 258512239,
-      "FREE_HOLDNUM_RATIO": 26.437403312204,
+      "FREE_HOLDNUM_RATIO": 26.437153223482,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000886.SZ",
       "SECURITY_CODE": "000886",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "罗瑞云",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 24162000,
-      "FREE_HOLDNUM_RATIO": 2.47098760701,
-      "HOLD_NUM_CHANGE": "1828400",
-      "CHANGE_RATIO": 8.18676792
+      "HOLD_NUM": 24914700,
+      "FREE_HOLDNUM_RATIO": 2.547940259869,
+      "HOLD_NUM_CHANGE": "752700",
+      "CHANGE_RATIO": 3.11522225
     },
     {
       "SECUCODE": "000886.SZ",
       "SECURITY_CODE": "000886",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 11473663,
-      "FREE_HOLDNUM_RATIO": 1.17338296002,
-      "HOLD_NUM_CHANGE": "3380485",
-      "CHANGE_RATIO": 41.76956197
-    },
-    {
-      "SECUCODE": "000886.SZ",
-      "SECURITY_CODE": "000886",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "WAN MING",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 11447860,
-      "FREE_HOLDNUM_RATIO": 1.170744151427,
+      "FREE_HOLDNUM_RATIO": 1.170733076591,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000886.SZ",
       "SECURITY_CODE": "000886",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国工商银行股份有限公司-南方中证全指房地产交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9581300,
-      "FREE_HOLDNUM_RATIO": 0.979855705614,
-      "HOLD_NUM_CHANGE": "2779000",
-      "CHANGE_RATIO": 40.85382885
-    },
-    {
-      "SECUCODE": "000886.SZ",
-      "SECURITY_CODE": "000886",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "梁建慧",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 9304000,
-      "FREE_HOLDNUM_RATIO": 0.951496924742,
-      "HOLD_NUM_CHANGE": "594400",
-      "CHANGE_RATIO": 6.82465326
+      "HOLD_NUM": 9374700,
+      "FREE_HOLDNUM_RATIO": 0.958718168559,
+      "HOLD_NUM_CHANGE": "70700",
+      "CHANGE_RATIO": 0.75988822
     },
     {
       "SECUCODE": "000886.SZ",
       "SECURITY_CODE": "000886",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "HOLDER_TYPE": "其它",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 9211798,
+      "FREE_HOLDNUM_RATIO": 0.942058744034,
+      "HOLD_NUM_CHANGE": "-2261865",
+      "CHANGE_RATIO": -19.71353874
+    },
+    {
+      "SECUCODE": "000886.SZ",
+      "SECURITY_CODE": "000886",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "沈盛",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8595700,
-      "FREE_HOLDNUM_RATIO": 0.879060846518,
-      "HOLD_NUM_CHANGE": "90000",
-      "CHANGE_RATIO": 1.05811397
+      "HOLD_NUM": 8815700,
+      "FREE_HOLDNUM_RATIO": 0.901551170551,
+      "HOLD_NUM_CHANGE": "220000",
+      "CHANGE_RATIO": 2.55941924
     },
     {
       "SECUCODE": "000886.SZ",
       "SECURITY_CODE": "000886",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "雷若暄",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 8112200,
+      "FREE_HOLDNUM_RATIO": 0.829606656958,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000886.SZ",
+      "SECURITY_CODE": "000886",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "海南海钢集团有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 7884478,
-      "FREE_HOLDNUM_RATIO": 0.806325942627,
+      "FREE_HOLDNUM_RATIO": 0.806318315061,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "000886.SZ",
       "SECURITY_CODE": "000886",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
+      "HOLDER_NAME": "盛芬娥",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 6088200,
+      "FREE_HOLDNUM_RATIO": 0.622619172221,
+      "HOLD_NUM_CHANGE": "415000",
+      "CHANGE_RATIO": 7.31509554
+    },
+    {
+      "SECUCODE": "000886.SZ",
+      "SECURITY_CODE": "000886",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "海南交控股权投资私募基金管理有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 5680000,
-      "FREE_HOLDNUM_RATIO": 0.580879463944,
+      "FREE_HOLDNUM_RATIO": 0.580873969025,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000886.SZ",
-      "SECURITY_CODE": "000886",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "盛芬娥",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5673200,
-      "FREE_HOLDNUM_RATIO": 0.580184044868,
-      "HOLD_NUM_CHANGE": "10000",
-      "CHANGE_RATIO": 0.17657861
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "000886.SZ",
       "SECURITY_CODE": "000886",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 352314440,
-      "LIMITED_SHARES": 11000652,
-      "OTHER_UNLIMITED_SHARES": 625513208,
-      "HOLD_NUM_RATIO": 35.63,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 350041875,
+      "LIMITED_SHARES": 10991402,
+      "OTHER_UNLIMITED_SHARES": 627795023,
+      "HOLD_NUM_RATIO": 35.4,
       "LIMITED_SHARES_RATIO": 1.11,
-      "UNLIMITED_SHARES_RATIO": 63.26
+      "UNLIMITED_SHARES_RATIO": 63.49
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "000886.SZ",
       "SECURITY_CODE": "000886",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "海南省交通投资集团有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 258512239,
-      "HOLD_NUM_RATIO": 26.14,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "SHARES_TYPE": "流通A股,限售流通A股",
+      "HOLD_NUM": 258747005,
+      "HOLD_NUM_RATIO": 26.17,
+      "HOLD_NUM_CHANGE": "234766",
+      "CHANGE_RATIO": 0.09081427
     },
     {
       "SECUCODE": "000886.SZ",
       "SECURITY_CODE": "000886",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "罗瑞云",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 24162000,
-      "HOLD_NUM_RATIO": 2.44,
-      "HOLD_NUM_CHANGE": "1828400",
-      "CHANGE_RATIO": 8.18676792
+      "HOLD_NUM": 24914700,
+      "HOLD_NUM_RATIO": 2.52,
+      "HOLD_NUM_CHANGE": "752700",
+      "CHANGE_RATIO": 3.11522225
     },
     {
       "SECUCODE": "000886.SZ",
       "SECURITY_CODE": "000886",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 11473663,
-      "HOLD_NUM_RATIO": 1.16,
-      "HOLD_NUM_CHANGE": "3380485",
-      "CHANGE_RATIO": 41.76956197
-    },
-    {
-      "SECUCODE": "000886.SZ",
-      "SECURITY_CODE": "000886",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 4,
       "HOLDER_NAME": "WAN MING",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 11447860,
@@ -666,43 +654,55 @@
     {
       "SECUCODE": "000886.SZ",
       "SECURITY_CODE": "000886",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国工商银行股份有限公司-南方中证全指房地产交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9581300,
-      "HOLD_NUM_RATIO": 0.97,
-      "HOLD_NUM_CHANGE": "2779000",
-      "CHANGE_RATIO": 40.85382885
-    },
-    {
-      "SECUCODE": "000886.SZ",
-      "SECURITY_CODE": "000886",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "梁建慧",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 9304000,
-      "HOLD_NUM_RATIO": 0.94,
-      "HOLD_NUM_CHANGE": "594400",
-      "CHANGE_RATIO": 6.82465326
+      "HOLD_NUM": 9374700,
+      "HOLD_NUM_RATIO": 0.95,
+      "HOLD_NUM_CHANGE": "70700",
+      "CHANGE_RATIO": 0.75988822
     },
     {
       "SECUCODE": "000886.SZ",
       "SECURITY_CODE": "000886",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 9211798,
+      "HOLD_NUM_RATIO": 0.93,
+      "HOLD_NUM_CHANGE": "-2261865",
+      "CHANGE_RATIO": -19.71353874
+    },
+    {
+      "SECUCODE": "000886.SZ",
+      "SECURITY_CODE": "000886",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "沈盛",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8595700,
-      "HOLD_NUM_RATIO": 0.87,
-      "HOLD_NUM_CHANGE": "90000",
-      "CHANGE_RATIO": 1.05811397
+      "HOLD_NUM": 8815700,
+      "HOLD_NUM_RATIO": 0.89,
+      "HOLD_NUM_CHANGE": "220000",
+      "CHANGE_RATIO": 2.55941924
     },
     {
       "SECUCODE": "000886.SZ",
       "SECURITY_CODE": "000886",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "雷若暄",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 8112200,
+      "HOLD_NUM_RATIO": 0.82,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "000886.SZ",
+      "SECURITY_CODE": "000886",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "海南海钢集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -714,87 +714,179 @@
     {
       "SECUCODE": "000886.SZ",
       "SECURITY_CODE": "000886",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
+      "HOLDER_NAME": "盛芬娥",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 6088200,
+      "HOLD_NUM_RATIO": 0.62,
+      "HOLD_NUM_CHANGE": "415000",
+      "CHANGE_RATIO": 7.31509554
+    },
+    {
+      "SECUCODE": "000886.SZ",
+      "SECURITY_CODE": "000886",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "海南交控股权投资私募基金管理有限公司",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 5680000,
       "HOLD_NUM_RATIO": 0.57,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "000886.SZ",
-      "SECURITY_CODE": "000886",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "盛芬娥",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5673200,
-      "HOLD_NUM_RATIO": 0.57,
-      "HOLD_NUM_CHANGE": "10000",
-      "CHANGE_RATIO": 0.17657861
     }
   ],
   "jgcc": [
     {
       "SECUCODE": "000886.SZ",
       "SECURITY_CODE": "000886",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 12,
-      "TOTAL_FREE_SHARES": 293949980,
-      "TOTAL_SHARES_RATIO": 30.0615329,
-      "ALL_SHARES_RATIO": 29.72710026
+      "TOTAL_ORG_NUM": 11,
+      "TOTAL_FREE_SHARES": 281649081,
+      "TOTAL_SHARES_RATIO": 28.77926938,
+      "ALL_SHARES_RATIO": 28.45937107
     },
     {
       "SECUCODE": "000886.SZ",
       "SECURITY_CODE": "000886",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 9581300,
-      "TOTAL_SHARES_RATIO": 0.97985571,
-      "ALL_SHARES_RATIO": 0.96895487
-    },
-    {
-      "SECUCODE": "000886.SZ",
-      "SECURITY_CODE": "000886",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "ORG_TYPE": "04",
       "TOTAL_ORG_NUM": 7,
-      "TOTAL_FREE_SHARES": 818300,
-      "TOTAL_SHARES_RATIO": 0.08368552,
-      "ALL_SHARES_RATIO": 0.08275452
+      "TOTAL_FREE_SHARES": 125800,
+      "TOTAL_SHARES_RATIO": 0.01286513,
+      "ALL_SHARES_RATIO": 0.01272214
     },
     {
       "SECUCODE": "000886.SZ",
       "SECURITY_CODE": "000886",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 283550380,
-      "TOTAL_SHARES_RATIO": 28.99799167,
-      "ALL_SHARES_RATIO": 28.67539087
+      "TOTAL_FREE_SHARES": 281523281,
+      "TOTAL_SHARES_RATIO": 28.76640425,
+      "ALL_SHARES_RATIO": 28.44664893
     }
   ],
   "jjcg": [
     {
       "ORG_TYPE": "01",
       "SECUCODE": "000886.SZ",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "HOLDER_CODE": "512200",
-      "HOLDER_NAME": "南方中证房地产ETF",
-      "TOTAL_SHARES": 9581300,
-      "HOLD_VALUE": 53942719,
-      "TOTALSHARES_RATIO": 0.96895487,
-      "FREESHARES_RATIO": 0.97985571,
-      "FREE_MARKET_CAP": 53942719,
-      "FREE_SHARES": 9581300,
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "000311",
+      "HOLDER_NAME": "景顺长城沪深300指数增强A",
+      "TOTAL_SHARES": 82100,
+      "HOLD_VALUE": 334968,
+      "TOTALSHARES_RATIO": 0.00830276,
+      "FREESHARES_RATIO": 0.00839608,
+      "FREE_MARKET_CAP": 334968,
+      "FREE_SHARES": 82100,
       "SECURITY_CODE": "000886",
-      "FUND_CODE": "512200",
-      "FUND_DERIVECODE": "512200.SH",
-      "NETVALUE_RATIO": 0.91
+      "FUND_CODE": "000311",
+      "FUND_DERIVECODE": "000311.OF",
+      "NETVALUE_RATIO": 0.01
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "000886.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "000978",
+      "HOLDER_NAME": "景顺长城量化精选股票A",
+      "TOTAL_SHARES": 20700,
+      "HOLD_VALUE": 84456,
+      "TOTALSHARES_RATIO": 0.00209339,
+      "FREESHARES_RATIO": 0.00211692,
+      "FREE_MARKET_CAP": 84456,
+      "FREE_SHARES": 20700,
+      "SECURITY_CODE": "000886",
+      "FUND_CODE": "000978",
+      "FUND_DERIVECODE": "000978.OF",
+      "NETVALUE_RATIO": 0.01
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "000886.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "005457",
+      "HOLDER_NAME": "景顺长城量化小盘股票A",
+      "TOTAL_SHARES": 16600,
+      "HOLD_VALUE": 67728,
+      "TOTALSHARES_RATIO": 0.00167875,
+      "FREESHARES_RATIO": 0.00169762,
+      "FREE_MARKET_CAP": 67728,
+      "FREE_SHARES": 16600,
+      "SECURITY_CODE": "000886",
+      "FUND_CODE": "005457",
+      "FUND_DERIVECODE": "005457.OF",
+      "NETVALUE_RATIO": 0.01
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "000886.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "005258",
+      "HOLDER_NAME": "景顺长城量化平衡混合A",
+      "TOTAL_SHARES": 4000,
+      "HOLD_VALUE": 16320,
+      "TOTALSHARES_RATIO": 0.00040452,
+      "FREESHARES_RATIO": 0.00040907,
+      "FREE_MARKET_CAP": 16320,
+      "FREE_SHARES": 4000,
+      "SECURITY_CODE": "000886",
+      "FUND_CODE": "005258",
+      "FUND_DERIVECODE": "005258.OF",
+      "NETVALUE_RATIO": 0.01
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "000886.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "008851",
+      "HOLDER_NAME": "景顺长城量化对冲策略三个月定期开放混合A",
+      "TOTAL_SHARES": 1300,
+      "HOLD_VALUE": 5304,
+      "TOTALSHARES_RATIO": 0.00013147,
+      "FREESHARES_RATIO": 0.00013295,
+      "FREE_MARKET_CAP": 5304,
+      "FREE_SHARES": 1300,
+      "SECURITY_CODE": "000886",
+      "FUND_CODE": "008851",
+      "FUND_DERIVECODE": "008851.OF",
+      "NETVALUE_RATIO": 0.01
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "000886.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "159521",
+      "HOLDER_NAME": "平安国证2000ETF",
+      "TOTAL_SHARES": 900,
+      "HOLD_VALUE": 3672,
+      "TOTALSHARES_RATIO": 0.00009102,
+      "FREESHARES_RATIO": 0.00009204,
+      "FREE_MARKET_CAP": 3672,
+      "FREE_SHARES": 900,
+      "SECURITY_CODE": "000886",
+      "FUND_CODE": "159521",
+      "FUND_DERIVECODE": "159521.SZ",
+      "NETVALUE_RATIO": 0.02
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "000886.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "022344",
+      "HOLDER_NAME": "景顺长城红利量化选股股票A",
+      "TOTAL_SHARES": 200,
+      "HOLD_VALUE": 816,
+      "TOTALSHARES_RATIO": 0.00002023,
+      "FREESHARES_RATIO": 0.00002045,
+      "FREE_MARKET_CAP": 816,
+      "FREE_SHARES": 200,
+      "SECURITY_CODE": "000886",
+      "FUND_CODE": "022344",
+      "FUND_DERIVECODE": "022344.OF",
+      "NETVALUE_RATIO": 0.01
     }
   ]
 }

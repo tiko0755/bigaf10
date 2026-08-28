@@ -53,8 +53,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 3.72,
       "AVG_HOLD_AMT": 125086.766289906,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 53.44811847,
+      "FREEHOLD_RATIO_TOTAL": 53.44811847
     },
     {
       "SECUCODE": "600658.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "600658.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "600658.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "600658.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "600658.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "600658.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "600658.SH",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "600658.SH",
       "END_DATE": "2016-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600658.SH",
-      "END_DATE": "2016-03-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "600658.SH",
       "SECURITY_CODE": "600658",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京电子控股有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -486,20 +486,20 @@
     {
       "SECUCODE": "600658.SH",
       "SECURITY_CODE": "600658",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "孙金海",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 19659484,
-      "FREE_HOLDNUM_RATIO": 1.757531453498,
-      "HOLD_NUM_CHANGE": "-23000",
-      "CHANGE_RATIO": -0.11685517
+      "HOLD_NUM": 19577084,
+      "FREE_HOLDNUM_RATIO": 1.750165004217,
+      "HOLD_NUM_CHANGE": "-82400",
+      "CHANGE_RATIO": -0.41913613
     },
     {
       "SECUCODE": "600658.SH",
       "SECURITY_CODE": "600658",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "京东方科技集团股份有限公司",
       "HOLDER_TYPE": "其它",
@@ -512,20 +512,20 @@
     {
       "SECUCODE": "600658.SH",
       "SECURITY_CODE": "600658",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 10894785,
-      "FREE_HOLDNUM_RATIO": 0.97397913987,
-      "HOLD_NUM_CHANGE": "4431654",
-      "CHANGE_RATIO": 68.56822181
+      "HOLD_NUM": 11397340,
+      "FREE_HOLDNUM_RATIO": 1.018906881595,
+      "HOLD_NUM_CHANGE": "502555",
+      "CHANGE_RATIO": 4.61280328
     },
     {
       "SECUCODE": "600658.SH",
       "SECURITY_CODE": "600658",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "北京兆维电子(集团)有限责任公司",
       "HOLDER_TYPE": "其它",
@@ -538,47 +538,34 @@
     {
       "SECUCODE": "600658.SH",
       "SECURITY_CODE": "600658",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国工商银行股份有限公司-南方中证全指房地产交易型开放式指数证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 8026844,
-      "FREE_HOLDNUM_RATIO": 0.717589068071,
-      "HOLD_NUM_CHANGE": "2380061",
-      "CHANGE_RATIO": 42.14897226
-    },
-    {
-      "SECUCODE": "600658.SH",
-      "SECURITY_CODE": "600658",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "张素芬",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6700000,
-      "FREE_HOLDNUM_RATIO": 0.598970997328,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 9680000,
+      "FREE_HOLDNUM_RATIO": 0.865378993155,
+      "HOLD_NUM_CHANGE": "2980000",
+      "CHANGE_RATIO": 44.47761194
     },
     {
       "SECUCODE": "600658.SH",
       "SECURITY_CODE": "600658",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "李玮",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "曹志红",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 6218100,
-      "FREE_HOLDNUM_RATIO": 0.555889784849,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 7708000,
+      "FREE_HOLDNUM_RATIO": 0.689084842896,
+      "HOLD_NUM_CHANGE": "2598000",
+      "CHANGE_RATIO": 50.84148728
     },
     {
       "SECUCODE": "600658.SH",
       "SECURITY_CODE": "600658",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "苏州创朴新材料科技合伙企业(有限合伙)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -590,35 +577,48 @@
     {
       "SECUCODE": "600658.SH",
       "SECURITY_CODE": "600658",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "曹志红",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "李玮",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 5110000,
-      "FREE_HOLDNUM_RATIO": 0.456827133783,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 5468000,
+      "FREE_HOLDNUM_RATIO": 0.488831852745,
+      "HOLD_NUM_CHANGE": "-750100",
+      "CHANGE_RATIO": -12.06317042
+    },
+    {
+      "SECUCODE": "600658.SH",
+      "SECURITY_CODE": "600658",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国工商银行股份有限公司-南方中证全指房地产交易型开放式指数证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5270844,
+      "FREE_HOLDNUM_RATIO": 0.47120637126,
+      "HOLD_NUM_CHANGE": "-2756000",
+      "CHANGE_RATIO": -34.33478961
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "600658.SH",
       "SECURITY_CODE": "600658",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 595370605,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 597862660,
       "LIMITED_SHARES": 0,
-      "OTHER_UNLIMITED_SHARES": 523214440,
-      "HOLD_NUM_RATIO": 53.23,
+      "OTHER_UNLIMITED_SHARES": 520722385,
+      "HOLD_NUM_RATIO": 53.45,
       "LIMITED_SHARES_RATIO": 0,
-      "UNLIMITED_SHARES_RATIO": 46.77
+      "UNLIMITED_SHARES_RATIO": 46.55
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "600658.SH",
       "SECURITY_CODE": "600658",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "北京电子控股有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -630,19 +630,19 @@
     {
       "SECUCODE": "600658.SH",
       "SECURITY_CODE": "600658",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "孙金海",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 19659484,
-      "HOLD_NUM_RATIO": 1.76,
-      "HOLD_NUM_CHANGE": "-23000",
-      "CHANGE_RATIO": -0.11685517
+      "HOLD_NUM": 19577084,
+      "HOLD_NUM_RATIO": 1.75,
+      "HOLD_NUM_CHANGE": "-82400",
+      "CHANGE_RATIO": -0.41913613
     },
     {
       "SECUCODE": "600658.SH",
       "SECURITY_CODE": "600658",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "京东方科技集团股份有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,19 +654,19 @@
     {
       "SECUCODE": "600658.SH",
       "SECURITY_CODE": "600658",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 10894785,
-      "HOLD_NUM_RATIO": 0.97,
-      "HOLD_NUM_CHANGE": "4431654",
-      "CHANGE_RATIO": 68.56822181
+      "HOLD_NUM": 11397340,
+      "HOLD_NUM_RATIO": 1.02,
+      "HOLD_NUM_CHANGE": "502555",
+      "CHANGE_RATIO": 4.61280328
     },
     {
       "SECUCODE": "600658.SH",
       "SECURITY_CODE": "600658",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "北京兆维电子(集团)有限责任公司",
       "SHARES_TYPE": "流通A股",
@@ -678,44 +678,32 @@
     {
       "SECUCODE": "600658.SH",
       "SECURITY_CODE": "600658",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国工商银行股份有限公司-南方中证全指房地产交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8026844,
-      "HOLD_NUM_RATIO": 0.72,
-      "HOLD_NUM_CHANGE": "2380061",
-      "CHANGE_RATIO": 42.14897226
-    },
-    {
-      "SECUCODE": "600658.SH",
-      "SECURITY_CODE": "600658",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
       "HOLDER_NAME": "张素芬",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6700000,
-      "HOLD_NUM_RATIO": 0.6,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 9680000,
+      "HOLD_NUM_RATIO": 0.87,
+      "HOLD_NUM_CHANGE": "2980000",
+      "CHANGE_RATIO": 44.47761194
     },
     {
       "SECUCODE": "600658.SH",
       "SECURITY_CODE": "600658",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "李玮",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "曹志红",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6218100,
-      "HOLD_NUM_RATIO": 0.56,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 7708000,
+      "HOLD_NUM_RATIO": 0.69,
+      "HOLD_NUM_CHANGE": "2598000",
+      "CHANGE_RATIO": 50.84148728
     },
     {
       "SECUCODE": "600658.SH",
       "SECURITY_CODE": "600658",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "苏州创朴新材料科技合伙企业(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 6208700,
@@ -726,14 +714,26 @@
     {
       "SECUCODE": "600658.SH",
       "SECURITY_CODE": "600658",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "曹志红",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "李玮",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 5110000,
-      "HOLD_NUM_RATIO": 0.46,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 5468000,
+      "HOLD_NUM_RATIO": 0.49,
+      "HOLD_NUM_CHANGE": "-750100",
+      "CHANGE_RATIO": -12.06317042
+    },
+    {
+      "SECUCODE": "600658.SH",
+      "SECURITY_CODE": "600658",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国工商银行股份有限公司-南方中证全指房地产交易型开放式指数证券投资基金",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5270844,
+      "HOLD_NUM_RATIO": 0.47,
+      "HOLD_NUM_CHANGE": "-2756000",
+      "CHANGE_RATIO": -34.33478961
     }
   ],
   "jgcc": [
@@ -742,23 +742,67 @@
       "SECURITY_CODE": "600658",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 1500,
-      "TOTAL_SHARES_RATIO": 0.0001341,
-      "ALL_SHARES_RATIO": 0.0001341
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 555438576,
+      "TOTAL_SHARES_RATIO": 49.65546236,
+      "ALL_SHARES_RATIO": 49.65546236
     },
     {
       "SECUCODE": "600658.SH",
       "SECURITY_CODE": "600658",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 1500,
-      "TOTAL_SHARES_RATIO": 0.0001341,
-      "ALL_SHARES_RATIO": 0.0001341
+      "TOTAL_ORG_NUM": 3,
+      "TOTAL_FREE_SHARES": 5279844,
+      "TOTAL_SHARES_RATIO": 0.47201096,
+      "ALL_SHARES_RATIO": 0.47201096
+    },
+    {
+      "SECUCODE": "600658.SH",
+      "SECURITY_CODE": "600658",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 550158732,
+      "TOTAL_SHARES_RATIO": 49.1834514,
+      "ALL_SHARES_RATIO": 49.1834514
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600658.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "512200",
+      "HOLDER_NAME": "南方中证房地产ETF",
+      "TOTAL_SHARES": 5270844,
+      "HOLD_VALUE": 19607539.68,
+      "TOTALSHARES_RATIO": 0.47120637,
+      "FREESHARES_RATIO": 0.47120637,
+      "FREE_MARKET_CAP": 19607539.68,
+      "FREE_SHARES": 5270844,
+      "SECURITY_CODE": "600658",
+      "FUND_CODE": "512200",
+      "FUND_DERIVECODE": "512200.SH",
+      "NETVALUE_RATIO": 0.62
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600658.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "000311",
+      "HOLDER_NAME": "景顺长城沪深300指数增强A",
+      "TOTAL_SHARES": 7500,
+      "HOLD_VALUE": 27900,
+      "TOTALSHARES_RATIO": 0.00067049,
+      "FREESHARES_RATIO": 0.00067049,
+      "FREE_MARKET_CAP": 27900,
+      "FREE_SHARES": 7500,
+      "SECURITY_CODE": "600658",
+      "FUND_CODE": "000311",
+      "FUND_DERIVECODE": "000311.OF",
+      "NETVALUE_RATIO": 0
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "600658.SH",

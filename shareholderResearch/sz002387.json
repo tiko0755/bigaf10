@@ -10,7 +10,7 @@
       "AVG_FREESHARES_RATIO": 0.06018608888,
       "HOLD_FOCUS": "非常分散",
       "PRICE": 7.12,
-      "AVG_HOLD_AMT": 161561.301355976,
+      "AVG_HOLD_AMT": 161565.065426508,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
     },
@@ -20,11 +20,11 @@
       "END_DATE": "2026-07-31 00:00:00",
       "HOLDER_TOTAL_NUM": 61513,
       "TOTAL_NUM_RATIO": 1.5854,
-      "AVG_FREE_SHARES": 22677,
+      "AVG_FREE_SHARES": 22678,
       "AVG_FREESHARES_RATIO": -1.560645717165,
       "HOLD_FOCUS": "非常分散",
       "PRICE": 6.93,
-      "AVG_HOLD_AMT": 157155.388811958,
+      "AVG_HOLD_AMT": 157159.050233121,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
     },
@@ -38,7 +38,7 @@
       "AVG_FREESHARES_RATIO": 7.345631100028,
       "HOLD_FOCUS": "非常分散",
       "PRICE": 6.12,
-      "AVG_HOLD_AMT": 140986.882882103,
+      "AVG_HOLD_AMT": 140990.167607881,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
     },
@@ -48,11 +48,11 @@
       "END_DATE": "2026-07-10 00:00:00",
       "HOLDER_TOTAL_NUM": 65001,
       "TOTAL_NUM_RATIO": -2.4331,
-      "AVG_FREE_SHARES": 21460,
+      "AVG_FREE_SHARES": 21461,
       "AVG_FREESHARES_RATIO": 2.493807787573,
       "HOLD_FOCUS": "非常分散",
       "PRICE": 8.08,
-      "AVG_HOLD_AMT": 173402.06845187,
+      "AVG_HOLD_AMT": 173406.108389717,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
     },
@@ -63,12 +63,12 @@
       "HOLDER_TOTAL_NUM": 66622,
       "TOTAL_NUM_RATIO": 10.139,
       "AVG_FREE_SHARES": 20938,
-      "AVG_FREESHARES_RATIO": -9.205667797424,
+      "AVG_FREESHARES_RATIO": -9.203552462456,
       "HOLD_FOCUS": "非常分散",
       "PRICE": 9,
-      "AVG_HOLD_AMT": 188446.377878178,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "AVG_HOLD_AMT": 188450.768319774,
+      "HOLD_RATIO_TOTAL": 58.8028127,
+      "FREEHOLD_RATIO_TOTAL": 58.87867485
     },
     {
       "SECUCODE": "002387.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "002387.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "002387.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "002387.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "002387.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "002387.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "002387.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "002387.SZ",
       "END_DATE": "2016-12-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002387.SZ",
-      "END_DATE": "2016-09-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -426,6 +426,10 @@
   "jgcc_date": [
     {
       "SECUCODE": "002387.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "002387.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -439,16 +443,16 @@
     {
       "SECUCODE": "002387.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "002387.SZ",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "002387.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "002387.SZ",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -462,10 +466,6 @@
     {
       "SECUCODE": "002387.SZ",
       "REPORT_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "002387.SZ",
-      "REPORT_DATE": "2025-03-31 00:00:00"
     }
   ],
   "xsjj": [],
@@ -473,130 +473,130 @@
     {
       "SECUCODE": "002387.SZ",
       "SECURITY_CODE": "002387",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "西藏知合科技发展有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 267350097,
-      "FREE_HOLDNUM_RATIO": 19.165378252747,
+      "FREE_HOLDNUM_RATIO": 19.164931746348,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002387.SZ",
       "SECURITY_CODE": "002387",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "合肥建曙投资有限公司",
       "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 160000000,
-      "FREE_HOLDNUM_RATIO": 11.469831336697,
+      "FREE_HOLDNUM_RATIO": 11.469564117703,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002387.SZ",
       "SECURITY_CODE": "002387",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "昆山经济技术开发区集体资产经营有限公司",
-      "HOLDER_TYPE": "其它",
+      "HOLDER_TYPE": "投资公司",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 131730538,
-      "FREE_HOLDNUM_RATIO": 9.443294079702,
+      "FREE_HOLDNUM_RATIO": 9.443074074066,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002387.SZ",
       "SECURITY_CODE": "002387",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "光大保德信资管-中海信托-黑牛食品定增1号单一资金信托-光大保德信耀财富富增9号单一资产管理计划",
       "HOLDER_TYPE": "基金资产管理计划",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 65868263,
-      "FREE_HOLDNUM_RATIO": 4.72186166907,
+      "FREE_HOLDNUM_RATIO": 4.721751661251,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002387.SZ",
       "SECURITY_CODE": "002387",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "农银汇理(上海)资产-农业银行-华宝信托-投资[6]号集合资金信托计划",
       "HOLDER_TYPE": "基金资产管理计划",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 65868263,
-      "FREE_HOLDNUM_RATIO": 4.72186166907,
+      "FREE_HOLDNUM_RATIO": 4.721751661251,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002387.SZ",
       "SECURITY_CODE": "002387",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "金鹰基金-中信银行-华宝信托-华宝-中信1号单一资金信托",
       "HOLDER_TYPE": "基金资产管理计划",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 59880239,
-      "FREE_HOLDNUM_RATIO": 4.292601510819,
+      "FREE_HOLDNUM_RATIO": 4.292501503712,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002387.SZ",
       "SECURITY_CODE": "002387",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "建信基金-工商银行-建信华润信托兴晟6号资产管理计划",
       "HOLDER_TYPE": "基金资产管理计划",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 49006512,
-      "FREE_HOLDNUM_RATIO": 3.513102668999,
+      "FREE_HOLDNUM_RATIO": 3.513020822306,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002387.SZ",
       "SECURITY_CODE": "002387",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "香港中央结算有限公司",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 7076311,
-      "FREE_HOLDNUM_RATIO": 0.50727558535,
-      "HOLD_NUM_CHANGE": "-230423",
-      "CHANGE_RATIO": -3.15357039
+      "HOLD_NUM": 9213425,
+      "FREE_HOLDNUM_RATIO": 0.660462304882,
+      "HOLD_NUM_CHANGE": "2137114",
+      "CHANGE_RATIO": 30.20096205
     },
     {
       "SECUCODE": "002387.SZ",
       "SECURITY_CODE": "002387",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "贾民",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 6450000,
-      "FREE_HOLDNUM_RATIO": 0.462377575761,
-      "HOLD_NUM_CHANGE": "74000",
-      "CHANGE_RATIO": 1.16060226
+      "FREE_HOLDNUM_RATIO": 0.462366803495,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002387.SZ",
       "SECURITY_CODE": "002387",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "金鹰基金-宁波银行-金鹰穗通定增487号资产管理计划",
       "HOLDER_TYPE": "基金资产管理计划",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 5988024,
-      "FREE_HOLDNUM_RATIO": 0.429260158251,
+      "FREE_HOLDNUM_RATIO": 0.42925015754,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
@@ -605,20 +605,20 @@
     {
       "SECUCODE": "002387.SZ",
       "SECURITY_CODE": "002387",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 819218247,
-      "LIMITED_SHARES": 1832200,
-      "OTHER_UNLIMITED_SHARES": 575745596,
-      "HOLD_NUM_RATIO": 58.65,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 821355361,
+      "LIMITED_SHARES": 1799700,
+      "OTHER_UNLIMITED_SHARES": 573640982,
+      "HOLD_NUM_RATIO": 58.8,
       "LIMITED_SHARES_RATIO": 0.13,
-      "UNLIMITED_SHARES_RATIO": 41.22
+      "UNLIMITED_SHARES_RATIO": 41.07
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "002387.SZ",
       "SECURITY_CODE": "002387",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "西藏知合科技发展有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "002387.SZ",
       "SECURITY_CODE": "002387",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "合肥建曙投资有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "002387.SZ",
       "SECURITY_CODE": "002387",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "昆山经济技术开发区集体资产经营有限公司",
       "SHARES_TYPE": "流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "002387.SZ",
       "SECURITY_CODE": "002387",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "光大保德信资管-中海信托-黑牛食品定增1号单一资金信托-光大保德信耀财富富增9号单一资产管理计划",
       "SHARES_TYPE": "流通A股",
@@ -666,7 +666,7 @@
     {
       "SECUCODE": "002387.SZ",
       "SECURITY_CODE": "002387",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "农银汇理(上海)资产-农业银行-华宝信托-投资[6]号集合资金信托计划",
       "SHARES_TYPE": "流通A股",
@@ -678,7 +678,7 @@
     {
       "SECUCODE": "002387.SZ",
       "SECURITY_CODE": "002387",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "金鹰基金-中信银行-华宝信托-华宝-中信1号单一资金信托",
       "SHARES_TYPE": "流通A股",
@@ -690,7 +690,7 @@
     {
       "SECUCODE": "002387.SZ",
       "SECURITY_CODE": "002387",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "建信基金-工商银行-建信华润信托兴晟6号资产管理计划",
       "SHARES_TYPE": "流通A股",
@@ -702,31 +702,31 @@
     {
       "SECUCODE": "002387.SZ",
       "SECURITY_CODE": "002387",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
       "HOLDER_NAME": "香港中央结算有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7076311,
-      "HOLD_NUM_RATIO": 0.51,
-      "HOLD_NUM_CHANGE": "-230423",
-      "CHANGE_RATIO": -3.15357039
+      "HOLD_NUM": 9213425,
+      "HOLD_NUM_RATIO": 0.66,
+      "HOLD_NUM_CHANGE": "2137114",
+      "CHANGE_RATIO": 30.20096205
     },
     {
       "SECUCODE": "002387.SZ",
       "SECURITY_CODE": "002387",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 9,
       "HOLDER_NAME": "贾民",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 6450000,
       "HOLD_NUM_RATIO": 0.46,
-      "HOLD_NUM_CHANGE": "74000",
-      "CHANGE_RATIO": 1.16060226
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002387.SZ",
       "SECURITY_CODE": "002387",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "金鹰基金-宁波银行-金鹰穗通定增487号资产管理计划",
       "SHARES_TYPE": "流通A股",
@@ -740,46 +740,46 @@
     {
       "SECUCODE": "002387.SZ",
       "SECURITY_CODE": "002387",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 9,
-      "TOTAL_FREE_SHARES": 812768247,
-      "TOTAL_SHARES_RATIO": 58.26446694,
-      "ALL_SHARES_RATIO": 58.1880405
+      "TOTAL_ORG_NUM": 10,
+      "TOTAL_FREE_SHARES": 814923261,
+      "TOTAL_SHARES_RATIO": 58.4175912,
+      "ALL_SHARES_RATIO": 58.34232315
     },
     {
       "SECUCODE": "002387.SZ",
       "SECURITY_CODE": "002387",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 5,
-      "TOTAL_FREE_SHARES": 246611301,
-      "TOTAL_SHARES_RATIO": 17.67868768,
-      "ALL_SHARES_RATIO": 17.65549827
+      "TOTAL_ORG_NUM": 6,
+      "TOTAL_FREE_SHARES": 246629201,
+      "TOTAL_SHARES_RATIO": 17.67955896,
+      "ALL_SHARES_RATIO": 17.65677977
     },
     {
       "SECUCODE": "002387.SZ",
       "SECURITY_CODE": "002387",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "07",
       "TOTAL_ORG_NUM": 4,
-      "TOTAL_FREE_SHARES": 566156946,
-      "TOTAL_SHARES_RATIO": 40.58577926,
-      "ALL_SHARES_RATIO": 40.53254223
+      "TOTAL_FREE_SHARES": 568294060,
+      "TOTAL_SHARES_RATIO": 40.73803224,
+      "ALL_SHARES_RATIO": 40.68554338
     }
   ],
   "jjcg": [
     {
       "ORG_TYPE": "01",
       "SECUCODE": "002387.SZ",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "HOLDER_CODE": "70407649",
       "HOLDER_NAME": "农银汇理(上海)资产-农业银行-华宝信托-投资[6]号集合资金信托计划",
       "TOTAL_SHARES": 65868263,
-      "HOLD_VALUE": 499940116.17,
+      "HOLD_VALUE": 592814367,
       "TOTALSHARES_RATIO": 4.71566793,
-      "FREESHARES_RATIO": 4.72186167,
-      "FREE_MARKET_CAP": 499940116.17,
+      "FREESHARES_RATIO": 4.72175166,
+      "FREE_MARKET_CAP": 592814367,
       "FREE_SHARES": 65868263,
       "SECURITY_CODE": "002387",
       "FUND_CODE": null,
@@ -789,14 +789,14 @@
     {
       "ORG_TYPE": "01",
       "SECUCODE": "002387.SZ",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "HOLDER_CODE": "70429856",
       "HOLDER_NAME": "光大保德信资管-中海信托-黑牛食品定增1号单一资金信托-光大保德信耀财富富增9号单一资产管理计划",
       "TOTAL_SHARES": 65868263,
-      "HOLD_VALUE": 499940116.17,
+      "HOLD_VALUE": 592814367,
       "TOTALSHARES_RATIO": 4.71566793,
-      "FREESHARES_RATIO": 4.72186167,
-      "FREE_MARKET_CAP": 499940116.17,
+      "FREESHARES_RATIO": 4.72175166,
+      "FREE_MARKET_CAP": 592814367,
       "FREE_SHARES": 65868263,
       "SECURITY_CODE": "002387",
       "FUND_CODE": null,
@@ -806,14 +806,14 @@
     {
       "ORG_TYPE": "01",
       "SECUCODE": "002387.SZ",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "HOLDER_CODE": "70410770",
       "HOLDER_NAME": "金鹰基金-中信银行-华宝信托-华宝-中信1号单一资金信托",
       "TOTAL_SHARES": 59880239,
-      "HOLD_VALUE": 454491014.01,
+      "HOLD_VALUE": 538922151,
       "TOTALSHARES_RATIO": 4.28697084,
-      "FREESHARES_RATIO": 4.29260151,
-      "FREE_MARKET_CAP": 454491014.01,
+      "FREESHARES_RATIO": 4.2925015,
+      "FREE_MARKET_CAP": 538922151,
       "FREE_SHARES": 59880239,
       "SECURITY_CODE": "002387",
       "FUND_CODE": null,
@@ -823,14 +823,14 @@
     {
       "ORG_TYPE": "01",
       "SECUCODE": "002387.SZ",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "HOLDER_CODE": "77865954",
       "HOLDER_NAME": "建信基金-工商银行-建信华润信托兴晟6号资产管理计划",
       "TOTAL_SHARES": 49006512,
-      "HOLD_VALUE": 371959426.08,
+      "HOLD_VALUE": 441058608,
       "TOTALSHARES_RATIO": 3.50849448,
-      "FREESHARES_RATIO": 3.51310267,
-      "FREE_MARKET_CAP": 371959426.08,
+      "FREESHARES_RATIO": 3.51302082,
+      "FREE_MARKET_CAP": 441058608,
       "FREE_SHARES": 49006512,
       "SECURITY_CODE": "002387",
       "FUND_CODE": null,
@@ -840,19 +840,36 @@
     {
       "ORG_TYPE": "01",
       "SECUCODE": "002387.SZ",
-      "REPORT_DATE": "2026-03-31 00:00:00",
+      "REPORT_DATE": "2026-06-30 00:00:00",
       "HOLDER_CODE": "77865977",
       "HOLDER_NAME": "金鹰基金-宁波银行-金鹰穗通定增487号资产管理计划",
       "TOTAL_SHARES": 5988024,
-      "HOLD_VALUE": 45449102.16,
+      "HOLD_VALUE": 53892216,
       "TOTALSHARES_RATIO": 0.42869709,
-      "FREESHARES_RATIO": 0.42926016,
-      "FREE_MARKET_CAP": 45449102.16,
+      "FREESHARES_RATIO": 0.42925016,
+      "FREE_MARKET_CAP": 53892216,
       "FREE_SHARES": 5988024,
       "SECURITY_CODE": "002387",
       "FUND_CODE": null,
       "FUND_DERIVECODE": null,
       "NETVALUE_RATIO": null
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "002387.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "026001",
+      "HOLDER_NAME": "融通上证科创板综合指数增强A",
+      "TOTAL_SHARES": 17900,
+      "HOLD_VALUE": 161100,
+      "TOTALSHARES_RATIO": 0.0012815,
+      "FREESHARES_RATIO": 0.00128316,
+      "FREE_MARKET_CAP": 161100,
+      "FREE_SHARES": 17900,
+      "SECURITY_CODE": "002387",
+      "FUND_CODE": "026001",
+      "FUND_DERIVECODE": "026001.OF",
+      "NETVALUE_RATIO": 0.05
     }
   ]
 }

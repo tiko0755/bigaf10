@@ -449,6 +449,10 @@
   "jjcg_date": [
     {
       "SECUCODE": "600420.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "600420.SH",
       "REPORT_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -462,10 +466,6 @@
     {
       "SECUCODE": "600420.SH",
       "REPORT_DATE": "2025-03-31 00:00:00"
-    },
-    {
-      "SECUCODE": "600420.SH",
-      "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
   "xsjj": [],
@@ -742,10 +742,20 @@
       "SECURITY_CODE": "600420",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
+      "TOTAL_ORG_NUM": 14,
+      "TOTAL_FREE_SHARES": 781187361,
+      "TOTAL_SHARES_RATIO": 58.24659015,
+      "ALL_SHARES_RATIO": 58.24659015
+    },
+    {
+      "SECUCODE": "600420.SH",
+      "SECURITY_CODE": "600420",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "01",
       "TOTAL_ORG_NUM": 7,
-      "TOTAL_FREE_SHARES": 781175061,
-      "TOTAL_SHARES_RATIO": 58.24567303,
-      "ALL_SHARES_RATIO": 58.24567303
+      "TOTAL_FREE_SHARES": 12300,
+      "TOTAL_SHARES_RATIO": 0.00091712,
+      "ALL_SHARES_RATIO": 0.00091712
     },
     {
       "SECUCODE": "600420.SH",
@@ -762,19 +772,121 @@
     {
       "ORG_TYPE": "01",
       "SECUCODE": "600420.SH",
-      "REPORT_DATE": "2026-03-31 00:00:00",
-      "HOLDER_CODE": "017190",
-      "HOLDER_NAME": "鑫元中证1000指数增强发起式A",
-      "TOTAL_SHARES": 195700,
-      "HOLD_VALUE": 2076377,
-      "TOTALSHARES_RATIO": 0.01459171,
-      "FREESHARES_RATIO": 0.01459171,
-      "FREE_MARKET_CAP": 2076377,
-      "FREE_SHARES": 195700,
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "005457",
+      "HOLDER_NAME": "景顺长城量化小盘股票A",
+      "TOTAL_SHARES": 6900,
+      "HOLD_VALUE": 54855,
+      "TOTALSHARES_RATIO": 0.00051448,
+      "FREESHARES_RATIO": 0.00051448,
+      "FREE_MARKET_CAP": 54855,
+      "FREE_SHARES": 6900,
       "SECURITY_CODE": "600420",
-      "FUND_CODE": "017190",
-      "FUND_DERIVECODE": "017190.OF",
-      "NETVALUE_RATIO": 0.98
+      "FUND_CODE": "005457",
+      "FUND_DERIVECODE": "005457.OF",
+      "NETVALUE_RATIO": 0.01
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600420.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "015495",
+      "HOLDER_NAME": "景顺长城中证1000指数增强A",
+      "TOTAL_SHARES": 1600,
+      "HOLD_VALUE": 12720,
+      "TOTALSHARES_RATIO": 0.0001193,
+      "FREESHARES_RATIO": 0.0001193,
+      "FREE_MARKET_CAP": 12720,
+      "FREE_SHARES": 1600,
+      "SECURITY_CODE": "600420",
+      "FUND_CODE": "015495",
+      "FUND_DERIVECODE": "015495.OF",
+      "NETVALUE_RATIO": 0.01
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600420.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "016785",
+      "HOLDER_NAME": "鹏华中证1000指数增强A",
+      "TOTAL_SHARES": 1300,
+      "HOLD_VALUE": 10335,
+      "TOTALSHARES_RATIO": 0.00009693,
+      "FREESHARES_RATIO": 0.00009693,
+      "FREE_MARKET_CAP": 10335,
+      "FREE_SHARES": 1300,
+      "SECURITY_CODE": "600420",
+      "FUND_CODE": "016785",
+      "FUND_DERIVECODE": "016785.OF",
+      "NETVALUE_RATIO": 0
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600420.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "017323",
+      "HOLDER_NAME": "农银中证1000指数增强A",
+      "TOTAL_SHARES": 900,
+      "HOLD_VALUE": 7155,
+      "TOTALSHARES_RATIO": 0.00006711,
+      "FREESHARES_RATIO": 0.00006711,
+      "FREE_MARKET_CAP": 7155,
+      "FREE_SHARES": 900,
+      "SECURITY_CODE": "600420",
+      "FUND_CODE": "017323",
+      "FUND_DERIVECODE": "017323.OF",
+      "NETVALUE_RATIO": 0.03
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600420.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "159521",
+      "HOLDER_NAME": "平安国证2000ETF",
+      "TOTAL_SHARES": 800,
+      "HOLD_VALUE": 6360,
+      "TOTALSHARES_RATIO": 0.00005965,
+      "FREESHARES_RATIO": 0.00005965,
+      "FREE_MARKET_CAP": 6360,
+      "FREE_SHARES": 800,
+      "SECURITY_CODE": "600420",
+      "FUND_CODE": "159521",
+      "FUND_DERIVECODE": "159521.SZ",
+      "NETVALUE_RATIO": 0.04
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600420.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "019013",
+      "HOLDER_NAME": "景顺长城国证2000指数增强A",
+      "TOTAL_SHARES": 700,
+      "HOLD_VALUE": 5565,
+      "TOTALSHARES_RATIO": 0.00005219,
+      "FREESHARES_RATIO": 0.00005219,
+      "FREE_MARKET_CAP": 5565,
+      "FREE_SHARES": 700,
+      "SECURITY_CODE": "600420",
+      "FUND_CODE": "019013",
+      "FUND_DERIVECODE": "019013.OF",
+      "NETVALUE_RATIO": 0.01
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "600420.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "021812",
+      "HOLDER_NAME": "东兴宸泰量化选股混合发起A",
+      "TOTAL_SHARES": 100,
+      "HOLD_VALUE": 795,
+      "TOTALSHARES_RATIO": 0.00000746,
+      "FREESHARES_RATIO": 0.00000746,
+      "FREE_MARKET_CAP": 795,
+      "FREE_SHARES": 100,
+      "SECURITY_CODE": "600420",
+      "FUND_CODE": "021812",
+      "FUND_DERIVECODE": "021812.OF",
+      "NETVALUE_RATIO": 0
     }
   ]
 }

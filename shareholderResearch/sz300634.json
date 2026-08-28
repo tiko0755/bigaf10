@@ -81,8 +81,8 @@
       "HOLD_FOCUS": "较分散",
       "PRICE": 19.57,
       "AVG_HOLD_AMT": 200574.256466535,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 46.29349092,
+      "FREEHOLD_RATIO_TOTAL": 44.36864718
     },
     {
       "SECUCODE": "300634.SZ",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "300634.SZ",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "300634.SZ",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,13 +161,14 @@
     {
       "SECUCODE": "300634.SZ",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "300634.SZ",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
+    {
+      "SECUCODE": "300634.SZ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "300634.SZ",
       "END_DATE": "2026-03-31 00:00:00",
@@ -408,11 +413,6 @@
       "SECUCODE": "300634.SZ",
       "END_DATE": "2020-06-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "300634.SZ",
-      "END_DATE": "2020-05-20 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -473,7 +473,7 @@
     {
       "SECUCODE": "300634.SZ",
       "SECURITY_CODE": "300634",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "深圳市百砻技术有限公司",
       "HOLDER_TYPE": "其它",
@@ -486,7 +486,7 @@
     {
       "SECUCODE": "300634.SZ",
       "SECURITY_CODE": "300634",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "宿迁兆鸿技术有限公司",
       "HOLDER_TYPE": "其它",
@@ -499,7 +499,7 @@
     {
       "SECUCODE": "300634.SZ",
       "SECURITY_CODE": "300634",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "永新县光彩信息科技研究中心(有限合伙)",
       "HOLDER_TYPE": "其它",
@@ -512,7 +512,7 @@
     {
       "SECUCODE": "300634.SZ",
       "SECURITY_CODE": "300634",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "杨良志",
       "HOLDER_TYPE": "个人",
@@ -525,8 +525,21 @@
     {
       "SECUCODE": "300634.SZ",
       "SECURITY_CODE": "300634",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "刘子曜",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 5198649,
+      "FREE_HOLDNUM_RATIO": 1.197091003711,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300634.SZ",
+      "SECURITY_CODE": "300634",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "永新县明彩信息科技研究中心(有限合伙)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -538,8 +551,21 @@
     {
       "SECUCODE": "300634.SZ",
       "SECURITY_CODE": "300634",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "应京圆",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2441300,
+      "FREE_HOLDNUM_RATIO": 0.562157258041,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300634.SZ",
+      "SECURITY_CODE": "300634",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "永新县瑞彩信息科技研究中心(有限合伙)",
       "HOLDER_TYPE": "其它",
       "SHARES_TYPE": "A股",
@@ -551,74 +577,48 @@
     {
       "SECUCODE": "300634.SZ",
       "SECURITY_CODE": "300634",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "HOLDER_TYPE": "其它",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 2032090,
-      "FREE_HOLDNUM_RATIO": 0.467928621019,
-      "HOLD_NUM_CHANGE": "-213695",
-      "CHANGE_RATIO": -9.51538104
-    },
-    {
-      "SECUCODE": "300634.SZ",
-      "SECURITY_CODE": "300634",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "韩笑",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1807100,
-      "FREE_HOLDNUM_RATIO": 0.416120256014,
-      "HOLD_NUM_CHANGE": "163400",
-      "CHANGE_RATIO": 9.9409868
+      "HOLD_NUM": 1718300,
+      "FREE_HOLDNUM_RATIO": 0.395672312494,
+      "HOLD_NUM_CHANGE": "-88800",
+      "CHANGE_RATIO": -4.91395053
     },
     {
       "SECUCODE": "300634.SZ",
       "SECURITY_CODE": "300634",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "范华伟",
-      "HOLDER_TYPE": "个人",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1413900,
-      "FREE_HOLDNUM_RATIO": 0.325578235835,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300634.SZ",
-      "SECURITY_CODE": "300634",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "平安银行股份有限公司-国泰中证全指软件交易型开放式指数证券投资基金",
       "HOLDER_TYPE": "证券投资基金",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1339800,
-      "FREE_HOLDNUM_RATIO": 0.308515255939,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1675800,
+      "FREE_HOLDNUM_RATIO": 0.38588585304,
+      "HOLD_NUM_CHANGE": "336000",
+      "CHANGE_RATIO": 25.07836991
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "300634.SZ",
       "SECURITY_CODE": "300634",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 188240118,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 192681277,
       "LIMITED_SHARES": 16937400,
-      "OTHER_UNLIMITED_SHARES": 246033382,
-      "HOLD_NUM_RATIO": 41.72,
+      "OTHER_UNLIMITED_SHARES": 241592223,
+      "HOLD_NUM_RATIO": 42.7,
       "LIMITED_SHARES_RATIO": 3.75,
-      "UNLIMITED_SHARES_RATIO": 54.53
+      "UNLIMITED_SHARES_RATIO": 53.54
     }
   ],
   "sdgd": [
     {
       "SECUCODE": "300634.SZ",
       "SECURITY_CODE": "300634",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "深圳市百砻技术有限公司",
       "SHARES_TYPE": "流通A股",
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "300634.SZ",
       "SECURITY_CODE": "300634",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "宿迁兆鸿技术有限公司",
       "SHARES_TYPE": "流通A股",
@@ -642,7 +642,7 @@
     {
       "SECUCODE": "300634.SZ",
       "SECURITY_CODE": "300634",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "杨良志",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -654,7 +654,7 @@
     {
       "SECUCODE": "300634.SZ",
       "SECURITY_CODE": "300634",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "永新县光彩信息科技研究中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
@@ -666,8 +666,20 @@
     {
       "SECUCODE": "300634.SZ",
       "SECURITY_CODE": "300634",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
+      "HOLDER_NAME": "刘子曜",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 5198649,
+      "HOLD_NUM_RATIO": 1.15,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300634.SZ",
+      "SECURITY_CODE": "300634",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "永新县明彩信息科技研究中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 4017006,
@@ -678,8 +690,20 @@
     {
       "SECUCODE": "300634.SZ",
       "SECURITY_CODE": "300634",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 6,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "应京圆",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2441300,
+      "HOLD_NUM_RATIO": 0.54,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "300634.SZ",
+      "SECURITY_CODE": "300634",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
       "HOLDER_NAME": "永新县瑞彩信息科技研究中心(有限合伙)",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2251996,
@@ -690,50 +714,26 @@
     {
       "SECUCODE": "300634.SZ",
       "SECURITY_CODE": "300634",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2032090,
-      "HOLD_NUM_RATIO": 0.45,
-      "HOLD_NUM_CHANGE": "-213695",
-      "CHANGE_RATIO": -9.51538104
-    },
-    {
-      "SECUCODE": "300634.SZ",
-      "SECURITY_CODE": "300634",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 8,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "韩笑",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1807100,
-      "HOLD_NUM_RATIO": 0.4,
-      "HOLD_NUM_CHANGE": "163400",
-      "CHANGE_RATIO": 9.9409868
+      "HOLD_NUM": 1718300,
+      "HOLD_NUM_RATIO": 0.38,
+      "HOLD_NUM_CHANGE": "-88800",
+      "CHANGE_RATIO": -4.91395053
     },
     {
       "SECUCODE": "300634.SZ",
       "SECURITY_CODE": "300634",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "范华伟",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1413900,
-      "HOLD_NUM_RATIO": 0.31,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300634.SZ",
-      "SECURITY_CODE": "300634",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 10,
       "HOLDER_NAME": "平安银行股份有限公司-国泰中证全指软件交易型开放式指数证券投资基金",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1339800,
-      "HOLD_NUM_RATIO": 0.3,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 1675800,
+      "HOLD_NUM_RATIO": 0.37,
+      "HOLD_NUM_CHANGE": "336000",
+      "CHANGE_RATIO": 25.07836991
     }
   ],
   "jgcc": [
@@ -742,23 +742,50 @@
       "SECURITY_CODE": "300634",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 577700,
-      "TOTAL_SHARES_RATIO": 0.13302677,
-      "ALL_SHARES_RATIO": 0.12803326
+      "TOTAL_ORG_NUM": 17,
+      "TOTAL_FREE_SHARES": 178522312,
+      "TOTAL_SHARES_RATIO": 41.10826748,
+      "ALL_SHARES_RATIO": 39.56515944
     },
     {
       "SECUCODE": "300634.SZ",
       "SECURITY_CODE": "300634",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "01",
-      "TOTAL_ORG_NUM": 2,
-      "TOTAL_FREE_SHARES": 577700,
-      "TOTAL_SHARES_RATIO": 0.13302677,
-      "ALL_SHARES_RATIO": 0.12803326
+      "TOTAL_ORG_NUM": 12,
+      "TOTAL_FREE_SHARES": 2275084,
+      "TOTAL_SHARES_RATIO": 0.52388276,
+      "ALL_SHARES_RATIO": 0.50421743
+    },
+    {
+      "SECUCODE": "300634.SZ",
+      "SECURITY_CODE": "300634",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 5,
+      "TOTAL_FREE_SHARES": 176247228,
+      "TOTAL_SHARES_RATIO": 40.58438472,
+      "ALL_SHARES_RATIO": 39.06094201
     }
   ],
   "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300634.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "515230",
+      "HOLDER_NAME": "国泰中证全指软件ETF",
+      "TOTAL_SHARES": 1675800,
+      "HOLD_VALUE": 32795406,
+      "TOTALSHARES_RATIO": 0.3714006,
+      "FREESHARES_RATIO": 0.38588585,
+      "FREE_MARKET_CAP": 32795406,
+      "FREE_SHARES": 1675800,
+      "SECURITY_CODE": "300634",
+      "FUND_CODE": "515230",
+      "FUND_DERIVECODE": "515230.SH",
+      "NETVALUE_RATIO": 0.68
+    },
     {
       "ORG_TYPE": "01",
       "SECUCODE": "300634.SZ",
@@ -792,6 +819,159 @@
       "FUND_CODE": "017648",
       "FUND_DERIVECODE": "017648.OF",
       "NETVALUE_RATIO": 3.78
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300634.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "018157",
+      "HOLDER_NAME": "西部利得中证1000指数增强A",
+      "TOTAL_SHARES": 8900,
+      "HOLD_VALUE": 174173,
+      "TOTALSHARES_RATIO": 0.00197247,
+      "FREESHARES_RATIO": 0.0020494,
+      "FREE_MARKET_CAP": 174173,
+      "FREE_SHARES": 8900,
+      "SECURITY_CODE": "300634",
+      "FUND_CODE": "018157",
+      "FUND_DERIVECODE": "018157.OF",
+      "NETVALUE_RATIO": 0.03
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300634.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "001294",
+      "HOLDER_NAME": "新华战略新兴产业灵活配置混合",
+      "TOTAL_SHARES": 7500,
+      "HOLD_VALUE": 146775,
+      "TOTALSHARES_RATIO": 0.00166219,
+      "FREESHARES_RATIO": 0.00172702,
+      "FREE_MARKET_CAP": 146775,
+      "FREE_SHARES": 7500,
+      "SECURITY_CODE": "300634",
+      "FUND_CODE": "001294",
+      "FUND_DERIVECODE": "001294.OF",
+      "NETVALUE_RATIO": 0.2
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300634.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "019013",
+      "HOLDER_NAME": "景顺长城国证2000指数增强A",
+      "TOTAL_SHARES": 2300,
+      "HOLD_VALUE": 45011,
+      "TOTALSHARES_RATIO": 0.00050974,
+      "FREESHARES_RATIO": 0.00052962,
+      "FREE_MARKET_CAP": 45011,
+      "FREE_SHARES": 2300,
+      "SECURITY_CODE": "300634",
+      "FUND_CODE": "019013",
+      "FUND_DERIVECODE": "019013.OF",
+      "NETVALUE_RATIO": 0.05
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300634.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "159289",
+      "HOLDER_NAME": "鹏华创业板综合ETF",
+      "TOTAL_SHARES": 800,
+      "HOLD_VALUE": 15656,
+      "TOTALSHARES_RATIO": 0.0001773,
+      "FREESHARES_RATIO": 0.00018422,
+      "FREE_MARKET_CAP": 15656,
+      "FREE_SHARES": 800,
+      "SECURITY_CODE": "300634",
+      "FUND_CODE": "159289",
+      "FUND_DERIVECODE": "159289.SZ",
+      "NETVALUE_RATIO": 0.04
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300634.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "008356",
+      "HOLDER_NAME": "中加科丰价值精选混合",
+      "TOTAL_SHARES": 700,
+      "HOLD_VALUE": 13699,
+      "TOTALSHARES_RATIO": 0.00015514,
+      "FREESHARES_RATIO": 0.00016119,
+      "FREE_MARKET_CAP": 13699,
+      "FREE_SHARES": 700,
+      "SECURITY_CODE": "300634",
+      "FUND_CODE": "008356",
+      "FUND_DERIVECODE": "008356.OF",
+      "NETVALUE_RATIO": 0
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300634.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "005457",
+      "HOLDER_NAME": "景顺长城量化小盘股票A",
+      "TOTAL_SHARES": 500,
+      "HOLD_VALUE": 9785,
+      "TOTALSHARES_RATIO": 0.00011081,
+      "FREESHARES_RATIO": 0.00011513,
+      "FREE_MARKET_CAP": 9785,
+      "FREE_SHARES": 500,
+      "SECURITY_CODE": "300634",
+      "FUND_CODE": "005457",
+      "FUND_DERIVECODE": "005457.OF",
+      "NETVALUE_RATIO": 0
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300634.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "014691",
+      "HOLDER_NAME": "中加量化研选混合A",
+      "TOTAL_SHARES": 400,
+      "HOLD_VALUE": 7828,
+      "TOTALSHARES_RATIO": 0.00008865,
+      "FREESHARES_RATIO": 0.00009211,
+      "FREE_MARKET_CAP": 7828,
+      "FREE_SHARES": 400,
+      "SECURITY_CODE": "300634",
+      "FUND_CODE": "014691",
+      "FUND_DERIVECODE": "014691.OF",
+      "NETVALUE_RATIO": 0.02
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300634.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "017323",
+      "HOLDER_NAME": "农银中证1000指数增强A",
+      "TOTAL_SHARES": 400,
+      "HOLD_VALUE": 7828,
+      "TOTALSHARES_RATIO": 0.00008865,
+      "FREESHARES_RATIO": 0.00009211,
+      "FREE_MARKET_CAP": 7828,
+      "FREE_SHARES": 400,
+      "SECURITY_CODE": "300634",
+      "FUND_CODE": "017323",
+      "FUND_DERIVECODE": "017323.OF",
+      "NETVALUE_RATIO": 0.03
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "300634.SZ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "021812",
+      "HOLDER_NAME": "东兴宸泰量化选股混合发起A",
+      "TOTAL_SHARES": 84,
+      "HOLD_VALUE": 1643.88,
+      "TOTALSHARES_RATIO": 0.00001862,
+      "FREESHARES_RATIO": 0.00001934,
+      "FREE_MARKET_CAP": 1643.88,
+      "FREE_SHARES": 84,
+      "SECURITY_CODE": "300634",
+      "FUND_CODE": "021812",
+      "FUND_DERIVECODE": "021812.OF",
+      "NETVALUE_RATIO": 0
     }
   ]
 }

@@ -11,8 +11,8 @@
       "HOLD_FOCUS": "较集中",
       "PRICE": 5.77,
       "AVG_HOLD_AMT": 151303.169184904,
-      "HOLD_RATIO_TOTAL": null,
-      "FREEHOLD_RATIO_TOTAL": null
+      "HOLD_RATIO_TOTAL": 75.35624788,
+      "FREEHOLD_RATIO_TOTAL": 75.35624788
     },
     {
       "SECUCODE": "603839.SH",
@@ -144,6 +144,10 @@
   "sdltgd_date": [
     {
       "SECUCODE": "603839.SH",
+      "END_DATE": "2026-06-30 00:00:00"
+    },
+    {
+      "SECUCODE": "603839.SH",
       "END_DATE": "2026-03-31 00:00:00"
     },
     {
@@ -157,10 +161,6 @@
     {
       "SECUCODE": "603839.SH",
       "END_DATE": "2025-06-30 00:00:00"
-    },
-    {
-      "SECUCODE": "603839.SH",
-      "END_DATE": "2025-03-31 00:00:00"
     }
   ],
   "sdgd_date": [
@@ -168,6 +168,11 @@
       "SECUCODE": "603839.SH",
       "END_DATE": "2026-07-01 00:00:00",
       "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "603839.SH",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
     },
     {
       "SECUCODE": "603839.SH",
@@ -408,11 +413,6 @@
       "SECUCODE": "603839.SH",
       "END_DATE": "2018-01-18 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "603839.SH",
-      "END_DATE": "2018-01-04 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -445,19 +445,7 @@
       "REPORT_DATE": "2025-06-30 00:00:00"
     }
   ],
-  "sdgdcgbd": [
-    {
-      "END_DATE": "2026-07-01 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "陈克川",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 0,
-      "HOLD_NUM_RATIO": null,
-      "HOLD_CHANGE": "-41406300",
-      "CHANGE_RATIO": -100,
-      "CHANGE_REASON": "临时公告"
-    }
-  ],
+  "sdgdcgbd": [],
   "jjcg_date": [
     {
       "SECUCODE": "603839.SH",
@@ -485,7 +473,7 @@
     {
       "SECUCODE": "603839.SH",
       "SECURITY_CODE": "603839",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "郑安政",
       "HOLDER_TYPE": "个人",
@@ -498,20 +486,20 @@
     {
       "SECUCODE": "603839.SH",
       "SECURITY_CODE": "603839",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 2,
-      "HOLDER_NAME": "陈克川",
+      "HOLDER_NAME": "郑秀萍",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
       "HOLD_NUM": 41406300,
       "FREE_HOLDNUM_RATIO": 10.698854466557,
-      "HOLD_NUM_CHANGE": "不变",
+      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "603839.SH",
       "SECURITY_CODE": "603839",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "郑安坤",
       "HOLDER_TYPE": "个人",
@@ -524,7 +512,7 @@
     {
       "SECUCODE": "603839.SH",
       "SECURITY_CODE": "603839",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 4,
       "HOLDER_NAME": "郑安杰",
       "HOLDER_TYPE": "个人",
@@ -537,7 +525,7 @@
     {
       "SECUCODE": "603839.SH",
       "SECURITY_CODE": "603839",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 5,
       "HOLDER_NAME": "王海燕",
       "HOLDER_TYPE": "个人",
@@ -550,7 +538,7 @@
     {
       "SECUCODE": "603839.SH",
       "SECURITY_CODE": "603839",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 6,
       "HOLDER_NAME": "财通证券资管-金素芬-财通证券资管智汇99号单一资产管理计划",
       "HOLDER_TYPE": "集合理财计划",
@@ -563,7 +551,7 @@
     {
       "SECUCODE": "603839.SH",
       "SECURITY_CODE": "603839",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "黄则诚",
       "HOLDER_TYPE": "个人",
@@ -576,54 +564,54 @@
     {
       "SECUCODE": "603839.SH",
       "SECURITY_CODE": "603839",
-      "END_DATE": "2026-03-31 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
-      "HOLDER_TYPE": "证券投资基金",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1965800,
-      "FREE_HOLDNUM_RATIO": 0.507937393835,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603839.SH",
-      "SECURITY_CODE": "603839",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "UBS AG",
-      "HOLDER_TYPE": "QFII",
-      "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1835506,
-      "FREE_HOLDNUM_RATIO": 0.474271102863,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "603839.SH",
-      "SECURITY_CODE": "603839",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLDER_RANK": 10,
       "HOLDER_NAME": "袁喜保",
       "HOLDER_TYPE": "个人",
       "SHARES_TYPE": "A股",
-      "HOLD_NUM": 1799000,
-      "FREE_HOLDNUM_RATIO": 0.464838422784,
-      "HOLD_NUM_CHANGE": "440100",
-      "CHANGE_RATIO": 32.38648907
+      "HOLD_NUM": 2611300,
+      "FREE_HOLDNUM_RATIO": 0.674726277608,
+      "HOLD_NUM_CHANGE": "812300",
+      "CHANGE_RATIO": 45.1528627
+    },
+    {
+      "SECUCODE": "603839.SH",
+      "SECURITY_CODE": "603839",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "J.P.MorganSecurities PLC-自有资金",
+      "HOLDER_TYPE": "QFII",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 2604869,
+      "FREE_HOLDNUM_RATIO": 0.673064590061,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "603839.SH",
+      "SECURITY_CODE": "603839",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "中国民生银行股份有限公司-建信灵活配置混合型证券投资基金",
+      "HOLDER_TYPE": "证券投资基金",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 1905200,
+      "FREE_HOLDNUM_RATIO": 0.492279134569,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "ltgf": [
     {
       "SECUCODE": "603839.SH",
       "SECURITY_CODE": "603839",
-      "END_DATE": "2026-03-31 00:00:00",
-      "HOLD_NUM_COUNT": 290119824,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 291640887,
       "LIMITED_SHARES": null,
-      "OTHER_UNLIMITED_SHARES": 96896376,
-      "HOLD_NUM_RATIO": 74.96,
+      "OTHER_UNLIMITED_SHARES": 95375313,
+      "HOLD_NUM_RATIO": 75.36,
       "LIMITED_SHARES_RATIO": null,
-      "UNLIMITED_SHARES_RATIO": 25.04
+      "UNLIMITED_SHARES_RATIO": 24.64
     }
   ],
   "sdgd": [
@@ -648,7 +636,7 @@
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 41406300,
       "HOLD_NUM_RATIO": 10.7,
-      "HOLD_NUM_CHANGE": "新进",
+      "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     },
     {
@@ -720,8 +708,8 @@
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 0,
       "HOLD_NUM_RATIO": null,
-      "HOLD_NUM_CHANGE": "-41406300",
-      "CHANGE_RATIO": -100
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
@@ -730,20 +718,40 @@
       "SECURITY_CODE": "603839",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "00",
-      "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 1905200,
-      "TOTAL_SHARES_RATIO": 0.49227913,
-      "ALL_SHARES_RATIO": 0.49227913
+      "TOTAL_ORG_NUM": 10,
+      "TOTAL_FREE_SHARES": 25824969,
+      "TOTAL_SHARES_RATIO": 6.67283927,
+      "ALL_SHARES_RATIO": 6.67283927
     },
     {
       "SECUCODE": "603839.SH",
       "SECURITY_CODE": "603839",
       "REPORT_DATE": "2026-06-30 00:00:00",
       "ORG_TYPE": "01",
+      "TOTAL_ORG_NUM": 8,
+      "TOTAL_FREE_SHARES": 2220100,
+      "TOTAL_SHARES_RATIO": 0.57364523,
+      "ALL_SHARES_RATIO": 0.57364523
+    },
+    {
+      "SECUCODE": "603839.SH",
+      "SECURITY_CODE": "603839",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "02",
       "TOTAL_ORG_NUM": 1,
-      "TOTAL_FREE_SHARES": 1905200,
-      "TOTAL_SHARES_RATIO": 0.49227913,
-      "ALL_SHARES_RATIO": 0.49227913
+      "TOTAL_FREE_SHARES": 2604869,
+      "TOTAL_SHARES_RATIO": 0.67306459,
+      "ALL_SHARES_RATIO": 0.67306459
+    },
+    {
+      "SECUCODE": "603839.SH",
+      "SECURITY_CODE": "603839",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "04",
+      "TOTAL_ORG_NUM": 1,
+      "TOTAL_FREE_SHARES": 21000000,
+      "TOTAL_SHARES_RATIO": 5.42612945,
+      "ALL_SHARES_RATIO": 5.42612945
     }
   ],
   "jjcg": [
@@ -763,6 +771,125 @@
       "FUND_CODE": "000270",
       "FUND_DERIVECODE": "000270.OF",
       "NETVALUE_RATIO": 1.2
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603839.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "022804",
+      "HOLDER_NAME": "中加中证A500指数增强发起式A",
+      "TOTAL_SHARES": 117300,
+      "HOLD_VALUE": 676821,
+      "TOTALSHARES_RATIO": 0.03030881,
+      "FREESHARES_RATIO": 0.03030881,
+      "FREE_MARKET_CAP": 676821,
+      "FREE_SHARES": 117300,
+      "SECURITY_CODE": "603839",
+      "FUND_CODE": "022804",
+      "FUND_DERIVECODE": "022804.OF",
+      "NETVALUE_RATIO": 0.14
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603839.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "026941",
+      "HOLDER_NAME": "中加量化选股混合A",
+      "TOTAL_SHARES": 62700,
+      "HOLD_VALUE": 361779,
+      "TOTALSHARES_RATIO": 0.01620087,
+      "FREESHARES_RATIO": 0.01620087,
+      "FREE_MARKET_CAP": 361779,
+      "FREE_SHARES": 62700,
+      "SECURITY_CODE": "603839",
+      "FUND_CODE": "026941",
+      "FUND_DERIVECODE": "026941.OF",
+      "NETVALUE_RATIO": 0.05
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603839.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "009840",
+      "HOLDER_NAME": "东财量化精选混合A",
+      "TOTAL_SHARES": 60600,
+      "HOLD_VALUE": 349662,
+      "TOTALSHARES_RATIO": 0.01565826,
+      "FREESHARES_RATIO": 0.01565826,
+      "FREE_MARKET_CAP": 349662,
+      "FREE_SHARES": 60600,
+      "SECURITY_CODE": "603839",
+      "FUND_CODE": "009840",
+      "FUND_DERIVECODE": "009840.OF",
+      "NETVALUE_RATIO": 0.32
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603839.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "021990",
+      "HOLDER_NAME": "中加专精特新量化选股混合发起式A",
+      "TOTAL_SHARES": 59600,
+      "HOLD_VALUE": 343892,
+      "TOTALSHARES_RATIO": 0.01539987,
+      "FREESHARES_RATIO": 0.01539987,
+      "FREE_MARKET_CAP": 343892,
+      "FREE_SHARES": 59600,
+      "SECURITY_CODE": "603839",
+      "FUND_CODE": "021990",
+      "FUND_DERIVECODE": "021990.OF",
+      "NETVALUE_RATIO": 0.07
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603839.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "005373",
+      "HOLDER_NAME": "中加紫金混合A",
+      "TOTAL_SHARES": 6400,
+      "HOLD_VALUE": 36928,
+      "TOTALSHARES_RATIO": 0.00165368,
+      "FREESHARES_RATIO": 0.00165368,
+      "FREE_MARKET_CAP": 36928,
+      "FREE_SHARES": 6400,
+      "SECURITY_CODE": "603839",
+      "FUND_CODE": "005373",
+      "FUND_DERIVECODE": "005373.OF",
+      "NETVALUE_RATIO": 0.05
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603839.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "010543",
+      "HOLDER_NAME": "中加科鑫混合A",
+      "TOTAL_SHARES": 6200,
+      "HOLD_VALUE": 35774,
+      "TOTALSHARES_RATIO": 0.001602,
+      "FREESHARES_RATIO": 0.001602,
+      "FREE_MARKET_CAP": 35774,
+      "FREE_SHARES": 6200,
+      "SECURITY_CODE": "603839",
+      "FUND_CODE": "010543",
+      "FUND_DERIVECODE": "010543.OF",
+      "NETVALUE_RATIO": 0.01
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "603839.SH",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "233010",
+      "HOLDER_NAME": "大摩深证300指数增强",
+      "TOTAL_SHARES": 2100,
+      "HOLD_VALUE": 12117,
+      "TOTALSHARES_RATIO": 0.00054261,
+      "FREESHARES_RATIO": 0.00054261,
+      "FREE_MARKET_CAP": 12117,
+      "FREE_SHARES": 2100,
+      "SECURITY_CODE": "603839",
+      "FUND_CODE": "233010",
+      "FUND_DERIVECODE": "233010.OF",
+      "NETVALUE_RATIO": 0.02
     }
   ]
 }
