@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "300823.SZ",
+      "END_DATE": "2026-08-31 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300823.SZ",
       "END_DATE": "2026-06-30 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "300823.SZ",
       "END_DATE": "2025-06-03 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300823.SZ",
-      "END_DATE": "2025-05-30 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -420,7 +420,7 @@
       "SECUCODE": "300823.SZ",
       "SECURITY_CODE": "300823",
       "HOLDER_NAME": "陈振东,陈振生,陈振华",
-      "HOLD_RATIO": 51.67
+      "HOLD_RATIO": 51.64
     }
   ],
   "jgcc_date": [
@@ -445,7 +445,19 @@
       "REPORT_DATE": "2025-06-30 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-08-31 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "陈振生",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 8667705,
+      "HOLD_NUM_RATIO": 6.62,
+      "HOLD_CHANGE": "-40000",
+      "CHANGE_RATIO": -0.45936329,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "300823.SZ",
@@ -618,7 +630,7 @@
     {
       "SECUCODE": "300823.SZ",
       "SECURITY_CODE": "300823",
-      "END_DATE": "2026-06-30 00:00:00",
+      "END_DATE": "2026-08-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "陈振东",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -630,109 +642,25 @@
     {
       "SECUCODE": "300823.SZ",
       "SECURITY_CODE": "300823",
-      "END_DATE": "2026-06-30 00:00:00",
+      "END_DATE": "2026-08-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "陈振生",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 8707705,
-      "HOLD_NUM_RATIO": 6.65,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 8667705,
+      "HOLD_NUM_RATIO": 6.62,
+      "HOLD_NUM_CHANGE": "-40000",
+      "CHANGE_RATIO": -0.45936329
     },
     {
       "SECUCODE": "300823.SZ",
       "SECURITY_CODE": "300823",
-      "END_DATE": "2026-06-30 00:00:00",
+      "END_DATE": "2026-08-31 00:00:00",
       "HOLDER_RANK": 3,
       "HOLDER_NAME": "陈振华",
       "SHARES_TYPE": "流通A股,限售流通A股",
       "HOLD_NUM": 8249358,
       "HOLD_NUM_RATIO": 6.3,
       "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300823.SZ",
-      "SECURITY_CODE": "300823",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "诚科建信(天津)企业管理咨询有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1460607,
-      "HOLD_NUM_RATIO": 1.12,
-      "HOLD_NUM_CHANGE": "-33400",
-      "CHANGE_RATIO": -2.23559863
-    },
-    {
-      "SECUCODE": "300823.SZ",
-      "SECURITY_CODE": "300823",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "诚科建赢(天津)企业管理咨询有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 1344180,
-      "HOLD_NUM_RATIO": 1.03,
-      "HOLD_NUM_CHANGE": "-30000",
-      "CHANGE_RATIO": -2.18312012
-    },
-    {
-      "SECUCODE": "300823.SZ",
-      "SECURITY_CODE": "300823",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "诚科建达(天津)企业管理咨询有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 742237,
-      "HOLD_NUM_RATIO": 0.57,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300823.SZ",
-      "SECURITY_CODE": "300823",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "中国建设银行股份有限公司-诺安多策略混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 640600,
-      "HOLD_NUM_RATIO": 0.49,
-      "HOLD_NUM_CHANGE": "-220600",
-      "CHANGE_RATIO": -25.61542034
-    },
-    {
-      "SECUCODE": "300823.SZ",
-      "SECURITY_CODE": "300823",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "UBS AG",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 633319,
-      "HOLD_NUM_RATIO": 0.48,
-      "HOLD_NUM_CHANGE": "-250054",
-      "CHANGE_RATIO": -28.30672887
-    },
-    {
-      "SECUCODE": "300823.SZ",
-      "SECURITY_CODE": "300823",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中国建设银行股份有限公司-华夏新锦绣灵活配置混合型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 580080,
-      "HOLD_NUM_RATIO": 0.44,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300823.SZ",
-      "SECURITY_CODE": "300823",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "MERRILL LYNCH INTERNATIONAL",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 547237,
-      "HOLD_NUM_RATIO": 0.42,
-      "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     }
   ],
