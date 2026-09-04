@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "900911.SH",
+      "END_DATE": "2026-09-01 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "900911.SH",
       "END_DATE": "2026-06-30 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "900911.SH",
       "END_DATE": "2014-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "900911.SH",
-      "END_DATE": "2014-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -420,7 +420,7 @@
       "SECUCODE": "900911.SH",
       "SECURITY_CODE": "900911",
       "HOLDER_NAME": "上海市浦东新区国有资产监督管理委员会",
-      "HOLD_RATIO": null
+      "HOLD_RATIO": 4.99
     }
   ],
   "jgcc_date": [
@@ -445,7 +445,19 @@
       "REPORT_DATE": "2025-06-30 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-09-01 00:00:00",
+      "HOLDER_RANK": 1,
+      "HOLDER_NAME": "上海金桥(集团)有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 498073054,
+      "HOLD_NUM_RATIO": 44.38,
+      "HOLD_CHANGE": "-56008403",
+      "CHANGE_RATIO": -10.10833376,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [],
   "xsjj": [],
   "sdltgd": [
@@ -597,122 +609,14 @@
     {
       "SECUCODE": "900911.SH",
       "SECURITY_CODE": "900911",
-      "END_DATE": "2026-06-30 00:00:00",
+      "END_DATE": "2026-09-01 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海金桥(集团)有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 554081457,
-      "HOLD_NUM_RATIO": 49.37,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "900911.SH",
-      "SECURITY_CODE": "900911",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "上海国际集团资产管理有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 19886570,
-      "HOLD_NUM_RATIO": 1.77,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "900911.SH",
-      "SECURITY_CODE": "900911",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "叶劲",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7955552,
-      "HOLD_NUM_RATIO": 0.71,
-      "HOLD_NUM_CHANGE": "2905552",
-      "CHANGE_RATIO": 57.53568317
-    },
-    {
-      "SECUCODE": "900911.SH",
-      "SECURITY_CODE": "900911",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
-      "SHARES_TYPE": "流通B股",
-      "HOLD_NUM": 5098443,
-      "HOLD_NUM_RATIO": 0.45,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "900911.SH",
-      "SECURITY_CODE": "900911",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "VANGUARD EMERGING MARKETS STOCK INDEX FUND",
-      "SHARES_TYPE": "流通B股",
-      "HOLD_NUM": 4085058,
-      "HOLD_NUM_RATIO": 0.36,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "900911.SH",
-      "SECURITY_CODE": "900911",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "蔡稚奇",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4070000,
-      "HOLD_NUM_RATIO": 0.36,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "900911.SH",
-      "SECURITY_CODE": "900911",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4011599,
-      "HOLD_NUM_RATIO": 0.36,
-      "HOLD_NUM_CHANGE": "-7200149",
-      "CHANGE_RATIO": -64.21968278
-    },
-    {
-      "SECUCODE": "900911.SH",
-      "SECURITY_CODE": "900911",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "刘梅",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3789240,
-      "HOLD_NUM_RATIO": 0.34,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "900911.SH",
-      "SECURITY_CODE": "900911",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "崔蕾",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3747241,
-      "HOLD_NUM_RATIO": 0.33,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "900911.SH",
-      "SECURITY_CODE": "900911",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "NOMURA SINGAPORE LIMITED",
-      "SHARES_TYPE": "流通B股",
-      "HOLD_NUM": 3499983,
-      "HOLD_NUM_RATIO": 0.31,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 498073054,
+      "HOLD_NUM_RATIO": 44.38,
+      "HOLD_NUM_CHANGE": "-56008403",
+      "CHANGE_RATIO": -10.10833376
     }
   ],
   "jgcc": [

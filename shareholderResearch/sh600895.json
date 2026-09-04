@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "600895.SH",
+      "END_DATE": "2026-09-01 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "600895.SH",
       "END_DATE": "2026-06-30 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "600895.SH",
       "END_DATE": "2015-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "600895.SH",
-      "END_DATE": "2014-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -420,7 +420,7 @@
       "SECUCODE": "600895.SH",
       "SECURITY_CODE": "600895",
       "HOLDER_NAME": "上海市浦东新区国有资产监督管理委员会",
-      "HOLD_RATIO": null
+      "HOLD_RATIO": 4.99
     }
   ],
   "jgcc_date": [
@@ -445,7 +445,19 @@
       "REPORT_DATE": "2025-06-30 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-09-01 00:00:00",
+      "HOLDER_RANK": 1,
+      "HOLDER_NAME": "上海张江(集团)有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 677783299,
+      "HOLD_NUM_RATIO": 43.76,
+      "HOLD_CHANGE": "-77279608",
+      "CHANGE_RATIO": -10.2348569,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "600895.SH",
@@ -618,122 +630,14 @@
     {
       "SECUCODE": "600895.SH",
       "SECURITY_CODE": "600895",
-      "END_DATE": "2026-06-30 00:00:00",
+      "END_DATE": "2026-09-01 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "上海张江(集团)有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 755062907,
-      "HOLD_NUM_RATIO": 48.75,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600895.SH",
-      "SECURITY_CODE": "600895",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 22955309,
-      "HOLD_NUM_RATIO": 1.48,
-      "HOLD_NUM_CHANGE": "-615753",
-      "CHANGE_RATIO": -2.61232608
-    },
-    {
-      "SECUCODE": "600895.SH",
-      "SECURITY_CODE": "600895",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "中国工商银行股份有限公司-南方中证全指房地产交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7312235,
-      "HOLD_NUM_RATIO": 0.47,
-      "HOLD_NUM_CHANGE": "-2056186",
-      "CHANGE_RATIO": -21.94805293
-    },
-    {
-      "SECUCODE": "600895.SH",
-      "SECURITY_CODE": "600895",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "陈宇鹏",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6970487,
-      "HOLD_NUM_RATIO": 0.45,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600895.SH",
-      "SECURITY_CODE": "600895",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国工商银行股份有限公司-中证上海国企交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4879040,
-      "HOLD_NUM_RATIO": 0.32,
-      "HOLD_NUM_CHANGE": "934700",
-      "CHANGE_RATIO": 23.69724719
-    },
-    {
-      "SECUCODE": "600895.SH",
-      "SECURITY_CODE": "600895",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "陈少云",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3467591,
-      "HOLD_NUM_RATIO": 0.22,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600895.SH",
-      "SECURITY_CODE": "600895",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "王晓春",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2891386,
-      "HOLD_NUM_RATIO": 0.19,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600895.SH",
-      "SECURITY_CODE": "600895",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "刘振伟",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2821700,
-      "HOLD_NUM_RATIO": 0.18,
-      "HOLD_NUM_CHANGE": "-1300",
-      "CHANGE_RATIO": -0.0460503
-    },
-    {
-      "SECUCODE": "600895.SH",
-      "SECURITY_CODE": "600895",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "冯文渊",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2449104,
-      "HOLD_NUM_RATIO": 0.16,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600895.SH",
-      "SECURITY_CODE": "600895",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "中国建设银行股份有限公司-上证180交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2344700,
-      "HOLD_NUM_RATIO": 0.15,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 677783299,
+      "HOLD_NUM_RATIO": 43.76,
+      "HOLD_NUM_CHANGE": "-77279608",
+      "CHANGE_RATIO": -10.2348569
     }
   ],
   "jgcc": [
