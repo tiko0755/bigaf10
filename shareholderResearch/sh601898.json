@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "601898.SH",
+      "END_DATE": "2026-09-09 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "601898.SH",
       "END_DATE": "2026-06-30 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "601898.SH",
       "END_DATE": "2015-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "601898.SH",
-      "END_DATE": "2015-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -445,7 +445,19 @@
       "REPORT_DATE": "2025-06-30 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-09-09 00:00:00",
+      "HOLDER_RANK": 1,
+      "HOLDER_NAME": "中国中煤能源集团有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 7615853508,
+      "HOLD_NUM_RATIO": 57.44,
+      "HOLD_CHANGE": "331300",
+      "CHANGE_RATIO": 0.00435033,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "601898.SH",
@@ -618,120 +630,24 @@
     {
       "SECUCODE": "601898.SH",
       "SECURITY_CODE": "601898",
-      "END_DATE": "2026-06-30 00:00:00",
+      "END_DATE": "2026-09-09 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "中国中煤能源集团有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 7615522208,
+      "HOLD_NUM": 7615853508,
       "HOLD_NUM_RATIO": 57.44,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
+      "HOLD_NUM_CHANGE": "331300",
+      "CHANGE_RATIO": 0.00435033
     },
     {
       "SECUCODE": "601898.SH",
       "SECURITY_CODE": "601898",
-      "END_DATE": "2026-06-30 00:00:00",
+      "END_DATE": "2026-09-09 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "HKSCC NOMINEES LIMITED",
       "SHARES_TYPE": "流通H股",
       "HOLD_NUM": 3962682843,
       "HOLD_NUM_RATIO": 29.89,
-      "HOLD_NUM_CHANGE": "371000",
-      "CHANGE_RATIO": 0.00936322
-    },
-    {
-      "SECUCODE": "601898.SH",
-      "SECURITY_CODE": "601898",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "中国证券金融股份有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 204293132,
-      "HOLD_NUM_RATIO": 1.54,
-      "HOLD_NUM_CHANGE": "-81646981",
-      "CHANGE_RATIO": -28.5538745
-    },
-    {
-      "SECUCODE": "601898.SH",
-      "SECURITY_CODE": "601898",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "中煤能源香港有限公司",
-      "SHARES_TYPE": "流通H股",
-      "HOLD_NUM": 132351000,
-      "HOLD_NUM_RATIO": 1,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "601898.SH",
-      "SECURITY_CODE": "601898",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 75805624,
-      "HOLD_NUM_RATIO": 0.57,
-      "HOLD_NUM_CHANGE": "43278132",
-      "CHANGE_RATIO": 133.05093427
-    },
-    {
-      "SECUCODE": "601898.SH",
-      "SECURITY_CODE": "601898",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "中国工商银行股份有限公司-国泰中证煤炭交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 62398565,
-      "HOLD_NUM_RATIO": 0.47,
-      "HOLD_NUM_CHANGE": "8714611",
-      "CHANGE_RATIO": 16.23317649
-    },
-    {
-      "SECUCODE": "601898.SH",
-      "SECURITY_CODE": "601898",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "北京银行股份有限公司-景顺长城景颐双利债券型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 36527205,
-      "HOLD_NUM_RATIO": 0.28,
-      "HOLD_NUM_CHANGE": "3605100",
-      "CHANGE_RATIO": 10.95039336
-    },
-    {
-      "SECUCODE": "601898.SH",
-      "SECURITY_CODE": "601898",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国工商银行股份有限公司-景顺长城景盛双息收益债券型证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 35114804,
-      "HOLD_NUM_RATIO": 0.26,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "601898.SH",
-      "SECURITY_CODE": "601898",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "国新宏盛投资(北京)有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 34395817,
-      "HOLD_NUM_RATIO": 0.26,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "601898.SH",
-      "SECURITY_CODE": "601898",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "太保致远(上海)私募基金管理有限公司-太保致远1号私募证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 20720200,
-      "HOLD_NUM_RATIO": 0.16,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
     }
