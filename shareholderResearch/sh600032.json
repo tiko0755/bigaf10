@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "600032.SH",
+      "END_DATE": "2026-09-11 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "600032.SH",
       "END_DATE": "2026-06-30 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -340,7 +345,19 @@
       "REPORT_DATE": "2025-06-30 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-09-11 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "浙江新能能源发展有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 389016500,
+      "HOLD_NUM_RATIO": 16.18,
+      "HOLD_CHANGE": "-378900",
+      "CHANGE_RATIO": -0.09730469,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "600032.SH",
@@ -513,7 +530,7 @@
     {
       "SECUCODE": "600032.SH",
       "SECURITY_CODE": "600032",
-      "END_DATE": "2026-06-30 00:00:00",
+      "END_DATE": "2026-09-11 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "浙江省能源集团有限公司",
       "SHARES_TYPE": "流通A股",
@@ -525,110 +542,14 @@
     {
       "SECUCODE": "600032.SH",
       "SECURITY_CODE": "600032",
-      "END_DATE": "2026-06-30 00:00:00",
+      "END_DATE": "2026-09-11 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "浙江新能能源发展有限公司",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 389395400,
-      "HOLD_NUM_RATIO": 16.19,
-      "HOLD_NUM_CHANGE": "-18557900",
-      "CHANGE_RATIO": -4.54902559
-    },
-    {
-      "SECUCODE": "600032.SH",
-      "SECURITY_CODE": "600032",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "中国长江电力股份有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 102813852,
-      "HOLD_NUM_RATIO": 4.28,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600032.SH",
-      "SECURITY_CODE": "600032",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "香港中央结算有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 19587979,
-      "HOLD_NUM_RATIO": 0.81,
-      "HOLD_NUM_CHANGE": "1905741",
-      "CHANGE_RATIO": 10.77771377
-    },
-    {
-      "SECUCODE": "600032.SH",
-      "SECURITY_CODE": "600032",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "中国建设银行股份有限公司-广发中证全指电力公用事业交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 6881030,
-      "HOLD_NUM_RATIO": 0.29,
-      "HOLD_NUM_CHANGE": "1754530",
-      "CHANGE_RATIO": 34.22471472
-    },
-    {
-      "SECUCODE": "600032.SH",
-      "SECURITY_CODE": "600032",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "财通基金-浙江金控投资有限公司-财通基金金控定增1号单一资产管理计划",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4761905,
-      "HOLD_NUM_RATIO": 0.2,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600032.SH",
-      "SECURITY_CODE": "600032",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "国新国同(杭州)股权投资有限公司-杭州微同股权投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4607100,
-      "HOLD_NUM_RATIO": 0.19,
-      "HOLD_NUM_CHANGE": "-3594300",
-      "CHANGE_RATIO": -43.82544444
-    },
-    {
-      "SECUCODE": "600032.SH",
-      "SECURITY_CODE": "600032",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "中国银行股份有限公司-华泰柏瑞中证光伏产业交易型开放式指数证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4034212,
-      "HOLD_NUM_RATIO": 0.17,
-      "HOLD_NUM_CHANGE": "-1999134",
-      "CHANGE_RATIO": -33.13474811
-    },
-    {
-      "SECUCODE": "600032.SH",
-      "SECURITY_CODE": "600032",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "中信建投证券股份有限公司-天弘中证光伏产业指数型发起式证券投资基金",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3813600,
-      "HOLD_NUM_RATIO": 0.16,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "600032.SH",
-      "SECURITY_CODE": "600032",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "浙江广杰投资管理有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3657358,
-      "HOLD_NUM_RATIO": 0.15,
-      "HOLD_NUM_CHANGE": "-2844100",
-      "CHANGE_RATIO": -43.74557215
+      "HOLD_NUM": 389016500,
+      "HOLD_NUM_RATIO": 16.18,
+      "HOLD_NUM_CHANGE": "-378900",
+      "CHANGE_RATIO": -0.09730469
     }
   ],
   "jgcc": [
