@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "300044.SZ",
+      "END_DATE": "2026-09-10 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "300044.SZ",
       "END_DATE": "2026-06-30 00:00:00",
       "IS_REPORTDATE": "1"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "300044.SZ",
       "END_DATE": "2019-11-14 00:00:00",
       "IS_REPORTDATE": "0"
-    },
-    {
-      "SECUCODE": "300044.SZ",
-      "END_DATE": "2019-11-13 00:00:00",
-      "IS_REPORTDATE": "0"
     }
   ],
   "sjkzr": [
@@ -420,7 +420,7 @@
       "SECUCODE": "300044.SZ",
       "SECURITY_CODE": "300044",
       "HOLDER_NAME": "周勇",
-      "HOLD_RATIO": 8.44
+      "HOLD_RATIO": 8.29
     }
   ],
   "jgcc_date": [
@@ -445,7 +445,19 @@
       "REPORT_DATE": "2024-12-31 00:00:00"
     }
   ],
-  "sdgdcgbd": [],
+  "sdgdcgbd": [
+    {
+      "END_DATE": "2026-09-10 00:00:00",
+      "HOLDER_RANK": 1,
+      "HOLDER_NAME": "周勇",
+      "SHARES_TYPE": "流通A股,限售流通A股",
+      "HOLD_NUM": 63336100,
+      "HOLD_NUM_RATIO": 8.29,
+      "HOLD_CHANGE": "-1100023",
+      "CHANGE_RATIO": -1.70715268,
+      "CHANGE_REASON": "临时公告"
+    }
+  ],
   "jjcg_date": [
     {
       "SECUCODE": "300044.SZ",
@@ -618,122 +630,14 @@
     {
       "SECUCODE": "300044.SZ",
       "SECURITY_CODE": "300044",
-      "END_DATE": "2026-06-30 00:00:00",
+      "END_DATE": "2026-09-10 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "周勇",
       "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 64436123,
-      "HOLD_NUM_RATIO": 8.44,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300044.SZ",
-      "SECURITY_CODE": "300044",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "周新宏",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 15827200,
-      "HOLD_NUM_RATIO": 2.07,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300044.SZ",
-      "SECURITY_CODE": "300044",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "刘军",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4736500,
-      "HOLD_NUM_RATIO": 0.62,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300044.SZ",
-      "SECURITY_CODE": "300044",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "黄文忠",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 4160000,
-      "HOLD_NUM_RATIO": 0.54,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300044.SZ",
-      "SECURITY_CODE": "300044",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "彭吉",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3804400,
-      "HOLD_NUM_RATIO": 0.5,
-      "HOLD_NUM_CHANGE": "1187000",
-      "CHANGE_RATIO": 45.35034767
-    },
-    {
-      "SECUCODE": "300044.SZ",
-      "SECURITY_CODE": "300044",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "彭汉光",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3385500,
-      "HOLD_NUM_RATIO": 0.44,
-      "HOLD_NUM_CHANGE": "385500",
-      "CHANGE_RATIO": 12.85
-    },
-    {
-      "SECUCODE": "300044.SZ",
-      "SECURITY_CODE": "300044",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "杨若和",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3358060,
-      "HOLD_NUM_RATIO": 0.44,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300044.SZ",
-      "SECURITY_CODE": "300044",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "林代伦",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 3062360,
-      "HOLD_NUM_RATIO": 0.4,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "300044.SZ",
-      "SECURITY_CODE": "300044",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "张家旗",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2635300,
-      "HOLD_NUM_RATIO": 0.34,
-      "HOLD_NUM_CHANGE": "180000",
-      "CHANGE_RATIO": 7.33107971
-    },
-    {
-      "SECUCODE": "300044.SZ",
-      "SECURITY_CODE": "300044",
-      "END_DATE": "2026-06-30 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "四川至臻精密光学有限公司",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2622720,
-      "HOLD_NUM_RATIO": 0.34,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 63336100,
+      "HOLD_NUM_RATIO": 8.29,
+      "HOLD_NUM_CHANGE": "-1100023",
+      "CHANGE_RATIO": -1.70715268
     }
   ],
   "jgcc": [
