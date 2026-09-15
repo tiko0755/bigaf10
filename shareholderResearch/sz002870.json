@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "002870.SZ",
+      "END_DATE": "2026-08-31 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "002870.SZ",
       "END_DATE": "2026-08-14 00:00:00",
       "IS_REPORTDATE": "0"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "002870.SZ",
       "END_DATE": "2022-03-31 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002870.SZ",
-      "END_DATE": "2021-12-31 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -446,6 +446,61 @@
     }
   ],
   "sdgdcgbd": [
+    {
+      "END_DATE": "2026-08-31 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "广东香山衡器集团股份有限公司回购专用证券账户",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3000000,
+      "HOLD_NUM_RATIO": 1.96,
+      "HOLD_CHANGE": "437700",
+      "CHANGE_RATIO": 17.08230886,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-08-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "王咸车",
+      "SHARES_TYPE": "限售流通A股",
+      "HOLD_NUM": 2335542,
+      "HOLD_NUM_RATIO": 1.53,
+      "HOLD_CHANGE": "-40000",
+      "CHANGE_RATIO": -1.68382626,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-08-31 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "陈博",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 2100000,
+      "HOLD_NUM_RATIO": 1.37,
+      "HOLD_CHANGE": "-309725",
+      "CHANGE_RATIO": -12.85312639,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-08-31 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1157275,
+      "HOLD_NUM_RATIO": 0.76,
+      "HOLD_CHANGE": "460075",
+      "CHANGE_RATIO": 65.98895582,
+      "CHANGE_REASON": "临时公告"
+    },
+    {
+      "END_DATE": "2026-08-31 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "钟明禺",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 959000,
+      "HOLD_NUM_RATIO": 0.63,
+      "HOLD_CHANGE": "45000",
+      "CHANGE_RATIO": 4.92341357,
+      "CHANGE_REASON": "临时公告"
+    },
     {
       "END_DATE": "2026-08-14 00:00:00",
       "HOLDER_RANK": 2,
@@ -717,7 +772,7 @@
     {
       "SECUCODE": "002870.SZ",
       "SECURITY_CODE": "002870",
-      "END_DATE": "2026-08-14 00:00:00",
+      "END_DATE": "2026-08-31 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "宁波均胜电子股份有限公司",
       "SHARES_TYPE": "流通A股,限售流通A股",
@@ -729,20 +784,32 @@
     {
       "SECUCODE": "002870.SZ",
       "SECURITY_CODE": "002870",
-      "END_DATE": "2026-08-14 00:00:00",
+      "END_DATE": "2026-08-31 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "赵玉昆",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 15745000,
       "HOLD_NUM_RATIO": 10.31,
-      "HOLD_NUM_CHANGE": "-335800",
-      "CHANGE_RATIO": -2.08820457
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "002870.SZ",
       "SECURITY_CODE": "002870",
-      "END_DATE": "2026-08-14 00:00:00",
+      "END_DATE": "2026-08-31 00:00:00",
       "HOLDER_RANK": 3,
+      "HOLDER_NAME": "广东香山衡器集团股份有限公司回购专用证券账户",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 3000000,
+      "HOLD_NUM_RATIO": 1.96,
+      "HOLD_NUM_CHANGE": "437700",
+      "CHANGE_RATIO": 17.08230886
+    },
+    {
+      "SECUCODE": "002870.SZ",
+      "SECURITY_CODE": "002870",
+      "END_DATE": "2026-08-31 00:00:00",
+      "HOLDER_RANK": 4,
       "HOLDER_NAME": "鲁艳",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 2600000,
@@ -753,43 +820,31 @@
     {
       "SECUCODE": "002870.SZ",
       "SECURITY_CODE": "002870",
-      "END_DATE": "2026-08-14 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "广东香山衡器集团股份有限公司回购专用证券账户",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2562300,
-      "HOLD_NUM_RATIO": 1.68,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "END_DATE": "2026-08-31 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "王咸车",
+      "SHARES_TYPE": "限售流通A股",
+      "HOLD_NUM": 2335542,
+      "HOLD_NUM_RATIO": 1.53,
+      "HOLD_NUM_CHANGE": "-40000",
+      "CHANGE_RATIO": -1.68382626
     },
     {
       "SECUCODE": "002870.SZ",
       "SECURITY_CODE": "002870",
-      "END_DATE": "2026-08-14 00:00:00",
-      "HOLDER_RANK": 5,
+      "END_DATE": "2026-08-31 00:00:00",
+      "HOLDER_RANK": 6,
       "HOLDER_NAME": "陈博",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 2409725,
-      "HOLD_NUM_RATIO": 1.58,
-      "HOLD_NUM_CHANGE": "-504200",
-      "CHANGE_RATIO": -17.30312208
+      "HOLD_NUM": 2100000,
+      "HOLD_NUM_RATIO": 1.37,
+      "HOLD_NUM_CHANGE": "-309725",
+      "CHANGE_RATIO": -12.85312639
     },
     {
       "SECUCODE": "002870.SZ",
       "SECURITY_CODE": "002870",
-      "END_DATE": "2026-08-14 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "王咸车",
-      "SHARES_TYPE": "流通A股,限售流通A股",
-      "HOLD_NUM": 2375542,
-      "HOLD_NUM_RATIO": 1.56,
-      "HOLD_NUM_CHANGE": "-138514",
-      "CHANGE_RATIO": -5.50958292
-    },
-    {
-      "SECUCODE": "002870.SZ",
-      "SECURITY_CODE": "002870",
-      "END_DATE": "2026-08-14 00:00:00",
+      "END_DATE": "2026-08-31 00:00:00",
       "HOLDER_RANK": 7,
       "HOLDER_NAME": "王大樑",
       "SHARES_TYPE": "流通A股",
@@ -801,8 +856,20 @@
     {
       "SECUCODE": "002870.SZ",
       "SECURITY_CODE": "002870",
-      "END_DATE": "2026-08-14 00:00:00",
+      "END_DATE": "2026-08-31 00:00:00",
       "HOLDER_RANK": 8,
+      "HOLDER_NAME": "香港中央结算有限公司",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 1157275,
+      "HOLD_NUM_RATIO": 0.76,
+      "HOLD_NUM_CHANGE": "460075",
+      "CHANGE_RATIO": 65.98895582
+    },
+    {
+      "SECUCODE": "002870.SZ",
+      "SECURITY_CODE": "002870",
+      "END_DATE": "2026-08-31 00:00:00",
+      "HOLDER_RANK": 9,
       "HOLDER_NAME": "赵建平",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 1100000,
@@ -813,26 +880,14 @@
     {
       "SECUCODE": "002870.SZ",
       "SECURITY_CODE": "002870",
-      "END_DATE": "2026-08-14 00:00:00",
-      "HOLDER_RANK": 9,
+      "END_DATE": "2026-08-31 00:00:00",
+      "HOLDER_RANK": 10,
       "HOLDER_NAME": "钟明禺",
       "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 914000,
-      "HOLD_NUM_RATIO": 0.6,
-      "HOLD_NUM_CHANGE": "131000",
-      "CHANGE_RATIO": 16.73052363
-    },
-    {
-      "SECUCODE": "002870.SZ",
-      "SECURITY_CODE": "002870",
-      "END_DATE": "2026-08-14 00:00:00",
-      "HOLDER_RANK": 10,
-      "HOLDER_NAME": "刘世智",
-      "SHARES_TYPE": "流通A股",
-      "HOLD_NUM": 810000,
-      "HOLD_NUM_RATIO": 0.53,
-      "HOLD_NUM_CHANGE": "新进",
-      "CHANGE_RATIO": null
+      "HOLD_NUM": 959000,
+      "HOLD_NUM_RATIO": 0.63,
+      "HOLD_NUM_CHANGE": "45000",
+      "CHANGE_RATIO": 4.92341357
     }
   ],
   "jgcc": [
