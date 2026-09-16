@@ -3,7 +3,49 @@
     {
       "SECUCODE": "920159.BJ",
       "SECURITY_CODE": "920159",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_TOTAL_NUM": 4350,
+      "TOTAL_NUM_RATIO": -24.7405,
+      "AVG_FREE_SHARES": 3310,
+      "AVG_FREESHARES_RATIO": 32.873563218391,
+      "HOLD_FOCUS": "非常集中",
+      "PRICE": 27.6,
+      "AVG_HOLD_AMT": 91365.5172413793,
+      "HOLD_RATIO_TOTAL": 79.73684211,
+      "FREEHOLD_RATIO_TOTAL": 12.75245139
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
+      "END_DATE": "2026-03-31 00:00:00",
+      "HOLDER_TOTAL_NUM": 5780,
+      "TOTAL_NUM_RATIO": 64122.2222,
+      "AVG_FREE_SHARES": 2491,
+      "AVG_FREESHARES_RATIO": null,
+      "HOLD_FOCUS": "非常集中",
+      "PRICE": 40.9670020384,
+      "AVG_HOLD_AMT": 102063.119265218,
+      "HOLD_RATIO_TOTAL": 79.73684211,
+      "FREEHOLD_RATIO_TOTAL": 11.27518056
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
       "END_DATE": "2026-01-16 00:00:00",
+      "HOLDER_TOTAL_NUM": 9,
+      "TOTAL_NUM_RATIO": 0,
+      "AVG_FREE_SHARES": null,
+      "AVG_FREESHARES_RATIO": null,
+      "HOLD_FOCUS": "非常集中",
+      "PRICE": null,
+      "AVG_HOLD_AMT": null,
+      "HOLD_RATIO_TOTAL": 100,
+      "FREEHOLD_RATIO_TOTAL": null
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
+      "END_DATE": "2025-12-31 00:00:00",
       "HOLDER_TOTAL_NUM": 9,
       "TOTAL_NUM_RATIO": 0,
       "AVG_FREE_SHARES": null,
@@ -97,24 +139,34 @@
       "AVG_HOLD_AMT": null,
       "HOLD_RATIO_TOTAL": null,
       "FREEHOLD_RATIO_TOTAL": null
+    }
+  ],
+  "sdltgd_date": [
+    {
+      "SECUCODE": "920159.BJ",
+      "END_DATE": "2026-06-30 00:00:00"
     },
     {
       "SECUCODE": "920159.BJ",
-      "SECURITY_CODE": "920159",
-      "END_DATE": "2024-09-10 00:00:00",
-      "HOLDER_TOTAL_NUM": 9,
-      "TOTAL_NUM_RATIO": null,
-      "AVG_FREE_SHARES": 2754462,
-      "AVG_FREESHARES_RATIO": null,
-      "HOLD_FOCUS": "非常集中",
-      "PRICE": null,
-      "AVG_HOLD_AMT": null,
-      "HOLD_RATIO_TOTAL": 100,
-      "FREEHOLD_RATIO_TOTAL": null
+      "END_DATE": "2026-03-31 00:00:00"
     }
   ],
-  "sdltgd_date": [],
   "sdgd_date": [
+    {
+      "SECUCODE": "920159.BJ",
+      "END_DATE": "2026-07-28 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "END_DATE": "2026-06-30 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "END_DATE": "2026-03-31 00:00:00",
+      "IS_REPORTDATE": "1"
+    },
     {
       "SECUCODE": "920159.BJ",
       "END_DATE": "2026-01-28 00:00:00",
@@ -124,6 +176,11 @@
       "SECUCODE": "920159.BJ",
       "END_DATE": "2026-01-16 00:00:00",
       "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "END_DATE": "2025-12-31 00:00:00",
+      "IS_REPORTDATE": "1"
     },
     {
       "SECUCODE": "920159.BJ",
@@ -166,22 +223,27 @@
       "SECUCODE": "920159.BJ",
       "SECURITY_CODE": "920159",
       "HOLDER_NAME": "马学文,马克",
-      "HOLD_RATIO": 12.63
+      "HOLD_RATIO": 12.6315
     }
   ],
-  "jgcc_date": [],
-  "sdgdcgbd": [],
-  "jjcg_date": [],
-  "xsjj": [
+  "jgcc_date": [
     {
       "SECUCODE": "920159.BJ",
-      "SECURITY_CODE": "920159",
-      "LIFT_DATE": "2026-07-28 00:00:00",
-      "LIFT_NUM": 920000,
-      "LIFT_TYPE": "公开发行战略配售股份",
-      "TOTAL_SHARES_RATIO": 1.21,
-      "UNLIMITED_A_SHARES_RATIO": 6.39
+      "REPORT_DATE": "2026-06-30 00:00:00"
     },
+    {
+      "SECUCODE": "920159.BJ",
+      "REPORT_DATE": "2026-03-31 00:00:00"
+    }
+  ],
+  "sdgdcgbd": [],
+  "jjcg_date": [
+    {
+      "SECUCODE": "920159.BJ",
+      "REPORT_DATE": "2026-06-30 00:00:00"
+    }
+  ],
+  "xsjj": [
     {
       "SECUCODE": "920159.BJ",
       "SECURITY_CODE": "920159",
@@ -189,129 +251,427 @@
       "LIFT_NUM": 60680000,
       "LIFT_TYPE": "公开发行原股东限售股份,公开发行战略配售股份",
       "TOTAL_SHARES_RATIO": 79.84,
-      "UNLIMITED_A_SHARES_RATIO": 421.39
+      "UNLIMITED_A_SHARES_RATIO": 396.08
     }
   ],
-  "sdgd": [
+  "sdltgd": [
     {
       "SECUCODE": "920159.BJ",
       "SECURITY_CODE": "920159",
-      "END_DATE": "2026-01-28 00:00:00",
+      "END_DATE": "2026-06-30 00:00:00",
       "HOLDER_RANK": 1,
-      "HOLDER_NAME": "泰安铭泉投资集团有限公司",
-      "SHARES_TYPE": "限售流通A股",
-      "HOLD_NUM": 32575560,
-      "HOLD_NUM_RATIO": 42.86,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "920159.BJ",
-      "SECURITY_CODE": "920159",
-      "END_DATE": "2026-01-28 00:00:00",
-      "HOLDER_RANK": 2,
-      "HOLDER_NAME": "马学文",
-      "SHARES_TYPE": "限售流通A股",
-      "HOLD_NUM": 6000000,
-      "HOLD_NUM_RATIO": 7.89,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "920159.BJ",
-      "SECURITY_CODE": "920159",
-      "END_DATE": "2026-01-28 00:00:00",
-      "HOLDER_RANK": 3,
-      "HOLDER_NAME": "丁方军",
-      "SHARES_TYPE": "限售流通A股",
-      "HOLD_NUM": 5293860,
-      "HOLD_NUM_RATIO": 6.97,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "920159.BJ",
-      "SECURITY_CODE": "920159",
-      "END_DATE": "2026-01-28 00:00:00",
-      "HOLDER_RANK": 4,
-      "HOLDER_NAME": "青岛鑫宸科创实业有限公司",
-      "SHARES_TYPE": "限售流通A股",
-      "HOLD_NUM": 4200000,
-      "HOLD_NUM_RATIO": 5.53,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "920159.BJ",
-      "SECURITY_CODE": "920159",
-      "END_DATE": "2026-01-28 00:00:00",
-      "HOLDER_RANK": 5,
-      "HOLDER_NAME": "马克",
-      "SHARES_TYPE": "限售流通A股",
-      "HOLD_NUM": 3600000,
-      "HOLD_NUM_RATIO": 4.74,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "920159.BJ",
-      "SECURITY_CODE": "920159",
-      "END_DATE": "2026-01-28 00:00:00",
-      "HOLDER_RANK": 6,
-      "HOLDER_NAME": "泰安农君股权投资合伙企业(有限合伙)",
-      "SHARES_TYPE": "限售流通A股",
-      "HOLD_NUM": 3483600,
-      "HOLD_NUM_RATIO": 4.58,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "920159.BJ",
-      "SECURITY_CODE": "920159",
-      "END_DATE": "2026-01-28 00:00:00",
-      "HOLDER_RANK": 7,
-      "HOLDER_NAME": "泰山酒业集团股份有限公司",
-      "SHARES_TYPE": "限售流通A股",
-      "HOLD_NUM": 2400000,
-      "HOLD_NUM_RATIO": 3.16,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "920159.BJ",
-      "SECURITY_CODE": "920159",
-      "END_DATE": "2026-01-28 00:00:00",
-      "HOLDER_RANK": 8,
-      "HOLDER_NAME": "马玉增",
-      "SHARES_TYPE": "限售流通A股",
-      "HOLD_NUM": 1846980,
-      "HOLD_NUM_RATIO": 2.43,
-      "HOLD_NUM_CHANGE": "不变",
-      "CHANGE_RATIO": null
-    },
-    {
-      "SECUCODE": "920159.BJ",
-      "SECURITY_CODE": "920159",
-      "END_DATE": "2026-01-28 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "国金资管农大科技员工参与北交所战略配售集合资产管理计划",
-      "SHARES_TYPE": "限售流通A股",
-      "HOLD_NUM": 600000,
-      "HOLD_NUM_RATIO": 0.79,
+      "HOLDER_NAME": "国信证券股份有限公司客户信用交易担保证券账户",
+      "HOLDER_TYPE": "证券账户",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 492775,
+      "FREE_HOLDNUM_RATIO": 3.422048611111,
       "HOLD_NUM_CHANGE": "新进",
       "CHANGE_RATIO": null
     },
     {
       "SECUCODE": "920159.BJ",
       "SECURITY_CODE": "920159",
-      "END_DATE": "2026-01-28 00:00:00",
-      "HOLDER_RANK": 9,
-      "HOLDER_NAME": "青岛红创和盛私募股权投资基金合伙企业(有限合伙)",
-      "SHARES_TYPE": "限售流通A股",
-      "HOLD_NUM": 600000,
-      "HOLD_NUM_RATIO": 0.79,
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "宋国君",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 329045,
+      "FREE_HOLDNUM_RATIO": 2.285034722222,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "俄登攀",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 175000,
+      "FREE_HOLDNUM_RATIO": 1.215277777778,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "蔡建峰",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 165000,
+      "FREE_HOLDNUM_RATIO": 1.145833333333,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "金融街证券股份有限公司客户信用交易担保证券账户",
+      "HOLDER_TYPE": "证券账户",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 141252,
+      "FREE_HOLDNUM_RATIO": 0.980916666667,
+      "HOLD_NUM_CHANGE": "25406",
+      "CHANGE_RATIO": 21.93083922
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "蔡黄杰",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 120000,
+      "FREE_HOLDNUM_RATIO": 0.833333333333,
       "HOLD_NUM_CHANGE": "不变",
       "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "中国银河证券股份有限公司客户信用交易担保证券账户",
+      "HOLDER_TYPE": "证券账户",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 112965,
+      "FREE_HOLDNUM_RATIO": 0.784479166667,
+      "HOLD_NUM_CHANGE": "-43433",
+      "CHANGE_RATIO": -27.77081548
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "黄豪",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 110000,
+      "FREE_HOLDNUM_RATIO": 0.763888888889,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "蔡建超",
+      "HOLDER_TYPE": "个人",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 106301,
+      "FREE_HOLDNUM_RATIO": 0.738201388889,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLDER_RANK": 10,
+      "HOLDER_NAME": "广发证券股份有限公司客户信用交易担保证券账户",
+      "HOLDER_TYPE": "证券账户",
+      "SHARES_TYPE": "A股",
+      "HOLD_NUM": 84015,
+      "FREE_HOLDNUM_RATIO": 0.5834375,
+      "HOLD_NUM_CHANGE": "-114001",
+      "CHANGE_RATIO": -57.57161037
+    }
+  ],
+  "ltgf": [
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
+      "END_DATE": "2026-06-30 00:00:00",
+      "HOLD_NUM_COUNT": 1836353,
+      "LIMITED_SHARES": 61600000,
+      "OTHER_UNLIMITED_SHARES": 12563647,
+      "HOLD_NUM_RATIO": 2.42,
+      "LIMITED_SHARES_RATIO": 81.05,
+      "UNLIMITED_SHARES_RATIO": 16.53
+    }
+  ],
+  "sdgd": [
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
+      "END_DATE": "2026-07-28 00:00:00",
+      "HOLDER_RANK": 1,
+      "HOLDER_NAME": "泰安铭泉投资集团有限公司",
+      "SHARES_TYPE": "限售流通A股",
+      "HOLD_NUM": 32575560,
+      "HOLD_NUM_RATIO": 42.8626,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
+      "END_DATE": "2026-07-28 00:00:00",
+      "HOLDER_RANK": 2,
+      "HOLDER_NAME": "马学文",
+      "SHARES_TYPE": "限售流通A股",
+      "HOLD_NUM": 6000000,
+      "HOLD_NUM_RATIO": 7.8947,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
+      "END_DATE": "2026-07-28 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "丁方军",
+      "SHARES_TYPE": "限售流通A股",
+      "HOLD_NUM": 5293860,
+      "HOLD_NUM_RATIO": 6.9656,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
+      "END_DATE": "2026-07-28 00:00:00",
+      "HOLDER_RANK": 4,
+      "HOLDER_NAME": "青岛鑫宸科创实业有限公司",
+      "SHARES_TYPE": "限售流通A股",
+      "HOLD_NUM": 4200000,
+      "HOLD_NUM_RATIO": 5.5263,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
+      "END_DATE": "2026-07-28 00:00:00",
+      "HOLDER_RANK": 5,
+      "HOLDER_NAME": "马克",
+      "SHARES_TYPE": "限售流通A股",
+      "HOLD_NUM": 3600000,
+      "HOLD_NUM_RATIO": 4.7368,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
+      "END_DATE": "2026-07-28 00:00:00",
+      "HOLDER_RANK": 6,
+      "HOLDER_NAME": "泰安农君股权投资合伙企业(有限合伙)",
+      "SHARES_TYPE": "限售流通A股",
+      "HOLD_NUM": 3483600,
+      "HOLD_NUM_RATIO": 4.5837,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
+      "END_DATE": "2026-07-28 00:00:00",
+      "HOLDER_RANK": 7,
+      "HOLDER_NAME": "泰山酒业集团股份有限公司",
+      "SHARES_TYPE": "限售流通A股",
+      "HOLD_NUM": 2400000,
+      "HOLD_NUM_RATIO": 3.1579,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
+      "END_DATE": "2026-07-28 00:00:00",
+      "HOLDER_RANK": 8,
+      "HOLDER_NAME": "马玉增",
+      "SHARES_TYPE": "限售流通A股",
+      "HOLD_NUM": 1846980,
+      "HOLD_NUM_RATIO": 2.4302,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
+      "END_DATE": "2026-07-28 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "国金证券资管-华泰证券-国金资管农大科技员工参与北交所战略配售集合资产管理计划",
+      "SHARES_TYPE": "限售流通A股",
+      "HOLD_NUM": 600000,
+      "HOLD_NUM_RATIO": 0.7895,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
+      "END_DATE": "2026-07-28 00:00:00",
+      "HOLDER_RANK": 9,
+      "HOLDER_NAME": "上海锦岳私募基金管理有限公司-青岛红创和盛私募股权投资基金合伙企业(有限合伙)",
+      "SHARES_TYPE": "限售流通A股",
+      "HOLD_NUM": 600000,
+      "HOLD_NUM_RATIO": 0.7895,
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    }
+  ],
+  "jgcc": [
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "00",
+      "TOTAL_ORG_NUM": 11,
+      "TOTAL_FREE_SHARES": 861467,
+      "TOTAL_SHARES_RATIO": 5.98240971,
+      "ALL_SHARES_RATIO": 1.13350923
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "01",
+      "TOTAL_ORG_NUM": 7,
+      "TOTAL_FREE_SHARES": 30460,
+      "TOTAL_SHARES_RATIO": 0.21152776,
+      "ALL_SHARES_RATIO": 0.04007897
+    },
+    {
+      "SECUCODE": "920159.BJ",
+      "SECURITY_CODE": "920159",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "ORG_TYPE": "07",
+      "TOTAL_ORG_NUM": 4,
+      "TOTAL_FREE_SHARES": 831007,
+      "TOTAL_SHARES_RATIO": 5.77088195,
+      "ALL_SHARES_RATIO": 1.09343026
+    }
+  ],
+  "jjcg": [
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "920159.BJ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "005437",
+      "HOLDER_NAME": "易方达易百智能量化策略混合A",
+      "TOTAL_SHARES": 28660,
+      "HOLD_VALUE": 791016,
+      "TOTALSHARES_RATIO": 0.03771053,
+      "FREESHARES_RATIO": 0.19902778,
+      "FREE_MARKET_CAP": 791016,
+      "FREE_SHARES": 28660,
+      "SECURITY_CODE": "920159",
+      "FUND_CODE": "005437",
+      "FUND_DERIVECODE": "005437.OF",
+      "NETVALUE_RATIO": 0.09
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "920159.BJ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "006780",
+      "HOLDER_NAME": "广发稳健策略混合A",
+      "TOTAL_SHARES": 300,
+      "HOLD_VALUE": 8280,
+      "TOTALSHARES_RATIO": 0.00039474,
+      "FREESHARES_RATIO": 0.00208333,
+      "FREE_MARKET_CAP": 8280,
+      "FREE_SHARES": 300,
+      "SECURITY_CODE": "920159",
+      "FUND_CODE": "006780",
+      "FUND_DERIVECODE": "006780.OF",
+      "NETVALUE_RATIO": 0
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "920159.BJ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "011425",
+      "HOLDER_NAME": "广发优势成长股票A",
+      "TOTAL_SHARES": 300,
+      "HOLD_VALUE": 8280,
+      "TOTALSHARES_RATIO": 0.00039474,
+      "FREESHARES_RATIO": 0.00208333,
+      "FREE_MARKET_CAP": 8280,
+      "FREE_SHARES": 300,
+      "SECURITY_CODE": "920159",
+      "FUND_CODE": "011425",
+      "FUND_DERIVECODE": "011425.OF",
+      "NETVALUE_RATIO": 0
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "920159.BJ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "014317",
+      "HOLDER_NAME": "广发价值领航一年持有混合A",
+      "TOTAL_SHARES": 300,
+      "HOLD_VALUE": 8280,
+      "TOTALSHARES_RATIO": 0.00039474,
+      "FREESHARES_RATIO": 0.00208333,
+      "FREE_MARKET_CAP": 8280,
+      "FREE_SHARES": 300,
+      "SECURITY_CODE": "920159",
+      "FUND_CODE": "014317",
+      "FUND_DERIVECODE": "014317.OF",
+      "NETVALUE_RATIO": 0
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "920159.BJ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "023647",
+      "HOLDER_NAME": "广发科技智选股票发起式A",
+      "TOTAL_SHARES": 300,
+      "HOLD_VALUE": 8280,
+      "TOTALSHARES_RATIO": 0.00039474,
+      "FREESHARES_RATIO": 0.00208333,
+      "FREE_MARKET_CAP": 8280,
+      "FREE_SHARES": 300,
+      "SECURITY_CODE": "920159",
+      "FUND_CODE": "023647",
+      "FUND_DERIVECODE": "023647.OF",
+      "NETVALUE_RATIO": 0
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "920159.BJ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "025788",
+      "HOLDER_NAME": "广发质量优选股票A",
+      "TOTAL_SHARES": 300,
+      "HOLD_VALUE": 8280,
+      "TOTALSHARES_RATIO": 0.00039474,
+      "FREESHARES_RATIO": 0.00208333,
+      "FREE_MARKET_CAP": 8280,
+      "FREE_SHARES": 300,
+      "SECURITY_CODE": "920159",
+      "FUND_CODE": "025788",
+      "FUND_DERIVECODE": "025788.OF",
+      "NETVALUE_RATIO": 0
+    },
+    {
+      "ORG_TYPE": "01",
+      "SECUCODE": "920159.BJ",
+      "REPORT_DATE": "2026-06-30 00:00:00",
+      "HOLDER_CODE": "270005",
+      "HOLDER_NAME": "广发聚丰混合A",
+      "TOTAL_SHARES": 300,
+      "HOLD_VALUE": 8280,
+      "TOTALSHARES_RATIO": 0.00039474,
+      "FREESHARES_RATIO": 0.00208333,
+      "FREE_MARKET_CAP": 8280,
+      "FREE_SHARES": 300,
+      "SECURITY_CODE": "920159",
+      "FUND_CODE": "270005",
+      "FUND_DERIVECODE": "270005.OF",
+      "NETVALUE_RATIO": 0
     }
   ]
 }
