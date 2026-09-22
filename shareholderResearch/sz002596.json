@@ -166,6 +166,11 @@
   "sdgd_date": [
     {
       "SECUCODE": "002596.SZ",
+      "END_DATE": "2026-09-18 00:00:00",
+      "IS_REPORTDATE": "0"
+    },
+    {
+      "SECUCODE": "002596.SZ",
       "END_DATE": "2026-09-16 00:00:00",
       "IS_REPORTDATE": "0"
     },
@@ -408,11 +413,6 @@
       "SECUCODE": "002596.SZ",
       "END_DATE": "2019-09-30 00:00:00",
       "IS_REPORTDATE": "1"
-    },
-    {
-      "SECUCODE": "002596.SZ",
-      "END_DATE": "2019-06-30 00:00:00",
-      "IS_REPORTDATE": "1"
     }
   ],
   "sjkzr": [
@@ -420,7 +420,7 @@
       "SECUCODE": "002596.SZ",
       "SECURITY_CODE": "002596",
       "HOLDER_NAME": "张仲芳,张海林,张艺林",
-      "HOLD_RATIO": 22.74
+      "HOLD_RATIO": 18.74
     }
   ],
   "jgcc_date": [
@@ -630,7 +630,7 @@
     {
       "SECUCODE": "002596.SZ",
       "SECURITY_CODE": "002596",
-      "END_DATE": "2026-09-16 00:00:00",
+      "END_DATE": "2026-09-18 00:00:00",
       "HOLDER_RANK": 1,
       "HOLDER_NAME": "张仲芳",
       "SHARES_TYPE": "流通A股",
@@ -642,14 +642,26 @@
     {
       "SECUCODE": "002596.SZ",
       "SECURITY_CODE": "002596",
-      "END_DATE": "2026-09-16 00:00:00",
+      "END_DATE": "2026-09-18 00:00:00",
       "HOLDER_RANK": 2,
       "HOLDER_NAME": "张海林",
       "SHARES_TYPE": "流通A股",
       "HOLD_NUM": 94102400,
       "HOLD_NUM_RATIO": 8.2,
-      "HOLD_NUM_CHANGE": "-29557600",
-      "CHANGE_RATIO": -23.90231279
+      "HOLD_NUM_CHANGE": "不变",
+      "CHANGE_RATIO": null
+    },
+    {
+      "SECUCODE": "002596.SZ",
+      "SECURITY_CODE": "002596",
+      "END_DATE": "2026-09-18 00:00:00",
+      "HOLDER_RANK": 3,
+      "HOLDER_NAME": "杭州翀宋投资合伙企业(有限合伙)",
+      "SHARES_TYPE": "流通A股",
+      "HOLD_NUM": 75453500,
+      "HOLD_NUM_RATIO": 6.58,
+      "HOLD_NUM_CHANGE": "新进",
+      "CHANGE_RATIO": null
     }
   ],
   "jgcc": [
